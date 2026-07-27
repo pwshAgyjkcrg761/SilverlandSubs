@@ -19,6 +19,6 @@ This repository serves as a central hub for standalone subtitle files (`.ass` an
 These subtitle files are fan-created transcriptions and translations intended strictly for personal and educational use. This repository does not contain, host, or distribute any video or audio media files.
 
 ## Usage & Attribution
-These subtitle files are community-created fan translations and transcriptions intended strictly for educational and archival use with legally obtained media. 
+These subtitle files are fan translations and transcriptions intended strictly for educational and archival use with legally obtained media. 
 
 If you modify, re-time, or incorporate these .ass / .srt files into other releases, please retain credit to SilverlandSubs.
