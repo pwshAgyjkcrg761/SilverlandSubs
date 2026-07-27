@@ -24,4 +24,4 @@ These subtitle files are fan translations and transcriptions intended strictly f
 If you modify, re-time, or incorporate these .ass / .srt files into other releases, please retain credit to SilverlandSubs.
 
 ## Credits
-* **Repo Avatar:** [Castle Icon](https://www.svgrepo.com/svg/228025/castle) via SVGRepo (CC0 1.0 Universal).
+* **Repo Avatar:** <a href="https://www.svgrepo.com/svg/228025/castle" target="_blank" rel="noopener noreferrer">Castle Icon</a> via SVGRepo (CC0 1.0 Universal).
