@@ -22,3 +22,6 @@ These subtitle files are fan-created transcriptions and translations intended st
 These subtitle files are fan translations and transcriptions intended strictly for educational and archival use with legally obtained media. 
 
 If you modify, re-time, or incorporate these .ass / .srt files into other releases, please retain credit to SilverlandSubs.
+
+## Credits
+* **Repo Avatar:** [Castle Icon](https://www.svgrepo.com/svg/228025/castle) via SVGRepo (CC0 1.0 Universal).
