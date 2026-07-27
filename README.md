@@ -1,6 +1,6 @@
 # SilverlandSubs
 
-A community archive of fan-created subtitle files, translations, and transcriptions for classic and historical anime.
+An archive of fan-created subtitle files, translations, and transcriptions for anime.
 
 ## About
 This repository serves as a central hub for standalone subtitle files (`.ass` and `.srt`). All files are provided for personal archival, educational, and subtitle restoration purposes to be paired with legally obtained media.
