@@ -436,7 +436,7 @@ Go on, open it!
 
 110
 00:11:13,769 --> 00:11:17,333
-Thanks for your trouble, you blind fools of the castle!
+"Thanks for your trouble, you blind fools of the castle!"
 
 111
 00:11:17,357 --> 00:11:18,001
@@ -452,7 +452,7 @@ What's so funny?
 
 114
 00:11:23,205 --> 00:11:24,760
-You said 'blind fools,' didn't you?
+You said "blind fools," didn't you?
 
 115
 00:11:24,920 --> 00:11:28,320
