@@ -503,7 +503,7 @@ I'm so happy! I'm overjoyed!
 
 126
 00:11:31,060 --> 00:11:33,119
-♪   lu lu lu lu lu lu ♪
+♪ Lu lu lu lu lu lu ♪
 -
 
 127
@@ -538,7 +538,7 @@ I'm so happy! I'm overjoyed!
 
 133
 00:11:58,413 --> 00:12:01,633
-♪   lu lu lu lu lu lu lu lu lu ♪
+♪ Lu lu lu lu lu lu lu lu lu ♪
 -
 
 134
@@ -568,7 +568,7 @@ Great joy!
 
 139
 00:12:27,966 --> 00:12:29,574
-♪   la la la la la la la ♪
+♪ La la la la la la la ♪
 -
 
 140
@@ -588,7 +588,7 @@ A delicious feast!
 
 143
 00:12:39,500 --> 00:12:40,996
-♪   la la lan la la la la ♪
+♪ La la lan la la la la ♪
 -
 
 144
@@ -608,7 +608,7 @@ Decorate, decorate for the grand festival!
 
 147
 00:12:47,525 --> 00:12:49,406
-♪   la la lan lan lu lu lu ♪
+♪ La la lan lan lu lu lu ♪
 -
 
 148
@@ -618,7 +618,7 @@ Decorate, decorate!
 
 149
 00:12:51,486 --> 00:12:52,956
-♪   la la la la la la la ♪
+♪ La la la la la la la ♪
 -
 
 150
@@ -628,7 +628,7 @@ The bass goes puff-puff!
 
 151
 00:12:55,467 --> 00:12:57,213
-♪ fu fu fu fu fu fu ♪
+♪ Fu fu fu fu fu fu ♪
 puff puff puff puff puff puff!
 
 152
@@ -638,17 +638,17 @@ The lover goes puff-puff!
 
 153
 00:13:01,520 --> 00:13:03,520
-♪ la la la la la la la ♪
+♪ La la la la la la la ♪
 -
 
 154
 00:13:03,544 --> 00:13:06,117
-♪ la la la la la la ♪
+♪ La la la la la la ♪
 -
 
 155
 00:13:06,146 --> 00:13:08,097
-♪ la la la lo ♪
+♪ La la la lo ♪
 -
 
 156
@@ -668,7 +668,7 @@ Welcome, guests! Such great joy!
 
 159
 00:13:15,766 --> 00:13:17,556
-♪   lu lu lu lu lu lu ♪
+♪ Lu lu lu lu lu lu ♪
 -
 
 160
