@@ -54,7 +54,6 @@ All we know is...
 00:03:49,859 --> 00:03:53,279
 He's remarkably agile and terrifyingly strong.
 
-
 15
 00:03:55,290 --> 00:03:57,793
 Jiruba is so cool! I really admire him!
@@ -73,7 +72,7 @@ Word is that wretched Jiruba showed up in the neighboring kingdom a month ago an
 
 19
 00:04:05,570 --> 00:04:07,196
-So that's how their crown got stolen? 
+So that's how their crown got stolen?
 
 20
 00:04:07,220 --> 00:04:08,252
@@ -233,7 +232,7 @@ Still...
 
 59
 00:07:53,265 --> 00:07:56,235
-how long will it take to reclaim the crown? 
+how long will it take to reclaim the crown?
 
 60
 00:07:56,259 --> 00:07:59,326
@@ -321,7 +320,7 @@ For a noble prince to do circus tricks...
 
 81
 00:08:57,549 --> 00:09:00,620
-Well, Dr. Uranai, do you have another way to fly?
+Well, Dr. Uranari, do you have another way to fly?
 
 82
 00:09:00,870 --> 00:09:06,006
@@ -349,7 +348,7 @@ Word is this kid Trott is going to ride an kite, too.
 
 88
 00:09:19,910 --> 00:09:24,833
-Dr. Uranai, find out what young Trott was doing when the crown was stolen.
+Dr. Uranari, find out what young Trott was doing when the crown was stolen.
 
 89
 00:09:26,111 --> 00:09:27,260
@@ -1109,7 +1108,7 @@ So there!
 
 278
 00:22:11,519 --> 00:22:13,046
-Dr. Uranai's great invention!
+Dr. Uranari's great invention!
 
 279
 00:22:13,279 --> 00:22:17,546

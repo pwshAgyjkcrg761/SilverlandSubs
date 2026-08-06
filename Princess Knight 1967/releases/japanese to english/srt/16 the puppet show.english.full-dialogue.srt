@@ -404,7 +404,7 @@ Who threw that in here?!
 
 102
 00:09:25,250 --> 00:09:28,440
-Uh-oh, it hit Dr. Uranai's room.
+Uh-oh, it hit Dr. Uranari's room.
 
 103
 00:09:28,770 --> 00:09:31,900
@@ -1004,7 +1004,7 @@ Please, just act normal.
 
 251
 00:17:08,482 --> 00:17:08,915
-But... 
+But...
 
 252
 00:17:09,393 --> 00:17:11,640
@@ -1349,7 +1349,6 @@ I... I've never been so happy in my whole life!
 337
 00:22:32,079 --> 00:22:34,391
 You can't do anything bad anymore, okay?
-
 
 338
 00:22:34,415 --> 00:22:37,800
