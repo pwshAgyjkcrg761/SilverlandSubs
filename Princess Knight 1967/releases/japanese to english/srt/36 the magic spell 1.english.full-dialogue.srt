@@ -1,963 +1,1223 @@
-﻿1
+1
 00:01:56,396 --> 00:01:58,396
 
 
 2
-00:01:58,420 --> 00:01:59,420
-[[MUSIC]]
-
-3
-00:02:08,804 --> 00:02:12,780
+00:02:08,804 --> 00:02:12,893
 Hey, where's the roasted lizard?! Hurry up with the bat eye soup!
 
-4
+3
 00:02:14,280 --> 00:02:16,380
 What's wrong, Hecate? Aren't you eating?
 
-5
+4
 00:02:16,715 --> 00:02:18,140
 No, I've had enough.
 
+5
+00:02:18,600 --> 00:02:20,011
+No, no, that won't
+
 6
-00:02:18,600 --> 00:02:24,280
-No, no, that won't do! You'll never become a fine witch like that. Hey, hurry it up!
+00:02:20,035 --> 00:02:22,938
+You'll never become a fine witch like that.
 
 7
-00:02:26,430 --> 00:02:28,720
-Bat eye soup.
+00:02:22,962 --> 00:02:24,413
+Hey, hurry it up!
 
 8
-00:02:29,014 --> 00:02:31,720
-Lizard head flambé.
+00:02:26,430 --> 00:02:28,859
+Bat eye soup.
 
 9
-00:02:32,480 --> 00:02:36,520
-Papa had today's menu specially prepared with devilish nutrition in mind!
+00:02:29,008 --> 00:02:31,499
+Lizard head flambé.
 
 10
-00:02:36,765 --> 00:02:37,980
-Here you go, sir!
+00:02:32,480 --> 00:02:34,717
+Papa had today's menu specially prepared with
 
 11
-00:02:39,080 --> 00:02:47,380
-Here you go. Come on, Heke, eat up. Whole roasted lizard builds tenacity, and bat eye soup fosters cunning.
+00:02:34,742 --> 00:02:36,520
+demon nutrition in mind!
 
 12
+00:02:36,765 --> 00:02:38,153
+Here you go, sir!
+
+13
+00:02:39,080 --> 00:02:40,451
+Here you go.
+
+14
+00:02:40,475 --> 00:02:43,811
+Come on, Hecate, eat up. Whole roasted lizard builds tenacity,
+
+15
+00:02:43,835 --> 00:02:47,380
+and bat eye soup fosters cunning.
+
+16
 00:02:54,110 --> 00:02:56,000
 The fire went out!
 
-13
-00:03:00,760 --> 00:03:03,980
+17
+00:03:02,833 --> 00:03:03,980
 What could that be?
 
-14
+18
 00:03:05,165 --> 00:03:07,100
 It's Mama! Mama's back!
 
-15
-00:03:07,600 --> 00:03:11,120
+19
+00:03:07,600 --> 00:03:11,326
 Mama? Did you say Mama? Mama's home?
 
-16
+20
 00:03:18,680 --> 00:03:23,660
 Home at last after a year. Hecate must surely be a fine witch by now.
 
-17
+21
 00:03:23,984 --> 00:03:26,000
-Zborasha!
+Zubarasha!
 
-18
-00:03:40,080 --> 00:03:41,920
+22
+00:03:40,080 --> 00:03:41,999
 Ah, I'm home!
 
-19
-00:03:42,079 --> 00:03:43,780
+23
+00:03:42,079 --> 00:03:44,140
 Welcome back, Mama.
 
-20
-00:03:44,760 --> 00:03:45,480
-Oh!
-
-21
+24
 00:03:45,680 --> 00:03:47,380
 Mama!
 
-22
+25
 00:03:47,700 --> 00:03:50,100
-Hekey, how have you been?
+Hecate, how have you been?
 
-23
-00:03:50,344 --> 00:03:55,300
-I was so worried about you, I thought of nothing else during the entire conference.
+26
+00:03:50,344 --> 00:03:51,746
+I was so worried about you,
 
-24
+27
+00:03:51,771 --> 00:03:55,300
+I thought of nothing else during the entire conference.
+
+28
 00:03:55,700 --> 00:04:00,360
 And to think that witches' council lasted a whole year. It felt so long.
 
-25
-00:04:00,990 --> 00:04:03,840
+29
+00:04:00,990 --> 00:04:03,993
 So, how are your witch studies coming along?
 
-26
-00:04:04,630 --> 00:04:10,160
-Oh right, did you get that boy's heart put in you yet—the one from Princess Sapphire your father wrote about?
-
-27
-00:04:10,750 --> 00:04:18,941
-Once you have a boy's heart, you'll be a magnificent grand witch. Now, show me some proper grand magic! Don't be shy. Come on, come on, come on. / Mama, Mama...
-
-28
-00:04:19,300 --> 00:04:19,700
-What is it?
-
-29
-00:04:19,960 --> 00:04:22,060
-Well, um... you see... uh...
-
 30
-00:04:22,469 --> 00:04:25,620
-What are you mumbling about? Speak up!
+00:04:04,630 --> 00:04:06,993
+Oh right, did you get that boy's heart put in you yet—
 
 31
-00:04:25,845 --> 00:04:28,800
-Uh, Hecate is, well... She's still, um... still, you know...
+00:04:07,017 --> 00:04:10,160
+the one from Princess Sapphire your father wrote about?
 
 32
-00:04:29,120 --> 00:04:32,680
-Not yet? No way... You're Hecate.
+00:04:10,736 --> 00:04:13,539
+Once you have a boy's heart, you'll be a magnificent grand witch.
 
 33
-00:04:33,180 --> 00:04:37,800
-Don't tell me you still haven't become a grand witch. Well, Hecate?
+00:04:13,563 --> 00:04:16,359
+Now, show me some proper grand magic!
 
 34
-00:04:40,060 --> 00:04:48,060
-Forgive me, Mama! Forgive me! I haven't taken back Sapphire's boy heart yet. You're just a brainless, spineless, pumpkin-headed coward anyway!
+00:04:16,383 --> 00:04:17,806
+Don't be shy. Come on, come on, come on.
 
 35
-00:04:49,960 --> 00:04:57,960
-What on earth is wrong with you two? What have you been doing all year? I've done nothing but brag about Hecate to the other witches!
+00:04:17,830 --> 00:04:18,927
+Mama, Mama...
 
 36
+00:04:19,300 --> 00:04:19,813
+What is it?
+
+37
+00:04:19,960 --> 00:04:22,373
+Well, um... you see... uh...
+
+38
+00:04:22,469 --> 00:04:25,780
+What are you mumbling about? Speak up!
+
+39
+00:04:25,845 --> 00:04:29,053
+Uh, Hecate is, well... She's still, um... still, you know... not yet...
+
+40
+00:04:29,120 --> 00:04:31,606
+Not yet? No way...
+
+41
+00:04:31,983 --> 00:04:32,826
+Hecate...
+
+42
+00:04:33,180 --> 00:04:37,866
+don't tell me you still haven't become a grand witch. Well, Hecate?
+
+43
+00:04:38,746 --> 00:04:41,006
+Forgive me, Mama! Forgive me!
+
+44
+00:04:41,030 --> 00:04:43,353
+I haven't taken back Sapphire's boy heart yet.
+
+45
+00:04:43,377 --> 00:04:48,193
+You're just a brainless, spineless, pumpkin-headed coward anyway!
+
+46
+00:04:48,500 --> 00:04:53,293
+What on earth is wrong with you two? What have you been doing all year?
+
+47
+00:04:53,318 --> 00:04:57,999
+I've done nothing but brag about Hecate to the other witches!
+
+48
 00:04:58,310 --> 00:04:59,640
 And yet... And yet!
 
-37
-00:05:01,220 --> 00:05:02,220
+49
+00:05:00,900 --> 00:05:02,219
 Very well!
 
-38
+50
 00:05:03,140 --> 00:05:04,620
-I'll do it! Hekee!
+I'll do it! Hecate!
 
-39
+51
 00:05:05,265 --> 00:05:08,000
 Unlike your father, I keep my word. I'm starting right now.
 
-40
+52
 00:05:08,180 --> 00:05:10,220
 I'm going to turn you into a proper grand witch!
 
-41
+53
 00:05:11,890 --> 00:05:15,560
 That girl Sapphire who has a boy's heart... She's still at the castle, right?
 
-42
-00:05:15,800 --> 00:05:17,720
+54
+00:05:15,660 --> 00:05:17,720
 I think so, Mama. I'll help too.
 
-43
-00:05:17,925 --> 00:05:19,200
+55
+00:05:17,925 --> 00:05:19,299
 No, thank you!
 
-44
-00:05:25,830 --> 00:05:28,280
+56
+00:05:25,830 --> 00:05:27,539
 What lovely weather...
 
-45
-00:05:31,220 --> 00:05:32,220
-Huh?
-
-46
+57
 00:05:33,680 --> 00:05:34,780
 Forget-me-nots!
 
-47
+58
 00:05:36,420 --> 00:05:39,120
 What's the flower language for forget-me-nots again?
 
-48
+59
 00:05:40,040 --> 00:05:43,280
-Let's see, let's see... Oh, right! "Secrets"!
+<i>Let's see, let's see...</i> Oh, right! "Secrets"!
 
-49
-00:06:04,420 --> 00:06:12,420
-It's a secret! Prince Franz hasn't noticed. Franz told me, "I love you, flaxen-haired girl." Secret! Secret!
+60
+00:06:02,993 --> 00:06:05,587
+It's a secret! Prince Franz hasn't noticed.
 
-50
-00:06:16,030 --> 00:06:24,581
-Mr. Bear, do you know the language of forget-me-nots? It means "secret." I have a secret, too. A wonderful secret nobody knows... That I'm a princess...
+61
+00:06:05,611 --> 00:06:10,547
+Franz told me, "I love you, flaxen-haired girl."
 
-51
-00:06:27,050 --> 00:06:32,280
-Who's there? Sneaking this deep into the castle... This flower's scent...
+62
+00:06:11,191 --> 00:06:12,760
+Secret! Secret!
 
-52
-00:06:33,625 --> 00:06:34,625
+63
+00:06:15,049 --> 00:06:17,934
+Mr. Bear, do you know the language of forget-me-nots?
+
+64
+00:06:17,958 --> 00:06:21,094
+ It means "secret." I have a secret, too.
+
+65
+00:06:21,118 --> 00:06:23,347
+A wonderful secret nobody knows... That I'm a princess...
+
+66
+00:06:23,371 --> 00:06:25,371
+Princess...
+
+67
+00:06:27,083 --> 00:06:29,685
+Who's there? Sneaking this deep into the castle...
+
+68
+00:06:30,516 --> 00:06:32,280
+This flower's scent...
+
+69
+00:06:33,118 --> 00:06:34,625
 Who is it? Who's there?
 
-53
-00:06:43,160 --> 00:06:48,920
-Anyone who smells this flower turns into a doll—a doll that obeys whatever it's told.
+70
+00:06:43,160 --> 00:06:46,338
+Anyone who smells this flower turns into a doll—
 
-54
-00:06:49,670 --> 00:06:55,900
-Now, stand up, doll. Go to the Devil's Cave. Go on, off you go.
+71
+00:06:46,362 --> 00:06:49,086
+a doll that obeys whatever it's told.
 
-55
+72
+00:06:49,670 --> 00:06:52,165
+Now, stand up, doll.
+
+73
+00:06:52,862 --> 00:06:55,900
+Go to the Demon's Cave. Go on, off you go.
+
+74
 00:06:58,200 --> 00:07:01,140
 Walk there on your own. To Mephisto's cave.
 
-56
+75
 00:07:04,310 --> 00:07:06,820
 Carrying you would be easy enough.
 
-57
-00:07:07,520 --> 00:07:13,480
-But as one revered by my proud witch sisters as Madam Hell, I do no such thing.
+76
+00:07:07,419 --> 00:07:10,278
+But as one revered by my proud witch sisters
 
-58
+77
+00:07:10,302 --> 00:07:13,480
+as Madam Hell, I do no such thing.
+
+78
 00:07:14,125 --> 00:07:17,640
 Go on your own. That is Madam Hell's way.
 
-59
+79
 00:07:17,945 --> 00:07:19,920
 Come on now, cheer up, Hecate.
 
-60
+80
 00:07:20,375 --> 00:07:23,440
 Don't start saying you don't want to become a grand witch again.
 
-61
+81
 00:07:23,805 --> 00:07:25,720
 That would make things very difficult for Mama.
 
-62
-00:07:26,235 --> 00:07:32,820
-Now go study your magic like a proper witch until Mama gets back. Go on, go on. Oh, dear me...
+82
+00:07:26,235 --> 00:07:28,792
+Now go study your magic like a proper witch
 
-63
+83
+00:07:28,816 --> 00:07:31,225
+until Mama gets back. Go on, go on.
+
+84
+00:07:31,249 --> 00:07:32,820
+Oh, dear me...
+
+85
 00:07:36,860 --> 00:07:39,320
 No, I don't want to! I don't want to become a grand witch!
 
-64
+86
 00:07:40,045 --> 00:07:41,820
 Sapphire will be brought here soon.
 
-65
+87
 00:07:42,115 --> 00:07:46,100
 Oh, I hate this! Poor Sapphire...
 
-66
+88
 00:07:48,695 --> 00:07:52,800
 I know! I'll sneak out of here and save Sapphire.
 
-67
-00:08:59,870 --> 00:09:02,220
-To Devil's Mountain...
+89
+00:08:59,870 --> 00:09:00,899
+To Demon's Mountain...
 
-68
-00:09:11,700 --> 00:09:15,700
-Devil's Mountain, Devil's Mountain... Sapphire, don't go!
+90
+00:09:07,687 --> 00:09:08,847
+It's Sapphire!
 
-69
-00:09:16,699 --> 00:09:19,480
-Whoa, Opal. What's wrong, Sapphire?
+91
+00:09:11,700 --> 00:09:14,306
+Demon's Mountain, Demon's Mountain...
 
-70
-00:09:21,640 --> 00:09:27,020
-Oh... Mom made you smell that potion that turns humans into dolls, didn't she? Poor Sapphire.
+92
+00:09:14,597 --> 00:09:15,700
+Sapphire, don't go!
 
-71
-00:09:27,579 --> 00:09:30,980
-Oh, did she put the potion on this flower?
+93
+00:09:16,699 --> 00:09:18,099
+Whoa, Opal.
 
-72
-00:09:31,875 --> 00:09:34,800
-Oh, guess not. Is this flower special to you?
+94
+00:09:18,123 --> 00:09:19,480
+What's wrong, Sapphire?
 
-73
+95
+00:09:21,386 --> 00:09:22,099
+Oh...
+
+96
+00:09:22,277 --> 00:09:25,186
+Mom made you smell that potion that turns humans into dolls, didn't she?
+
+97
+00:09:25,723 --> 00:09:27,026
+Poor Sapphire.
+
+98
+00:09:29,110 --> 00:09:30,980
+Did she put the potion on this flower?
+
+99
+00:09:32,908 --> 00:09:34,800
+Guess not. Is this flower special to you?
+
+100
 00:09:35,780 --> 00:09:36,780
 Franz...
 
-74
+101
 00:09:37,120 --> 00:09:38,120
 Franz?
 
-75
-00:09:40,200 --> 00:09:45,780
-Prince Franz of Goldland. Your dear Prince Franz.
+102
+00:09:40,200 --> 00:09:42,639
+Prince Franz of Goldland.
 
-76
-00:09:46,385 --> 00:09:51,060
-You love him, don't you? Then I'll take you to him!
+103
+00:09:43,397 --> 00:09:45,393
+My dear Prince Franz.
 
-77
-00:09:52,255 --> 00:09:57,000
-Come on, horsey, follow me. We're going to Goldland. I'm sure the prince can save you.
+104
+00:09:46,385 --> 00:09:48,126
+You love him, don't you?
 
-78
-00:10:02,849 --> 00:10:05,140
-Sapphire isn't here? Nor Peketo?
+105
+00:09:48,717 --> 00:09:51,060
+Then I'll take you to him!
 
-79
+106
+00:09:52,255 --> 00:09:53,646
+Come on, horsey, follow me.
+
+107
+00:09:53,670 --> 00:09:55,033
+We're going to Goldland.
+
+108
+00:09:55,057 --> 00:09:57,000
+I'm sure the prince can save you.
+
+109
+00:10:02,849 --> 00:10:05,186
+Sapphire isn't here? Nor Hecate?
+
+110
 00:10:05,514 --> 00:10:08,000
 What on earth have you been doing?!
 
-80
-00:10:08,220 --> 00:10:13,480
-Now, now, my dear. We can easily find Sapphire's whereabouts using the magic orb.
+111
+00:10:08,173 --> 00:10:09,253
+Now, now, my dear.
 
-81
+112
+00:10:09,278 --> 00:10:13,386
+We can easily find Sapphire's whereabouts using the magic orb.
+
+113
 00:10:16,180 --> 00:10:18,140
 Magic orb, magic orb, tell me...
 
-82
-00:10:19,320 --> 00:10:23,320
-It's Sapphire! She's running around out there. Was my magic broken?
+114
+00:10:19,320 --> 00:10:23,393
+It's Sapphire! She's running around out there. Was my magic spell broken?
 
-83
+115
 00:10:24,019 --> 00:10:25,240
 That's impossible.
 
-84
-00:10:25,380 --> 00:10:33,120
-That's right, dear. If you have time to dawdle, get ready to leave! Where are we going? Oldland, of course!
+116
+00:10:25,380 --> 00:10:26,453
+That's right, dear.
 
-85
-00:10:33,319 --> 00:10:38,600
-Can't you even see which way Fire is running? And you call yourself the Devil King?
+117
+00:10:26,477 --> 00:10:29,279
+If you have time to dawdle, get ready to leave!
 
-86
-00:10:56,760 --> 00:10:57,760
-Huh?
+118
+00:10:29,303 --> 00:10:30,739
+Where are we going?
 
-87
+119
+00:10:30,763 --> 00:10:33,226
+Goldland, of course!
+
+120
+00:10:33,319 --> 00:10:36,279
+Can't you even see which way Sapphire is going?
+
+121
+00:10:36,310 --> 00:10:38,059
+And you call yourself the Demon King?
+
+122
 00:11:00,619 --> 00:11:03,440
 Hey, look! A weird cat came by.
 
-88
-00:11:15,139 --> 00:11:17,400
+123
+00:11:15,006 --> 00:11:17,400
 Hey, the cat's dancing!
 
-89
+124
 00:11:21,049 --> 00:11:23,580
 This cat must have escaped from the circus.
 
-90
-00:11:26,320 --> 00:11:33,020
-Delicious...
-
-91
-00:11:35,460 --> 00:11:36,460
-Get out!
-
-92
+125
 00:11:50,239 --> 00:11:52,800
 Sapphire, look! This is the Prince's room.
 
-93
+126
 00:11:55,320 --> 00:11:56,800
 Wait here, you'll meet him soon.
 
-94
+127
 00:12:00,979 --> 00:12:01,979
 You may come in.
 
-95
+128
 00:12:03,709 --> 00:12:05,060
 Who is it? What do you want?
 
-96
+129
 00:12:07,700 --> 00:12:08,700
 Sapphire!
 
-97
+130
 00:12:10,335 --> 00:12:11,840
 Welcome, Sapphire!
 
-98
-00:12:14,389 --> 00:12:16,200
+131
+00:12:14,389 --> 00:12:16,306
 What a wonderful gentleman!
 
-99
+132
 00:12:17,329 --> 00:12:18,440
 What brings you here today?
 
-100
+133
 00:12:19,500 --> 00:12:20,940
 What is it? Why are you staying quiet?
 
-101
+134
 00:12:21,220 --> 00:12:22,220
 What's wrong, Sapphire?
 
-102
-00:12:22,999 --> 00:12:28,560
-Sapphire, you're acting strange. Are you sick? With such a wonderful gentleman on our side, I'm relieved!
+135
+00:12:22,999 --> 00:12:25,121
+Sapphire, you're acting strange. Are you sick?
 
-103
-00:12:29,979 --> 00:12:34,800
-Sir! An intruder has broken into the castle! An intruder?
+136
+00:12:25,665 --> 00:12:28,560
+With such a wonderful gentleman on our side, I'm relieved!
 
-104
-00:12:36,939 --> 00:12:40,660
-Sapphire is... I see, so that's what happened!
+137
+00:12:29,979 --> 00:12:34,001
+Prince Franz! An intruder has broken into the castle!
 
-105
-00:12:41,600 --> 00:12:47,300
-There's no one suspicious in here! / Please open up! We need to search your room!
+138
+00:12:34,025 --> 00:12:35,053
+An intruder?
 
-106
+139
+00:12:36,939 --> 00:12:37,887
+Sapphire is...
+
+140
+00:12:38,811 --> 00:12:40,660
+I see, so that's what happened!
+
+141
+00:12:41,600 --> 00:12:43,321
+There's no one suspicious in here!
+
+142
+00:12:44,078 --> 00:12:47,300
+Please open up! We need to search your room!
+
+143
 00:12:47,449 --> 00:12:49,220
 Did someone suspicious break in?
 
-107
+144
 00:12:49,390 --> 00:12:50,660
-Ah, Lord Chanel!
+Ah, King Chanel!
 
-108
+145
 00:12:51,250 --> 00:12:54,140
 Alright, go! I'll search Franz's room myself!
 
-109
+146
 00:12:54,320 --> 00:12:55,320
 Yes, sir!
 
-110
+147
 00:12:57,409 --> 00:13:00,780
-Franz! It's me, Chanel the Fifth! Open up!
+Franz! It's me, Chanel V! Open up!
 
-111
+148
 00:13:01,295 --> 00:13:03,300
 Ah! Uncle! I'll open it right now!
 
-112
-00:13:20,599 --> 00:13:21,960
+149
+00:13:20,179 --> 00:13:21,960
 Please, come in, Uncle.
 
-113
+150
 00:13:23,465 --> 00:13:25,800
 If you find anyone suspicious, feel free to throw them out.
 
-114
+151
 00:13:32,409 --> 00:13:33,940
 Franz, who is this young lady?
 
-115
+152
 00:13:35,734 --> 00:13:38,180
 A young lady? Take a closer look.
 
-116
+153
 00:13:38,625 --> 00:13:40,280
 It's a doll my girlfriend gave me.
 
-117
+154
 00:13:40,705 --> 00:13:43,760
 It's too big for the shelf, so I sat it on the chair.
 
-118
+155
 00:13:44,495 --> 00:13:45,560
 It's remarkably well made.
 
-119
-00:13:48,440 --> 00:13:49,440
-Huh!
-
-120
+156
 00:13:51,150 --> 00:13:55,580
-A maiden with honey-colored hair! Ah, so that's it!
+A maiden with flaxen hair! I see, so that was it!
 
-121
-00:14:06,939 --> 00:14:09,780
-Franz! Franz! Franz!
+157
+00:14:06,869 --> 00:14:07,522
+Franz!
 
-122
+158
+00:14:08,373 --> 00:14:09,780
+Franz! Franz!
+
+159
 00:14:10,629 --> 00:14:13,320
 How rude, Franz! Are you planning to marry that doll or something?!
 
-123
+160
 00:14:14,160 --> 00:14:15,160
 Marriage?
 
-124
-00:14:15,569 --> 00:14:19,320
+161
+00:14:15,569 --> 00:14:18,993
 Come on, pull yourself together, Franz. What do you think of this lady?
 
-125
+162
 00:14:22,550 --> 00:14:26,380
 Sure, she's no beauty. But she's incredibly rich!
 
-126
+163
 00:14:26,735 --> 00:14:27,735
 Not this again...
 
-127
-00:14:28,279 --> 00:14:33,660
-Franz, at least promise to marry this young lady. She comes with a five-billion-yen dowry!
+164
+00:14:28,279 --> 00:14:31,719
+Franz, at least promise to marry this young lady.
 
-128
-00:14:34,160 --> 00:14:37,600
+165
+00:14:31,743 --> 00:14:33,860
+She comes with a five-billion-yen dowry!
+
+166
+00:14:34,160 --> 00:14:37,666
 With that much money, Goldland will manage to get by.
 
-129
-00:14:38,040 --> 00:14:38,480
+167
+00:14:37,973 --> 00:14:38,480
 No.
 
-130
-00:14:38,635 --> 00:14:39,635
+168
+00:14:38,635 --> 00:14:39,341
 What?!
 
-131
+169
 00:14:41,769 --> 00:14:45,780
 Marrying for money?! Uncle, I'll choose for myself!
 
-132
-00:14:45,920 --> 00:14:49,800
-Argh! You selfish fool! You might as well just marry this doll!
+170
+00:14:46,091 --> 00:14:49,933
+You selfish fool! You might as well just marry this doll!
 
-133
-00:14:51,000 --> 00:14:52,800
+171
+00:14:51,000 --> 00:14:52,979
 Dammit! Of course I will! For sure!
 
-134
+172
 00:14:53,460 --> 00:14:55,400
 Blast it! Is this girl mocking me?!
 
-135
-00:14:57,019 --> 00:15:02,800
-This time, I'll make him marry this young lady! If he doesn't say yes by Christmas, I'll kick him out of this castle!
+173
+00:14:57,019 --> 00:14:59,045
+This time, I'll make him marry this young lady!
 
-136
-00:15:07,559 --> 00:15:09,360
+174
+00:14:59,289 --> 00:15:02,800
+If he doesn't say yes by Christmas, I'll kick him out of this castle!
+
+175
+00:15:07,559 --> 00:15:09,153
 As if I'd ever listen to what Uncle says!
 
-137
-00:15:11,360 --> 00:15:12,800
+176
+00:15:11,019 --> 00:15:12,800
 Sapphire, I'll never let you go again.
 
-138
+177
 00:15:13,535 --> 00:15:15,640
 For your sake, I'd gladly give my life.
 
-139
+178
 00:15:25,979 --> 00:15:28,080
 Sapphire, what really happened to you?
 
-140
+179
 00:15:28,190 --> 00:15:29,580
 You look just like a real doll.
 
-141
-00:15:34,080 --> 00:15:36,880
-[[NO AUDIO]]
+180
+00:15:54,709 --> 00:15:55,965
+Did you hear that?
 
-142
-00:15:54,709 --> 00:15:57,880
-Did you hear that? Now, smash through the roof!
+181
+00:15:55,989 --> 00:15:58,086
+Now, smash through the roof!
 
-143
+182
 00:15:59,329 --> 00:16:03,720
 Busting through a roof? Any little imp could do that!
 
-144
-00:16:03,915 --> 00:16:05,140
+183
+00:16:03,915 --> 00:16:05,306
 Is there a problem with that?
 
-145
-00:16:06,259 --> 00:16:12,900
-What a pathetic Devil King. Just because she's a girl, he can't make Hecate a great witch no matter how many years pass. But I'm different.
+184
+00:16:06,259 --> 00:16:09,112
+What a pathetic Demon King. Just because she's a girl,
 
-146
+185
+00:16:09,136 --> 00:16:11,724
+he can't make Hecate a great witch no matter how many years pass.
+
+186
+00:16:11,749 --> 00:16:13,013
+But I'm different.
+
+187
 00:16:23,520 --> 00:16:24,520
 How do I look?
 
-147
-00:16:24,960 --> 00:16:31,980
+188
+00:16:24,653 --> 00:16:28,999
 You look beautiful. But what do you plan to do like that?
+
+189
+00:16:29,156 --> 00:16:31,980
 The scheme is set. Leave it to me.
 
-148
-00:16:35,759 --> 00:16:41,460
+190
+00:16:35,759 --> 00:16:38,812
 Welcome. Which kingdom's princess are you?
-I am the witch of the Kingdom of Pel.
 
-149
-00:16:42,620 --> 00:16:48,420
+191
+00:16:39,236 --> 00:16:41,460
+I am the witch of the Kingdom of Fel.
+
+192
+00:16:42,620 --> 00:16:45,879
 And I am her master... er, servant, Stoton.
+
+193
+00:16:45,903 --> 00:16:48,346
 And what brings you to Goldland?
 
-150
-00:16:48,421 --> 00:16:49,840
+194
+00:16:48,371 --> 00:16:49,840
 Well, you see...
 
-151
+195
 00:16:51,169 --> 00:16:52,960
 Stoton, explain it to him.
 
-152
-00:16:53,820 --> 00:17:00,240
-At the recent martial arts tournament, my lady took one look at Prince Franz here and fell head over heels.
+196
+00:16:53,813 --> 00:16:58,678
+At the recent martial arts tournament, my lady took one look at Prince Franz
 
-153
-00:17:01,789 --> 00:17:06,599
-Oh? First, as a token of our friendship, please accept this gift.
+197
+00:16:58,703 --> 00:17:00,233
+here and fell head over heels.
 
-154
+198
+00:17:02,543 --> 00:17:06,599
+First, as a token of our friendship, please accept this gift.
+
+199
 00:17:08,739 --> 00:17:11,660
-Why, thank you... though the box seems a bit small.
+Oh dear, it seems the box was a bit too small.
 
-155
-00:17:13,300 --> 00:17:19,460
+200
+00:17:13,299 --> 00:17:16,851
 In our country, we pave our roads with diamonds, after all.
+
+201
+00:17:16,876 --> 00:17:19,460
 W-What? Paving roads with diamonds?!
 
-156
-00:17:20,899 --> 00:17:25,060
-They're just pebbles to us. So you can have as many as you like.
+202
+00:17:20,899 --> 00:17:22,625
+<i>After all, they were just pebbles to begin with.</i>
 
-157
-00:17:26,229 --> 00:17:33,200
-Yes, and if Prince Franz intends to become engaged to Lady Marju, we will gift you ten thousand tons of gold coins.
+203
+00:17:23,096 --> 00:17:25,060
+<i>So you can have as many as you like.</i>
 
-158
-00:17:33,300 --> 00:17:36,220
+204
+00:17:26,229 --> 00:17:29,285
+Well if Prince Franz intends to become engaged to Lady Maju,
+
+205
+00:17:29,310 --> 00:17:33,200
+we will gift you ten thousand tons of gold coins.
+
+206
+00:17:33,225 --> 00:17:34,533
 Ten thousand tons...
 
-159
-00:17:38,059 --> 00:17:46,480
-Ten thousand tons, ten thousand tons, ten thousand tons... Ten thousand tons of gold coins... Lord Channel, so what do you think of this proposal?
+207
+00:17:38,059 --> 00:17:42,632
+Ten thousand tons, ten thousand tons, ten thousand tons... Ten thousand tons of gold coins...
 
-160
-00:17:46,804 --> 00:17:52,580
-Ten thousand tons of gold coins... Lord Channel, how does that sound?
+208
+00:17:42,656 --> 00:17:46,646
+Lord Channel, so what do you think of this proposal?
 
-161
-00:18:01,929 --> 00:18:07,160
-Of course! Is there any better match than this? Franz will be thrilled, I'm sure.
+209
+00:17:46,811 --> 00:17:49,519
+Ten thousand tons of gold coins... Ten thousand tons...
 
-162
-00:18:07,844 --> 00:18:21,000
-Oh, Strotton... Madam Witch, how wonderful. Now then, may we have a ring as a token of betrothal? Of course, I'll have one made right away. Not THAT ring, but something else...
+210
+00:17:49,543 --> 00:17:52,586
+Lord Channel, how does that sound?
 
-163
-00:18:21,869 --> 00:18:28,661
-Anything at all! Prince Franz, a very lovely doll... rice cakes, or a doll...
+211
+00:18:01,929 --> 00:18:04,965
+Of course! Is there any better match than this?
 
-164
-00:18:31,954 --> 00:18:39,840
-A doll for a betrothal? Is that strange? No, no, it's wonderful, absolutely wonderful! I'll go fetch it right away. Please wait a moment...
+212
+00:18:04,989 --> 00:18:07,160
+Franz will be thrilled, I'm sure.
 
-165
-00:18:42,849 --> 00:18:45,900
+213
+00:18:07,844 --> 00:18:10,205
+Oh, Stoton...
+
+214
+00:18:10,229 --> 00:18:14,745
+Madam Witch, how wonderful. Now then, may we have a ring as a token of betrothal?
+
+215
+00:18:14,769 --> 00:18:18,579
+Of course, I'll have one made right away.
+
+216
+00:18:18,603 --> 00:18:21,000
+Not THAT ring, but something else...
+
+217
+00:18:21,869 --> 00:18:23,092
+Anything at all!
+
+218
+00:18:23,269 --> 00:18:27,685
+I hear Prince Franz possesses such a wonderfully charming doll...
+
+219
+00:18:27,709 --> 00:18:29,054
+Doll...?
+
+220
+00:18:31,954 --> 00:18:34,099
+A doll for a betrothal? Is that strange?
+
+221
+00:18:35,003 --> 00:18:37,379
+No, no, it's wonderful, absolutely wonderful!
+
+222
+00:18:37,403 --> 00:18:39,840
+I'll go fetch it right away. Please wait a moment...
+
+223
+00:18:42,849 --> 00:18:45,433
 Well, well, looks like things are going smoothly.
 
-166
-00:18:46,219 --> 00:18:50,240
-Open up! Open it! Franz, open this door!
+224
+00:18:46,219 --> 00:18:47,919
+Open up! Open it!
 
-167
-00:18:50,504 --> 00:18:52,000
+225
+00:18:48,776 --> 00:18:50,240
+Franz, open this door!
+
+226
+00:18:50,504 --> 00:18:52,146
 Hand over the document! Hand it over!
 
-168
+227
 00:18:52,254 --> 00:18:54,540
 No way! No matter what happens, I'm never giving it to you!
 
-169
-00:18:55,180 --> 00:18:56,180
-Ngh!
-
-170
+228
 00:18:58,074 --> 00:18:59,700
 With this hand, I can make it work!
 
-171
+229
 00:19:00,459 --> 00:19:03,860
-Tsuborossho! Akorojissho!
+Zubarasha! Akorojissho!
 
-172
-00:19:12,860 --> 00:19:13,860
+230
+00:19:12,860 --> 00:19:13,506
 What's that?
 
-173
-00:19:15,539 --> 00:19:17,300
-Hyah! I don't care! Break down the door!
+231
+00:19:15,926 --> 00:19:17,300
+I don't care! Break down the door!
 
-174
-00:19:26,269 --> 00:19:28,260
+232
+00:19:26,269 --> 00:19:28,393
 Franz! Franz! Where are you hiding?
 
-175
-00:19:29,760 --> 00:19:30,760
+233
+00:19:29,760 --> 00:19:30,426
 There!
 
-176
+234
 00:19:32,609 --> 00:19:34,800
 Franz is in the courtyard! Search the courtyard!
 
-177
+235
 00:19:36,779 --> 00:19:38,380
 Sapphire! Hurry! Hurry!
 
-178
-00:19:38,880 --> 00:19:39,880
+236
+00:19:38,880 --> 00:19:40,033
 I know! Let's hide over there!
 
-179
-00:19:47,089 --> 00:19:53,040
-This is a chapel. I'm the devil's daughter, so I can't go near it.
+237
+00:19:47,089 --> 00:19:52,306
+This is a chapel. I'm the demon king's daughter, so I can't go near it.
 
-180
-00:19:59,799 --> 00:20:05,960
-Sapphire, I'll never let anyone have you. If anyone comes to capture you, even Chanel V, they'll pay for it.
+238
+00:19:59,799 --> 00:20:01,945
+Sapphire, I'll never let anyone have you.
 
-181
+239
+00:20:01,969 --> 00:20:05,960
+If anyone comes to capture you, even Chanel V, they'll pay for it.
+
+240
 00:20:06,569 --> 00:20:07,569
 Did you find Prince Franz?
 
-182
-00:20:07,680 --> 00:20:08,200
+241
+00:20:07,680 --> 00:20:08,360
 He's not here!
 
-183
-00:20:08,694 --> 00:20:09,700
+242
+00:20:08,694 --> 00:20:09,913
 Alright, search along the way!
 
-184
+243
 00:20:12,799 --> 00:20:15,600
-Lord Marcho! Lord Marcho! Make sure to use a doll for the professor!
+Lady Maju! Lady Maju! For the betrothal... must it be a doll?
 
-185
+244
 00:20:16,319 --> 00:20:20,380
-Lord Marcho isn't here. Huh? The jewel... What's going on here?
+Wait, Lady Maju isn't even here! Huh? The jewels...? What is going on here?
 
-186
+245
 00:20:29,629 --> 00:20:31,440
 Things aren't going well at all.
 
-187
-00:20:31,834 --> 00:20:36,800
-We still have another way. Look at this. It's a potion that turns living things to stone for half a day.
+246
+00:20:31,834 --> 00:20:33,833
+We still have another way. Look at this.
 
-188
+247
+00:20:33,857 --> 00:20:36,800
+ It's a potion that turns living things to stone for half a day.
+
+248
 00:20:37,589 --> 00:20:40,800
 That river flows into the castle and provides their drinking water.
 
-189
-00:20:46,020 --> 00:20:47,160
+249
+00:20:45,653 --> 00:20:47,160
 Just watch.
 
-190
+250
 00:20:55,569 --> 00:20:56,680
 The fish turned to stone!
 
-191
+251
 00:20:57,529 --> 00:21:00,880
 Flow on, river, and turn everything into stone!
 
-192
-00:21:16,440 --> 00:21:17,580
-[(NO AUDIO)]
+252
+00:21:33,059 --> 00:21:37,841
+I have no idea what's going on. The witch is gone, jewels turn to stone...
 
-193
-00:21:33,059 --> 00:21:40,940
-I have no idea what's going on. The witch is gone, jewels turn to stone... Can we still find Franz?
+253
+00:21:39,046 --> 00:21:40,940
+Can we still find Franz?
 
-194
+254
 00:21:41,209 --> 00:21:44,800
 Hey, what are you dawdling for? What are you doing here?
 
-195
+255
 00:21:47,969 --> 00:21:49,820
 Stone! They've turned to stone!
 
-196
-00:21:51,579 --> 00:21:56,680
-It's a demon! A demon's doing! Is anyone there? Somebody!
+256
+00:21:51,579 --> 00:21:54,027
+It's a demon! A demon's doing!
 
-197
-00:21:57,599 --> 00:21:59,740
+257
+00:21:54,051 --> 00:21:56,746
+Is anyone there? Somebody!
+
+258
+00:21:57,599 --> 00:21:59,893
 Hey, someone! Is anyone there?
 
-198
+259
 00:22:03,439 --> 00:22:05,780
 Someone, please come! Anybody!
 
-199
-00:22:06,189 --> 00:22:08,400
+260
+00:22:06,189 --> 00:22:08,533
 No one's here! There's nobody in this castle!
 
-200
-00:22:08,620 --> 00:22:10,240
+261
+00:22:08,666 --> 00:22:10,986
 Everyone has turned to stone!
 
-201
-00:22:23,909 --> 00:22:25,380
-Ah! It's that man!
+262
+00:22:24,383 --> 00:22:25,380
+It's that man!
 
-202
+263
 00:22:30,049 --> 00:22:32,960
 There must be a demon in this castle!
 
-203
+264
 00:22:37,329 --> 00:22:39,820
 Sapphire, something seems off. Keep an eye out.
 
-204
+265
 00:22:40,720 --> 00:22:43,240
 Franz! No! Don't go out now!
 
-205
-00:22:43,280 --> 00:22:44,760
+266
+00:22:43,280 --> 00:22:45,300
 Oh no! He went out!
 
-206
+267
 00:22:47,549 --> 00:22:49,320
 It's as if there isn't a single living soul here.
 
-207
-00:22:49,520 --> 00:22:50,520
-Huh!
-
-208
+268
 00:22:51,160 --> 00:22:52,160
 It's Uncle!
 
-209
+269
 00:22:53,440 --> 00:22:54,060
 This is strange!
 
-210
-00:22:54,264 --> 00:22:55,264
+270
+00:22:54,264 --> 00:22:55,358
 He's not moving at all!
 
-211
-00:22:55,480 --> 00:22:56,480
+271
+00:22:55,480 --> 00:22:56,013
 Alright!
 
-212
+272
 00:23:00,529 --> 00:23:03,540
-Stone! He's turned to stone! It's the devil's work!
+Stone! He's turned to stone! It's the work of a demon!
 
-213
+273
 00:23:10,760 --> 00:23:11,760
 It's a demon!
 
-214
-00:23:11,869 --> 00:23:13,700
+274
+00:23:11,869 --> 00:23:13,846
 Brat! Hand over Sapphire!
 
-215
+275
 00:23:14,220 --> 00:23:15,220
 What did you say?
 
-216
+276
 00:23:15,999 --> 00:23:19,040
 Hand Sapphire over and do as you're told, or you'll regret it!
 
-217
-00:23:19,214 --> 00:23:21,380
+277
+00:23:19,214 --> 00:23:21,453
 I'll never hand her over, even if you kill me! Here I come!
 
-218
-00:23:24,959 --> 00:23:26,260
-I am a god!
+278
+00:23:21,845 --> 00:23:24,438
+Zubarasha!
 
-219
+279
+00:23:24,959 --> 00:23:26,759
+Sore, kaze yo!
+
+280
 00:23:38,359 --> 00:23:39,820
 Is Sapphire in there?
 
-220
+281
 00:23:40,149 --> 00:23:42,720
 I will never give Sapphire to you!
 
-221
-00:23:43,064 --> 00:23:44,680
-Ah! It's Refide!
+282
+00:23:43,778 --> 00:23:44,866
+It's a chapel!
 
-222
-00:23:45,220 --> 00:23:46,420
+283
+00:23:45,026 --> 00:23:46,420
 How pathetic!
 
-223
-00:23:47,274 --> 00:23:49,820
-Zuborasha!
+284
+00:23:47,274 --> 00:23:49,886
+Zubarasha!
 
-224
-00:23:54,669 --> 00:23:56,800
-Ah! Water!
+285
+00:23:56,103 --> 00:23:56,800
+Water!
 
-225
-00:23:58,639 --> 00:23:59,639
-Ah! Water!
+286
+00:23:59,153 --> 00:23:59,639
+Water!
 
-226
+287
 00:23:59,720 --> 00:24:00,720
 You've come to.
 
-227
+288
 00:24:01,640 --> 00:24:02,260
 Franz!
 
-228
+289
 00:24:02,280 --> 00:24:03,280
 Sapphire!
 
-229
-00:24:17,159 --> 00:24:19,860
+290
+00:24:06,938 --> 00:24:08,158
+Sapphire!
+
+291
+00:24:08,411 --> 00:24:09,858
+Franz!
+
+292
+00:24:10,898 --> 00:24:11,678
+Franz!
+
+293
+00:24:11,771 --> 00:24:12,691
+Sapphire!
+
+294
+00:24:17,159 --> 00:24:20,080
 Hang in there, Sapphire! Franz!
 
-230
+295
 00:24:23,554 --> 00:24:25,800
 This will make them burst out along with the water!
 
-231
-00:24:27,820 --> 00:24:28,880
+296
+00:24:27,820 --> 00:24:29,073
 Sapphire!
 
-232
-00:24:30,940 --> 00:24:31,920
-Sawaian!
+297
+00:24:29,191 --> 00:24:30,649
+Franz!
 
-233
-00:24:31,940 --> 00:24:32,940
+298
+00:24:30,940 --> 00:24:31,820
+Sapphire!
+
+299
+00:24:31,940 --> 00:24:32,606
 Hold on!
 
-234
-00:24:33,474 --> 00:24:35,280
-Franz!
+300
+00:24:33,474 --> 00:24:35,555
+Fran—Franz
 
-235
+301
 00:24:35,580 --> 00:24:36,800
-Sawaian!
+Sapphire!
 
-236
-00:24:37,940 --> 00:24:38,940
+302
+00:24:38,113 --> 00:24:39,113
 Franz!
 
-237
+303
 00:24:39,500 --> 00:24:40,780
-Sawaian!
+Sapphire!
 
-238
+304
 00:24:46,860 --> 00:24:48,920
-Sawaian! Sawaian!
+Sapphire! Sapphire!
 
-239
-00:24:50,609 --> 00:24:54,200
+305
+00:24:50,609 --> 00:24:54,453
 Sapphire! I'll save you... I promise!
 
-240
-00:24:54,224 --> 00:24:56,224
+306
+00:24:55,790 --> 00:24:57,790
 
