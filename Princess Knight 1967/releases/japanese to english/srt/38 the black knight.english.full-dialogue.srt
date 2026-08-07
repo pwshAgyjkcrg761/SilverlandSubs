@@ -99,148 +99,148 @@ Ouch!
 Help me!
 
 26
-00:03:16,430 --> 00:03:21,380
+00:03:16,430 --> 00:03:19,903
 Is something wrong with my pet, Dr. Uranari?
 
 27
-00:03:21,980 --> 00:03:26,740
-You need to keep it in its kennel or it's dangerous! Even if it's just a pet!
+00:03:20,365 --> 00:03:21,380
+Grand Duke Duralumin
 
 28
-00:03:30,755 --> 00:03:39,581
-There, there. What's wrong? Anyone bitten by such a cute creature must be totally out of their mind. But more importantly, I'll show you something even better later. Something better?
+00:03:21,980 --> 00:03:26,513
+If you don't keep it inside its kennel, it's dangerous! Even if it is just a pet!
 
 29
-00:03:39,760 --> 00:03:41,360
-You'll see later.
+00:03:28,590 --> 00:03:31,091
+There, there. What's wrong?
 
 30
+00:03:31,115 --> 00:03:35,458
+Anyone bitten by such a cute creature must be totally out of their mind.
+
+31
+00:03:35,482 --> 00:03:38,630
+But more importantly, I'll show you something even better later.
+
+32
+00:03:38,654 --> 00:03:39,581
+Something better?
+
+33
+00:03:39,606 --> 00:03:41,360
+You'll see later.
+
+34
 00:03:42,540 --> 00:03:43,540
 Like what?
 
-31
+35
 00:03:44,230 --> 00:03:46,240
-Did you just say *I'm* out of my mind?!
+Did you just say <i>I'm</i> out of my mind?!
 
-32
-00:03:58,210 --> 00:04:00,240
+36
+00:03:58,210 --> 00:04:00,396
 Who put a rope across a place like this?
 
-33
+37
 00:04:00,780 --> 00:04:03,540
 This hallway is the shortcut to Sapphire's room.
 
-34
-00:04:12,700 --> 00:04:13,700
-(screech)
-
-35
-00:04:14,005 --> 00:04:15,480
-(monkey chattering)
-
-36
-00:04:16,820 --> 00:04:17,200
-(monkey chattering)
-
-37
-00:04:17,820 --> 00:04:18,640
-(monkey chattering)
-
 38
-00:04:18,641 --> 00:04:18,940
-(monkey chattering)
-
-39
-00:04:19,415 --> 00:04:20,415
-(monkey chattering)
-
-40
-00:04:20,920 --> 00:04:21,920
-(monkey chattering)
-
-41
 00:04:23,260 --> 00:04:25,640
 What a terrifying dog, attacking for no reason.
 
+39
+00:04:32,006 --> 00:04:33,006
+Lord Sapphire!
+
+40
+00:04:33,091 --> 00:04:33,857
+Lord Sapphire!
+
+41
+00:04:36,140 --> 00:04:37,685
+Are you alright, Lord Sapphire?
+
 42
-00:04:26,380 --> 00:04:27,380
-(Monkey screeching)
-
-43
-00:04:27,760 --> 00:04:28,760
-(Monkey screeching)
-
-44
-00:04:31,780 --> 00:04:32,780
-Princess Sapphire!
-
-45
-00:04:33,020 --> 00:04:34,020
-(Monkey screeching)
-
-46
-00:04:36,140 --> 00:04:37,560
-Are you alright, Princess Sapphire?
-
-47
-00:04:37,710 --> 00:04:38,710
+00:04:37,710 --> 00:04:38,155
 Yeah!
 
-48
+43
 00:04:40,040 --> 00:04:41,520
 Why, you... still trying to fight back?
 
-49
+44
 00:04:41,685 --> 00:04:42,685
 Hey, you brute!
 
-50
+45
 00:04:43,200 --> 00:04:44,200
 Wait, everyone!
 
-51
-00:04:45,100 --> 00:04:49,360
-Could this dog be... Hey, what's wrong with my fighting dog?
+46
+00:04:45,100 --> 00:04:46,614
+Could this dog be...
 
-52
-00:04:49,600 --> 00:04:49,980
+47
+00:04:46,638 --> 00:04:49,360
+Hey, what's wrong with my fighting dog?
+
+48
+00:04:49,600 --> 00:04:50,175
 Fighting dog?
 
-53
-00:04:50,300 --> 00:04:53,400
-Well, well. Princess Sapphire, coming out in person?
+49
+00:04:50,300 --> 00:04:53,532
+Well, well. Lord Sapphire, coming out in person?
 
-54
+50
 00:04:53,695 --> 00:04:55,320
 This is what a fine specimen looks like.
 
-55
-00:04:55,525 --> 00:04:57,400
+51
+00:04:55,525 --> 00:04:57,564
 A fine specimen? You meant this fighting dog?
 
-56
-00:04:58,055 --> 00:05:00,615
-Putting him in the room! Hah!
+52
+00:04:58,055 --> 00:04:59,575
+Putting him in the room!
 
-57
-00:05:10,510 --> 00:05:14,720
-Take a good look, Princess Sapphire. See what a fighting dog really is.
+53
+00:04:59,638 --> 00:04:59,959
+Yes.
 
-58
-00:05:30,170 --> 00:05:32,360
+54
+00:05:10,517 --> 00:05:14,727
+Take a good look, Lord Sapphire. See what a fighting dog really is.
+
+55
+00:05:30,170 --> 00:05:32,516
 Isn't it awful to put a dog through something like this?
 
-59
+56
 00:05:33,380 --> 00:05:34,900
 Awful, you say?
 
+57
+00:05:35,390 --> 00:05:40,317
+A fighting dog is raised through relentless torment. Come over here.
+
+58
+00:05:40,827 --> 00:05:42,825
+Look at the dog in this room.
+
+59
+00:05:43,763 --> 00:05:45,920
+Up to here, it's just like the other one.
+
 60
-00:05:35,390 --> 00:05:45,920
-A fighting dog is raised through relentless torment. Come over here. Look at the dog in this room. Up to here, it's just like the other one.
+00:05:49,630 --> 00:05:52,310
+Look, this is that fighting dog's mother.
 
 61
-00:05:49,630 --> 00:05:53,359
-Look, this is that fighting dog's mother.
+00:05:52,349 --> 00:05:53,374
+It's mother.
 
 62
 00:05:55,220 --> 00:05:58,960
@@ -252,7 +252,7 @@ Will it never be able to act like a normal dog again?
 
 64
 00:06:06,780 --> 00:06:11,900
-That's impossible. Swords don't feel parent-child affection like humans do.
+That's impossible. Dogs don't feel parent-child affection like humans do.
 
 65
 00:06:13,525 --> 00:06:16,200
@@ -260,26 +260,26 @@ Poor thing, forgetting your own mother...
 
 66
 00:06:31,610 --> 00:06:35,720
-Dr. Uranari, isn't there a way to turn those swords into normal dogs?
+Dr. Uranari, isn't there any way to turn those vicious hounds back into normal dogs?
 
 67
-00:06:35,820 --> 00:06:40,520
-Hmm... If they've already rung it that much, it's too late.
+00:06:37,179 --> 00:06:40,809
+Since they've already been trained to that extreme, I'm afraid it's too late.
 
 68
-00:06:41,355 --> 00:06:44,300
-Duke Duralumin's growing arrogance is quite a problem.
+00:06:41,355 --> 00:06:44,378
+Grand Duke Duralumin's growing arrogance is quite a problem.
 
 69
-00:06:45,035 --> 00:06:48,660
-Oh, it bloomed! It bloomed before I knew it! Beautiful!
+00:06:45,660 --> 00:06:48,933
+It bloomed! It bloomed before I knew it! Beautiful!
 
 70
 00:06:49,045 --> 00:06:50,600
 I raised this myself.
 
 71
-00:06:51,340 --> 00:06:53,780
+00:06:51,340 --> 00:06:53,975
 Hey, Dr. Uranari, can I go to the border?
 
 72
@@ -287,741 +287,733 @@ Hey, Dr. Uranari, can I go to the border?
 To the border?
 
 73
-00:06:57,390 --> 00:07:00,780
-I promised to give them to France once the tulips bloom.
+00:06:57,390 --> 00:07:00,147
+I promised to give them to Franze once the tulips bloom.
 
 74
-00:07:01,640 --> 00:07:04,460
-[[NO AUDIO]]
-
-75
 00:07:21,870 --> 00:07:22,880
 Whoa! It won't stop!
 
+75
+00:07:25,407 --> 00:07:27,327
+Hey! Stop right there! I said stop!
+
 76
-00:07:24,035 --> 00:07:25,035
-Hmph!
-
-77
-00:07:25,400 --> 00:07:27,320
-Hey! Stop! It won't stop!
-
-78
-00:07:27,860 --> 00:07:28,860
-[[ANIMAL CRY]]
-
-79
 00:07:31,770 --> 00:07:33,360
 How dare you get in my way!
 
-80
+77
 00:07:33,810 --> 00:07:36,500
 Who goes there?! Beyond this point lies Silverland!
 
-81
-00:07:37,260 --> 00:07:38,260
+78
+00:07:37,260 --> 00:07:37,931
 Shut up!
 
-82
+79
 00:07:40,480 --> 00:07:43,420
 So you wanna fight?! Get him, boys!
 
-83
+80
 00:08:02,270 --> 00:08:05,460
-You bunch of cowards! I am Genghis, an apprentice knight of Booroo!
+You bunch of cowards! I am Jingisu, an apprentice knight of Bururu!
 
-84
+81
 00:08:06,005 --> 00:08:08,660
 Doesn't your kingdom have a princess named Sapphire who boasts of her skill?
 
-85
+82
 00:08:09,050 --> 00:08:11,000
-What? Then Princess Sapphire...
+What? Then Lord Sapphire...
+
+83
+00:08:11,150 --> 00:08:13,813
+That's right. Defeat just one more famous knight,
+
+84
+00:08:13,837 --> 00:08:15,840
+and I'll become an official knight.
+
+85
+00:08:16,620 --> 00:08:18,126
+And that knight is Sapphire.
 
 86
-00:08:11,150 --> 00:08:15,840
-That's right. Defeat just one more famous knight, and I'll become an official knight.
+00:08:18,790 --> 00:08:20,499
+Now, lead the way!
 
 87
-00:08:16,620 --> 00:08:20,320
-And that knight is Sapphire. Now, lead the way!
+00:08:46,812 --> 00:08:47,624
+Lord Sapphire!
 
 88
-00:08:44,960 --> 00:08:45,960
-[Walks right in]
-
-89
-00:08:46,219 --> 00:08:47,460
-Ah, Sapphire!
-
-90
-00:08:48,260 --> 00:08:48,980
-Ah!
-
-91
 00:08:48,981 --> 00:08:49,981
 What?!
 
+89
+00:08:52,619 --> 00:08:53,751
+Isn't that the border guard?!
+
+90
+00:08:53,775 --> 00:08:54,780
+What happened?!
+
+91
+00:08:54,781 --> 00:08:56,963
+It's terrible! This man is after Lord Sapphire...
+
 92
-00:08:52,619 --> 00:08:54,780
-Isn't that the border guard?! What happened?!
-
-93
-00:08:54,781 --> 00:08:57,260
-It's terrible! This man is after Sapphire...
-
-94
 00:08:58,499 --> 00:08:59,800
 Are you Sapphire?!
 
-95
-00:09:00,360 --> 00:09:02,400
+93
+00:09:00,360 --> 00:09:02,525
 Who are you? Do you have business with me?
 
-96
-00:09:03,879 --> 00:09:05,340
+94
+00:09:03,879 --> 00:09:05,558
 Now, duel me!
 
-97
+95
 00:09:05,765 --> 00:09:07,480
 You may be a girl, but you're a famous knight!
 
-98
+96
 00:09:07,905 --> 00:09:11,440
 If I defeat you, the King of Bururu will grant me knighthood!
 
-99
+97
 00:09:11,575 --> 00:09:12,575
 Bring it on!
 
-100
-00:09:13,080 --> 00:09:16,260
+98
+00:09:13,080 --> 00:09:16,166
 We've only just met, and you already want to fight...
 
-101
+99
 00:09:16,925 --> 00:09:18,420
 I've got somewhere to go right now!
 
-102
+100
 00:09:19,260 --> 00:09:20,260
 Running away?!
 
-103
+101
 00:09:20,939 --> 00:09:22,740
 Precious tulips for France!
 
-104
-00:09:23,700 --> 00:09:24,700
-He calls himself Jingis or something!
+102
+00:09:23,700 --> 00:09:24,887
+And you call yourself Jingisu?!
 
-105
+103
 00:09:25,345 --> 00:09:27,240
-Alright! Just as I wanted, they're in!
+All right! If a fight is what you want, you've got one!
 
-106
-00:09:27,800 --> 00:09:28,800
+104
+00:09:27,800 --> 00:09:28,971
 Now, draw your sword!
 
-107
+105
 00:09:31,099 --> 00:09:33,080
 Mama! Mama!
 
-108
+106
 00:09:35,019 --> 00:09:37,120
 Is something wrong with that tulip?
 
-109
+107
 00:09:37,565 --> 00:09:39,500
 My mom loved tulips.
 
-110
+108
 00:09:40,175 --> 00:09:42,960
 So whenever I see one, it always reminds me of her.
 
-111
+109
 00:09:44,625 --> 00:09:45,900
 Mama!
 
-112
+110
 00:09:47,370 --> 00:09:48,640
 Mama!
 
-113
+111
 00:09:50,579 --> 00:09:51,980
 Mama!
 
-114
+112
 00:09:54,135 --> 00:09:55,900
 Mama!
 
-115
+113
 00:10:01,999 --> 00:10:03,880
 You don't have a mother, do you?
 
-116
+114
 00:10:04,270 --> 00:10:09,300
 Yeah. After my dad died and our family fell apart, my mom saw me crying...
 
-117
+115
 00:10:10,075 --> 00:10:12,920
 ...said a crybaby wasn't her child, and walked out.
 
-118
+116
 00:10:14,000 --> 00:10:15,620
 I was abandoned like a stray pup.
 
-119
+117
 00:10:16,520 --> 00:10:21,020
 Inukuro? So you're trying to become a knight to rebuild your family's name?
 
-120
+118
 00:10:22,009 --> 00:10:23,060
 Holo Black!
 
-121
+119
 00:10:27,944 --> 00:10:31,000
 Damn it! The Black Knight! He followed us all the way here?!
 
-122
+120
 00:10:32,315 --> 00:10:34,940
 He's been targeting me ever since I was a toddler!
 
-123
+121
 00:10:37,969 --> 00:10:40,960
 I don't care about the Black Knight! Right now, I just need to defeat you!
 
-124
+122
 00:10:43,400 --> 00:10:44,400
 Oh no!
 
-125
+123
 00:10:51,080 --> 00:10:52,080
 (Dog barking)
 
-126
+124
 00:11:01,719 --> 00:11:02,719
 Look out! It barked!
 
-127
+125
 00:11:29,940 --> 00:11:32,000
 [[NO AUDIO]]
 
-128
+126
 00:11:33,940 --> 00:11:35,340
 [[NO AUDIO]]
 
-129
+127
 00:11:56,100 --> 00:12:04,100
 Good night.
 
-130
+128
 00:12:07,340 --> 00:12:08,340
 (Snorting)
 
-131
+129
 00:12:10,809 --> 00:12:13,060
 Whoa! Help meeeee!
 
-132
+130
 00:12:24,639 --> 00:12:26,640
 Somebodyyyyy!
 
-133
+131
 00:12:28,039 --> 00:12:30,320
 Lord Sapphireeee!
 
-134
+132
 00:12:31,319 --> 00:12:33,560
 Lord Sapphireeee!
 
-135
+133
 00:12:36,720 --> 00:12:37,720
 (Loudly)
 
-136
+134
 00:12:38,840 --> 00:12:39,840
 (Woman screaming)
 
-137
+135
 00:12:46,235 --> 00:12:48,020
 Ah, you're safe!
 
-138
+136
 00:12:48,519 --> 00:12:50,500
 Jingis!
 
-139
+137
 00:12:54,439 --> 00:12:56,340
 Jingis!
 
-140
+138
 00:12:58,260 --> 00:12:59,400
 (Ghostly voice)
 
-141
+139
 00:13:04,980 --> 00:13:06,560
 Jingis!
 
-142
+140
 00:13:17,800 --> 00:13:19,360
 There you are!
 
-143
+141
 00:13:20,780 --> 00:13:22,380
 Quick, hold onto this!
 
-144
+142
 00:13:25,049 --> 00:13:26,280
 What?! As if I'd...
 
-145
+143
 00:13:26,479 --> 00:13:29,940
 Like I'd let my opponent save me! Bah!
 
-146
+144
 00:13:30,680 --> 00:13:36,220
 What did you say?! AAAAAAH!
 
-147
+145
 00:13:43,659 --> 00:13:51,080
 Listen, everyone! Forget about dueling Sapphire and hurry back to your own countries! Mark my words...
 
-148
+146
 00:13:51,604 --> 00:13:53,300
 We will definitely settle this once and for all!
 
-149
+147
 00:13:57,680 --> 00:14:01,000
 This rope won't break, so climb on up!
 
-150
+148
 00:14:11,189 --> 00:14:13,740
 Opal, what's wrong? Why did you stop all of a sudden?
 
-151
+149
 00:14:15,140 --> 00:14:16,140
 Huh?
 
-152
+150
 00:14:17,920 --> 00:14:20,520
 This is that Black Knight's glove.
 
-153
+151
 00:14:31,400 --> 00:14:34,400
 Drink some of Mother's tea. You must be cold, right? Let's have hot tea and cake.
 
-154
+152
 00:14:35,689 --> 00:14:37,460
 Thank you, Mother.
 
-155
+153
 00:14:37,900 --> 00:14:38,900
 What happened?
 
-156
+154
 00:14:40,389 --> 00:14:41,720
 Let me see this glove.
 
-157
+155
 00:14:41,930 --> 00:14:43,220
 It's a black glove.
 
-158
+156
 00:14:43,405 --> 00:14:44,440
 Is it big?
 
-159
+157
 00:14:44,800 --> 00:14:46,600
 No, it fits Mother perfectly.
 
-160
+158
 00:14:47,940 --> 00:14:48,940
 A black glove?
 
-161
+159
 00:14:53,340 --> 00:14:54,340
 What's all this commotion?
 
-162
+160
 00:14:58,820 --> 00:15:01,520
 Out of my way! If you won't let me pass, I'll force my way through!
 
-163
+161
 00:15:04,100 --> 00:15:06,440
 Hey, hey, hey! Don't hide behind him!
 
-164
+162
 00:15:16,639 --> 00:15:20,040
 Bring Sapphire out! Where is Sapphire? Sapphire!
 
-165
+163
 00:15:20,730 --> 00:15:21,730
 Wait a moment!
 
-166
+164
 00:15:23,639 --> 00:15:25,920
 Sapphire! Sapphire!
 
-167
+165
 00:15:28,979 --> 00:15:31,580
 Trying to take me on is laughable!
 
-168
+166
 00:15:53,440 --> 00:15:54,840
 (Dog barking)
 
-169
+167
 00:15:57,860 --> 00:15:58,860
 Who's there!
 
-170
+168
 00:16:00,209 --> 00:16:01,209
 Ah! Dogs!
 
-171
+169
 00:16:01,390 --> 00:16:03,260
 (Dog barking)
 
-172
+170
 00:16:05,600 --> 00:16:07,000
 (Dog barking)
 
-173
+171
 00:16:08,089 --> 00:16:09,089
 (Dog barking)
 
-174
+172
 00:16:26,800 --> 00:16:27,900
 (Growling)
 
-175
+173
 00:16:30,019 --> 00:16:31,280
 They're like wild beasts!
 
-176
+174
 00:16:32,340 --> 00:16:34,660
 Alright, you hounds, come at me!
 
-177
+175
 00:16:36,240 --> 00:16:36,600
 (Barking)
 
-178
+176
 00:16:36,601 --> 00:16:37,601
 Who's there!
 
-179
+177
 00:16:40,560 --> 00:16:42,760
 You lot, get back to your rooms!
 
-180
+178
 00:16:45,699 --> 00:16:48,780
 I am Grand Duke Duralumin. What is your name?
 
-181
+179
 00:16:51,929 --> 00:16:59,480
 I am Jingis, a knight-in-training from the Land of Bururu. I've come to challenge Princess Sapphire to a duel. Let me see her. I have a formal challenge signed by the King of Bururu. Look at this.
 
-182
+180
 00:17:00,349 --> 00:17:01,540
 Show it to Sapphire.
 
-183
+181
 00:17:03,639 --> 00:17:11,140
 What a sharp look he has. Faced with a formal challenge signed by the King himself, even Sapphire cannot decline as a knight.
 
-184
+182
 00:17:11,319 --> 00:17:12,780
 Then take me to her already!
 
-185
+183
 00:17:14,300 --> 00:17:16,119
 Don't be in such a rush. Come this way.
 
-186
+184
 00:17:16,319 --> 00:17:18,760
 Fine! If you want to fight that badly, I'll take you on!
 
-187
+185
 00:17:18,839 --> 00:17:20,520
 Ah, please wait, Princess Sapphire.
 
-188
+186
 00:17:21,094 --> 00:17:23,020
 Doctor Uranari, let go of my cloak!
 
-189
+187
 00:17:23,439 --> 00:17:27,000
 Princess Sapphire, do you hold a grudge against that boy?
 
-190
+188
 00:17:27,144 --> 00:17:30,940
 Not really, but... And that boy holds no grudge against you either.
 
-191
+189
 00:17:31,599 --> 00:17:35,660
 It is only this code of knighthood that forces him to defeat a famous knight.
 
-192
+190
 00:17:35,789 --> 00:17:39,640
 But if I run away, I'll become everyone's laughingstock!
 
-193
+191
 00:17:39,929 --> 00:17:41,340
 Please call off this match.
 
-194
+192
 00:17:41,764 --> 00:17:45,880
 Weren't you supposed to be the one who breaks bad rules and creates new ones?
 
-195
+193
 00:18:05,859 --> 00:18:07,460
 Haven't you gone to bed yet?
 
-196
+194
 00:18:07,584 --> 00:18:09,200
 You're sure it'll be done tomorrow?
 
-197
+195
 00:18:10,589 --> 00:18:14,500
 Leave it to me. Get a good rest tonight.
 
-198
+196
 00:18:15,460 --> 00:18:17,380
 You'd better be right!
 
-199
+197
 00:18:23,740 --> 00:18:24,740
 Who's there?!
 
-200
+198
 00:18:25,380 --> 00:18:26,380
 A tulip!
 
-201
+199
 00:18:27,014 --> 00:18:31,420
 Damn it! Whenever I see this flower, I always think of my mother!
 
-202
+200
 00:18:31,519 --> 00:18:34,640
 Jingis! Jingis! It's your mother!
 
-203
+201
 00:18:34,720 --> 00:18:36,860
 Mom! Mom! Where are you?
 
-204
+202
 00:18:37,479 --> 00:18:40,700
 Jingis! Listen to me! Stop fighting!
 
-205
+203
 00:18:42,069 --> 00:18:49,140
 Jingis, you are not a dog. Fighting like a mindless weapon to become a knight won't bring you happiness.
 
-206
+204
 00:18:50,114 --> 00:18:54,520
 Listen to me, Jingis. You weren't born just to fight.
 
-207
+205
 00:18:56,949 --> 00:19:00,960
 It's too late, Mom. I've turned so many into my enemies and fought desperately.
 
-208
+206
 00:19:01,979 --> 00:19:07,120
 Fighting is all I know how to do now. Mom, where are you?
 
-209
+207
 00:19:08,719 --> 00:19:10,080
 What's wrong, Jingis?
 
-210
+208
 00:19:10,460 --> 00:19:11,460
 What the—?!
 
-211
+209
 00:19:15,699 --> 00:19:17,240
 What is the meaning of this, Duke Duralumin?!
 
-212
+210
 00:19:18,820 --> 00:19:24,300
 He's finally back to his senses. You're still not a true weapon.
 
-213
+211
 00:19:27,069 --> 00:19:31,080
 At this rate, you'll never defeat Sapphire and finish her off!
 
-214
+212
 00:19:32,219 --> 00:19:34,980
 I'll do it! I will do it! Just watch me!
 
-215
+213
 00:19:36,349 --> 00:19:41,340
 That's a failure. Looks like there's no choice but to fight after all.
 
-216
+214
 00:19:43,220 --> 00:19:47,000
 Hm? [No audio]
 
-217
+215
 00:19:57,209 --> 00:19:59,860
 Princess Sapphire!
 
-218
+216
 00:19:59,975 --> 00:20:02,540
 Princess Sapphire!
 
-219
+217
 00:20:03,160 --> 00:20:05,640
 Princess Sapphire!
 
-220
+218
 00:20:06,229 --> 00:20:08,700
 Princess Sapphire!
 
-221
+219
 00:20:12,049 --> 00:20:16,040
 What? Sapphire is missing? Where could she have gone, Fortune Teller?
 
-222
+220
 00:20:16,160 --> 00:20:26,460
 No way... She ran away. It seems Silverland's heir is a coward. Duke Duralumin! You go too far! I've had enough of these rumors!
 
-223
+221
 00:20:27,134 --> 00:20:30,340
 If this happens, we won't be able to face other nations.
 
-224
+222
 00:20:31,059 --> 00:20:33,480
 Oh, where on earth could Sapphire have gone?
 
-225
+223
 00:20:33,520 --> 00:20:35,220
 Uncle, actually...
 
-226
+224
 00:20:36,209 --> 00:20:37,920
 Sapphire!
 
-227
+225
 00:20:39,220 --> 00:20:41,140
 Come out, you coward, Sapphire!
 
-228
+226
 00:20:42,000 --> 00:20:44,880
 Where are you hiding?! Are you that scared of me?!
 
-229
+227
 00:20:45,354 --> 00:20:46,900
 Where are you, Sapphire?!
 
-230
+228
 00:20:48,339 --> 00:20:50,420
 You spineless Sapphire! Come out!
 
-231
+229
 00:20:57,140 --> 00:20:59,300
 [Audio]
 
-232
+230
 00:21:04,139 --> 00:21:06,940
 Lord, please understand. I'm not hiding out of fear.
 
-233
+231
 00:21:13,874 --> 00:21:18,620
 Hahaha, there you are, Sapphire! Hiding won't work. My nose is better than a dog's!
 
-234
+232
 00:21:22,229 --> 00:21:23,300
 Genghis, please!
 
-235
+233
 00:21:23,425 --> 00:21:24,860
 Please give up on this foolish fight!
 
-236
+234
 00:21:24,969 --> 00:21:26,340
 First, pick whichever weapon you like!
 
-237
+235
 00:21:26,430 --> 00:21:27,040
 Genghis!
 
-238
+236
 00:21:27,139 --> 00:21:28,580
 Begging for mercy? Did you lose your nerve?
 
-239
+237
 00:21:28,819 --> 00:21:30,100
 All right! I'll use the whip!
 
-240
+238
 00:21:30,340 --> 00:21:32,380
 All right! Let the match begin!
 
-241
+239
 00:21:46,169 --> 00:21:47,380
 Stop it, Jingis!
 
-242
+240
 00:21:47,830 --> 00:21:48,830
 Ah! It's the Black Kishin!
 
-243
+241
 00:21:50,420 --> 00:21:51,420
 Mother!
 
-244
+242
 00:21:53,204 --> 00:21:56,260
 Mama! Mama! Mama!
 
-245
+243
 00:21:57,309 --> 00:22:01,960
 Jingis! Forgive your mother. I saw everything.
 
-246
+244
 00:22:02,660 --> 00:22:08,120
 To rebuild our fallen family, I disguised myself as the Black Kishin to train you.
 
-247
+245
 00:22:08,799 --> 00:22:14,760
 But I realized our clan's rule—that simply defeating the strong is all that matters—was foolish and wrong.
 
-248
+246
 00:22:15,424 --> 00:22:17,640
 Mother was wrong. Please forgive me.
 
-249
+247
 00:22:18,639 --> 00:22:19,640
 Mama!
 
-250
+248
 00:22:25,949 --> 00:22:28,680
 That dog turned into a human.
 
-251
+249
 00:22:36,229 --> 00:22:37,560
 Goodbye, Sapphire.
 
-252
+250
 00:22:38,149 --> 00:22:40,460
 Sapphire, I'll never forget you. Bye!
 
-253
+251
 00:22:40,945 --> 00:22:41,945
 Yeah, me neither!
 
-254
+252
 00:22:42,514 --> 00:22:43,760
 Goodbye!
 
-255
+253
 00:22:44,019 --> 00:22:45,620
 I wish you all the best!
 
-256
+254
 00:23:00,020 --> 00:23:01,420
 [[NO AUDIO]]
 
-257
+255
 00:23:01,444 --> 00:23:03,444
 
