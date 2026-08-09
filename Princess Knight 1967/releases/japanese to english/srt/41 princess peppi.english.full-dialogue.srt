@@ -283,11 +283,11 @@ Though it's entirely up to you.
 My, my, when on earth did those two fall in love?
 
 72
-00:09:10,560 --> 00:09:11,743
+00:09:10,560 --> 00:09:11,633
 I'm astonished.
 
 73
-00:09:11,767 --> 00:09:14,477
+00:09:11,931 --> 00:09:14,477
 To think King Charcoal's only daughter, Princess Teppi,
 
 74
@@ -327,7 +327,7 @@ The person you wrote to every day has proposed marriage to you!
 Is that true, Uncle?!
 
 83
-00:09:41,579 --> 00:09:43,438
+00:09:42,407 --> 00:09:43,438
 Of course!
 
 84
@@ -336,420 +336,504 @@ Why would I object to the person you love?
 
 85
 00:09:49,172 --> 00:09:50,860
-Thank you, Uncle! 
+Thank you, Uncle!
 
 86
 00:09:51,306 --> 00:09:52,538
 Come on, Gor, let's go!
 
 87
-00:10:18,680 --> 00:10:23,200
-Sapphire, I'm sure you're looking at this beautiful moon, too...
+00:10:18,680 --> 00:10:19,399
+Sapphire,
 
 88
+00:10:20,079 --> 00:10:23,403
+I'm sure you're looking at this beautiful moon, too...
+
+89
 00:10:31,509 --> 00:10:32,880
 What a beautiful moon...
 
-89
+90
 00:10:37,019 --> 00:10:40,240
 Aren't you lonely, all by yourself?
 
-90
-00:11:06,969 --> 00:11:09,540
+91
+00:11:06,969 --> 00:11:09,727
 Prince Franz, I'll be able to see you tomorrow, won't I?
 
-91
-00:11:18,459 --> 00:11:20,800
-Lord Sacos has arrived!
-
 92
-00:11:26,889 --> 00:11:30,340
-Hurry it up. The princess should be here by now.
+00:11:18,459 --> 00:11:21,792
+Lord Charcoal has arrived!
 
 93
-00:11:31,699 --> 00:11:36,240
-Please wait just a moment. She is dressing up for her big day, after all.
+00:11:26,889 --> 00:11:27,876
+Hurry it up.
 
 94
-00:11:37,870 --> 00:11:41,640
-Apologies for keeping you waiting. Franz will be here shortly as well.
+00:11:28,032 --> 00:11:30,527
+The princess should be here by now.
 
 95
-00:11:42,520 --> 00:11:48,420
-Franz must be feeling shy. He's loved her for so long, after all.
+00:11:31,699 --> 00:11:32,938
+Please wait just a moment longer.
 
 96
-00:11:51,859 --> 00:11:53,260
-Presenting Prince Franz!
+00:11:33,197 --> 00:11:36,357
+After all, today we are showing you off in your finest attire.
 
 97
+00:11:37,870 --> 00:11:39,923
+Apologies for keeping you waiting.
+
+98
+00:11:39,947 --> 00:11:41,640
+Franz will be here shortly as well.
+
+99
+00:11:42,520 --> 00:11:45,407
+Franz must be feeling shy.
+
+100
+00:11:45,603 --> 00:11:48,420
+He's loved her for so long, after all.
+
+101
+00:11:51,859 --> 00:11:54,017
+Presenting Prince Franz!
+
+102
 00:12:06,200 --> 00:12:07,200
 Sapphire...
 
-98
-00:12:07,560 --> 00:12:08,760
-Sapphire...
+103
+00:12:10,958 --> 00:12:11,557
+You are...
 
-99
-00:12:10,255 --> 00:12:12,440
-Ah, you're...
-
-100
+104
 00:12:14,109 --> 00:12:17,500
 It's Teppi. Franz, you remembered me!
 
-101
+105
 00:12:17,995 --> 00:12:20,560
 I've been thinking of you the whole time, too.
 
-102
-00:12:20,820 --> 00:12:22,620
+106
+00:12:20,820 --> 00:12:22,729
 I love you. I love you so much.
 
-103
-00:12:22,925 --> 00:12:26,840
-More than Papa, more than Mama, more than the castle, more than the moon.
-
-104
-00:12:27,240 --> 00:12:29,860
-So much more, forever and ever!
-
-105
-00:12:30,529 --> 00:12:38,420
-Teppi, you're... you're... / Yes, it's alright, Franz. Everyone understands. You don't have to say a word.
-
-106
-00:12:39,125 --> 00:12:41,120
-Ah, no! That's not it!
-
 107
-00:12:46,009 --> 00:12:47,400
-That's not it, Teppi. Forgive me.
+00:12:22,925 --> 00:12:24,337
+More than Papa, more than Mama,
 
 108
-00:12:48,160 --> 00:12:49,160
-Franz!
+00:12:24,517 --> 00:12:26,965
+more than the castle, more than the moon.
 
 109
-00:12:52,799 --> 00:12:55,040
-Unforgivable! Our nation has been insulted!
+00:12:27,240 --> 00:12:30,008
+So much more, forever and ever!
 
 110
+00:12:30,529 --> 00:12:32,993
+Teppi, you're... you're...
+
+111
+00:12:33,509 --> 00:12:35,251
+Yes, it's alright, Franz.
+
+112
+00:12:35,439 --> 00:12:38,638
+Everyone understands. You don't have to say a word.
+
+113
+00:12:39,617 --> 00:12:41,120
+That's not it! That's not it at all!
+
+114
+00:12:46,009 --> 00:12:47,540
+That's not it, Teppi. Forgive me.
+
+115
+00:12:48,160 --> 00:12:49,261
+Franz!
+
+116
+00:12:52,799 --> 00:12:53,428
+Unforgivable!
+
+117
+00:12:53,734 --> 00:12:55,040
+Our nation has been insulted!
+
+118
 00:12:55,539 --> 00:12:59,860
 For the honor of our kingdom, I hereby declare war on Goldland!
 
-111
-00:13:03,200 --> 00:13:04,200
+119
+00:13:03,356 --> 00:13:04,200
 Papa!
 
-112
+120
 00:13:04,560 --> 00:13:05,560
 This means war!
 
-113
+121
 00:13:05,650 --> 00:13:06,650
 No!
 
-114
+122
 00:13:07,310 --> 00:13:08,480
 No! You can't!
 
-115
+123
+00:13:08,695 --> 00:13:10,296
+I said no! No!
+
+124
+00:13:11,273 --> 00:13:12,234
+Franz!
+
+125
+00:13:12,382 --> 00:13:13,304
+Franz!
+
+126
+00:13:13,343 --> 00:13:14,992
+Franz!
+
+127
 00:13:18,129 --> 00:13:19,160
 Forgive me, Teppi.
 
-116
-00:13:56,440 --> 00:13:57,440
-Huh? What is it?
-
-117
-00:14:15,319 --> 00:14:17,080
+128
+00:14:15,319 --> 00:14:17,876
 Report! Report!
 
-118
-00:14:21,479 --> 00:14:24,080
-Sire! Gold River has fallen to the enemy!
+129
+00:14:21,479 --> 00:14:24,251
+My Lord! Goldland River has fallen into enemy hands!
 
-119
-00:14:26,540 --> 00:14:32,980
-Report! West Gold Castle has fallen to the enemy! Our forces... our forces have been wiped out!
+130
+00:14:26,540 --> 00:14:28,106
+Report!
 
-120
-00:14:34,539 --> 00:14:38,880
-The enemy is moving too fast! Chakourou must have been preparing for this all along!
+131
+00:14:28,138 --> 00:14:30,106
+West Gold Castle has fallen to the enemy!
 
-121
-00:14:39,425 --> 00:14:43,820
-The marriage proposal was a trap! We fell right into their trap!
+132
+00:14:30,130 --> 00:14:32,987
+Our forces... our forces have been wiped out!
 
-122
-00:14:44,800 --> 00:14:53,660
-Father, at this rate, Goldland will be destroyed! Everyone will be killed! We must do something... but surrender is out of the question!
+133
+00:14:34,539 --> 00:14:36,161
+The enemy is moving too fast!
 
-123
-00:14:54,509 --> 00:14:58,080
+134
+00:14:36,450 --> 00:14:38,880
+King Charcoal must have been preparing for this all along!
+
+135
+00:14:39,425 --> 00:14:41,247
+The marriage proposal was a trap!
+
+136
+00:14:41,271 --> 00:14:43,820
+We fell right into their trap!
+
+137
+00:14:44,800 --> 00:14:45,403
+Uncle,
+
+138
+00:14:45,427 --> 00:14:47,762
+at this rate, Goldland will be destroyed!
+
+139
+00:14:48,028 --> 00:14:49,348
+Everyone will be killed!
+
+140
+00:14:49,630 --> 00:14:51,059
+We must do something.
+
+141
+00:14:51,083 --> 00:14:53,769
+But surrender is out of the question!
+
+142
+00:14:54,509 --> 00:14:57,384
 Fight to the end for the honor of Goldland!
 
-124
+143
 00:15:09,325 --> 00:15:10,325
-Goru, Goru!
+Gor, Gor!
 
-125
-00:15:13,149 --> 00:15:16,700
+144
+00:15:13,149 --> 00:15:16,825
 Goru, take this letter to Sapphire. And hurry!
 
-126
-00:15:39,599 --> 00:15:42,220
+145
+00:15:39,599 --> 00:15:42,743
 A messenger from Prince Franz has arrived!
 
-127
-00:15:43,785 --> 00:15:44,785
-Gorun!
+146
+00:15:43,785 --> 00:15:44,613
+Gor!
 
-128
+147
 00:15:46,979 --> 00:15:49,960
 What? Charcoalland has launched an invasion!
 
-129
-00:15:50,860 --> 00:15:52,440
+148
+00:15:50,860 --> 00:15:51,924
 Charcoalland...
 
-130
-00:15:53,220 --> 00:15:53,580
-Gorun!
-
-131
+149
 00:15:53,600 --> 00:15:53,640
 Gorun!
 
-132
-00:15:54,490 --> 00:15:59,620
-I was careless, Sapphire. I even dragged Teppi into this.
+150
+00:15:54,490 --> 00:15:56,317
+I was careless, Sapphire.
 
-133
+151
+00:15:57,021 --> 00:15:59,620
+I even dragged Teppi into this.
+
+152
 00:16:00,539 --> 00:16:03,100
 In the end, this was all my fault.
 
-134
-00:16:04,320 --> 00:16:09,580
-Sapphire, I must head to the northern fort now. Please don't worry.
+153
+00:16:04,320 --> 00:16:07,817
+Sapphire, I must head to the northern fort now.
 
-135
-00:16:10,545 --> 00:16:13,660
-If you come, Silverland will be dragged into the war as well.
+154
+00:16:08,356 --> 00:16:09,580
+Please don't worry.
 
-136
-00:16:16,600 --> 00:16:26,100
-Franz... Poor Franz... I know! Gor! Go on ahead and protect Franz! I'll follow right behind you!
+155
+00:16:10,545 --> 00:16:11,426
+If you come,
 
-137
+156
+00:16:11,450 --> 00:16:13,660
+Silverland will be dragged into the war as well.
+
+157
+00:16:16,600 --> 00:16:18,770
+Franz... Poor Franz...
+
+158
+00:16:20,325 --> 00:16:21,036
+I know!
+
+159
+00:16:21,606 --> 00:16:22,223
+Gor!
+
+160
+00:16:22,247 --> 00:16:24,637
+Go on ahead and protect Franz!
+
+161
+00:16:24,661 --> 00:16:26,100
+I'll follow right behind you!
+
+162
 00:16:42,360 --> 00:16:43,360
 What are you doing?
 
-138
-00:16:44,540 --> 00:16:47,140
+163
+00:16:44,540 --> 00:16:47,452
 Hurry, take him to the Black Knight's haunted lair!
 
-139
-00:16:50,389 --> 00:16:52,740
+164
+00:16:50,389 --> 00:16:52,341
 Now Goldland, too...
 
-140
-00:17:28,039 --> 00:17:29,040
-[[WHINNY]]
-
-141
-00:17:37,480 --> 00:17:38,880
-[[WHINNY]]
-
-142
-00:17:39,900 --> 00:17:41,640
-Aaaaaah!
-
-143
+165
 00:17:49,999 --> 00:17:52,580
 Prince Franz is in that castle, isn't he?
 
-144
+166
 00:17:54,400 --> 00:17:55,400
 Wait!
 
-145
-00:17:57,359 --> 00:18:00,720
+167
+00:17:57,359 --> 00:18:00,876
 I was looking for him, too. Take me to Franz!
 
-146
+168
 00:18:01,379 --> 00:18:05,620
 But your country and Goldland are currently at war!
 
-147
-00:18:05,969 --> 00:18:07,420
+169
+00:18:05,969 --> 00:18:07,521
 That doesn't matter!
 
-148
+170
 00:18:07,869 --> 00:18:11,340
 I love Franz. Love is all that matters.
 
-149
-00:18:11,604 --> 00:18:13,860
+171
+00:18:11,604 --> 00:18:14,016
 Come on, let's hurry and rescue him!
 
-150
+172
 00:18:16,009 --> 00:18:18,420
 Alright, got it. We have no time to waste.
 
-151
+173
 00:18:39,919 --> 00:18:43,600
 You damn vampire bats, I won't go down that easily!
 
-152
+174
 00:19:07,600 --> 00:19:10,840
 Don't look down! Look up! Keep your eyes up and climb!
 
-153
-00:19:18,299 --> 00:19:25,300
-Only one week left for Goldland. Silverland is next. I'll be counting on Charcoal then as well.
+175
+00:19:18,291 --> 00:19:22,145
+Only one week left for Goldland. Silverland is next.
 
-154
-00:19:25,700 --> 00:19:30,760
-Of course. Now, if you'll excuse me.
+176
+00:19:22,169 --> 00:19:25,292
+I'll be counting on your cooperation then as well, King Charcoal.
 
-155
-00:19:34,400 --> 00:19:35,400
-(Laughs)
+177
+00:19:25,606 --> 00:19:27,356
+Of course.
 
-156
-00:19:36,829 --> 00:19:41,660
-Well, we'll make him work as hard as possible. Work him to the bone, then toss him aside.
+178
+00:19:28,497 --> 00:19:30,760
+Now, if you'll excuse me.
 
-157
+179
+00:19:36,829 --> 00:19:38,965
+Well, we'll make him work as hard as possible.
+
+180
+00:19:39,052 --> 00:19:41,660
+Work him to the bone, then toss him aside.
+
+181
 00:19:41,804 --> 00:19:44,520
 That is the law of the X-Union.
 
-158
-00:19:46,280 --> 00:19:47,280
-(Laughs)
-
-159
-00:19:57,009 --> 00:19:59,740
+182
+00:19:57,009 --> 00:19:59,997
 Oh dear... Papa is just being used.
 
-160
-00:20:01,459 --> 00:20:06,220
-We're going to search for Prince Franz! Peppy, follow me!
+183
+00:20:01,459 --> 00:20:02,825
+We're going to search for Prince Franz!
 
-161
-00:20:24,220 --> 00:20:27,840
-So cool! Do your best, Princess Knight! Go, Steve!
+184
+00:20:03,521 --> 00:20:05,969
+Teppi, follow me!
 
-162
-00:20:29,820 --> 00:20:34,120
-Aaaaaah!
+185
+00:20:24,220 --> 00:20:28,777
+So cool! Do your best, Ribbon Knight!
 
-163
-00:20:34,140 --> 00:20:35,140
-Whoa!
-
-164
+186
 00:20:38,220 --> 00:20:39,220
 Are you alright?
 
-165
-00:20:40,119 --> 00:20:42,880
+187
+00:20:40,119 --> 00:20:43,012
 How wonderful... to be rescued by you...
 
-166
-00:20:43,229 --> 00:20:48,460
+188
+00:20:43,260 --> 00:20:46,335
 M-More importantly, I have to find Franz fast...
 
-167
-00:20:49,889 --> 00:20:53,260
+189
+00:20:49,889 --> 00:20:53,455
 Franz! Prince Franz, I've come to save you!
 
-168
+190
 00:20:54,124 --> 00:20:55,660
 Huh? That voice...
 
-169
-00:20:59,739 --> 00:21:05,140
-You went in?! There are vampire bats inside!
+191
+00:20:59,739 --> 00:21:03,686
+Don't come in! There are vampire bats in here!
 
-170
-00:21:22,719 --> 00:21:25,700
+192
+00:21:18,638 --> 00:21:21,325
+Franz, we saved you!
+
+193
+00:21:22,719 --> 00:21:24,325
 Saved by you again, huh?
 
-171
-00:21:30,055 --> 00:21:32,340
-Well, wh—
-
-172
-00:21:32,689 --> 00:21:34,840
-*Sigh*
-
-173
-00:21:38,980 --> 00:21:41,420
-Ha-ha!
-
-174
-00:21:50,980 --> 00:21:55,520
-Heh heh heh.
-
-175
+194
 00:21:56,920 --> 00:21:57,920
-You guys!
+Catch!
 
-176
-00:22:20,399 --> 00:22:23,340
+195
+00:22:20,399 --> 00:22:23,441
 How wonderful the Ribbon Knight is...
 
-177
-00:22:24,735 --> 00:22:27,180
+196
+00:22:24,735 --> 00:22:27,094
 I think I'm falling for him.
 
-178
-00:22:43,420 --> 00:22:48,980
-Thank you, Ribbon Knight. I'll hurry home and tell Father to stop the war right away.
+197
+00:22:43,287 --> 00:22:44,707
+Thank you, Ribbon Knight.
 
-179
-00:22:49,479 --> 00:22:51,080
+198
+00:22:44,958 --> 00:22:48,980
+I'll hurry home and tell Papa to stop the war right away.
+
+199
+00:22:49,346 --> 00:22:51,080
 And one more thing.
 
-180
+200
 00:22:51,269 --> 00:22:54,960
 Ribbon Knight... I, I...
 
-181
+201
 00:22:55,159 --> 00:22:57,980
-I've decided to become your bride!
+I've decided to become your wife!
 
-182
+202
 00:23:00,569 --> 00:23:02,120
 Franz, I'm sorry.
 
-183
+203
 00:23:02,519 --> 00:23:05,700
 But that's okay. You have Princess Sapphire, after all.
 
-184
+204
 00:23:06,479 --> 00:23:10,940
 No, I'm the one who's sorry. I... I love Sapphire.
 
-185
+205
 00:23:12,020 --> 00:23:13,020
 What's wrong?
 
-186
+206
 00:23:13,374 --> 00:23:17,780
 It's nothing. You'll understand when you're a bit older.
 
-187
+207
 00:23:18,469 --> 00:23:21,040
 Wait for me until I grow up!
 
-188
-00:23:23,449 --> 00:23:26,340
+208
+00:23:21,224 --> 00:23:21,903
+Promise me!
+
+209
+00:23:23,449 --> 00:23:26,496
 Ribbon Knight! I love you!
 
-189
-00:23:26,364 --> 00:23:28,364
+210
+00:23:28,410 --> 00:23:30,410
 
