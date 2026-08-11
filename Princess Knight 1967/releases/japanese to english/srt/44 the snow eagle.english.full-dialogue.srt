@@ -151,8 +151,8 @@ Sapphire!
 Come on down!
 
 39
-00:04:41,380 --> 00:04:43,720
-Let me down, let me down! Let me build a snowman with you!
+00:04:41,380 --> 00:04:43,782
+Let's build a snowman and play!
 
 40
 00:04:43,860 --> 00:04:46,040
@@ -160,14 +160,14 @@ Hang on! I'm coming!
 
 41
 00:04:46,880 --> 00:04:47,960
-*Pat pat pat...*
+<i>Pat-pat-pat...</i>
 
 42
-00:04:48,310 --> 00:04:50,700
-Starting with the eyes... Look, it's done!
+00:04:49,036 --> 00:04:50,700
+Sapphire look, it's done!
 
 43
-00:04:52,030 --> 00:04:54,060
+00:04:51,905 --> 00:04:54,060
 How is it? Pretty good, right?
 
 44
@@ -175,63 +175,63 @@ How is it? Pretty good, right?
 It's so-so. But what is it supposed to be?
 
 45
-00:04:57,825 --> 00:05:00,820
-Ahem! The champion of justice, Princess Knight!
+00:04:57,825 --> 00:05:01,374
+Ahem! The champion of justice, Ribbon Knight!
 
 46
 00:05:01,540 --> 00:05:02,960
-That's awful! So mean!
+That's mean, Sapphire!
 
 47
 00:05:03,000 --> 00:05:04,500
 You're the mean one, Tink!
 
 48
-00:05:04,850 --> 00:05:08,640
-Princess Knight is way sleeker and cooler than that!
+00:05:04,850 --> 00:05:08,780
+The Ribbon Knight is much more slender and stylish than that!
 
 49
-00:05:09,099 --> 00:05:10,099
-Yay!
-
-50
-00:05:11,015 --> 00:05:13,740
+00:05:11,015 --> 00:05:13,865
 Haha, you fell down!
 
-51
-00:05:14,140 --> 00:05:14,900
+50
+00:05:14,140 --> 00:05:14,923
 Hey!
 
-52
+51
 00:05:15,020 --> 00:05:16,020
 It's Franz!
 
-53
+52
 00:05:16,520 --> 00:05:17,520
 Did you say Franz?
 
-54
-00:05:17,945 --> 00:05:18,945
+53
+00:05:17,945 --> 00:05:19,023
 Hey!
 
-55
+54
 00:05:20,910 --> 00:05:22,300
 Hello! Welcome!
 
+55
+00:05:22,977 --> 00:05:24,232
+It's been a while since we had nice weather.
+
 56
-00:05:22,485 --> 00:05:24,940
-Yeah, it's been a while since we had nice weather. Hello, Tink!
+00:05:24,381 --> 00:05:25,197
+Hello, Tink!
 
 57
-00:05:25,545 --> 00:05:26,880
+00:05:25,545 --> 00:05:26,950
 Hello, Franz!
 
 58
-00:05:27,880 --> 00:05:31,600
+00:05:27,880 --> 00:05:31,709
 So, what were you making? Come on, let me join in!
 
 59
-00:05:34,480 --> 00:05:35,480
+00:05:34,597 --> 00:05:35,394
 Is it that one?
 
 60
@@ -239,11 +239,11 @@ Is it that one?
 It's me! That snowman is me!
 
 61
-00:05:38,580 --> 00:05:39,580
+00:05:38,517 --> 00:05:39,580
 Can you tell?
 
 62
-00:05:39,680 --> 00:05:41,700
+00:05:39,680 --> 00:05:41,879
 Of course. It's very well made.
 
 63
@@ -251,7 +251,7 @@ Of course. It's very well made.
 Where's yours? You don't have one.
 
 64
-00:05:44,460 --> 00:05:45,840
+00:05:44,460 --> 00:05:45,886
 I know, I'll make one of you!
 
 65
@@ -259,577 +259,699 @@ I know, I'll make one of you!
 I'd better take the hint and leave them be.
 
 66
-00:05:52,980 --> 00:05:56,580
-Wow, it's so pretty. It feels like I'm back in Heaven.
+00:05:52,487 --> 00:05:54,771
+Wow, it's so pretty.
 
 67
-00:05:58,455 --> 00:06:01,460
-It's like standing in a huge field of white flowers.
+00:05:55,202 --> 00:05:56,853
+It feels like I'm back in Heaven.
 
 68
-00:06:05,440 --> 00:06:09,240
-I'm sure I heard something...
+00:05:58,228 --> 00:06:01,663
+It's like standing in a huge field of white flowers.
 
 69
-00:06:42,290 --> 00:06:46,620
-Mister, pull yourself together! Come on, mister, speak to me!
+00:06:05,440 --> 00:06:08,091
+I'm sure I heard something...
 
 70
-00:06:48,290 --> 00:06:49,560
-Ah, he's coming around.
+00:06:42,290 --> 00:06:46,776
+Mister, pull yourself together! Come on, mister, speak to me!
 
 71
-00:06:50,830 --> 00:06:58,500
-Are you from Silverland? Take me to the castle. X is coming. Union X, with a terrifying weapon.
+00:06:48,696 --> 00:06:49,560
+He's coming around.
 
 72
-00:07:02,350 --> 00:07:03,980
-Yours turned out better after all.
+00:06:50,830 --> 00:06:52,350
+Are you from Silverland?
 
 73
-00:07:05,720 --> 00:07:07,940
-No, Franz, yours is...
+00:06:53,077 --> 00:06:54,951
+Take me to the castle.
 
 74
+00:06:54,975 --> 00:06:58,765
+X is coming. X-Union, with a terrifying weapon.
+
+75
+00:07:02,350 --> 00:07:04,065
+Yours turned out better after all.
+
+76
+00:07:04,970 --> 00:07:06,900
+No, Franz, yours is...
+
+77
 00:07:09,040 --> 00:07:10,040
 Look at that!
 
-75
-00:07:13,480 --> 00:07:21,740
-Sapphire, I didn't just come over to play. I was worried about this strange noise... Could it be... Sapphire! This is terrible!
+78
+00:07:13,480 --> 00:07:15,709
+Sapphire, I didn't just come over to play.
 
-76
-00:07:25,740 --> 00:07:30,000
-It's terrible! Union X has reached the Orange Forest!
+79
+00:07:15,733 --> 00:07:17,895
+I was worried about this strange noise...
 
-77
+80
+00:07:17,920 --> 00:07:19,092
+Could it be...
+
+81
+00:07:19,303 --> 00:07:22,185
+Sapphire! This is terrible!
+
+82
+00:07:25,740 --> 00:07:30,234
+It's terrible! X-Union has reached the Orange Forest!
+
+83
 00:07:31,015 --> 00:07:33,540
 They have some kind of terrifying, unknown weapon!
 
-78
+84
 00:07:33,930 --> 00:07:35,940
 The border guard has been wiped out!
 
-79
-00:07:36,860 --> 00:07:37,860
-What?!
+85
+00:07:36,492 --> 00:07:37,492
+- What?!
+- What?!
 
-80
-00:07:42,400 --> 00:07:44,600
+86
+00:07:42,400 --> 00:07:44,693
 Sapphire, this sound could be X's new weapon.
 
-81
-00:07:44,825 --> 00:07:46,940
+87
+00:07:44,825 --> 00:07:47,010
 I'm going to scout the Orange Forest right away.
 
-82
+88
 00:07:47,205 --> 00:07:48,205
 Care to join?
 
-83
-00:07:48,660 --> 00:07:48,820
-Yeah.
-
-84
-00:07:49,555 --> 00:07:50,840
+89
+00:07:49,555 --> 00:07:50,886
 Tink, lead the way!
 
-85
-00:07:52,055 --> 00:07:53,240
+90
+00:07:51,586 --> 00:07:54,005
 Wait for me, Sapphire!
 
-86
+91
 00:08:12,360 --> 00:08:14,340
 Tink, are you sure it's around here?
 
-87
+92
 00:08:14,370 --> 00:08:16,540
 No doubt about it, it's definitely around here.
 
-88
-00:08:17,060 --> 00:08:19,140
+93
+00:08:17,060 --> 00:08:19,288
 But there isn't a soul in sight.
 
-89
-00:08:20,590 --> 00:08:23,460
+94
+00:08:20,590 --> 00:08:23,506
 Franz, don't you feel like someone is watching us?
 
-90
-00:08:39,539 --> 00:08:44,960
+95
+00:08:39,539 --> 00:08:42,233
 Now that you mention it, there is a strange presence...
 
-91
-00:08:45,639 --> 00:08:46,639
+96
+00:08:46,139 --> 00:08:47,139
 Watch out!
 
-92
-00:08:48,689 --> 00:08:49,900
+97
+00:08:48,689 --> 00:08:50,017
 Who's there? Show yourself!
 
-93
-00:08:53,139 --> 00:08:57,200
-We are X's plaster statues! You shall not pass! Take that!
-
-94
-00:09:12,949 --> 00:09:20,200
-These are Japanese and French words.
-
-95
-00:09:20,380 --> 00:09:24,940
-Here, Japanese words mean Japanese. Some global languages are like that.
-
-96
-00:09:25,089 --> 00:09:27,180
-In Japanese, "言" and "言" make "言い" and "言う". In English, it's "英" and "英単語".
-
-97
-00:09:27,909 --> 00:09:29,300
-They're getting away!
-
 98
-00:09:31,009 --> 00:09:32,840
-You'll regret this day!
+00:08:53,139 --> 00:08:54,831
+We are X's scouts! 
 
 99
-00:09:34,659 --> 00:09:38,580
-I'll give you a real treat. Just sit tight and wait!
+00:08:55,199 --> 00:08:56,472
+You shall not pass!
 
 100
-00:09:42,459 --> 00:09:47,900
-Sapphire, this is a bit strange...
+00:08:56,793 --> 00:08:57,528
+Get them!
 
 101
-00:09:59,640 --> 00:10:00,300
+00:09:04,910 --> 00:09:05,644
 Sapphire!
 
 102
-00:10:00,530 --> 00:10:02,580
-Sapphire! Franz! Over here!
+00:09:05,855 --> 00:09:06,394
+Franz!
 
 103
-00:10:03,110 --> 00:10:04,500
-Are you hurt?
+00:09:09,980 --> 00:09:10,777
+Take that!
 
 104
+00:09:12,949 --> 00:09:13,778
+Nice one, Tink!
+
+105
+00:09:22,145 --> 00:09:23,635
+X!
+
+106
+00:09:24,995 --> 00:09:26,054
+Retreat!
+
+107
+00:09:27,909 --> 00:09:29,057
+They're getting away!
+
+108
+00:09:31,009 --> 00:09:32,840
+You'll regret this day!
+
+109
+00:09:34,659 --> 00:09:38,580
+I'll give you a real treat. Just sit tight and wait!
+
+110
+00:09:42,459 --> 00:09:44,673
+Sapphire, this is a bit strange...
+
+111
+00:09:59,569 --> 00:10:00,300
+Sapphire!
+
+112
+00:10:00,514 --> 00:10:01,034
+Sapphire!
+
+113
+00:10:01,058 --> 00:10:02,580
+Franz! Over here!
+
+114
+00:10:03,110 --> 00:10:03,953
+Are you hurt?
+
+115
 00:10:04,979 --> 00:10:06,980
 I'm fine!
 
-105
+116
 00:10:07,660 --> 00:10:08,660
+Get down!
+
+117
+00:10:22,542 --> 00:10:23,300
 An eagle!
 
-106
-00:10:22,300 --> 00:10:23,300
-An eagle!
-
-107
+118
 00:10:23,469 --> 00:10:24,880
 That ominous eagle just screeched!
 
-108
-00:10:30,379 --> 00:10:31,720
-That's impossible! All right!
+119
+00:10:30,316 --> 00:10:31,720
+That's ridiculous! Come on!
 
-109
-00:10:35,880 --> 00:10:37,960
+120
+00:10:35,676 --> 00:10:38,030
 Wait, Franz! We're coming too!
 
-110
-00:10:58,300 --> 00:11:00,180
+121
+00:10:58,300 --> 00:10:59,320
 Prepare to fire!
 
-111
-00:11:08,720 --> 00:11:09,720
+122
+00:11:08,876 --> 00:11:09,720
 Fire!
 
-112
-00:11:18,799 --> 00:11:22,680
-Silverland's castle walls are like scrap paper! Move out!
+123
+00:11:18,806 --> 00:11:21,914
+Silverland's castle walls are like scrap paper!
 
-113
-00:11:28,020 --> 00:11:30,620
-Aaaaaah!
+124
+00:11:22,426 --> 00:11:23,113
+Move out!
 
-114
-00:11:50,280 --> 00:11:53,560
+125
+00:11:50,280 --> 00:11:53,653
 Don't falter! We will crush Silverland in one fell swoop!
 
-115
-00:11:57,380 --> 00:11:58,380
-(Sapphire's voice)
+126
+00:12:06,739 --> 00:12:08,951
+So that was what caused the scream.
 
-116
-00:12:06,739 --> 00:12:08,920
-So that was what caused my scream.
-
-117
+127
 00:12:09,105 --> 00:12:12,320
 If a giant cannon like that crosses the border, we'll be in serious trouble.
 
-118
+128
 00:12:12,505 --> 00:12:13,920
 We have to stop them somehow.
 
-119
+129
 00:12:14,889 --> 00:12:17,360
 That's right, we must stop them ourselves, no matter what!
 
-120
+130
 00:12:24,129 --> 00:12:25,780
 Sapphire, do you have a plan?
 
-121
-00:12:27,359 --> 00:12:31,340
-Look over there! Let me blow down the bridge across the border river!
-
-122
-00:12:32,014 --> 00:12:37,020
-Look! The side with the border guard armory wasn't destroyed! There must be gunpowder there!
-
-123
-00:12:38,550 --> 00:12:44,120
-Right! We'll use that gunpowder to blow up the bridge! What if there are X Union lookouts at the fort?
-
-124
-00:12:45,279 --> 00:12:46,420
-Then we'll just drive them off!
-
-125
-00:13:04,040 --> 00:13:05,440
-(Girl coughing)
-
-126
-00:13:05,441 --> 00:13:06,441
-Doctor...
-
-127
-00:13:09,500 --> 00:13:10,320
-(Girl coughing)
-
-128
-00:13:10,321 --> 00:13:11,860
-Whoa!?
-
-129
-00:13:11,861 --> 00:13:12,861
-Hah!
-
-130
-00:13:14,720 --> 00:13:15,720
-Yah!
-
 131
-00:13:18,720 --> 00:13:19,720
-Hm?
+00:12:27,359 --> 00:12:28,175
+Look over there!
 
 132
-00:13:20,020 --> 00:13:20,540
-Hm?
+00:12:29,051 --> 00:12:31,340
+Let's bring down the bridge over that border river!
 
 133
-00:13:20,700 --> 00:13:22,920
-W-W-Wait a second...
+00:12:32,014 --> 00:12:32,425
+Look!
 
 134
-00:13:23,869 --> 00:13:26,640
-Whew, thank goodness... Tink, I took care of them!
+00:12:32,668 --> 00:12:35,230
+The side with the border guard armory wasn't destroyed!
 
 135
-00:13:26,690 --> 00:13:27,520
-Give me a hand~!
+00:12:35,535 --> 00:12:36,973
+There must be gunpowder there!
 
 136
-00:13:27,521 --> 00:13:28,521
-OK~!
+00:12:38,550 --> 00:12:38,941
+Right!
 
 137
-00:13:33,499 --> 00:13:36,920
-All right~! With this much gunpowder, we can blast them with the cannon!
+00:12:38,965 --> 00:12:40,597
+We'll use that gunpowder to blow up the bridge!
 
 138
+00:12:40,621 --> 00:12:44,252
+What if there are X-Union lookouts at the fort?
+
+139
+00:12:45,279 --> 00:12:46,466
+Then we'll just drive them off!
+
+140
+00:13:05,040 --> 00:13:05,721
+Now!
+
+141
+00:13:17,436 --> 00:13:18,117
+Watch out!
+
+142
+00:13:20,700 --> 00:13:21,920
+W-W-Wait a second...
+
+143
+00:13:23,462 --> 00:13:25,037
+Whew, thank goodness...
+
+144
+00:13:25,061 --> 00:13:26,640
+Tink, I took care of them!
+
+145
+00:13:26,690 --> 00:13:27,496
+Give me a hand!
+
+146
+00:13:27,521 --> 00:13:28,333
+Okay!
+
+147
+00:13:32,999 --> 00:13:37,115
+All right! With this much gunpowder, we can blast them with the cannon!
+
+148
 00:13:38,089 --> 00:13:40,720
 The problem is how to carry all this gunpowder to the bridge.
 
-139
+149
 00:13:41,075 --> 00:13:42,700
 Hey, I have a great idea!
 
-140
-00:13:42,910 --> 00:13:45,580
+150
+00:13:42,910 --> 00:13:45,337
 We can make a pulley and transport it with that.
 
-141
-00:14:11,049 --> 00:14:17,360
-Please take a short break... and come back. Please take a short break... and come back. Please take a short break... Sorry!
+151
+00:14:05,358 --> 00:14:06,459
+Speed up!
 
-142
-00:14:20,140 --> 00:14:23,800
+152
+00:14:11,049 --> 00:14:12,141
+Giddyup!
+
+153
+00:14:15,022 --> 00:14:16,233
+Yahoo!
+
+154
+00:14:16,404 --> 00:14:18,686
+Wheee! Yahoo!
+
+155
+00:14:20,639 --> 00:14:23,800
 Careful, Tink! Keep jumping around like that and you'll fall off!
 
-143
+156
 00:14:31,620 --> 00:14:32,620
-Sorry!
+Charge!
 
-144
+157
 00:14:38,800 --> 00:14:39,960
-Oh, it's Rix!
+Oh, it's X!
 
-145
-00:14:40,589 --> 00:14:42,240
-W-what? There they are!
+158
+00:14:40,589 --> 00:14:41,459
+W-what?
 
-146
-00:14:46,260 --> 00:14:47,260
-Ah!
+159
+00:14:41,748 --> 00:14:42,458
+There they are!
 
-147
+160
 00:14:49,339 --> 00:14:52,480
-Sapphire, watch out! Their skin is sharp as blades!
+Sapphire, watch out! The edges of their skis are blades!
 
-148
+161
 00:14:53,425 --> 00:14:54,560
 What!?
 
-149
-00:14:56,780 --> 00:14:57,780
-Ah!
-
-150
+162
 00:15:10,180 --> 00:15:10,720
 Oh no!
 
-151
-00:15:10,840 --> 00:15:11,840
+163
+00:15:10,832 --> 00:15:11,832
 What's wrong, Sapphire?
 
-152
+164
 00:15:11,965 --> 00:15:15,000
-The mat got detached! Sol's lock isn't working!
+The reins have been cut! I can't steer the sled!
 
-153
+165
 00:15:16,019 --> 00:15:18,620
 I hear Sapphire's voice. Sapphire!
 
-154
-00:15:20,460 --> 00:15:22,800
+166
+00:15:19,814 --> 00:15:20,811
+Franz!
+
+167
+00:15:21,170 --> 00:15:22,385
 Sapphire!
 
-155
-00:15:31,360 --> 00:15:33,220
-Sapphire!
+168
+00:15:28,681 --> 00:15:30,111
+We're going to crash into the bridge!
 
-156
-00:15:41,120 --> 00:15:43,140
-Sapphire!
-
-157
-00:15:43,969 --> 00:15:45,040
+169
+00:15:43,969 --> 00:15:45,258
 Tink, are you alright?
 
-158
-00:15:45,320 --> 00:15:46,320
+170
+00:15:45,320 --> 00:15:46,413
 Yeah, I'm managing.
 
-159
+171
 00:15:50,460 --> 00:15:51,460
 Tink!
 
-160
-00:15:55,859 --> 00:15:59,650
-Sapphire, these guys were guarding its feet! Sapphire!
+172
+00:15:55,859 --> 00:15:58,579
+Sapphire, these guys were guarding the bridge!
 
-161
-00:15:59,800 --> 00:16:00,800
+173
+00:15:58,697 --> 00:15:59,768
+ Sapphire!
+
+174
+00:15:59,800 --> 00:16:00,550
 Yes!
 
-162
-00:17:05,780 --> 00:17:07,940
-AAAAAH!
+175
+00:16:13,314 --> 00:16:16,923
+The gunpowder fell right into the river! There's nothing we can do! Let's fall back to the fort for now!
 
-163
-00:17:55,209 --> 00:18:00,000
-First, let me head back. Then, I'll offer you the teacher's seat.
+176
+00:16:23,400 --> 00:16:24,283
+The fort...
 
-164
+177
+00:16:24,408 --> 00:16:25,720
+has fallen!
+
+178
+00:16:25,744 --> 00:16:27,984
+If we go in there, we'll suffer the same fate!
+
+179
+00:16:28,009 --> 00:16:29,392
+Giddyup!
+
+180
+00:16:42,291 --> 00:16:43,564
+Fire!
+
+181
+00:16:52,353 --> 00:16:54,556
+The ravine! If we can make it to that ravine...!
+
+182
+00:17:56,591 --> 00:17:59,039
+I thought it felt hot—my glove is scorched!
+
+183
 00:18:00,809 --> 00:18:03,340
 That surface acts just like a lens!
 
-165
-00:18:05,229 --> 00:18:07,120
+184
+00:18:05,229 --> 00:18:07,276
 A lens? This is it!
 
-166
-00:18:07,529 --> 00:18:11,640
-If we use this... this valley is narrow and prone to avalanches!
+185
+00:18:07,529 --> 00:18:08,667
+If we use this...
 
-167
-00:18:13,259 --> 00:18:16,020
+186
+00:18:08,691 --> 00:18:11,155
+this ravine is narrow and prone to avalanches!
+
+187
+00:18:13,259 --> 00:18:15,363
 If we can blow up that huge cannon...
 
-168
+188
 00:18:16,779 --> 00:18:18,200
 The sun is directly overhead, too!
 
-169
-00:18:19,519 --> 00:18:21,540
+189
+00:18:19,519 --> 00:18:21,711
 This just might work!
 
-170
+190
 00:18:36,009 --> 00:18:39,780
 Everyone, split up and hurry! Find the biggest piece of ice you can!
 
-171
+191
 00:18:40,660 --> 00:18:41,660
-OK!
+Okay!
 
-172
-00:18:43,289 --> 00:18:46,300
-If we don't hurry, the cannon will pass through the valley!
+192
+00:18:42,937 --> 00:18:46,300
+If we don't hurry, the cannon will pass through the ravine!
 
-173
-00:18:51,639 --> 00:18:58,000
-With all this snow, you'd think there'd be ice everywhere, but when you actually need it... Tch! I can't find any!
+193
+00:18:51,639 --> 00:18:54,807
+With all this snow, you'd think there'd be ice everywhere,
 
-174
+194
+00:18:54,831 --> 00:18:56,025
+but when you actually need it...
+
+195
+00:18:56,995 --> 00:18:58,125
+I can't find any!
+
+196
 00:18:59,269 --> 00:19:02,080
 What does Sapphire want with ice anyway?
 
-175
-00:19:09,299 --> 00:19:12,840
-No, no, no, being on top of this ice is going to freeze me!
+197
+00:19:09,299 --> 00:19:12,715
+I'm on top of the ice! No, no, no! I'm gonna fall!
 
-176
+198
+00:19:13,510 --> 00:19:15,135
+Found it! I found it!
+
+199
 00:19:18,089 --> 00:19:20,800
 Sapphire, aren't you done yet? My hands are freezing!
 
-177
-00:19:20,801 --> 00:19:22,100
+200
+00:19:20,801 --> 00:19:22,178
 Just a little more, hang in there!
 
-178
+201
 00:19:22,459 --> 00:19:24,960
 Sapphire, what are you going to do by carving ice?
 
-179
+202
 00:19:25,094 --> 00:19:27,220
 A lens! I'm making a giant lens!
 
-180
-00:19:59,289 --> 00:20:01,600
+203
+00:19:41,120 --> 00:19:42,120
+Watch out!
+
+204
+00:19:42,460 --> 00:19:44,153
+This ravine is prone to avalanches!
+
+205
+00:19:44,280 --> 00:19:46,160
+If you fire by mistake, we'll all be wiped out!
+
+206
+00:19:46,760 --> 00:19:47,356
+Listen up!
+
+207
+00:19:47,500 --> 00:19:49,977
+No matter what happens, under no circumstances are you to fire!
+
+208
+00:19:57,752 --> 00:19:58,921
+I see! I get it now!
+
+209
+00:19:59,289 --> 00:20:01,701
 So you're planning to blow up that cannon with this lens?
 
-181
-00:20:02,189 --> 00:20:04,100
+210
+00:20:02,103 --> 00:20:04,271
 Exactly! And luckily, look at the sun!
 
-182
+211
 00:20:06,469 --> 00:20:08,300
 It's on our side!
 
-183
-00:20:09,880 --> 00:20:14,960
-Shine on, sun! Celebrate League X's conquest of Silverland!
+212
+00:20:09,880 --> 00:20:15,085
+Shine on, sun! Celebrate X-Union's conquest of Silverland!
 
-184
-00:20:15,994 --> 00:20:19,340
-Behold this power! This mighty strength!
+213
+00:20:15,994 --> 00:20:17,283
+Behold this power!
 
-185
+214
+00:20:18,065 --> 00:20:19,340
+This mighty strength!
+
+215
 00:20:21,119 --> 00:20:23,600
-League X shall become the rulers of the world!
+X-Union shall become the rulers of the world!
 
-186
+216
 00:20:30,249 --> 00:20:31,960
 Damn it! We missed!
 
-187
-00:20:33,609 --> 00:20:36,620
+217
+00:20:33,609 --> 00:20:36,729
 Franz! Hurry! Aim for the fuse!
 
-188
-00:20:43,809 --> 00:20:46,000
+218
+00:20:43,707 --> 00:20:46,335
 The enemy is up there! Archers! Archers!
 
-189
-00:20:52,235 --> 00:20:54,620
+219
+00:20:52,235 --> 00:20:54,784
 Franz! Watch out! Franz, be careful!
 
-190
-00:20:55,244 --> 00:20:57,060
+220
+00:20:55,244 --> 00:20:57,153
 I'm fine, I'm fine! You be careful too!
 
-191
+221
 00:20:59,214 --> 00:21:00,680
 Oh, just you wait!
 
-192
-00:21:07,429 --> 00:21:08,440
+222
+00:21:07,429 --> 00:21:08,838
 Fire! Fire!
 
-193
-00:21:14,349 --> 00:21:21,120
-Oh! Look at that frantic light!
+223
+00:21:20,216 --> 00:21:21,268
+The light's reaching the fuse...!
 
-194
-00:21:53,960 --> 00:21:55,380
-[[NO AUDIO]]
+224
+00:21:56,476 --> 00:21:59,367
+Wh-who did that?! Help!
 
-195
-00:21:56,000 --> 00:21:56,740
-[[MAN SCREAMING]]
+225
+00:22:44,898 --> 00:22:46,476
+Tink! Hold on tight!
 
-196
-00:21:56,741 --> 00:21:59,960
-AAAAAHHHHH!
+226
+00:22:46,500 --> 00:22:48,882
+Sapphire! Don't let go! Hang on!
 
-197
-00:22:48,140 --> 00:22:57,161
-Here is the text reading "надapack" under a tree. We captured something 5 frames underground, so let's start with this suspicion.
+227
+00:23:10,506 --> 00:23:11,271
+Franz!
 
-198
-00:23:12,800 --> 00:23:12,880
-(1)
+228
+00:23:11,943 --> 00:23:12,611
+Sapphire!
 
-199
-00:23:13,460 --> 00:23:13,620
-(3)
+229
+00:23:12,729 --> 00:23:14,348
+I'm glad you're okay.. Are you hurt?
 
-200
-00:23:14,340 --> 00:23:15,340
-(7)
+230
+00:23:15,202 --> 00:23:15,894
+Thank you!
 
-201
-00:23:24,220 --> 00:23:25,220
-(9)
+231
+00:23:16,779 --> 00:23:18,951
+By the way, what happened to the cannon? Let's go take a look..
 
-202
-00:23:25,520 --> 00:23:25,620
-(10)
+232
+00:23:21,873 --> 00:23:22,592
+We did it!
 
-203
-00:23:25,640 --> 00:23:25,680
-(11)
+233
+00:23:22,654 --> 00:23:24,196
+The X army is completely wiped out!
 
-204
-00:23:26,220 --> 00:23:26,320
-(12)
+234
+00:23:24,477 --> 00:23:27,196
+The cannon is buried under the snow!
 
-205
-00:23:26,440 --> 00:23:26,540
-(13)
+235
+00:23:48,724 --> 00:23:52,084
+The wounded white eagle vanishes in the power of the sun.
 
-206
-00:23:26,560 --> 00:23:27,560
-(14)
+236
+00:23:52,108 --> 00:23:55,598
+But there is no telling when
+the X Union will attack again.
 
-207
-00:23:56,600 --> 00:23:59,660
-I must defeat them with my own power...
+237
+00:23:55,623 --> 00:23:58,363
+We must defeat them with our own strength..
 
-208
-00:24:21,319 --> 00:24:25,140
+238
+00:24:21,319 --> 00:24:24,022
 No matter what, I must protect this peace...
 
-209
-00:24:25,164 --> 00:24:27,164
+239
+00:24:27,164 --> 00:24:29,164
 
