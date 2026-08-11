@@ -75,11 +75,11 @@ Hey!
 Up we go!
 
 20
-00:03:24,540 --> 00:03:27,595
+00:03:24,538 --> 00:03:25,428
 Giddyup!
 
 21
-00:03:28,127 --> 00:03:28,840
+00:03:25,877 --> 00:03:28,840
 Come on, once we start, get off your rear!
 
 22
@@ -87,7 +87,7 @@ Come on, once we start, get off your rear!
 You complete idiot!
 
 23
-00:03:30,863 --> 00:03:32,120
+00:03:30,863 --> 00:03:31,580
 Get up!
 
 24
@@ -119,7 +119,7 @@ No matter how much you chase after me, it's useless!
 Your Highness, wake up. It is time to awaken. Whoa!
 
 31
-00:04:46,200 --> 00:04:48,700
+00:04:47,660 --> 00:04:48,700
 Good morning, Garigori!
 
 32
