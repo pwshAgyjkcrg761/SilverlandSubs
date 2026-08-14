@@ -1,0 +1,863 @@
+﻿1
+00:01:54,791 --> 00:01:56,791
+
+
+2
+00:02:08,189 --> 00:02:09,000
+What is that?
+
+3
+00:02:09,280 --> 00:02:10,280
+What is it?
+
+4
+00:02:18,786 --> 00:02:19,860
+I've never seen this place before...
+
+5
+00:02:19,884 --> 00:02:21,600
+Wait, when did the lights go out?
+
+6
+00:02:22,817 --> 00:02:23,926
+What on earth is happening?
+
+7
+00:02:49,110 --> 00:02:49,953
+Forgive me.
+
+8
+00:02:51,057 --> 00:02:52,633
+I've identified that tower.
+
+9
+00:02:52,657 --> 00:02:56,080
+It's a massive castle the X-Union is building within Goldland territory.
+
+10
+00:02:56,945 --> 00:02:58,873
+What? X-Union?
+
+11
+00:02:59,630 --> 00:03:01,340
+X-Union, you say...
+
+12
+00:03:07,120 --> 00:03:07,933
+I see.
+
+13
+00:03:08,397 --> 00:03:10,220
+X intends to use that castle as a foothold
+
+14
+00:03:10,244 --> 00:03:12,060
+to invade Silverland.
+
+15
+00:03:12,225 --> 00:03:13,820
+They're planning to attack us out of nowhere.
+
+16
+00:03:15,620 --> 00:03:17,740
+Is the castle finished already?
+
+17
+00:03:18,560 --> 00:03:18,960
+No.
+
+18
+00:03:18,984 --> 00:03:22,360
+Even for X, it's a massive undertaking, so progress seems slow.
+
+19
+00:03:23,720 --> 00:03:25,387
+Whether that castle is built first
+
+20
+00:03:25,411 --> 00:03:27,613
+or we fortify our defenses first—
+
+21
+00:03:27,637 --> 00:03:30,040
+the very fate of Silverland rests on this race.
+
+22
+00:03:55,090 --> 00:03:58,562
+Curse the X-Union! I'll never surrender Silverland to them!
+
+23
+00:04:18,320 --> 00:04:20,779
+Look at those fools in Silverland, panicking.
+
+24
+00:04:22,930 --> 00:04:26,503
+Struggle all you want, but once this castle is finished, you're done for.
+
+25
+00:04:26,881 --> 00:04:28,020
+When will construction be completed?
+
+26
+00:04:28,650 --> 00:04:30,063
+Well, um...
+
+27
+00:04:31,147 --> 00:04:32,826
+As you can see, we are hurrying, but...
+
+28
+00:04:45,875 --> 00:04:46,875
+Do it right!
+
+29
+00:04:47,310 --> 00:04:49,360
+I asked when it will end!
+
+30
+00:04:50,206 --> 00:04:51,390
+My apologies.
+
+31
+00:04:51,714 --> 00:04:55,182
+We're falling behind because we don't have enough slaves...
+
+32
+00:04:55,207 --> 00:04:56,590
+Short-handed?
+
+33
+00:04:57,087 --> 00:04:58,446
+Then get more slaves!
+
+34
+00:04:58,860 --> 00:05:01,900
+But we've already used all the slaves from Goldland.
+
+35
+00:05:02,881 --> 00:05:04,926
+Who said anything about Goldland?
+
+36
+00:05:10,060 --> 00:05:12,820
+I can see them! Those Silverland fools!
+
+37
+00:05:13,355 --> 00:05:17,200
+We'll kidnap them and build a stronghold to destroy Silverland.
+
+38
+00:05:19,320 --> 00:05:21,440
+That's how X operates.
+
+39
+00:05:24,110 --> 00:05:25,460
+Go, to Silverland!
+
+40
+00:05:49,020 --> 00:05:50,600
+What is this black fog?
+
+41
+00:06:10,820 --> 00:06:12,620
+What? Someone else was taken?
+
+42
+00:06:13,220 --> 00:06:18,020
+Yes. A total of 49 people have been swallowed by that mysterious fog.
+
+43
+00:06:19,575 --> 00:06:21,439
+Do we still not know what the fog really is?
+
+44
+00:06:22,055 --> 00:06:26,520
+Well, rumor has it that inside the fog lurks a phantom giant in iron armor...
+
+45
+00:06:27,190 --> 00:06:28,190
+A phantom giant?
+
+46
+00:06:33,953 --> 00:06:37,273
+They say the phantom giant is a demon messenger from X's Babel outpost.
+
+47
+00:06:38,260 --> 00:06:40,383
+The fog attacks Silverland at night,
+
+48
+00:06:40,407 --> 00:06:43,800
+and they say everyone in this town will be devoured by demons.
+
+49
+00:06:48,919 --> 00:06:50,400
+That's ridiculous!
+
+50
+00:06:50,835 --> 00:06:54,540
+No, it's true! I heard it from a guy who was chased by the fog.
+
+51
+00:06:54,920 --> 00:07:00,260
+They say a giant in black armor rides across the sky on an ink-black horse.
+
+52
+00:07:10,000 --> 00:07:11,000
+Who's there?
+
+53
+00:07:14,753 --> 00:07:18,437
+Allow me to read your fortunes. Let me read them for you!
+
+54
+00:07:18,462 --> 00:07:22,946
+Hey, I don't believe in fortune-telling. Get lost!
+
+55
+00:07:24,180 --> 00:07:31,580
+Take heed. A mark of ill omen shadows your faces.
+
+56
+00:07:31,885 --> 00:07:37,020
+Before long, you shall see a mist darker than night.
+
+57
+00:07:37,385 --> 00:07:38,740
+That's enough! Shut up!
+
+58
+00:07:44,810 --> 00:07:51,660
+Don't panic. Cry or scream all you want, my fortunes have never failed.
+
+59
+00:07:58,120 --> 00:08:00,253
+I don't wanna see any dark mist!
+
+60
+00:08:06,880 --> 00:08:08,457
+Tink, are you going home already?
+
+61
+00:08:08,481 --> 00:08:11,400
+What if the phantom giant really appears?
+
+62
+00:08:11,600 --> 00:08:13,060
+What are you going to do, Sapphire?
+
+63
+00:08:14,650 --> 00:08:17,780
+I'll fight. That's why I'm out here on patrol.
+
+64
+00:08:18,350 --> 00:08:19,840
+Then I'm fighting too!
+
+65
+00:08:20,900 --> 00:08:23,800
+No way! A kid like you needs to go straight home!
+
+66
+00:08:24,076 --> 00:08:26,820
+That's ridiculous! You're a kid too, Sapphire!
+
+67
+00:08:27,705 --> 00:08:29,740
+There's something black under the bridge right now!
+
+68
+00:08:29,800 --> 00:08:32,380
+Huh? Where? Alright, I'll go check!
+
+69
+00:08:35,340 --> 00:08:36,520
+Away!
+
+70
+00:08:36,740 --> 00:08:39,980
+Hey! You fraud! Wait for me!
+
+71
+00:08:42,899 --> 00:08:44,683
+You meanie! Liar!
+
+72
+00:08:44,707 --> 00:08:46,713
+Why couldn't you take me along?!
+
+73
+00:09:05,919 --> 00:09:07,180
+I'm scared!
+
+74
+00:09:31,141 --> 00:09:35,207
+W-W-What are you?! I-I'm not scared of you!
+
+75
+00:09:42,147 --> 00:09:44,621
+Help me!
+
+76
+00:09:48,159 --> 00:09:49,180
+I'm scared!
+
+77
+00:09:49,345 --> 00:09:50,280
+Ghost!
+
+78
+00:09:50,360 --> 00:09:52,140
+What is with that kid?
+
+79
+00:09:52,160 --> 00:09:53,160
+What a weird kid!
+
+80
+00:10:17,040 --> 00:10:20,180
+That's the cat that was with the fortune teller earlier.
+
+81
+00:10:20,280 --> 00:10:21,000
+Get lost!
+
+82
+00:10:21,001 --> 00:10:22,001
+Shoo!
+
+83
+00:10:25,723 --> 00:10:28,713
+I'm scared, you guys! The fortune came true!
+
+84
+00:10:28,985 --> 00:10:30,765
+Help me!
+
+85
+00:10:39,645 --> 00:10:41,960
+I hear something! That's my daughter's voice!
+
+86
+00:10:42,400 --> 00:10:44,206
+What is it? What is it? What is it?
+
+87
+00:10:58,121 --> 00:10:58,842
+What is it?!
+
+88
+00:10:58,867 --> 00:11:01,073
+It's the phantom giant!
+
+89
+00:11:09,281 --> 00:11:10,013
+What's that?
+
+90
+00:11:14,319 --> 00:11:16,100
+There you are, giant knight!
+
+91
+00:11:17,989 --> 00:11:19,180
+So this is the black mist?
+
+92
+00:11:20,209 --> 00:11:22,220
+Where are you, phantom giant?
+
+93
+00:11:23,234 --> 00:11:25,626
+Show yourself, phantom giant!
+
+94
+00:11:26,089 --> 00:11:28,060
+You wait here, okay?
+
+95
+00:11:30,250 --> 00:11:32,586
+Show yourself, phantom giant!
+
+96
+00:11:33,095 --> 00:11:34,660
+Sapphire will take you on!
+
+97
+00:11:43,680 --> 00:11:44,680
+Explain yourself!
+
+98
+00:11:47,159 --> 00:11:49,700
+Why are you kidnapping the men of Silverland?
+
+99
+00:12:06,159 --> 00:12:08,480
+Damn, it's poison mist!
+
+100
+00:12:10,379 --> 00:12:11,379
+A magic giant...!
+
+101
+00:12:15,334 --> 00:12:16,979
+It hurts...I can't breathe.
+
+102
+00:12:25,219 --> 00:12:25,920
+Opal!
+
+103
+00:12:56,779 --> 00:13:04,560
+Oh, Sapphire, please wake up! If Opal hadn't brought her back, Sapphire would be in the hands of the X-Gang right now...
+
+104
+00:13:04,809 --> 00:13:07,780
+You must be so worried, but what did the doctor say?
+
+105
+00:13:07,781 --> 00:13:12,020
+He said it's a poison never seen in this kingdom, so there is no known cure...
+
+106
+00:13:12,659 --> 00:13:15,780
+Sapphire, if only I could take your place...
+
+107
+00:13:16,360 --> 00:13:18,780
+Sapphire, please wake up...
+
+108
+00:13:19,365 --> 00:13:24,320
+Your Majesty, I brought a fortune teller hoping he might be of some help.
+
+109
+00:13:24,540 --> 00:13:24,600
+What?
+
+110
+00:13:24,889 --> 00:13:30,940
+Now then, Princess Sapphire's fate... Can that fortune-telling really tell us what lies ahead for Sapphire?
+
+111
+00:13:31,445 --> 00:13:32,445
+Of course.
+
+112
+00:13:32,689 --> 00:13:37,760
+Now, everyone. He is waiting in the hall, so please come hear his prophecy.
+
+113
+00:13:44,809 --> 00:13:49,460
+Everyone has gathered, I see. Well then, let us begin.
+
+114
+00:13:55,415 --> 00:13:57,780
+How dreadful!
+
+115
+00:14:04,660 --> 00:14:07,420
+Ah... Oh, how tragic...
+
+116
+00:14:07,730 --> 00:14:10,720
+Tomorrow night, this castle will be shrouded in a black mist.
+
+117
+00:14:11,120 --> 00:14:16,540
+In that fog, you will hear the phantom giant approaching.
+
+118
+00:14:18,109 --> 00:14:23,860
+Um, so Sapphire... will be taken by the phantom giant. No one can stop it.
+
+119
+00:14:24,050 --> 00:14:26,900
+If you resist, you will meet your doom.
+
+120
+00:14:27,095 --> 00:14:34,140
+Oh, how terrible... My lords, what happened? Everyone! Do not block the phantom giant's path!
+
+121
+00:14:35,160 --> 00:14:40,880
+What a tragic fate! Princess Sapphire falls into evil hands while still asleep!
+
+122
+00:14:55,220 --> 00:14:56,220
+Sapphire!
+
+123
+00:14:57,100 --> 00:15:01,120
+Franz, it's a secret that Sapphire moved into this room.
+
+124
+00:15:01,305 --> 00:15:04,360
+A secret? So Sapphire's room will stay empty?
+
+125
+00:15:05,380 --> 00:15:06,380
+That's why... look!
+
+126
+00:15:07,405 --> 00:15:11,280
+I will stand in for Sapphire, Prince!
+
+127
+00:15:12,399 --> 00:15:16,200
+I tried my best to stop her, but she wouldn't listen. So I called Franz.
+
+128
+00:15:17,035 --> 00:15:20,240
+You want me to fight the phantom giant? All right!
+
+129
+00:15:20,669 --> 00:15:24,300
+Hold on! I actually need Franz to go to the outer fort at Point X.
+
+130
+00:15:24,940 --> 00:15:36,380
+Rumor has it the giant is a demon guarding the fortress. If we bring down the castle, perhaps the black fog will... Leave it to me, My Lord! I swear I'll crush that cursed tower!
+
+131
+00:15:37,234 --> 00:15:42,300
+Sapphire, I would go anywhere to protect you. Even through the gates of hell from which there is no return.
+
+132
+00:15:42,840 --> 00:15:44,880
+So stay strong and wait for me, Sapphire.
+
+133
+00:15:47,899 --> 00:15:49,340
+I am taking my leave now, Prince.
+
+134
+00:15:55,180 --> 00:15:56,640
+Be careful, Prince Franz.
+
+135
+00:16:35,599 --> 00:16:37,100
+It's night... it came in the night!
+
+136
+00:16:54,320 --> 00:16:56,880
+Whoa, the whirlwind is here!
+
+137
+00:17:03,399 --> 00:17:05,300
+That sounded like a scream...
+
+138
+00:17:16,899 --> 00:17:20,619
+Ah! The giant from the fortune-teller's hall has come!
+
+139
+00:17:25,659 --> 00:17:27,300
+Aaaaaah!
+
+140
+00:17:38,699 --> 00:17:40,880
+No one will get in our way now!
+
+141
+00:17:44,699 --> 00:17:48,580
+Ah, my lovely crows, carry her carefully!
+
+142
+00:17:51,739 --> 00:17:54,660
+Ah, Sapphire, you're awake.
+
+143
+00:17:55,149 --> 00:17:56,149
+What on earth happened?
+
+144
+00:17:57,724 --> 00:17:59,540
+Isn't this Mother's room?
+
+145
+00:17:59,899 --> 00:18:02,600
+Well, there are complicated circumstances.
+
+146
+00:18:03,060 --> 00:18:04,060
+What?
+
+147
+00:18:06,389 --> 00:18:07,389
+Mother!
+
+148
+00:18:07,620 --> 00:18:08,620
+Mother?
+
+149
+00:18:08,940 --> 00:18:09,940
+Mother!
+
+150
+00:18:11,180 --> 00:18:12,180
+Mother!
+
+151
+00:18:12,820 --> 00:18:14,680
+Mother...
+
+152
+00:18:15,709 --> 00:18:20,780
+Just as the fortune foretold, a phantom giant carried her off. A phantom giant?
+
+153
+00:18:21,499 --> 00:18:24,300
+Sapphire, you're supposed to be in bed!
+
+154
+00:18:24,639 --> 00:18:26,220
+That's right, I won't give up!
+
+155
+00:18:26,409 --> 00:18:27,860
+She was hit by poison, after all.
+
+156
+00:18:28,879 --> 00:18:29,500
+Swipe it! Crush their greed!
+
+157
+00:18:29,619 --> 00:18:31,660
+Look at you, you need to stay in bed.
+
+158
+00:18:33,699 --> 00:18:36,400
+Don't be reckless, Sapphire is sick!
+
+159
+00:18:37,194 --> 00:18:39,480
+I'm not Sapphire anymore! I'm the Princess Knight!
+
+160
+00:18:40,520 --> 00:18:41,520
+Let's go, Tink!
+
+161
+00:18:41,900 --> 00:18:42,900
+Huh?
+
+162
+00:18:44,604 --> 00:18:46,300
+Number nine, just you wait...
+
+163
+00:19:00,619 --> 00:19:02,020
+It's just those two, as expected.
+
+164
+00:19:18,160 --> 00:19:20,740
+(Scream)
+
+165
+00:19:21,299 --> 00:19:24,750
+Lord X, here is what was promised...
+
+166
+00:19:25,720 --> 00:19:26,720
+Good work.
+
+167
+00:19:30,139 --> 00:19:33,580
+Well done. Now I have nothing left to fear.
+
+168
+00:19:33,809 --> 00:19:35,140
+This is Sapphire.
+
+169
+00:19:36,274 --> 00:19:38,600
+Isn't this the Queen of Silverland?
+
+170
+00:19:39,294 --> 00:19:44,400
+Damn it! She shielded her daughter and took her place! Curse it!
+
+171
+00:19:47,569 --> 00:19:48,800
+Hey, what about that gold?
+
+172
+00:19:49,279 --> 00:19:50,920
+An intruder! Seize them!
+
+173
+00:20:03,799 --> 00:20:05,060
+The Prince of France!
+
+174
+00:20:07,499 --> 00:20:11,920
+Goldland remnants, drop your swords! Slaves, back to your cells!
+
+175
+00:20:12,424 --> 00:20:15,060
+Unless you want the Queen to die!
+
+176
+00:20:16,469 --> 00:20:19,140
+Prince Franz! Drop your sword!
+
+177
+00:20:20,029 --> 00:20:24,440
+Or do you not care what happens to the queen of a neighboring kingdom?
+
+178
+00:20:25,084 --> 00:20:27,360
+Cowards! Using a hostage!
+
+179
+00:20:28,309 --> 00:20:32,260
+I'll give you until the count of ten!
+
+180
+00:20:32,724 --> 00:20:34,100
+One!
+
+181
+00:20:37,949 --> 00:20:40,660
+That's... Mother!
+
+182
+00:20:42,019 --> 00:20:43,360
+Five!
+
+183
+00:20:44,279 --> 00:20:45,540
+Six!
+
+184
+00:20:50,809 --> 00:20:52,060
+Seven!
+
+185
+00:20:52,700 --> 00:20:53,700
+Ngh!
+
+186
+00:20:57,699 --> 00:20:58,699
+No!
+
+187
+00:21:03,794 --> 00:21:05,960
+Wait, stop!
+
+188
+00:21:07,899 --> 00:21:08,899
+That's Prince Franz.
+
+189
+00:21:11,879 --> 00:21:17,660
+That's a good prince. Now, to make an example of him, run your sword through his chest, Prince Franz!
+
+190
+00:21:22,980 --> 00:21:23,980
+Princess Knight!
+
+191
+00:21:24,100 --> 00:21:25,100
+What?!
+
+192
+00:21:27,004 --> 00:21:28,120
+You little girl!
+
+193
+00:21:28,440 --> 00:21:29,440
+Look out!
+
+194
+00:21:31,779 --> 00:21:34,000
+As if something like that would throw me off!
+
+195
+00:21:36,024 --> 00:21:38,040
+Take a rest! Now die!
+
+196
+00:21:45,490 --> 00:21:46,490
+This sword...?
+
+197
+00:21:46,880 --> 00:21:47,880
+Princess Knight!
+
+198
+00:21:48,080 --> 00:21:49,080
+Let's go, X!
+
+199
+00:21:49,754 --> 00:21:51,960
+We've been interrupted! Fall back for now!
+
+200
+00:21:52,010 --> 00:21:56,480
+Damn it, this castle is lost! I'll make sure to pay you back for this!
+
+201
+00:21:56,490 --> 00:21:57,240
+Wait!
+
+202
+00:21:57,384 --> 00:22:01,520
+Damn prince, perish along with this castle!
+
+203
+00:22:02,669 --> 00:22:03,920
+Damn it! He got away!
+
+204
+00:22:06,669 --> 00:22:07,860
+Franz, are you all right?
+
+205
+00:22:08,164 --> 00:22:10,000
+X escaped, but I'm fine!
+
+206
+00:22:15,160 --> 00:22:18,400
+Look out! Franz, run! This castle is collapsing!
+
+207
+00:23:26,160 --> 00:23:30,920
+Curse that Princess Knight X! Using a phantom giant transformed from crows just to get slaves to build Dejirou!
+
+208
+00:23:32,249 --> 00:23:33,840
+So that's why you were kidnapping the townspeople!
+
+209
+00:23:34,164 --> 00:23:37,360
+X's scheme is completely ruined! Serves him right!
+
+210
+00:23:40,079 --> 00:23:42,900
+Where is the Princess Knight off to? I'm worried about X, who escaped!
+
+211
+00:23:43,484 --> 00:23:46,900
+There's no telling what trick they'll pull next! Just be careful!
+
+212
+00:23:47,594 --> 00:23:49,960
+Thank you, Princess Knight! Until we meet again!
+
+213
+00:23:51,440 --> 00:23:52,900
+Thank you, Prince Frank.
+
+214
+00:23:59,849 --> 00:24:07,080
+You think you've thwarted my plans, but think again. X saves the best for last.
+
+215
+00:24:09,839 --> 00:24:15,480
+Next time, I'll destroy Silverland for sure. Mark my words!
+
+216
+00:24:15,504 --> 00:24:17,504
+
