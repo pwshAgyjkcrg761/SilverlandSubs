@@ -407,457 +407,634 @@ It hurts...I can't breathe.
 Opal!
 
 103
-00:12:56,779 --> 00:13:04,560
-Oh, Sapphire, please wake up! If Opal hadn't brought her back, Sapphire would be in the hands of the X-Gang right now...
+00:12:56,771 --> 00:12:59,817
+Sapphire, oh, please wake up!
 
 104
+00:12:59,849 --> 00:13:01,489
+If Opal hadn't brought her back,
+
+105
+00:13:01,513 --> 00:13:04,231
+Sapphire would be in the hands of the X-Gang right now...
+
+106
 00:13:04,809 --> 00:13:07,780
 You must be so worried, but what did the doctor say?
 
-105
-00:13:07,781 --> 00:13:12,020
+107
+00:13:07,781 --> 00:13:11,574
 He said it's a poison never seen in this kingdom, so there is no known cure...
 
-106
-00:13:12,659 --> 00:13:15,780
+108
+00:13:12,659 --> 00:13:15,936
 Sapphire, if only I could take your place...
 
-107
+109
 00:13:16,360 --> 00:13:18,780
 Sapphire, please wake up...
 
-108
+110
 00:13:19,365 --> 00:13:24,320
 Your Majesty, I brought a fortune teller hoping he might be of some help.
 
-109
-00:13:24,540 --> 00:13:24,600
-What?
-
-110
-00:13:24,889 --> 00:13:30,940
-Now then, Princess Sapphire's fate... Can that fortune-telling really tell us what lies ahead for Sapphire?
-
 111
+00:13:24,889 --> 00:13:27,817
+Now then, Princess Sapphire's fate...
+
+112
+00:13:27,841 --> 00:13:30,940
+Can that fortune-telling really tell us what lies ahead for Sapphire?
+
+113
 00:13:31,445 --> 00:13:32,445
 Of course.
 
-112
-00:13:32,689 --> 00:13:37,760
-Now, everyone. He is waiting in the hall, so please come hear his prophecy.
-
-113
-00:13:44,809 --> 00:13:49,460
-Everyone has gathered, I see. Well then, let us begin.
-
 114
+00:13:32,689 --> 00:13:33,536
+Now, everyone.
+
+115
+00:13:33,560 --> 00:13:37,760
+He is waiting in the hall, so please come hear his prophecy.
+
+116
+00:13:44,809 --> 00:13:47,559
+Everyone has gathered, I see.
+
+117
+00:13:47,583 --> 00:13:49,460
+Well then, let us begin.
+
+118
 00:13:55,415 --> 00:13:57,780
 How dreadful!
 
-115
-00:14:04,660 --> 00:14:07,420
-Ah... Oh, how tragic...
+119
+00:14:05,511 --> 00:14:07,420
+Oh, how tragic...
 
-116
+120
 00:14:07,730 --> 00:14:10,720
 Tomorrow night, this castle will be shrouded in a black mist.
 
-117
+121
 00:14:11,120 --> 00:14:16,540
 In that fog, you will hear the phantom giant approaching.
 
-118
-00:14:18,109 --> 00:14:23,860
-Um, so Sapphire... will be taken by the phantom giant. No one can stop it.
+122
+00:14:17,218 --> 00:14:19,231
+And so, Sapphire...
 
-119
+123
+00:14:19,630 --> 00:14:23,930
+will be taken by the phantom giant. No one can stop it.
+
+124
 00:14:24,050 --> 00:14:26,900
 If you resist, you will meet your doom.
 
-120
-00:14:27,095 --> 00:14:34,140
-Oh, how terrible... My lords, what happened? Everyone! Do not block the phantom giant's path!
-
-121
-00:14:35,160 --> 00:14:40,880
-What a tragic fate! Princess Sapphire falls into evil hands while still asleep!
-
-122
-00:14:55,220 --> 00:14:56,220
-Sapphire!
-
-123
-00:14:57,100 --> 00:15:01,120
-Franz, it's a secret that Sapphire moved into this room.
-
-124
-00:15:01,305 --> 00:15:04,360
-A secret? So Sapphire's room will stay empty?
-
 125
-00:15:05,380 --> 00:15:06,380
-That's why... look!
+00:14:27,095 --> 00:14:28,590
+Oh, how terrible...
 
 126
-00:15:07,405 --> 00:15:11,280
-I will stand in for Sapphire, Prince!
+00:14:28,614 --> 00:14:30,692
+My Queen, what is the matter?!
 
 127
-00:15:12,399 --> 00:15:16,200
-I tried my best to stop her, but she wouldn't listen. So I called Franz.
+00:14:30,716 --> 00:14:34,140
+Everyone! Do not block the phantom giant's path!
 
 128
-00:15:17,035 --> 00:15:20,240
-You want me to fight the phantom giant? All right!
+00:14:35,160 --> 00:14:37,192
+What a tragic fate!
 
 129
-00:15:20,669 --> 00:15:24,300
-Hold on! I actually need Franz to go to the outer fort at Point X.
+00:14:37,638 --> 00:14:40,880
+Princess Sapphire falls into evil hands while still asleep!
 
 130
-00:15:24,940 --> 00:15:36,380
-Rumor has it the giant is a demon guarding the fortress. If we bring down the castle, perhaps the black fog will... Leave it to me, My Lord! I swear I'll crush that cursed tower!
+00:14:55,602 --> 00:14:56,602
+Sapphire!
 
 131
-00:15:37,234 --> 00:15:42,300
-Sapphire, I would go anywhere to protect you. Even through the gates of hell from which there is no return.
+00:14:57,365 --> 00:15:01,120
+Franz, it's a secret that Sapphire moved into this room.
 
 132
-00:15:42,840 --> 00:15:44,880
-So stay strong and wait for me, Sapphire.
+00:15:01,305 --> 00:15:01,973
+A secret?
 
 133
-00:15:47,899 --> 00:15:49,340
-I am taking my leave now, Prince.
+00:15:01,997 --> 00:15:04,360
+So Sapphire's room will stay empty?
 
 134
-00:15:55,180 --> 00:15:56,640
-Be careful, Prince Franz.
+00:15:05,380 --> 00:15:06,380
+Look, over there!
 
 135
-00:16:35,599 --> 00:16:37,100
-It's night... it came in the night!
+00:15:07,405 --> 00:15:10,129
+I will stand in for Sapphire.
 
 136
-00:16:54,320 --> 00:16:56,880
-Whoa, the whirlwind is here!
+00:15:10,638 --> 00:15:11,764
+Your Majesty!
 
 137
-00:17:03,399 --> 00:17:05,300
-That sounded like a scream...
+00:15:12,203 --> 00:15:14,567
+I tried my best to stop her, but she wouldn't listen.
 
 138
-00:17:16,899 --> 00:17:20,619
-Ah! The giant from the fortune-teller's hall has come!
+00:15:14,591 --> 00:15:16,200
+So I called Franz.
 
 139
-00:17:25,659 --> 00:17:27,300
-Aaaaaah!
+00:15:17,035 --> 00:15:19,317
+You want me to fight the phantom giant?
 
 140
-00:17:38,699 --> 00:17:40,880
-No one will get in our way now!
+00:15:19,919 --> 00:15:20,365
+All right!
 
 141
-00:17:44,699 --> 00:17:48,580
-Ah, my lovely crows, carry her carefully!
+00:15:20,390 --> 00:15:21,262
+Actually...
 
 142
-00:17:51,739 --> 00:17:54,660
-Ah, Sapphire, you're awake.
+00:15:21,287 --> 00:15:24,385
+Franz, I want you to go to X's outer castle.
 
 143
+00:15:24,940 --> 00:15:28,404
+Rumor has it the giant is a demon guarding the fortress.
+
+144
+00:15:28,428 --> 00:15:30,880
+If we bring down the castle, perhaps the black fog will...
+
+145
+00:15:31,225 --> 00:15:32,630
+Leave it to me, Your Majesty.
+
+146
+00:15:32,889 --> 00:15:36,380
+I will surely crush that cursed tower with my own strength.
+
+147
+00:15:37,116 --> 00:15:40,209
+Sapphire, I would go anywhere to protect you.
+
+148
+00:15:40,420 --> 00:15:42,534
+Even through the gates of hell from which there is no return.
+
+149
+00:15:42,840 --> 00:15:45,012
+So stay strong and wait for me, Sapphire.
+
+150
+00:15:47,899 --> 00:15:49,340
+I am taking my leave now, Your Majesty.
+
+151
+00:15:55,180 --> 00:15:56,343
+Be careful, Prince Franz.
+
+152
+00:16:35,599 --> 00:16:37,100
+<i>It's night. Night has come.</i>
+
+153
+00:16:54,960 --> 00:16:56,880
+The giant has appeared!
+
+154
+00:17:03,399 --> 00:17:04,643
+That sounded like a scream...
+
+155
+00:17:18,000 --> 00:17:18,974
+The phantom giant...
+
+156
+00:17:18,998 --> 00:17:20,908
+Just as foretold, the giant has come!
+
+157
+00:17:38,699 --> 00:17:41,114
+No one will get in our way now!
+
+158
+00:17:44,699 --> 00:17:48,955
+Ah, my lovely crows, carry her carefully!
+
+159
+00:17:51,996 --> 00:17:54,660
+Sapphire, you're awake.
+
+160
 00:17:55,149 --> 00:17:56,149
 What on earth happened?
 
-144
+161
 00:17:57,724 --> 00:17:59,540
 Isn't this Mother's room?
 
-145
-00:17:59,899 --> 00:18:02,600
+162
+00:17:59,899 --> 00:18:02,912
 Well, there are complicated circumstances.
 
-146
-00:18:03,060 --> 00:18:04,060
+163
+00:18:03,060 --> 00:18:03,911
 What?
 
-147
+164
 00:18:06,389 --> 00:18:07,389
 Mother!
 
-148
+165
 00:18:07,620 --> 00:18:08,620
-Mother?
-
-149
-00:18:08,940 --> 00:18:09,940
 Mother!
 
-150
-00:18:11,180 --> 00:18:12,180
+166
+00:18:08,940 --> 00:18:10,643
 Mother!
 
-151
-00:18:12,820 --> 00:18:14,680
+167
+00:18:11,383 --> 00:18:12,648
+Mother!
+
+168
+00:18:13,116 --> 00:18:14,172
 Mother...
 
-152
-00:18:15,709 --> 00:18:20,780
-Just as the fortune foretold, a phantom giant carried her off. A phantom giant?
+169
+00:18:15,709 --> 00:18:19,193
+Just as the fortune foretold, a phantom giant carried her off.
 
-153
-00:18:21,499 --> 00:18:24,300
-Sapphire, you're supposed to be in bed!
+170
+00:18:19,217 --> 00:18:20,662
+A phantom giant?
 
-154
-00:18:24,639 --> 00:18:26,220
-That's right, I won't give up!
+171
+00:18:21,499 --> 00:18:22,248
+Sapphire,
 
-155
+172
+00:18:22,272 --> 00:18:24,300
+you're supposed to be in bed!
+
+173
+00:18:24,638 --> 00:18:26,321
+That's right... as if I could just give up!
+
+174
 00:18:26,409 --> 00:18:27,860
-She was hit by poison, after all.
+You were hit by poison, after all.
 
-156
-00:18:28,879 --> 00:18:29,500
-Swipe it! Crush their greed!
+175
+00:18:27,964 --> 00:18:29,562
+Damn you X. How dare you take Mother.
 
-157
-00:18:29,619 --> 00:18:31,660
+176
+00:18:29,619 --> 00:18:31,745
 Look at you, you need to stay in bed.
 
-158
-00:18:33,699 --> 00:18:36,400
+177
+00:18:33,699 --> 00:18:36,478
 Don't be reckless, Sapphire is sick!
 
-159
-00:18:37,194 --> 00:18:39,480
-I'm not Sapphire anymore! I'm the Princess Knight!
+178
+00:18:37,194 --> 00:18:38,638
+I'm not Sapphire anymore!
 
-160
-00:18:40,520 --> 00:18:41,520
+179
+00:18:38,662 --> 00:18:39,706
+I'm the Ribbon Knight!
+
+180
+00:18:40,809 --> 00:18:41,621
 Let's go, Tink!
 
-161
-00:18:41,900 --> 00:18:42,900
-Huh?
+181
+00:18:44,603 --> 00:18:45,674
+<i>Damn you, X... Just you wait!</i>
 
-162
-00:18:44,604 --> 00:18:46,300
-Number nine, just you wait...
+182
+00:18:45,960 --> 00:18:47,300
+<i>I will save you, Mother... I promise!</i>
 
-163
-00:19:00,619 --> 00:19:02,020
+183
+00:19:00,619 --> 00:19:01,801
 It's just those two, as expected.
 
-164
-00:19:18,160 --> 00:19:20,740
-(Scream)
+184
+00:19:13,826 --> 00:19:16,108
+It burns! I can't see...!
 
-165
+185
 00:19:21,299 --> 00:19:24,750
 Lord X, here is what was promised...
 
-166
+186
 00:19:25,720 --> 00:19:26,720
 Good work.
 
-167
-00:19:30,139 --> 00:19:33,580
-Well done. Now I have nothing left to fear.
+187
+00:19:30,139 --> 00:19:31,521
+Well done.
 
-168
-00:19:33,809 --> 00:19:35,140
+188
+00:19:31,748 --> 00:19:33,236
+Now I have nothing left to fear.
+
+189
+00:19:33,809 --> 00:19:35,132
 This is Sapphire.
 
-169
-00:19:36,274 --> 00:19:38,600
+190
+00:19:36,461 --> 00:19:38,600
 Isn't this the Queen of Silverland?
 
-170
-00:19:39,294 --> 00:19:44,400
-Damn it! She shielded her daughter and took her place! Curse it!
+191
+00:19:39,294 --> 00:19:40,677
+Damn it!
 
-171
-00:19:47,569 --> 00:19:48,800
-Hey, what about that gold?
+192
+00:19:40,701 --> 00:19:43,685
+She shielded her daughter and took her place!
 
-172
+193
+00:19:43,710 --> 00:19:44,970
+Curse it!
+
+194
+00:19:47,920 --> 00:19:48,846
+What's that bell...?
+
+195
 00:19:49,279 --> 00:19:50,920
 An intruder! Seize them!
 
-173
-00:20:03,799 --> 00:20:05,060
-The Prince of France!
+196
+00:20:03,799 --> 00:20:05,239
+It's Prince Franz!
 
-174
-00:20:07,499 --> 00:20:11,920
-Goldland remnants, drop your swords! Slaves, back to your cells!
+197
+00:20:07,499 --> 00:20:09,857
+Goldland remnants, drop your swords!
 
-175
+198
+00:20:09,881 --> 00:20:12,060
+Slaves, back to your cells!
+
+199
 00:20:12,424 --> 00:20:15,060
 Unless you want the Queen to die!
 
-176
+200
 00:20:16,469 --> 00:20:19,140
 Prince Franz! Drop your sword!
 
-177
+201
 00:20:20,029 --> 00:20:24,440
 Or do you not care what happens to the queen of a neighboring kingdom?
 
-178
-00:20:25,084 --> 00:20:27,360
-Cowards! Using a hostage!
+202
+00:20:25,076 --> 00:20:25,974
+Cowards!
 
-179
-00:20:28,309 --> 00:20:32,260
+203
+00:20:26,006 --> 00:20:27,508
+Using a hostage!
+
+204
+00:20:29,246 --> 00:20:32,260
 I'll give you until the count of ten!
 
-180
-00:20:32,724 --> 00:20:34,100
+205
+00:20:32,724 --> 00:20:34,045
 One!
 
-181
-00:20:37,949 --> 00:20:40,660
-That's... Mother!
+206
+00:20:38,378 --> 00:20:38,966
+That's...
 
-182
+207
+00:20:39,881 --> 00:20:40,847
+Mother!
+
+208
 00:20:42,019 --> 00:20:43,360
 Five!
 
-183
-00:20:44,279 --> 00:20:45,540
+209
+00:20:44,279 --> 00:20:45,868
 Six!
 
-184
-00:20:50,809 --> 00:20:52,060
+210
+00:20:50,809 --> 00:20:52,661
 Seven!
 
-185
-00:20:52,700 --> 00:20:53,700
-Ngh!
+211
+00:20:57,066 --> 00:20:58,699
+Eight!
 
-186
-00:20:57,699 --> 00:20:58,699
-No!
+212
+00:21:03,662 --> 00:21:04,285
+Prepare yourself!
 
-187
-00:21:03,794 --> 00:21:05,960
+213
+00:21:04,309 --> 00:21:05,960
 Wait, stop!
 
-188
-00:21:07,899 --> 00:21:08,899
+214
+00:21:07,899 --> 00:21:09,156
 That's Prince Franz.
 
-189
-00:21:11,879 --> 00:21:17,660
-That's a good prince. Now, to make an example of him, run your sword through his chest, Prince Franz!
+215
+00:21:11,879 --> 00:21:13,052
+That's a good prince.
 
-190
+216
+00:21:13,256 --> 00:21:13,966
+Now,
+
+217
+00:21:13,990 --> 00:21:16,708
+to make an example of him, run your sword through his chest.
+
+218
+00:21:16,732 --> 00:21:17,660
+Prince Franz!
+
+219
 00:21:22,980 --> 00:21:23,980
-Princess Knight!
+Ribbon Knight!
 
-191
-00:21:24,100 --> 00:21:25,100
+220
+00:21:24,060 --> 00:21:24,623
 What?!
 
-192
+221
+00:21:25,256 --> 00:21:26,292
+You stupid bad guy!
+
+222
 00:21:27,004 --> 00:21:28,120
-You little girl!
+You little pipsqueak!
 
-193
-00:21:28,440 --> 00:21:29,440
-Look out!
+223
+00:21:28,572 --> 00:21:29,338
+Tink! Look out!
 
-194
+224
 00:21:31,779 --> 00:21:34,000
 As if something like that would throw me off!
 
-195
-00:21:36,024 --> 00:21:38,040
-Take a rest! Now die!
+225
+00:21:36,024 --> 00:21:37,271
+You slippery little wretch,
 
-196
-00:21:45,490 --> 00:21:46,490
-This sword...?
+226
+00:21:37,295 --> 00:21:38,375
+die!
 
-197
+227
+00:21:45,060 --> 00:21:46,490
+Franz take my sword!
+
+228
 00:21:46,880 --> 00:21:47,880
-Princess Knight!
+Ribbon Knight!
 
-198
-00:21:48,080 --> 00:21:49,080
+229
+00:21:48,080 --> 00:21:49,204
 Let's go, X!
 
-199
+230
 00:21:49,754 --> 00:21:51,960
 We've been interrupted! Fall back for now!
 
-200
-00:21:52,010 --> 00:21:56,480
-Damn it, this castle is lost! I'll make sure to pay you back for this!
+231
+00:21:51,984 --> 00:21:53,078
+Wait, X!
 
-201
+232
+00:21:53,197 --> 00:21:54,763
+Curse you, this castle is lost!
+
+233
+00:21:54,787 --> 00:21:56,480
+I'll make sure to pay you back for this!
+
+234
 00:21:56,490 --> 00:21:57,240
 Wait!
 
-202
-00:21:57,384 --> 00:22:01,520
-Damn prince, perish along with this castle!
+235
+00:21:57,384 --> 00:21:58,466
+Impudent prince,
 
-203
+236
+00:21:58,693 --> 00:22:01,520
+perish along with this castle!
+
+237
 00:22:02,669 --> 00:22:03,920
 Damn it! He got away!
 
-204
-00:22:06,669 --> 00:22:07,860
+238
+00:22:06,669 --> 00:22:07,977
 Franz, are you all right?
 
-205
+239
 00:22:08,164 --> 00:22:10,000
 X escaped, but I'm fine!
 
-206
-00:22:15,160 --> 00:22:18,400
-Look out! Franz, run! This castle is collapsing!
+240
+00:22:15,160 --> 00:22:16,896
+Look out! Franz, run!
 
-207
-00:23:26,160 --> 00:23:30,920
-Curse that Princess Knight X! Using a phantom giant transformed from crows just to get slaves to build Dejirou!
+241
+00:22:16,920 --> 00:22:18,704
+The castle is collapsing!
 
-208
-00:23:32,249 --> 00:23:33,840
-So that's why you were kidnapping the townspeople!
+242
+00:22:42,670 --> 00:22:46,842
+It's collapsing behind us! Move, fast!
 
-209
-00:23:34,164 --> 00:23:37,360
-X's scheme is completely ruined! Serves him right!
+243
+00:23:26,160 --> 00:23:26,974
+Damn X!
 
-210
-00:23:40,079 --> 00:23:42,900
-Where is the Princess Knight off to? I'm worried about X, who escaped!
+244
+00:23:26,998 --> 00:23:28,747
+Using a phantom giant transformed from crows,
 
-211
-00:23:43,484 --> 00:23:46,900
-There's no telling what trick they'll pull next! Just be careful!
+245
+00:23:28,771 --> 00:23:31,060
+all because he wanted slaves to build his castle!
 
-212
-00:23:47,594 --> 00:23:49,960
-Thank you, Princess Knight! Until we meet again!
+246
+00:23:31,514 --> 00:23:33,840
+So that's why he was kidnapping the townspeople!
 
-213
-00:23:51,440 --> 00:23:52,900
-Thank you, Prince Frank.
+247
+00:23:34,164 --> 00:23:36,318
+X's scheme is completely ruined!
 
-214
-00:23:59,849 --> 00:24:07,080
-You think you've thwarted my plans, but think again. X saves the best for last.
+248
+00:23:36,342 --> 00:23:37,516
+Serves him right!
 
-215
-00:24:09,839 --> 00:24:15,480
-Next time, I'll destroy Silverland for sure. Mark my words!
+249
+00:23:40,079 --> 00:23:41,240
+Where is the Ribbon Knight off to?
 
-216
+250
+00:23:41,264 --> 00:23:42,985
+I'm worried about X getting away!
+
+251
+00:23:43,374 --> 00:23:45,466
+There's no telling what trick he'll pull next!
+
+252
+00:23:45,491 --> 00:23:46,970
+Just be careful!
+
+253
+00:23:47,594 --> 00:23:48,846
+Thank you, Ribbon Knight!
+
+254
+00:23:48,870 --> 00:23:49,960
+Until we meet again!
+
+255
+00:23:51,268 --> 00:23:52,900
+- Goodbye!
+- Thank you, Prince Franz.
+
+256
+00:23:59,849 --> 00:24:02,830
+You think you've thwarted my plans, but think again.
+
+257
+00:24:03,534 --> 00:24:07,080
+X saves the best for last.
+
+258
+00:24:09,839 --> 00:24:13,888
+Next time, I'll destroy Silverland for sure.
+
+259
+00:24:14,365 --> 00:24:15,480
+Mark my words!
+
+260
 00:24:15,504 --> 00:24:17,504
 
