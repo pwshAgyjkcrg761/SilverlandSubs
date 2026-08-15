@@ -264,7 +264,7 @@ Look, the black hawk is here. It's the signal.
 
 67
 00:07:40,459 --> 00:07:41,780
-Go inform Madame Gagol.
+Go inform Madam Gagol.
 
 68
 00:07:41,925 --> 00:07:42,386
@@ -496,7 +496,7 @@ Tink!
 
 125
 00:12:40,420 --> 00:12:41,959
-Prince Franz is in big trouble! 
+Prince Franz is in big trouble!
 
 126
 00:12:42,139 --> 00:12:44,802
@@ -556,7 +556,7 @@ I won't give up!
 
 140
 00:14:41,948 --> 00:14:42,572
-Is it around here? 
+Is it around here?
 
 141
 00:14:44,002 --> 00:14:45,046

@@ -204,7 +204,7 @@ Bye-bye!
 
 52
 00:06:35,130 --> 00:06:38,305
-I want to know who Sapphire sent a letter to and what it says. 
+I want to know who Sapphire sent a letter to and what it says.
 
 53
 00:06:38,329 --> 00:06:40,820
@@ -228,7 +228,7 @@ Spy News Flash: The Great Mail Heist!
 
 58
 00:07:11,440 --> 00:07:15,016
-Number one-one-one-one... two-two-two-three... 
+Number one-one-one-one... two-two-two-three...
 
 59
 00:07:15,040 --> 00:07:17,860
@@ -596,7 +596,7 @@ Spy News Flash: Operation Snoop!
 
 150
 00:13:36,134 --> 00:13:37,767
-That paper looks delicious. 
+That paper looks delicious.
 
 151
 00:13:37,791 --> 00:13:39,293
@@ -968,15 +968,15 @@ It's...
 
 243
 00:21:25,605 --> 00:21:26,605
-Garibo Crunchy-sticks!
+Skinny guy!
 
 244
 00:21:27,200 --> 00:21:28,200
-Garibo Crunchy-sticks!
+Skinny guy!
 
 245
 00:21:31,102 --> 00:21:32,429
-Garibo Crunchy-sticks!
+Skinny guy!
 
 246
 00:21:32,475 --> 00:21:34,094
@@ -1001,7 +1001,7 @@ Wait!
 
 251
 00:21:44,655 --> 00:21:45,792
-Garibo Crunchy-sticks!
+Skinny guy!
 
 252
 00:21:45,816 --> 00:21:47,296

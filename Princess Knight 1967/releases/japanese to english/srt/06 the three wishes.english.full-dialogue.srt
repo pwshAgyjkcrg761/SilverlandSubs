@@ -4,23 +4,22 @@
 
 2
 00:01:52,310 --> 00:01:55,042
-♪ Minami no umi no ♪ 
+♪ Minami no umi no ♪
 Of the southern seas...
-
 
 3
 00:01:55,067 --> 00:01:55,739
-♪  Yaho ♪ 
+♪  Yahho ♪
 Yahoo
 
 4
 00:01:55,763 --> 00:01:58,541
-♪ Hikari no shibaru ♪ 
+♪ Hikari no shibaru ♪
 Bound by the light...
 
 5
 00:01:58,566 --> 00:01:59,531
-♪  Yaho ♪ 
+♪  Yahho ♪
 Yahoo
 
 6
@@ -52,44 +51,44 @@ Don't laugh.
 Even if it's uncool, I'm the one who made it.
 
 12
-00:02:25,640 --> 00:02:27,140
+00:02:25,639 --> 00:02:27,397
 It's cool, very much so.
 
 13
-00:02:31,820 --> 00:02:37,040
-Yep, off I go! I did it!
+00:02:31,820 --> 00:02:33,792
+Yep, off I go!
 
 14
+00:02:36,035 --> 00:02:37,040
+I did it!
+
+15
 00:02:41,960 --> 00:02:42,420
 Huh?
 
-15
+16
 00:02:42,780 --> 00:02:43,780
 What's this?
 
-16
+17
 00:02:46,141 --> 00:02:46,880
 It's a shell!
 
-17
+18
 00:02:53,290 --> 00:02:54,640
 There's something inside.
 
-18
+19
 00:03:06,226 --> 00:03:08,640
 Here comes Prince Sapphire.
 
-19
+20
 00:03:09,090 --> 00:03:12,166
 I'm heading over to Lord Nylon, who is tailing them.
 
-20
+21
 00:03:13,300 --> 00:03:14,300
 No way!
-
-21
-00:03:14,780 --> 00:03:15,120
-Tsk!
 
 22
 00:03:15,220 --> 00:03:18,040
@@ -104,104 +103,104 @@ Grand Duke Duralumin's orders were to secretly spy on Sapphire while he’s play
 It’s that little angel again.
 
 25
-00:03:28,080 --> 00:03:31,173
-A little person came out of the shell. A little person from a shell?
+00:03:28,080 --> 00:03:29,590
+A little person came out of the shell.
 
 26
+00:03:29,614 --> 00:03:31,173
+A little person from a shell?
+
+27
 00:03:32,700 --> 00:03:34,460
 I was trapped in the shell.
 
-27
-00:03:34,614 --> 00:03:35,980
+28
+00:03:34,614 --> 00:03:36,214
 Thank you for saving me.
 
-28
+29
 00:03:36,915 --> 00:03:40,340
 He says this child was on a distant southern island.
 
-29
+30
 00:03:40,734 --> 00:03:44,120
 He says he was trapped inside the shell and drifted all the way here.
 
-30
+31
 00:03:44,990 --> 00:03:46,500
 What’s your papa’s name?
 
-31
+32
 00:03:47,400 --> 00:03:48,160
 Genie.
 
-32
+33
 00:03:48,184 --> 00:03:49,320
 You said Genie?
 
-33
+34
 00:03:49,835 --> 00:03:53,400
 Speaking of Genie, isn’t that the name of the genie of the lamp from the Arabian Nights?
 
-34
+35
 00:03:53,800 --> 00:03:54,940
 Is that genie your papa?
 
-35
+36
 00:03:55,360 --> 00:03:55,640
 Yeah.
 
-36
+37
 00:03:55,995 --> 00:04:00,680
 He used to be in a lamp, but now he’s free and living on an island.
 
-37
+38
 00:04:03,080 --> 00:04:04,740
 The genie of the magic lamp?
 
-38
+39
 00:04:04,900 --> 00:04:05,900
 Now this is interesting.
 
-39
+40
 00:04:06,124 --> 00:04:09,960
 If I remember correctly, a magic lamp is for making wishes.
 
-40
+41
 00:04:10,553 --> 00:04:11,179
 Yeah.
 
-41
+42
 00:04:11,271 --> 00:04:15,433
 My papa used to do whatever the person holding the lamp told him to.
 
-42
+43
 00:04:15,620 --> 00:04:18,140
 But he's not in that line of work anymore.
 
-43
+44
 00:04:18,480 --> 00:04:24,140
 But since you saved me, if I tell him, I’m sure he’ll grant your wish in return.
 
-44
+45
 00:04:24,485 --> 00:04:26,973
 Hey, take me home.
 
-45
+46
 00:04:27,125 --> 00:04:29,400
 To where my papa is on the southern island.
 
-46
+47
 00:04:29,425 --> 00:04:31,615
 Please. Hey, I’m begging you.
 
-47
+48
 00:04:31,750 --> 00:04:32,558
 Ah, thats...
 
-48
-00:04:33,402 --> 00:04:36,093
-Tinc, let's just dump this runt somewhere.
-
 49
-00:04:36,117 --> 00:04:36,907
-Huh?
+00:04:33,402 --> 00:04:36,093
+Tink, let's just dump this runt somewhere.
 
 50
 00:04:37,070 --> 00:04:39,820
@@ -645,7 +644,7 @@ Maybe it's Kubito-kun's island.
 
 160
 00:12:43,745 --> 00:12:46,720
-Look, Kubito!
+Look, Kubito-kun!
 
 161
 00:12:50,140 --> 00:12:51,140
@@ -817,7 +816,7 @@ By the way, that last place was apparently the Island of Tradition, but this tim
 Stay quiet!
 
 203
-00:14:44,895 --> 00:14:46,380
+00:14:44,895 --> 00:14:46,497
 You never know what might come out!
 
 204
