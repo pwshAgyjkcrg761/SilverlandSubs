@@ -622,7 +622,7 @@ Sapphire!
 
 156
 00:15:34,719 --> 00:15:38,443
-I was making a weapon with orbs bullets to protect Sapphire.
+I was making a weapon with the orbs to protect Sapphire.
 
 157
 00:15:38,467 --> 00:15:39,605
@@ -833,47 +833,47 @@ I did my best for Sapphire.
 Will you grant my wish?
 
 209
-00:20:21,629 --> 00:20:24,900
-Very well, Tink. I shall grant your wish.
+00:20:21,629 --> 00:20:22,592
+Very well, Tink.
 
 210
+00:20:23,272 --> 00:20:24,900
+I shall grant your wish.
+
+211
 00:20:25,839 --> 00:20:28,860
 I will send Sapphire's father and mother back to her.
 
-211
+212
 00:20:29,659 --> 00:20:35,280
 And I will take away the boy's heart that you wrongfully gave to Sapphire.
 
-212
+213
 00:20:36,694 --> 00:20:38,369
 Thank you, Father.
 
-213
-00:20:58,860 --> 00:21:00,500
-Excuse me!
-
 214
-00:21:22,499 --> 00:21:23,499
-That's my father!
-
-215
-00:21:23,540 --> 00:21:23,900
+00:21:21,334 --> 00:21:22,334
 Mother!
 
+215
+00:21:22,381 --> 00:21:23,516
+Father!
+
 216
-00:21:23,901 --> 00:21:24,080
-Grandfather!
+00:21:23,540 --> 00:21:24,235
+Sapphire!
 
 217
 00:21:24,300 --> 00:21:25,300
-Grandmother!
+Sapphire!
 
 218
-00:21:25,789 --> 00:21:26,789
-Your mother!
+00:21:25,789 --> 00:21:27,335
+Mother!
 
 219
-00:22:13,889 --> 00:22:15,280
+00:22:12,904 --> 00:22:15,358
 I'm Tink, back to being an angel!
 
 220
@@ -885,7 +885,7 @@ What became of Silverland after that?
 What happened to Sapphire and Franz?
 
 222
-00:22:21,154 --> 00:22:22,700
+00:22:21,154 --> 00:22:22,825
 You all want to know, don't you?
 
 223
@@ -893,45 +893,25 @@ You all want to know, don't you?
 Silverland has returned to the beautiful kingdom it once was.
 
 224
-00:22:28,480 --> 00:22:33,860
-But bit by bit, they will discover a new world. (No audio)
-
-225
-00:22:33,861 --> 00:22:40,060
-Good night.
-
-226
 00:22:55,859 --> 00:22:57,560
 Did you get the plan ready for tonight?
 
-227
-00:23:05,569 --> 00:23:07,360
+225
+00:23:05,569 --> 00:23:07,195
 Sorry to keep you waiting!
 
-228
+226
 00:23:14,239 --> 00:23:17,740
 They say Sapphire and Franz are getting married soon.
 
-229
+227
 00:23:18,539 --> 00:23:21,920
 I'm sure they'll make a wonderfully happy couple.
 
-230
-00:23:22,639 --> 00:23:25,680
+228
+00:23:22,639 --> 00:23:25,758
 And I'll be attending the wedding when they do!
 
-231
-00:23:58,160 --> 00:23:59,560
-[[MUSIC]]
-
-232
-00:24:02,220 --> 00:24:03,220
-[[MUSIC]]
-
-233
-00:24:05,680 --> 00:24:06,680
-[[MUSIC]]
-
-234
+229
 00:24:06,704 --> 00:24:08,704
 
