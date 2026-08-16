@@ -191,7 +191,7 @@ I'll ask God in Heaven for you.
 
 45
 00:03:49,850 --> 00:03:54,431
-Pegasus! Eros! Come down here!
+Ms. Winged Horse! Eros! Come down here!
 
 46
 00:03:57,170 --> 00:04:01,320
@@ -199,15 +199,15 @@ Sapphire's mother is sick. Please come down!
 
 47
 00:04:14,200 --> 00:04:15,307
-I'm Eros.
+<i>I'm Eros.</i>
 
 48
 00:04:16,120 --> 00:04:17,670
-It's been a while, Tink.
+<i>It's been a while, Tink.</i>
 
 49
 00:04:17,900 --> 00:04:19,700
-What do you want with me?
+<i>What do you want with me?</i>
 
 50
 00:04:20,805 --> 00:04:24,400
@@ -219,11 +219,11 @@ I want to go get Lady Venus's medicinal flower.
 
 52
 00:04:30,840 --> 00:04:31,840
-Understood.
+<i>Understood.</i>
 
 53
 00:04:32,085 --> 00:04:36,080
-Now, whoever loves the Queen the most, get on my back.
+<i>Now, whoever loves the Queen the most, get on my back.</i>
 
 54
 00:04:36,325 --> 00:04:37,325
@@ -1103,15 +1103,15 @@ Become the ugliest in the world!
 
 273
 00:21:37,379 --> 00:21:38,133
-Venus!
+<i>Venus!</i>
 
 274
 00:21:38,603 --> 00:21:39,597
-Venus!
+<i>Venus!</i>
 
 275
 00:21:40,079 --> 00:21:45,860
-I commanded you to rule over beauty, love, and life.
+<i>I commanded you to rule over beauty, love, and life.</i>
 
 276
 00:21:46,220 --> 00:21:47,620
@@ -1119,11 +1119,11 @@ Ah, yes, Father.
 
 277
 00:21:48,062 --> 00:21:54,274
-Yet you treat human beauty and life like playthings.
+<i>Yet you treat human beauty and life like playthings.</i>
 
 278
 00:21:54,845 --> 00:21:59,820
-It's time you tasted what your victims feel.
+<i>It's time you tasted what your victims feel.</i>
 
 279
 00:22:00,229 --> 00:22:04,720
