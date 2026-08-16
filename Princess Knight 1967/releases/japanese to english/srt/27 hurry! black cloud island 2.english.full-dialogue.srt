@@ -71,15 +71,15 @@ Hurry! Black Cloud Island
 
 15
 00:02:53,250 --> 00:02:55,740
-I was tricked by that Tink doll and thrown down a valley.
+<i>I was tricked by that Tink doll and thrown down a valley.</i>
 
 16
 00:02:56,570 --> 00:03:01,120
-And there, that foul smoke blinded me.
+<i>And there, that foul smoke blinded me.</i>
 
 17
 00:03:02,723 --> 00:03:06,673
-When I returned to the castle, an impostor was in my place.
+<i>When I returned to the castle, an impostor was in my place.</i>
 
 18
 00:03:08,624 --> 00:03:09,624
@@ -1434,5 +1434,82 @@ I'll defeat the Snow Queen and protect Silverland!
 Father, Mother, please wait for me!
 
 356
-00:24:05,470 --> 00:24:07,124
+00:24:26,781 --> 00:24:30,401
+♪ Tarari Ratta Ritta Ratta Rattattaa ♪
+-
+
+357
+00:24:30,402 --> 00:24:33,762
+♪ Kyahoo! Kyahoo! Kyahoo! ♪
+Yahoo! Yahoo! Yahoo!
+
+358
+00:24:33,763 --> 00:24:37,533
+♪ Tarari Ratta Ritta Ratta Rattattaa ♪
+-
+
+359
+00:24:37,534 --> 00:24:40,695
+♪ Kyahoo! Kyahoo! Kyahoo! ♪
+Yahoo! Yahoo! Yahoo!
+
+360
+00:24:40,696 --> 00:24:44,509
+♪ Sen'nen man'nen hyakuman-nen ♪
+A thousand years, ten thousand years, a million years,
+
+361
+00:24:44,510 --> 00:24:47,806
+♪ Ribbon de tsunagou ichioku-nen ♪
+Let’s connect with ribbons for a billion years!
+
+362
+00:24:47,807 --> 00:24:51,812
+♪ Akuma ga kute mo arashi ga kute mo ♪
+Even if devils come, even if storms arrive,
+
+363
+00:24:51,813 --> 00:24:55,251
+♪ tsunaida kokoro wa hanarenai ♪
+Our bonded hearts will never part.
+
+364
+00:24:55,252 --> 00:24:58,872
+♪ Tarari Ratta Ritta Ratta Rattattaa ♪
+-
+
+365
+00:24:58,873 --> 00:25:02,233
+♪ Kyahoo! Kyahoo! Kyahoo! ♪
+Yahoo! Yahoo! Yahoo!
+
+366
+00:25:02,234 --> 00:25:06,004
+♪ Tarari Ratta Ritta Ratta Rattattaa ♪
+-
+
+367
+00:25:06,005 --> 00:25:09,166
+♪ Kyahoo! Kyahoo! Kyahoo! ♪
+Yahoo! Yahoo! Yahoo!
+
+368
+00:25:09,190 --> 00:25:14,899
+Subtitled by
+SilverlandSubs
+tinyurl.com/SilverlandSubs
+
+369
+00:25:14,923 --> 00:25:20,064
+Opening & Ending Song Lyrics Translation by
+Natalia Arlovskaya
+lyricstranslate.com/en/
+translator/natalia-arlovskaya
+
+370
+00:25:20,088 --> 00:25:24,088
+EAN-13 : 8-031179-423880
+ASIN : ‎ B0DQ54LVY1
+EAN-13 : 8-031179-426225
+ASIN : ‎ B0F1V5YTQP
 

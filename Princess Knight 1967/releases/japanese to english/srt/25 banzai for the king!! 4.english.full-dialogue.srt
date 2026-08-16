@@ -71,75 +71,75 @@ Banzai for the King!!
 
 15
 00:01:53,339 --> 00:01:58,980
-Before we start today's story, let's recap what happened last week.
+<i>Before we start today's story, let's recap what happened last week.</i>
 
 16
 00:02:00,459 --> 00:02:03,865
-With the King missing and presumed dead,
+<i>With the King missing and presumed dead,</i>
 
 17
 00:02:03,889 --> 00:02:07,251
-Sapphire succeeded him to the throne.
+<i>Sapphire succeeded him to the throne.</i>
 
 18
 00:02:07,275 --> 00:02:09,778
-However, the villainous Duralumin and Nylon schemed to reveal that
+<i>However, the villainous Duralumin and Nylon schemed to reveal that</i>
 
 19
 00:02:09,802 --> 00:02:12,580
-Sapphire is actually a girl...
+<i>Sapphire is actually a girl...</i>
 
 20
 00:02:12,581 --> 00:02:15,025
-...was exposed, and she was locked away
+<i>...was exposed, and she was locked away</i>
 
 21
 00:02:15,049 --> 00:02:17,800
-in terrifying Coffin Tower along with the Queen.
+<i>in terrifying Coffin Tower along with the Queen.</i>
 
 22
 00:02:18,330 --> 00:02:20,880
-But the spirited Sapphire didn't back down.
+<i>But the spirited Sapphire didn't back down.</i>
 
 23
 00:02:21,560 --> 00:02:23,797
-She escaped through the hole the mice showed her
+<i>She escaped through the hole the mice showed her</i>
 
 24
 00:02:23,847 --> 00:02:27,886
-and became the mysterious Ribbon Knight, to punish Duralumin!
+<i>and became the mysterious Ribbon Knight, to punish Duralumin!</i>
 
 25
 00:02:28,686 --> 00:02:31,391
-However, Duralumin suspected the Ribbon Knight was
+<i>However, Duralumin suspected the Ribbon Knight was</i>
 
 26
 00:02:31,415 --> 00:02:33,497
-Sapphire and sent an assassin the Coffin Tower,
+<i>Sapphire and sent an assassin the Coffin Tower,</i>
 
 27
 00:02:33,521 --> 00:02:37,580
-but they were easily driven off.
+<i>but they were easily driven off.</i>
 
 28
 00:02:44,760 --> 00:02:47,560
-But the relentless Duralumin won't give up.
+<i>But the relentless Duralumin won't give up.</i>
 
 29
 00:02:48,886 --> 00:02:52,494
-This time, they bribe Gama,
+<i>This time, they bribe Gama,</i>
 
 30
 00:02:52,518 --> 00:02:56,366
-the wicked jailer of the Coffin Tower, to catch Sapphire off guard.
+<i>the wicked jailer of the Coffin Tower, to catch Sapphire off guard.</i>
 
 31
 00:02:58,575 --> 00:03:01,666
-Outside, a fierce storm rages with thunder and lightning.
+<i>Outside, a fierce storm rages with thunder and lightning.</i>
 
 32
 00:03:02,640 --> 00:03:07,060
-Today's story begins just as Gama is about to attack Sapphire.
+<i>Today's story begins just as Gama is about to attack Sapphire.</i>
 
 33
 00:04:29,401 --> 00:04:30,376
@@ -997,4 +997,84 @@ I'll stay like this until the evil is gone and true peace comes to this kingdom.
 246
 00:23:18,369 --> 00:23:20,940
 I'll keep this dress safe until then.
+
+247
+00:24:06,620 --> 00:24:10,240
+♪ Tarari Ratta Ritta Ratta Rattattaa ♪
+-
+
+248
+00:24:10,241 --> 00:24:13,601
+♪ Kyahoo! Kyahoo! Kyahoo! ♪
+Yahoo! Yahoo! Yahoo!
+
+249
+00:24:13,602 --> 00:24:17,372
+♪ Tarari Ratta Ritta Ratta Rattattaa ♪
+-
+
+250
+00:24:17,373 --> 00:24:20,534
+♪ Kyahoo! Kyahoo! Kyahoo! ♪
+Yahoo! Yahoo! Yahoo!
+
+251
+00:24:20,535 --> 00:24:24,348
+♪ Sen'nen man'nen hyakuman-nen ♪
+A thousand years, ten thousand years, a million years,
+
+252
+00:24:24,349 --> 00:24:27,645
+♪ Ribbon de tsunagou ichioku-nen ♪
+Let’s connect with ribbons for a billion years!
+
+253
+00:24:27,646 --> 00:24:31,651
+♪ Akuma ga kute mo arashi ga kute mo ♪
+Even if devils come, even if storms arrive,
+
+254
+00:24:31,652 --> 00:24:35,090
+♪ tsunaida kokoro wa hanarenai ♪
+Our bonded hearts will never part.
+
+255
+00:24:35,091 --> 00:24:38,711
+♪ Tarari Ratta Ritta Ratta Rattattaa ♪
+-
+
+256
+00:24:38,712 --> 00:24:42,072
+♪ Kyahoo! Kyahoo! Kyahoo! ♪
+Yahoo! Yahoo! Yahoo!
+
+257
+00:24:42,073 --> 00:24:45,843
+♪ Tarari Ratta Ritta Ratta Rattattaa ♪
+-
+
+258
+00:24:45,844 --> 00:24:49,005
+♪ Kyahoo! Kyahoo! Kyahoo! ♪
+Yahoo! Yahoo! Yahoo!
+
+259
+00:24:49,029 --> 00:24:54,738
+Subtitled by
+SilverlandSubs
+tinyurl.com/SilverlandSubs
+
+260
+00:24:54,762 --> 00:24:59,903
+Opening & Ending Song Lyrics Translation by
+Natalia Arlovskaya
+lyricstranslate.com/en/
+translator/natalia-arlovskaya
+
+261
+00:24:59,927 --> 00:25:03,927
+EAN-13 : 8-031179-423880
+ASIN : ‎ B0DQ54LVY1
+EAN-13 : 8-031179-426225
+ASIN : ‎ B0F1V5YTQP
 

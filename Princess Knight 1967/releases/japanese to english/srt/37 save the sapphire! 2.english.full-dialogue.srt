@@ -71,55 +71,55 @@ Save the Sapphire!
 
 15
 00:01:53,699 --> 00:01:58,013
-Now, everyone, here is part two of "The Return of the Great Witch."
+<i>Now, everyone, here is part two of "The Return of the Great Witch."</i>
 
 16
 00:02:01,249 --> 00:02:05,091
-Sapphire, turned into a doll by the magic of Hecate's mother, Madam Hell,
+<i>Sapphire, turned into a doll by the magic of Hecate's mother, Madam Hell,</i>
 
 17
 00:02:05,115 --> 00:02:08,360
-falls under Madam Hell's spell and heads toward Demon Cave.
+<i>falls under Madam Hell's spell and heads toward Demon Cave.</i>
 
 18
 00:02:08,945 --> 00:02:11,491
-Meanwhile, Hecate, wanting no part in becoming a grand witch,
+<i>Meanwhile, Hecate, wanting no part in becoming a grand witch,</i>
 
 19
 00:02:11,515 --> 00:02:13,600
-disguises herself as a kitten and runs away from home.
+<i>disguises herself as a kitten and runs away from home.</i>
 
 20
 00:02:14,320 --> 00:02:18,017
-She then finds the doll-ified Sapphire and helps her escape to Goldland,
+<i>She then finds the doll-ified Sapphire and helps her escape to Goldland,</i>
 
 21
 00:02:18,042 --> 00:02:20,800
-home of Sapphire's dear friend, Prince Franz.
+<i>home of Sapphire's dear friend, Prince Franz.</i>
 
 22
 00:02:21,734 --> 00:02:25,678
-Prince Franz realizes that the flaxen-haired maiden he loved
+<i>Prince Franz realizes that the flaxen-haired maiden he loves</i>
 
 23
 00:02:25,703 --> 00:02:31,560
-
+<i>is actually Sapphire, and resolves to protect her from the demon's hands even at the cost of his life.</i>
 
 24
 00:02:32,700 --> 00:02:36,105
-However, Madame Hell's dark forces attack Goldland Castle,
+<i>However, Madame Hell's dark forces attack Goldland Castle,</i>
 
 25
 00:02:36,129 --> 00:02:39,386
-turning everyone inside into stone.
+<i>turning everyone inside into stone.</i>
 
 26
 00:02:40,090 --> 00:02:43,100
-Franz fights Mephisto with all his remaining strength.
+<i>Franz fights Mephisto with all his remaining strength.</i>
 
 27
 00:02:43,600 --> 00:02:47,760
-Exhausted, he is helpless as Sapphire is carried off by the demon.
+<i>Exhausted, he is helpless as Sapphire is carried off by the demon.</i>
 
 28
 00:02:48,790 --> 00:02:50,180
@@ -1256,11 +1256,11 @@ Hey Hecate!
 
 310
 00:22:42,149 --> 00:22:43,940
-Mama and papa are worried.
+Mama and Papa are worried.
 
 311
 00:22:43,965 --> 00:22:45,449
- Are you going back Hecate?
+Are you going back Hecate?
 
 312
 00:22:45,474 --> 00:22:46,766
@@ -1283,5 +1283,82 @@ Goodbye!
 Sapphire! Franz!
 
 317
-00:23:07,343 --> 00:23:09,343
+00:23:32,501 --> 00:23:36,121
+♪ Tarari Ratta Ritta Ratta Rattattaa ♪
+-
+
+318
+00:23:36,122 --> 00:23:39,482
+♪ Kyahoo! Kyahoo! Kyahoo! ♪
+Yahoo! Yahoo! Yahoo!
+
+319
+00:23:39,483 --> 00:23:43,253
+♪ Tarari Ratta Ritta Ratta Rattattaa ♪
+-
+
+320
+00:23:43,254 --> 00:23:46,415
+♪ Kyahoo! Kyahoo! Kyahoo! ♪
+Yahoo! Yahoo! Yahoo!
+
+321
+00:23:46,416 --> 00:23:50,229
+♪ Sen'nen man'nen hyakuman-nen ♪
+A thousand years, ten thousand years, a million years,
+
+322
+00:23:50,230 --> 00:23:53,526
+♪ Ribbon de tsunagou ichioku-nen ♪
+Let’s connect with ribbons for a billion years!
+
+323
+00:23:53,527 --> 00:23:57,532
+♪ Akuma ga kute mo arashi ga kute mo ♪
+Even if devils come, even if storms arrive,
+
+324
+00:23:57,533 --> 00:24:00,971
+♪ tsunaida kokoro wa hanarenai ♪
+Our bonded hearts will never part.
+
+325
+00:24:00,972 --> 00:24:04,592
+♪ Tarari Ratta Ritta Ratta Rattattaa ♪
+-
+
+326
+00:24:04,593 --> 00:24:07,953
+♪ Kyahoo! Kyahoo! Kyahoo! ♪
+Yahoo! Yahoo! Yahoo!
+
+327
+00:24:07,954 --> 00:24:11,724
+♪ Tarari Ratta Ritta Ratta Rattattaa ♪
+-
+
+328
+00:24:11,725 --> 00:24:14,886
+♪ Kyahoo! Kyahoo! Kyahoo! ♪
+Yahoo! Yahoo! Yahoo!
+
+329
+00:24:14,910 --> 00:24:20,619
+Subtitled by
+SilverlandSubs
+tinyurl.com/SilverlandSubs
+
+330
+00:24:20,643 --> 00:24:25,784
+Opening & Ending Song Lyrics Translation by
+Natalia Arlovskaya
+lyricstranslate.com/en/
+translator/natalia-arlovskaya
+
+331
+00:24:25,808 --> 00:24:29,808
+EAN-13 : 8-031179-423880
+ASIN : ‎ B0DQ54LVY1
+EAN-13 : 8-031179-426225
+ASIN : ‎ B0F1V5YTQP
 

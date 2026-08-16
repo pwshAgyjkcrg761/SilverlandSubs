@@ -71,59 +71,59 @@ The Last of the Snow Queen
 
 15
 00:01:52,459 --> 00:01:55,760
-Queen Icicle of Coolland was a cold-hearted woman.
+<i>Queen Icicle of Coolland was a cold-hearted woman.</i>
 
 16
 00:01:56,400 --> 00:01:59,782
-They sent a fake Sapphire to take over Silverland,
+<i>They sent a fake Sapphire to take over Silverland,</i>
 
 17
 00:01:59,806 --> 00:02:03,300
-leaving the real Sapphire unable to even enter the castle.
+<i>leaving the real Sapphire unable to even enter the castle.</i>
 
 18
 00:02:04,774 --> 00:02:06,940
-Meanwhile, the Coolland army finally mobilizes.
+<i>Meanwhile, the Coolland army finally mobilizes.</i>
 
 19
 00:02:07,434 --> 00:02:11,080
-With their new weapon, the Iron Lion, they surge toward the border for battle.
+<i>With their new weapon, the Iron Lion, they surge toward the border for battle.</i>
 
 20
 00:02:11,860 --> 00:02:15,195
-All by themselves, Sapphire and Tink defeated the Iron Lion
+<i>All by themselves, Sapphire and Tink defeated the Iron Lion</i>
 
 21
 00:02:15,219 --> 00:02:17,760
-and crushed the massive enemy army.
+<i>and crushed the massive enemy army.</i>
 
 22
 00:02:18,575 --> 00:02:21,240
-But Tink had disappeared.
+<i>But Tink had disappeared.</i>
 
 23
 00:02:21,764 --> 00:02:23,220
-Sapphire was at a loss.
+<i>Sapphire was at a loss.</i>
 
 24
 00:02:24,124 --> 00:02:26,040
-That's when Hecate arrived.
+<i>That's when Hecate arrived.</i>
 
 25
 00:02:26,800 --> 00:02:31,454
-They say Mephisto is about to smash the petrified King and Queen
+<i>They say Mephisto is about to smash the petrified King and Queen</i>
 
 26
 00:02:31,479 --> 00:02:33,280
-on Sea Snake Island!
+<i>on Sea Snake Island!</i>
 
 27
 00:02:36,315 --> 00:02:38,660
-This week's story begins here.
+<i>This week's story begins here.</i>
 
 28
 00:02:39,099 --> 00:02:40,666
-Please sit back and enjoy the show.
+<i>Please sit back and enjoy the show.</i>
 
 29
 00:02:49,934 --> 00:02:51,015
@@ -1386,5 +1386,82 @@ I just wanted a little affection...
 The King is coming!
 
 344
-00:23:48,197 --> 00:23:49,084
+00:24:44,981 --> 00:24:48,601
+♪ Tarari Ratta Ritta Ratta Rattattaa ♪
+-
+
+345
+00:24:48,602 --> 00:24:51,962
+♪ Kyahoo! Kyahoo! Kyahoo! ♪
+Yahoo! Yahoo! Yahoo!
+
+346
+00:24:51,963 --> 00:24:55,733
+♪ Tarari Ratta Ritta Ratta Rattattaa ♪
+-
+
+347
+00:24:55,734 --> 00:24:58,895
+♪ Kyahoo! Kyahoo! Kyahoo! ♪
+Yahoo! Yahoo! Yahoo!
+
+348
+00:24:58,896 --> 00:25:02,709
+♪ Sen'nen man'nen hyakuman-nen ♪
+A thousand years, ten thousand years, a million years,
+
+349
+00:25:02,710 --> 00:25:06,006
+♪ Ribbon de tsunagou ichioku-nen ♪
+Let’s connect with ribbons for a billion years!
+
+350
+00:25:06,007 --> 00:25:10,012
+♪ Akuma ga kute mo arashi ga kute mo ♪
+Even if devils come, even if storms arrive,
+
+351
+00:25:10,013 --> 00:25:13,451
+♪ tsunaida kokoro wa hanarenai ♪
+Our bonded hearts will never part.
+
+352
+00:25:13,452 --> 00:25:17,072
+♪ Tarari Ratta Ritta Ratta Rattattaa ♪
+-
+
+353
+00:25:17,073 --> 00:25:20,433
+♪ Kyahoo! Kyahoo! Kyahoo! ♪
+Yahoo! Yahoo! Yahoo!
+
+354
+00:25:20,434 --> 00:25:24,204
+♪ Tarari Ratta Ritta Ratta Rattattaa ♪
+-
+
+355
+00:25:24,205 --> 00:25:27,366
+♪ Kyahoo! Kyahoo! Kyahoo! ♪
+Yahoo! Yahoo! Yahoo!
+
+356
+00:25:27,390 --> 00:25:33,099
+Subtitled by
+SilverlandSubs
+tinyurl.com/SilverlandSubs
+
+357
+00:25:33,123 --> 00:25:38,264
+Opening & Ending Song Lyrics Translation by
+Natalia Arlovskaya
+lyricstranslate.com/en/
+translator/natalia-arlovskaya
+
+358
+00:25:38,288 --> 00:25:42,288
+EAN-13 : 8-031179-423880
+ASIN : ‎ B0DQ54LVY1
+EAN-13 : 8-031179-426225
+ASIN : ‎ B0F1V5YTQP
 

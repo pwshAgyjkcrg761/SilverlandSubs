@@ -71,59 +71,59 @@ Silverland Happiness
 
 15
 00:01:50,749 --> 00:01:52,669
-Now, before we begin today's story,
+<i>Now, before we begin today's story,</i>
 
 16
 00:01:52,693 --> 00:01:54,560
-let me refresh your memory on what happened last time.
+<i>let me refresh your memory on what happened last time.</i>
 
 17
 00:01:55,074 --> 00:01:57,466
-Duralumin, a pawn of the X-Union,
+<i>Duralumin, a pawn of the X-Union,</i>
 
 18
 00:01:57,490 --> 00:01:59,762
-finally revealed his traitorous nature and
+<i>finally revealed his traitorous nature and</i>
 
 19
 00:01:59,787 --> 00:02:02,700
-tried to kill the King, Queen, and Sapphire.
+<i>tried to kill the King, Queen, and Sapphire.</i>
 
 20
 00:02:03,260 --> 00:02:05,505
-However, betrayed by Nylon,
+<i>However, betrayed by Nylon,</i>
 
 21
 00:02:05,530 --> 00:02:09,139
-Duralumin met a swift end, and the crown fell into Nylon's hands.
+<i>Duralumin met a swift end, and the crown fell into Nylon's hands.</i>
 
 22
 00:02:09,655 --> 00:02:13,700
-As the king of Silverland, Nylon welcomed X-Union into the castle.
+<i>As the king of Silverland, Nylon welcomed X-Union into the castle.</i>
 
 23
 00:02:14,113 --> 00:02:17,521
-Meanwhile, Sapphire bade farewell to her parents in the Skull Chamber
+<i>Meanwhile, Sapphire bade farewell to her parents in the Skull Chamber</i>
 
 24
 00:02:17,545 --> 00:02:21,106
-and escaped the castle with three orbs—gold, silver, and bronze—
+<i>and escaped the castle with three orbs—gold, silver, and bronze—</i>
 
 25
 00:02:21,131 --> 00:02:23,020
-believed to hold the power to protect the kingdom.
+<i>believed to hold the power to protect the kingdom.</i>
 
 26
 00:02:23,626 --> 00:02:25,880
-She ran to seek help from Prince Franz.
+<i>She ran to seek help from Prince Franz.</i>
 
 27
 00:02:25,904 --> 00:02:26,692
-However,
+<i>However,</i>
 
 28
 00:02:27,904 --> 00:02:32,900
-the King and Queen were executed on Skull Island by the X-Union.
+<i>the King and Queen were executed on Skull Island by the X-Union.</i>
 
 29
 00:02:50,710 --> 00:02:51,864
@@ -355,31 +355,31 @@ Heavenly Father!
 
 86
 00:08:52,449 --> 00:08:53,088
-Tink,
+<i>Tink,</i>
 
 87
 00:08:53,112 --> 00:08:55,549
- as a former angel,
+<i> as a former angel,</i>
 
 88
 00:08:55,573 --> 00:08:59,560
-you know wishes aren't granted simply by speaking them.
+<i>you know wishes aren't granted simply by speaking them.</i>
 
 89
 00:09:00,380 --> 00:09:02,284
-If you wish to save those you love,
+<i>If you wish to save those you love,</i>
 
 90
 00:09:02,308 --> 00:09:06,320
-work for them with all your strength and all your heart.
+<i>work for them with all your strength and all your heart.</i>
 
 91
 00:09:07,309 --> 00:09:08,760
-I shall watch over you from here.
+<i>I shall watch over you from here.</i>
 
 92
 00:09:09,585 --> 00:09:13,880
-Whether your wish is granted depends entirely on your efforts.
+<i>Whether your wish is granted depends entirely on your efforts.</i>
 
 93
 00:09:14,399 --> 00:09:15,760
@@ -901,11 +901,11 @@ Will you grant my wish?
 
 222
 00:20:21,629 --> 00:20:22,592
-Very well, Tink.
+<i>Very well, Tink.</i>
 
 223
 00:20:23,272 --> 00:20:24,900
-I shall grant your wish.
+<i>I shall grant your wish.</i>
 
 224
 00:20:25,839 --> 00:20:28,860
@@ -980,5 +980,82 @@ I'm sure they'll make a wonderfully happy couple.
 And I'll be attending the wedding when they do!
 
 242
-00:24:06,704 --> 00:24:08,704
+00:24:27,021 --> 00:24:30,641
+♪ Tarari Ratta Ritta Ratta Rattattaa ♪
+-
+
+243
+00:24:30,642 --> 00:24:34,002
+♪ Kyahoo! Kyahoo! Kyahoo! ♪
+Yahoo! Yahoo! Yahoo!
+
+244
+00:24:34,003 --> 00:24:37,773
+♪ Tarari Ratta Ritta Ratta Rattattaa ♪
+-
+
+245
+00:24:37,774 --> 00:24:40,935
+♪ Kyahoo! Kyahoo! Kyahoo! ♪
+Yahoo! Yahoo! Yahoo!
+
+246
+00:24:40,936 --> 00:24:44,749
+♪ Sen'nen man'nen hyakuman-nen ♪
+A thousand years, ten thousand years, a million years,
+
+247
+00:24:44,750 --> 00:24:48,046
+♪ Ribbon de tsunagou ichioku-nen ♪
+Let’s connect with ribbons for a billion years!
+
+248
+00:24:48,047 --> 00:24:52,052
+♪ Akuma ga kute mo arashi ga kute mo ♪
+Even if devils come, even if storms arrive,
+
+249
+00:24:52,053 --> 00:24:55,491
+♪ tsunaida kokoro wa hanarenai ♪
+Our bonded hearts will never part.
+
+250
+00:24:55,492 --> 00:24:59,112
+♪ Tarari Ratta Ritta Ratta Rattattaa ♪
+-
+
+251
+00:24:59,113 --> 00:25:02,473
+♪ Kyahoo! Kyahoo! Kyahoo! ♪
+Yahoo! Yahoo! Yahoo!
+
+252
+00:25:02,474 --> 00:25:06,244
+♪ Tarari Ratta Ritta Ratta Rattattaa ♪
+-
+
+253
+00:25:06,245 --> 00:25:09,406
+♪ Kyahoo! Kyahoo! Kyahoo! ♪
+Yahoo! Yahoo! Yahoo!
+
+254
+00:25:09,430 --> 00:25:15,139
+Subtitled by
+SilverlandSubs
+tinyurl.com/SilverlandSubs
+
+255
+00:25:15,163 --> 00:25:20,304
+Opening & Ending Song Lyrics Translation by
+Natalia Arlovskaya
+lyricstranslate.com/en/
+translator/natalia-arlovskaya
+
+256
+00:25:20,328 --> 00:25:24,328
+EAN-13 : 8-031179-423880
+ASIN : ‎ B0DQ54LVY1
+EAN-13 : 8-031179-426225
+ASIN : ‎ B0F1V5YTQP
 
