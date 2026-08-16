@@ -1368,7 +1368,7 @@ lyricstranslate.com/en/
 translator/natalia-arlovskaya
 
 335
-00:24:33,167 --> 00:24:37,714
+00:24:33,167 --> 00:24:37,040
 EAN-13 : 8-031179-423880
 ASIN : ‎ B0DQ54LVY1
 EAN-13 : 8-031179-426225
