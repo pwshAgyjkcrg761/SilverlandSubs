@@ -14,7 +14,8 @@ Audio File: 23 the phantom knight 2.mkv
 Video File: 23 the phantom knight 2.mkv
 Video AR Mode: 4
 Video AR Value: 1.314554
-Active Line: 18
+Scroll Position: 349
+Active Line: 352
 Video Position: 950
 
 [V4+ Styles]
@@ -48,247 +49,335 @@ Dialogue: 0,0:01:25.22,0:01:28.62,Karaoke,,0,0,0,,{\k6}{\k50}Hon{\k43}to {\k33}w
 Dialogue: 0,0:01:25.22,0:01:28.62,OPED_Translation,,0,0,0,,Truly, truly,
 Dialogue: 0,0:01:28.62,0:01:31.82,Karaoke,,0,0,0,,{\k18}{\k23}A{\k23}ta{\k27}shi {\k35}na{\k35}no {\k159}sa{\k0}
 Dialogue: 0,0:01:28.62,0:01:31.82,OPED_Translation,,0,0,0,,It’s really me!
-Dialogue: 0,0:01:44.10,0:01:50.14,Default,,0,0,0,,Twenty-Third Episode\NThe Phantom Knight
-Dialogue: 0,0:01:55.18,0:01:58.78,Default,,0,0,0,,Now, before I tell you\Ntoday's story,
-Dialogue: 0,0:01:58.82,0:02:01.21,Default,,0,0,0,,I will summarize the last episode.
-Dialogue: 0,0:02:01.50,0:02:03.97,Default,,0,0,0,,One night,\Nthe King was no longer to be found..
-Dialogue: 0,0:02:04.02,0:02:06.22,Default,,0,0,0,,...and people thought\Nthat he was dead.
-Dialogue: 0,0:02:06.70,0:02:09.82,Default,,0,0,0,,Then Sapphire prepared\Nto become King.
-Dialogue: 0,0:02:14.30,0:02:17.29,Default,,0,0,0,,But during the ceremony\Nof coronation,
-Dialogue: 0,0:02:17.38,0:02:21.26,Default,,0,0,0,,the Queen was deceived\Nby Grand Duke Duralumin and Nylon
-Dialogue: 0,0:02:21.30,0:02:23.37,Default,,0,0,0,,and drank some drugged wine.
-Dialogue: 0,0:02:24.06,0:02:26.37,Default,,0,0,0,,Then the situation became serious.
-Dialogue: 0,0:02:26.42,0:02:30.05,Default,,0,0,0,,This drug had the effect\Nof making whoever drinks it say...
-Dialogue: 0,0:02:30.10,0:02:32.09,Default,,0,0,0,,everything they think.
-Dialogue: 0,0:02:32.14,0:02:34.37,Default,,0,0,0,,The Queen revealed the secret.
-Dialogue: 0,0:02:34.42,0:02:37.57,Default,,0,0,0,,In front of various representatives\Ngathered from all over the world,
-Dialogue: 0,0:02:37.62,0:02:40.22,Default,,0,0,0,,she confessed that Sapphire\Nwas a girl.
-Dialogue: 0,0:02:40.42,0:02:43.38,Default,,0,0,0,,Therefore, Sapphire and the Queen\Nwere condemned...
-Dialogue: 0,0:02:43.42,0:02:47.13,Default,,0,0,0,,...to be locked up in the\Ncoffin tower as punishment.
-Dialogue: 0,0:02:48.54,0:02:51.77,Default,,0,0,0,,Today's story tells you\Nabout what happened...
-Dialogue: 0,0:02:51.82,0:02:55.02,Default,,0,0,0,,...to the two of them while they were\Nlocked in prison.
-Dialogue: 0,0:03:36.50,0:03:39.02,Default,,0,0,0,,Gama! Where is the jailer Gama?
-Dialogue: 0,0:03:40.10,0:03:42.09,Default,,0,0,0,,I'm here! I'm coming right away!
-Dialogue: 0,0:03:57.78,0:04:00.90,Default,,0,0,0,,- Mother!\N- Try to stay calm
-Dialogue: 0,0:04:01.94,0:04:04.01,Default,,0,0,0,,Bring out Sapphire and the Queen!
-Dialogue: 0,0:04:05.30,0:04:07.10,Default,,0,0,0,,Mother, be careful.
-Dialogue: 0,0:04:07.62,0:04:09.34,Default,,0,0,0,,Thank you, Sapphire.
-Dialogue: 0,0:04:10.62,0:04:13.90,Default,,0,0,0,,Welcome,\NPrincess Sapphire and the Queen!
-Dialogue: 0,0:04:15.98,0:04:18.18,Default,,0,0,0,,Well, Gama,\NI'll leave everything to you.
-Dialogue: 0,0:04:18.22,0:04:19.89,Default,,0,0,0,,- Let's go!\N- Yes, sir!
-Dialogue: 0,0:04:19.94,0:04:22.58,Default,,0,0,0,,Yes, yes, alright, Captain.
-Dialogue: 0,0:04:25.66,0:04:27.70,Default,,0,0,0,,Now we can go.
-Dialogue: 0,0:04:40.90,0:04:43.62,Default,,0,0,0,,My God, how gloomy this tower is!
-Dialogue: 0,0:04:43.74,0:04:45.81,Default,,0,0,0,,Please, enter!
-Dialogue: 0,0:04:56.18,0:04:58.46,Default,,0,0,0,,What is this whistling sound?
-Dialogue: 0,0:04:58.70,0:05:01.69,Default,,0,0,0,,It's the wind. If you are afraid\Nof this simple noise,
-Dialogue: 0,0:05:01.74,0:05:05.18,Default,,0,0,0,,- you won't be able to live here.\N- Where is our room?
-Dialogue: 0,0:05:05.82,0:05:08.29,Default,,0,0,0,,Go up the stairs and you will find her.
-Dialogue: 0,0:05:24.42,0:05:27.14,Default,,0,0,0,,- They are bats.\N- How creepy!
-Dialogue: 0,0:05:27.18,0:05:29.06,Default,,0,0,0,,It's full of beasts here!
-Dialogue: 0,0:05:30.02,0:05:31.77,Default,,0,0,0,,We have arrived!
-Dialogue: 0,0:05:32.70,0:05:34.90,Default,,0,0,0,,This is your room.
-Dialogue: 0,0:05:39.26,0:05:41.49,Default,,0,0,0,,Isn't there a bed in this room?
-Dialogue: 0,0:05:41.54,0:05:44.53,Default,,0,0,0,,Bed?\NHey, bring those two beds!
-Dialogue: 0,0:05:44.70,0:05:46.69,Default,,0,0,0,,Yes, sir!
-Dialogue: 0,0:05:47.22,0:05:48.89,Default,,0,0,0,,Who are they?
-Dialogue: 0,0:05:49.46,0:05:51.45,Default,,0,0,0,,They are my entourage!
-Dialogue: 0,0:05:51.50,0:05:54.10,Default,,0,0,0,,Give me that jewel\Nin exchange for the two beds
-Dialogue: 0,0:05:54.14,0:05:56.89,Default,,0,0,0,,Oh, no! This is\Na dear keepsake of the King.
-Dialogue: 0,0:05:57.26,0:05:59.90,Default,,0,0,0,,Hey, then take back\Nthe beds!
-Dialogue: 0,0:05:59.94,0:06:01.90,Default,,0,0,0,,Yes, sir!
-Dialogue: 0,0:06:02.26,0:06:05.89,Default,,0,0,0,,And then you will sleep\Non the cold floor.
-Dialogue: 0,0:06:05.94,0:06:07.77,Default,,0,0,0,,- Listen, Gama...\N- Sapphire!
-Dialogue: 0,0:06:07.82,0:06:09.70,Default,,0,0,0,,- Mother!\N- Oh, alright.
-Dialogue: 0,0:06:12.90,0:06:16.61,Default,,0,0,0,,- Hey, bring back the beds!\N- Yes, sir!
-Dialogue: 0,0:06:16.66,0:06:18.78,Default,,0,0,0,,Please, turn on the light.
-Dialogue: 0,0:06:19.22,0:06:23.29,Default,,0,0,0,,- Hey, bring the lamps!\N- Yes, sir!
-Dialogue: 0,0:06:24.78,0:06:27.69,Default,,0,0,0,,Give me that brooch in\Nexchange for the lamps!
-Dialogue: 0,0:06:28.22,0:06:30.89,Default,,0,0,0,,This is too much!\NNow stop it! Enough!
-Dialogue: 0,0:06:30.94,0:06:34.54,Default,,0,0,0,,- He says he doesn't need them anymore!\N- Yes, sir!
-Dialogue: 0,0:06:34.58,0:06:37.57,Default,,0,0,0,,Wait! We can't do without them.\NHere!
-Dialogue: 0,0:06:48.74,0:06:53.02,Default,,0,0,0,,We've been here for three days now.\NSapphire, you're hungry, aren't you?
-Dialogue: 0,0:06:54.46,0:06:57.13,Default,,0,0,0,,But you only had\Na small breakfast.
-Dialogue: 0,0:06:58.38,0:07:00.98,Default,,0,0,0,,Do you want me to prepare dinner for you?
-Dialogue: 0,0:07:01.26,0:07:03.78,Default,,0,0,0,,I wish you would,\Nbut I have nothing left.
-Dialogue: 0,0:07:03.82,0:07:05.81,Default,,0,0,0,,You took all my jewels!
-Dialogue: 0,0:07:06.54,0:07:10.25,Default,,0,0,0,,What do you mean "nothing"?\NYou still have those gorgeous clothes!
-Dialogue: 0,0:07:10.30,0:07:13.18,Default,,0,0,0,,If I give you these clothes,\Nwill you give me others?
-Dialogue: 0,0:07:13.22,0:07:16.74,Default,,0,0,0,,Of course I will give you others!\NAnd very beautiful ones, too!
-Dialogue: 0,0:07:18.14,0:07:20.10,Default,,0,0,0,,- Mother...!\N- Very well.
-Dialogue: 0,0:07:23.70,0:07:26.14,Default,,0,0,0,,Mother, what clothes!
-Dialogue: 0,0:07:26.18,0:07:30.02,Default,,0,0,0,,It doesn't matter, we don't need\Nbeautiful clothes here anymore.
-Dialogue: 0,0:07:31.62,0:07:33.77,Default,,0,0,0,,Dinner is ready! Here you go!
-Dialogue: 0,0:07:33.82,0:07:37.18,Default,,0,0,0,,Good heavens! And in exchange\Nyou give us so little to eat?!
-Dialogue: 0,0:07:37.22,0:07:39.82,Default,,0,0,0,,I'm fine, but I want\NSapphire to eat more!
-Dialogue: 0,0:07:40.74,0:07:43.78,Default,,0,0,0,,Then you will need\Nmany more jewels!
-Dialogue: 0,0:07:43.82,0:07:45.97,Default,,0,0,0,,But now I have nothing left!
-Dialogue: 0,0:07:46.10,0:07:48.57,Default,,0,0,0,,Aren't you, perhaps,\Nhiding some?
-Dialogue: 0,0:07:48.62,0:07:51.09,Default,,0,0,0,,No! Really,\NI have nothing left.
-Dialogue: 0,0:07:51.14,0:07:53.50,Default,,0,0,0,,Nothing! You have nothing, huh?
-Dialogue: 0,0:07:53.54,0:07:56.26,Default,,0,0,0,,Then you will do the washing\Nand the Princess will sweep!
-Dialogue: 0,0:07:56.30,0:07:58.69,Default,,0,0,0,,What?! You are ordering\Nmy mother to wash...
-Dialogue: 0,0:07:58.74,0:08:01.18,Default,,0,0,0,,- Silence!\N- Sapphire!
-Dialogue: 0,0:08:02.22,0:08:05.98,Default,,0,0,0,,You will have to work a lot\Nand hard too, if you want to eat!
-Dialogue: 0,0:08:09.58,0:08:14.34,Default,,0,0,0,,- You're cheerful, Sapphire.\N- Yes! Better to sing than to cry!
-Dialogue: 0,0:08:19.10,0:08:22.09,Default,,0,0,0,,And besides, I must say\Nthat singing helps me work!
-Dialogue: 0,0:08:22.14,0:08:24.50,Default,,0,0,0,,You're right! It helps\Nme too, you know?
-Dialogue: 0,0:08:27.14,0:08:28.89,Default,,0,0,0,,Damn you!
-Dialogue: 0,0:08:30.82,0:08:33.34,Default,,0,0,0,,Don't waste time chattering!
-Dialogue: 0,0:08:44.90,0:08:48.05,Default,,0,0,0,,And now let's see where\NI can throw this garbage.
-Dialogue: 0,0:08:48.46,0:08:50.29,Default,,0,0,0,,Ah, there! I found it!
-Dialogue: 0,0:08:50.98,0:08:52.97,Default,,0,0,0,,I'll throw them out of here!
-Dialogue: 0,0:09:04.70,0:09:06.82,Default,,0,0,0,,My God, this is Gama's room!
-Dialogue: 0,0:09:10.02,0:09:14.25,Default,,0,0,0,,Damn it! If you play another\Ntrick like that on me, I'll kill you!
-Dialogue: 0,0:09:14.30,0:09:17.02,Default,,0,0,0,,Forgive me, but I didn't\Nknow it was your room!
-Dialogue: 0,0:09:17.06,0:09:21.53,Default,,0,0,0,,Instead of going to dinner, you\Nwill clean the floor! Understood?
-Dialogue: 0,0:09:27.38,0:09:31.37,Default,,0,0,0,,Alright, let's see...\NWhere is the cleaning rag?
-Dialogue: 0,0:09:31.90,0:09:34.05,Default,,0,0,0,,Ah, here it is! I found it!
-Dialogue: 0,0:10:36.90,0:10:41.02,Default,,0,0,0,,If you sing, you can't\Nclean well! Give it to me!
-Dialogue: 0,0:10:41.26,0:10:45.22,Default,,0,0,0,,Look how it's done!\NHow dirty this rag is!
-Dialogue: 0,0:10:48.54,0:10:51.58,Default,,0,0,0,,But these are my\Nclothes! Damn you!
-Dialogue: 0,0:10:51.62,0:10:53.69,Default,,0,0,0,,Your clothes?! Help!
-Dialogue: 0,0:10:53.74,0:10:56.30,Default,,0,0,0,,Come here, so I can strangle you!
-Dialogue: 0,0:11:06.14,0:11:10.69,Default,,0,0,0,,Take that! Oh, no!\NAll my lunch! No!
-Dialogue: 0,0:11:13.14,0:11:16.02,Default,,0,0,0,,I'll have to go hungry\Nand I also have a headache!
-Dialogue: 0,0:11:16.06,0:11:20.29,Default,,0,0,0,,You, meanwhile, will go to work\Nwithout eating! Go on, get out!
-Dialogue: 0,0:11:30.98,0:11:35.34,Default,,0,0,0,,And then, soon, we will see the sun...
-Dialogue: 0,0:11:36.14,0:11:38.70,Default,,0,0,0,,Stop it! Stop singing!
-Dialogue: 0,0:11:38.74,0:11:41.46,Default,,0,0,0,,Think about grinding\Nand making good bread!
-Dialogue: 0,0:11:41.50,0:11:44.02,Default,,0,0,0,,I will eat it, you damned idiot!
-Dialogue: 0,0:11:47.82,0:11:51.45,Default,,0,0,0,,But that's a mouse!\NWait, thief mouse!
-Dialogue: 0,0:11:58.90,0:12:00.57,Default,,0,0,0,,My God...!
-Dialogue: 0,0:12:08.90,0:12:10.65,Default,,0,0,0,,Give it here!
-Dialogue: 0,0:12:16.06,0:12:20.26,Default,,0,0,0,,Listen to me carefully! You will kill\Nall the mice in this tower!
-Dialogue: 0,0:12:20.58,0:12:22.81,Default,,0,0,0,,No! They are God's creatures!
-Dialogue: 0,0:12:33.78,0:12:35.61,Default,,0,0,0,,I'm very hungry.
-Dialogue: 0,0:12:35.66,0:12:38.89,Default,,0,0,0,,Tomorrow you can eat\Nmy lunch too.
-Dialogue: 0,0:12:39.18,0:12:42.78,Default,,0,0,0,,- I'm so happy!\N- Good heavens! Why?
-Dialogue: 0,0:12:43.02,0:12:46.65,Default,,0,0,0,,Because even if we suffer,\Nwe can be together so much.
-Dialogue: 0,0:12:47.54,0:12:50.90,Default,,0,0,0,,If only dad\Ncould be here with us...
-Dialogue: 0,0:12:50.94,0:12:52.93,Default,,0,0,0,,You promised not to cry.
-Dialogue: 0,0:12:53.90,0:12:57.45,Default,,0,0,0,,- I'm sorry.\N- It's not so bad here.
-Dialogue: 0,0:12:57.74,0:13:00.78,Default,,0,0,0,,There is no one\Nplotting against us,
-Dialogue: 0,0:13:00.82,0:13:04.10,Default,,0,0,0,,there is no Duralumin\Nand not even Nylon.
-Dialogue: 0,0:13:04.14,0:13:08.82,Default,,0,0,0,,Thank you, Sapphire! When I look at you,\NI feel great courage.
-Dialogue: 0,0:13:09.58,0:13:13.37,Default,,0,0,0,,Yes...\NBut I'm so hungry!
-Dialogue: 0,0:13:22.18,0:13:25.41,Default,,0,0,0,,Did you come to thank me?\NDon't worry!
-Dialogue: 0,0:13:29.22,0:13:32.34,Default,,0,0,0,,Look, mother!\NThey brought us food!
-Dialogue: 0,0:13:37.94,0:13:40.41,Default,,0,0,0,,Splendid! Another one!
-Dialogue: 0,0:13:42.78,0:13:46.90,Default,,0,0,0,,This is a notice! "From now on,\Nno one shall speak of Sapphire.
-Dialogue: 0,0:13:46.94,0:13:50.57,Default,,0,0,0,,Whoever utters his name will\Nbe whipped a hundred times...
-Dialogue: 0,0:13:50.62,0:13:54.14,Default,,0,0,0,,...and will be sentenced to\Nslavery. Grand Duke Duralumin".
-Dialogue: 0,0:13:54.18,0:13:57.41,Default,,0,0,0,,That cursed Duralumin\Nis ruling like a tyrant!
-Dialogue: 0,0:13:57.46,0:13:58.89,Default,,0,0,0,,Right, mother?
-Dialogue: 0,0:13:58.94,0:14:01.90,Default,,0,0,0,,I am sure that this\Nnotice is not the only one!
-Dialogue: 0,0:14:01.94,0:14:05.49,Default,,0,0,0,,Now that my father and I\Nare not here, he's hard at work!
-Dialogue: 0,0:14:06.30,0:14:08.50,Default,,0,0,0,,How I wish I could get out of here!
-Dialogue: 0,0:14:10.42,0:14:12.57,Default,,0,0,0,,What are they doing?
-Dialogue: 0,0:14:19.18,0:14:21.30,Default,,0,0,0,,Mother, look!
-Dialogue: 0,0:14:22.30,0:14:24.42,Default,,0,0,0,,What is this hole?
-Dialogue: 0,0:14:24.70,0:14:28.17,Default,,0,0,0,,How deep it is!\NI think it leads to the dungeons.
-Dialogue: 0,0:14:30.22,0:14:32.50,Default,,0,0,0,,Be careful, it's very narrow!
-Dialogue: 0,0:15:08.50,0:15:10.73,Default,,0,0,0,,I'm out!
-Dialogue: 0,0:15:11.06,0:15:14.18,Default,,0,0,0,,How wonderful! Thank you!\NThank you, little mice!
-Dialogue: 0,0:15:24.70,0:15:28.01,Default,,0,0,0,,- Sapphire! - Mother, there's an exit\Nthis way!
-Dialogue: 0,0:15:29.14,0:15:32.37,Default,,0,0,0,,- Come!\N- Now let's get out of this place!
-Dialogue: 0,0:15:32.90,0:15:36.74,Default,,0,0,0,,This hole is too small\Nfor me. Escape by yourself.
-Dialogue: 0,0:15:36.98,0:15:39.70,Default,,0,0,0,,No! I will never be separated from you!
-Dialogue: 0,0:15:39.90,0:15:42.54,Default,,0,0,0,,No, you must escape, Sapphire,
-Dialogue: 0,0:15:42.58,0:15:45.14,Default,,0,0,0,,and fight\Nagainst our enemies.
-Dialogue: 0,0:15:46.70,0:15:48.69,Default,,0,0,0,,Gama is coming!
-Dialogue: 0,0:15:50.50,0:15:53.33,Default,,0,0,0,,May I know\Nwhat you are whispering?
-Dialogue: 0,0:15:54.78,0:15:58.17,Default,,0,0,0,,Nothing! I was only saying\Nthat I'm hungry! So hungry!
-Dialogue: 0,0:15:58.34,0:16:01.09,Default,,0,0,0,,Don't tell me stories!\NI'm not buying it!
-Dialogue: 0,0:16:01.14,0:16:03.45,Default,,0,0,0,,You were planning to escape, huh?
-Dialogue: 0,0:16:03.50,0:16:07.78,Default,,0,0,0,,Remember that, if you escape,\NI will cut off the Queen's head!
-Dialogue: 0,0:16:07.98,0:16:11.10,Default,,0,0,0,,- My God! - What?!\N- Duralumin ordered me to!
-Dialogue: 0,0:16:12.98,0:16:16.10,Default,,0,0,0,,- Mother!\N- Don't worry about me.
-Dialogue: 0,0:16:16.14,0:16:18.50,Default,,0,0,0,,Get out of here right now\Nand go fight!
-Dialogue: 0,0:16:18.54,0:16:21.37,Default,,0,0,0,,This is your duty\Nas Prince of Silverland.
-Dialogue: 0,0:16:21.42,0:16:24.33,Default,,0,0,0,,But if they should catch me, you..
-Dialogue: 0,0:16:24.58,0:16:27.54,Default,,0,0,0,,Sapphire, what is more important?\NMy life...
-Dialogue: 0,0:16:27.58,0:16:30.46,Default,,0,0,0,,...or the life of so many poor\Npeople who, at this moment,
-Dialogue: 0,0:16:30.50,0:16:32.89,Default,,0,0,0,,are suffering\Nunder cruel laws?
-Dialogue: 0,0:16:38.78,0:16:40.90,Default,,0,0,0,,- Mother, look!\N- Look at those little mice!
-Dialogue: 0,0:16:46.34,0:16:48.46,Default,,0,0,0,,My sword and my clothes!
-Dialogue: 0,0:16:48.50,0:16:50.78,Default,,0,0,0,,You took them from Gama's room,\Nright?
-Dialogue: 0,0:17:16.42,0:17:18.54,Default,,0,0,0,,Go ahead, whip him!
-Dialogue: 0,0:17:24.22,0:17:27.69,Default,,0,0,0,,Listen to me well, everyone!\NThis man spoke of Sapphire
-Dialogue: 0,0:17:27.74,0:17:29.89,Default,,0,0,0,,...and called King Plastic\Nan "idiot",
-Dialogue: 0,0:17:29.94,0:17:32.01,Default,,0,0,0,,therefore he was whipped
-Dialogue: 0,0:17:32.06,0:17:34.42,Default,,0,0,0,,...and now he will work as a\Nslave for the rest of his life!
-Dialogue: 0,0:17:34.46,0:17:36.98,Default,,0,0,0,,He will be a slave for his whole life!
-Dialogue: 0,0:17:37.42,0:17:39.33,Default,,0,0,0,,Poor boy..!
-Dialogue: 0,0:17:44.90,0:17:46.89,Default,,0,0,0,,No! No!
-Dialogue: 0,0:17:46.94,0:17:49.50,Default,,0,0,0,,This cursed child\Nwas praising Sapphire!
-Dialogue: 0,0:17:49.54,0:17:53.17,Default,,0,0,0,,- What?!\N- Sapphire was very kind!
-Dialogue: 0,0:17:53.22,0:17:55.74,Default,,0,0,0,,Plastic is an idiot and an imbecile!
-Dialogue: 0,0:17:55.78,0:17:58.77,Default,,0,0,0,,Wretched child!\NWhip him!
-Dialogue: 0,0:17:58.82,0:18:01.18,Default,,0,0,0,,He will not be spared just\Nbecause he is a child! Go on!
-Dialogue: 0,0:18:02.02,0:18:06.70,Default,,0,0,0,,Oh, my son! He is my only\Nson! Please, forgive him!
-Dialogue: 0,0:18:06.74,0:18:09.18,Default,,0,0,0,,No! No! Go away, or\Nyou will be whipped too!
-Dialogue: 0,0:18:09.22,0:18:12.61,Default,,0,0,0,,- Come on, hurry up! Go!\N- Wait!
-Dialogue: 0,0:18:40.22,0:18:42.34,Default,,0,0,0,,Damn it! And who are you?
-Dialogue: 0,0:18:44.90,0:18:47.50,Default,,0,0,0,,I am the phantom knight!\NRemember me!
-Dialogue: 0,0:18:47.54,0:18:49.58,Default,,0,0,0,,What?! The phantom knight?!
-Dialogue: 0,0:18:49.62,0:18:52.26,Default,,0,0,0,,He's a suspicious man! Arrest him!
-Dialogue: 0,0:19:01.30,0:19:03.77,Default,,0,0,0,,What are you doing?\NHave you given up already?
-Dialogue: 0,0:19:03.82,0:19:06.21,Default,,0,0,0,,How dare you challenge me, brat?
-Dialogue: 0,0:19:22.54,0:19:25.61,Default,,0,0,0,,You dared to challenge\Nme I'll make you pay!
-Dialogue: 0,0:19:28.18,0:19:30.46,Default,,0,0,0,,Hooray! Hooray!
-Dialogue: 0,0:19:30.50,0:19:34.78,Default,,0,0,0,,Boy, cut the rope of the\Nprisoners with this sword!
-Dialogue: 0,0:19:35.54,0:19:37.45,Default,,0,0,0,,Thank you, phantom knight!
-Dialogue: 0,0:19:37.50,0:19:40.49,Default,,0,0,0,,Knight, please, will\Nyou show me your face?
-Dialogue: 0,0:19:40.54,0:19:43.26,Default,,0,0,0,,No, I cannot do it! Farewell!
-Dialogue: 0,0:20:04.70,0:20:06.82,Default,,0,0,0,,Well, I never..! Well, I never!
-Dialogue: 0,0:20:10.42,0:20:13.78,Default,,0,0,0,,You look like an idiot!\NAre you hungry?
-Dialogue: 0,0:20:14.30,0:20:18.06,Default,,0,0,0,,You are a complete idiot!\NGet out of the way, Plastic!
-Dialogue: 0,0:20:18.62,0:20:20.53,Default,,0,0,0,,What's happening, Nylon?
-Dialogue: 0,0:20:21.22,0:20:23.21,Default,,0,0,0,,Well, please listen to me!
-Dialogue: 0,0:20:23.26,0:20:25.54,Default,,0,0,0,,Suddenly\Na strange guy appeared!
-Dialogue: 0,0:20:25.58,0:20:28.73,Default,,0,0,0,,He freed all the prisoners\Nand let them escape!
-Dialogue: 0,0:20:29.06,0:20:30.89,Default,,0,0,0,,A strange guy?!
-Dialogue: 0,0:20:30.98,0:20:33.78,Default,,0,0,0,,Yes! He was very strange!\NHe was three meters tall!
-Dialogue: 0,0:20:33.82,0:20:36.38,Default,,0,0,0,,We could have beaten\Nhim, if he hadn't been so tall!
-Dialogue: 0,0:20:36.42,0:20:39.02,Default,,0,0,0,,- Extremely tall!\N- Don't talk nonsense!
-Dialogue: 0,0:20:41.46,0:20:43.69,Default,,0,0,0,,Damn it, there he is!
-Dialogue: 0,0:20:44.34,0:20:46.90,Default,,0,0,0,,Is he the strange guy?
-Dialogue: 0,0:20:46.94,0:20:50.62,Default,,0,0,0,,Soldiers! Soldiers!\NThat guy is a scoundrel!
-Dialogue: 0,0:20:50.66,0:20:53.89,Default,,0,0,0,,He's near the window!\NAttack him from all sides!
-Dialogue: 0,0:20:53.94,0:20:57.62,Default,,0,0,0,,Appost yourselves outside the window!\NDon't let him escape!
-Dialogue: 0,0:20:57.90,0:20:59.89,Default,,0,0,0,,It's just you and me, Duralumin!
-Dialogue: 0,0:21:08.42,0:21:11.49,Default,,0,0,0,,How dare he break\Nmy beautiful bookcase?
-Dialogue: 0,0:21:11.54,0:21:13.93,Default,,0,0,0,,- Catch him immediately!\N- Catch him immediately!
-Dialogue: 0,0:21:14.14,0:21:15.62,Default,,0,0,0,,Get him!
-Dialogue: 0,0:21:17.70,0:21:21.98,Default,,0,0,0,,Remember, arrogant Duralumin: if\Nyou make people suffer again,
-Dialogue: 0,0:21:22.02,0:21:25.30,Default,,0,0,0,,the phantom knight will kill you!\NRemember it well!
-Dialogue: 0,0:21:28.50,0:21:31.14,Default,,0,0,0,,What are you doing? Get him!
-Dialogue: 0,0:21:33.26,0:21:35.30,Default,,0,0,0,,What is it, Nylon?
-Dialogue: 0,0:21:35.34,0:21:38.78,Default,,0,0,0,,Don't you think his voice\Nsounds a lot like Sapphire's?
-Dialogue: 0,0:21:39.38,0:21:41.26,Default,,0,0,0,,What?! Sapphire?!
-Dialogue: 0,0:21:42.30,0:21:45.34,Default,,0,0,0,,Yes!\NLet's split into two teams!
-Dialogue: 0,0:21:45.38,0:21:47.98,Default,,0,0,0,,One will hunt the knight and\Nthe other goes to the coffin tower...
-Dialogue: 0,0:21:48.02,0:21:49.98,Default,,0,0,0,,...to see if Sapphire\Nis there or not!
-Dialogue: 0,0:21:50.58,0:21:55.29,Default,,0,0,0,,Go! The phantom knight...\Ncould be Sapphire...
-Dialogue: 0,0:22:26.34,0:22:29.62,Default,,0,0,0,,Nylon has become alarmed and is going\Nto inspect the coffin tower.
-Dialogue: 0,0:22:29.66,0:22:32.94,Default,,0,0,0,,I must hurry back,\Nor my mother will be in danger!
-Dialogue: 0,0:22:46.58,0:22:49.10,Default,,0,0,0,,Gama! Where is Gama? It's Nylon!
-Dialogue: 0,0:22:49.14,0:22:51.50,Default,,0,0,0,,- Open the door immediately!\N- Yes!
-Dialogue: 0,0:22:51.90,0:22:53.49,Default,,0,0,0,,Go away!
-Dialogue: 0,0:23:02.38,0:23:05.37,Default,,0,0,0,,Hello, Nylon! Your nose\Nis getting bigger and bigger! How come?
-Dialogue: 0,0:23:05.42,0:23:07.62,Default,,0,0,0,,Damn it!\NI was sure it was Sapphire!
-Dialogue: 0,0:23:09.70,0:23:12.26,Default,,0,0,0,,I'm sorry if I'm a bit late
-Dialogue: 0,0:23:12.42,0:23:14.54,Default,,0,0,0,,Now I'm more relieved
-Dialogue: 0,0:23:15.14,0:23:18.18,Default,,0,0,0,,If you were any later,\NI would have really worried.
-Dialogue: 0,0:23:18.90,0:23:21.02,Default,,0,0,0,,Oh, how sweaty you are..
-Dialogue: 0,0:23:24.30,0:23:27.98,Default,,0,0,0,,Good! So Sapphire\Nwas in the Coffin Tower!
-Dialogue: 0,0:23:28.02,0:23:31.62,Default,,0,0,0,,Yes! As long as you leave them alive,\Nwe'll have problems!
-Dialogue: 0,0:23:32.06,0:23:33.62,Default,,0,0,0,,Let's kill them!
-Dialogue: 0,0:23:34.90,0:23:36.89,Default,,0,0,0,,I've already thought of that.
-Dialogue: 0,0:23:37.26,0:23:40.54,Default,,0,0,0,,I sent five assassins\Nto the tower,
-Dialogue: 0,0:23:40.90,0:23:43.34,Default,,0,0,0,,with the order to kill them!
-Dialogue: 0,0:23:47.26,0:23:51.46,Default,,0,0,0,,By now\Nthey must have already arrived
+Dialogue: 0,0:01:44.10,0:01:50.14,Default,,0,0,0,,Twenty-Third Episode\NThe Phantom Knight\NThe Ribbon Knight Appears
+Dialogue: 0,0:01:59.94,0:02:04.68,Default,,0,0,0,,{\i1}Now, before we begin today's story, let us recap last week's events.{\i0}
+Dialogue: 0,0:02:05.45,0:02:07.57,Default,,0,0,0,,{\i1}One night, the King went missing and was presumed dead,{\i0}
+Dialogue: 0,0:02:07.60,0:02:12.70,Default,,0,0,0,,{\i1}so Sapphire was set\Nto ascend the throne.{\i0}
+Dialogue: 0,0:02:13.43,0:02:14.18,Default,,0,0,0,,{\i1}However,{\i0}
+Dialogue: 0,0:02:14.20,0:02:17.02,Default,,0,0,0,,{\i1}amid the grand celebration, the Queen fell victim to the evil scheme of{\i0}
+Dialogue: 0,0:02:17.04,0:02:21.70,Default,,0,0,0,,{\i1}Grand Duke Duralumin and Lord Nylon\Nand was tricked into drinking poison.{\i0}
+Dialogue: 0,0:02:22.27,0:02:23.27,Default,,0,0,0,,{\i1}Oh no!{\i0}
+Dialogue: 0,0:02:23.56,0:02:27.66,Default,,0,0,0,,{\i1}This poison forces whoever drinks it to reveal all the secrets in their heart.{\i0}
+Dialogue: 0,0:02:28.34,0:02:28.99,Default,,0,0,0,,{\i1}Oh how lovely!{\i0}
+Dialogue: 0,0:02:29.24,0:02:30.53,Default,,0,0,0,,{\i1}In front of the kingdom's representatives and{\i0}
+Dialogue: 0,0:02:30.56,0:02:33.89,Default,,0,0,0,,{\i1}foreign dignitaries, the Queen blabbed Sapphire's secret—{\i0}
+Dialogue: 0,0:02:33.91,0:02:40.48,Default,,0,0,0,,{\i1}yes, the secret that Sapphire is actually a girl, not a boy.{\i0}
+Dialogue: 0,0:02:41.16,0:02:44.70,Default,,0,0,0,,{\i1}For the crime of deceiving the people, Sapphire and the Queen{\i0}
+Dialogue: 0,0:02:44.72,0:02:46.66,Default,,0,0,0,,{\i1}were sentenced to life imprisonment\Nin{\i0}
+Dialogue: 0,0:02:46.68,0:02:49.79,Default,,0,0,0,,{\i1}the terrifying prison known as the Coffin Tower.{\i0}
+Dialogue: 0,0:02:52.40,0:02:56.90,Default,,0,0,0,,{\i1}What fate lies in store for Sapphire and the Queen?{\i0}
+Dialogue: 0,0:02:57.39,0:03:00.44,Default,,0,0,0,,{\i1}Please enjoy today's episode.{\i0}
+Dialogue: 0,0:03:36.26,0:03:38.34,Default,,0,0,0,,Gama, jailer of the tower! Are you there?
+Dialogue: 0,0:03:39.48,0:03:41.86,Default,,0,0,0,,Yes, right away, Captain!
+Dialogue: 0,0:03:57.92,0:03:58.66,Default,,0,0,0,,Mother.
+Dialogue: 0,0:03:58.68,0:04:00.54,Default,,0,0,0,,Stay strong... Hang in there, Sapphire.
+Dialogue: 0,0:04:01.86,0:04:03.52,Default,,0,0,0,,Let Sapphire and the Queen out.
+Dialogue: 0,0:04:05.83,0:04:07.25,Default,,0,0,0,,Mother, be careful.
+Dialogue: 0,0:04:07.27,0:04:08.32,Default,,0,0,0,,Thank you, Sapphire.
+Dialogue: 0,0:04:10.70,0:04:13.95,Default,,0,0,0,,Welcome, Prince Sapphire and the Queen.
+Dialogue: 0,0:04:16.18,0:04:17.85,Default,,0,0,0,,Gama, I leave them in your care.
+Dialogue: 0,0:04:18.02,0:04:18.43,Default,,0,0,0,,Let's go!
+Dialogue: 0,0:04:19.50,0:04:21.54,Default,,0,0,0,,Y-Yes, sir. Thank you for your hard work.
+Dialogue: 0,0:04:25.83,0:04:27.08,Default,,0,0,0,,Now, shall we?
+Dialogue: 0,0:04:40.50,0:04:43.24,Default,,0,0,0,,Oh, what a dreadful tower this is.
+Dialogue: 0,0:04:43.58,0:04:44.96,Default,,0,0,0,,Right this way, please.
+Dialogue: 0,0:04:56.96,0:04:58.22,Default,,0,0,0,,What was that noise, Gama?
+Dialogue: 0,0:04:58.69,0:04:59.54,Default,,0,0,0,,Just the wind.
+Dialogue: 0,0:04:59.60,0:05:02.85,Default,,0,0,0,,If that frightens you, you won't last long in the Coffin Tower.
+Dialogue: 0,0:05:03.72,0:05:04.86,Default,,0,0,0,,Where is our room?
+Dialogue: 0,0:05:05.87,0:05:09.03,Default,,0,0,0,,Yes, just up those stairs.
+Dialogue: 0,0:05:24.21,0:05:25.63,Default,,0,0,0,,Sapphire, bats!
+Dialogue: 0,0:05:25.66,0:05:26.73,Default,,0,0,0,,Oh, that scared me.
+Dialogue: 0,0:05:27.02,0:05:28.40,Default,,0,0,0,,There sure are all kinds of things in here.
+Dialogue: 0,0:05:28.42,0:05:29.72,Default,,0,0,0,,Here we are.
+Dialogue: 0,0:05:32.43,0:05:34.74,Default,,0,0,0,,This is the room for the two of you.
+Dialogue: 0,0:05:39.41,0:05:41.12,Default,,0,0,0,,Are there no beds in this room?
+Dialogue: 0,0:05:41.61,0:05:42.04,Default,,0,0,0,,Beds?
+Dialogue: 0,0:05:42.23,0:05:44.84,Default,,0,0,0,,Men, get two beds ready!
+Dialogue: 0,0:05:47.30,0:05:48.30,Default,,0,0,0,,Who are these people?
+Dialogue: 0,0:05:49.12,0:05:51.04,Default,,0,0,0,,They're all my men.
+Dialogue: 0,0:05:51.34,0:05:53.16,Default,,0,0,0,,Give me that jewel in exchange for beds.
+Dialogue: 0,0:05:53.38,0:05:56.77,Default,,0,0,0,,Oh, but this is a precious keepsake of the King...
+Dialogue: 0,0:05:57.59,0:05:59.47,Default,,0,0,0,,Hey, looks like they don't need beds after all.
+Dialogue: 0,0:06:02.89,0:06:05.43,Default,,0,0,0,,Huddle up and sleep on the stones, then.
+Dialogue: 0,0:06:06.00,0:06:06.65,Default,,0,0,0,,Gama—
+Dialogue: 0,0:06:06.67,0:06:07.67,Default,,0,0,0,,Sapphire,
+Dialogue: 0,0:06:07.70,0:06:08.64,Default,,0,0,0,,Mother...
+Dialogue: 0,0:06:09.06,0:06:09.83,Default,,0,0,0,,It's all right.
+Dialogue: 0,0:06:12.94,0:06:14.71,Default,,0,0,0,,Men, bring in the beds!
+Dialogue: 0,0:06:17.08,0:06:18.28,Default,,0,0,0,,Could we have some light in the room?
+Dialogue: 0,0:06:19.23,0:06:21.12,Default,,0,0,0,,Men, bring a light!
+Dialogue: 0,0:06:24.95,0:06:27.10,Default,,0,0,0,,In payment for the candles, give me that brooch.
+Dialogue: 0,0:06:27.67,0:06:28.67,Default,,0,0,0,,What?!
+Dialogue: 0,0:06:28.99,0:06:30.53,Default,,0,0,0,,Enough of your greed!
+Dialogue: 0,0:06:30.73,0:06:32.62,Default,,0,0,0,,Hey, looks like they don't need light after all.
+Dialogue: 0,0:06:35.06,0:06:36.10,Default,,0,0,0,,Ah, wait!
+Dialogue: 0,0:06:36.31,0:06:37.31,Default,,0,0,0,,We have no choice...
+Dialogue: 0,0:06:48.93,0:06:50.82,Default,,0,0,0,,It's already been three days since we came here.
+Dialogue: 0,0:06:51.42,0:06:52.94,Default,,0,0,0,,Sapphire, you must be hungry.
+Dialogue: 0,0:06:54.90,0:06:57.27,Default,,0,0,0,,We haven't eaten anything since breakfast.
+Dialogue: 0,0:06:58.45,0:07:00.79,Default,,0,0,0,,What should I do about dinner?
+Dialogue: 0,0:07:01.57,0:07:05.88,Default,,0,0,0,,I'd like some, but we've run out of necklaces and rings.
+Dialogue: 0,0:07:06.32,0:07:09.29,Default,,0,0,0,,Well, you two still have those fine clothes.
+Dialogue: 0,0:07:09.92,0:07:12.64,Default,,0,0,0,,If I give you these, could we get something else to wear?
+Dialogue: 0,0:07:14.00,0:07:16.18,Default,,0,0,0,,Of course. Something very fine.
+Dialogue: 0,0:07:17.98,0:07:18.98,Default,,0,0,0,,Mother...
+Dialogue: 0,0:07:19.11,0:07:20.11,Default,,0,0,0,,It's all right.
+Dialogue: 0,0:07:24.46,0:07:25.80,Default,,0,0,0,,Oh, Mother... wearing clothes like that...
+Dialogue: 0,0:07:26.01,0:07:29.58,Default,,0,0,0,,No, we have no need for fine dresses anymore.
+Dialogue: 0,0:07:30.70,0:07:36.89,Default,,0,0,0,,Hey, food's ready! Come on. Goodness, trading our fine clothes for only this?
+Dialogue: 0,0:07:37.15,0:07:39.90,Default,,0,0,0,,I wish I could at least let Sapphire eat her fill.
+Dialogue: 0,0:07:40.68,0:07:43.58,Default,,0,0,0,,That'll take a few more jewels or something.
+Dialogue: 0,0:07:44.07,0:07:45.76,Default,,0,0,0,,But I have nothing left.
+Dialogue: 0,0:07:46.63,0:07:48.35,Default,,0,0,0,,Are you hiding something?
+Dialogue: 0,0:07:48.86,0:07:50.94,Default,,0,0,0,,No, really, it's nothing.
+Dialogue: 0,0:07:51.21,0:07:53.09,Default,,0,0,0,,There's nothing here. Nothing at all.
+Dialogue: 0,0:07:53.34,0:07:56.22,Default,,0,0,0,,Then the mother does the laundry, and the kid cleans the house!
+Dialogue: 0,0:07:56.38,0:07:56.88,Default,,0,0,0,,What?
+Dialogue: 0,0:07:57.16,0:07:58.30,Default,,0,0,0,,Making Mother work?!
+Dialogue: 0,0:07:59.32,0:08:00.62,Default,,0,0,0,,Oh, Sapphire.
+Dialogue: 0,0:08:02.66,0:08:05.91,Default,,0,0,0,,I'm gonna work you two to the bone today!
+Dialogue: 0,0:08:10.50,0:08:11.50,Default,,0,0,0,,Aren't we energetic...
+Dialogue: 0,0:08:11.99,0:08:14.41,Default,,0,0,0,,Gama's cruelty doesn't bother me at all.
+Dialogue: 0,0:08:19.20,0:08:21.94,Default,,0,0,0,,I'd rather work than sit around moping.
+Dialogue: 0,0:08:22.34,0:08:24.58,Default,,0,0,0,,Honestly, keeping busy makes me feel better.
+Dialogue: 0,0:08:26.77,0:08:27.46,Default,,0,0,0,,Gama!
+Dialogue: 0,0:08:27.48,0:08:28.37,Default,,0,0,0,,You washed my face!
+Dialogue: 0,0:08:29.64,0:08:30.48,Default,,0,0,0,,Ouch!
+Dialogue: 0,0:08:31.14,0:08:33.08,Default,,0,0,0,,Less talking, more working!
+Dialogue: 0,0:08:44.96,0:08:48.99,Default,,0,0,0,,Getting hit and then stuck with trash duty? Give me a break.
+Dialogue: 0,0:08:49.21,0:08:52.90,Default,,0,0,0,,Let's see, the trash dump is... Ah, right here.
+Dialogue: 0,0:09:03.55,0:09:04.80,Default,,0,0,0,,Hey! Who's there?!
+Dialogue: 0,0:09:04.92,0:09:06.88,Default,,0,0,0,,Damn, this was Gama's room.
+Dialogue: 0,0:09:09.82,0:09:14.20,Default,,0,0,0,,Damn it! Make a fool of Master Gama again, and you won't get off easy!
+Dialogue: 0,0:09:14.27,0:09:16.82,Default,,0,0,0,,I didn't know it was your room, Gama!
+Dialogue: 0,0:09:16.98,0:09:18.35,Default,,0,0,0,,No food for you!
+Dialogue: 0,0:09:18.46,0:09:19.89,Default,,0,0,0,,Scrub the floor.
+Dialogue: 0,0:09:20.13,0:09:21.58,Default,,0,0,0,,Now that you get it...
+Dialogue: 0,0:09:28.06,0:09:29.06,Default,,0,0,0,,I get it!
+Dialogue: 0,0:09:29.30,0:09:32.31,Default,,0,0,0,,Let's see, a rag, a rag...
+Dialogue: 0,0:09:32.33,0:09:33.36,Default,,0,0,0,,Ah, this one!
+Dialogue: 0,0:09:36.69,0:09:37.67,Default,,0,0,0,,♪ La la la ♪\N-
+Dialogue: 0,0:09:38.63,0:09:39.55,Default,,0,0,0,,♪ La la la ♪\N-
+Dialogue: 0,0:09:40.64,0:09:44.61,Default,,0,0,0,,♪ La la lan la lan la lan lan lan lan ♪\N-
+Dialogue: 0,0:09:44.80,0:09:51.96,Default,,0,0,0,,♪ Sonochi harema ga mierudaro ♪\NOne of these days we'll see some sunshine
+Dialogue: 0,0:09:52.43,0:09:53.48,Default,,0,0,0,,♪ La la la ♪\N-
+Dialogue: 0,0:09:54.58,0:09:55.53,Default,,0,0,0,,♪ La la la ♪\N-
+Dialogue: 0,0:09:56.62,0:09:59.86,Default,,0,0,0,,♪ La la la la lan lan lan ♪\N-
+Dialogue: 0,0:10:01.25,0:10:08.41,Default,,0,0,0,,♪ Sonochi minna ga utaudaro ♪\NOne of these days we'll all be singing
+Dialogue: 0,0:10:08.51,0:10:09.82,Default,,0,0,0,,♪ La la la ♪\N-
+Dialogue: 0,0:10:10.43,0:10:12.07,Default,,0,0,0,,♪ La la la ♪\N-
+Dialogue: 0,0:10:12.59,0:10:15.78,Default,,0,0,0,,♪ La la la la lan lan lan ♪\N-
+Dialogue: 0,0:10:16.37,0:10:24.37,Default,,0,0,0,,♪ Sonochi harema ga mierudaro ♪\NOne of these days we'll see some sunshine
+Dialogue: 0,0:10:24.58,0:10:25.54,Default,,0,0,0,,♪ La la la ♪\N-
+Dialogue: 0,0:10:26.46,0:10:27.60,Default,,0,0,0,,♪ La la la ♪\N-
+Dialogue: 0,0:10:28.55,0:10:31.92,Default,,0,0,0,,♪ La la la la lan lan lan ♪\N-
+Dialogue: 0,0:10:37.44,0:10:39.45,Default,,0,0,0,,What kind of floor-wiping is that?
+Dialogue: 0,0:10:39.68,0:10:40.33,Default,,0,0,0,,Give it here!
+Dialogue: 0,0:10:40.65,0:10:43.10,Default,,0,0,0,,I can't put my back into it unless I sing to the beat!
+Dialogue: 0,0:10:43.38,0:10:45.39,Default,,0,0,0,,That is one filthy rag...
+Dialogue: 0,0:10:48.58,0:10:49.01,Default,,0,0,0,,H-Hey!
+Dialogue: 0,0:10:49.43,0:10:50.68,Default,,0,0,0,,Those are my clothes!
+Dialogue: 0,0:10:50.72,0:10:52.37,Default,,0,0,0,,Oh, these are your clothes Gama?!
+Dialogue: 0,0:10:52.88,0:10:53.88,Default,,0,0,0,,Wait!
+Dialogue: 0,0:11:07.61,0:11:08.88,Default,,0,0,0,,Oh no, the cook!
+Dialogue: 0,0:11:09.04,0:11:10.21,Default,,0,0,0,,My food...
+Dialogue: 0,0:11:13.77,0:11:15.74,Default,,0,0,0,,What an infuriating brat!
+Dialogue: 0,0:11:15.91,0:11:19.07,Default,,0,0,0,,No way, you're going to keep working with no food for a long time!
+Dialogue: 0,0:11:19.19,0:11:20.31,Default,,0,0,0,,Now keep at it!
+Dialogue: 0,0:11:31.40,0:11:36.56,Default,,0,0,0,,{\i1}Soon the sun{\i0}...
+Dialogue: 0,0:11:36.58,0:11:38.29,Default,,0,0,0,,Stop singing!
+Dialogue: 0,0:11:38.53,0:11:40.01,Default,,0,0,0,,Grind fine flour!
+Dialogue: 0,0:11:40.34,0:11:43.90,Default,,0,0,0,,So Master Gama can eat top-quality bread baked from it!
+Dialogue: 0,0:11:44.42,0:11:45.34,Default,,0,0,0,,Oh, no you don't!
+Dialogue: 0,0:11:48.70,0:11:49.70,Default,,0,0,0,,A mouse!
+Dialogue: 0,0:11:50.19,0:11:50.43,Default,,0,0,0,,Wait!
+Dialogue: 0,0:11:50.78,0:11:51.92,Default,,0,0,0,,You thieving mouse!
+Dialogue: 0,0:12:09.38,0:12:10.38,Default,,0,0,0,,Hand it over!
+Dialogue: 0,0:12:16.45,0:12:20.08,Default,,0,0,0,,Starting today, we're ridding this mansion of these filthy mice!
+Dialogue: 0,0:12:20.60,0:12:21.03,Default,,0,0,0,,No!
+Dialogue: 0,0:12:21.25,0:12:22.52,Default,,0,0,0,,Mice are living creatures, too!
+Dialogue: 0,0:12:34.02,0:12:35.32,Default,,0,0,0,,I'm so hungry...
+Dialogue: 0,0:12:35.58,0:12:38.57,Default,,0,0,0,,Tomorrow I'll give you my share.
+Dialogue: 0,0:12:39.41,0:12:40.57,Default,,0,0,0,,I'm happy...
+Dialogue: 0,0:12:41.10,0:12:42.24,Default,,0,0,0,,Why?
+Dialogue: 0,0:12:42.72,0:12:46.41,Default,,0,0,0,,Because even though things are tough, it's just the two of us, Mother.
+Dialogue: 0,0:12:47.18,0:12:50.50,Default,,0,0,0,,Truly... If only your father were here...
+Dialogue: 0,0:12:50.52,0:12:52.46,Default,,0,0,0,,We promised not to cry!
+Dialogue: 0,0:12:54.13,0:12:54.99,Default,,0,0,0,,I'm sorry...
+Dialogue: 0,0:12:55.24,0:12:57.45,Default,,0,0,0,,We don't need annoying etiquette,
+Dialogue: 0,0:12:58.34,0:13:00.58,Default,,0,0,0,,and creepy Duralumin and Nylon aren't here either...
+Dialogue: 0,0:13:01.05,0:13:01.66,Default,,0,0,0,,This place...
+Dialogue: 0,0:13:02.82,0:13:04.01,Default,,0,0,0,,isn't so bad after all.
+Dialogue: 0,0:13:04.25,0:13:05.38,Default,,0,0,0,,Thank you, Sapphire.
+Dialogue: 0,0:13:05.98,0:13:08.68,Default,,0,0,0,,Looking at your face gives me courage, too.
+Dialogue: 0,0:13:09.73,0:13:14.03,Default,,0,0,0,,But still... I'm so hungry...
+Dialogue: 0,0:13:21.71,0:13:23.20,Default,,0,0,0,,Did you come to thank us?
+Dialogue: 0,0:13:23.30,0:13:24.07,Default,,0,0,0,,You didn't have to!
+Dialogue: 0,0:13:29.12,0:13:30.21,Default,,0,0,0,,I'm so touched!
+Dialogue: 0,0:13:30.54,0:13:32.45,Default,,0,0,0,,You brought food as a thank-you!
+Dialogue: 0,0:13:32.88,0:13:33.48,Default,,0,0,0,,Well then!
+Dialogue: 0,0:13:37.92,0:13:38.92,Default,,0,0,0,,It's delicious!
+Dialogue: 0,0:13:39.05,0:13:40.05,Default,,0,0,0,,One more!
+Dialogue: 0,0:13:41.14,0:13:42.14,Default,,0,0,0,,Hey!
+Dialogue: 0,0:13:42.46,0:13:45.38,Default,,0,0,0,,From now on, no one is to speak of Prince Sapphire.
+Dialogue: 0,0:13:45.73,0:13:49.19,Default,,0,0,0,,Anyone who utters the name... will be whipped over a hundred times
+Dialogue: 0,0:13:49.21,0:13:51.70,Default,,0,0,0,,and sent to the quarry as a slave, Lord Duralumin!
+Dialogue: 0,0:13:52.36,0:13:53.36,Default,,0,0,0,,That wretched Duralumin!
+Dialogue: 0,0:13:53.51,0:13:55.18,Default,,0,0,0,,They're running things terribly, Mother!
+Dialogue: 0,0:13:57.40,0:13:58.66,Default,,0,0,0,,I'm sure that's not all!
+Dialogue: 0,0:13:59.35,0:14:03.69,Default,,0,0,0,,Just because Father and I are gone, they're doing whatever they want!
+Dialogue: 0,0:14:06.64,0:14:08.28,Default,,0,0,0,,If only we could get out of here...
+Dialogue: 0,0:14:10.17,0:14:12.20,Default,,0,0,0,,What is this...?
+Dialogue: 0,0:14:19.16,0:14:20.16,Default,,0,0,0,,Mother!
+Dialogue: 0,0:14:20.98,0:14:21.98,Default,,0,0,0,,What kind of hole is this?
+Dialogue: 0,0:14:25.74,0:14:29.98,Default,,0,0,0,,It's deep... It might go all the way down...
+Dialogue: 0,0:14:30.00,0:14:32.44,Default,,0,0,0,,Be careful, it's very narrow.
+Dialogue: 0,0:15:09.52,0:15:10.10,Default,,0,0,0,,It's the outside!
+Dialogue: 0,0:15:10.46,0:15:12.64,Default,,0,0,0,,We can get outside, little mouse!
+Dialogue: 0,0:15:13.19,0:15:13.99,Default,,0,0,0,,Thank you!
+Dialogue: 0,0:15:24.11,0:15:25.42,Default,,0,0,0,,Ah, Sapphire!
+Dialogue: 0,0:15:25.58,0:15:27.42,Default,,0,0,0,,Mother, there's an exit!
+Dialogue: 0,0:15:27.76,0:15:30.20,Default,,0,0,0,,Come on, hurry and climb up... Let's get out of here!
+Dialogue: 0,0:15:30.47,0:15:32.30,Default,,0,0,0,,We're escaping from this place right now!
+Dialogue: 0,0:15:32.81,0:15:34.92,Default,,0,0,0,,I can't fit through a hole this small.
+Dialogue: 0,0:15:35.09,0:15:36.38,Default,,0,0,0,,You must escape alone.
+Dialogue: 0,0:15:37.16,0:15:37.69,Default,,0,0,0,,No!
+Dialogue: 0,0:15:37.78,0:15:39.36,Default,,0,0,0,,I won't leave you, Mother...
+Dialogue: 0,0:15:40.17,0:15:42.24,Default,,0,0,0,,No, you must escape, even if it's just you.
+Dialogue: 0,0:15:42.86,0:15:44.50,Default,,0,0,0,,And fight the villains.
+Dialogue: 0,0:15:47.48,0:15:48.78,Default,,0,0,0,,Stay strong...
+Dialogue: 0,0:15:50.84,0:15:52.95,Default,,0,0,0,,What are you whispering about over there?
+Dialogue: 0,0:15:53.51,0:15:54.89,Default,,0,0,0,,Nothing...
+Dialogue: 0,0:15:56.26,0:15:58.03,Default,,0,0,0,,I'm so hungry.
+Dialogue: 0,0:15:58.06,0:16:01.22,Default,,0,0,0,,Starving... You were probably plotting an escape anyway.
+Dialogue: 0,0:16:01.40,0:16:02.56,Default,,0,0,0,,As if you could escape!
+Dialogue: 0,0:16:02.93,0:16:07.10,Default,,0,0,0,,If you run, the Queen loses her head in your place!
+Dialogue: 0,0:16:09.46,0:16:11.35,Default,,0,0,0,,On Lord Duralumin's orders!
+Dialogue: 0,0:16:13.08,0:16:14.42,Default,,0,0,0,,Mother...
+Dialogue: 0,0:16:15.06,0:16:16.10,Default,,0,0,0,,Don't worry about me.
+Dialogue: 0,0:16:16.80,0:16:18.58,Default,,0,0,0,,Get out of here and fight.
+Dialogue: 0,0:16:19.24,0:16:21.18,Default,,0,0,0,,That is the duty of the Prince of Silverland.
+Dialogue: 0,0:16:22.06,0:16:24.80,Default,,0,0,0,,But if I'm caught, your life...
+Dialogue: 0,0:16:24.82,0:16:27.08,Default,,0,0,0,,Sapphire, which is more important?
+Dialogue: 0,0:16:27.11,0:16:32.86,Default,,0,0,0,,My life, or the lives of all the poor people suffering at the hands of villains?
+Dialogue: 0,0:16:38.91,0:16:40.30,Default,,0,0,0,,Oh, little mice!
+Dialogue: 0,0:16:45.61,0:16:46.31,Default,,0,0,0,,Wow!
+Dialogue: 0,0:16:47.00,0:16:48.12,Default,,0,0,0,,My sword and clothes!
+Dialogue: 0,0:16:48.45,0:16:50.33,Default,,0,0,0,,You brought them from the Chamber of Patience!
+Dialogue: 0,0:17:16.20,0:17:18.08,Default,,0,0,0,,Come on, keep moving!
+Dialogue: 0,0:17:18.80,0:17:19.55,Default,,0,0,0,,
+Dialogue: 0,0:17:19.74,0:17:20.50,Default,,0,0,0,,
+Dialogue: 0,0:17:20.64,0:17:21.64,Default,,0,0,0,,
+Dialogue: 0,0:17:24.18,0:17:25.54,Default,,0,0,0,,Listen up, everyone!
+Dialogue: 0,0:17:25.64,0:17:28.06,Default,,0,0,0,,Not only did this man speak Sapphire's name,
+Dialogue: 0,0:17:28.08,0:17:30.78,Default,,0,0,0,,he had the nerve to call King Plastic a fool!
+Dialogue: 0,0:17:31.18,0:17:33.30,Default,,0,0,0,,So after a good flogging, we'll send him to the quarry
+Dialogue: 0,0:17:33.32,0:17:35.66,Default,,0,0,0,,and work him as a slave until he dies!
+Dialogue: 0,0:17:44.74,0:17:45.47,Default,,0,0,0,,No!
+Dialogue: 0,0:17:45.54,0:17:46.96,Default,,0,0,0,,No, no, no!
+Dialogue: 0,0:17:46.96,0:17:49.29,Default,,0,0,0,,This brat was praising Sapphire!
+Dialogue: 0,0:17:49.63,0:17:50.39,Default,,0,0,0,,What?
+Dialogue: 0,0:17:50.62,0:17:55.09,Default,,0,0,0,,Dad, you kept Princess Sapphire alive, but Plastic's gone completely crazy!
+Dialogue: 0,0:17:56.56,0:17:57.80,Default,,0,0,0,,You little runt! Whip him!
+Dialogue: 0,0:17:58.14,0:17:59.86,Default,,0,0,0,,Don't hold back just because he's a kid! Get him!
+Dialogue: 0,0:18:02.86,0:18:03.86,Default,,0,0,0,,My little boy!
+Dialogue: 0,0:18:04.90,0:18:06.99,Default,,0,0,0,,They're just the words of a child. Please forgive him.
+Dialogue: 0,0:18:07.10,0:18:07.96,Default,,0,0,0,,No! Absolutely not!
+Dialogue: 0,0:18:08.08,0:18:10.01,Default,,0,0,0,,Move, or I'll whip both of you!
+Dialogue: 0,0:18:10.20,0:18:10.94,Default,,0,0,0,,There!
+Dialogue: 0,0:18:12.30,0:18:13.30,Default,,0,0,0,,Wait!
+Dialogue: 0,0:18:40.79,0:18:41.37,Default,,0,0,0,,Damn it!
+Dialogue: 0,0:18:41.41,0:18:42.71,Default,,0,0,0,,Who are you?!
+Dialogue: 0,0:18:44.63,0:18:45.87,Default,,0,0,0,,The Knight of the Ribbon.
+Dialogue: 0,0:18:46.11,0:18:47.11,Default,,0,0,0,,Remember it!
+Dialogue: 0,0:18:47.56,0:18:47.88,Default,,0,0,0,,What?
+Dialogue: 0,0:18:48.04,0:18:49.24,Default,,0,0,0,,Knight of the Ribbon?
+Dialogue: 0,0:18:49.99,0:18:51.16,Default,,0,0,0,,Suspicious behavior!
+Dialogue: 0,0:18:51.26,0:18:52.26,Default,,0,0,0,,It's just a rogue monkey!
+Dialogue: 0,0:19:01.62,0:19:02.16,Default,,0,0,0,,What's wrong?
+Dialogue: 0,0:19:02.46,0:19:03.48,Default,,0,0,0,,Is that all you've got?
+Dialogue: 0,0:19:03.92,0:19:05.97,Default,,0,0,0,,So much for your whip tricks!
+Dialogue: 0,0:19:09.16,0:19:10.33,Default,,0,0,0,,Come on!
+Dialogue: 0,0:19:22.81,0:19:24.96,Default,,0,0,0,,You dared to challenge\Nme I'll make you pay!
+Dialogue: 0,0:19:30.95,0:19:31.41,Default,,0,0,0,,Boy!
+Dialogue: 0,0:19:31.78,0:19:34.58,Default,,0,0,0,,Use this sword to cut the prisoner's ropes in the carriage!
+Dialogue: 0,0:19:35.92,0:19:37.29,Default,,0,0,0,,Thank you, Princess Knight!
+Dialogue: 0,0:19:37.48,0:19:40.19,Default,,0,0,0,,Um, please, at least show us your face!
+Dialogue: 0,0:19:41.05,0:19:42.32,Default,,0,0,0,,I cannot do that!
+Dialogue: 0,0:19:42.56,0:19:43.56,Default,,0,0,0,,Farewell!
+Dialogue: 0,0:20:03.79,0:20:04.58,Default,,0,0,0,,We've got trouble!
+Dialogue: 0,0:20:05.08,0:20:06.52,Default,,0,0,0,,We've got trouble!
+Dialogue: 0,0:20:10.41,0:20:11.67,Default,,0,0,0,,How ridiculous!
+Dialogue: 0,0:20:11.83,0:20:13.36,Default,,0,0,0,,Are you hungry?
+Dialogue: 0,0:20:14.66,0:20:16.10,Default,,0,0,0,,You don't even care how I feel!
+Dialogue: 0,0:20:16.33,0:20:17.99,Default,,0,0,0,,You idiot, Plastic!
+Dialogue: 0,0:20:18.36,0:20:20.26,Default,,0,0,0,,What's wrong, Nylon?
+Dialogue: 0,0:20:21.71,0:20:23.16,Default,,0,0,0,,Ugh, it's so frustrating!
+Dialogue: 0,0:20:23.24,0:20:23.77,Default,,0,0,0,,What do you mean, "what"?!
+Dialogue: 0,0:20:23.84,0:20:25.51,Default,,0,0,0,,A strange fellow suddenly appeared and
+Dialogue: 0,0:20:25.54,0:20:28.48,Default,,0,0,0,,freed all the prisoners bound for the quarry!
+Dialogue: 0,0:20:29.32,0:20:30.32,Default,,0,0,0,,Strange.
+Dialogue: 0,0:20:31.14,0:20:32.74,Default,,0,0,0,,What do you mean, "strange"?!
+Dialogue: 0,0:20:32.80,0:20:35.27,Default,,0,0,0,,That monster was a giant, three meters tall.
+Dialogue: 0,0:20:35.30,0:20:37.53,Default,,0,0,0,,We almost had him at one point, but... it was that Ribbon kid!
+Dialogue: 0,0:20:37.57,0:20:38.70,Default,,0,0,0,,Is that so?!
+Dialogue: 0,0:20:39.16,0:20:40.39,Default,,0,0,0,,Yikes, he's here!
+Dialogue: 0,0:20:41.78,0:20:43.27,Default,,0,0,0,,That's him! Right there!
+Dialogue: 0,0:20:43.93,0:20:46.61,Default,,0,0,0,,That's the "strange" fellow... Guards! Guards!
+Dialogue: 0,0:20:46.66,0:20:47.31,Default,,0,0,0,,Guards!
+Dialogue: 0,0:20:47.53,0:20:48.94,Default,,0,0,0,,There's an intruder at the window!
+Dialogue: 0,0:20:49.47,0:20:51.84,Default,,0,0,0,,Attack from all sides! Secure the outside of the window, too!
+Dialogue: 0,0:20:51.99,0:20:53.28,Default,,0,0,0,,Cut off his escape route!
+Dialogue: 0,0:20:54.11,0:20:55.24,Default,,0,0,0,,Pardon the intrusion!
+Dialogue: 0,0:20:55.40,0:20:57.74,Default,,0,0,0,,Put your hands up, or we'll turn you into a honeycomb!
+Dialogue: 0,0:20:57.96,0:20:59.78,Default,,0,0,0,,It's over, Duralumin!
+Dialogue: 0,0:21:08.58,0:21:10.14,Default,,0,0,0,,You've got nerve!
+Dialogue: 0,0:21:10.18,0:21:11.18,Default,,0,0,0,,Let's mess him up!
+Dialogue: 0,0:21:11.30,0:21:11.87,Default,,0,0,0,,Charge!
+Dialogue: 0,0:21:11.92,0:21:13.24,Default,,0,0,0,,Quick, catch him!
+Dialogue: 0,0:21:17.72,0:21:18.72,Default,,0,0,0,,Don't you forget it!
+Dialogue: 0,0:21:18.78,0:21:20.58,Default,,0,0,0,,You greedy, cunning Duralumin!
+Dialogue: 0,0:21:20.90,0:21:24.91,Default,,0,0,0,,If you keep harassing the people, the Ribbon Knight won't stand for it!
+Dialogue: 0,0:21:25.21,0:21:26.37,Default,,0,0,0,,Remember that!
+Dialogue: 0,0:21:28.60,0:21:29.66,Default,,0,0,0,,What are you doing?!
+Dialogue: 0,0:21:29.69,0:21:30.18,Default,,0,0,0,,After him!
+Dialogue: 0,0:21:30.20,0:21:30.75,Default,,0,0,0,,Get him!
+Dialogue: 0,0:21:33.70,0:21:35.18,Default,,0,0,0,,What is it, Nylon?
+Dialogue: 0,0:21:35.37,0:21:38.75,Default,,0,0,0,,That voice sounded an awful lot like Sapphire's.
+Dialogue: 0,0:21:39.32,0:21:39.89,Default,,0,0,0,,What?
+Dialogue: 0,0:21:40.00,0:21:41.00,Default,,0,0,0,,Sapphire?
+Dialogue: 0,0:21:42.58,0:21:43.02,Default,,0,0,0,,That's it!
+Dialogue: 0,0:21:43.15,0:21:44.50,Default,,0,0,0,,First, split into two groups!
+Dialogue: 0,0:21:44.73,0:21:46.28,Default,,0,0,0,,One group will chase that monster!
+Dialogue: 0,0:21:46.44,0:21:49.82,Default,,0,0,0,,The other will go to the Coffin Tower to see if Sapphire is there!
+Dialogue: 0,0:21:51.78,0:21:55.26,Default,,0,0,0,,The Ribbon Knight is... Sapphire?!
+Dialogue: 0,0:22:26.46,0:22:26.94,Default,,0,0,0,,Oh no!
+Dialogue: 0,0:22:27.41,0:22:30.64,Default,,0,0,0,,Nylon caught on and is heading to Kagoge Island ahead of us to check!
+Dialogue: 0,0:22:31.06,0:22:32.60,Default,,0,0,0,,If I don't hurry back, Mother will be in danger!
+Dialogue: 0,0:22:46.62,0:22:47.40,Default,,0,0,0,,Gama!
+Dialogue: 0,0:22:47.60,0:22:48.60,Default,,0,0,0,,Is Gama there?
+Dialogue: 0,0:22:48.66,0:22:49.22,Default,,0,0,0,,It's Nylon!
+Dialogue: 0,0:22:49.47,0:22:50.78,Default,,0,0,0,,Open the tower immediately!
+Dialogue: 0,0:23:02.50,0:23:03.50,Default,,0,0,0,,Hello, Nylon!
+Dialogue: 0,0:23:03.65,0:23:05.24,Default,,0,0,0,,Your nose is as big as ever!
+Dialogue: 0,0:23:05.39,0:23:07.18,Default,,0,0,0,,I was so sure it was Sapphire...
+Dialogue: 0,0:23:10.30,0:23:11.94,Default,,0,0,0,,I'm sorry I'm late.
+Dialogue: 0,0:23:12.61,0:23:13.61,Default,,0,0,0,,What a relief.
+Dialogue: 0,0:23:14.06,0:23:16.79,Default,,0,0,0,,If you were any later, it would have been dangerous.
+Dialogue: 0,0:23:18.13,0:23:19.55,Default,,0,0,0,,So much sweat...
+Dialogue: 0,0:23:23.56,0:23:26.80,Default,,0,0,0,,So was Sapphire really inside the tower?
+Dialogue: 0,0:23:26.88,0:23:27.17,Default,,0,0,0,,Yes.
+Dialogue: 0,0:23:27.38,0:23:29.56,Default,,0,0,0,,We're stuck going through all this trouble because
+Dialogue: 0,0:23:29.58,0:23:31.78,Default,,0,0,0,,Sapphire and the Queen are still alive.
+Dialogue: 0,0:23:31.94,0:23:33.43,Default,,0,0,0,,Damn it!
+Dialogue: 0,0:23:33.52,0:23:34.77,Default,,0,0,0,,Finish them quickly...
+Dialogue: 0,0:23:34.79,0:23:36.66,Default,,0,0,0,,I've already made my move!
+Dialogue: 0,0:23:37.23,0:23:40.13,Default,,0,0,0,,I hired a hitman who uses three different weapons!
+Dialogue: 0,0:23:41.43,0:23:43.42,Default,,0,0,0,,They should be at the tower by now!
+Dialogue: 0,0:23:47.29,0:23:47.56,Default,,0,0,0,,What?
+Dialogue: 0,0:23:47.93,0:23:49.51,Default,,0,0,0,,How good is this assassin?
+Dialogue: 0,0:23:49.95,0:23:54.00,Default,,0,0,0,,He's never failed before. Just watch.
 Dialogue: 0,0:24:37.18,0:24:40.80,Karaoke,,0,0,0,,{\k29}{\k22}Ta{\k18}ra{\k16}ri {\k18}Ra{\k20}tta {\k23}Ri{\k19}tta {\k26}Ra{\k17}tta {\k19}Ra{\k66}tta{\k69}ttaa
 Dialogue: 0,0:24:40.80,0:24:44.16,Karaoke,,0,0,0,,{\k8}{\k46}Kya{\k68}hoo! {\k35}Kya{\k42}hoo! {\k46}Kya{\k91}hoo!
 Dialogue: 0,0:24:40.80,0:24:44.16,OPED_Translation,,0,0,0,,Yahoo! Yahoo! Yahoo!

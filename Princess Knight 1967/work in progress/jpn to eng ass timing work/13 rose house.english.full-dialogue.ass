@@ -14,7 +14,8 @@ Audio File: 13 the rose castle.mkv
 Video File: 13 the rose castle.mkv
 Video AR Mode: 4
 Video AR Value: 1.314554
-Active Line: 18
+Scroll Position: 9
+Active Line: 269
 Video Position: 950
 
 [V4+ Styles]
@@ -48,254 +49,252 @@ Dialogue: 0,0:01:25.22,0:01:28.62,Karaoke,,0,0,0,,{\k6}{\k50}Hon{\k43}to {\k33}w
 Dialogue: 0,0:01:25.22,0:01:28.62,OPED_Translation,,0,0,0,,Truly, truly,
 Dialogue: 0,0:01:28.62,0:01:31.82,Karaoke,,0,0,0,,{\k18}{\k23}A{\k23}ta{\k27}shi {\k35}na{\k35}no {\k159}sa{\k0}
 Dialogue: 0,0:01:28.62,0:01:31.82,OPED_Translation,,0,0,0,,It’s really me!
-Dialogue: 0,0:01:44.10,0:01:50.14,Default,,0,0,0,,Thirteenth Episode\NThe Castle of Roses
-Dialogue: 0,0:02:06.66,0:02:09.02,Default,,0,0,0,,Today I'm doing nothing\Nbut getting bored!
-Dialogue: 0,0:02:09.06,0:02:11.42,Default,,0,0,0,,Prince Sapphire, the\Ntroops are already lined up!
-Dialogue: 0,0:02:11.46,0:02:14.42,Default,,0,0,0,,Have you forgotten that at\Nten you must review them?
-Dialogue: 0,0:02:14.46,0:02:16.26,Default,,0,0,0,,You are already late!
-Dialogue: 0,0:02:16.50,0:02:19.02,Default,,0,0,0,,You must fulfill your duty!
-Dialogue: 0,0:02:19.06,0:02:20.89,Default,,0,0,0,,Fine behavior!
-Dialogue: 0,0:02:23.26,0:02:26.09,Default,,0,0,0,,- Here is a towel for you!\N- Hurry up! Make it quick!
-Dialogue: 0,0:02:30.54,0:02:33.90,Default,,0,0,0,,Soldiers, attention!
-Dialogue: 0,0:02:34.34,0:02:36.70,Default,,0,0,0,,Present arms!
-Dialogue: 0,0:02:42.14,0:02:44.13,Default,,0,0,0,,Did you see, Opal? Let's go!
-Dialogue: 0,0:02:44.38,0:02:46.53,Default,,0,0,0,,Where are you going, Prince Sapphire?
-Dialogue: 0,0:02:46.90,0:02:49.73,Default,,0,0,0,,His Highness is leaving!
-Dialogue: 0,0:02:50.06,0:02:52.50,Default,,0,0,0,,Nice move!\NWe managed to slip away!
-Dialogue: 0,0:02:56.50,0:02:58.81,Default,,0,0,0,,Greetings, Your Highness!\NWhere are you going?
-Dialogue: 0,0:02:59.02,0:03:01.30,Default,,0,0,0,,I am by no means obliged\Nto tell you.
-Dialogue: 0,0:03:01.34,0:03:03.57,Default,,0,0,0,,As you wish. I only hope\Nyou don't have in mind...
-Dialogue: 0,0:03:03.62,0:03:06.61,Default,,0,0,0,,...to go to the Southern Valley.\N- Why can't I go there?
-Dialogue: 0,0:03:06.66,0:03:08.70,Default,,0,0,0,,There are often\Nlandslides. It is dangerous.
-Dialogue: 0,0:03:08.74,0:03:10.49,Default,,0,0,0,,I'll keep that in mind.
-Dialogue: 0,0:03:11.74,0:03:13.94,Default,,0,0,0,,Follow him! And see\Nif he enters the valley!
-Dialogue: 0,0:03:13.98,0:03:15.02,Default,,0,0,0,,I'm going!
-Dialogue: 0,0:03:22.46,0:03:24.21,Default,,0,0,0,,Here I am at the crossroads!
-Dialogue: 0,0:03:24.34,0:03:27.17,Default,,0,0,0,,Since I love risk, I will go to\Nthe left, into the Southern Valley.
-Dialogue: 0,0:03:27.22,0:03:28.81,Default,,0,0,0,,Go, Opal!
-Dialogue: 0,0:03:31.58,0:03:34.22,Default,,0,0,0,,So many roses...! Who could\Nhave thrown them on the ground?
-Dialogue: 0,0:03:39.14,0:03:42.02,Default,,0,0,0,,It's an interesting place, I don't\Nsee any threat of landslides.
-Dialogue: 0,0:03:42.06,0:03:44.89,Default,,0,0,0,,I wonder why Duralumin\Nwanted to warn me..!
-Dialogue: 0,0:03:48.46,0:03:51.42,Default,,0,0,0,,Magnificent, that castle\Noverlooking the whole valley!
-Dialogue: 0,0:03:57.14,0:03:58.89,Default,,0,0,0,,Let's go, Opal!
-Dialogue: 0,0:04:07.10,0:04:10.06,Default,,0,0,0,,Oh, no! What are you doing, you idiots?!\NPut the tent back up!
-Dialogue: 0,0:04:10.10,0:04:13.01,Default,,0,0,0,,Yes, Commander!\NRaise the tent!
-Dialogue: 0,0:04:19.90,0:04:22.70,Default,,0,0,0,,Thank goodness he had already passed,\Notherwise...
-Dialogue: 0,0:04:25.06,0:04:27.66,Default,,0,0,0,,How wonderful! Let's go in! Do you want to, Opal?
-Dialogue: 0,0:04:28.78,0:04:30.82,Default,,0,0,0,,What's wrong, little horse?
-Dialogue: 0,0:04:35.42,0:04:37.57,Default,,0,0,0,,What's the matter? Don't you want to go in?
-Dialogue: 0,0:04:37.62,0:04:40.93,Default,,0,0,0,,Easy! Come on, easy!\NThis is no time to act up!
-Dialogue: 0,0:04:42.46,0:04:45.18,Default,,0,0,0,,What is it?\NIt's only an old castle!
-Dialogue: 0,0:04:45.34,0:04:49.38,Default,,0,0,0,,It's nothing special!\NEasy! What's wrong, Opal?
-Dialogue: 0,0:05:07.70,0:05:10.85,Default,,0,0,0,,- And who are you?\N- Your name is Sapphire, right?
-Dialogue: 0,0:05:10.90,0:05:12.89,Default,,0,0,0,,Yes, indeed! And I am a Prince!
-Dialogue: 0,0:05:12.94,0:05:15.54,Default,,0,0,0,,- You are a real Prince?!\N- Yes, exactly!
-Dialogue: 0,0:05:15.58,0:05:17.49,Default,,0,0,0,,And tell me, who are you?
-Dialogue: 0,0:05:21.26,0:05:24.33,Default,,0,0,0,,Perhaps we will meet again, Prince.\NNow please excuse me.
-Dialogue: 0,0:05:25.70,0:05:29.09,Default,,0,0,0,,Wait, don't go away!\NAt least tell me your name!
-Dialogue: 0,0:05:33.78,0:05:36.06,Default,,0,0,0,,How strange.\NIt seemed as if she vanished!
-Dialogue: 0,0:05:37.42,0:05:39.57,Default,,0,0,0,,I smell a wonderful scent of roses
-Dialogue: 0,0:06:12.06,0:06:14.10,Default,,0,0,0,,No passing!
-Dialogue: 0,0:06:30.74,0:06:32.57,Default,,0,0,0,,Who could that be? Better go see!
-Dialogue: 0,0:06:32.90,0:06:36.02,Default,,0,0,0,,How did he manage to get in?\NCome forward!
-Dialogue: 0,0:06:39.34,0:06:42.41,Default,,0,0,0,,I have come to fetch you, Your Highness,\Nto take you to the castle of the roses.
-Dialogue: 0,0:06:42.46,0:06:44.82,Default,,0,0,0,,What a magnificent name for a castle!
-Dialogue: 0,0:07:00.90,0:07:03.02,Default,,0,0,0,,I smell again\Nthat strange scent!
-Dialogue: 0,0:07:22.74,0:07:25.26,Default,,0,0,0,,The carriage is heading\Nto the Valley of the South.
-Dialogue: 0,0:07:38.22,0:07:40.82,Default,,0,0,0,,I am curious to see\Nwhere we will end up.
-Dialogue: 0,0:07:57.10,0:07:59.33,Default,,0,0,0,,You may step down, Your\NHighness. We have arrived.
-Dialogue: 0,0:08:00.26,0:08:02.01,Default,,0,0,0,,It's enchanting!
-Dialogue: 0,0:08:09.42,0:08:11.30,Default,,0,0,0,,I'll ask where I am and...
-Dialogue: 0,0:08:11.74,0:08:13.62,Default,,0,0,0,,The carriage has disappeared!
-Dialogue: 0,0:08:13.66,0:08:16.02,Default,,0,0,0,,How could it have\Nmanaged to leave so quickly?
-Dialogue: 0,0:08:18.66,0:08:20.65,Default,,0,0,0,,Someone wants me to enter.
-Dialogue: 0,0:08:21.22,0:08:23.10,Default,,0,0,0,,What a strange place...
-Dialogue: 0,0:08:25.14,0:08:26.81,Default,,0,0,0,,What beautiful statues!
-Dialogue: 0,0:08:31.30,0:08:33.74,Default,,0,0,0,,I wonder why those two roses...
-Dialogue: 0,0:08:34.78,0:08:36.69,Default,,0,0,0,,And now, how do I get in?
-Dialogue: 0,0:08:46.86,0:08:50.01,Default,,0,0,0,,And these other two?\NHow big they are!
-Dialogue: 0,0:08:50.06,0:08:53.34,Default,,0,0,0,,Rather, they look like\Nrose-shaped boats.
-Dialogue: 0,0:08:57.46,0:08:59.29,Default,,0,0,0,,Prince Sapphire!
-Dialogue: 0,0:08:59.74,0:09:02.81,Default,,0,0,0,,- Please get onto the boat\Nof the white rose. - All right.
-Dialogue: 0,0:09:37.34,0:09:39.38,Default,,0,0,0,,And what will happen now?
-Dialogue: 0,0:09:47.26,0:09:50.17,Default,,0,0,0,,- Welcome, Your Highness.\N- Ah, it's you!
-Dialogue: 0,0:09:51.18,0:09:53.01,Default,,0,0,0,,I am the Duke of the White Roses.
-Dialogue: 0,0:09:53.06,0:09:55.81,Default,,0,0,0,,May I ask you why\Nyou had me come here?
-Dialogue: 0,0:09:55.86,0:09:57.82,Default,,0,0,0,,I will explain it to you right away, Prince.
-Dialogue: 0,0:09:57.86,0:10:00.90,Default,,0,0,0,,It seems that, centuries ago, my ancestors\Nbuilt the home you see.
-Dialogue: 0,0:10:01.14,0:10:03.50,Default,,0,0,0,,The people of my lineage\Nhave always lived here,
-Dialogue: 0,0:10:03.54,0:10:05.26,Default,,0,0,0,,one generation after another.
-Dialogue: 0,0:10:05.46,0:10:07.42,Default,,0,0,0,,But for some time now,\Nsomeone has been trying...
-Dialogue: 0,0:10:07.46,0:10:09.50,Default,,0,0,0,,...to drive me\Nand my family away.
-Dialogue: 0,0:10:10.10,0:10:12.82,Default,,0,0,0,,I beg you, Prince Sapphire,\Ngive us a hand!
-Dialogue: 0,0:10:12.86,0:10:14.82,Default,,0,0,0,,Please try to help us!
-Dialogue: 0,0:10:14.86,0:10:17.50,Default,,0,0,0,,We do not want to abandon\Nour ancient home.
-Dialogue: 0,0:10:17.70,0:10:20.53,Default,,0,0,0,,Unfortunately, we could not live\Nanywhere else.
-Dialogue: 0,0:10:20.58,0:10:24.42,Default,,0,0,0,,Who could this unworthy person be\Nwho is trying to drive you away?
-Dialogue: 0,0:10:24.66,0:10:27.18,Default,,0,0,0,,- It is Grand Duke Duralumin.\N- Duralumin?!
-Dialogue: 0,0:10:27.50,0:10:29.49,Default,,0,0,0,,Promise me your help!
-Dialogue: 0,0:10:29.54,0:10:33.17,Default,,0,0,0,,Come on, take courage!\NDamned Grand Duke..!
-Dialogue: 0,0:10:33.82,0:10:35.89,Default,,0,0,0,,Alright, I promise you!
-Dialogue: 0,0:10:44.62,0:10:47.77,Default,,0,0,0,,Listen, brother: I don't\Ntrust this Prince very much!
-Dialogue: 0,0:10:47.82,0:10:49.81,Default,,0,0,0,,You could be\Nmore polite, little brother.
-Dialogue: 0,0:10:49.86,0:10:52.17,Default,,0,0,0,,Please, excuse my brother,\Nthe Duke of the Red Roses.
-Dialogue: 0,0:10:52.22,0:10:54.82,Default,,0,0,0,,I have thought about our\Nproblem. As for me, I am tired...
-Dialogue: 0,0:10:54.86,0:10:57.90,Default,,0,0,0,,...of living in this land, where\Nnothing but weeds grow!
-Dialogue: 0,0:10:57.94,0:11:00.74,Default,,0,0,0,,Therefore I propose to leave\Nit to Grand Duke Duralumin!
-Dialogue: 0,0:11:00.78,0:11:02.82,Default,,0,0,0,,Would you dare betray\Nthe memory of your ancestors..
-Dialogue: 0,0:11:02.86,0:11:04.66,Default,,0,0,0,,...and the land that gave you\Nbirth?!
-Dialogue: 0,0:11:04.70,0:11:06.82,Default,,0,0,0,,Say what you want,\Nbut I don't care at all!
-Dialogue: 0,0:11:06.86,0:11:09.22,Default,,0,0,0,,I have already decided to give\Nthis land to the Grand Duke!
-Dialogue: 0,0:11:09.26,0:11:12.14,Default,,0,0,0,,We will go where there\Nwon't be all these weeds...
-Dialogue: 0,0:11:12.18,0:11:14.74,Default,,0,0,0,,...and we'll be better off!\N- You are a wretch, brother!
-Dialogue: 0,0:11:14.90,0:11:17.10,Default,,0,0,0,,Stop fighting!\NYou are brothers!
-Dialogue: 0,0:11:17.14,0:11:20.05,Default,,0,0,0,,Your Highness, you had better not\Nstick your nose into our business,
-Dialogue: 0,0:11:20.10,0:11:22.09,Default,,0,0,0,,or we will spread\Nyour secret around!
-Dialogue: 0,0:11:22.14,0:11:24.02,Default,,0,0,0,,My secret?
-Dialogue: 0,0:11:24.06,0:11:26.73,Default,,0,0,0,,Brother, it is truly despicable\Nto reveal other people's secrets!
-Dialogue: 0,0:11:26.78,0:11:30.01,Default,,0,0,0,,I don't care! After all, you too\Nknow the Prince's secret!
-Dialogue: 0,0:11:30.06,0:11:33.74,Default,,0,0,0,,We have the power to discover\Nall the secrets of human beings!
-Dialogue: 0,0:11:34.02,0:11:36.22,Default,,0,0,0,,What secret are you talking about?
-Dialogue: 0,0:11:36.26,0:11:38.01,Default,,0,0,0,,That you are a girl!
-Dialogue: 0,0:11:40.50,0:11:42.86,Default,,0,0,0,,Even if you are my brother,\NI cannot tolerate...
-Dialogue: 0,0:11:42.90,0:11:45.37,Default,,0,0,0,,...that in front of me\Nanyone behaves like a scoundrel!
-Dialogue: 0,0:11:45.58,0:11:47.30,Default,,0,0,0,,On guard!
-Dialogue: 0,0:11:48.02,0:11:49.61,Default,,0,0,0,,How dare you?!
-Dialogue: 0,0:11:51.90,0:11:53.62,Default,,0,0,0,,Take this!
-Dialogue: 0,0:12:00.70,0:12:02.74,Default,,0,0,0,,- Will you stop it?!\N- What happened?
-Dialogue: 0,0:12:07.74,0:12:09.46,Default,,0,0,0,,Quickly, Prince! Escape!
-Dialogue: 0,0:12:09.50,0:12:11.49,Default,,0,0,0,,Hornets, sting Sapphire!
-Dialogue: 0,0:12:14.78,0:12:16.66,Default,,0,0,0,,Go away, Prince!
-Dialogue: 0,0:12:18.02,0:12:19.74,Default,,0,0,0,,Sting, hornets!
-Dialogue: 0,0:12:28.22,0:12:29.94,Default,,0,0,0,,That'll teach you!
-Dialogue: 0,0:12:38.86,0:12:41.42,Default,,0,0,0,,- Prince Sapphire!\N- Let that be a lesson to him!
-Dialogue: 0,0:12:44.50,0:12:46.30,Default,,0,0,0,,I will heal you, Prince.
-Dialogue: 0,0:13:05.46,0:13:07.21,Default,,0,0,0,,How strange...!
-Dialogue: 0,0:13:09.82,0:13:12.49,Default,,0,0,0,,Perhaps...\NPerhaps it was all a dream.
-Dialogue: 0,0:13:13.06,0:13:15.42,Default,,0,0,0,,I beg you, try to help us!
-Dialogue: 0,0:13:16.82,0:13:18.41,Default,,0,0,0,,But then...!
-Dialogue: 0,0:13:56.50,0:13:59.89,Default,,0,0,0,,Magnificent! The range of our\Nweapons from this fortress is excellent!
-Dialogue: 0,0:14:00.10,0:14:02.01,Default,,0,0,0,,If this fortification\Nis added to the rest,
-Dialogue: 0,0:14:02.06,0:14:04.66,Default,,0,0,0,,It will be easy for us\Nto destroy the neighboring country.
-Dialogue: 0,0:14:05.78,0:14:08.69,Default,,0,0,0,,So, finally, we can lay\Nour hands on this rich territory
-Dialogue: 0,0:14:08.74,0:14:10.57,Default,,0,0,0,,...that borders ours!
-Dialogue: 0,0:14:11.82,0:14:13.81,Default,,0,0,0,,Prince Sapphire is coming!
-Dialogue: 0,0:14:13.86,0:14:16.14,Default,,0,0,0,,What?! Put up the tent!
-Dialogue: 0,0:14:16.18,0:14:19.25,Default,,0,0,0,,Put the cannon away!\NHurry up with the operation!
-Dialogue: 0,0:14:19.30,0:14:23.14,Default,,0,0,0,,Quick! Operation camouflage!\NWe mustn't be seen!
-Dialogue: 0,0:14:23.42,0:14:25.01,Default,,0,0,0,,Away, quickly!
-Dialogue: 0,0:14:39.54,0:14:42.01,Default,,0,0,0,,Move! Out with the cannons!
-Dialogue: 0,0:14:46.14,0:14:47.89,Default,,0,0,0,,Close the gun ports!
-Dialogue: 0,0:14:49.22,0:14:51.02,Default,,0,0,0,,Hurry up!
-Dialogue: 0,0:14:54.90,0:14:57.37,Default,,0,0,0,,I do not like running\Non the gun carriage! Stop me!
-Dialogue: 0,0:14:57.82,0:14:59.38,Default,,0,0,0,,At your command!
-Dialogue: 0,0:15:25.54,0:15:27.90,Default,,0,0,0,,Grand Duke Duralumin!\NWhat are you doing here?
-Dialogue: 0,0:15:27.94,0:15:31.57,Default,,0,0,0,,Greetings, Prince! I received word\Nthat there had been a landslide.
-Dialogue: 0,0:15:36.74,0:15:39.49,Default,,0,0,0,,It doesn't seem to me that there have been\Nany landslides.
-Dialogue: 0,0:15:39.86,0:15:42.61,Default,,0,0,0,,Tell the truth:\Nwhat drove you to come all the way here?
-Dialogue: 0,0:15:42.74,0:15:45.73,Default,,0,0,0,,Absolutely nothing special,\NYour Highness.
-Dialogue: 0,0:15:45.78,0:15:49.82,Default,,0,0,0,,Are you sure? The Duke of the White Roses,\Nowner of this territory,
-Dialogue: 0,0:15:49.86,0:15:52.61,Default,,0,0,0,,told me that you are trying\Nto take his castle...
-Dialogue: 0,0:15:52.66,0:15:54.78,Default,,0,0,0,,...and the annexed Duchy!\N- Duke of the White Roses,
-Dialogue: 0,0:15:54.82,0:15:57.57,Default,,0,0,0,,his castle..\NBut what are you talking about, Your Highness?
-Dialogue: 0,0:15:57.62,0:15:59.90,Default,,0,0,0,,Don't pretend you know nothing!
-Dialogue: 0,0:15:59.94,0:16:02.50,Default,,0,0,0,,Prince, there is no castle\Nin this valley!
-Dialogue: 0,0:16:02.54,0:16:05.74,Default,,0,0,0,,There is only that abandoned castle\Non that rocky spur.
-Dialogue: 0,0:16:05.78,0:16:09.01,Default,,0,0,0,,Look around: do you see the\Ncastle of this Duke of the Roses?
-Dialogue: 0,0:16:10.38,0:16:13.02,Default,,0,0,0,,Perhaps last night\Nyou dreamed it!
-Dialogue: 0,0:16:13.06,0:16:15.70,Default,,0,0,0,,Truly strange!\NYet I went inside
-Dialogue: 0,0:16:17.90,0:16:20.86,Default,,0,0,0,,Fantastic, Grand Duke!\NYou always manage to fool him!
-Dialogue: 0,0:16:23.54,0:16:25.13,Default,,0,0,0,,Why are you shouting?
-Dialogue: 0,0:16:25.18,0:16:27.01,Default,,0,0,0,,They are still working\Nup there! He will notice!
-Dialogue: 0,0:16:27.06,0:16:28.81,Default,,0,0,0,,Idiot!
-Dialogue: 0,0:16:30.90,0:16:33.65,Default,,0,0,0,,They are roses! What\Nare you doing up here?
-Dialogue: 0,0:16:34.14,0:16:37.02,Default,,0,0,0,,The weapons for the\Nfortification, Your Highness.
-Dialogue: 0,0:16:37.06,0:16:38.49,Default,,0,0,0,,What?
-Dialogue: 0,0:16:38.70,0:16:41.14,Default,,0,0,0,,Is that so? A fortification?
-Dialogue: 0,0:16:41.18,0:16:44.25,Default,,0,0,0,,Then Duralumin is preparing an\Nattack on the neighboring country!
-Dialogue: 0,0:16:44.30,0:16:46.82,Default,,0,0,0,,I order you to stop and\Nnot to cut the flowers!
-Dialogue: 0,0:16:46.86,0:16:49.46,Default,,0,0,0,,You must not ruin this\Ncountry to prepare for war!
-Dialogue: 0,0:16:49.50,0:16:51.25,Default,,0,0,0,,I will not allow you to do it!
-Dialogue: 0,0:16:51.30,0:16:53.34,Default,,0,0,0,,Sapphire prefers flowers\Nto war! That damn fool!
-Dialogue: 0,0:16:57.30,0:16:59.42,Default,,0,0,0,,The tower is collapsing!
-Dialogue: 0,0:17:16.22,0:17:17.89,Default,,0,0,0,,Damn it!
-Dialogue: 0,0:17:23.02,0:17:24.90,Default,,0,0,0,,But this is a landslide!
-Dialogue: 0,0:17:58.58,0:18:00.62,Default,,0,0,0,,Welcome back among us, Prince.
-Dialogue: 0,0:18:01.14,0:18:03.42,Default,,0,0,0,,If you look around,\Nyou will see my companions..
-Dialogue: 0,0:18:03.46,0:18:05.21,Default,,0,0,0,,...defeated by the Grand Duke.
-Dialogue: 0,0:18:05.90,0:18:07.62,Default,,0,0,0,,By Duralumin?
-Dialogue: 0,0:18:10.66,0:18:13.57,Default,,0,0,0,,Why are you pouring water\Non their wounds?
-Dialogue: 0,0:18:13.62,0:18:15.42,Default,,0,0,0,,Water is the best medicine
-Dialogue: 0,0:18:15.90,0:18:18.02,Default,,0,0,0,,What? Water, a medicine?!
-Dialogue: 0,0:18:29.34,0:18:31.81,Default,,0,0,0,,My friend! Poor little flower!
-Dialogue: 0,0:18:36.06,0:18:39.45,Default,,0,0,0,,I understand! So you are\Nthe spirits of the flowers!
-Dialogue: 0,0:18:39.78,0:18:42.61,Default,,0,0,0,,Yes, we are the spirits of the flowers\Nof the Southern Valley.
-Dialogue: 0,0:18:42.66,0:18:45.02,Default,,0,0,0,,I am the spirit\Nof the white rose.
-Dialogue: 0,0:18:45.10,0:18:47.14,Default,,0,0,0,,My followers are weeds.
-Dialogue: 0,0:18:47.26,0:18:50.01,Default,,0,0,0,,We have taken on human form\Nto speak with you.
-Dialogue: 0,0:18:50.22,0:18:53.42,Default,,0,0,0,,Thousands of us are trampled\Nevery day by Grand Duke Duralumin,
-Dialogue: 0,0:18:53.46,0:18:55.82,Default,,0,0,0,,who has the absurd ambition\Nto wage war.
-Dialogue: 0,0:18:58.58,0:19:01.02,Default,,0,0,0,,Poor flower,\Nwhat they have reduced you to!
-Dialogue: 0,0:19:01.54,0:19:05.25,Default,,0,0,0,,Rally your friends!\NWe will defeat Duralumin!
-Dialogue: 0,0:19:07.18,0:19:12.34,Default,,0,0,0,,Prince Sapphire! I don't care\Nif the weeds have to die!
-Dialogue: 0,0:19:12.62,0:19:14.50,Default,,0,0,0,,Will you shut up?!
-Dialogue: 0,0:19:14.54,0:19:16.50,Default,,0,0,0,,I, spirit of the red rose,
-Dialogue: 0,0:19:16.54,0:19:19.18,Default,,0,0,0,,have decided to settle\Nin Duralumin's abode.
-Dialogue: 0,0:19:19.22,0:19:22.02,Default,,0,0,0,,There, I will enjoy the\Npeace of his sunny garden.
-Dialogue: 0,0:19:22.06,0:19:24.78,Default,,0,0,0,,Don't you care about what\Nwill happen to the others?
-Dialogue: 0,0:19:24.82,0:19:27.65,Default,,0,0,0,,If the weeds are destroyed, I\Nwill have more land for myself!
-Dialogue: 0,0:19:27.70,0:19:29.26,Default,,0,0,0,,Traitor!
-Dialogue: 0,0:19:29.30,0:19:31.26,Default,,0,0,0,,And you are a scoundrel!
-Dialogue: 0,0:19:38.90,0:19:40.89,Default,,0,0,0,,Hornets, sting Sapphire!
-Dialogue: 0,0:19:49.10,0:19:51.66,Default,,0,0,0,,I can't do it!\NThey are too fast!
-Dialogue: 0,0:19:52.38,0:19:54.29,Default,,0,0,0,,I will try to stay still.
-Dialogue: 0,0:20:00.82,0:20:03.02,Default,,0,0,0,,But this hornet is huge!
-Dialogue: 0,0:20:04.10,0:20:06.09,Default,,0,0,0,,I won't let myself be overwhelmed!
-Dialogue: 0,0:20:06.42,0:20:08.09,Default,,0,0,0,,Damn it!
-Dialogue: 0,0:20:11.10,0:20:12.74,Default,,0,0,0,,Take this!
-Dialogue: 0,0:20:12.90,0:20:15.02,Default,,0,0,0,,And this! And this!
-Dialogue: 0,0:20:15.06,0:20:17.34,Default,,0,0,0,,Grab the carriage, Prince!\NQuick!
-Dialogue: 0,0:20:20.54,0:20:22.18,Default,,0,0,0,,I can't make it!
-Dialogue: 0,0:20:23.82,0:20:25.57,Default,,0,0,0,,I've got you! Hold on!
-Dialogue: 0,0:20:25.62,0:20:27.69,Default,,0,0,0,,You couldn't make it\Nwith that monstrous hornet!
-Dialogue: 0,0:20:50.22,0:20:52.66,Default,,0,0,0,,The hornet keeps following us!
-Dialogue: 0,0:20:54.22,0:20:57.02,Default,,0,0,0,,Stay back, you nasty beast! Go away!
-Dialogue: 0,0:20:57.22,0:20:59.10,Default,,0,0,0,,Hit it! I order you!
-Dialogue: 0,0:21:03.74,0:21:06.65,Default,,0,0,0,,If you come within my reach,\NI'll show you!
-Dialogue: 0,0:21:51.14,0:21:53.34,Default,,0,0,0,,Open up, Grand Duke Duralumin!
-Dialogue: 0,0:21:55.34,0:21:57.09,Default,,0,0,0,,Duke of the Red Roses?!
-Dialogue: 0,0:21:57.14,0:21:59.45,Default,,0,0,0,,Welcome, Prince Sapphire!
-Dialogue: 0,0:21:59.50,0:22:02.57,Default,,0,0,0,,This boy was telling me something\N...very strange.
-Dialogue: 0,0:22:02.62,0:22:04.42,Default,,0,0,0,,It is something that concerns you.
-Dialogue: 0,0:22:04.46,0:22:07.06,Default,,0,0,0,,So, he was just telling me\Nthat he is willing...
-Dialogue: 0,0:22:07.10,0:22:09.74,Default,,0,0,0,,...to testify in public\Nthat you, Prince,
-Dialogue: 0,0:22:09.78,0:22:12.45,Default,,0,0,0,,are a girl!\NAnd you can be sure he will do it,
-Dialogue: 0,0:22:12.50,0:22:14.89,Default,,0,0,0,,unless...\NWhat are your conditions?
-Dialogue: 0,0:22:14.94,0:22:17.01,Default,,0,0,0,,Since I cannot live\Nany longer,
-Dialogue: 0,0:22:17.06,0:22:19.10,Default,,0,0,0,,I would like you to plant\Nthis rose in your garden,
-Dialogue: 0,0:22:19.14,0:22:21.18,Default,,0,0,0,,so that my family\Ncan survive.
-Dialogue: 0,0:22:21.22,0:22:23.02,Default,,0,0,0,,What the hell kind of proposal is this?!
-Dialogue: 0,0:22:23.06,0:22:25.50,Default,,0,0,0,,I'm starting to believe\Nthat you're mocking me!
-Dialogue: 0,0:22:25.54,0:22:29.14,Default,,0,0,0,,You don't know who I am! I am\Nthe brother of the King of Silverland,
-Dialogue: 0,0:22:29.18,0:22:32.01,Default,,0,0,0,,as well as Minister of Police!\NE dovrei piantare nel mio giardino
-Dialogue: 0,0:22:32.06,0:22:34.02,Default,,0,0,0,,..questo misero fiore?!
-Dialogue: 0,0:22:47.02,0:22:49.09,Default,,0,0,0,,Dove diavolo è sparito\Nil mio testimone?
-Dialogue: 0,0:22:49.14,0:22:52.10,Default,,0,0,0,,Granduca Duralumin,\Nora mi spiegherete della fortezza!
-Dialogue: 0,0:22:52.78,0:22:54.61,Default,,0,0,0,,Beh, vi dirò, Principe..
-Dialogue: 0,0:22:54.66,0:22:57.62,Default,,0,0,0,,Ho costruito quella fortezza\Nper difendere la nostra terra,
-Dialogue: 0,0:22:57.66,0:23:00.13,Default,,0,0,0,,- cioè il vostro regno.\N- Otterrò da mio padre...
-Dialogue: 0,0:23:00.18,0:23:01.90,Default,,0,0,0,,..il permesso di distruggerla!
-Dialogue: 0,0:23:01.94,0:23:03.90,Default,,0,0,0,,Questa terra\Nnon ha bisogno di fortezze!
-Dialogue: 0,0:23:08.82,0:23:11.21,Default,,0,0,0,,Mio caro Duca,\Nalmeno voi state bene!
-Dialogue: 0,0:23:11.26,0:23:14.01,Default,,0,0,0,,Of course! Why?\NWhat happened to my brother?
-Dialogue: 0,0:23:18.42,0:23:20.41,Default,,0,0,0,,I think I understand.
-Dialogue: 0,0:23:20.62,0:23:22.74,Default,,0,0,0,,Do not be sad, my dear Duke.
-Dialogue: 0,0:23:22.78,0:23:24.90,Default,,0,0,0,,I will destroy that fortress
-Dialogue: 0,0:23:25.02,0:23:28.01,Default,,0,0,0,,From now on, you can live\Nhappily in the Southern Valley.
-Dialogue: 0,0:23:28.14,0:23:30.89,Default,,0,0,0,,On behalf of my companions,\NI thank you, Your Highness.
-Dialogue: 0,0:23:32.50,0:23:36.02,Default,,0,0,0,,The flower spirits and I will never\Nforget your kindness
-Dialogue: 0,0:23:38.02,0:23:39.90,Default,,0,0,0,,Goodbye, Sapphire!
-Dialogue: 0,0:23:42.66,0:23:44.81,Default,,0,0,0,,Farewell! And be happy!
+Dialogue: 0,0:01:44.10,0:01:50.14,Default,,0,0,0,,Thirteenth Episode\NThe Castle of Roses\NRose House
+Dialogue: 0,0:02:02.37,0:02:04.08,Default,,0,0,0,,I'm bored already.
+Dialogue: 0,0:02:06.72,0:02:08.34,Default,,0,0,0,,Isn't there anything fun to do?
+Dialogue: 0,0:02:09.99,0:02:12.14,Default,,0,0,0,,Prince Sapphire, it is time.
+Dialogue: 0,0:02:12.27,0:02:16.59,Default,,0,0,0,,The closing ceremony is set for 10 o'clock! Why are you dawdling?
+Dialogue: 0,0:02:17.59,0:02:20.16,Default,,0,0,0,,It's time, Prince Sapphire.
+Dialogue: 0,0:02:23.27,0:02:24.32,Default,,0,0,0,,Take that!
+Dialogue: 0,0:02:24.34,0:02:26.54,Default,,0,0,0,,Is it time for the ceremony...?
+Dialogue: 0,0:02:27.30,0:02:28.30,Default,,0,0,0,,Head!
+Dialogue: 0,0:02:28.50,0:02:29.50,Default,,0,0,0,,You two!
+Dialogue: 0,0:02:31.38,0:02:32.38,Default,,0,0,0,,Head!
+Dialogue: 0,0:02:32.64,0:02:33.64,Default,,0,0,0,,Chest!
+Dialogue: 0,0:02:34.78,0:02:35.30,Default,,0,0,0,,Head!
+Dialogue: 0,0:02:35.80,0:02:36.80,Default,,0,0,0,,Right!
+Dialogue: 0,0:02:42.67,0:02:43.82,Default,,0,0,0,,Now's your chance, run!
+Dialogue: 0,0:02:44.87,0:02:46.14,Default,,0,0,0,,Prince Sapphire!
+Dialogue: 0,0:02:56.70,0:02:58.68,Default,,0,0,0,,Well now, Your Highness, where are you off to?
+Dialogue: 0,0:02:59.41,0:03:00.82,Default,,0,0,0,,Where I go is none of your business.
+Dialogue: 0,0:03:00.84,0:03:05.16,Default,,0,0,0,,Forgive my intrusion, but please do not go to the Southern Valley.
+Dialogue: 0,0:03:05.34,0:03:06.34,Default,,0,0,0,,The Southern Valley?
+Dialogue: 0,0:03:06.70,0:03:08.90,Default,,0,0,0,,It is quite dangerous, with frequent rockslides.
+Dialogue: 0,0:03:09.32,0:03:10.32,Default,,0,0,0,,Good to know!
+Dialogue: 0,0:03:11.64,0:03:13.56,Default,,0,0,0,,He’s headed for the Southern Valley, Nylon!
+Dialogue: 0,0:03:13.78,0:03:14.34,Default,,0,0,0,,Yes!
+Dialogue: 0,0:03:22.78,0:03:26.90,Default,,0,0,0,,The Southern Valley, huh... Dangerous with frequent rockslides sounds like fun!
+Dialogue: 0,0:03:27.09,0:03:28.20,Default,,0,0,0,,Hyah!
+Dialogue: 0,0:03:32.78,0:03:34.34,Default,,0,0,0,,Who could have thrown this away?
+Dialogue: 0,0:03:39.28,0:03:41.30,Default,,0,0,0,,There isn't even a rockslide.
+Dialogue: 0,0:03:41.70,0:03:42.92,Default,,0,0,0,,That Duke Duralumin...
+Dialogue: 0,0:03:43.48,0:03:44.74,Default,,0,0,0,,Why would he say such a thing?
+Dialogue: 0,0:03:51.81,0:03:53.87,Default,,0,0,0,,Dejira in the Southern Valley is still there too.
+Dialogue: 0,0:03:56.40,0:03:57.53,Default,,0,0,0,,Hyah!
+Dialogue: 0,0:04:07.08,0:04:09.29,Default,,0,0,0,,The camouflage curtain is peeling right off!
+Dialogue: 0,0:04:09.60,0:04:10.40,Default,,0,0,0,,You idiot!
+Dialogue: 0,0:04:10.42,0:04:11.06,Default,,0,0,0,,Forgive me!
+Dialogue: 0,0:04:11.32,0:04:11.80,Default,,0,0,0,,Turn it!
+Dialogue: 0,0:04:19.81,0:04:21.96,Default,,0,0,0,,Phew, good thing they didn't find me.
+Dialogue: 0,0:04:25.44,0:04:27.24,Default,,0,0,0,,The flowers are as lovely as ever.
+Dialogue: 0,0:04:29.04,0:04:30.20,Default,,0,0,0,,What's wrong, Opal?
+Dialogue: 0,0:04:36.60,0:04:38.65,Default,,0,0,0,,What is it, Opal?
+Dialogue: 0,0:04:42.95,0:04:44.80,Default,,0,0,0,,Hey, Opal, what's gotten into you?
+Dialogue: 0,0:04:44.98,0:04:46.54,Default,,0,0,0,,It's just an old ruin! What a letdown!
+Dialogue: 0,0:05:07.29,0:05:08.60,Default,,0,0,0,,Who are you?
+Dialogue: 0,0:05:08.87,0:05:10.38,Default,,0,0,0,,You are Master Sapphire, aren't you?
+Dialogue: 0,0:05:10.91,0:05:12.34,Default,,0,0,0,,That's right—Prince Sapphire.
+Dialogue: 0,0:05:13.17,0:05:14.17,Default,,0,0,0,,A prince?
+Dialogue: 0,0:05:14.77,0:05:15.88,Default,,0,0,0,,That's right, the Prince.
+Dialogue: 0,0:05:16.21,0:05:17.21,Default,,0,0,0,,Who are you?
+Dialogue: 0,0:05:21.48,0:05:23.78,Default,,0,0,0,,We shall meet again, Master Sapphire.
+Dialogue: 0,0:05:25.98,0:05:26.98,Default,,0,0,0,,Call me Prince!
+Dialogue: 0,0:05:27.27,0:05:28.27,Default,,0,0,0,,And tell me your name!
+Dialogue: 0,0:05:37.49,0:05:39.38,Default,,0,0,0,,A strange perfume scent...
+Dialogue: 0,0:06:00.89,0:06:02.18,Default,,0,0,0,,Who's there?
+Dialogue: 0,0:06:12.00,0:06:13.00,Default,,0,0,0,,Halt!
+Dialogue: 0,0:06:34.74,0:06:35.45,Default,,0,0,0,,Who goes there?
+Dialogue: 0,0:06:39.24,0:06:41.98,Default,,0,0,0,,We have come from the House of Roses to escort you.
+Dialogue: 0,0:06:43.07,0:06:44.07,Default,,0,0,0,,The House of Roses?
+Dialogue: 0,0:07:01.14,0:07:02.70,Default,,0,0,0,,That's that strange perfume!
+Dialogue: 0,0:07:23.15,0:07:23.96,Default,,0,0,0,,The House of Roses?
+Dialogue: 0,0:07:38.19,0:07:40.96,Default,,0,0,0,,Was there always a place like this in the Southern Valley?
+Dialogue: 0,0:07:57.57,0:07:59.28,Default,,0,0,0,,This is the Rose Mansion.
+Dialogue: 0,0:08:09.89,0:08:11.02,Default,,0,0,0,,Rose perfume!
+Dialogue: 0,0:08:56.96,0:08:58.24,Default,,0,0,0,,Sapphire,...
+Dialogue: 0,0:08:59.56,0:09:01.96,Default,,0,0,0,,please head to the white rose boat on the right.
+Dialogue: 0,0:09:47.30,0:09:48.64,Default,,0,0,0,,Sapphire... Welcome, Master Sapphire.
+Dialogue: 0,0:09:49.21,0:09:50.74,Default,,0,0,0,,So it really was you.
+Dialogue: 0,0:09:51.22,0:09:52.86,Default,,0,0,0,,My name is Duke Blanc.
+Dialogue: 0,0:09:53.20,0:09:54.20,Default,,0,0,0,,Duke Blanc?
+Dialogue: 0,0:09:54.53,0:09:55.53,Default,,0,0,0,,Why did you call for me?
+Dialogue: 0,0:09:55.92,0:09:56.92,Default,,0,0,0,,Yes, Master Sapphire.
+Dialogue: 0,0:09:57.74,0:10:03.58,Default,,0,0,0,,How many thousands of years has it been since our ancestors first settled in this corner of Silverland?
+Dialogue: 0,0:10:04.86,0:10:08.34,Default,,0,0,0,,We take pride in being born here and in dying here.
+Dialogue: 0,0:10:09.44,0:10:14.08,Default,,0,0,0,,But lately, someone has been trying to drive us from this land.
+Dialogue: 0,0:10:14.96,0:10:16.96,Default,,0,0,0,,Prince Sapphire, please help me!
+Dialogue: 0,0:10:18.10,0:10:19.92,Default,,0,0,0,,We can only live in this land.
+Dialogue: 0,0:10:20.82,0:10:23.86,Default,,0,0,0,,Duke Blanc, who on earth is trying to drive you away?
+Dialogue: 0,0:10:24.74,0:10:25.80,Default,,0,0,0,,It's Grand Duke Duralumin.
+Dialogue: 0,0:10:26.26,0:10:27.26,Default,,0,0,0,,Duralumin?
+Dialogue: 0,0:10:27.36,0:10:29.64,Default,,0,0,0,,Promise me you'll help! Yes!
+Dialogue: 0,0:10:31.80,0:10:33.10,Default,,0,0,0,,That Duralumin...
+Dialogue: 0,0:10:33.96,0:10:34.28,Default,,0,0,0,,All right!
+Dialogue: 0,0:10:34.56,0:10:35.56,Default,,0,0,0,,I promise!
+Dialogue: 0,0:10:44.95,0:10:47.54,Default,,0,0,0,,What good is Prince Sapphire going to be?!
+Dialogue: 0,0:10:48.14,0:10:49.64,Default,,0,0,0,,Duke Rouge, how insolent!
+Dialogue: 0,0:10:50.35,0:10:51.68,Default,,0,0,0,,Please forgive my brother's rudeness.
+Dialogue: 0,0:10:52.76,0:10:53.76,Default,,0,0,0,,Brother?
+Dialogue: 0,0:10:53.94,0:10:56.79,Default,,0,0,0,,I am sick and tired of this weed-infested land!
+Dialogue: 0,0:10:57.36,0:11:00.34,Default,,0,0,0,,Why don't we just hand it over to Grand Duke Duralumin?!
+Dialogue: 0,0:11:00.79,0:11:02.00,Default,,0,0,0,,What are you saying, you shameless fool?!
+Dialogue: 0,0:11:02.56,0:11:04.12,Default,,0,0,0,,Are you planning to betray me and our comrades?!
+Dialogue: 0,0:11:04.38,0:11:05.38,Default,,0,0,0,,Say whatever you like.
+Dialogue: 0,0:11:05.74,0:11:06.74,Default,,0,0,0,,My mind is made up.
+Dialogue: 0,0:11:07.08,0:11:08.58,Default,,0,0,0,,We'll just get other land in return.
+Dialogue: 0,0:11:09.29,0:11:11.78,Default,,0,0,0,,This is a magnificent land fit for a king, without a single weed in sight!
+Dialogue: 0,0:11:12.84,0:11:13.22,Default,,0,0,0,,Rouge!
+Dialogue: 0,0:11:13.64,0:11:14.64,Default,,0,0,0,,Let's do this!
+Dialogue: 0,0:11:14.96,0:11:15.34,Default,,0,0,0,,Wait!
+Dialogue: 0,0:11:15.68,0:11:16.83,Default,,0,0,0,,Stop this! You're brothers!
+Dialogue: 0,0:11:16.90,0:11:17.90,Default,,0,0,0,,Prince Sapphire!
+Dialogue: 0,0:11:18.05,0:11:19.46,Default,,0,0,0,,You'd best stay out of this for your own good.
+Dialogue: 0,0:11:20.00,0:11:21.50,Default,,0,0,0,,For the sake of your secret, too!
+Dialogue: 0,0:11:22.68,0:11:23.68,Default,,0,0,0,,A secret?
+Dialogue: 0,0:11:23.98,0:11:24.40,Default,,0,0,0,,Rouge!
+Dialogue: 0,0:11:24.79,0:11:26.50,Default,,0,0,0,,Exploiting someone's secret is cowardly!
+Dialogue: 0,0:11:26.50,0:11:27.56,Default,,0,0,0,,Like I care!
+Dialogue: 0,0:11:27.93,0:11:30.18,Default,,0,0,0,,Even my brother knows the Prince's secret.
+Dialogue: 0,0:11:30.50,0:11:33.66,Default,,0,0,0,,We brothers have a knack for seeing right through people's secrets.
+Dialogue: 0,0:11:34.18,0:11:35.58,Default,,0,0,0,,What do the two of you claim to know?!
+Dialogue: 0,0:11:35.84,0:11:36.44,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:11:36.75,0:11:37.88,Default,,0,0,0,,You are a woman!
+Dialogue: 0,0:11:40.66,0:11:41.04,Default,,0,0,0,,Rouge!
+Dialogue: 0,0:11:41.52,0:11:44.54,Default,,0,0,0,,Brother or not, I cannot forgive your cowardly ways!
+Dialogue: 0,0:11:44.88,0:11:45.88,Default,,0,0,0,,Draw your sword!
+Dialogue: 0,0:12:02.03,0:12:03.06,Default,,0,0,0,,Now you've done it, Sapphire!
+Dialogue: 0,0:12:04.84,0:12:05.94,Default,,0,0,0,,I told you to stop!
+Dialogue: 0,0:12:06.68,0:12:07.50,Default,,0,0,0,,Why should I listen to you?
+Dialogue: 0,0:12:07.69,0:12:08.69,Default,,0,0,0,,Master Sapphire!
+Dialogue: 0,0:12:08.74,0:12:09.26,Default,,0,0,0,,Watch out!
+Dialogue: 0,0:12:09.60,0:12:10.50,Default,,0,0,0,,Kumambagio!
+Dialogue: 0,0:12:10.52,0:12:11.87,Default,,0,0,0,,Sapphire, take that!
+Dialogue: 0,0:12:14.50,0:12:15.50,Default,,0,0,0,,My Master Sapphire!
+Dialogue: 0,0:12:15.70,0:12:16.70,Default,,0,0,0,,Run! Get away!
+Dialogue: 0,0:12:31.32,0:12:32.47,Default,,0,0,0,,Master Sapphire!
+Dialogue: 0,0:12:34.50,0:12:35.50,Default,,0,0,0,,Master Sapphire!
+Dialogue: 0,0:12:38.84,0:12:39.84,Default,,0,0,0,,Master Sapphire!
+Dialogue: 0,0:13:10.71,0:13:12.06,Default,,0,0,0,,What a strange night that was.
+Dialogue: 0,0:13:12.48,0:13:13.98,Default,,0,0,0,,Please protect our land.
+Dialogue: 0,0:13:56.55,0:13:58.04,Default,,0,0,0,,It's a magnificent fortress.
+Dialogue: 0,0:13:58.26,0:14:00.39,Default,,0,0,0,,Once the cliffside artillery is complete,
+Dialogue: 0,0:14:00.42,0:14:03.28,Default,,0,0,0,,crushing the neighboring kingdom will be easy.
+Dialogue: 0,0:14:05.49,0:14:08.18,Default,,0,0,0,,And that neighboring kingdom will belong to you, Grand Duke.
+Dialogue: 0,0:14:08.51,0:14:10.08,Default,,0,0,0,,Splendid indeed.
+Dialogue: 0,0:14:12.45,0:14:13.52,Default,,0,0,0,,Sapphire is approaching!
+Dialogue: 0,0:14:13.54,0:14:14.64,Default,,0,0,0,,What?
+Dialogue: 0,0:14:14.84,0:14:15.53,Default,,0,0,0,,Hide it!
+Dialogue: 0,0:14:15.70,0:14:16.84,Default,,0,0,0,,Raise the curtain!
+Dialogue: 0,0:14:17.40,0:14:19.23,Default,,0,0,0,,Get the Grand Duke out of sight!
+Dialogue: 0,0:14:20.41,0:14:21.41,Default,,0,0,0,,We're ruined if we're found out!
+Dialogue: 0,0:14:21.57,0:14:22.98,Default,,0,0,0,,Quick, hide it!
+Dialogue: 0,0:14:39.56,0:14:41.76,Default,,0,0,0,,Move it! Move it!
+Dialogue: 0,0:14:49.20,0:14:49.91,Default,,0,0,0,,Hurry!
+Dialogue: 0,0:14:49.93,0:14:50.50,Default,,0,0,0,,Hurry!
+Dialogue: 0,0:14:53.32,0:14:55.75,Default,,0,0,0,,Someone stop it!
+Dialogue: 0,0:15:25.44,0:15:26.44,Default,,0,0,0,,Grand Duke Duralumin!
+Dialogue: 0,0:15:26.70,0:15:27.92,Default,,0,0,0,,What are you doing in a place like this?
+Dialogue: 0,0:15:28.07,0:15:31.44,Default,,0,0,0,,Ah, Prince Sapphire, we are merely investigating a rockslide.
+Dialogue: 0,0:15:37.15,0:15:39.01,Default,,0,0,0,,There isn't a sign of a rockslide anywhere!
+Dialogue: 0,0:15:39.42,0:15:42.13,Default,,0,0,0,,Duralumin, what on earth are you up to here?
+Dialogue: 0,0:15:42.80,0:15:45.28,Default,,0,0,0,,Oh no, Your Highness, I assure you we are doing nothing at all.
+Dialogue: 0,0:15:45.44,0:15:46.44,Default,,0,0,0,,Liar!
+Dialogue: 0,0:15:46.67,0:15:49.52,Default,,0,0,0,,Last night, I heard from Duke Blanc, the lord of this region,
+Dialogue: 0,0:15:49.54,0:15:52.37,Default,,0,0,0,,that you were planning to tear down Rose Mansion.
+Dialogue: 0,0:15:53.27,0:15:54.48,Default,,0,0,0,,Rose Mansion?
+Dialogue: 0,0:15:54.69,0:15:55.69,Default,,0,0,0,,Duke Blanc?
+Dialogue: 0,0:15:55.75,0:15:57.14,Default,,0,0,0,,I know nothing of this.
+Dialogue: 0,0:15:57.80,0:15:58.80,Default,,0,0,0,,Don't play dumb with me!
+Dialogue: 0,0:15:59.93,0:16:02.49,Default,,0,0,0,,Prince Sapphire, take a good look.
+Dialogue: 0,0:16:02.67,0:16:05.94,Default,,0,0,0,,Just where is this Rose Mansion supposed to be?
+Dialogue: 0,0:16:06.51,0:16:09.22,Default,,0,0,0,,There's no such thing in the Southern Valley.
+Dialogue: 0,0:16:10.44,0:16:12.90,Default,,0,0,0,,You must have been dreaming last night.
+Dialogue: 0,0:16:13.00,0:16:13.50,Default,,0,0,0,,How strange...
+Dialogue: 0,0:16:13.65,0:16:14.82,Default,,0,0,0,,Was it on top of the cliff, I wonder?
+Dialogue: 0,0:16:16.55,0:16:18.62,Default,,0,0,0,,That went well, Grand Duke.
+Dialogue: 0,0:16:23.52,0:16:24.52,Default,,0,0,0,,What is it?
+Dialogue: 0,0:16:24.87,0:16:26.73,Default,,0,0,0,,The me are working above.
+Dialogue: 0,0:16:26.75,0:16:27.88,Default,,0,0,0,, You fool!
+Dialogue: 0,0:16:31.99,0:16:33.29,Default,,0,0,0,,What on earth are you doing?
+Dialogue: 0,0:16:34.38,0:16:36.04,Default,,0,0,0,,We are constructing a gun battery, Your Highness!
+Dialogue: 0,0:16:37.06,0:16:38.06,Default,,0,0,0,,A gun battery?
+Dialogue: 0,0:16:38.97,0:16:42.64,Default,,0,0,0,,That Duralumin... He intends to start a war with our neighbor on his own!
+Dialogue: 0,0:16:44.06,0:16:45.10,Default,,0,0,0,,All right, stop right there!
+Dialogue: 0,0:16:45.46,0:16:48.29,Default,,0,0,0,,I won't allow you to trample flowers just to prepare for war!
+Dialogue: 0,0:16:48.65,0:16:49.48,Default,,0,0,0,,Halt the construction!
+Dialogue: 0,0:16:49.67,0:16:50.94,Default,,0,0,0,,I won't let you do whatever you please!
+Dialogue: 0,0:16:50.96,0:16:52.38,Default,,0,0,0,,Do you care more about flowers than war?
+Dialogue: 0,0:16:52.41,0:16:53.63,Default,,0,0,0,,Tear this sham down!
+Dialogue: 0,0:17:16.06,0:17:17.06,Default,,0,0,0,,The rope!
+Dialogue: 0,0:17:22.77,0:17:23.63,Default,,0,0,0,,It's a fortress!
+Dialogue: 0,0:17:28.00,0:17:29.00,Default,,0,0,0,,Ouch!
+Dialogue: 0,0:17:59.03,0:18:00.03,Default,,0,0,0,,Have you come to?
+Dialogue: 0,0:18:01.47,0:18:02.66,Default,,0,0,0,,They are my friends.
+Dialogue: 0,0:18:02.84,0:18:04.76,Default,,0,0,0,,Grand Duke Duralumin did this to all of us.
+Dialogue: 0,0:18:06.13,0:18:07.18,Default,,0,0,0,,Grand Duke Duralumin?
+Dialogue: 0,0:18:10.38,0:18:12.30,Default,,0,0,0,,Ah! I can't believe they're just drenching people with water!
+Dialogue: 0,0:18:12.88,0:18:14.90,Default,,0,0,0,,Water is the greatest feast of all for us.
+Dialogue: 0,0:18:15.58,0:18:15.90,Default,,0,0,0,,What?
+Dialogue: 0,0:18:16.38,0:18:17.44,Default,,0,0,0,,Water is a feast?
+Dialogue: 0,0:18:28.90,0:18:29.90,Default,,0,0,0,,Pull yourself together!
+Dialogue: 0,0:18:30.65,0:18:31.65,Default,,0,0,0,,Stay strong!
+Dialogue: 0,0:18:36.91,0:18:39.38,Default,,0,0,0,,I see... was this all because of the flowers?
+Dialogue: 0,0:18:39.96,0:18:40.36,Default,,0,0,0,,That's right.
+Dialogue: 0,0:18:40.66,0:18:42.54,Default,,0,0,0,,It's all because of the flowers blooming in the Southern Valley.
+Dialogue: 0,0:18:43.08,0:18:44.33,Default,,0,0,0,,I am the Spirit of the White Rose,
+Dialogue: 0,0:18:44.36,0:18:46.32,Default,,0,0,0,,and my companions are the Spirits of the Weeds.
+Dialogue: 0,0:18:46.90,0:18:49.34,Default,,0,0,0,,Water is the finest feast for us. We took the form of humans
+Dialogue: 0,0:18:49.36,0:18:51.40,Default,,0,0,0,,and a mansion only because we wanted to speak with you.
+Dialogue: 0,0:18:52.12,0:18:56.32,Default,,0,0,0,,Every day, tens of thousands of our brethren are trampled by Grand Duke Duralumin.
+Dialogue: 0,0:18:57.01,0:18:58.94,Default,,0,0,0,,All for his ugly desire for war.
+Dialogue: 0,0:18:59.36,0:19:00.94,Default,,0,0,0,,So that's what you wanted to tell me.
+Dialogue: 0,0:19:01.84,0:19:05.00,Default,,0,0,0,,Duke Blanc, gather your friends! Let's defeat Grand Duke Duralumin!
+Dialogue: 0,0:19:07.92,0:19:10.48,Default,,0,0,0,,Sapphire, I must ask you not to meddle.
+Dialogue: 0,0:19:10.89,0:19:12.80,Default,,0,0,0,,What good comes from helping such wretched weeds?
+Dialogue: 0,0:19:13.02,0:19:14.02,Default,,0,0,0,,Rouge!
+Dialogue: 0,0:19:14.76,0:19:17.26,Default,,0,0,0,,We red roses shall move to Duralumin's estate
+Dialogue: 0,0:19:17.28,0:19:19.30,Default,,0,0,0,,and live peacefully in a sunny garden.
+Dialogue: 0,0:19:19.83,0:19:22.00,Default,,0,0,0,,Tended to every day by master gardeners.
+Dialogue: 0,0:19:22.02,0:19:24.02,Default,,0,0,0,,Do you care nothing for your brethren, Rouge?!
+Dialogue: 0,0:19:24.27,0:19:26.76,Default,,0,0,0,,I couldn't care less what happens to those filthy weeds!
+Dialogue: 0,0:19:27.02,0:19:28.20,Default,,0,0,0,,Traitor!
+Dialogue: 0,0:19:38.85,0:19:40.56,Default,,0,0,0,,Kumanbachi! Sting Sapphire!
+Dialogue: 0,0:20:14.83,0:20:16.76,Default,,0,0,0,,Master Sapphire, hurry, get on!
+Dialogue: 0,0:20:21.20,0:20:21.94,Default,,0,0,0,,I'm slipping.
+Dialogue: 0,0:20:22.20,0:20:23.20,Default,,0,0,0,,Hold on tight!
+Dialogue: 0,0:20:24.16,0:20:26.38,Default,,0,0,0,,You're no match for the Kumanbachi monster!
+Dialogue: 0,0:20:51.72,0:20:52.68,Default,,0,0,0,,It's the Kumanbachi!
+Dialogue: 0,0:21:01.82,0:21:02.82,Default,,0,0,0,,What a monster!
+Dialogue: 0,0:21:52.29,0:21:53.66,Default,,0,0,0,,Open up! Grand Duke Duralumin!
+Dialogue: 0,0:21:54.88,0:21:55.35,Default,,0,0,0,,Rouge!
+Dialogue: 0,0:21:56.94,0:21:58.72,Default,,0,0,0,,Why, Prince Sapphire!
+Dialogue: 0,0:21:59.08,0:22:03.76,Default,,0,0,0,,You see, this man has been saying something rather strange about you.
+Dialogue: 0,0:22:04.54,0:22:10.74,Default,,0,0,0,,He claims he will testify before everyone that you are actually a girl.
+Dialogue: 0,0:22:10.93,0:22:14.46,Default,,0,0,0,,Now, of course, it comes at a price. What are your terms?
+Dialogue: 0,0:22:14.97,0:22:16.70,Default,,0,0,0,,I do not have much longer to live.
+Dialogue: 0,0:22:16.98,0:22:21.31,Default,,0,0,0,,I want you to grow this in your garden, so that our kind may flourish once again.
+Dialogue: 0,0:22:21.33,0:22:22.74,Default,,0,0,0,,Plant this in my garden?
+Dialogue: 0,0:22:22.83,0:22:24.94,Default,,0,0,0,,Are you trying to make a fool out of Grand Duke Duralumin?
+Dialogue: 0,0:22:25.89,0:22:30.34,Default,,0,0,0,,I am Grand Duke Duralumin—cousin to the King of Silverland and Chief of Police!
+Dialogue: 0,0:22:30.59,0:22:33.68,Default,,0,0,0,,Do you really think such pitiful flowers would ever be planted in his garden?
+Dialogue: 0,0:22:46.93,0:22:48.97,Default,,0,0,0,,Our vital witness has vanished...
+Dialogue: 0,0:22:48.99,0:22:49.86,Default,,0,0,0,,Grand Duke Duralumin,
+Dialogue: 0,0:22:50.40,0:22:52.03,Default,,0,0,0,,about this fortress...
+Dialogue: 0,0:22:52.10,0:22:53.75,Default,,0,0,0,,Ah, Your Highness!
+Dialogue: 0,0:22:54.69,0:22:57.90,Default,,0,0,0,,The fortress was built because it was necessary to defend the kingdom.
+Dialogue: 0,0:22:57.93,0:22:59.28,Default,,0,0,0,,It was out of patriotism! —
+Dialogue: 0,0:22:59.31,0:23:01.64,Default,,0,0,0,,I shall speak to my father and obtain permission to tear it down.
+Dialogue: 0,0:23:02.11,0:23:05.68,Default,,0,0,0,,This Kingdom of Silverland has no need for patriotism that builds fortresses.
+Dialogue: 0,0:23:09.23,0:23:10.60,Default,,0,0,0,,It's Blanc! You're safe!
+Dialogue: 0,0:23:11.60,0:23:13.92,Default,,0,0,0,,Thank you. What happened to my brother?
+Dialogue: 0,0:23:18.73,0:23:20.46,Default,,0,0,0,,I see...
+Dialogue: 0,0:23:21.46,0:23:22.96,Default,,0,0,0,,Take heart, Duke Blanc.
+Dialogue: 0,0:23:23.60,0:23:24.60,Default,,0,0,0,,I'm going to demolish that fortress!
+Dialogue: 0,0:23:24.97,0:23:28.62,Default,,0,0,0,,Now your companions can live in the Southern Valley forever.
+Dialogue: 0,0:23:28.84,0:23:30.56,Default,,0,0,0,,Thank you, Prince Sapphire.
+Dialogue: 0,0:23:32.41,0:23:36.34,Default,,0,0,0,,The flowers and grass of the Southern Valley will never forget you.
+Dialogue: 0,0:23:38.48,0:23:39.48,Default,,0,0,0,,Farewell!
+Dialogue: 0,0:23:42.74,0:23:45.30,Default,,0,0,0,,Goodbye! So you were a spirit after all!
 Dialogue: 0,0:24:15.62,0:24:19.24,Karaoke,,0,0,0,,{\k29}{\k22}Ta{\k18}ra{\k16}ri {\k18}Ra{\k20}tta {\k23}Ri{\k19}tta {\k26}Ra{\k17}tta {\k19}Ra{\k66}tta{\k69}ttaa
 Dialogue: 0,0:24:19.24,0:24:22.60,Karaoke,,0,0,0,,{\k8}{\k46}Kya{\k68}hoo! {\k35}Kya{\k42}hoo! {\k46}Kya{\k91}hoo!
 Dialogue: 0,0:24:19.24,0:24:22.60,OPED_Translation,,0,0,0,,Yahoo! Yahoo! Yahoo!

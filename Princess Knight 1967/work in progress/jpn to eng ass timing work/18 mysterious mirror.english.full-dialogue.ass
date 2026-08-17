@@ -14,7 +14,8 @@ Audio File: 18 the magic mirror.mkv
 Video File: 18 the magic mirror.mkv
 Video AR Mode: 4
 Video AR Value: 1.314554
-Active Line: 18
+Scroll Position: 280
+Active Line: 292
 Video Position: 950
 
 [V4+ Styles]
@@ -48,277 +49,275 @@ Dialogue: 0,0:01:25.22,0:01:28.62,Karaoke,,0,0,0,,{\k6}{\k50}Hon{\k43}to {\k33}w
 Dialogue: 0,0:01:25.22,0:01:28.62,OPED_Translation,,0,0,0,,Truly, truly,
 Dialogue: 0,0:01:28.62,0:01:31.82,Karaoke,,0,0,0,,{\k18}{\k23}A{\k23}ta{\k27}shi {\k35}na{\k35}no {\k159}sa{\k0}
 Dialogue: 0,0:01:28.62,0:01:31.82,OPED_Translation,,0,0,0,,It’s really me!
-Dialogue: 0,0:01:44.10,0:01:50.14,Default,,0,0,0,,Eighteenth Episode\NThe Magic Mirror
-Dialogue: 0,0:01:53.42,0:01:55.41,Default,,0,0,0,,Fantastic!
-Dialogue: 0,0:01:59.62,0:02:01.50,Default,,0,0,0,,The best soup in the world!
-Dialogue: 0,0:02:01.54,0:02:05.50,Default,,0,0,0,,It has such a delicious scent\Nthat it makes your mouth water!
-Dialogue: 0,0:02:30.02,0:02:31.50,Default,,0,0,0,,Come in!
-Dialogue: 0,0:02:41.66,0:02:43.49,Default,,0,0,0,,Good morning, Princess Bella!
-Dialogue: 0,0:02:43.54,0:02:46.01,Default,,0,0,0,,I have prepared an excellent soup for you.\NI recommend you eat it.
-Dialogue: 0,0:02:46.06,0:02:48.70,Default,,0,0,0,,I don't want to eat. You know that\NI eat one grain of rice a day.
-Dialogue: 0,0:02:48.74,0:02:51.18,Default,,0,0,0,,But how can you sustain yourself\Non a grain of rice?!
-Dialogue: 0,0:02:51.90,0:02:53.62,Default,,0,0,0,,I told you\Nthat I don't want to eat
-Dialogue: 0,0:02:53.66,0:02:55.54,Default,,0,0,0,,I must be careful\Nnot to ruin my figure.
-Dialogue: 0,0:02:55.58,0:02:57.33,Default,,0,0,0,,Do you want to make me fat?
-Dialogue: 0,0:02:57.38,0:02:59.61,Default,,0,0,0,,No, no... I am so sorry, Your Highness
-Dialogue: 0,0:03:15.42,0:03:18.30,Default,,0,0,0,,My dear magic mirror,\Nplease, tell me:
-Dialogue: 0,0:03:18.34,0:03:20.41,Default,,0,0,0,,who is the most beautiful in all creation?
-Dialogue: 0,0:03:20.50,0:03:23.70,Default,,0,0,0,,Listen, my dear Bella.\NIf you want to know, I will tell you.
-Dialogue: 0,0:03:24.02,0:03:26.01,Default,,0,0,0,,Of the universe, of course, I do not know,
-Dialogue: 0,0:03:26.06,0:03:28.21,Default,,0,0,0,,but of this country\Nyou are the star.
-Dialogue: 0,0:03:28.26,0:03:30.54,Default,,0,0,0,,Therefore, gentle and royal Highness,
-Dialogue: 0,0:03:30.66,0:03:33.65,Default,,0,0,0,,consider yourself satisfied\Nwith your beauty.
-Dialogue: 0,0:03:37.26,0:03:41.02,Default,,0,0,0,,Magnificent! I am sure that a woman\Nmore beautiful than me cannot exist!
-Dialogue: 0,0:03:41.06,0:03:44.45,Default,,0,0,0,,I want to make sure of it by traveling through\Nall the regions of the world.
-Dialogue: 0,0:03:51.02,0:03:53.17,Default,,0,0,0,,There it is! I'm almost right over it!
-Dialogue: 0,0:03:53.46,0:03:56.61,Default,,0,0,0,,Got it!\NIt's really a nice little hare!
-Dialogue: 0,0:04:00.70,0:04:04.33,Default,,0,0,0,,Go! I saw it! There\Nit is! Now I'll catch it!
-Dialogue: 0,0:04:07.74,0:04:10.41,Default,,0,0,0,,And with this one, that\Nmakes 11 hares! Not bad, eh?
-Dialogue: 0,0:04:12.50,0:04:14.38,Default,,0,0,0,,Come on, Opale!
-Dialogue: 0,0:04:15.74,0:04:17.57,Default,,0,0,0,,In mid-air! Like that!
-Dialogue: 0,0:04:19.38,0:04:21.42,Default,,0,0,0,,With these, I've caught 12!
-Dialogue: 0,0:04:21.46,0:04:23.26,Default,,0,0,0,,What bad luck!
-Dialogue: 0,0:04:24.34,0:04:26.46,Default,,0,0,0,,I've found more! Magnificent!
-Dialogue: 0,0:04:26.90,0:04:28.81,Default,,0,0,0,,Three in one go!
-Dialogue: 0,0:04:41.42,0:04:43.30,Default,,0,0,0,,Did you get hurt?
-Dialogue: 0,0:04:43.82,0:04:45.81,Default,,0,0,0,,Actually, I was better\Noff before, Your Highness.
-Dialogue: 0,0:04:47.50,0:04:50.46,Default,,0,0,0,,See, Grand Duke? Did you\Nthink I would end up defeated?
-Dialogue: 0,0:04:50.50,0:04:53.41,Default,,0,0,0,,When it comes to skill\Nand dexterity, I'm no sissy!
-Dialogue: 0,0:04:53.46,0:04:56.69,Default,,0,0,0,,What do you say? Actually, I proposed it to you\Nbecause it's a very manly game.
-Dialogue: 0,0:04:56.74,0:04:59.81,Default,,0,0,0,,So, if I won, it means\Nthat I'm very manly, right?
-Dialogue: 0,0:04:59.86,0:05:03.62,Default,,0,0,0,,- Answer! - So it would seem,\Nby all accounts.
-Dialogue: 0,0:05:07.02,0:05:10.49,Default,,0,0,0,,If he still isn't convinced, I'll have to\Ngive him another demonstration.
-Dialogue: 0,0:05:10.54,0:05:12.21,Default,,0,0,0,,But what kind?
-Dialogue: 0,0:05:18.26,0:05:21.49,Default,,0,0,0,,Fantastic!\NHow big this carriage is!
-Dialogue: 0,0:05:21.54,0:05:24.45,Default,,0,0,0,,It even has an upper level\Nand looks very luxurious!
-Dialogue: 0,0:05:26.58,0:05:29.78,Default,,0,0,0,,Gorgeous!\NLook, there are stairs too!
-Dialogue: 0,0:05:29.82,0:05:32.46,Default,,0,0,0,,Incredible! It's divided\Ninto rooms, like a house!
-Dialogue: 0,0:05:32.50,0:05:35.10,Default,,0,0,0,,Nothing is missing!\NThere's even a kitchen!
-Dialogue: 0,0:05:39.30,0:05:42.58,Default,,0,0,0,,I wonder who the lucky person is who lives\Nin a carriage like this...!
-Dialogue: 0,0:05:43.02,0:05:44.82,Default,,0,0,0,,I want to take a look
-Dialogue: 0,0:05:46.62,0:05:48.34,Default,,0,0,0,,There's no one here...
-Dialogue: 0,0:05:50.54,0:05:54.01,Default,,0,0,0,,Incredible!\NA real bedroom!
-Dialogue: 0,0:05:58.10,0:06:00.01,Default,,0,0,0,,There's also a mirror.
-Dialogue: 0,0:06:05.10,0:06:08.09,Default,,0,0,0,,What?! What a strange mirror.
-Dialogue: 0,0:06:08.50,0:06:11.17,Default,,0,0,0,,I wonder why it doesn't reflect\None's figure properly...!
-Dialogue: 0,0:06:11.42,0:06:13.41,Default,,0,0,0,,I'd like to look at myself in it.
-Dialogue: 0,0:06:14.50,0:06:16.41,Default,,0,0,0,,Now it has become normal.
-Dialogue: 0,0:06:16.82,0:06:19.81,Default,,0,0,0,,Make essences\Nwith the flowers you have gathered.
-Dialogue: 0,0:06:20.22,0:06:22.02,Default,,0,0,0,,As you wish.
-Dialogue: 0,0:06:33.02,0:06:35.25,Default,,0,0,0,,- There's someone!\N- There's someone!
-Dialogue: 0,0:06:35.30,0:06:37.97,Default,,0,0,0,,- Thief!\N- No, wait! I'm not a thief!
-Dialogue: 0,0:06:38.02,0:06:39.82,Default,,0,0,0,,Then who are you?
-Dialogue: 0,0:06:39.86,0:06:42.74,Default,,0,0,0,,- I'm sorry to have frightened you, but I...\N- What is it, Your Highness?
-Dialogue: 0,0:06:42.90,0:06:45.13,Default,,0,0,0,,Don't worry, I'll take care of it.
-Dialogue: 0,0:06:45.18,0:06:47.57,Default,,0,0,0,,- Oh, no!\N- You'll have to deal with me!
-Dialogue: 0,0:06:47.62,0:06:50.85,Default,,0,0,0,,- Just let me catch you and...\N- There's a misunderstanding! Wait!
-Dialogue: 0,0:06:50.90,0:06:52.70,Default,,0,0,0,,He managed to escape!
-Dialogue: 0,0:07:01.02,0:07:04.01,Default,,0,0,0,,That scoundrel got you\Ndirty, but now I'll clean you up.
-Dialogue: 0,0:07:04.86,0:07:07.42,Default,,0,0,0,,Listen, my dear mirror,\Nmy magic mirror!
-Dialogue: 0,0:07:07.46,0:07:09.82,Default,,0,0,0,,Please, tell me:\Nwho is the most beautiful in creation?
-Dialogue: 0,0:07:11.06,0:07:13.02,Default,,0,0,0,,My dear Beauty,\Nif you wish, I will tell you.
-Dialogue: 0,0:07:13.06,0:07:15.81,Default,,0,0,0,,Of the world I do not know, but of this\Nplace you are no longer the star.
-Dialogue: 0,0:07:15.86,0:07:18.01,Default,,0,0,0,,Accept my invitation:\Nresign yourself to fate,
-Dialogue: 0,0:07:18.06,0:07:20.45,Default,,0,0,0,,for nearby\Nis one more beautiful than you.
-Dialogue: 0,0:07:20.50,0:07:23.38,Default,,0,0,0,,Do you mean that in this country\Nthere is one more beautiful than me?!
-Dialogue: 0,0:07:23.42,0:07:25.78,Default,,0,0,0,,My Princess, it is true.\NWhat I assert this morning...
-Dialogue: 0,0:07:25.82,0:07:28.05,Default,,0,0,0,,...you will see of the realm\Nin the next castle.
-Dialogue: 0,0:07:28.10,0:07:31.89,Default,,0,0,0,,Now you will be informed of a beauty that\Nis enclosed upon all this earth.
-Dialogue: 0,0:07:32.10,0:07:34.01,Default,,0,0,0,,Sapphire she is named.
-Dialogue: 0,0:07:37.34,0:07:40.46,Default,,0,0,0,,I feel like dying at the thought\Nof no longer being the most beautiful!
-Dialogue: 0,0:08:03.26,0:08:05.22,Default,,0,0,0,,My little Sapphire
-Dialogue: 0,0:08:06.06,0:08:08.02,Default,,0,0,0,,What are you doing, my daughter?
-Dialogue: 0,0:08:14.90,0:08:17.18,Default,,0,0,0,,Good! Better that indiscreet\Nears do not hear...
-Dialogue: 0,0:08:17.22,0:08:19.74,Default,,0,0,0,,- that I call you like a little girl.\N- Yes, mother.
-Dialogue: 0,0:08:32.02,0:08:34.01,Default,,0,0,0,,Oh, what tenderness!
-Dialogue: 0,0:08:34.42,0:08:37.02,Default,,0,0,0,,How I wish you could grow up\Nas a girl,
-Dialogue: 0,0:08:37.06,0:08:39.50,Default,,0,0,0,,without being forced\Nto hide your identity
-Dialogue: 0,0:08:39.54,0:08:41.58,Default,,0,0,0,,..because of our laws!
-Dialogue: 0,0:08:41.62,0:08:44.34,Default,,0,0,0,,Our laws are the most precious\Npossession we have.
-Dialogue: 0,0:08:44.38,0:08:46.94,Default,,0,0,0,,If we do not observe them,\Nthe people will not forgive us
-Dialogue: 0,0:08:46.98,0:08:49.34,Default,,0,0,0,,Oh, my little Sapphire!
-Dialogue: 0,0:08:59.58,0:09:02.41,Default,,0,0,0,,- What do you desire?\N- I am looking for a certain Sapphire.
-Dialogue: 0,0:09:02.46,0:09:04.69,Default,,0,0,0,,- Do you know who she is?\N- Yes, Sapphire is the King's daughter.
-Dialogue: 0,0:09:04.74,0:09:06.65,Default,,0,0,0,,She lives in the nearby castle
-Dialogue: 0,0:09:06.70,0:09:08.82,Default,,0,0,0,,So it is true\Nthat there is this girl!
-Dialogue: 0,0:09:08.86,0:09:11.42,Default,,0,0,0,,- Let's run to the castle!\N- Right away, Princess!
-Dialogue: 0,0:09:11.78,0:09:14.58,Default,,0,0,0,,No! No, I was wrong!\NSapphire is a boy!
-Dialogue: 0,0:09:14.62,0:09:17.74,Default,,0,0,0,,He's a strong and brave\Nboy! He is not a girl!
-Dialogue: 0,0:09:18.10,0:09:21.01,Default,,0,0,0,,What?! Are you sure\Nthat Sapphire is a girl?
-Dialogue: 0,0:09:21.06,0:09:24.10,Default,,0,0,0,,Yes, I am sure of it! My\Nmagic mirror never lies...
-Dialogue: 0,0:09:24.14,0:09:27.45,Default,,0,0,0,,...and it claims exactly that. It also\Nsaid that she is more beautiful than me.
-Dialogue: 0,0:09:27.50,0:09:29.78,Default,,0,0,0,,Do you mean you have\Na magic mirror?!
-Dialogue: 0,0:09:29.82,0:09:31.89,Default,,0,0,0,,But then it is truly a stroke of luck!
-Dialogue: 0,0:09:31.94,0:09:34.41,Default,,0,0,0,,It is good fortune that\Nsends you here to us!
-Dialogue: 0,0:09:34.46,0:09:37.02,Default,,0,0,0,,Now I would like to see\NSapphire. I must verify...
-Dialogue: 0,0:09:37.06,0:09:39.73,Default,,0,0,0,,...if the mirror is right, if she is\Nreally more beautiful than me.
-Dialogue: 0,0:09:39.78,0:09:42.17,Default,,0,0,0,,Yes, of course, I understand!\NDon't worry, Your Highness.
-Dialogue: 0,0:09:42.22,0:09:44.13,Default,,0,0,0,,I will call her for you shortly
-Dialogue: 0,0:09:46.82,0:09:49.94,Default,,0,0,0,,- What are you waiting for?\N- Things are getting interesting
-Dialogue: 0,0:09:49.98,0:09:51.81,Default,,0,0,0,,because there is a secret involved\Nthat finally...
-Dialogue: 0,0:09:52.70,0:09:54.77,Default,,0,0,0,,...through you\Nit will be possible to reveal!
-Dialogue: 0,0:09:56.54,0:09:58.69,Default,,0,0,0,,Let's get a little practice,\NNylon!
-Dialogue: 0,0:09:58.74,0:10:01.13,Default,,0,0,0,,- But you are the thief from yesterday!\N- Yeah!
-Dialogue: 0,0:10:05.34,0:10:06.93,Default,,0,0,0,,Sapphire?!
-Dialogue: 0,0:10:06.98,0:10:09.42,Default,,0,0,0,,I can beat you even with this!\NCome on!
-Dialogue: 0,0:10:09.46,0:10:11.42,Default,,0,0,0,,You know, I'm out of practice!
-Dialogue: 0,0:10:11.46,0:10:13.10,Default,,0,0,0,,Come on!
-Dialogue: 0,0:10:16.42,0:10:18.01,Default,,0,0,0,,Step forward!
-Dialogue: 0,0:10:19.66,0:10:21.73,Default,,0,0,0,,You are as weak as a girl!
-Dialogue: 0,0:10:26.42,0:10:28.01,Default,,0,0,0,,Well?
-Dialogue: 0,0:10:29.82,0:10:31.81,Default,,0,0,0,,Do you admit your defeat?
-Dialogue: 0,0:10:31.94,0:10:33.77,Default,,0,0,0,,Defeat? No...
-Dialogue: 0,0:10:33.86,0:10:35.50,Default,,0,0,0,,You say no?
-Dialogue: 0,0:10:36.66,0:10:39.02,Default,,0,0,0,,Welcome to my castle,\NPrincess.
-Dialogue: 0,0:10:39.06,0:10:42.18,Default,,0,0,0,,I'm sorry about yesterday.\NI am Prince Sapphire.
-Dialogue: 0,0:10:42.22,0:10:45.45,Default,,0,0,0,,I must tell you that I have never seen\Na girl more beautiful than you.
-Dialogue: 0,0:10:45.50,0:10:48.73,Default,,0,0,0,,You are enchanting!\NTruly very beautiful!
-Dialogue: 0,0:10:50.34,0:10:53.01,Default,,0,0,0,,Thank you, Your Highness.\NBut are you really a boy?
-Dialogue: 0,0:10:53.06,0:10:56.02,Default,,0,0,0,,Why do you doubt it? I have even\Nadmired your beauty!
-Dialogue: 0,0:10:56.06,0:10:58.50,Default,,0,0,0,,And soon,\NI'll even grow a mustache
-Dialogue: 0,0:10:59.02,0:11:01.25,Default,,0,0,0,,Good heavens,\NI prefer not to look at you!
-Dialogue: 0,0:11:01.30,0:11:03.66,Default,,0,0,0,,Now I believe you.\NIndeed, I hope you won't be offended,
-Dialogue: 0,0:11:03.70,0:11:05.82,Default,,0,0,0,,if I tell you that I find you\Nrather ugly.
-Dialogue: 0,0:11:14.26,0:11:17.25,Default,,0,0,0,,You teased me by saying\Nthat Sapphire was more beautiful than me.
-Dialogue: 0,0:11:17.30,0:11:19.53,Default,,0,0,0,,Now be serious and tell me:\Nwho is the most beautiful?
-Dialogue: 0,0:11:19.58,0:11:22.10,Default,,0,0,0,,The answer is that:\NSapphire is the most beautiful.
-Dialogue: 0,0:11:22.38,0:11:26.01,Default,,0,0,0,,But Sapphire is a boy! Do you want\Nto keep teasing me?
-Dialogue: 0,0:11:26.06,0:11:28.37,Default,,0,0,0,,What seems to be, is not.\NBelieve what you wish.
-Dialogue: 0,0:11:28.54,0:11:30.82,Default,,0,0,0,,It doesn't seem so at all,\Nbut Sapphire is a maiden.
-Dialogue: 0,0:11:31.02,0:11:32.53,Default,,0,0,0,,Go to hell!
-Dialogue: 0,0:11:35.78,0:11:39.46,Default,,0,0,0,,We would be honored if you\Nstayed a little longer in Silverland.
-Dialogue: 0,0:11:39.50,0:11:42.57,Default,,0,0,0,,I accept, because I have to\Nsettle a matter close to my heart.
-Dialogue: 0,0:11:42.62,0:11:44.42,Default,,0,0,0,,May I know what it is about?
-Dialogue: 0,0:11:44.46,0:11:47.34,Default,,0,0,0,,Well, you see... I have to convince\Nthe mirror that I am the most beautiful.
-Dialogue: 0,0:11:47.50,0:11:51.02,Default,,0,0,0,,Of course, I understand you!\NThen allow me to help you.
-Dialogue: 0,0:11:51.06,0:11:53.66,Default,,0,0,0,,...and to offer you\Nhospitality in my nearby castle.
-Dialogue: 0,0:11:53.70,0:11:55.42,Default,,0,0,0,,No, thank you, Baron.
-Dialogue: 0,0:11:55.46,0:11:59.37,Default,,0,0,0,,Allow me to take you to the\Nbest inn in the entire realm!
-Dialogue: 0,0:11:59.42,0:12:02.38,Default,,0,0,0,,I'd rather not. I prefer to\Nreside in the palace of the mirror,
-Dialogue: 0,0:12:02.42,0:12:05.62,Default,,0,0,0,,...that Chop will build for me.\N- I'll build it right away, Your Highness.
-Dialogue: 0,0:12:06.42,0:12:09.57,Default,,0,0,0,,But Your Highness, surely you don't\Nwant to have a palace built for you?!
-Dialogue: 0,0:12:09.66,0:12:12.26,Default,,0,0,0,,Do you think that I\Ncan stay in an inn?
-Dialogue: 0,0:12:12.30,0:12:15.02,Default,,0,0,0,,As soon as it's done, come to\Nmy palace. I will receive you there.
-Dialogue: 0,0:12:17.10,0:12:19.54,Default,,0,0,0,,I'm afraid I've given\Nmyself away, Sapphire.
-Dialogue: 0,0:12:19.58,0:12:22.94,Default,,0,0,0,,Now be careful, because\NBella might discover your secret.
-Dialogue: 0,0:12:22.98,0:12:26.21,Default,,0,0,0,,You know, now you should\Nbehave more manly than usual.
-Dialogue: 0,0:12:26.26,0:12:29.25,Default,,0,0,0,,Yeah, but in what way\Ncan I seem more manly?
-Dialogue: 0,0:12:30.18,0:12:32.62,Default,,0,0,0,,Let me think a bit\Nabout this problem.
-Dialogue: 0,0:12:32.66,0:12:35.22,Default,,0,0,0,,I've got it! You look more\Nmanly when you fight!
-Dialogue: 0,0:12:35.26,0:12:37.01,Default,,0,0,0,,When I fight, you say?
-Dialogue: 0,0:12:41.02,0:12:43.01,Default,,0,0,0,,Hey, Sapphire! She's coming!
-Dialogue: 0,0:12:49.02,0:12:52.41,Default,,0,0,0,,Nothing beats a good\Nglass of beer with friends!
-Dialogue: 0,0:13:10.58,0:13:12.65,Default,,0,0,0,,And now it's your turn!
-Dialogue: 0,0:13:12.70,0:13:15.17,Default,,0,0,0,,Come on, you blockheads! Bring it on!
-Dialogue: 0,0:13:16.66,0:13:18.41,Default,,0,0,0,,Fight! Bella is watching!
-Dialogue: 0,0:13:23.46,0:13:27.14,Default,,0,0,0,,Go get 'em, Sapphire!\NShow them your manly spirit!
-Dialogue: 0,0:13:28.26,0:13:31.78,Default,,0,0,0,,- That Prince doesn't seem like a girl.\N- He doesn't, but...
-Dialogue: 0,0:13:35.70,0:13:37.82,Default,,0,0,0,,Maybe it's a pity, so big...
-Dialogue: 0,0:13:39.50,0:13:41.14,Default,,0,0,0,,Maybe this one!
-Dialogue: 0,0:13:41.82,0:13:44.42,Default,,0,0,0,,Or this one! I changed my mind!
-Dialogue: 0,0:13:51.78,0:13:54.69,Default,,0,0,0,,- What a struggle!\N- Well done, Sapphire!
-Dialogue: 0,0:13:56.10,0:13:57.90,Default,,0,0,0,,Wonderful, Prince Sapphire!
-Dialogue: 0,0:13:57.94,0:14:00.01,Default,,0,0,0,,If I had known\Nthat you were watching,
-Dialogue: 0,0:14:00.06,0:14:02.02,Default,,0,0,0,,I would have fought\Nmore bravely.
-Dialogue: 0,0:14:03.34,0:14:05.73,Default,,0,0,0,,Accept the invitation\Nto come to my palace.
-Dialogue: 0,0:14:05.78,0:14:08.53,Default,,0,0,0,,- I will be very happy to receive you.\N- In your palace?!
-Dialogue: 0,0:14:08.58,0:14:10.73,Default,,0,0,0,,Yes! It will be called\N'Mirror Palace".
-Dialogue: 0,0:14:10.78,0:14:13.01,Default,,0,0,0,,Mirror Palace?!\NA truly strange name.
-Dialogue: 0,0:14:13.06,0:14:15.29,Default,,0,0,0,,But, you know,\Nit hasn't been built yet.
-Dialogue: 0,0:14:15.34,0:14:17.22,Default,,0,0,0,,What? You want to build yourself a palace?
-Dialogue: 0,0:14:17.26,0:14:20.17,Default,,0,0,0,,Yes, it will be built in five\Nminutes. Please, come!
-Dialogue: 0,0:14:20.22,0:14:22.69,Default,,0,0,0,,Sounds interesting!\NI accept your invitation.
-Dialogue: 0,0:14:22.74,0:14:25.41,Default,,0,0,0,,Be careful,\Nit could be a trap
-Dialogue: 0,0:14:26.50,0:14:30.02,Default,,0,0,0,,Excuse me, I remembered that I have to\Nreturn to the castle to study.
-Dialogue: 0,0:14:30.06,0:14:32.02,Default,,0,0,0,,Don't tell me you study.
-Dialogue: 0,0:14:32.06,0:14:34.34,Default,,0,0,0,,Studying is certainly not\Nfor brave people.
-Dialogue: 0,0:14:34.42,0:14:37.57,Default,,0,0,0,,Well, then, if you think so,\Nit means I won't study.
-Dialogue: 0,0:14:37.62,0:14:40.01,Default,,0,0,0,,- Then remember that I'm waiting for you.\N- Yes.
-Dialogue: 0,0:14:46.54,0:14:49.50,Default,,0,0,0,,- I want it to be built here.\N- Yes, Princess.
-Dialogue: 0,0:15:23.34,0:15:25.57,Default,,0,0,0,,It's already built.\NYou can enter.
-Dialogue: 0,0:15:25.62,0:15:27.69,Default,,0,0,0,,I can't understand\Nhow it was possible.
-Dialogue: 0,0:15:27.74,0:15:29.70,Default,,0,0,0,,...to build it so quickly.
-Dialogue: 0,0:15:30.90,0:15:33.50,Default,,0,0,0,,Good heavens, a\Nboy who is afraid!
-Dialogue: 0,0:15:33.54,0:15:35.50,Default,,0,0,0,,Really, I'm not afraid!
-Dialogue: 0,0:15:35.54,0:15:38.01,Default,,0,0,0,,Wait for me in the\Nback room, please.
-Dialogue: 0,0:15:38.06,0:15:39.54,Default,,0,0,0,,All right!
-Dialogue: 0,0:15:40.42,0:15:43.78,Default,,0,0,0,,Now we'll see! If it's a\Ngirl, she will faint from fear.
-Dialogue: 0,0:15:58.22,0:16:00.02,Default,,0,0,0,,It's only a mirror.
-Dialogue: 0,0:16:14.46,0:16:17.93,Default,,0,0,0,,I found him passed out\Nin front of the multi-mirror.
-Dialogue: 0,0:16:20.02,0:16:22.46,Default,,0,0,0,,Tell the maids to dress Sapphire
-Dialogue: 0,0:16:22.50,0:16:24.33,Default,,0,0,0,,..in a woman's dress\Nand put makeup on him.
-Dialogue: 0,0:16:24.38,0:16:27.50,Default,,0,0,0,,As soon as she is ready, I will compare\Nmyself with her to see who is the most beautiful.
-Dialogue: 0,0:16:27.78,0:16:29.66,Default,,0,0,0,,It will all be done, Your Highness.
-Dialogue: 0,0:16:36.50,0:16:38.65,Default,,0,0,0,,We have finished putting makeup on her!
-Dialogue: 0,0:16:45.10,0:16:48.09,Default,,0,0,0,,How beautiful! I am shocked!\NShe is indeed very beautiful!
-Dialogue: 0,0:16:54.46,0:16:56.82,Default,,0,0,0,,Mirror, my mirror,\Ntell me once again:
-Dialogue: 0,0:16:56.86,0:16:58.90,Default,,0,0,0,,who is more beautiful? Sapphire or I?
-Dialogue: 0,0:16:58.94,0:17:01.90,Default,,0,0,0,,Satisfaction is not granted to you,\Nthe answer is ever the same.
-Dialogue: 0,0:17:02.02,0:17:04.49,Default,,0,0,0,,Even if over seas and mountains\Nyou have traveled satisfied,
-Dialogue: 0,0:17:04.54,0:17:07.21,Default,,0,0,0,,the illusion that your supremacy\Nover the world does not fade..
-Dialogue: 0,0:17:07.26,0:17:09.90,Default,,0,0,0,,...gives way to despair\Nfor a dream that is now dead.
-Dialogue: 0,0:17:09.94,0:17:12.69,Default,,0,0,0,,Of the realm, the most beautiful\Nis Sapphire, always her.
-Dialogue: 0,0:17:18.38,0:17:20.85,Default,,0,0,0,,- My loyal servant..\N- Yes, Your Highness?
-Dialogue: 0,0:17:21.34,0:17:24.70,Default,,0,0,0,,- Sapphire must no longer live.\N- As you wish, Your Highness.
-Dialogue: 0,0:17:24.90,0:17:27.70,Default,,0,0,0,,Anyone who is more beautiful than me\Nmust be punished.
-Dialogue: 0,0:17:27.74,0:17:29.30,Default,,0,0,0,,It shall be done.
-Dialogue: 0,0:17:37.74,0:17:39.41,Default,,0,0,0,,Wait!
-Dialogue: 0,0:17:39.86,0:17:42.69,Default,,0,0,0,,I order you to kill Sapphire\Nat all costs!
-Dialogue: 0,0:17:47.86,0:17:49.61,Default,,0,0,0,,Away, Opal!
-Dialogue: 0,0:17:58.54,0:18:00.82,Default,,0,0,0,,First let's test this weapon.
-Dialogue: 0,0:18:04.90,0:18:06.62,Default,,0,0,0,,Perfect!
-Dialogue: 0,0:18:11.70,0:18:13.26,Default,,0,0,0,,And now...
-Dialogue: 0,0:18:41.70,0:18:43.42,Default,,0,0,0,,I must hurry!
-Dialogue: 0,0:18:56.82,0:18:58.89,Default,,0,0,0,,This time you won't escape me!
-Dialogue: 0,0:19:09.22,0:19:11.89,Default,,0,0,0,,There it is!\NThat mirror on the wall..!
-Dialogue: 0,0:19:28.50,0:19:30.49,Default,,0,0,0,,It's over for you!
-Dialogue: 0,0:19:32.74,0:19:35.18,Default,,0,0,0,,I will turn this weapon\Nagainst them!
-Dialogue: 0,0:19:36.90,0:19:38.62,Default,,0,0,0,,Now we shall see!
-Dialogue: 0,0:19:47.74,0:19:50.30,Default,,0,0,0,,What?! The palace is collapsing!
-Dialogue: 0,0:19:51.26,0:19:54.09,Default,,0,0,0,,Bella, run away!\NRun away, Princess!
-Dialogue: 0,0:19:54.14,0:19:57.34,Default,,0,0,0,,The palace will collapse on you!\NPrincess!
-Dialogue: 0,0:19:58.38,0:20:00.26,Default,,0,0,0,,Let me out!
-Dialogue: 0,0:20:01.34,0:20:03.62,Default,,0,0,0,,Let me out of this cage!
-Dialogue: 0,0:20:05.02,0:20:08.22,Default,,0,0,0,,We are in danger!\NLet me out of here!
-Dialogue: 0,0:20:08.30,0:20:12.34,Default,,0,0,0,,Princess! There is not a minute\Nto lose! Let me out!
-Dialogue: 0,0:20:12.38,0:20:14.69,Default,,0,0,0,,I know you are not\Ncapable of killing!
-Dialogue: 0,0:20:14.74,0:20:16.73,Default,,0,0,0,,You don't really want me to die?!
-Dialogue: 0,0:20:16.78,0:20:18.58,Default,,0,0,0,,I won't be the one to kill you,
-Dialogue: 0,0:20:18.62,0:20:21.29,Default,,0,0,0,,but you will die buried\Nunder the rubble of this palace!
-Dialogue: 0,0:20:21.34,0:20:23.33,Default,,0,0,0,,And then, finally,\NI will be the most beautiful,
-Dialogue: 0,0:20:23.38,0:20:25.50,Default,,0,0,0,,of this kingdom\Nand of the whole world!
-Dialogue: 0,0:20:25.90,0:20:27.65,Default,,0,0,0,,Come on, mirror!
-Dialogue: 0,0:20:31.90,0:20:34.26,Default,,0,0,0,,My magic mirror\Nis collapsing!
-Dialogue: 0,0:20:36.82,0:20:39.70,Default,,0,0,0,,My duty as a mirror\Nis over. I was already old.
-Dialogue: 0,0:20:39.82,0:20:42.54,Default,,0,0,0,,Now that you are no longer the first,\Nyou, of my rhyming verdicts...
-Dialogue: 0,0:20:42.58,0:20:45.38,Default,,0,0,0,,...will no longer hear my voice\Nto know who is the fairest.
-Dialogue: 0,0:20:45.42,0:20:48.41,Default,,0,0,0,,Satisfied, I retire\Nand give the palm to Sapphire.
-Dialogue: 0,0:20:53.78,0:20:56.90,Default,,0,0,0,,- Bella!\N- I must flee!
-Dialogue: 0,0:20:57.50,0:21:00.46,Default,,0,0,0,,Bella, let me out!\NPlease! Bella!
-Dialogue: 0,0:21:09.58,0:21:11.73,Default,,0,0,0,,Save me, Bella! Help me!
-Dialogue: 0,0:21:19.58,0:21:23.21,Default,,0,0,0,,Now I want to show you again\Nwhat you are going to become.
-Dialogue: 0,0:21:36.74,0:21:39.02,Default,,0,0,0,,Oh, no! It is not possible!
-Dialogue: 0,0:21:39.06,0:21:41.18,Default,,0,0,0,,Once your springtime fades,
-Dialogue: 0,0:21:41.22,0:21:44.18,Default,,0,0,0,,you will take on your true appearance\Nand this is how you will become,
-Dialogue: 0,0:21:44.50,0:21:48.86,Default,,0,0,0,,because indeed within you there is ugliness.\NOnly on the outside is there beauty.
-Dialogue: 0,0:21:49.18,0:21:51.74,Default,,0,0,0,,This identity of yours,\Nif you do not change, will prevail.
-Dialogue: 0,0:21:52.10,0:21:54.82,Default,,0,0,0,,But I want to suggest to you\Na remedy, to finish:
-Dialogue: 0,0:21:55.10,0:21:59.22,Default,,0,0,0,,if you change your heart inside\Nand show a little love,
-Dialogue: 0,0:21:59.26,0:22:03.02,Default,,0,0,0,,you will return serene and beautiful\Nand Sapphire, just as she was,
-Dialogue: 0,0:22:03.26,0:22:05.22,Default,,0,0,0,,she will become your great friend.
-Dialogue: 0,0:22:05.50,0:22:08.49,Default,,0,0,0,,This is, more than words can say,\Nthe beauty of life.
-Dialogue: 0,0:22:08.78,0:22:12.74,Default,,0,0,0,,I have finished.\NGoodbye, Your Highness.
-Dialogue: 0,0:22:23.06,0:22:25.02,Default,,0,0,0,,Bella, be careful!
-Dialogue: 0,0:22:27.54,0:22:29.58,Default,,0,0,0,,- Come, quickly!\N- Just in time!
-Dialogue: 0,0:22:38.70,0:22:40.69,Default,,0,0,0,,Goodbye, Bella.
-Dialogue: 0,0:22:43.02,0:22:46.17,Default,,0,0,0,,- Well, Sapphire, I...\N- Don't say anything. I understand.
-Dialogue: 0,0:22:56.90,0:22:59.34,Default,,0,0,0,,Goodbye!\NYou are still the most beautiful
-Dialogue: 0,0:22:59.38,0:23:02.02,Default,,0,0,0,,I don't care. I have understood\Nwhat true beauty is.
-Dialogue: 0,0:23:02.06,0:23:05.18,Default,,0,0,0,,This gift will make you\Nremember my friendship.
-Dialogue: 0,0:23:06.02,0:23:08.01,Default,,0,0,0,,How dear you are, Sapphire!
-Dialogue: 0,0:23:08.06,0:23:09.89,Default,,0,0,0,,Goodbye, Your Highness!
-Dialogue: 0,0:23:10.10,0:23:11.45,Default,,0,0,0,,Let's go!
-Dialogue: 0,0:23:41.26,0:23:43.25,Default,,0,0,0,,- Goodbye!\N- Goodbye!
+Dialogue: 0,0:01:44.10,0:01:50.14,Default,,0,0,0,,Eighteenth Episode\NThe Magic Mirror\NMysterious Mirror
+Dialogue: 0,0:02:30.31,0:02:31.31,Default,,0,0,0,,Come in.
+Dialogue: 0,0:02:41.70,0:02:45.43,Default,,0,0,0,,Good morning, Princess Bella. We will be in Silverland soon.
+Dialogue: 0,0:02:45.45,0:02:48.24,Default,,0,0,0,,I hate real food! Fruit juice is all I need!
+Dialogue: 0,0:02:48.27,0:02:51.86,Default,,0,0,0,,Um, won't you eat at least a little bit of something else—
+Dialogue: 0,0:02:52.26,0:02:54.04,Default,,0,0,0,,When I say I don't want it, I don't!
+Dialogue: 0,0:02:54.06,0:02:56.42,Default,,0,0,0,,Are you trying to turn me into a fat, hideous girl?
+Dialogue: 0,0:02:56.45,0:02:58.58,Default,,0,0,0,,O-Oh, no, of course not... Yes, ma'am.
+Dialogue: 0,0:03:00.43,0:03:01.58,Default,,0,0,0,,Well then, excuse me...
+Dialogue: 0,0:03:14.86,0:03:17.10,Default,,0,0,0,,Mirror, mirror, answer me.
+Dialogue: 0,0:03:17.30,0:03:19.38,Default,,0,0,0,,Who is the most beautiful woman in the world?
+Dialogue: 0,0:03:21.09,0:03:22.44,Default,,0,0,0,,Hark, I shall answer.
+Dialogue: 0,0:03:24.10,0:03:25.52,Default,,0,0,0,,Listen carefully.
+Dialogue: 0,0:03:27.39,0:03:33.38,Default,,0,0,0,,I know not of the whole world, but the most beautiful in this land...
+Dialogue: 0,0:03:34.26,0:03:34.84,Default,,0,0,0,,Bella,
+Dialogue: 0,0:03:36.44,0:03:37.44,Default,,0,0,0,,well, that would be you.
+Dialogue: 0,0:03:37.60,0:03:40.34,Default,,0,0,0,,No matter where I go, there's no girl prettier than me.
+Dialogue: 0,0:03:40.91,0:03:44.42,Default,,0,0,0,,Still, I'm traveling around the world to make sure of it.
+Dialogue: 0,0:04:07.80,0:04:08.89,Default,,0,0,0,,11 of 'em!
+Dialogue: 0,0:04:11.82,0:04:12.86,Default,,0,0,0,,All right!
+Dialogue: 0,0:04:16.25,0:04:18.54,Default,,0,0,0,,Here goes, yee-haw!
+Dialogue: 0,0:04:18.74,0:04:21.18,Default,,0,0,0,,Ha, how's that? That makes 12!
+Dialogue: 0,0:04:21.89,0:04:24.21,Default,,0,0,0,,Damn it, how frustrating!
+Dialogue: 0,0:04:37.39,0:04:38.58,Default,,0,0,0,,Blech!
+Dialogue: 0,0:04:41.80,0:04:42.80,Default,,0,0,0,,How do you like that, Nylon?
+Dialogue: 0,0:04:43.47,0:04:45.12,Default,,0,0,0,,I-I won't yield!
+Dialogue: 0,0:04:47.96,0:04:52.08,Default,,0,0,0,,Duralumin, you made me play this game hoping I'd break my neck, didn't you?
+Dialogue: 0,0:04:52.25,0:04:53.24,Default,,0,0,0,,Your plan backfired.
+Dialogue: 0,0:04:53.26,0:04:54.18,Default,,0,0,0,,What are you talking about?
+Dialogue: 0,0:04:54.24,0:04:56.89,Default,,0,0,0,,I recommended it because it's a manly sport.
+Dialogue: 0,0:04:56.92,0:04:59.99,Default,,0,0,0,,Then since I won, that makes me a manly man.
+Dialogue: 0,0:05:00.18,0:05:00.94,Default,,0,0,0,,Right, Duralumin?
+Dialogue: 0,0:05:01.14,0:05:03.44,Default,,0,0,0,,W-Well, yes, I suppose so.
+Dialogue: 0,0:05:07.74,0:05:09.12,Default,,0,0,0,,A manly man...
+Dialogue: 0,0:05:09.80,0:05:11.88,Default,,0,0,0,,Hmm, that seems a bit problematic.
+Dialogue: 0,0:05:18.62,0:05:21.04,Default,,0,0,0,,Wow, what a deluxe carriage!
+Dialogue: 0,0:05:23.11,0:05:24.30,Default,,0,0,0,,Oh, it has a kitchen!
+Dialogue: 0,0:05:30.57,0:05:31.57,Default,,0,0,0,,Is no one here yet?
+Dialogue: 0,0:05:31.76,0:05:32.96,Default,,0,0,0,,But what an incredible carriage!
+Dialogue: 0,0:05:33.17,0:05:34.40,Default,,0,0,0,,It's like a Rolls-Royce!
+Dialogue: 0,0:05:40.26,0:05:41.30,Default,,0,0,0,,Is there someone further inside?
+Dialogue: 0,0:05:42.22,0:05:43.22,Default,,0,0,0,,This is amazing!
+Dialogue: 0,0:05:50.94,0:05:53.62,Default,,0,0,0,,Wow, incredible!
+Dialogue: 0,0:06:08.78,0:06:10.33,Default,,0,0,0,,What a strange mirror.
+Dialogue: 0,0:06:17.10,0:06:20.30,Default,,0,0,0,,Jop, the flowers we picked are to make perfume, alright?
+Dialogue: 0,0:06:20.41,0:06:21.41,Default,,0,0,0,,Understood.
+Dialogue: 0,0:06:35.66,0:06:36.66,Default,,0,0,0,,Thief!
+Dialogue: 0,0:06:36.69,0:06:37.84,Default,,0,0,0,,I told you, I'm not!
+Dialogue: 0,0:06:38.28,0:06:39.29,Default,,0,0,0,,Thief!
+Dialogue: 0,0:06:39.69,0:06:41.12,Default,,0,0,0,,S-Sorry, don't do anything rash!
+Dialogue: 0,0:06:41.84,0:06:42.84,Default,,0,0,0,,Lady Bella!
+Dialogue: 0,0:06:44.04,0:06:45.04,Default,,0,0,0,,Why you...
+Dialogue: 0,0:06:49.57,0:06:51.25,Default,,0,0,0,,W-Wait!
+Dialogue: 0,0:06:54.31,0:06:55.50,Default,,0,0,0,,Eww, what a dirty kid!
+Dialogue: 0,0:07:01.38,0:07:03.36,Default,,0,0,0,,Sorry you had to see such a dirty kid.
+Dialogue: 0,0:07:05.46,0:07:06.78,Default,,0,0,0,,Mirror, answer me.
+Dialogue: 0,0:07:07.09,0:07:09.16,Default,,0,0,0,,Who is the most beautiful in the world?
+Dialogue: 0,0:07:09.16,0:07:10.16,Default,,0,0,0,,Huh?
+Dialogue: 0,0:07:11.80,0:07:12.80,Default,,0,0,0,,I shall answer.
+Dialogue: 0,0:07:13.86,0:07:20.50,Default,,0,0,0,,I don't know about the rest of the world, but Sapphire is the most beautiful in Silverland.
+Dialogue: 0,0:07:20.88,0:07:21.70,Default,,0,0,0,,What did you say?
+Dialogue: 0,0:07:21.82,0:07:23.04,Default,,0,0,0,,What about me?
+Dialogue: 0,0:07:23.80,0:07:29.06,Default,,0,0,0,,In every land we've visited, Bella, no girl was more beautiful than you.
+Dialogue: 0,0:07:30.01,0:07:33.78,Default,,0,0,0,,But here in Silverland, there is a beautiful princess named Sapphire.
+Dialogue: 0,0:07:34.49,0:07:35.94,Default,,0,0,0,,Sapphire is more beautiful than Bella.
+Dialogue: 0,0:07:36.87,0:07:37.87,Default,,0,0,0,,Sapphire?
+Dialogue: 0,0:07:38.35,0:07:39.94,Default,,0,0,0,,Where is she, this girl?
+Dialogue: 0,0:08:03.40,0:08:04.40,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:08:15.01,0:08:18.50,Default,,0,0,0,,You must never let anyone find out that you're a girl.
+Dialogue: 0,0:08:18.89,0:08:20.27,Default,,0,0,0,,Yes, Mother.
+Dialogue: 0,0:08:31.90,0:08:33.50,Default,,0,0,0,,Oh, poor princess.
+Dialogue: 0,0:08:35.50,0:08:37.70,Default,,0,0,0,,I've had enough of these troublesome laws.
+Dialogue: 0,0:08:38.15,0:08:40.64,Default,,0,0,0,,I want to raise her to be a fine woman.
+Dialogue: 0,0:08:41.38,0:08:46.38,Default,,0,0,0,,It's an ancient law of this kingdom. If broken, the people won't forgive it.
+Dialogue: 0,0:08:47.05,0:08:48.47,Default,,0,0,0,,Ah, Sapphire...
+Dialogue: 0,0:09:00.04,0:09:00.76,Default,,0,0,0,,Sapphire?
+Dialogue: 0,0:09:00.78,0:09:02.88,Default,,0,0,0,,Right, where is this girl named Sapphire?
+Dialogue: 0,0:09:03.08,0:09:03.74,Default,,0,0,0,,There's the castle!
+Dialogue: 0,0:09:03.92,0:09:06.03,Default,,0,0,0,,Sapphire is the princess of the castle.
+Dialogue: 0,0:09:06.38,0:09:07.69,Default,,0,0,0,,The princess of the castle?
+Dialogue: 0,0:09:09.16,0:09:10.16,Default,,0,0,0,,We're going to the castle!
+Dialogue: 0,0:09:10.23,0:09:11.16,Default,,0,0,0,,Understood.
+Dialogue: 0,0:09:11.98,0:09:14.36,Default,,0,0,0,,No, Sapphire is a boy!
+Dialogue: 0,0:09:14.48,0:09:17.76,Default,,0,0,0,,He's a strong prince, definitely not a girl!
+Dialogue: 0,0:09:19.00,0:09:19.50,Default,,0,0,0,,What?
+Dialogue: 0,0:09:20.01,0:09:21.28,Default,,0,0,0,,Sapphire is a girl?
+Dialogue: 0,0:09:21.30,0:09:23.01,Default,,0,0,0,,Yes, my mirror told me...
+Dialogue: 0,0:09:23.34,0:09:24.50,Default,,0,0,0,,...that Sapphire is a girl.
+Dialogue: 0,0:09:24.94,0:09:27.22,Default,,0,0,0,,And a girl prettier than me, no less!
+Dialogue: 0,0:09:28.20,0:09:29.97,Default,,0,0,0,,A magic mirror told you?
+Dialogue: 0,0:09:30.45,0:09:34.19,Default,,0,0,0,,Ah, what incredible luck! A total windfall! I love you!
+Dialogue: 0,0:09:34.81,0:09:36.37,Default,,0,0,0,,Now, take me to Princess Sapphire!
+Dialogue: 0,0:09:36.59,0:09:39.75,Default,,0,0,0,,I won't be satisfied until I see for myself which of us is more beautiful.
+Dialogue: 0,0:09:39.80,0:09:41.55,Default,,0,0,0,,Very well. Understood.
+Dialogue: 0,0:09:41.64,0:09:42.50,Default,,0,0,0,,Coming, coming!
+Dialogue: 0,0:09:42.60,0:09:43.60,Default,,0,0,0,,I'll let you meet her.
+Dialogue: 0,0:09:46.84,0:09:47.48,Default,,0,0,0,,Hurry!
+Dialogue: 0,0:09:47.72,0:09:48.00,Default,,0,0,0,,Yes, yes.
+Dialogue: 0,0:09:48.51,0:09:51.36,Default,,0,0,0,,Well now, this has turned into quite an interesting situation.
+Dialogue: 0,0:09:52.48,0:09:54.35,Default,,0,0,0,,I'll tear off Sapphire's mask!
+Dialogue: 0,0:09:56.42,0:09:57.04,Default,,0,0,0,,Nylon!
+Dialogue: 0,0:09:57.30,0:09:58.47,Default,,0,0,0,,Let's spar!
+Dialogue: 0,0:09:58.94,0:10:00.09,Default,,0,0,0,,My, if it isn't yesterday's thief...
+Dialogue: 0,0:10:01.68,0:10:02.68,Default,,0,0,0,,Lord Sapphire...
+Dialogue: 0,0:10:05.21,0:10:06.25,Default,,0,0,0,,Sapphire... You...
+Dialogue: 0,0:10:06.78,0:10:09.04,Default,,0,0,0,,Come at me!
+Dialogue: 0,0:10:09.41,0:10:11.34,Default,,0,0,0,,But, well, I mean...
+Dialogue: 0,0:10:11.36,0:10:12.42,Default,,0,0,0,,Take this!
+Dialogue: 0,0:10:15.05,0:10:16.33,Default,,0,0,0,,Ow... that hurt.
+Dialogue: 0,0:10:16.76,0:10:17.76,Default,,0,0,0,,Come on!
+Dialogue: 0,0:10:20.39,0:10:22.42,Default,,0,0,0,,You're as weak as a woman, Nylon.
+Dialogue: 0,0:10:26.90,0:10:27.90,Default,,0,0,0,,How's that?
+Dialogue: 0,0:10:28.16,0:10:29.30,Default,,0,0,0,,I-I yield...
+Dialogue: 0,0:10:30.17,0:10:31.78,Default,,0,0,0,,Face up or face down? Which will it be?
+Dialogue: 0,0:10:32.46,0:10:33.66,Default,,0,0,0,,Face up or face down? Face up...!
+Dialogue: 0,0:10:34.23,0:10:35.24,Default,,0,0,0,,Then look me in the eye!
+Dialogue: 0,0:10:37.91,0:10:39.16,Default,,0,0,0,,Hello, young lady.
+Dialogue: 0,0:10:39.54,0:10:40.54,Default,,0,0,0,,Sorry about yesterday.
+Dialogue: 0,0:10:40.70,0:10:41.84,Default,,0,0,0,,I'm Prince Sapphire.
+Dialogue: 0,0:10:43.90,0:10:47.36,Default,,0,0,0,,You know, you're really beautiful. Man, you drive me crazy.
+Dialogue: 0,0:10:47.64,0:10:49.18,Default,,0,0,0,,You're so gorgeous.
+Dialogue: 0,0:10:50.79,0:10:52.70,Default,,0,0,0,,Um... are you really a boy?
+Dialogue: 0,0:10:53.36,0:10:54.36,Default,,0,0,0,,Of course I am.
+Dialogue: 0,0:10:54.52,0:10:57.48,Default,,0,0,0,,That's why a gorgeous girl like you drives me wild.
+Dialogue: 0,0:10:59.38,0:11:02.46,Default,,0,0,0,,Look, Sapphire is just a filthy boy.
+Dialogue: 0,0:11:03.24,0:11:06.62,Default,,0,0,0,,There's no way a girl prettier than me exists.
+Dialogue: 0,0:11:14.77,0:11:17.56,Default,,0,0,0,,Mirror, mirror, answer without teasing me.
+Dialogue: 0,0:11:17.79,0:11:19.39,Default,,0,0,0,,Who is the prettiest of all?
+Dialogue: 0,0:11:20.15,0:11:21.58,Default,,0,0,0,,That would be Sapphire.
+Dialogue: 0,0:11:22.77,0:11:24.22,Default,,0,0,0,,Sapphire is a boy.
+Dialogue: 0,0:11:24.47,0:11:25.88,Default,,0,0,0,,Are you still teasing me?
+Dialogue: 0,0:11:25.98,0:11:28.14,Default,,0,0,0,,No, Sapphire is a girl.
+Dialogue: 0,0:11:28.92,0:11:31.28,Default,,0,0,0,,A girl prettier than Bella.
+Dialogue: 0,0:11:36.20,0:11:39.42,Default,,0,0,0,,What? Lady Bella, do you still intend to keep traveling?
+Dialogue: 0,0:11:39.92,0:11:42.24,Default,,0,0,0,,Yes, but there's something I must do first.
+Dialogue: 0,0:11:42.84,0:11:43.84,Default,,0,0,0,,And that is?
+Dialogue: 0,0:11:44.62,0:11:47.74,Default,,0,0,0,,I'll stay in this kingdom until the magic mirror says I'm the most beautiful.
+Dialogue: 0,0:11:47.85,0:11:50.02,Default,,0,0,0,,Yes, yes, I understand completely!
+Dialogue: 0,0:11:50.30,0:11:53.30,Default,,0,0,0,,Allow me to offer my assistance then.
+Dialogue: 0,0:11:53.74,0:11:54.74,Default,,0,0,0,,Yes, very well.
+Dialogue: 0,0:11:55.54,0:11:58.90,Default,,0,0,0,,Then let me guide you to the finest hotel in Silverland.
+Dialogue: 0,0:11:59.65,0:12:02.56,Default,,0,0,0,,Jop, I will be staying at the House of Mirrors for a while.
+Dialogue: 0,0:12:02.81,0:12:04.32,Default,,0,0,0,,Ah, right away, ma'am.
+Dialogue: 0,0:12:04.47,0:12:05.47,Default,,0,0,0,,I'll build it immediately.
+Dialogue: 0,0:12:06.84,0:12:07.48,Default,,0,0,0,,Build it?
+Dialogue: 0,0:12:07.61,0:12:08.90,Default,,0,0,0,,Build a mansion right away?
+Dialogue: 0,0:12:10.06,0:12:12.47,Default,,0,0,0,,Do you expect me to stay in some ordinary hotel?
+Dialogue: 0,0:12:13.00,0:12:14.22,Default,,0,0,0,,Come to the House of Mirrors.
+Dialogue: 0,0:12:14.34,0:12:15.34,Default,,0,0,0,,We'll discuss it there.
+Dialogue: 0,0:12:16.97,0:12:21.39,Default,,0,0,0,,With that girl Bella around, Sapphire's secret might get exposed.
+Dialogue: 0,0:12:23.36,0:12:26.24,Default,,0,0,0,,You have to act even more like a boy than usual.
+Dialogue: 0,0:12:26.95,0:12:30.02,Default,,0,0,0,,Hey Tink, what's the best way to look like a real boy?
+Dialogue: 0,0:12:30.25,0:12:34.44,Default,,0,0,0,,To look like a real boy? Fighting, obviously!
+Dialogue: 0,0:12:34.55,0:12:36.35,Default,,0,0,0,,Hmm, fighting...
+Dialogue: 0,0:12:42.57,0:12:43.11,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:12:46.60,0:12:48.07,Default,,0,0,0,,Well, look who just walked in.
+Dialogue: 0,0:12:48.41,0:12:49.96,Default,,0,0,0,,What a cheeky brat.
+Dialogue: 0,0:12:50.78,0:12:52.78,Default,,0,0,0,,A youngster’s come in, has he?
+Dialogue: 0,0:12:58.04,0:12:58.69,Default,,0,0,0,,What do you want?
+Dialogue: 0,0:12:58.84,0:13:00.84,Default,,0,0,0,,You insolent brat, I'll knock your teeth out!
+Dialogue: 0,0:13:02.38,0:13:03.52,Default,,0,0,0,,Well? Had enough?
+Dialogue: 0,0:13:10.62,0:13:11.62,Default,,0,0,0,,Take that!
+Dialogue: 0,0:13:11.73,0:13:12.92,Default,,0,0,0,,You cowardly fools!
+Dialogue: 0,0:13:16.52,0:13:17.89,Default,,0,0,0,,Keep it up Sapphire!
+Dialogue: 0,0:13:24.12,0:13:25.38,Default,,0,0,0,,Bella's watching!
+Dialogue: 0,0:13:25.40,0:13:27.36,Default,,0,0,0,,You've got to be more over the top!
+Dialogue: 0,0:13:27.42,0:13:27.62,Default,,0,0,0,,Okay!
+Dialogue: 0,0:13:27.66,0:13:28.62,Default,,0,0,0,,Okay!
+Dialogue: 0,0:13:28.62,0:13:30.14,Default,,0,0,0,,Oh, but she's a girl.
+Dialogue: 0,0:13:30.46,0:13:31.46,Default,,0,0,0,,Indeed.
+Dialogue: 0,0:13:35.88,0:13:37.20,Default,,0,0,0,,Alright, this is it!
+Dialogue: 0,0:13:37.78,0:13:38.96,Default,,0,0,0,,She could get hurt here.
+Dialogue: 0,0:13:43.06,0:13:44.06,Default,,0,0,0,,Just as I thought!
+Dialogue: 0,0:13:56.43,0:13:57.58,Default,,0,0,0,,How wonderful, Your Highness.
+Dialogue: 0,0:13:57.95,0:14:01.85,Default,,0,0,0,,Man, if I'd known you were watching, I'd have put on a bigger show.
+Dialogue: 0,0:14:03.63,0:14:07.15,Default,,0,0,0,,Say, won't you come visit my villa? You'd be most welcome.
+Dialogue: 0,0:14:07.54,0:14:08.54,Default,,0,0,0,,Villa?
+Dialogue: 0,0:14:08.94,0:14:10.70,Default,,0,0,0,,Yes, it's called the House of Mirrors.
+Dialogue: 0,0:14:10.82,0:14:11.82,Default,,0,0,0,,The House of Mirrors?
+Dialogue: 0,0:14:12.00,0:14:12.84,Default,,0,0,0,,I've never heard of it.
+Dialogue: 0,0:14:12.96,0:14:15.37,Default,,0,0,0,,Of course not. I'm about to build it now.
+Dialogue: 0,0:14:15.96,0:14:17.08,Default,,0,0,0,,About to build it?
+Dialogue: 0,0:14:17.39,0:14:19.06,Default,,0,0,0,,Yes, it'll be built in just five minutes.
+Dialogue: 0,0:14:19.21,0:14:19.97,Default,,0,0,0,,Come on in.
+Dialogue: 0,0:14:20.00,0:14:22.08,Default,,0,0,0,,Sounds fun, I'm going!
+Dialogue: 0,0:14:22.32,0:14:23.32,Default,,0,0,0,,Be careful!
+Dialogue: 0,0:14:24.06,0:14:25.28,Default,,0,0,0,,It might be a trap.
+Dialogue: 0,0:14:27.19,0:14:30.35,Default,,0,0,0,,But I have to go back to the castle and study.
+Dialogue: 0,0:14:30.60,0:14:33.45,Default,,0,0,0,,Well, studying doesn't suit a boy anyway.
+Dialogue: 0,0:14:35.50,0:14:36.21,Default,,0,0,0,,I won't!
+Dialogue: 0,0:14:36.48,0:14:37.69,Default,,0,0,0,,I'm not gonna study!
+Dialogue: 0,0:14:38.07,0:14:39.52,Default,,0,0,0,,Then come on in.
+Dialogue: 0,0:14:49.04,0:14:49.86,Default,,0,0,0,,Right here is good.
+Dialogue: 0,0:14:49.89,0:14:50.79,Default,,0,0,0,,Understood.
+Dialogue: 0,0:15:23.98,0:15:25.71,Default,,0,0,0,,There, all done. Now go on home.
+Dialogue: 0,0:15:26.29,0:15:27.80,Default,,0,0,0,,That sure was fast.
+Dialogue: 0,0:15:28.06,0:15:29.06,Default,,0,0,0,,Ugh, it's creepy.
+Dialogue: 0,0:15:31.33,0:15:33.48,Default,,0,0,0,,Oh, are you scared? And you're supposed to be a boy!
+Dialogue: 0,0:15:34.24,0:15:35.52,Default,,0,0,0,,I-I'm not scared!
+Dialogue: 0,0:15:36.23,0:15:37.86,Default,,0,0,0,,Wait in the next room, okay?
+Dialogue: 0,0:15:37.95,0:15:39.02,Default,,0,0,0,,Okay!
+Dialogue: 0,0:15:40.87,0:15:42.78,Default,,0,0,0,,Most kids would have fainted by now.
+Dialogue: 0,0:15:43.03,0:15:43.71,Default,,0,0,0,,Just you wait.
+Dialogue: 0,0:15:58.68,0:15:59.68,Default,,0,0,0,,A mirror...?
+Dialogue: 0,0:16:20.39,0:16:23.44,Default,,0,0,0,,Call the maids! Dress Sapphire in a gown, put makeup on her,
+Dialogue: 0,0:16:24.49,0:16:27.05,Default,,0,0,0,,and then we'll see which of us is more beautiful!
+Dialogue: 0,0:16:27.96,0:16:29.06,Default,,0,0,0,,Right away.
+Dialogue: 0,0:16:36.92,0:16:38.24,Default,,0,0,0,,Her makeup is finished.
+Dialogue: 0,0:16:44.74,0:16:45.74,Default,,0,0,0,,A princess...?
+Dialogue: 0,0:16:45.97,0:16:47.32,Default,,0,0,0,,I hate to admit it, but she really is beautiful.
+Dialogue: 0,0:16:54.72,0:16:55.80,Default,,0,0,0,,Mirror, mirror...
+Dialogue: 0,0:16:55.95,0:16:57.18,Default,,0,0,0,,Tell me once more.
+Dialogue: 0,0:16:57.71,0:16:59.26,Default,,0,0,0,,Which of us is the fairer?
+Dialogue: 0,0:17:01.25,0:17:02.84,Default,,0,0,0,,That's already quite obvious.
+Dialogue: 0,0:17:03.83,0:17:05.96,Default,,0,0,0,,No matter how many times you ask, the answer remains the same.
+Dialogue: 0,0:17:06.54,0:17:09.07,Default,,0,0,0,,Sapphire is far prettier than Bella.
+Dialogue: 0,0:17:18.31,0:17:19.31,Default,,0,0,0,,How humiliating...
+Dialogue: 0,0:17:19.42,0:17:19.97,Default,,0,0,0,,At your service!
+Dialogue: 0,0:17:21.57,0:17:23.12,Default,,0,0,0,,Get rid of Sapphire.
+Dialogue: 0,0:17:23.86,0:17:24.86,Default,,0,0,0,,As you wish.
+Dialogue: 0,0:17:25.16,0:17:27.20,Default,,0,0,0,,Any girl prettier than me must be punished!
+Dialogue: 0,0:17:37.65,0:17:38.52,Default,,0,0,0,,Wait!
+Dialogue: 0,0:17:39.68,0:17:42.30,Default,,0,0,0,,Jop, send Sapphire to the grave with your own hands!
+Dialogue: 0,0:17:47.66,0:17:48.66,Default,,0,0,0,,Go, Opal!
+Dialogue: 0,0:18:55.93,0:18:57.04,Default,,0,0,0,,Here I come!
+Dialogue: 0,0:19:33.01,0:19:34.28,Default,,0,0,0,,How about that, mirror on the wall?!
+Dialogue: 0,0:19:50.78,0:19:51.78,Default,,0,0,0,,Bella!
+Dialogue: 0,0:19:51.88,0:19:52.88,Default,,0,0,0,,Bella!
+Dialogue: 0,0:19:53.90,0:19:54.90,Default,,0,0,0,,The mansion is collapsing!
+Dialogue: 0,0:19:54.97,0:19:55.97,Default,,0,0,0,,We have to get out of here, fast!
+Dialogue: 0,0:19:56.16,0:19:57.16,Default,,0,0,0,,Bella!
+Dialogue: 0,0:20:12.74,0:20:13.29,Default,,0,0,0,,Bella!
+Dialogue: 0,0:20:13.57,0:20:16.20,Default,,0,0,0,,Bella, you're awful enough to kill someone who came to rescue you!
+Dialogue: 0,0:20:16.86,0:20:17.36,Default,,0,0,0,,Silence!
+Dialogue: 0,0:20:17.62,0:20:19.46,Default,,0,0,0,,You'll die right along with this building!
+Dialogue: 0,0:20:19.78,0:20:22.94,Default,,0,0,0,,Now... now I can be the prettiest girl once again!
+Dialogue: 0,0:20:23.22,0:20:24.44,Default,,0,0,0,,Mirror, let's go.
+Dialogue: 0,0:20:26.02,0:20:27.40,Default,,0,0,0,,Ah, it's cracking...
+Dialogue: 0,0:20:31.76,0:20:32.76,Default,,0,0,0,,Why?
+Dialogue: 0,0:20:32.79,0:20:34.14,Default,,0,0,0,,Why is it breaking?!
+Dialogue: 0,0:20:39.20,0:20:40.00,Default,,0,0,0,,Bella...
+Dialogue: 0,0:20:40.61,0:20:41.80,Default,,0,0,0,,you are ugly.
+Dialogue: 0,0:20:42.50,0:20:43.50,Default,,0,0,0,,I've had enough!
+Dialogue: 0,0:20:44.27,0:20:47.49,Default,,0,0,0,,I'm sick of reflecting a girl as ugly as you.
+Dialogue: 0,0:20:55.65,0:20:56.65,Default,,0,0,0,,Bella!
+Dialogue: 0,0:20:58.93,0:20:59.76,Default,,0,0,0,,Bella!
+Dialogue: 0,0:21:09.41,0:21:09.90,Default,,0,0,0,,Bella!
+Dialogue: 0,0:21:10.16,0:21:11.16,Default,,0,0,0,,Bella!
+Dialogue: 0,0:21:41.52,0:21:42.52,Default,,0,0,0,,Bella!
+Dialogue: 0,0:21:43.01,0:21:45.15,Default,,0,0,0,,Bella, this is what you look like!
+Dialogue: 0,0:21:45.18,0:21:46.19,Default,,0,0,0,, That's a lie!
+Dialogue: 0,0:21:47.43,0:21:49.88,Default,,0,0,0,,This is your true form!
+Dialogue: 0,0:21:57.38,0:21:57.83,Default,,0,0,0,,Bella!
+Dialogue: 0,0:21:58.04,0:22:00.10,Default,,0,0,0,,What should I do... What should I do...
+Dialogue: 0,0:22:01.10,0:22:02.98,Default,,0,0,0,,Bella, you must possess a beautiful heart.
+Dialogue: 0,0:22:04.21,0:22:07.40,Default,,0,0,0,,An ugly heart is what makes you ugly.
+Dialogue: 0,0:22:08.29,0:22:11.22,Default,,0,0,0,,You must have a heart as beautiful as Sapphire's.
+Dialogue: 0,0:22:22.56,0:22:23.12,Default,,0,0,0,,Bella!
+Dialogue: 0,0:22:23.14,0:22:24.14,Default,,0,0,0,,Watch out!
+Dialogue: 0,0:22:27.06,0:22:27.57,Default,,0,0,0,,Hurry!
+Dialogue: 0,0:22:56.74,0:22:57.94,Default,,0,0,0,,Goodbye, Bella.
+Dialogue: 0,0:22:58.97,0:23:00.00,Default,,0,0,0,,Goodbye, Sapphire.
+Dialogue: 0,0:23:00.16,0:23:01.16,Default,,0,0,0,,Take care.
+Dialogue: 0,0:23:01.54,0:23:02.54,Default,,0,0,0,,Here, a present.
+Dialogue: 0,0:23:02.69,0:23:04.42,Default,,0,0,0,,Girls love makeup, after all.
+Dialogue: 0,0:23:05.75,0:23:06.46,Default,,0,0,0,,Oh, thank you!
+Dialogue: 0,0:23:06.72,0:23:07.72,Default,,0,0,0,,It's a mirror...
+Dialogue: 0,0:23:09.85,0:23:10.85,Default,,0,0,0,,Now, go!
+Dialogue: 0,0:23:40.93,0:23:43.33,Default,,0,0,0,,Goodbye!
 Dialogue: 0,0:24:08.98,0:24:12.60,Karaoke,,0,0,0,,{\k29}{\k22}Ta{\k18}ra{\k16}ri {\k18}Ra{\k20}tta {\k23}Ri{\k19}tta {\k26}Ra{\k17}tta {\k19}Ra{\k66}tta{\k69}ttaa
 Dialogue: 0,0:24:12.60,0:24:15.96,Karaoke,,0,0,0,,{\k8}{\k46}Kya{\k68}hoo! {\k35}Kya{\k42}hoo! {\k46}Kya{\k91}hoo!
 Dialogue: 0,0:24:12.60,0:24:15.96,OPED_Translation,,0,0,0,,Yahoo! Yahoo! Yahoo!

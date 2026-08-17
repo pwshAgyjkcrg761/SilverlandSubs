@@ -14,7 +14,8 @@ Audio File: 52 the princess knight & phantom knight 2.mkv
 Video File: 52 the princess knight & phantom knight 2.mkv
 Video AR Mode: 4
 Video AR Value: 1.314554
-Active Line: 2
+Scroll Position: 246
+Active Line: 251
 Video Position: 950
 
 [V4+ Styles]
@@ -48,200 +49,234 @@ Dialogue: 0,0:01:25.22,0:01:28.62,Karaoke,,0,0,0,,{\k6}{\k50}Hon{\k43}to {\k33}w
 Dialogue: 0,0:01:25.22,0:01:28.62,OPED_Translation,,0,0,0,,Truly, truly,
 Dialogue: 0,0:01:28.62,0:01:31.82,Karaoke,,0,0,0,,{\k18}{\k23}A{\k23}ta{\k27}shi {\k35}na{\k35}no {\k159}sa{\k0}
 Dialogue: 0,0:01:28.62,0:01:31.82,OPED_Translation,,0,0,0,,It’s really me!
-Dialogue: 0,0:01:44.10,0:01:50.14,Default,,0,0,0,,Fifty-Second Episode\NThe Royal Wedding
-Dialogue: 0,0:01:50.54,0:01:52.34,Default,,0,0,0,,Before starting\Ntoday's episode,
-Dialogue: 0,0:01:52.38,0:01:54.74,Default,,0,0,0,,let's briefly summarize\Nthe previous episodes.
-Dialogue: 0,0:01:54.78,0:01:58.38,Default,,0,0,0,,Grand Duke Duralumin, having become\Nan agent of the powerful Union X,
-Dialogue: 0,0:01:58.42,0:02:00.30,Default,,0,0,0,,pushes his petty ambition..
-Dialogue: 0,0:02:00.34,0:02:03.41,Default,,0,0,0,,..to the point of trying to kill\Nthe King, the Queen, and Sapphire.
-Dialogue: 0,0:02:03.58,0:02:06.46,Default,,0,0,0,,But the schemer\Nwill not succeed in his intent.
-Dialogue: 0,0:02:06.54,0:02:08.45,Default,,0,0,0,,He will die a sudden death,
-Dialogue: 0,0:02:08.50,0:02:11.22,Default,,0,0,0,,due to the betrayal of\Nhis assistant, Baron Nylon,
-Dialogue: 0,0:02:11.26,0:02:13.01,Default,,0,0,0,,who seizes the throne.
-Dialogue: 0,0:02:13.06,0:02:16.18,Default,,0,0,0,,Nylon receives the\NUnion X army in the castle.
-Dialogue: 0,0:02:16.22,0:02:18.89,Default,,0,0,0,,Meanwhile Sapphire is saying goodbye\Nto her parents,
-Dialogue: 0,0:02:18.94,0:02:21.01,Default,,0,0,0,,locked in the room\Nof skeletons,
-Dialogue: 0,0:02:21.06,0:02:23.29,Default,,0,0,0,,and with three spheres of gold,\Nsilver and copper,
-Dialogue: 0,0:02:23.34,0:02:27.02,Default,,0,0,0,,which are believed to have the power to\Nprotect the kingdom of Silverland,
-Dialogue: 0,0:02:27.06,0:02:30.69,Default,,0,0,0,,she flees from the castle\Nand runs towards Goldland,
-Dialogue: 0,0:02:30.74,0:02:33.41,Default,,0,0,0,,to ask for help\Nfrom Prince Franz, but...
-Dialogue: 0,0:02:49.26,0:02:51.86,Default,,0,0,0,,What power will\Nthese three spheres have?
-Dialogue: 0,0:02:52.54,0:02:56.38,Default,,0,0,0,,If you have any power,\Nmagic spheres, help me now!
-Dialogue: 0,0:03:14.42,0:03:16.33,Default,,0,0,0,,Poor Sapphire...!
-Dialogue: 0,0:03:16.54,0:03:20.01,Default,,0,0,0,,Father in heaven,\NI will do anything for you,
-Dialogue: 0,0:03:20.06,0:03:22.29,Default,,0,0,0,,But you, help Sapphire, please!
-Dialogue: 0,0:03:28.46,0:03:31.61,Default,,0,0,0,,Damn it!\NWhat is this sound of bells?
-Dialogue: 0,0:03:34.74,0:03:36.73,Default,,0,0,0,,Enough! Enough!
-Dialogue: 0,0:03:42.10,0:03:44.41,Default,,0,0,0,,Enough! Enough! Enough! Enough! Enough!
-Dialogue: 0,0:03:45.38,0:03:47.53,Default,,0,0,0,,Enough! Enough! Enough!
-Dialogue: 0,0:03:49.42,0:03:51.89,Default,,0,0,0,,You have truly gone mad, Nylon!
-Dialogue: 0,0:03:52.58,0:03:54.49,Default,,0,0,0,,What is it? Speak!
-Dialogue: 0,0:03:54.54,0:03:57.85,Default,,0,0,0,,I have come to tell you about the bells!\NThey are being rung by the people,
-Dialogue: 0,0:03:57.90,0:04:00.42,Default,,0,0,0,,who are lamenting because\Nthe King and Queen are dead.
-Dialogue: 0,0:04:00.62,0:04:03.69,Default,,0,0,0,,What?!\NDestroy all the bells!
-Dialogue: 0,0:04:03.74,0:04:06.18,Default,,0,0,0,,And find Sapphire\Nas soon as possible!
-Dialogue: 0,0:04:06.22,0:04:09.13,Default,,0,0,0,,Whether it be on a mountain,\Nvalley, village... anywhere!
-Dialogue: 0,0:04:09.18,0:04:11.57,Default,,0,0,0,,If it is necessary,\Ndestroy the mountains!
-Dialogue: 0,0:04:11.62,0:04:15.90,Default,,0,0,0,,Destroy all the places where it is\Npossible that Sapphire is hiding!
-Dialogue: 0,0:04:50.90,0:04:53.13,Default,,0,0,0,,Our poor old city!
-Dialogue: 0,0:04:53.30,0:04:55.90,Default,,0,0,0,,Union X has destroyed everything!
-Dialogue: 0,0:04:56.22,0:04:58.66,Default,,0,0,0,,But you see that Sapphire\Nwill defeat them!
-Dialogue: 0,0:05:01.54,0:05:03.85,Default,,0,0,0,,Sapphire has lost\Nher father and mother,
-Dialogue: 0,0:05:03.90,0:05:06.18,Default,,0,0,0,,but she has Prince Frank with her
-Dialogue: 0,0:05:09.90,0:05:14.05,Default,,0,0,0,,Come, there is a surprise!\NBut first blindfold your eyes!
-Dialogue: 0,0:05:38.26,0:05:40.90,Default,,0,0,0,,Check that everything is in order,\Nold owl!
-Dialogue: 0,0:05:42.82,0:05:45.05,Default,,0,0,0,,And you, get ready, fireflies!
-Dialogue: 0,0:05:50.70,0:05:54.09,Default,,0,0,0,,What you are about to see is a gift\Nfor you from your forest friends!
-Dialogue: 0,0:05:54.14,0:05:55.89,Default,,0,0,0,,Take off your blindfolds!
-Dialogue: 0,0:06:02.58,0:06:04.41,Default,,0,0,0,,It’s truly delightful!
-Dialogue: 0,0:06:05.06,0:06:06.81,Default,,0,0,0,,It’s magnificent!
-Dialogue: 0,0:06:32.18,0:06:35.94,Default,,0,0,0,,Sapphire, do you like the gift\Nthat we are giving you from the heart?
-Dialogue: 0,0:06:36.30,0:06:38.82,Default,,0,0,0,,I like it very much!\NYou have been so kind!
-Dialogue: 0,0:06:39.26,0:06:41.25,Default,,0,0,0,,I’m glad you like it!
-Dialogue: 0,0:06:41.30,0:06:44.26,Default,,0,0,0,,But now, keep watching:\Nthere is another gift for you.
-Dialogue: 0,0:06:45.46,0:06:47.02,Default,,0,0,0,,Go!
-Dialogue: 0,0:07:34.22,0:07:35.81,Default,,0,0,0,,Sapphire!
-Dialogue: 0,0:07:42.86,0:07:46.30,Default,,0,0,0,,Forest friends,\NI’m sorry if I wandered away.
-Dialogue: 0,0:07:48.02,0:07:50.22,Default,,0,0,0,,Forgive me,\Nbut I feel so weak!
-Dialogue: 0,0:07:50.26,0:07:53.70,Default,,0,0,0,,I am trying to fight back,\Nbut I always feel a great sadness!
-Dialogue: 0,0:07:58.14,0:08:00.02,Default,,0,0,0,,I always feel like crying.
-Dialogue: 0,0:08:00.06,0:08:02.66,Default,,0,0,0,,How much I would like to see\Nmy father and my mother again..!
-Dialogue: 0,0:08:08.18,0:08:12.25,Default,,0,0,0,,We understand you, Sapphire,\Nand we also suffer so much with you.
-Dialogue: 0,0:08:21.22,0:08:24.29,Default,,0,0,0,,Heavenly Father,\NI will do whatever you want,
-Dialogue: 0,0:08:24.34,0:08:27.09,Default,,0,0,0,,but I beg you,\Ngrant my wish!
-Dialogue: 0,0:08:27.14,0:08:29.02,Default,,0,0,0,,I beg you, heavenly Father!
-Dialogue: 0,0:08:29.06,0:08:31.42,Default,,0,0,0,,Give Sapphire back\Nher father and her mother!
-Dialogue: 0,0:08:31.46,0:08:34.21,Default,,0,0,0,,Bring them back to life for her!\NGrant my wish!
-Dialogue: 0,0:08:34.26,0:08:37.33,Default,,0,0,0,,Please! I won't ask you\Nfor anything else, I promise!
-Dialogue: 0,0:08:49.90,0:08:52.21,Default,,0,0,0,,It's you, Heavenly Father!
-Dialogue: 0,0:08:52.82,0:08:56.10,Default,,0,0,0,,Tink, once you were an angel,
-Dialogue: 0,0:08:56.14,0:08:59.74,Default,,0,0,0,,but your wishes cannot\Nbe easily granted.
-Dialogue: 0,0:09:00.38,0:09:02.58,Default,,0,0,0,,If you wish to help\Nthose you love,
-Dialogue: 0,0:09:02.62,0:09:04.66,Default,,0,0,0,,you will have to sacrifice yourself to help them.
-Dialogue: 0,0:09:05.02,0:09:08.17,Default,,0,0,0,,I will see how many sacrifices\Nyou will have faced for them...
-Dialogue: 0,0:09:08.22,0:09:10.94,Default,,0,0,0,,and I will decide whether to grant\Nyour wish.
-Dialogue: 0,0:09:13.46,0:09:17.17,Default,,0,0,0,,I will work for Sapphire!\NI will do anything for her!
-Dialogue: 0,0:09:26.62,0:09:28.53,Default,,0,0,0,,Oh, so much good stuff! Thank you!
-Dialogue: 0,0:09:28.58,0:09:31.02,Default,,0,0,0,,I'm sure Sapphire will\Nbe very happy about it!
-Dialogue: 0,0:09:31.26,0:09:33.01,Default,,0,0,0,,What?!
-Dialogue: 0,0:09:33.58,0:09:36.02,Default,,0,0,0,,And what are these?\NWho brought them?
-Dialogue: 0,0:09:37.06,0:09:39.62,Default,,0,0,0,,Are you telling me that you\Nfound them, little mouse?
-Dialogue: 0,0:09:39.90,0:09:42.26,Default,,0,0,0,,I'm sorry,\Nbut they aren't edible.
-Dialogue: 0,0:09:42.70,0:09:46.41,Default,,0,0,0,,I've got it! They could serve\Nas a clapper for our bells!
-Dialogue: 0,0:09:46.46,0:09:48.93,Default,,0,0,0,,That way I'll wake up Sapphire!\NOh, Opal!
-Dialogue: 0,0:09:50.70,0:09:54.01,Default,,0,0,0,,I understand, these three spheres\Nare very precious to Sapphire.
-Dialogue: 0,0:09:54.06,0:09:56.13,Default,,0,0,0,,But couldn't you leave\Nthem with me for a while?
-Dialogue: 0,0:09:56.18,0:09:58.49,Default,,0,0,0,,I'll ring the bells\Nand wake up Sapphire!
-Dialogue: 0,0:09:58.54,0:10:01.01,Default,,0,0,0,,I'll be careful not to\Nbreak them, don't worry!
-Dialogue: 0,0:10:01.18,0:10:03.33,Default,,0,0,0,,What do you say, Opal?
-Dialogue: 0,0:10:05.22,0:10:07.21,Default,,0,0,0,,Thank you!
-Dialogue: 0,0:10:11.02,0:10:13.49,Default,,0,0,0,,Ready? Now let's hear how they sound!
-Dialogue: 0,0:10:15.70,0:10:18.09,Default,,0,0,0,,The bells are ringing by themselves!
-Dialogue: 0,0:10:31.74,0:10:34.34,Default,,0,0,0,,Did you hang the spheres\Ninside the bells?
-Dialogue: 0,0:10:34.74,0:10:38.13,Default,,0,0,0,,Is it true that those three spheres\Nhave great magical power?
-Dialogue: 0,0:10:38.18,0:10:40.70,Default,,0,0,0,,Yes! Those three spheres\Nwill protect Silverland,
-Dialogue: 0,0:10:40.74,0:10:42.89,Default,,0,0,0,,the Royal Family and the people!
-Dialogue: 0,0:10:53.54,0:10:56.37,Default,,0,0,0,,- These are the bells!\N- What? - Listen!
-Dialogue: 0,0:11:01.26,0:11:04.22,Default,,0,0,0,,The bells! The bells!
-Dialogue: 0,0:11:08.26,0:11:10.09,Default,,0,0,0,,What is this sound?
-Dialogue: 0,0:11:10.14,0:11:12.50,Default,,0,0,0,,I told you\Nto destroy all the bells!
-Dialogue: 0,0:11:12.54,0:11:14.82,Default,,0,0,0,,Your order\Nhas been carried out, master!
-Dialogue: 0,0:11:15.10,0:11:18.41,Default,,0,0,0,,This sound...\NMy head hurts!
-Dialogue: 0,0:11:18.50,0:11:22.78,Default,,0,0,0,,It's deafening me! Go and destroy\Nthese ringing bells!
-Dialogue: 0,0:11:24.10,0:11:27.65,Default,,0,0,0,,Look! The broken bells\Nare moving!
-Dialogue: 0,0:11:27.82,0:11:29.25,Default,,0,0,0,,Help!
-Dialogue: 0,0:11:43.10,0:11:45.49,Default,,0,0,0,,My arms\Nfeel like fighting!
-Dialogue: 0,0:11:45.54,0:11:48.01,Default,,0,0,0,,I also feel\Nfull of energy again!
-Dialogue: 0,0:11:48.06,0:11:51.50,Default,,0,0,0,,Sapphire, let's fight!\NLet's drive X away! Let's all fight!
-Dialogue: 0,0:11:52.22,0:11:54.69,Default,,0,0,0,,Yes, let's fight!
-Dialogue: 0,0:11:54.74,0:11:57.41,Default,,0,0,0,,The bells are performing\Nthe miracle!
-Dialogue: 0,0:12:05.38,0:12:07.69,Default,,0,0,0,,The magic bells are for us!
-Dialogue: 0,0:12:07.90,0:12:10.57,Default,,0,0,0,,Let's attack the army\Nof Union X!
-Dialogue: 0,0:12:10.94,0:12:13.77,Default,,0,0,0,,- Yes, let's fight!\N- Forward!
-Dialogue: 0,0:12:15.42,0:12:17.14,Default,,0,0,0,,Let's go, Opal!
-Dialogue: 0,0:12:32.02,0:12:35.01,Default,,0,0,0,,Bell, ring louder!
-Dialogue: 0,0:12:46.74,0:12:51.10,Default,,0,0,0,,How stupid they are! They\Nwill never defeat us! Advance!
-Dialogue: 0,0:12:57.94,0:13:00.09,Default,,0,0,0,,Forward, destroy them!
-Dialogue: 0,0:13:27.66,0:13:32.02,Default,,0,0,0,,Hurrah! Hooray! Victory! Hurrah!
-Dialogue: 0,0:13:46.54,0:13:48.34,Default,,0,0,0,,Damn it!
-Dialogue: 0,0:13:59.26,0:14:01.17,Default,,0,0,0,,It serves you right!
-Dialogue: 0,0:14:11.62,0:14:15.82,Default,,0,0,0,,- Tink!\N- Sapphire, the spheres are safe!
-Dialogue: 0,0:14:18.58,0:14:21.41,Default,,0,0,0,,Help! Let's take shelter!
-Dialogue: 0,0:14:35.54,0:14:38.14,Default,,0,0,0,,Damn it!\NWe've locked ourselves in here!
-Dialogue: 0,0:14:38.22,0:14:41.02,Default,,0,0,0,,It's over for us!
-Dialogue: 0,0:14:41.06,0:14:43.81,Default,,0,0,0,,Don't worry! I know\Nthe way out of this cave.
-Dialogue: 0,0:14:43.86,0:14:46.09,Default,,0,0,0,,We will come out near the castle.
-Dialogue: 0,0:14:46.18,0:14:49.46,Default,,0,0,0,,But this is a stroke of luck!\NI could get into the castle...
-Dialogue: 0,0:14:49.50,0:14:52.81,Default,,0,0,0,,...and try to kill X!\NPlease, look for a weapon!
-Dialogue: 0,0:14:52.86,0:14:56.46,Default,,0,0,0,,All we need is a weapon, that\Nway we can retake the castle!
-Dialogue: 0,0:14:56.50,0:14:58.89,Default,,0,0,0,,I've got it: let's build it\Nwith the three spheres!
-Dialogue: 0,0:14:58.94,0:15:02.22,Default,,0,0,0,,Right! Right! We are the\Nbest blacksmiths in the world!
-Dialogue: 0,0:15:02.26,0:15:04.62,Default,,0,0,0,,Yes, it's true! It seems\Nlike a good idea to me!
-Dialogue: 0,0:15:04.66,0:15:07.73,Default,,0,0,0,,Tink is the one who has the three\Nspheres. But where is he? Tink! Tink!
-Dialogue: 0,0:15:08.14,0:15:11.10,Default,,0,0,0,,- Tink! Tink!\N- Tink, where are you? Tink!
-Dialogue: 0,0:15:12.50,0:15:14.73,Default,,0,0,0,,Tink!
-Dialogue: 0,0:15:18.50,0:15:20.49,Default,,0,0,0,,What hard work!
-Dialogue: 0,0:15:20.54,0:15:23.10,Default,,0,0,0,,Goodness, they are so hard!
-Dialogue: 0,0:15:25.86,0:15:28.33,Default,,0,0,0,,Tink! We were\Nlooking for you! Let's go!
-Dialogue: 0,0:15:29.10,0:15:30.61,Default,,0,0,0,,Tink!
-Dialogue: 0,0:15:33.18,0:15:38.21,Default,,0,0,0,,I was just trying to build a\Nweapon with these three spheres.
-Dialogue: 0,0:15:38.30,0:15:40.50,Default,,0,0,0,,Thank you for the thought, Tink.
-Dialogue: 0,0:15:40.54,0:15:43.37,Default,,0,0,0,,Now we will show you what\Ngreat blacksmiths we are.
-Dialogue: 0,0:15:43.42,0:15:45.01,Default,,0,0,0,,You'll see!
-Dialogue: 0,0:16:02.86,0:16:04.90,Default,,0,0,0,,How marvelous!
-Dialogue: 0,0:16:08.02,0:16:10.90,Default,,0,0,0,,- It looks like a magic weapon!\N- Here you go, Tink!
-Dialogue: 0,0:16:10.94,0:16:13.38,Default,,0,0,0,,- What is it? A trumpet?!\N- That trumpet must have...
-Dialogue: 0,0:16:13.42,0:16:15.25,Default,,0,0,0,,...the same power as the bells!
-Dialogue: 0,0:16:15.30,0:16:17.37,Default,,0,0,0,,We made it with\Nthe leftover gold!
-Dialogue: 0,0:16:21.30,0:16:24.50,Default,,0,0,0,,- Wait here, please!\N- Sapphire!
-Dialogue: 0,0:16:29.46,0:16:31.77,Default,,0,0,0,,Stand back! I'll\Ntake care of them!
-Dialogue: 0,0:16:32.42,0:16:34.33,Default,,0,0,0,,Wait, Franz!
-Dialogue: 0,0:16:41.82,0:16:43.41,Default,,0,0,0,,Sapphire!
-Dialogue: 0,0:16:49.66,0:16:52.02,Default,,0,0,0,,A knight is approaching!\NIt's Sapphire!
-Dialogue: 0,0:16:52.30,0:16:54.02,Default,,0,0,0,,Fire!
-Dialogue: 0,0:17:04.42,0:17:05.90,Default,,0,0,0,,Sapphire!
-Dialogue: 0,0:17:08.46,0:17:10.26,Default,,0,0,0,,Watch out!
-Dialogue: 0,0:17:10.30,0:17:13.34,Default,,0,0,0,,- Thank you, Franz!\N- Throw the magic axe, Sapphire!
-Dialogue: 0,0:17:36.50,0:17:38.62,Default,,0,0,0,,It's the magic power of the spheres!
-Dialogue: 0,0:17:38.66,0:17:41.49,Default,,0,0,0,,Now is the time to attack\Nthe army of Union X!
-Dialogue: 0,0:17:41.54,0:17:43.82,Default,,0,0,0,,Here we go! Go, Sapphire!
-Dialogue: 0,0:17:51.10,0:17:53.17,Default,,0,0,0,,Cursed Sapphire!
-Dialogue: 0,0:18:09.82,0:18:13.45,Default,,0,0,0,,- Sapphire! - Now I can avenge\Nmy parents!
-Dialogue: 0,0:18:37.10,0:18:38.66,Default,,0,0,0,,Sapphire!
-Dialogue: 0,0:18:51.34,0:18:55.38,Default,,0,0,0,,Father in heaven, don't let Sapphire die!\NPlease, help her!
-Dialogue: 0,0:19:01.46,0:19:03.61,Default,,0,0,0,,X is dead, Sapphire!
-Dialogue: 0,0:19:31.18,0:19:32.66,Default,,0,0,0,,Watch out!
-Dialogue: 0,0:19:35.46,0:19:37.21,Default,,0,0,0,,Tink!
-Dialogue: 0,0:19:40.10,0:19:42.41,Default,,0,0,0,,Long live the great X!
-Dialogue: 0,0:19:51.54,0:19:53.42,Default,,0,0,0,,Tink! Tink!
-Dialogue: 0,0:19:57.50,0:20:02.73,Default,,0,0,0,,Tink! Tink..! Don't die!\NPlease, don't die!
-Dialogue: 0,0:20:04.26,0:20:06.70,Default,,0,0,0,,Sapphire, it's time to say goodbye.
-Dialogue: 0,0:20:06.74,0:20:10.45,Default,,0,0,0,,The Father in heaven is calling me,\Nso now I must go.
-Dialogue: 0,0:20:10.50,0:20:13.02,Default,,0,0,0,,I won't let you go!\NYou will stay with me!
-Dialogue: 0,0:20:13.06,0:20:16.02,Default,,0,0,0,,Father in heaven, I have done\Neverything to help Sapphire.
-Dialogue: 0,0:20:16.06,0:20:18.34,Default,,0,0,0,,Will you grant\Nmy wish now?
-Dialogue: 0,0:20:19.14,0:20:21.21,Default,,0,0,0,,Alright, Tink.
-Dialogue: 0,0:20:21.62,0:20:24.09,Default,,0,0,0,,I will grant your wish.
-Dialogue: 0,0:20:24.38,0:20:27.69,Default,,0,0,0,,I will send Sapphire's father and mother\Nto Earth.
-Dialogue: 0,0:20:28.02,0:20:30.25,Default,,0,0,0,,...and I will send them in your place,
-Dialogue: 0,0:20:30.30,0:20:33.13,Default,,0,0,0,,while you will return to heaven,\Nbeside me.
-Dialogue: 0,0:20:36.70,0:20:39.01,Default,,0,0,0,,Heavenly Father, thank you.
-Dialogue: 0,0:21:22.02,0:21:23.82,Default,,0,0,0,,Mom! Dad!
-Dialogue: 0,0:21:23.86,0:21:26.01,Default,,0,0,0,,- Sapphire!\N- My daughter!
-Dialogue: 0,0:21:26.06,0:21:28.21,Default,,0,0,0,,Mom! Dad!
-Dialogue: 0,0:22:12.54,0:22:14.42,Default,,0,0,0,,I am an angel once again.
-Dialogue: 0,0:22:14.46,0:22:16.90,Default,,0,0,0,,On Earth, since then,\Nmany years have passed.
-Dialogue: 0,0:22:16.94,0:22:19.85,Default,,0,0,0,,I imagine that you, now,\Nwill want to know what became...
-Dialogue: 0,0:22:19.90,0:22:23.74,Default,,0,0,0,,...of the kingdom of Silverland,\Nof Sapphire and Franz, isn't that right?
-Dialogue: 0,0:22:24.10,0:22:27.41,Default,,0,0,0,,Let's see! Silverland has\Nregained its former beauty...
-Dialogue: 0,0:22:27.46,0:22:29.50,Default,,0,0,0,,...and everyone leads a happy life.
-Dialogue: 0,0:22:55.62,0:22:58.14,Default,,0,0,0,,So, Sapphire,\Nare you ready to go out?
-Dialogue: 0,0:23:03.42,0:23:06.78,Default,,0,0,0,,Yes!\NI'm more than ready!
-Dialogue: 0,0:23:14.50,0:23:17.14,Default,,0,0,0,,I see that Sapphire and\NFranz will marry soon.
-Dialogue: 0,0:23:17.30,0:23:19.45,Default,,0,0,0,,I'm sure they will be\Na beautiful couple!
-Dialogue: 0,0:23:19.50,0:23:21.65,Default,,0,0,0,,They will live happily all their lives!
-Dialogue: 0,0:23:22.14,0:23:24.42,Default,,0,0,0,,I will ask the Heavenly\NFather to be able to attend...
-Dialogue: 0,0:23:24.46,0:23:26.53,Default,,0,0,0,,...their wedding.
+Dialogue: 0,0:01:44.10,0:01:50.14,Default,,0,0,0,,Fifty-Second Episode\NThe Royal Wedding\NSilverland Happiness
+Dialogue: 0,0:01:50.75,0:01:52.67,Default,,0,0,0,,{\i1}Now, before we begin today's story,{\i0}
+Dialogue: 0,0:01:52.69,0:01:54.56,Default,,0,0,0,,{\i1}let me refresh your memory on what happened last time.{\i0}
+Dialogue: 0,0:01:55.07,0:01:57.47,Default,,0,0,0,,{\i1}Duralumin, a pawn of the X-Union,{\i0}
+Dialogue: 0,0:01:57.49,0:01:59.76,Default,,0,0,0,,{\i1}finally revealed his traitorous nature and{\i0}
+Dialogue: 0,0:01:59.79,0:02:02.70,Default,,0,0,0,,{\i1}tried to kill the King, Queen, and Sapphire.{\i0}
+Dialogue: 0,0:02:03.26,0:02:05.51,Default,,0,0,0,,{\i1}However, betrayed by Nylon,{\i0}
+Dialogue: 0,0:02:05.53,0:02:09.14,Default,,0,0,0,,{\i1}Duralumin met a swift end, and the crown fell into Nylon's hands.{\i0}
+Dialogue: 0,0:02:09.66,0:02:13.70,Default,,0,0,0,,{\i1}As the king of Silverland, Nylon welcomed X-Union into the castle.{\i0}
+Dialogue: 0,0:02:14.11,0:02:17.52,Default,,0,0,0,,{\i1}Meanwhile, Sapphire bade farewell to her parents in the Skull Chamber{\i0}
+Dialogue: 0,0:02:17.55,0:02:21.11,Default,,0,0,0,,{\i1}and escaped the castle with three orbs—gold, silver, and bronze—{\i0}
+Dialogue: 0,0:02:21.13,0:02:23.02,Default,,0,0,0,,{\i1}believed to hold the power to protect the kingdom.{\i0}
+Dialogue: 0,0:02:23.63,0:02:25.88,Default,,0,0,0,,{\i1}She ran to seek help from Prince Franz.{\i0}
+Dialogue: 0,0:02:25.90,0:02:26.69,Default,,0,0,0,,{\i1}However,{\i0}
+Dialogue: 0,0:02:27.90,0:02:32.90,Default,,0,0,0,,{\i1}the King and Queen were executed on Skull Island by the X-Union.{\i0}
+Dialogue: 0,0:02:50.71,0:02:51.86,Default,,0,0,0,,Three orbs...
+Dialogue: 0,0:02:51.89,0:02:54.14,Default,,0,0,0,,What power do you truly hold?
+Dialogue: 0,0:02:54.66,0:02:57.74,Default,,0,0,0,,If you really have power, please help Sapphire now!
+Dialogue: 0,0:03:13.82,0:03:15.32,Default,,0,0,0,,Poor Sapphire...
+Dialogue: 0,0:03:16.14,0:03:18.94,Default,,0,0,0,,Heavenly Father, I'll do anything.
+Dialogue: 0,0:03:19.36,0:03:22.20,Default,,0,0,0,,So please, make Sapphire happy.
+Dialogue: 0,0:03:31.15,0:03:32.82,Default,,0,0,0,,What's that sound of bells?
+Dialogue: 0,0:03:35.12,0:03:36.47,Default,,0,0,0,,Please stop!
+Dialogue: 0,0:03:37.54,0:03:38.50,Default,,0,0,0,,Stop it!
+Dialogue: 0,0:03:38.62,0:03:40.15,Default,,0,0,0,,Please stop!
+Dialogue: 0,0:03:42.56,0:03:44.29,Default,,0,0,0,,Please stop!
+Dialogue: 0,0:03:45.64,0:03:47.62,Default,,0,0,0,,Stop! Stop it! Please stop!
+Dialogue: 0,0:03:49.75,0:03:51.32,Default,,0,0,0,,Have you lost your mind, Nylon?
+Dialogue: 0,0:03:52.62,0:03:53.38,Default,,0,0,0,,What's wrong?
+Dialogue: 0,0:03:54.70,0:03:56.36,Default,,0,0,0,,I've learned the truth about those bells.
+Dialogue: 0,0:03:56.64,0:04:00.16,Default,,0,0,0,,The people are ringing them to mourn the executed King and Queen.
+Dialogue: 0,0:04:01.00,0:04:02.22,Default,,0,0,0,,What!?
+Dialogue: 0,0:04:02.27,0:04:06.20,Default,,0,0,0,,Destroy every bell in the kingdom! And capture Sapphire immediately!
+Dialogue: 0,0:04:06.67,0:04:09.02,Default,,0,0,0,,Find her, no matter where she hides!
+Dialogue: 0,0:04:09.16,0:04:10.84,Default,,0,0,0,,Tear down mountains if you must!
+Dialogue: 0,0:04:11.49,0:04:15.04,Default,,0,0,0,,Destroy every possible place Sapphire could be hiding!
+Dialogue: 0,0:04:50.79,0:04:53.65,Default,,0,0,0,,We can't even hear the bells anymore...
+Dialogue: 0,0:04:53.68,0:04:55.96,Default,,0,0,0,,and we've got no food or place to live.
+Dialogue: 0,0:04:56.11,0:04:58.62,Default,,0,0,0,,Where on earth did Princess Sapphire go?
+Dialogue: 0,0:04:59.49,0:05:02.64,Default,,0,0,0,,The King and Queen have gone to heaven, too.
+Dialogue: 0,0:05:03.05,0:05:06.64,Default,,0,0,0,,But Sapphire is fine, so I'm relieved.
+Dialogue: 0,0:05:07.86,0:05:09.04,Default,,0,0,0,,Is it ready yet, Tink?
+Dialogue: 0,0:05:09.64,0:05:10.87,Default,,0,0,0,,Not yet, not yet!
+Dialogue: 0,0:05:38.66,0:05:40.78,Default,,0,0,0,,Kuro no Ojisan is on lookout duty!
+Dialogue: 0,0:05:42.95,0:05:45.11,Default,,0,0,0,,Alright, Hotoru-kun, I'm counting on you!
+Dialogue: 0,0:05:51.18,0:05:51.77,Default,,0,0,0,,Ahem!
+Dialogue: 0,0:05:51.79,0:05:54.58,Default,,0,0,0,,Here's a gift for the two of you from our forest friends!
+Dialogue: 0,0:05:54.61,0:05:55.31,Default,,0,0,0,,Here you go!
+Dialogue: 0,0:06:02.81,0:06:04.21,Default,,0,0,0,,How beautiful!
+Dialogue: 0,0:06:04.57,0:06:05.53,Default,,0,0,0,,It's lovely!
+Dialogue: 0,0:06:32.10,0:06:32.87,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:06:32.89,0:06:35.57,Default,,0,0,0,,Do you like our present?
+Dialogue: 0,0:06:36.48,0:06:37.63,Default,,0,0,0,,Thank you, Tink!
+Dialogue: 0,0:06:37.65,0:06:38.72,Default,,0,0,0,,It's wonderful!
+Dialogue: 0,0:06:38.94,0:06:39.64,Default,,0,0,0,,See?
+Dialogue: 0,0:06:39.66,0:06:41.29,Default,,0,0,0,,I'm so glad you like it!
+Dialogue: 0,0:06:41.87,0:06:44.54,Default,,0,0,0,,In that case, here's a little bonus!
+Dialogue: 0,0:06:45.40,0:06:46.40,Default,,0,0,0,,Hit it!
+Dialogue: 0,0:07:33.54,0:07:34.54,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:07:43.41,0:07:44.91,Default,,0,0,0,,I'm sorry, Tink.
+Dialogue: 0,0:07:44.93,0:07:46.38,Default,,0,0,0,,Crying at a time like this...
+Dialogue: 0,0:07:48.03,0:07:49.81,Default,,0,0,0,,Sapphire really is a coward.
+Dialogue: 0,0:07:49.83,0:07:53.48,Default,,0,0,0,,No matter how hard I try to be brave, I'm still so sad.
+Dialogue: 0,0:07:58.39,0:08:02.46,Default,,0,0,0,,I just want to see my mother and father... one more time.
+Dialogue: 0,0:08:08.36,0:08:09.42,Default,,0,0,0,,So that's what happened.
+Dialogue: 0,0:08:09.97,0:08:11.92,Default,,0,0,0,,Sapphire was enduring it all this time.
+Dialogue: 0,0:08:21.40,0:08:25.06,Default,,0,0,0,,Heavenly Father, I'll endure whatever painful trials come my way.
+Dialogue: 0,0:08:25.71,0:08:28.20,Default,,0,0,0,,So please grant my prayer.
+Dialogue: 0,0:08:29.07,0:08:31.34,Default,,0,0,0,,Give Sapphire her mother and father back.
+Dialogue: 0,0:08:32.02,0:08:33.72,Default,,0,0,0,,Please bring them back to life.
+Dialogue: 0,0:08:34.27,0:08:36.47,Default,,0,0,0,, I beg you, hear my wish.
+Dialogue: 0,0:08:50.55,0:08:51.89,Default,,0,0,0,,Heavenly Father!
+Dialogue: 0,0:08:52.45,0:08:53.09,Default,,0,0,0,,{\i1}Tink,{\i0}
+Dialogue: 0,0:08:53.11,0:08:55.55,Default,,0,0,0,,{\i1} as a former angel,{\i0}
+Dialogue: 0,0:08:55.57,0:08:59.56,Default,,0,0,0,,{\i1}you know wishes aren't granted simply by speaking them.{\i0}
+Dialogue: 0,0:09:00.38,0:09:02.28,Default,,0,0,0,,{\i1}If you wish to save those you love,{\i0}
+Dialogue: 0,0:09:02.31,0:09:06.32,Default,,0,0,0,,{\i1}work for them with all your strength and all your heart.{\i0}
+Dialogue: 0,0:09:07.31,0:09:08.76,Default,,0,0,0,,{\i1}I shall watch over you from here.{\i0}
+Dialogue: 0,0:09:09.59,0:09:13.88,Default,,0,0,0,,{\i1}Whether your wish is granted depends entirely on your efforts.{\i0}
+Dialogue: 0,0:09:14.40,0:09:15.76,Default,,0,0,0,,I'll do it!
+Dialogue: 0,0:09:16.29,0:09:19.34,Default,,0,0,0,,For Sapphire's sake, I'll do anything, no matter how hard!
+Dialogue: 0,0:09:26.63,0:09:27.91,Default,,0,0,0,,Wow, incredible!
+Dialogue: 0,0:09:27.93,0:09:29.02,Default,,0,0,0,,Thanks so much.
+Dialogue: 0,0:09:29.04,0:09:30.51,Default,,0,0,0,,Sapphire will be so happy.
+Dialogue: 0,0:09:33.68,0:09:35.43,Default,,0,0,0,,Who brought this?
+Dialogue: 0,0:09:37.28,0:09:39.00,Default,,0,0,0,,The little mouse brought it.
+Dialogue: 0,0:09:39.66,0:09:41.32,Default,,0,0,0,,But you can't eat this.
+Dialogue: 0,0:09:41.98,0:09:42.98,Default,,0,0,0,,Oh, I know!
+Dialogue: 0,0:09:43.20,0:09:44.68,Default,,0,0,0,,We can ring the bell with this!
+Dialogue: 0,0:09:44.91,0:09:47.06,Default,,0,0,0,,I'll ring the bell to wake Sapphire up.
+Dialogue: 0,0:09:48.12,0:09:49.05,Default,,0,0,0,,Opal!
+Dialogue: 0,0:09:50.62,0:09:54.06,Default,,0,0,0,,Sapphire kept those three orbs put away so carefully!
+Dialogue: 0,0:09:54.91,0:09:57.00,Default,,0,0,0,,But can't you give it back to me just for a moment?
+Dialogue: 0,0:09:57.92,0:10:01.10,Default,,0,0,0,,I want to ring the bell with it and wake Sapphire up.
+Dialogue: 0,0:10:02.20,0:10:04.03,Default,,0,0,0,,I'll be careful not to break it.
+Dialogue: 0,0:10:05.14,0:10:06.90,Default,,0,0,0,,Thank you!
+Dialogue: 0,0:10:11.15,0:10:13.08,Default,,0,0,0,,Okay, I'm gonna ring it!
+Dialogue: 0,0:10:31.21,0:10:32.70,Default,,0,0,0,,It started ringing all by itself!
+Dialogue: 0,0:10:32.83,0:10:34.32,Default,,0,0,0,,You attached the three jewels.
+Dialogue: 0,0:10:34.73,0:10:37.41,Default,,0,0,0,,Those three jewels really do have a mysterious power.
+Dialogue: 0,0:10:37.43,0:10:42.50,Default,,0,0,0,,Legend says they protect the people, the royal family, and Silverland.
+Dialogue: 0,0:10:53.45,0:10:54.56,Default,,0,0,0,,Wow, it's a bell!
+Dialogue: 0,0:11:07.25,0:11:08.04,Default,,0,0,0,,What happened?
+Dialogue: 0,0:11:08.50,0:11:10.80,Default,,0,0,0,,I thought I told you to demolish all the bells!
+Dialogue: 0,0:11:10.87,0:11:13.11,Default,,0,0,0,,Well, sir... the cause is completely unknown.
+Dialogue: 0,0:11:19.15,0:11:19.78,Default,,0,0,0,,Shut up!
+Dialogue: 0,0:11:19.81,0:11:21.85,Default,,0,0,0,,Stop hesitating and smash it!
+Dialogue: 0,0:11:40.10,0:11:42.14,Default,,0,0,0,,What a wonderful thing!
+Dialogue: 0,0:11:43.12,0:11:45.12,Default,,0,0,0,,My arms are itching for action!
+Dialogue: 0,0:11:45.52,0:11:47.54,Default,,0,0,0,,I'm not gonna just stand around sulking either!
+Dialogue: 0,0:11:47.84,0:11:49.35,Default,,0,0,0,,Sapphire, it's time to fight!
+Dialogue: 0,0:11:49.38,0:11:51.94,Default,,0,0,0,,We're driving X out of Silverland!
+Dialogue: 0,0:11:54.89,0:11:56.62,Default,,0,0,0,,Thank you, everyone!
+Dialogue: 0,0:11:57.84,0:11:58.96,Default,,0,0,0,,It's X!
+Dialogue: 0,0:12:05.60,0:12:07.46,Default,,0,0,0,,I've been waiting for you, X!
+Dialogue: 0,0:12:07.56,0:12:09.55,Default,,0,0,0,,We've got our mysterious friend on our side!
+Dialogue: 0,0:12:09.57,0:12:10.76,Default,,0,0,0,,Lets go, guys!
+Dialogue: 0,0:12:13.48,0:12:14.92,Default,,0,0,0,, Opal, we're counting on you!
+Dialogue: 0,0:12:16.16,0:12:17.06,Default,,0,0,0,,Lets go!
+Dialogue: 0,0:12:31.91,0:12:33.20,Default,,0,0,0,,Big brothers!
+Dialogue: 0,0:12:33.22,0:12:36.70,Default,,0,0,0,, Ring louder and louder!
+Dialogue: 0,0:12:46.68,0:12:50.06,Default,,0,0,0,,Fools! Did you think you could defeat the X Army?!
+Dialogue: 0,0:12:50.27,0:12:51.27,Default,,0,0,0,,Advance!
+Dialogue: 0,0:12:58.19,0:12:59.74,Default,,0,0,0,,Trample them!
+Dialogue: 0,0:13:43.16,0:13:44.79,Default,,0,0,0,,What a powerful force!
+Dialogue: 0,0:13:45.56,0:13:46.25,Default,,0,0,0,,Oh no!
+Dialogue: 0,0:13:59.50,0:14:00.50,Default,,0,0,0,,Serves you right!
+Dialogue: 0,0:14:11.11,0:14:12.00,Default,,0,0,0,,Tink!
+Dialogue: 0,0:14:13.63,0:14:14.99,Default,,0,0,0,,Got 'em! They're safe!
+Dialogue: 0,0:14:19.14,0:14:20.14,Default,,0,0,0,,Hey, in here!
+Dialogue: 0,0:14:20.16,0:14:21.90,Default,,0,0,0,,We're saved! We made it!
+Dialogue: 0,0:14:35.65,0:14:37.46,Default,,0,0,0,,Damn it! We're trapped!
+Dialogue: 0,0:14:39.61,0:14:41.07,Default,,0,0,0,,Are we going to miss dinner?!
+Dialogue: 0,0:14:41.29,0:14:43.78,Default,,0,0,0,,Look, I know the exit to this cave.
+Dialogue: 0,0:14:43.80,0:14:46.00,Default,,0,0,0,,It comes out right next to the castle.
+Dialogue: 0,0:14:46.28,0:14:47.28,Default,,0,0,0,,I see.
+Dialogue: 0,0:14:48.32,0:14:48.91,Default,,0,0,0,,Alright!
+Dialogue: 0,0:14:49.42,0:14:50.16,Default,,0,0,0,,Hurry!
+Dialogue: 0,0:14:50.19,0:14:53.82,Default,,0,0,0,,Someone, find me a\Nweapon—anything will do!
+Dialogue: 0,0:14:53.84,0:14:56.36,Default,,0,0,0,,I'm going to take it\Nand storm the castle!
+Dialogue: 0,0:14:56.71,0:14:59.32,Default,,0,0,0,,That's it! We can make them using the three orbs.
+Dialogue: 0,0:14:59.42,0:15:00.27,Default,,0,0,0,,That's right!
+Dialogue: 0,0:15:00.38,0:15:02.74,Default,,0,0,0,,We're the top woodworkers in the world!
+Dialogue: 0,0:15:02.76,0:15:03.99,Default,,0,0,0,, I see. Thank you!
+Dialogue: 0,0:15:04.56,0:15:06.39,Default,,0,0,0,,Tink should have those three orbs!
+Dialogue: 0,0:15:06.41,0:15:07.25,Default,,0,0,0,,Where is he?
+Dialogue: 0,0:15:07.75,0:15:09.97,Default,,0,0,0,,Tink!
+Dialogue: 0,0:15:10.00,0:15:11.97,Default,,0,0,0,,Where are you?
+Dialogue: 0,0:15:12.00,0:15:13.32,Default,,0,0,0,,Tink!
+Dialogue: 0,0:15:16.94,0:15:18.50,Default,,0,0,0,,It's so hard...
+Dialogue: 0,0:15:23.17,0:15:25.55,Default,,0,0,0,,It's no use...
+Dialogue: 0,0:15:25.72,0:15:27.08,Default,,0,0,0,,Tink! There you are!
+Dialogue: 0,0:15:27.66,0:15:28.71,Default,,0,0,0,,Tink, hang in there.
+Dialogue: 0,0:15:29.22,0:15:29.90,Default,,0,0,0,,Tink!
+Dialogue: 0,0:15:33.88,0:15:34.68,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:15:34.72,0:15:38.44,Default,,0,0,0,,I was making a weapon with the orbs to protect Sapphire.
+Dialogue: 0,0:15:38.47,0:15:39.61,Default,,0,0,0,,Thank you, Tink.
+Dialogue: 0,0:15:40.23,0:15:43.42,Default,,0,0,0,,Now then, time to show of our skills as blacksmiths!
+Dialogue: 0,0:15:43.52,0:15:44.40,Default,,0,0,0,,Alright!
+Dialogue: 0,0:16:03.29,0:16:04.44,Default,,0,0,0,,It's done!
+Dialogue: 0,0:16:07.89,0:16:09.50,Default,,0,0,0,,This power is incredible!
+Dialogue: 0,0:16:09.58,0:16:10.51,Default,,0,0,0,,Tink, look.
+Dialogue: 0,0:16:10.62,0:16:11.31,Default,,0,0,0,,What's that!
+Dialogue: 0,0:16:11.40,0:16:12.99,Default,,0,0,0,,We made it from the leftover metal!
+Dialogue: 0,0:16:13.01,0:16:15.79,Default,,0,0,0,,I'm sure this horn has the same power as those metal orbs.
+Dialogue: 0,0:16:15.82,0:16:17.70,Default,,0,0,0,,Blow it for us!
+Dialogue: 0,0:16:17.72,0:16:18.26,Default,,0,0,0,,Okay.
+Dialogue: 0,0:16:21.26,0:16:22.99,Default,,0,0,0,,Everyone, please wait here.
+Dialogue: 0,0:16:23.68,0:16:24.68,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:16:29.53,0:16:30.72,Default,,0,0,0,,Girls stay back!
+Dialogue: 0,0:16:30.89,0:16:32.18,Default,,0,0,0,,Leave this to me!
+Dialogue: 0,0:16:32.56,0:16:33.56,Default,,0,0,0,,Franz?
+Dialogue: 0,0:16:36.44,0:16:37.87,Default,,0,0,0,,Hyah!
+Dialogue: 0,0:16:41.41,0:16:42.08,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:16:42.99,0:16:44.03,Default,,0,0,0,,Forgive me, Franz!
+Dialogue: 0,0:16:44.47,0:16:47.64,Default,,0,0,0,,I can't let you put yourself in danger!
+Dialogue: 0,0:16:49.56,0:16:50.98,Default,,0,0,0,,That's Sapphire! Fire!
+Dialogue: 0,0:17:04.81,0:17:05.84,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:17:07.97,0:17:08.98,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:17:10.57,0:17:11.21,Default,,0,0,0,,Franz!
+Dialogue: 0,0:17:11.23,0:17:13.12,Default,,0,0,0,,I'm fine! Quick, run!
+Dialogue: 0,0:17:36.91,0:17:38.48,Default,,0,0,0,,It's the mysterious power of the Royal Orb!
+Dialogue: 0,0:17:38.74,0:17:41.32,Default,,0,0,0,,Sapphire! Now is the time to crush X!
+Dialogue: 0,0:17:41.63,0:17:43.54,Default,,0,0,0,,Yay! We did it! We did it!
+Dialogue: 0,0:17:51.78,0:17:53.48,Default,,0,0,0,,Curse you, Sapphire...
+Dialogue: 0,0:18:09.78,0:18:10.78,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:18:13.55,0:18:14.41,Default,,0,0,0,,X!
+Dialogue: 0,0:18:14.43,0:18:15.92,Default,,0,0,0,,Now is the time of your demise!
+Dialogue: 0,0:18:16.40,0:18:17.92,Default,,0,0,0,,So you are Sapphire?
+Dialogue: 0,0:18:36.92,0:18:37.92,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:18:38.01,0:18:40.01,Default,,0,0,0,,
+Dialogue: 0,0:18:51.39,0:18:54.74,Default,,0,0,0,,Heavenly Father! Please save Sapphire!
+Dialogue: 0,0:19:01.75,0:19:02.98,Default,,0,0,0,,We did it, Sapphire!
+Dialogue: 0,0:19:31.02,0:19:32.02,Default,,0,0,0,,Watch out!
+Dialogue: 0,0:19:35.66,0:19:36.36,Default,,0,0,0,,Tink!
+Dialogue: 0,0:19:39.86,0:19:41.94,Default,,0,0,0,,It's the end of Nylon!
+Dialogue: 0,0:19:51.66,0:19:53.04,Default,,0,0,0,,Tink! Tink!
+Dialogue: 0,0:19:58.55,0:19:59.23,Default,,0,0,0,,Tink!
+Dialogue: 0,0:19:59.38,0:20:00.19,Default,,0,0,0,,Tink!
+Dialogue: 0,0:20:00.75,0:20:01.64,Default,,0,0,0,,Don't die!
+Dialogue: 0,0:20:01.98,0:20:02.84,Default,,0,0,0,,You can't die!
+Dialogue: 0,0:20:04.28,0:20:07.10,Default,,0,0,0,,Sapphire, it's time for us to say goodbye.
+Dialogue: 0,0:20:07.16,0:20:08.85,Default,,0,0,0,,Father in Heaven is calling me.
+Dialogue: 0,0:20:08.87,0:20:10.27,Default,,0,0,0,, I have to go back.
+Dialogue: 0,0:20:10.29,0:20:12.70,Default,,0,0,0,,No! I don't want to say goodbye, Tink!
+Dialogue: 0,0:20:13.73,0:20:14.89,Default,,0,0,0,,Father in Heaven,
+Dialogue: 0,0:20:14.92,0:20:17.06,Default,,0,0,0,,I did my best for Sapphire.
+Dialogue: 0,0:20:17.65,0:20:20.01,Default,,0,0,0,,Will you grant my wish?
+Dialogue: 0,0:20:21.63,0:20:22.59,Default,,0,0,0,,{\i1}Very well, Tink.{\i0}
+Dialogue: 0,0:20:23.27,0:20:24.90,Default,,0,0,0,,{\i1}I shall grant your wish.{\i0}
+Dialogue: 0,0:20:25.84,0:20:28.86,Default,,0,0,0,,I will send Sapphire's father and mother back to her.
+Dialogue: 0,0:20:29.66,0:20:35.28,Default,,0,0,0,,And I will take away the boy's heart that you wrongfully gave to Sapphire.
+Dialogue: 0,0:20:36.69,0:20:38.37,Default,,0,0,0,,Thank you, Father.
+Dialogue: 0,0:21:21.33,0:21:22.33,Default,,0,0,0,,Mother!
+Dialogue: 0,0:21:22.38,0:21:23.52,Default,,0,0,0,,Father!
+Dialogue: 0,0:21:23.54,0:21:24.24,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:21:24.30,0:21:25.30,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:21:25.79,0:21:27.34,Default,,0,0,0,,Mother!
+Dialogue: 0,0:22:12.90,0:22:15.36,Default,,0,0,0,,I'm Tink, back to being an angel!
+Dialogue: 0,0:22:15.70,0:22:18.08,Default,,0,0,0,,What became of Silverland after that?
+Dialogue: 0,0:22:18.59,0:22:20.60,Default,,0,0,0,,What happened to Sapphire and Franz?
+Dialogue: 0,0:22:21.15,0:22:22.83,Default,,0,0,0,,You all want to know, don't you?
+Dialogue: 0,0:22:24.28,0:22:28.04,Default,,0,0,0,,Silverland has returned to the beautiful kingdom it once was.
+Dialogue: 0,0:22:55.86,0:22:57.56,Default,,0,0,0,,Did you get the plan ready for tonight?
+Dialogue: 0,0:23:05.57,0:23:07.20,Default,,0,0,0,,Sorry to keep you waiting!
+Dialogue: 0,0:23:14.24,0:23:17.74,Default,,0,0,0,,They say Sapphire and Franz are getting married soon.
+Dialogue: 0,0:23:18.54,0:23:21.92,Default,,0,0,0,,I'm sure they'll make a wonderfully happy couple.
+Dialogue: 0,0:23:22.64,0:23:25.76,Default,,0,0,0,,And I'll be attending the wedding when they do!
 Dialogue: 0,0:24:27.02,0:24:30.66,Karaoke,,0,0,0,,{\k29}{\k22}Ta{\k18}ra{\k16}ri {\k18}Ra{\k20}tta {\k23}Ri{\k19}tta {\k26}Ra{\k17}tta {\k19}Ra{\k66}tta{\k69}ttaa
 Dialogue: 0,0:24:30.66,0:24:34.02,Karaoke,,0,0,0,,{\k8}{\k46}Kya{\k68}hoo! {\k35}Kya{\k42}hoo! {\k46}Kya{\k91}hoo!
 Dialogue: 0,0:24:30.66,0:24:34.02,OPED_Translation,,0,0,0,,Yahoo! Yahoo! Yahoo!

@@ -1268,15 +1268,15 @@ Until then, I will watch over you from within this Silver Marsh.
 
 314
 00:23:26,500 --> 00:23:27,500
-Please watch over me.
+<i>Please watch over me.</i>
 
 315
 00:23:28,334 --> 00:23:31,699
-I, Sapphire will build a peaceful kingdom.
+<i>I, Sapphire will build a peaceful kingdom.</i>
 
 316
 00:23:34,439 --> 00:23:39,406
-Until then, I will watch over him from within this Silver Marsh.
+<i>Until then, I will watch over you from within this Silver Marsh.</i>
 
 317
 00:24:14,061 --> 00:24:17,681

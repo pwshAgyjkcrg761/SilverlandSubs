@@ -14,7 +14,8 @@ Audio File: 41 princess peppi.mkv
 Video File: 41 princess peppi.mkv
 Video AR Mode: 4
 Video AR Value: 1.314554
-Active Line: 2
+Scroll Position: 213
+Active Line: 232
 Video Position: 950
 
 [V4+ Styles]
@@ -48,224 +49,215 @@ Dialogue: 0,0:01:25.22,0:01:28.62,Karaoke,,0,0,0,,{\k6}{\k50}Hon{\k43}to {\k33}w
 Dialogue: 0,0:01:25.22,0:01:28.62,OPED_Translation,,0,0,0,,Truly, truly,
 Dialogue: 0,0:01:28.62,0:01:31.82,Karaoke,,0,0,0,,{\k18}{\k23}A{\k23}ta{\k27}shi {\k35}na{\k35}no {\k159}sa{\k0}
 Dialogue: 0,0:01:28.62,0:01:31.82,OPED_Translation,,0,0,0,,It’s really me!
-Dialogue: 0,0:01:44.10,0:01:50.14,Default,,0,0,0,,Forty-First Episode\NThe Secret Letter
-Dialogue: 0,0:02:02.74,0:02:05.41,Default,,0,0,0,,Princess, I see that\Nfor some time now...
-Dialogue: 0,0:02:05.46,0:02:08.10,Default,,0,0,0,,...you do nothing but read\Nletters, instead of studying.
-Dialogue: 0,0:02:08.14,0:02:10.66,Default,,0,0,0,,Remember that you have\Nduties toward yourself...
-Dialogue: 0,0:02:10.70,0:02:12.61,Default,,0,0,0,,and toward your rank!
-Dialogue: 0,0:02:14.70,0:02:16.53,Default,,0,0,0,,Today we will study mathematics.
-Dialogue: 0,0:02:16.58,0:02:18.73,Default,,0,0,0,,Mathematics is a\Nvery important subject.
-Dialogue: 0,0:02:18.78,0:02:20.85,Default,,0,0,0,,The first school of\Nmathematics was established...
-Dialogue: 0,0:02:20.90,0:02:23.02,Default,,0,0,0,,...by the Greek\Nmathematician Archimedes!
-Dialogue: 0,0:02:23.06,0:02:25.94,Default,,0,0,0,,It was established by the\NGreek mathematician Pythagoras.
-Dialogue: 0,0:02:26.66,0:02:29.13,Default,,0,0,0,,Well, well, well! I\Nwas testing you.
-Dialogue: 0,0:02:29.18,0:02:31.41,Default,,0,0,0,,Of course it was Pythagoras!\NEveryone knows that!
-Dialogue: 0,0:02:31.46,0:02:34.82,Default,,0,0,0,,Letter for the Princess\Nfrom Prince Franz!
-Dialogue: 0,0:02:36.62,0:02:38.13,Default,,0,0,0,,Princess!
-Dialogue: 0,0:02:46.30,0:02:48.18,Default,,0,0,0,,Present arms!
-Dialogue: 0,0:03:12.78,0:03:15.69,Default,,0,0,0,,Go away! Go away!\NGo away!
-Dialogue: 0,0:03:17.18,0:03:20.01,Default,,0,0,0,,Thank you! You are the kindest dog\Nthat I know.
-Dialogue: 0,0:03:26.42,0:03:29.25,Default,,0,0,0,,There we go, I'm finished, Gol.\NTake it to her immediately!
-Dialogue: 0,0:03:57.14,0:03:59.18,Default,,0,0,0,,But why isn't Gol coming?
-Dialogue: 0,0:04:02.46,0:04:04.50,Default,,0,0,0,,Enough, I can't wait anymore!
-Dialogue: 0,0:04:06.14,0:04:07.81,Default,,0,0,0,,Excuse me!
-Dialogue: 0,0:04:10.26,0:04:13.54,Default,,0,0,0,,- What the devil is wrong with him? - The Prince\Nis a bit strange these days.
-Dialogue: 0,0:04:13.58,0:04:16.33,Default,,0,0,0,,He is always sitting\Nbehind the desk reading.
-Dialogue: 0,0:04:16.38,0:04:19.93,Default,,0,0,0,,Reading? Studying, you mean!\NMy nephew is a serious person.
-Dialogue: 0,0:04:19.98,0:04:21.89,Default,,0,0,0,,He is preparing\Nto become a King.
-Dialogue: 0,0:04:21.94,0:04:25.46,Default,,0,0,0,,And what is this? A letter?\NBut what does it mean? Look at this!
-Dialogue: 0,0:04:25.50,0:04:27.57,Default,,0,0,0,,But why is there a heart drawn on it?
-Dialogue: 0,0:04:28.30,0:04:30.74,Default,,0,0,0,,A heart?\NThen it's a love letter!
-Dialogue: 0,0:04:30.78,0:04:33.61,Default,,0,0,0,,I deduce that my nephew is in love.\NAnd why not?
-Dialogue: 0,0:04:33.66,0:04:35.81,Default,,0,0,0,,All young people fall in love,\Nsooner or later.
-Dialogue: 0,0:04:35.86,0:04:38.01,Default,,0,0,0,,There is really no reason\Nto worry.
-Dialogue: 0,0:04:38.06,0:04:41.74,Default,,0,0,0,,I wonder who the girl could be\Nwho has won his heart.
-Dialogue: 0,0:05:01.50,0:05:03.22,Default,,0,0,0,,Is what I'm being told true,
-Dialogue: 0,0:05:03.26,0:05:05.70,Default,,0,0,0,,that lately there have been\Nsecret contacts...
-Dialogue: 0,0:05:05.74,0:05:07.81,Default,,0,0,0,,...between the kingdom of Silverland\Nand that of Goldland?
-Dialogue: 0,0:05:07.86,0:05:10.93,Default,,0,0,0,,Yes! There is a little dog that often\Ncrosses our border!
-Dialogue: 0,0:05:11.90,0:05:15.69,Default,,0,0,0,,Perhaps the two countries are secretly\Nconspiring to invade us.
-Dialogue: 0,0:05:18.22,0:05:20.78,Default,,0,0,0,,There he is! There he is! It's the dog!
-Dialogue: 0,0:05:25.18,0:05:27.17,Default,,0,0,0,,Yes, yes, it's really him!
-Dialogue: 0,0:05:27.22,0:05:29.82,Default,,0,0,0,,He is carrying in his mouth\Na letter all in silver.
-Dialogue: 0,0:05:31.34,0:05:35.70,Default,,0,0,0,,It must certainly be a secret message\Nsent by those from Silverland!
-Dialogue: 0,0:05:35.82,0:05:38.18,Default,,0,0,0,,Catch that dog and bring it here!
-Dialogue: 0,0:05:38.22,0:05:39.89,Default,,0,0,0,,Let's catch him!
-Dialogue: 0,0:05:52.18,0:05:56.49,Default,,0,0,0,,Very good! Well done, little dog!\NBravo! You did it!
-Dialogue: 0,0:06:07.14,0:06:10.05,Default,,0,0,0,,Leave this dog alone,\Nif you value your life!
-Dialogue: 0,0:06:33.66,0:06:36.49,Default,,0,0,0,,Help! Help! Help!
-Dialogue: 0,0:06:40.90,0:06:43.46,Default,,0,0,0,,Don't worry, everything is fine
-Dialogue: 0,0:06:49.82,0:06:53.21,Default,,0,0,0,,What a striking man!\NDad, tell me who he is right now!
-Dialogue: 0,0:06:53.26,0:06:56.17,Default,,0,0,0,,It's Prince Franz of Goldland.
-Dialogue: 0,0:06:56.38,0:06:58.77,Default,,0,0,0,,Prince Franz...\NWhat a beautiful name!
-Dialogue: 0,0:06:58.82,0:07:01.10,Default,,0,0,0,,How much I like him!\NI love him, Dad!
-Dialogue: 0,0:07:01.14,0:07:03.37,Default,,0,0,0,,I absolutely want to marry him!
-Dialogue: 0,0:07:03.74,0:07:05.89,Default,,0,0,0,,I want to become his wife.
-Dialogue: 0,0:07:06.02,0:07:09.49,Default,,0,0,0,,I want him! I want him! I want him!\NAnd I will have him!
-Dialogue: 0,0:07:13.46,0:07:16.02,Default,,0,0,0,,Take it away! Take it away!
-Dialogue: 0,0:07:17.82,0:07:21.94,Default,,0,0,0,,I didn't say I want a cake! I\Nsaid I want to marry Franz!
-Dialogue: 0,0:07:22.90,0:07:24.81,Default,,0,0,0,,No, and no again!
-Dialogue: 0,0:07:25.82,0:07:29.78,Default,,0,0,0,,I didn't say that I want\Na doll! I hate them!
-Dialogue: 0,0:07:30.02,0:07:33.22,Default,,0,0,0,,I want a husband who is\Nalive! I want Prince Franz!
-Dialogue: 0,0:07:34.02,0:07:36.62,Default,,0,0,0,,I don't want these things\Nthat you are bringing me!
-Dialogue: 0,0:07:36.66,0:07:38.70,Default,,0,0,0,,I want to marry Franz!
-Dialogue: 0,0:07:41.58,0:07:44.49,Default,,0,0,0,,I don't know what to do\Nanymore to keep her calm...
-Dialogue: 0,0:07:45.46,0:07:49.09,Default,,0,0,0,,Then why don't you let her\Nmarry Prince Franz of Goldland?
-Dialogue: 0,0:07:49.14,0:07:51.34,Default,,0,0,0,,- But you are...!\N- Yes, it's really me.
-Dialogue: 0,0:07:52.90,0:07:55.21,Default,,0,0,0,,I have just arrived\Nfrom Village X.
-Dialogue: 0,0:07:55.26,0:07:58.09,Default,,0,0,0,,I command you to offer your daughter\Nin marriage to Franz.
-Dialogue: 0,0:07:58.22,0:08:00.69,Default,,0,0,0,,He will refuse,\Nbecause he is in love with Sapphire.
-Dialogue: 0,0:08:00.74,0:08:04.34,Default,,0,0,0,,Thus you can say that his refusal\Nis an insult to your daughter.
-Dialogue: 0,0:08:04.90,0:08:07.70,Default,,0,0,0,,This will be an excellent excuse for you\Nto finally...
-Dialogue: 0,0:08:07.74,0:08:10.78,Default,,0,0,0,,...attack and destroy\Nthat cursed kingdom of Goldland.
-Dialogue: 0,0:08:10.90,0:08:13.37,Default,,0,0,0,,And if he were to accept,\Nyou could always invite him here...
-Dialogue: 0,0:08:13.42,0:08:15.65,Default,,0,0,0,,...to be able to kill him\Nby treachery.
-Dialogue: 0,0:08:15.70,0:08:19.01,Default,,0,0,0,,But however things go, thanks\Nto this providential marriage,
-Dialogue: 0,0:08:19.06,0:08:21.13,Default,,0,0,0,,we will seize Goldland.
-Dialogue: 0,0:08:24.50,0:08:29.53,Default,,0,0,0,,Union X has decided to get rid\Nof the cursed kingdom of Goldland.
-Dialogue: 0,0:08:32.50,0:08:35.73,Default,,0,0,0,,It is giving us too much trouble\Nto the West.
-Dialogue: 0,0:08:36.82,0:08:40.37,Default,,0,0,0,,And Silverland is giving us\Ntoo much trouble to the North.
-Dialogue: 0,0:08:40.42,0:08:42.14,Default,,0,0,0,,North...
-Dialogue: 0,0:08:42.70,0:08:44.82,Default,,0,0,0,,Now it is up to you to choose:
-Dialogue: 0,0:08:44.86,0:08:47.53,Default,,0,0,0,,either you side with us\Nand help us destroy...
-Dialogue: 0,0:08:47.58,0:08:50.02,Default,,0,0,0,,...the kingdoms of Goldland\Nand Silverland,
-Dialogue: 0,0:08:50.06,0:08:52.66,Default,,0,0,0,,or you stand against us\Nand then...
-Dialogue: 0,0:08:53.10,0:08:55.01,Default,,0,0,0,,...you will meet the same end.
-Dialogue: 0,0:09:05.74,0:09:09.81,Default,,0,0,0,,In fact, I had never noticed that\Nhe was in love with her specifically.
-Dialogue: 0,0:09:10.18,0:09:12.30,Default,,0,0,0,,I was also\Nrather surprised...
-Dialogue: 0,0:09:12.34,0:09:15.89,Default,,0,0,0,,...since Princess Teggy,\Nthe only daughter of the King of Charcoaland,
-Dialogue: 0,0:09:15.94,0:09:18.17,Default,,0,0,0,,offered to marry\NPrince Franz.
-Dialogue: 0,0:09:18.22,0:09:20.18,Default,,0,0,0,,Then the letter with the heart...!
-Dialogue: 0,0:09:20.42,0:09:24.49,Default,,0,0,0,,The letter with the heart had been\Nwritten by Princess Teggy.
-Dialogue: 0,0:09:24.54,0:09:26.21,Default,,0,0,0,,Uncle!
-Dialogue: 0,0:09:26.42,0:09:28.33,Default,,0,0,0,,What do you want to tell me, uncle?
-Dialogue: 0,0:09:28.82,0:09:33.10,Default,,0,0,0,,Franz, listen!\NI have wonderful news to give you.
-Dialogue: 0,0:09:33.66,0:09:36.81,Default,,0,0,0,,The young Princess to whom\Nyou have written all these days
-Dialogue: 0,0:09:36.86,0:09:39.90,Default,,0,0,0,,- is being offered to you in marriage!\N- Is it true? You're not kidding me?
-Dialogue: 0,0:09:39.94,0:09:42.77,Default,,0,0,0,,- What do you think, uncle?\N- You know what?
-Dialogue: 0,0:09:43.50,0:09:46.78,Default,,0,0,0,,I tell you that I definitely approve\Nand that I would approve of any girl
-Dialogue: 0,0:09:46.82,0:09:49.05,Default,,0,0,0,,...whom you truly loved!
-Dialogue: 0,0:09:49.14,0:09:51.34,Default,,0,0,0,,I don't know how to thank you, uncle!
-Dialogue: 0,0:09:51.38,0:09:53.18,Default,,0,0,0,,Come, Gol, let's go!
-Dialogue: 0,0:10:18.42,0:10:21.22,Default,,0,0,0,,Sapphire..\NBe patient, love.
-Dialogue: 0,0:10:21.70,0:10:23.61,Default,,0,0,0,,Soon we will get married
-Dialogue: 0,0:10:32.34,0:10:34.33,Default,,0,0,0,,What a beautiful moon tonight!
-Dialogue: 0,0:10:37.66,0:10:40.89,Default,,0,0,0,,I wonder if Franz is also\Nlooking at the moon and thinking of me...
-Dialogue: 0,0:11:06.62,0:11:08.82,Default,,0,0,0,,Oh, my beloved Franz..
-Dialogue: 0,0:11:19.46,0:11:22.85,Default,,0,0,0,,The King of Charcoaland and his daughter!
-Dialogue: 0,0:11:26.46,0:11:29.06,Default,,0,0,0,,Hurry up! The Princess,\Nmy Princess,
-Dialogue: 0,0:11:29.10,0:11:31.74,Default,,0,0,0,,- She must have already arrived!\N- Wait a moment, please!
-Dialogue: 0,0:11:31.78,0:11:35.30,Default,,0,0,0,,You must present yourself to your\Nbride dressed elegantly!
-Dialogue: 0,0:11:38.02,0:11:40.41,Default,,0,0,0,,I am truly sorry\Nfor having kept you waiting.
-Dialogue: 0,0:11:40.46,0:11:42.42,Default,,0,0,0,,There were some unforeseen circumstances
-Dialogue: 0,0:11:42.46,0:11:44.53,Default,,0,0,0,,My nephew Franz\Nwill be here any moment.
-Dialogue: 0,0:11:44.58,0:11:46.70,Default,,0,0,0,,He seemed intimidated\Nby this meeting.
-Dialogue: 0,0:11:46.74,0:11:49.13,Default,,0,0,0,,And yet he must have loved you\Nfor a very long time.
-Dialogue: 0,0:11:51.42,0:11:54.09,Default,,0,0,0,,His Grace, Prince Franz!
-Dialogue: 0,0:12:06.02,0:12:07.82,Default,,0,0,0,,Sapphire...
-Dialogue: 0,0:12:09.78,0:12:11.58,Default,,0,0,0,,But you are...!
-Dialogue: 0,0:12:14.10,0:12:17.14,Default,,0,0,0,,Yes, I'm Teggy! I'm happy\Nthat you remember me!
-Dialogue: 0,0:12:17.42,0:12:21.02,Default,,0,0,0,,I think of nothing else but you, you know?\NI think of you day and night.
-Dialogue: 0,0:12:21.30,0:12:23.42,Default,,0,0,0,,I love you! I love you so much!
-Dialogue: 0,0:12:23.46,0:12:25.45,Default,,0,0,0,,I love you more than my father\Nand more than my mother,
-Dialogue: 0,0:12:25.50,0:12:27.33,Default,,0,0,0,,more than cake and dolls!
-Dialogue: 0,0:12:27.38,0:12:29.74,Default,,0,0,0,,I love you more than all this!
-Dialogue: 0,0:12:29.90,0:12:33.58,Default,,0,0,0,,Listen to me, Teggy... You don't know...\NYou can't know...
-Dialogue: 0,0:12:33.90,0:12:36.13,Default,,0,0,0,,No, what you are saying is not true!
-Dialogue: 0,0:12:36.18,0:12:39.01,Default,,0,0,0,,I know everything, Franz!\NEverything I need to know!
-Dialogue: 0,0:12:39.06,0:12:41.34,Default,,0,0,0,,No, I can't! Forgive me!
-Dialogue: 0,0:12:45.90,0:12:49.50,Default,,0,0,0,,- Forgive me, Teggy! And forget me!\N- Prince Franz!
-Dialogue: 0,0:12:51.10,0:12:53.62,Default,,0,0,0,,- Father!\N- Unforgivable!
-Dialogue: 0,0:12:53.66,0:12:56.18,Default,,0,0,0,,He has insulted my honor!\NHe has insulted my country,
-Dialogue: 0,0:12:56.22,0:12:59.85,Default,,0,0,0,,therefore I declare war on Goldland\Nto avenge the insult!
-Dialogue: 0,0:13:02.90,0:13:06.26,Default,,0,0,0,,- Father!\N- War to the death!
-Dialogue: 0,0:13:06.30,0:13:08.66,Default,,0,0,0,,No! No! Let go of me!\NI don't want this, Father!
-Dialogue: 0,0:13:08.70,0:13:13.25,Default,,0,0,0,,No! I don't want this! Franz! Franz!
-Dialogue: 0,0:13:17.54,0:13:19.53,Default,,0,0,0,,My God, what have I done?
-Dialogue: 0,0:14:15.46,0:14:18.66,Default,,0,0,0,,Your Majesty! Your Majesty!
-Dialogue: 0,0:14:21.10,0:14:25.06,Default,,0,0,0,,The river of Goldland has been\Ncrossed by the enemy army!
-Dialogue: 0,0:14:25.50,0:14:27.81,Default,,0,0,0,,Your Majesty! Your Majesty!
-Dialogue: 0,0:14:27.86,0:14:30.90,Default,,0,0,0,,The castle to the west of Goldland\Nhas fallen into enemy hands!
-Dialogue: 0,0:14:30.94,0:14:33.69,Default,,0,0,0,,Our garrison has been destroyed!
-Dialogue: 0,0:14:34.26,0:14:36.17,Default,,0,0,0,,They are attacking too fast!
-Dialogue: 0,0:14:36.22,0:14:39.61,Default,,0,0,0,,The King of Charcoaland's army\Nwas already ready to go to war!
-Dialogue: 0,0:14:39.66,0:14:42.89,Default,,0,0,0,,I am convinced that the\Nmarriage offer was just a trick!
-Dialogue: 0,0:14:42.94,0:14:44.69,Default,,0,0,0,,They set a trap for us!
-Dialogue: 0,0:14:44.74,0:14:48.02,Default,,0,0,0,,If we don't take action, the\Nkingdom of Goldland will be defeated...
-Dialogue: 0,0:14:48.06,0:14:50.81,Default,,0,0,0,,...and all the people will be\Nkilled. We must do something!
-Dialogue: 0,0:14:51.46,0:14:54.10,Default,,0,0,0,,We will fight until the end\Nfor the honor of Goldland!
-Dialogue: 0,0:14:54.14,0:14:57.50,Default,,0,0,0,,We must fight and hope\Nthat a miracle saves us!
-Dialogue: 0,0:15:08.94,0:15:10.74,Default,,0,0,0,,Gol! Come, Gol!
-Dialogue: 0,0:15:12.66,0:15:15.38,Default,,0,0,0,,Gol, take this letter\Nimmediately to Princess Sapphire.
-Dialogue: 0,0:15:15.42,0:15:17.30,Default,,0,0,0,,Listen to me, don't get caught.
-Dialogue: 0,0:15:39.46,0:15:42.69,Default,,0,0,0,,A letter for Prince\NSapphire from Prince Franz!
-Dialogue: 0,0:15:43.62,0:15:45.10,Default,,0,0,0,,Gol!
-Dialogue: 0,0:15:46.90,0:15:50.74,Default,,0,0,0,,What?! The King of Charcoaland\Nhas invaded the kingdom of Goldland?!
-Dialogue: 0,0:15:50.86,0:15:52.66,Default,,0,0,0,,They invaded Goldland?!
-Dialogue: 0,0:15:52.70,0:15:56.25,Default,,0,0,0,,It’s all because of my\Nnegligence, Sapphire.
-Dialogue: 0,0:15:56.34,0:16:00.10,Default,,0,0,0,,It’s true that I broke Teggy’s\Nheart, but I did it for love.
-Dialogue: 0,0:16:00.78,0:16:04.17,Default,,0,0,0,,Now I must go to the fortress,\Nin the North, to save my country.
-Dialogue: 0,0:16:04.70,0:16:08.25,Default,,0,0,0,,Sapphire, don’t worry about\Nme, I will do everything I can.
-Dialogue: 0,0:16:08.62,0:16:10.53,Default,,0,0,0,,You must not come to help me.
-Dialogue: 0,0:16:10.58,0:16:14.13,Default,,0,0,0,,If you were to come here, Silverland\Nwould also be involved in this war.
-Dialogue: 0,0:16:16.46,0:16:19.10,Default,,0,0,0,,Franz! My poor, beloved Franz!
-Dialogue: 0,0:16:20.26,0:16:24.41,Default,,0,0,0,,I have an idea! Gol, run\Nimmediately to help Prince Franz!
-Dialogue: 0,0:16:24.54,0:16:26.42,Default,,0,0,0,,I will follow you shortly!
-Dialogue: 0,0:16:42.06,0:16:43.89,Default,,0,0,0,,Help!
-Dialogue: 0,0:16:45.02,0:16:48.49,Default,,0,0,0,,Take him immediately to\Nthe Black Knight’s spirit castle!
-Dialogue: 0,0:16:50.30,0:16:52.69,Default,,0,0,0,,This is the end of Goldland!
-Dialogue: 0,0:17:49.78,0:17:52.90,Default,,0,0,0,,Prince Franz is a prisoner\Nin that castle, isn’t he?
-Dialogue: 0,0:17:54.02,0:17:56.22,Default,,0,0,0,,Wait! Wait!
-Dialogue: 0,0:17:56.26,0:17:58.38,Default,,0,0,0,,I am also looking for\NPrince Franz!
-Dialogue: 0,0:17:58.42,0:18:00.94,Default,,0,0,0,,I want to help him!\NTake me with you, please!
-Dialogue: 0,0:18:01.26,0:18:04.49,Default,,0,0,0,,But... But your country is at war\Nwith Goldland, it seems to me.
-Dialogue: 0,0:18:04.54,0:18:07.85,Default,,0,0,0,,- Aren't you sworn enemies?\N- I don't care at all!
-Dialogue: 0,0:18:07.90,0:18:10.02,Default,,0,0,0,,My father is a petty man!
-Dialogue: 0,0:18:10.06,0:18:14.77,Default,,0,0,0,,I love Prince Franz! Let's go\Nhelp him, let's not waste time!
-Dialogue: 0,0:18:15.90,0:18:19.02,Default,,0,0,0,,Alright, come with me, but don't\Nmake me waste time! Let's go!
-Dialogue: 0,0:18:39.82,0:18:43.37,Default,,0,0,0,,Cursed vampires of the darkness!\NYou won't drink my blood!
-Dialogue: 0,0:19:02.18,0:19:03.82,Default,,0,0,0,,Watch out!
-Dialogue: 0,0:19:07.86,0:19:10.09,Default,,0,0,0,,Don't look down!\NLook up!
-Dialogue: 0,0:19:10.14,0:19:13.18,Default,,0,0,0,,Keep climbing!\NDon't look down!
-Dialogue: 0,0:19:18.10,0:19:21.09,Default,,0,0,0,,Goldland will be in our\Nhands in less than a week.
-Dialogue: 0,0:19:21.14,0:19:23.13,Default,,0,0,0,,Then we'll destroy Silverland too.
-Dialogue: 0,0:19:23.18,0:19:25.65,Default,,0,0,0,,Are you on our side for\Nthis other venture as well?
-Dialogue: 0,0:19:25.70,0:19:28.22,Default,,0,0,0,,But certainly!\NYou can count on me!
-Dialogue: 0,0:19:28.70,0:19:31.42,Default,,0,0,0,,Now I'm going to join\Nmy army!
-Dialogue: 0,0:19:36.62,0:19:39.01,Default,,0,0,0,,I think I'll exploit him\Na bit longer.
-Dialogue: 0,0:19:39.06,0:19:42.02,Default,,0,0,0,,"Exploit people as long as\Npossible and then throw them away"!
-Dialogue: 0,0:19:42.06,0:19:45.10,Default,,0,0,0,,This is the law of\NUnion X, our philosophy.
-Dialogue: 0,0:19:57.42,0:20:00.22,Default,,0,0,0,,Just wait and see if I don't\Ntell my father everything!
-Dialogue: 0,0:20:00.26,0:20:03.57,Default,,0,0,0,,Now, first of all, we\Nmust find Prince Franz.
-Dialogue: 0,0:20:03.74,0:20:05.73,Default,,0,0,0,,Come with me, but be careful!
-Dialogue: 0,0:20:23.54,0:20:26.45,Default,,0,0,0,,Well done!\NHurray for the phantom knight!
-Dialogue: 0,0:20:26.50,0:20:29.10,Default,,0,0,0,,Bravo! Bravo! Bravo! Bravo!
-Dialogue: 0,0:20:33.66,0:20:35.41,Default,,0,0,0,,Take this!
-Dialogue: 0,0:20:38.18,0:20:40.01,Default,,0,0,0,,Did you get hurt?
-Dialogue: 0,0:20:40.06,0:20:42.66,Default,,0,0,0,,How romantic it is\Nto be saved by you!
-Dialogue: 0,0:20:42.90,0:20:46.18,Default,,0,0,0,,But first we must save Franz,\Nbefore it's too late!
-Dialogue: 0,0:20:47.22,0:20:51.85,Default,,0,0,0,,Franz! Franz, take heart!\NWe have come to save you!
-Dialogue: 0,0:20:53.78,0:20:55.85,Default,,0,0,0,,But this is the voice of my...
-Dialogue: 0,0:20:59.74,0:21:03.89,Default,,0,0,0,,Don't come in here! In here\Nthere are the vampires of the darkness!
-Dialogue: 0,0:21:18.90,0:21:21.89,Default,,0,0,0,,Franz! I've come to save you!
-Dialogue: 0,0:21:22.18,0:21:24.78,Default,,0,0,0,,Thank you!\NI owe you my life once again.
-Dialogue: 0,0:21:57.02,0:21:58.61,Default,,0,0,0,,Take it!
-Dialogue: 0,0:22:20.10,0:22:24.09,Default,,0,0,0,,Oh, how handsome the phantom\Nknight is! How much I like him!
-Dialogue: 0,0:22:24.34,0:22:26.46,Default,,0,0,0,,I think I'll fall in love with him!
-Dialogue: 0,0:22:42.90,0:22:45.26,Default,,0,0,0,,I thank you so much,\Nphantom knight,
-Dialogue: 0,0:22:45.30,0:22:47.58,Default,,0,0,0,,for saving Franz and me.
-Dialogue: 0,0:22:47.62,0:22:50.82,Default,,0,0,0,,Now I'm running home right away\Nto tell my father everything,
-Dialogue: 0,0:22:50.86,0:22:53.74,Default,,0,0,0,,so he will put a stop to\Nthis stupid war!
-Dialogue: 0,0:22:54.10,0:22:57.49,Default,,0,0,0,,There is another thing I want to tell you:\NI want to marry you!
-Dialogue: 0,0:23:00.14,0:23:03.34,Default,,0,0,0,,I'm so sorry, Franz,\Nbut I think everything is fine,
-Dialogue: 0,0:23:03.38,0:23:05.29,Default,,0,0,0,,because you love Sapphire
-Dialogue: 0,0:23:06.18,0:23:08.49,Default,,0,0,0,,Yes, forgive me, but it's\Nreally true what you said.
-Dialogue: 0,0:23:08.54,0:23:11.42,Default,,0,0,0,,I love Sapphire. I love\Nher with all my heart.
-Dialogue: 0,0:23:11.62,0:23:13.74,Default,,0,0,0,,- What's the matter?\N- Nothing.
-Dialogue: 0,0:23:13.78,0:23:17.17,Default,,0,0,0,,I can't explain it to you now. You\Nwill understand when you are older.
-Dialogue: 0,0:23:18.02,0:23:21.38,Default,,0,0,0,,Alright, but will you wait\Nuntil I have grown up?
-Dialogue: 0,0:23:22.54,0:23:24.18,Default,,0,0,0,,Farewell!
-Dialogue: 0,0:23:24.50,0:23:29.50,Default,,0,0,0,,I love you, phantom knight! I love\Nyou! I love you! I love you so much!
+Dialogue: 0,0:01:44.10,0:01:50.14,Default,,0,0,0,,Forty-First Episode\NThe Secret Letter\NCheeky Teppi
+Dialogue: 0,0:02:03.03,0:02:06.74,Default,,0,0,0,,Lord Sapphire, you've been doing nothing but reading letters lately,
+Dialogue: 0,0:02:06.78,0:02:08.82,Default,,0,0,0,,but that won't help your studies!
+Dialogue: 0,0:02:15.01,0:02:17.16,Default,,0,0,0,,Today, we shall study mathematics.
+Dialogue: 0,0:02:17.31,0:02:20.27,Default,,0,0,0,,To begin with, the first person to establish a school of mathematics
+Dialogue: 0,0:02:20.30,0:02:23.18,Default,,0,0,0,,was Archimedes, the great Roman...
+Dialogue: 0,0:02:23.28,0:02:25.82,Default,,0,0,0,,Wrong! That was Pythagoras of Greece!
+Dialogue: 0,0:02:27.08,0:02:30.86,Default,,0,0,0,,I was merely testing you. It's common knowledge...
+Dialogue: 0,0:02:31.06,0:02:34.61,Default,,0,0,0,,A letter from Prince Franz has arrived!
+Dialogue: 0,0:02:36.81,0:02:37.81,Default,,0,0,0,,Oh, another one?
+Dialogue: 0,0:02:46.61,0:02:47.88,Default,,0,0,0,,Eyes, right!
+Dialogue: 0,0:03:17.49,0:03:19.94,Default,,0,0,0,,Thanks, you're a good boy.
+Dialogue: 0,0:03:27.04,0:03:29.28,Default,,0,0,0,,Now, hurry and take this reply, Gor!
+Dialogue: 0,0:03:58.42,0:04:00.10,Default,,0,0,0,,I hope Gor comes back soon.
+Dialogue: 0,0:04:04.06,0:04:05.46,Default,,0,0,0,,I know, I'll go meet Gor!
+Dialogue: 0,0:04:05.85,0:04:07.10,Default,,0,0,0,,Oh, sorry!
+Dialogue: 0,0:04:10.18,0:04:11.34,Default,,0,0,0,,What was that about?
+Dialogue: 0,0:04:11.51,0:04:14.00,Default,,0,0,0,,Prince Franz has been acting a bit strange lately.
+Dialogue: 0,0:04:14.18,0:04:16.17,Default,,0,0,0,,Sitting at his desk every day...
+Dialogue: 0,0:04:16.19,0:04:19.56,Default,,0,0,0,,Studying? Isn't that wonderful?
+Dialogue: 0,0:04:20.36,0:04:21.98,Default,,0,0,0,,As expected of my nephew.
+Dialogue: 0,0:04:23.12,0:04:23.90,Default,,0,0,0,,A letter.
+Dialogue: 0,0:04:23.93,0:04:27.51,Default,,0,0,0,,Lord Chanel, this looks rather suspicious.
+Dialogue: 0,0:04:28.38,0:04:30.06,Default,,0,0,0,,Could it be a letter from a girl?
+Dialogue: 0,0:04:30.26,0:04:32.46,Default,,0,0,0,,No, this isn't a bad thing.
+Dialogue: 0,0:04:32.92,0:04:37.10,Default,,0,0,0,,It happens to everyone when they're young. It's quite wonderful, really.
+Dialogue: 0,0:04:37.55,0:04:41.44,Default,,0,0,0,,Still, who on earth could he be writing this to...?
+Dialogue: 0,0:05:01.45,0:05:04.46,Default,,0,0,0,,Is it true that Silverland and Goldland
+Dialogue: 0,0:05:04.49,0:05:08.10,Default,,0,0,0,,have been secretly communicating lately?
+Dialogue: 0,0:05:08.15,0:05:10.87,Default,,0,0,0,,A small dog has been crossing the border.
+Dialogue: 0,0:05:12.10,0:05:17.50,Default,,0,0,0,,They might be planning a joint attack against our kingdom.
+Dialogue: 0,0:05:18.77,0:05:20.48,Default,,0,0,0,,There it comes! Look!
+Dialogue: 0,0:05:25.83,0:05:30.18,Default,,0,0,0,,Yes, no doubt about it. It's carrying a silver letter in its mouth.
+Dialogue: 0,0:05:31.74,0:05:35.40,Default,,0,0,0,,Yes, that is undoubtedly a secret message from Silverland.
+Dialogue: 0,0:05:36.00,0:05:37.70,Default,,0,0,0,,Quick, catch that dog!
+Dialogue: 0,0:05:53.55,0:05:57.14,Default,,0,0,0,,How wonderful! Hang in there, little doggy! He beat them again!
+Dialogue: 0,0:06:06.85,0:06:09.08,Default,,0,0,0,,Who goes there! How dare you trespass on Goldland's territory!
+Dialogue: 0,0:06:09.24,0:06:11.11,Default,,0,0,0,,Stop! Get them!
+Dialogue: 0,0:06:33.24,0:06:33.92,Default,,0,0,0,,You wanna go?
+Dialogue: 0,0:06:34.71,0:06:36.25,Default,,0,0,0,,Help!
+Dialogue: 0,0:06:41.11,0:06:42.79,Default,,0,0,0,,This'll do.
+Dialogue: 0,0:06:49.38,0:06:52.66,Default,,0,0,0,,Wonderful, he's incredible! Papa, who is that?
+Dialogue: 0,0:06:53.24,0:06:56.08,Default,,0,0,0,,Prince Franz of Goldland.
+Dialogue: 0,0:06:56.38,0:06:59.77,Default,,0,0,0,,Oh, so that gentleman is Prince Franz. How wonderful... he's incredible!
+Dialogue: 0,0:06:59.81,0:07:00.39,Default,,0,0,0,,What?
+Dialogue: 0,0:07:00.49,0:07:02.82,Default,,0,0,0,,Papa, I want to marry Franz.
+Dialogue: 0,0:07:03.93,0:07:09.55,Default,,0,0,0,,I want to be his wife so badly! I really do! No matter what!
+Dialogue: 0,0:07:13.01,0:07:14.92,Default,,0,0,0,,No! No!
+Dialogue: 0,0:07:17.82,0:07:20.88,Default,,0,0,0,,I don't want sweets! I want Franz!
+Dialogue: 0,0:07:23.56,0:07:24.94,Default,,0,0,0,,I told you no...
+Dialogue: 0,0:07:26.03,0:07:28.28,Default,,0,0,0,,I hate dolls!
+Dialogue: 0,0:07:28.96,0:07:32.62,Default,,0,0,0,,It has to be the real Prince Franz! No, no, no!
+Dialogue: 0,0:07:32.71,0:07:35.88,Default,,0,0,0,,I don't want a castle, and I don't want the moon!
+Dialogue: 0,0:07:36.29,0:07:38.50,Default,,0,0,0,,Franz is the only one I love!
+Dialogue: 0,0:07:41.91,0:07:44.34,Default,,0,0,0,,Goodness, what an impatient daughter.
+Dialogue: 0,0:07:45.00,0:07:48.22,Default,,0,0,0,,Why not just give Teppi to Prince Franz?
+Dialogue: 0,0:07:49.38,0:07:50.31,Default,,0,0,0,,Who are you?!
+Dialogue: 0,0:07:52.20,0:07:58.36,Default,,0,0,0,,Don't be surprised. We go wherever Lord X commands.
+Dialogue: 0,0:07:58.76,0:07:59.76,Default,,0,0,0,,What!?
+Dialogue: 0,0:08:00.71,0:08:04.68,Default,,0,0,0,,Orders from the X-Union. Propose marriage to Franz.
+Dialogue: 0,0:08:05.10,0:08:08.48,Default,,0,0,0,,Franz loves Sapphire, so he'll never agree.
+Dialogue: 0,0:08:09.00,0:08:10.76,Default,,0,0,0,,Then, Charcoal,
+Dialogue: 0,0:08:10.78,0:08:15.67,Default,,0,0,0,,you'll have an excuse to destroy Goldland for insulting your daughter.
+Dialogue: 0,0:08:15.97,0:08:19.64,Default,,0,0,0,,And if by any chance he says yes, invite him to this castle...
+Dialogue: 0,0:08:24.42,0:08:29.44,Default,,0,0,0,,...and kill him. Either way, Goldland will be ours.
+Dialogue: 0,0:08:33.76,0:08:38.38,Default,,0,0,0,,The X-Union's expansion to the west faces one main obstacle:
+Dialogue: 0,0:08:38.41,0:08:41.50,Default,,0,0,0,,Goldland. To the north lies Silverland.
+Dialogue: 0,0:08:43.02,0:08:47.44,Default,,0,0,0,,Join the X-Union or suffer the same fate as Gold and Silver.
+Dialogue: 0,0:08:47.57,0:08:49.94,Default,,0,0,0,,The choice is yours, Charcoal.
+Dialogue: 0,0:08:50.18,0:08:52.06,Default,,0,0,0,,Though it's entirely up to you.
+Dialogue: 0,0:09:06.16,0:09:09.69,Default,,0,0,0,,My, my, when on earth did those two fall in love?
+Dialogue: 0,0:09:10.56,0:09:11.63,Default,,0,0,0,,I'm astonished.
+Dialogue: 0,0:09:11.93,0:09:14.48,Default,,0,0,0,,To think King Charcoal's only daughter, Princess Teppi,
+Dialogue: 0,0:09:14.50,0:09:17.37,Default,,0,0,0,,has proposed to Prince Franz...
+Dialogue: 0,0:09:17.39,0:09:20.07,Default,,0,0,0,,Lord Chanel, what about that letter from before...?
+Dialogue: 0,0:09:20.75,0:09:24.54,Default,,0,0,0,,Ah, right! So the person he was writing to was Princess Teppi?
+Dialogue: 0,0:09:24.71,0:09:25.46,Default,,0,0,0,,Uncle!
+Dialogue: 0,0:09:26.81,0:09:27.81,Default,,0,0,0,,Did you call for me?
+Dialogue: 0,0:09:28.81,0:09:29.53,Default,,0,0,0,,Franz,
+Dialogue: 0,0:09:29.56,0:09:32.82,Default,,0,0,0,,I actually have wonderful news for you today.
+Dialogue: 0,0:09:33.14,0:09:38.05,Default,,0,0,0,,The person you wrote to every day has proposed marriage to you!
+Dialogue: 0,0:09:39.44,0:09:41.56,Default,,0,0,0,,Is that true, Uncle?!
+Dialogue: 0,0:09:42.41,0:09:43.44,Default,,0,0,0,,Of course!
+Dialogue: 0,0:09:43.46,0:09:49.08,Default,,0,0,0,,Why would I object to the person you love?
+Dialogue: 0,0:09:49.17,0:09:50.86,Default,,0,0,0,,Thank you, Uncle!
+Dialogue: 0,0:09:51.31,0:09:52.54,Default,,0,0,0,,Come on, Gor, let's go!
+Dialogue: 0,0:10:18.68,0:10:19.40,Default,,0,0,0,,Sapphire,
+Dialogue: 0,0:10:20.08,0:10:23.40,Default,,0,0,0,,I'm sure you're looking at this beautiful moon, too...
+Dialogue: 0,0:10:31.51,0:10:32.88,Default,,0,0,0,,What a beautiful moon...
+Dialogue: 0,0:10:37.02,0:10:40.24,Default,,0,0,0,,Aren't you lonely, all by yourself?
+Dialogue: 0,0:11:06.97,0:11:09.73,Default,,0,0,0,,Prince Franz, I'll be able to see you tomorrow, won't I?
+Dialogue: 0,0:11:18.46,0:11:21.79,Default,,0,0,0,,Lord Charcoal has arrived!
+Dialogue: 0,0:11:26.89,0:11:27.88,Default,,0,0,0,,Hurry it up.
+Dialogue: 0,0:11:28.03,0:11:30.53,Default,,0,0,0,,The princess should be here by now.
+Dialogue: 0,0:11:31.70,0:11:32.94,Default,,0,0,0,,Please wait just a moment longer.
+Dialogue: 0,0:11:33.20,0:11:36.36,Default,,0,0,0,,After all, today we are showing you off in your finest attire.
+Dialogue: 0,0:11:37.87,0:11:39.92,Default,,0,0,0,,Apologies for keeping you waiting.
+Dialogue: 0,0:11:39.95,0:11:41.64,Default,,0,0,0,,Franz will be here shortly as well.
+Dialogue: 0,0:11:42.52,0:11:45.41,Default,,0,0,0,,Franz must be feeling shy.
+Dialogue: 0,0:11:45.60,0:11:48.42,Default,,0,0,0,,He's loved her for so long, after all.
+Dialogue: 0,0:11:51.86,0:11:54.02,Default,,0,0,0,,Presenting Prince Franz!
+Dialogue: 0,0:12:06.20,0:12:07.20,Default,,0,0,0,,Sapphire...
+Dialogue: 0,0:12:10.96,0:12:11.56,Default,,0,0,0,,You are...
+Dialogue: 0,0:12:14.11,0:12:17.50,Default,,0,0,0,,It's Teppi. Franz, you remembered me!
+Dialogue: 0,0:12:18.00,0:12:20.56,Default,,0,0,0,,I've been thinking of you the whole time, too.
+Dialogue: 0,0:12:20.82,0:12:22.73,Default,,0,0,0,,I love you. I love you so much.
+Dialogue: 0,0:12:22.93,0:12:24.34,Default,,0,0,0,,More than Papa, more than Mama,
+Dialogue: 0,0:12:24.52,0:12:26.97,Default,,0,0,0,,more than the castle, more than the moon.
+Dialogue: 0,0:12:27.24,0:12:30.01,Default,,0,0,0,,So much more, forever and ever!
+Dialogue: 0,0:12:30.53,0:12:32.99,Default,,0,0,0,,Teppi, you're... you're...
+Dialogue: 0,0:12:33.51,0:12:35.25,Default,,0,0,0,,Yes, it's alright, Franz.
+Dialogue: 0,0:12:35.44,0:12:38.64,Default,,0,0,0,,Everyone understands. You don't have to say a word.
+Dialogue: 0,0:12:39.62,0:12:41.12,Default,,0,0,0,,That's not it! That's not it at all!
+Dialogue: 0,0:12:46.01,0:12:47.54,Default,,0,0,0,,That's not it, Teppi. Forgive me.
+Dialogue: 0,0:12:48.16,0:12:49.26,Default,,0,0,0,,Franz!
+Dialogue: 0,0:12:52.80,0:12:53.43,Default,,0,0,0,,Unforgivable!
+Dialogue: 0,0:12:53.73,0:12:55.04,Default,,0,0,0,,Our nation has been insulted!
+Dialogue: 0,0:12:55.54,0:12:59.86,Default,,0,0,0,,For the honor of our kingdom, I hereby declare war on Goldland!
+Dialogue: 0,0:13:03.36,0:13:04.20,Default,,0,0,0,,Papa!
+Dialogue: 0,0:13:04.56,0:13:05.56,Default,,0,0,0,,This means war!
+Dialogue: 0,0:13:05.65,0:13:06.65,Default,,0,0,0,,No!
+Dialogue: 0,0:13:07.31,0:13:08.48,Default,,0,0,0,,No! You can't!
+Dialogue: 0,0:13:08.70,0:13:10.30,Default,,0,0,0,,I said no! No!
+Dialogue: 0,0:13:11.27,0:13:12.23,Default,,0,0,0,,Franz!
+Dialogue: 0,0:13:12.38,0:13:13.30,Default,,0,0,0,,Franz!
+Dialogue: 0,0:13:13.34,0:13:14.99,Default,,0,0,0,,Franz!
+Dialogue: 0,0:13:18.13,0:13:19.16,Default,,0,0,0,,Forgive me, Teppi.
+Dialogue: 0,0:14:15.32,0:14:17.88,Default,,0,0,0,,Report! Report!
+Dialogue: 0,0:14:21.48,0:14:24.25,Default,,0,0,0,,My Lord! Goldland River has fallen into enemy hands!
+Dialogue: 0,0:14:26.54,0:14:28.11,Default,,0,0,0,,Report!
+Dialogue: 0,0:14:28.14,0:14:30.11,Default,,0,0,0,,West Gold Castle has fallen to the enemy!
+Dialogue: 0,0:14:30.13,0:14:32.99,Default,,0,0,0,,Our forces... our forces have been wiped out!
+Dialogue: 0,0:14:34.54,0:14:36.16,Default,,0,0,0,,The enemy is moving too fast!
+Dialogue: 0,0:14:36.45,0:14:38.88,Default,,0,0,0,,King Charcoal must have been preparing for this all along!
+Dialogue: 0,0:14:39.43,0:14:41.25,Default,,0,0,0,,The marriage proposal was a trap!
+Dialogue: 0,0:14:41.27,0:14:43.82,Default,,0,0,0,,We fell right into their trap!
+Dialogue: 0,0:14:44.80,0:14:45.40,Default,,0,0,0,,Uncle,
+Dialogue: 0,0:14:45.43,0:14:47.76,Default,,0,0,0,,at this rate, Goldland will be destroyed!
+Dialogue: 0,0:14:48.03,0:14:49.35,Default,,0,0,0,,Everyone will be killed!
+Dialogue: 0,0:14:49.63,0:14:51.06,Default,,0,0,0,,We must do something.
+Dialogue: 0,0:14:51.08,0:14:53.77,Default,,0,0,0,,But surrender is out of the question!
+Dialogue: 0,0:14:54.51,0:14:57.38,Default,,0,0,0,,Fight to the end for the honor of Goldland!
+Dialogue: 0,0:15:09.33,0:15:10.33,Default,,0,0,0,,Gor, Gor!
+Dialogue: 0,0:15:13.15,0:15:16.83,Default,,0,0,0,,Goru, take this letter to Sapphire. And hurry!
+Dialogue: 0,0:15:39.60,0:15:42.74,Default,,0,0,0,,A messenger from Prince Franz has arrived!
+Dialogue: 0,0:15:43.79,0:15:44.61,Default,,0,0,0,,Gor!
+Dialogue: 0,0:15:46.98,0:15:49.96,Default,,0,0,0,,What? Charcoalland has launched an invasion!
+Dialogue: 0,0:15:50.86,0:15:51.92,Default,,0,0,0,,Charcoalland...
+Dialogue: 0,0:15:53.60,0:15:53.64,Default,,0,0,0,,Gorun!
+Dialogue: 0,0:15:54.49,0:15:56.32,Default,,0,0,0,,I was careless, Sapphire.
+Dialogue: 0,0:15:57.02,0:15:59.62,Default,,0,0,0,,I even dragged Teppi into this.
+Dialogue: 0,0:16:00.54,0:16:03.10,Default,,0,0,0,,In the end, this was all my fault.
+Dialogue: 0,0:16:04.32,0:16:07.82,Default,,0,0,0,,Sapphire, I must head to the northern fort now.
+Dialogue: 0,0:16:08.36,0:16:09.58,Default,,0,0,0,,Please don't worry.
+Dialogue: 0,0:16:10.55,0:16:11.43,Default,,0,0,0,,If you come,
+Dialogue: 0,0:16:11.45,0:16:13.66,Default,,0,0,0,,Silverland will be dragged into the war as well.
+Dialogue: 0,0:16:16.60,0:16:18.77,Default,,0,0,0,,Franz... Poor Franz...
+Dialogue: 0,0:16:20.33,0:16:21.04,Default,,0,0,0,,I know!
+Dialogue: 0,0:16:21.61,0:16:22.22,Default,,0,0,0,,Gor!
+Dialogue: 0,0:16:22.25,0:16:24.64,Default,,0,0,0,,Go on ahead and protect Franz!
+Dialogue: 0,0:16:24.66,0:16:26.10,Default,,0,0,0,,I'll follow right behind you!
+Dialogue: 0,0:16:42.36,0:16:43.36,Default,,0,0,0,,What are you doing?
+Dialogue: 0,0:16:44.54,0:16:47.45,Default,,0,0,0,,Hurry, take him to the Black Knight's haunted lair!
+Dialogue: 0,0:16:50.39,0:16:52.34,Default,,0,0,0,,Now Goldland, too...
+Dialogue: 0,0:17:50.00,0:17:52.58,Default,,0,0,0,,Prince Franz is in that castle, isn't he?
+Dialogue: 0,0:17:54.40,0:17:55.40,Default,,0,0,0,,Wait!
+Dialogue: 0,0:17:57.36,0:18:00.88,Default,,0,0,0,,I was looking for him, too. Take me to Franz!
+Dialogue: 0,0:18:01.38,0:18:05.62,Default,,0,0,0,,But your country and Goldland are currently at war!
+Dialogue: 0,0:18:05.97,0:18:07.52,Default,,0,0,0,,That doesn't matter!
+Dialogue: 0,0:18:07.87,0:18:11.34,Default,,0,0,0,,I love Franz. Love is all that matters.
+Dialogue: 0,0:18:11.60,0:18:14.02,Default,,0,0,0,,Come on, let's hurry and rescue him!
+Dialogue: 0,0:18:16.01,0:18:18.42,Default,,0,0,0,,Alright, got it. We have no time to waste.
+Dialogue: 0,0:18:39.92,0:18:43.60,Default,,0,0,0,,You damn vampire bats, I won't go down that easily!
+Dialogue: 0,0:19:07.60,0:19:10.84,Default,,0,0,0,,Don't look down! Look up! Keep your eyes up and climb!
+Dialogue: 0,0:19:18.29,0:19:22.15,Default,,0,0,0,,Only one week left for Goldland. Silverland is next.
+Dialogue: 0,0:19:22.17,0:19:25.29,Default,,0,0,0,,I'll be counting on your cooperation then as well, King Charcoal.
+Dialogue: 0,0:19:25.61,0:19:27.36,Default,,0,0,0,,Of course.
+Dialogue: 0,0:19:28.50,0:19:30.76,Default,,0,0,0,,Now, if you'll excuse me.
+Dialogue: 0,0:19:36.83,0:19:38.97,Default,,0,0,0,,Well, we'll make him work as hard as possible.
+Dialogue: 0,0:19:39.05,0:19:41.66,Default,,0,0,0,,Work him to the bone, then toss him aside.
+Dialogue: 0,0:19:41.80,0:19:44.52,Default,,0,0,0,,That is the law of the X-Union.
+Dialogue: 0,0:19:57.01,0:20:00.00,Default,,0,0,0,,Oh dear... Papa is just being used.
+Dialogue: 0,0:20:01.46,0:20:02.83,Default,,0,0,0,,We're going to search for Prince Franz!
+Dialogue: 0,0:20:03.52,0:20:05.97,Default,,0,0,0,,Teppi, follow me!
+Dialogue: 0,0:20:24.22,0:20:28.78,Default,,0,0,0,,So cool! Do your best, Ribbon Knight!
+Dialogue: 0,0:20:38.22,0:20:39.22,Default,,0,0,0,,Are you alright?
+Dialogue: 0,0:20:40.12,0:20:43.01,Default,,0,0,0,,How wonderful... to be rescued by you...
+Dialogue: 0,0:20:43.26,0:20:46.34,Default,,0,0,0,,M-More importantly, I have to find Franz fast...
+Dialogue: 0,0:20:49.89,0:20:53.46,Default,,0,0,0,,Franz! Prince Franz, I've come to save you!
+Dialogue: 0,0:20:54.12,0:20:55.66,Default,,0,0,0,,Huh? That voice...
+Dialogue: 0,0:20:59.74,0:21:03.69,Default,,0,0,0,,Don't come in! There are vampire bats in here!
+Dialogue: 0,0:21:18.64,0:21:21.33,Default,,0,0,0,,Franz, we saved you!
+Dialogue: 0,0:21:22.72,0:21:24.33,Default,,0,0,0,,Saved by you again, huh?
+Dialogue: 0,0:21:56.92,0:21:57.92,Default,,0,0,0,,Catch!
+Dialogue: 0,0:22:20.40,0:22:23.44,Default,,0,0,0,,How wonderful the Ribbon Knight is...
+Dialogue: 0,0:22:24.74,0:22:27.09,Default,,0,0,0,,I think I'm falling for him.
+Dialogue: 0,0:22:43.29,0:22:44.71,Default,,0,0,0,,Thank you, Ribbon Knight.
+Dialogue: 0,0:22:44.96,0:22:48.98,Default,,0,0,0,,I'll hurry home and tell Papa to stop the war right away.
+Dialogue: 0,0:22:49.35,0:22:51.08,Default,,0,0,0,,And one more thing.
+Dialogue: 0,0:22:51.27,0:22:54.96,Default,,0,0,0,,Ribbon Knight... I, I...
+Dialogue: 0,0:22:55.16,0:22:57.98,Default,,0,0,0,,I've decided to become your wife!
+Dialogue: 0,0:23:00.57,0:23:02.12,Default,,0,0,0,,Franz, I'm sorry.
+Dialogue: 0,0:23:02.52,0:23:05.70,Default,,0,0,0,,But that's okay. You have Princess Sapphire, after all.
+Dialogue: 0,0:23:06.48,0:23:10.94,Default,,0,0,0,,No, I'm the one who's sorry. I... I love Sapphire.
+Dialogue: 0,0:23:12.02,0:23:13.02,Default,,0,0,0,,What's wrong?
+Dialogue: 0,0:23:13.37,0:23:17.78,Default,,0,0,0,,It's nothing. You'll understand when you're a bit older.
+Dialogue: 0,0:23:18.47,0:23:21.04,Default,,0,0,0,,Wait for me until I grow up!
+Dialogue: 0,0:23:21.22,0:23:21.90,Default,,0,0,0,,Promise me!
+Dialogue: 0,0:23:23.45,0:23:26.50,Default,,0,0,0,,Ribbon Knight! I love you!
 Dialogue: 0,0:24:08.38,0:24:12.02,Karaoke,,0,0,0,,{\k29}{\k22}Ta{\k18}ra{\k16}ri {\k18}Ra{\k20}tta {\k23}Ri{\k19}tta {\k26}Ra{\k17}tta {\k19}Ra{\k66}tta{\k69}ttaa
 Dialogue: 0,0:24:12.02,0:24:15.38,Karaoke,,0,0,0,,{\k8}{\k46}Kya{\k68}hoo! {\k35}Kya{\k42}hoo! {\k46}Kya{\k91}hoo!
 Dialogue: 0,0:24:12.02,0:24:15.38,OPED_Translation,,0,0,0,,Yahoo! Yahoo! Yahoo!

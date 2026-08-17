@@ -14,7 +14,8 @@ Audio File: 11 the sandman.mkv
 Video File: 11 the sandman.mkv
 Video AR Mode: 4
 Video AR Value: 1.314554
-Active Line: 18
+Scroll Position: 376
+Active Line: 391
 Video Position: 950
 
 [V4+ Styles]
@@ -48,313 +49,374 @@ Dialogue: 0,0:01:25.22,0:01:28.62,Karaoke,,0,0,0,,{\k6}{\k50}Hon{\k43}to {\k33}w
 Dialogue: 0,0:01:25.22,0:01:28.62,OPED_Translation,,0,0,0,,Truly, truly,
 Dialogue: 0,0:01:28.62,0:01:31.82,Karaoke,,0,0,0,,{\k18}{\k23}A{\k23}ta{\k27}shi {\k35}na{\k35}no {\k159}sa{\k0}
 Dialogue: 0,0:01:28.62,0:01:31.82,OPED_Translation,,0,0,0,,It’s really me!
-Dialogue: 0,0:01:44.10,0:01:50.14,Default,,0,0,0,,Eleventh Episode\NThe Spirit of Sleep
-Dialogue: 0,0:02:43.22,0:02:45.29,Default,,0,0,0,,Sapphire, are you coming to play?
-Dialogue: 0,0:02:46.82,0:02:48.46,Default,,0,0,0,,Hello, Tink!
-Dialogue: 0,0:02:48.58,0:02:50.57,Default,,0,0,0,,- Let's go!\N- Prince!
-Dialogue: 0,0:02:50.62,0:02:52.74,Default,,0,0,0,,Why that sneaky look?
-Dialogue: 0,0:02:52.78,0:02:55.34,Default,,0,0,0,,- Sneaky look?!\N- He's not doing anything wrong.
-Dialogue: 0,0:02:55.38,0:02:58.37,Default,,0,0,0,,Don't you remember that you\Nare on vacation? You can play here!
-Dialogue: 0,0:02:58.42,0:03:00.46,Default,,0,0,0,,- What?!\N- Great!
-Dialogue: 0,0:03:00.50,0:03:03.17,Default,,0,0,0,,I'm on vacation!\NWe can have fun!
-Dialogue: 0,0:03:03.22,0:03:06.90,Default,,0,0,0,,Now that you are far from the\Npalace, don't let yourself go too much!
-Dialogue: 0,0:03:06.94,0:03:09.61,Default,,0,0,0,,Remember the promises\Nthat you made to your mother?
-Dialogue: 0,0:03:09.66,0:03:12.70,Default,,0,0,0,,The first is to continue\Nto be good!
-Dialogue: 0,0:03:13.22,0:03:14.73,Default,,0,0,0,,And what is the second?
-Dialogue: 0,0:03:14.78,0:03:16.42,Default,,0,0,0,,The second is...
-Dialogue: 0,0:03:16.46,0:03:18.93,Default,,0,0,0,,To be patient\Nduring this week of vacation.
-Dialogue: 0,0:03:18.98,0:03:20.81,Default,,0,0,0,,...and curb my spirit\Nof adventure.
-Dialogue: 0,0:03:20.86,0:03:24.93,Default,,0,0,0,,- Don't forget it!\N- Then, goodbye, Opal!
-Dialogue: 0,0:03:29.34,0:03:33.02,Default,,0,0,0,,That was a close call! And who is this running\Ninto me?! Help!
-Dialogue: 0,0:03:34.38,0:03:37.45,Default,,0,0,0,,Esteemed Garigori, do you happen to know\Nwhere the Prince is?
-Dialogue: 0,0:03:37.50,0:03:40.89,Default,,0,0,0,,Doctor, does this seem like\Nthe time to come disturbing?
-Dialogue: 0,0:03:40.94,0:03:43.77,Default,,0,0,0,,It doesn't matter. I have something\Ntoo important to report.
-Dialogue: 0,0:03:43.82,0:03:46.29,Default,,0,0,0,,You can find the Prince\Non the hill,
-Dialogue: 0,0:03:46.34,0:03:49.30,Default,,0,0,0,,but mind, next time,\Nnot to be so early!
-Dialogue: 0,0:04:03.18,0:04:05.41,Default,,0,0,0,,Sapphire, look at what a beautiful landscape!
-Dialogue: 0,0:04:06.54,0:04:11.74,Default,,0,0,0,,We are the squires of the King!\NHow heavy this pleasure weighs!
-Dialogue: 0,0:04:11.78,0:04:14.85,Default,,0,0,0,,- Isn't that the King's throne?\N- Yes, it is my father's.
-Dialogue: 0,0:04:17.50,0:04:19.30,Default,,0,0,0,,I wonder what is happening...
-Dialogue: 0,0:04:19.34,0:04:21.62,Default,,0,0,0,,Your Highness! Prince Sapphire!
-Dialogue: 0,0:04:23.30,0:04:25.90,Default,,0,0,0,,Please, return immediately\Nto your residence.
-Dialogue: 0,0:04:25.94,0:04:28.01,Default,,0,0,0,,No, because right now I'm playing.
-Dialogue: 0,0:04:28.06,0:04:30.05,Default,,0,0,0,,You must obey me, Your Highness!
-Dialogue: 0,0:04:33.42,0:04:36.62,Default,,0,0,0,,- What a pity...!\N- No! No! No!
-Dialogue: 0,0:04:36.66,0:04:40.13,Default,,0,0,0,,I don't want to wear it!\NWhy do I have to put on this dress?
-Dialogue: 0,0:04:40.18,0:04:43.57,Default,,0,0,0,,It's for the ceremony you will have to\Ngo through because the King is sick.
-Dialogue: 0,0:04:43.62,0:04:45.58,Default,,0,0,0,,- Who will I receive?\N- Lord Plastic.
-Dialogue: 0,0:04:45.62,0:04:48.22,Default,,0,0,0,,Lord Plastic?!\NDo you mean Duralumin's son?
-Dialogue: 0,0:04:48.26,0:04:50.33,Default,,0,0,0,,Yes, that stupid son of his!
-Dialogue: 0,0:04:50.38,0:04:53.90,Default,,0,0,0,,Quiet! If the Grand Duke hears you\Ntalking like that, he'll make you pay!
-Dialogue: 0,0:04:53.94,0:04:55.74,Default,,0,0,0,,His promotion is being celebrated:
-Dialogue: 0,0:04:55.78,0:04:58.34,Default,,0,0,0,,after eight years in first grade, he was\Npromoted to second grade...!
-Dialogue: 0,0:04:58.38,0:05:00.94,Default,,0,0,0,,Eight years for him to pass\Nfirst grade?!
-Dialogue: 0,0:05:02.18,0:05:04.54,Default,,0,0,0,,Please don't laugh!
-Dialogue: 0,0:05:08.42,0:05:11.02,Default,,0,0,0,,His Excellency\Nthe Grand Duke Duralumin!
-Dialogue: 0,0:05:18.30,0:05:20.42,Default,,0,0,0,,He is proud of his son
-Dialogue: 0,0:05:28.62,0:05:32.33,Default,,0,0,0,,You didn't hurt yourself, Plastic?\NDon't worry, everything is fine!
-Dialogue: 0,0:05:32.38,0:05:36.22,Default,,0,0,0,,Come on, now go up the grand staircase\Nand greet them as they taught you.
-Dialogue: 0,0:05:36.38,0:05:39.37,Default,,0,0,0,,Show everyone that you are\Nmuch better than Sapphire.
-Dialogue: 0,0:05:39.42,0:05:41.62,Default,,0,0,0,,Nylon, did you teach him\Nthe protocol?
-Dialogue: 0,0:05:41.66,0:05:43.54,Default,,0,0,0,,- Yes, perfectly!\N- Here he is.
-Dialogue: 0,0:05:44.02,0:05:46.01,Default,,0,0,0,,Hi, Plastic! How's it going?
-Dialogue: 0,0:05:48.10,0:05:50.70,Default,,0,0,0,,- Hi! - Prince, I ask you\Nto receive my son...
-Dialogue: 0,0:05:50.74,0:05:55.02,Default,,0,0,0,,...according to tradition.\N- I wanted to congratulate him.
-Dialogue: 0,0:05:55.10,0:05:57.70,Default,,0,0,0,,Well, I thank you on his\Nbehalf! Did you hear, Plastic?
-Dialogue: 0,0:05:57.74,0:06:01.18,Default,,0,0,0,,- Answer the Prince.\N- I'm going to answer! I'm going!
-Dialogue: 0,0:06:03.10,0:06:05.49,Default,,0,0,0,,Stop! You are not\Ngoing the right way!
-Dialogue: 0,0:06:05.54,0:06:08.01,Default,,0,0,0,,To get to the Prince,\Nyou must turn to the right!
-Dialogue: 0,0:06:08.06,0:06:10.86,Default,,0,0,0,,- Oh, no!\N- To the right...
-Dialogue: 0,0:06:17.06,0:06:19.02,Default,,0,0,0,,What did you teach him?!
-Dialogue: 0,0:06:19.06,0:06:20.81,Default,,0,0,0,,I did my best!
-Dialogue: 0,0:06:21.42,0:06:23.41,Default,,0,0,0,,There is nothing to laugh about!
-Dialogue: 0,0:06:23.82,0:06:26.42,Default,,0,0,0,,Let's skip the\Nformalities and go play.
-Dialogue: 0,0:06:26.46,0:06:28.45,Default,,0,0,0,,Grand Duke, I'm\Ntaking Plastic to play!
-Dialogue: 0,0:06:28.50,0:06:31.33,Default,,0,0,0,,He who laughs last laughs best,\NPrince Sapphire!
-Dialogue: 0,0:06:35.10,0:06:37.82,Default,,0,0,0,,Remember that, during the meal,\Nyou must behave properly at the table!
-Dialogue: 0,0:06:37.86,0:06:39.66,Default,,0,0,0,,You must use a fork and knife,\Nnot your hands,
-Dialogue: 0,0:06:39.70,0:06:41.74,Default,,0,0,0,,you must remain seated\Nand not pick your nose!
-Dialogue: 0,0:06:43.70,0:06:45.90,Default,,0,0,0,,And don't throw breadcrumbs!\NYou must che...
-Dialogue: 0,0:06:47.10,0:06:50.01,Default,,0,0,0,,Chew with your mouth closed, don't make\Nrude noises and don't start crying!
-Dialogue: 0,0:06:50.10,0:06:51.82,Default,,0,0,0,,Damn, what a struggle!
-Dialogue: 0,0:06:52.82,0:06:54.38,Default,,0,0,0,,My nose!
-Dialogue: 0,0:06:56.02,0:06:58.30,Default,,0,0,0,,Damn, what a struggle\Nteaching this blockhead!
-Dialogue: 0,0:06:58.34,0:07:00.33,Default,,0,0,0,,Did you get all of that through your thick skull?
-Dialogue: 0,0:07:04.26,0:07:07.81,Default,,0,0,0,,- I am so sorry, Grand Duke!\N- What are you doing, you complete idiot?
-Dialogue: 0,0:07:07.86,0:07:11.62,Default,,0,0,0,,I was just pleasantly surprised\Nby your son's intelligence!
-Dialogue: 0,0:07:11.66,0:07:14.22,Default,,0,0,0,,It's true! My son, after all,\Nis very intelligent!
-Dialogue: 0,0:07:30.42,0:07:33.06,Default,,0,0,0,,I propose a toast\Nto Plastic's promotion! Bravo!
-Dialogue: 0,0:07:33.18,0:07:35.57,Default,,0,0,0,,- Bravo!\N- Bravo!
-Dialogue: 0,0:07:40.70,0:07:43.01,Default,,0,0,0,,I will not allow Sapphire\Nto sit on the throne.
-Dialogue: 0,0:07:43.06,0:07:45.94,Default,,0,0,0,,Even if he pretends to be\Na boy, she is a girl!
-Dialogue: 0,0:07:45.98,0:07:48.50,Default,,0,0,0,,And since the law of this land\Nforbids a girl...
-Dialogue: 0,0:07:48.54,0:07:51.58,Default,,0,0,0,,...to ascend the throne,\Nif I manage to get rid of the Prince,
-Dialogue: 0,0:07:51.62,0:07:53.69,Default,,0,0,0,,then the throne will be Plastic's!
-Dialogue: 0,0:07:53.74,0:07:56.78,Default,,0,0,0,,In fact, since I\Nam the King's only brother,
-Dialogue: 0,0:07:56.82,0:07:59.02,Default,,0,0,0,,you have every right to it,\Nmy son.
-Dialogue: 0,0:07:59.06,0:08:01.21,Default,,0,0,0,,Should people take him\Nfor a blockhead? No!
-Dialogue: 0,0:08:01.26,0:08:03.46,Default,,0,0,0,,I will seat him on the throne\Nat all costs!
-Dialogue: 0,0:08:10.42,0:08:12.49,Default,,0,0,0,,Plastic, where are you going? I'm coming with you!
-Dialogue: 0,0:08:13.22,0:08:15.21,Default,,0,0,0,,Ehi, Plastic! Wait for me!
-Dialogue: 0,0:08:16.78,0:08:18.77,Default,,0,0,0,,Where are you going? Why don't we play?
-Dialogue: 0,0:08:18.82,0:08:21.42,Default,,0,0,0,,Since you're here,\Nlet's play together, shall we?
-Dialogue: 0,0:08:22.90,0:08:26.10,Default,,0,0,0,,How beautiful! I like these\Nso much! They are so good!
-Dialogue: 0,0:08:26.14,0:08:28.45,Default,,0,0,0,,I want to take them!
-Dialogue: 0,0:08:30.22,0:08:33.10,Default,,0,0,0,,It's a painting! You\Ncan't eat painted things!
-Dialogue: 0,0:08:33.14,0:08:36.58,Default,,0,0,0,,- I want to eat it!\N- This strawberry looks real..
-Dialogue: 0,0:08:36.62,0:08:39.50,Default,,0,0,0,,...because it is painted very well,\Nbut you can't pull it off of there!
-Dialogue: 0,0:08:39.54,0:08:41.82,Default,,0,0,0,,- I want to eat it! I want it!\N- Don't throw a tantrum!
-Dialogue: 0,0:08:41.86,0:08:45.77,Default,,0,0,0,,That is a painting! Oh, good\Nheavens, now he got angry!
-Dialogue: 0,0:08:45.86,0:08:48.90,Default,,0,0,0,,I apologize!\NPlastic, come back!
-Dialogue: 0,0:08:48.94,0:08:50.53,Default,,0,0,0,,Sorry!
-Dialogue: 0,0:08:51.74,0:08:54.89,Default,,0,0,0,,I want to eat it!\NI want the strawberries!
-Dialogue: 0,0:08:54.94,0:08:57.25,Default,,0,0,0,,It's impossible! It's\Nsummer now, Plastic!
-Dialogue: 0,0:08:57.30,0:08:59.53,Default,,0,0,0,,Strawberries only\Ngrow in spring!
-Dialogue: 0,0:08:59.58,0:09:01.49,Default,,0,0,0,,I want a strawberry!
-Dialogue: 0,0:09:01.90,0:09:04.70,Default,,0,0,0,,Grand Duke! Your son will be\Nable to eat strawberries, even if...
-Dialogue: 0,0:09:04.74,0:09:07.02,Default,,0,0,0,,Do you mean we can\Nget some strawberries?
-Dialogue: 0,0:09:07.06,0:09:10.42,Default,,0,0,0,,Absolutely! In the middle of the\Nwoods, strawberries also grow in summer!
-Dialogue: 0,0:09:10.46,0:09:12.26,Default,,0,0,0,,Go pick them right now!
-Dialogue: 0,0:09:12.30,0:09:14.02,Default,,0,0,0,,You will have them sooner than you think.
-Dialogue: 0,0:09:14.06,0:09:16.02,Default,,0,0,0,,I sent some\Nsoldiers to pick them.
-Dialogue: 0,0:09:16.06,0:09:18.53,Default,,0,0,0,,I told them that\Nthis spoiled boy...
-Dialogue: 0,0:09:18.58,0:09:21.81,Default,,0,0,0,,...who is asking for strawberries\Nout of season is Prince Sapphire.
-Dialogue: 0,0:09:22.10,0:09:24.01,Default,,0,0,0,,You did well.
-Dialogue: 0,0:09:30.62,0:09:33.01,Default,,0,0,0,,What is this noise?
-Dialogue: 0,0:09:36.62,0:09:40.74,Default,,0,0,0,,They said that whoever returns with the\Nstrawberries will get a handsome reward.
-Dialogue: 0,0:09:41.30,0:09:44.10,Default,,0,0,0,,- I will get that reward!\N- No, I'll be the one to win it!
-Dialogue: 0,0:09:44.14,0:09:46.89,Default,,0,0,0,,- I will find them!\N- That prize will be mine!
-Dialogue: 0,0:09:49.46,0:09:52.74,Default,,0,0,0,,- Who is pushing me?\N- Let's go!
-Dialogue: 0,0:09:53.82,0:09:56.81,Default,,0,0,0,,- Help! Fire!\N- Run away!
-Dialogue: 0,0:10:10.74,0:10:12.46,Default,,0,0,0,,Help!
-Dialogue: 0,0:10:16.02,0:10:18.41,Default,,0,0,0,,Watch where you're going?!
-Dialogue: 0,0:10:19.10,0:10:21.14,Default,,0,0,0,,Run! Run!
-Dialogue: 0,0:10:39.46,0:10:43.66,Default,,0,0,0,,- Help! A monster!\N- Run away!
-Dialogue: 0,0:10:44.30,0:10:46.18,Default,,0,0,0,,Another monster!
-Dialogue: 0,0:11:02.90,0:11:05.02,Default,,0,0,0,,Attack it!
-Dialogue: 0,0:11:09.82,0:11:12.89,Default,,0,0,0,,Tell the truth: you didn't\Nexpect these wonders, did you?
-Dialogue: 0,0:11:12.94,0:11:15.50,Default,,0,0,0,,- But that's the devil!\N- Who could it be?
-Dialogue: 0,0:11:16.02,0:11:19.41,Default,,0,0,0,,Fools! Your weapons\Nare useless against me,
-Dialogue: 0,0:11:19.46,0:11:23.01,Default,,0,0,0,,spirit of sleep! I will punish you\Nfor staying awake tonight!
-Dialogue: 0,0:11:23.06,0:11:25.02,Default,,0,0,0,,- Wake up, sprite!\N- Here I am!
-Dialogue: 0,0:11:25.26,0:11:28.17,Default,,0,0,0,,- Give me the sleep powder!\N- Right away!
-Dialogue: 0,0:11:30.38,0:11:33.10,Default,,0,0,0,,Powder of anger,\Npowder of tears,
-Dialogue: 0,0:11:33.14,0:11:35.34,Default,,0,0,0,,powder of laughter,\Npowder of sleep!
-Dialogue: 0,0:11:35.38,0:11:37.58,Default,,0,0,0,,Here it is! To you, little brother!
-Dialogue: 0,0:11:39.50,0:11:42.49,Default,,0,0,0,,Now I will punish you! Fall asleep!
-Dialogue: 0,0:11:44.02,0:11:47.01,Default,,0,0,0,,I can't keep\Nmy eyes open...
-Dialogue: 0,0:11:48.58,0:11:51.89,Default,,0,0,0,,The powder has no effect on me,\Nbecause I am an angel.
-Dialogue: 0,0:11:54.54,0:11:56.93,Default,,0,0,0,,No one can resist sleep!
-Dialogue: 0,0:12:00.62,0:12:03.82,Default,,0,0,0,,Who sent you to disturb\Nthe peace of the forest tonight?
-Dialogue: 0,0:12:03.86,0:12:06.46,Default,,0,0,0,,It was Prince Sapphire!\NSuddenly he said...
-Dialogue: 0,0:12:06.50,0:12:08.94,Default,,0,0,0,,..that he wanted to eat\Nsome strawberries.
-Dialogue: 0,0:12:08.98,0:12:12.69,Default,,0,0,0,,Prince Sapphire... I know him,\Nbecause he often comes to play.
-Dialogue: 0,0:12:12.74,0:12:15.21,Default,,0,0,0,,Hey, sprite, how can I punish him?
-Dialogue: 0,0:12:27.42,0:12:30.17,Default,,0,0,0,,Now, my dear Plastic.
-Dialogue: 0,0:12:31.26,0:12:33.86,Default,,0,0,0,,Have a little patience!\NLet's do a test.
-Dialogue: 0,0:12:33.90,0:12:36.13,Default,,0,0,0,,Let me see\Nhow you look on the throne.
-Dialogue: 0,0:12:44.62,0:12:46.61,Default,,0,0,0,,You are incompetent!
-Dialogue: 0,0:12:46.94,0:12:49.61,Default,,0,0,0,,I told you to sit on the throne!
-Dialogue: 0,0:12:49.66,0:12:52.49,Default,,0,0,0,,Oh, you look so good\Non that throne!
-Dialogue: 0,0:12:52.54,0:12:54.45,Default,,0,0,0,,It seems made just for you!
-Dialogue: 0,0:12:54.50,0:12:57.86,Default,,0,0,0,,One of these days, you will be sitting\Nthere with the crown on your head!
-Dialogue: 0,0:12:57.90,0:13:00.02,Default,,0,0,0,,And it will be all thanks to me!
-Dialogue: 0,0:13:01.62,0:13:04.74,Default,,0,0,0,,Yes, mother, I will try to\Nbe diligent! Just as you want!
-Dialogue: 0,0:13:04.78,0:13:07.01,Default,,0,0,0,,Don't worry!\NI will be good.
-Dialogue: 0,0:13:07.06,0:13:09.13,Default,,0,0,0,,I won't get angry! I won't fight!
-Dialogue: 0,0:13:25.18,0:13:28.62,Default,,0,0,0,,Spoiled prince! The spirit of\Nsleep has come to punish you...
-Dialogue: 0,0:13:28.66,0:13:31.73,Default,,0,0,0,,...for your tantrums, which have\Ndisturbed the peace of the forest!
-Dialogue: 0,0:13:31.78,0:13:34.45,Default,,0,0,0,,Damn!\NHe is fast asleep.
-Dialogue: 0,0:13:34.50,0:13:37.38,Default,,0,0,0,,...and I certainly cannot punish someone\Nwho is sleeping! I'll have to wake him up!
-Dialogue: 0,0:13:37.42,0:13:40.02,Default,,0,0,0,,And I will do just... that!
-Dialogue: 0,0:13:40.06,0:13:43.66,Default,,0,0,0,,- Hey! Who is it?!\N- I am the spirit of sleep!
-Dialogue: 0,0:13:43.70,0:13:46.26,Default,,0,0,0,,I will make sure that you\Ncan no longer sleep! There!
-Dialogue: 0,0:13:47.26,0:13:49.62,Default,,0,0,0,,Why do you want to give me this punishment?
-Dialogue: 0,0:13:50.10,0:13:52.22,Default,,0,0,0,,Don't pretend you don't know!
-Dialogue: 0,0:13:52.26,0:13:54.41,Default,,0,0,0,,You woke up\Nthe entire forest!
-Dialogue: 0,0:13:54.46,0:13:56.26,Default,,0,0,0,,- Take this!\N- No, it's not true!
-Dialogue: 0,0:13:56.30,0:13:59.05,Default,,0,0,0,,- Didn't you want the strawberries?\N- I assure you, I didn't ask for them!
-Dialogue: 0,0:13:59.10,0:14:01.14,Default,,0,0,0,,May I know who wanted them,\Nthen?
-Dialogue: 0,0:14:01.18,0:14:04.41,Default,,0,0,0,,Well, you see...\NI can't tell you!
-Dialogue: 0,0:14:04.46,0:14:07.13,Default,,0,0,0,,- You're making fun of me, aren't you?\N- What?!
-Dialogue: 0,0:14:08.54,0:14:12.14,Default,,0,0,0,,If he won't say it, I will! It was\NPlastic who wanted the strawberries!
-Dialogue: 0,0:14:12.18,0:14:14.14,Default,,0,0,0,,Why did you tell him?
-Dialogue: 0,0:14:14.18,0:14:16.82,Default,,0,0,0,,Good! And so it was\NPlastic! I must go punish him!
-Dialogue: 0,0:14:16.86,0:14:19.74,Default,,0,0,0,,Look, if you do anything to\NPlastic, I won't forgive you!
-Dialogue: 0,0:14:20.02,0:14:22.01,Default,,0,0,0,,Get out of the way!
-Dialogue: 0,0:14:22.22,0:14:24.10,Default,,0,0,0,,Goodbye, little one!
-Dialogue: 0,0:14:24.54,0:14:27.77,Default,,0,0,0,,- No, wait!\N- Then so much the worse for you!
-Dialogue: 0,0:14:28.10,0:14:30.01,Default,,0,0,0,,Spirit of the wind!
-Dialogue: 0,0:14:34.02,0:14:36.90,Default,,0,0,0,,See how it doesn't pay\Nto go against me?
-Dialogue: 0,0:14:36.94,0:14:39.50,Default,,0,0,0,,If you want war,\Nyou'll have it! Take this!
-Dialogue: 0,0:14:39.54,0:14:41.29,Default,,0,0,0,,And this!
-Dialogue: 0,0:14:43.82,0:14:45.49,Default,,0,0,0,,Take that!
-Dialogue: 0,0:14:51.54,0:14:55.14,Default,,0,0,0,,I won't continue! I promised my\Nmother that I wouldn't get angry.
-Dialogue: 0,0:14:57.14,0:15:00.53,Default,,0,0,0,,- Help!\N- If you hadn't wanted to hit me,
-Dialogue: 0,0:15:00.58,0:15:03.25,Default,,0,0,0,,- you wouldn't have fallen.\N- Poor elf!
-Dialogue: 0,0:15:03.30,0:15:06.29,Default,,0,0,0,,Hey! Aren't you ashamed to mistreat\Nsuch a small child?
-Dialogue: 0,0:15:06.34,0:15:09.89,Default,,0,0,0,,I didn't want to mistreat him! He suddenly\Ntried to hit me,
-Dialogue: 0,0:15:09.94,0:15:12.38,Default,,0,0,0,,so I took a step to the side\Nand he fell!
-Dialogue: 0,0:15:12.70,0:15:15.14,Default,,0,0,0,,Well done, little elf!
-Dialogue: 0,0:15:15.30,0:15:17.82,Default,,0,0,0,,Anyway,\Nhe deserves a punishment too!
-Dialogue: 0,0:15:17.86,0:15:20.22,Default,,0,0,0,,I will make sure\Nthat he doesn't wake up again!
-Dialogue: 0,0:15:24.66,0:15:27.10,Default,,0,0,0,,I think he has lost consciousness.
-Dialogue: 0,0:15:28.66,0:15:31.18,Default,,0,0,0,,Alright, I will forgive him!\NCome with me!
-Dialogue: 0,0:15:31.22,0:15:32.70,Default,,0,0,0,,Here I am!
-Dialogue: 0,0:15:34.70,0:15:36.61,Default,,0,0,0,,I want to eat strawberries!
-Dialogue: 0,0:15:38.46,0:15:40.53,Default,,0,0,0,,There he is! Did you see? It's that one over there!
-Dialogue: 0,0:15:41.30,0:15:44.29,Default,,0,0,0,,- Grand Duke! Little Grand Duke!\N- Who wants me?
-Dialogue: 0,0:15:45.30,0:15:48.90,Default,,0,0,0,,Little Grand Duke! Tiny Grand Duke!
-Dialogue: 0,0:15:49.18,0:15:51.01,Default,,0,0,0,,But... But who is it?!
-Dialogue: 0,0:15:55.30,0:15:58.82,Default,,0,0,0,,Hey, spoiled brat! Do you know\Nthat they ruined the sleep...
-Dialogue: 0,0:15:58.86,0:16:02.30,Default,,0,0,0,,...of all the forest inhabitants\Nbecause of your tantrums?
-Dialogue: 0,0:16:02.34,0:16:04.33,Default,,0,0,0,,What's there to laugh about?
-Dialogue: 0,0:16:05.58,0:16:08.86,Default,,0,0,0,,As a punishment\Nfor your insolence,
-Dialogue: 0,0:16:08.90,0:16:11.18,Default,,0,0,0,,I will stop you from sleeping forever!
-Dialogue: 0,0:16:17.14,0:16:20.29,Default,,0,0,0,,Plastic! What happened to you,\Nmy son?
-Dialogue: 0,0:16:21.42,0:16:23.57,Default,,0,0,0,,The soldiers didn't\Nfind the strawberries.
-Dialogue: 0,0:16:23.62,0:16:25.58,Default,,0,0,0,,Forget about\Nthis nonsense!
-Dialogue: 0,0:16:25.62,0:16:27.61,Default,,0,0,0,,There's something wrong with Plastic!
-Dialogue: 0,0:16:27.66,0:16:29.62,Default,,0,0,0,,Yes, I know. It's his\Nhead that's the problem.
-Dialogue: 0,0:16:30.30,0:16:32.02,Default,,0,0,0,,Idiot!
-Dialogue: 0,0:16:39.50,0:16:42.25,Default,,0,0,0,,It is beyond my power\Nto cure an idiot!
-Dialogue: 0,0:16:44.58,0:16:46.57,Default,,0,0,0,,I'll take care of curing you!
-Dialogue: 0,0:16:46.62,0:16:50.01,Default,,0,0,0,,Now close your eyes gently! You are sleepy!\NYou are getting sleepier and sleepier!
-Dialogue: 0,0:16:50.06,0:16:53.02,Default,,0,0,0,,You are so sleepy! You\Ncan't wait to go to bed!
-Dialogue: 0,0:17:01.10,0:17:04.33,Default,,0,0,0,,I command you to close\Nthose goddamned eyes!
-Dialogue: 0,0:17:04.38,0:17:06.21,Default,,0,0,0,,Obey!
-Dialogue: 0,0:17:06.38,0:17:08.69,Default,,0,0,0,,Come on, my dear child! Close them!
-Dialogue: 0,0:17:08.94,0:17:12.22,Default,,0,0,0,,- Is Plastic here?\N- What do you want, Prince?
-Dialogue: 0,0:17:12.26,0:17:15.62,Default,,0,0,0,,Duralumin, perhaps I can cure him.\NJust a moment!
-Dialogue: 0,0:17:17.82,0:17:20.81,Default,,0,0,0,,- Opal!\N- Your Highness, where do you want to go?
-Dialogue: 0,0:17:20.86,0:17:23.74,Default,,0,0,0,,I must go into the forest\Nto look for the spirit of sleep
-Dialogue: 0,0:17:24.58,0:17:28.02,Default,,0,0,0,,I won't let you go! It could\Ndo to you what it did to Plastic!
-Dialogue: 0,0:17:28.14,0:17:31.58,Default,,0,0,0,,Everything will be fine.\NPlastic cannot stay like this.
-Dialogue: 0,0:17:32.54,0:17:35.06,Default,,0,0,0,,Do you know that Plastic\Nis your enemy?
-Dialogue: 0,0:17:35.22,0:17:37.89,Default,,0,0,0,,It's true!\NHe is the son of Duralumin
-Dialogue: 0,0:17:37.94,0:17:40.41,Default,,0,0,0,,...and the Grand Duke wants him to\Nascend the throne in your place!
-Dialogue: 0,0:17:40.50,0:17:43.89,Default,,0,0,0,,- You know it well! Don't help him!\N- Enough!
-Dialogue: 0,0:17:48.58,0:17:52.89,Default,,0,0,0,,Spirit of sleep!\NSpirit of sleep, where are you?
-Dialogue: 0,0:17:53.18,0:17:56.30,Default,,0,0,0,,Where are you, spirit? Little spirit!
-Dialogue: 0,0:17:58.26,0:18:00.38,Default,,0,0,0,,Spirit of sleep!
-Dialogue: 0,0:18:05.58,0:18:08.02,Default,,0,0,0,,- Spirit of sleep, please!\N- What do you want?
-Dialogue: 0,0:18:08.06,0:18:10.73,Default,,0,0,0,,Have you come to get\Nrevenge for the other night?
-Dialogue: 0,0:18:10.78,0:18:14.57,Default,,0,0,0,,Darkness, fall! - I didn't come\Nto get my revenge!
-Dialogue: 0,0:18:14.62,0:18:16.82,Default,,0,0,0,,I cannot fight\Nif it isn't dark.
-Dialogue: 0,0:18:16.86,0:18:18.69,Default,,0,0,0,,And now it's pitch black!
-Dialogue: 0,0:18:18.74,0:18:21.94,Default,,0,0,0,,More brushwood! Yes!\NMake him dance some more!
-Dialogue: 0,0:18:21.98,0:18:24.21,Default,,0,0,0,,- A little more!\N- Enough!
-Dialogue: 0,0:18:24.26,0:18:26.41,Default,,0,0,0,,Enough! Stop! Enough!
-Dialogue: 0,0:18:26.46,0:18:29.37,Default,,0,0,0,,Please, enough! Enough!
-Dialogue: 0,0:18:29.78,0:18:32.22,Default,,0,0,0,,Please, turn Plastic\Nback to how he was!
-Dialogue: 0,0:18:32.26,0:18:35.09,Default,,0,0,0,,- No way!\N- I am so sorry...
-Dialogue: 0,0:18:35.14,0:18:37.42,Default,,0,0,0,,...about the soldiers.\NYou're right, I know.
-Dialogue: 0,0:18:37.46,0:18:40.10,Default,,0,0,0,,You're saying that to me\Nbecause you're so afraid of me!
-Dialogue: 0,0:18:40.14,0:18:44.10,Default,,0,0,0,,But you can't... Oh, no! I\Npromised not to get angry!
-Dialogue: 0,0:18:44.42,0:18:47.30,Default,,0,0,0,,- Pixie, teach him a little lesson.\N- At your command!
-Dialogue: 0,0:19:04.34,0:19:06.22,Default,,0,0,0,,I slept...
-Dialogue: 0,0:19:06.26,0:19:08.86,Default,,0,0,0,,Right, now I remember! You\Nwere the one who put me to sleep!
-Dialogue: 0,0:19:09.50,0:19:12.46,Default,,0,0,0,,- And who the hell are you?\N- That's what I'm asking you.
-Dialogue: 0,0:19:12.54,0:19:15.53,Default,,0,0,0,,- You are very impertinent!\N- No, you're the impertinent one!
-Dialogue: 0,0:19:15.58,0:19:17.57,Default,,0,0,0,,You are very impertinent!
-Dialogue: 0,0:19:22.90,0:19:26.74,Default,,0,0,0,,How is it that Sapphire takes all\Nof this and hasn't gotten angry yet?
-Dialogue: 0,0:19:26.78,0:19:28.69,Default,,0,0,0,,I get it!
-Dialogue: 0,0:19:28.74,0:19:30.65,Default,,0,0,0,,In those jars there\Nis magic powder!
-Dialogue: 0,0:19:30.70,0:19:33.90,Default,,0,0,0,,What a coward! It's\Nunbelievable that he's a Prince!
-Dialogue: 0,0:19:36.10,0:19:39.86,Default,,0,0,0,,I need the anger powder. Which\None is it? Ah, here, it's this one!
-Dialogue: 0,0:19:47.34,0:19:49.90,Default,,0,0,0,,Now I feel really angry!
-Dialogue: 0,0:19:50.74,0:19:52.94,Default,,0,0,0,,Do you think it's over? Look!
-Dialogue: 0,0:19:57.62,0:19:59.42,Default,,0,0,0,,Listen to me!
-Dialogue: 0,0:19:59.50,0:20:02.14,Default,,0,0,0,,You don't even have the\Nstrength to stand on your feet!
-Dialogue: 0,0:20:02.46,0:20:05.90,Default,,0,0,0,,Are you still provoking me?\NToo bad for you, spirit of sleep!
-Dialogue: 0,0:20:05.94,0:20:08.01,Default,,0,0,0,,I will challenge you to a duel!
-Dialogue: 0,0:20:08.82,0:20:11.21,Default,,0,0,0,,Well? Where did\Nyou put all your fight?
-Dialogue: 0,0:20:11.26,0:20:14.54,Default,,0,0,0,,Take this! And this! And this!
-Dialogue: 0,0:20:15.22,0:20:17.21,Default,,0,0,0,,Sprite, help!
-Dialogue: 0,0:20:27.94,0:20:30.90,Default,,0,0,0,,Now let's settle the\Nscore... Look up there!
-Dialogue: 0,0:20:31.90,0:20:34.02,Default,,0,0,0,,Now will you come and cure Plastic?
-Dialogue: 0,0:20:34.42,0:20:36.65,Default,,0,0,0,,No! It's useless to threaten me!
-Dialogue: 0,0:20:36.86,0:20:39.66,Default,,0,0,0,,Then tell me how\NI can cure Plastic!
-Dialogue: 0,0:20:39.90,0:20:42.29,Default,,0,0,0,,If you ask me like\Nthat, I will never tell you!
-Dialogue: 0,0:20:42.34,0:20:44.38,Default,,0,0,0,,Tell me, I beg you!
-Dialogue: 0,0:20:44.42,0:20:47.22,Default,,0,0,0,,If you do what I ask\Nof you, then I'll tell you!
-Dialogue: 0,0:20:48.10,0:20:51.78,Default,,0,0,0,,- I accept!\N- Then kneel on the ground and beg me!
-Dialogue: 0,0:20:51.82,0:20:54.38,Default,,0,0,0,,Do you really want me\Nto get down on my knees?
-Dialogue: 0,0:20:54.42,0:20:57.65,Default,,0,0,0,,Just as I said:\Nkneel and beg me!
-Dialogue: 0,0:20:58.42,0:21:00.70,Default,,0,0,0,,What's the matter? You can't do it?
-Dialogue: 0,0:21:00.74,0:21:04.05,Default,,0,0,0,,A Prince never stoops\Nto such things!
-Dialogue: 0,0:21:04.86,0:21:07.69,Default,,0,0,0,,I beg you,\Nshow me what I can do.
-Dialogue: 0,0:21:09.86,0:21:12.74,Default,,0,0,0,,How amusing! A Prince\Nkneeling before me!
-Dialogue: 0,0:21:12.78,0:21:15.22,Default,,0,0,0,,Tell me if he looks like a Prince to you!
-Dialogue: 0,0:21:16.30,0:21:18.26,Default,,0,0,0,,And he's begging me, too!
-Dialogue: 0,0:21:21.22,0:21:24.13,Default,,0,0,0,,- Now I...\N- Isn't this enough for you?
-Dialogue: 0,0:21:29.90,0:21:32.13,Default,,0,0,0,,Well, now I'll tell you.
-Dialogue: 0,0:21:32.74,0:21:36.50,Default,,0,0,0,,But you must be crazy to do\Nsuch things for another person.
-Dialogue: 0,0:21:36.90,0:21:38.73,Default,,0,0,0,,He is a human being.
-Dialogue: 0,0:21:54.10,0:21:56.38,Default,,0,0,0,,My poor son!
-Dialogue: 0,0:21:57.22,0:21:59.82,Default,,0,0,0,,- I can cure him!\N- What is that jar?
-Dialogue: 0,0:21:59.86,0:22:01.82,Default,,0,0,0,,If you hurt my baby...
-Dialogue: 0,0:22:01.86,0:22:04.42,Default,,0,0,0,,This is the powder that will make\Nhim go back to how he was before.
-Dialogue: 0,0:22:12.82,0:22:15.13,Default,,0,0,0,,He has woken up!
-Dialogue: 0,0:22:17.66,0:22:20.41,Default,,0,0,0,,I am happy to see\Nthat you are well again!
-Dialogue: 0,0:22:21.42,0:22:24.14,Default,,0,0,0,,Your Highness, I have\Nno words to thank you!
-Dialogue: 0,0:22:24.18,0:22:27.41,Default,,0,0,0,,Silence! What I did I\Ncertainly didn't do for you.
-Dialogue: 0,0:22:32.70,0:22:35.30,Default,,0,0,0,,Grand Duke, here is the powder\Nthat always keeps one awake.
-Dialogue: 0,0:22:35.34,0:22:37.25,Default,,0,0,0,,Do you want him to be sick again?
-Dialogue: 0,0:22:37.30,0:22:40.34,Default,,0,0,0,,But I got it to put it\Non the Prince! What do you think?
-Dialogue: 0,0:22:40.58,0:22:42.38,Default,,0,0,0,,- On Sapphire?\N- Yes! There is no need
-Dialogue: 0,0:22:42.42,0:22:45.25,Default,,0,0,0,,...to thank him too much just\Nbecause he saved your son.
-Dialogue: 0,0:22:45.30,0:22:48.61,Default,,0,0,0,,I was in the forest while he\Nwas asking the spirit what to do...
-Dialogue: 0,0:22:48.66,0:22:50.73,Default,,0,0,0,,...and I saw\Nthat he didn't try all that hard!
-Dialogue: 0,0:22:50.78,0:22:52.90,Default,,0,0,0,,Do not forget\Nthat, as long as the Prince is alive,
-Dialogue: 0,0:22:52.94,0:22:54.82,Default,,0,0,0,,your son will not be able to\Nsit on the throne!
-Dialogue: 0,0:22:54.86,0:22:57.01,Default,,0,0,0,,Right, for a while\NI had forgotten it.
-Dialogue: 0,0:22:57.62,0:23:00.18,Default,,0,0,0,,Leave it to me!\NI know what to do!
-Dialogue: 0,0:23:20.62,0:23:23.85,Default,,0,0,0,,Hello, friend! I was just\Ndreaming that you were saving me!
-Dialogue: 0,0:23:23.90,0:23:27.45,Default,,0,0,0,,You shouldn't have such foolish dreams!\NYou must sleep soundly.
-Dialogue: 0,0:23:27.82,0:23:30.13,Default,,0,0,0,,I wonder if there is still\Nany child awake..!
-Dialogue: 0,0:23:30.18,0:23:33.17,Default,,0,0,0,,I'm going to do a patrol.\NGoodnight!
-Dialogue: 0,0:23:33.22,0:23:35.29,Default,,0,0,0,,Sleep well, friends!
+Dialogue: 0,0:01:44.10,0:01:50.14,Default,,0,0,0,,Eleventh Episode\NThe Spirit of Sleep\NSleeping Spirit
+Dialogue: 0,0:02:43.64,0:02:44.50,Default,,0,0,0,,Let's play!
+Dialogue: 0,0:02:44.56,0:02:45.56,Default,,0,0,0,,Okay!
+Dialogue: 0,0:02:48.41,0:02:48.94,Default,,0,0,0,,Let's go!
+Dialogue: 0,0:02:49.39,0:02:50.60,Default,,0,0,0,,Your Highness!
+Dialogue: 0,0:02:51.10,0:02:52.58,Default,,0,0,0,,Good morning.
+Dialogue: 0,0:02:55.56,0:02:57.18,Default,,0,0,0,,Why are you sneaking around?
+Dialogue: 0,0:02:57.20,0:02:58.76,Default,,0,0,0,,Today is a day where it's okay to play.
+Dialogue: 0,0:02:59.52,0:03:00.84,Default,,0,0,0,,Ah, that's right!
+Dialogue: 0,0:03:01.06,0:03:02.61,Default,,0,0,0,,Whoa, I'm flying!
+Dialogue: 0,0:03:03.28,0:03:06.50,Default,,0,0,0,,However, you must not get carried away just because you are away from your parents.
+Dialogue: 0,0:03:06.62,0:03:09.06,Default,,0,0,0,,You haven't forgotten your promise to your mother, have you?
+Dialogue: 0,0:03:09.60,0:03:10.20,Default,,0,0,0,,Rule one!
+Dialogue: 0,0:03:10.55,0:03:13.13,Default,,0,0,0,,Keep track of time at the mountain lodge!
+Dialogue: 0,0:03:13.28,0:03:14.28,Default,,0,0,0,,And then?
+Dialogue: 0,0:03:14.74,0:03:15.74,Default,,0,0,0,,Rule one!
+Dialogue: 0,0:03:16.51,0:03:20.73,Default,,0,0,0,,Since I get into fights easily, I must practice not getting angry during this one-week break!
+Dialogue: 0,0:03:20.79,0:03:22.12,Default,,0,0,0,,You understand, right?
+Dialogue: 0,0:03:22.34,0:03:23.34,Default,,0,0,0,,Alright, I'm going off to play!
+Dialogue: 0,0:03:23.58,0:03:24.58,Default,,0,0,0,,Opal!
+Dialogue: 0,0:03:29.61,0:03:30.86,Default,,0,0,0,,Good grief...
+Dialogue: 0,0:03:30.88,0:03:33.52,Default,,0,0,0,,Help me!
+Dialogue: 0,0:03:34.70,0:03:37.29,Default,,0,0,0,,Garigori, where has the Prince gone?
+Dialogue: 0,0:03:37.84,0:03:39.24,Default,,0,0,0,,What? It's just Dr. Uranari!
+Dialogue: 0,0:03:39.26,0:03:40.81,Default,,0,0,0,,It is not time yet, I tell you!
+Dialogue: 0,0:03:41.24,0:03:42.54,Default,,0,0,0,,Time doesn't matter!
+Dialogue: 0,0:03:42.70,0:03:43.88,Default,,0,0,0,,He’s a Prince, a young Prince!
+Dialogue: 0,0:03:44.18,0:03:45.82,Default,,0,0,0,,The Prince—er, His Highness—
+Dialogue: 0,0:03:45.85,0:03:49.44,Default,,0,0,0,,is playing on the hill, but... the time... I mean, the schedule must be kept!
+Dialogue: 0,0:04:03.08,0:04:03.66,Default,,0,0,0,,Wow!
+Dialogue: 0,0:04:03.71,0:04:04.74,Default,,0,0,0,,Beautiful scenery!
+Dialogue: 0,0:04:05.03,0:04:05.41,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:04:11.72,0:04:13.34,Default,,0,0,0,,That's the King's chair, right?
+Dialogue: 0,0:04:13.56,0:04:15.26,Default,,0,0,0,,Yeah, it's the King's...
+Dialogue: 0,0:04:17.52,0:04:18.96,Default,,0,0,0,,I wonder what's about to start?
+Dialogue: 0,0:04:19.51,0:04:21.42,Default,,0,0,0,,Your Highness!
+Dialogue: 0,0:04:23.11,0:04:25.82,Default,,0,0,0,,Your Highness, please return to the mountain lodge immediately!
+Dialogue: 0,0:04:25.98,0:04:26.48,Default,,0,0,0,,No way!
+Dialogue: 0,0:04:26.68,0:04:27.68,Default,,0,0,0,,I'm right in the middle of playing!
+Dialogue: 0,0:04:27.91,0:04:30.16,Default,,0,0,0,,Don't be ridiculous, go on now!
+Dialogue: 0,0:04:35.17,0:04:37.61,Default,,0,0,0,,No, no, I don't want to!
+Dialogue: 0,0:04:37.92,0:04:39.70,Default,,0,0,0,,What’s the point of wearing a thing like this!?
+Dialogue: 0,0:04:40.04,0:04:43.58,Default,,0,0,0,,The King is ill, so you must deliver the welcoming address in his stead...
+Dialogue: 0,0:04:43.60,0:04:44.42,Default,,0,0,0,,Well? Who?
+Dialogue: 0,0:04:44.54,0:04:45.60,Default,,0,0,0,,His Highness Plastic.
+Dialogue: 0,0:04:45.82,0:04:46.44,Default,,0,0,0,,Plastic?
+Dialogue: 0,0:04:46.79,0:04:48.29,Default,,0,0,0,,Huh, Duralumin's kid?
+Dialogue: 0,0:04:48.51,0:04:50.58,Default,,0,0,0,,Indeed, that little pest...
+Dialogue: 0,0:04:50.60,0:04:53.55,Default,,0,0,0,,If Lord Duralumin hears that, it'll be a disaster!
+Dialogue: 0,0:04:54.09,0:04:57.90,Default,,0,0,0,,I mean, did it really take him 8 years to finally graduate from kindergarten?
+Dialogue: 0,0:04:58.44,0:05:00.98,Default,,0,0,0,,It took him 8 years to graduate from kindergarten?
+Dialogue: 0,0:05:03.18,0:05:04.18,Default,,0,0,0,,Please, keep it down.
+Dialogue: 0,0:05:06.00,0:05:09.51,Default,,0,0,0,,Grand Duke Duralumin has arrived!
+Dialogue: 0,0:05:28.81,0:05:31.91,Default,,0,0,0,,Oh, Plastic, it doesn't hurt, it doesn't hurt. There, you're fine.
+Dialogue: 0,0:05:31.93,0:05:35.24,Default,,0,0,0,,Now, Plastic. Give a proper greeting just like we practiced.
+Dialogue: 0,0:05:35.37,0:05:38.44,Default,,0,0,0,,Show them your best side so you don't lose to the likes of Sapphire.
+Dialogue: 0,0:05:38.74,0:05:41.28,Default,,0,0,0,,Nylon, you did make him practice, didn't you?
+Dialogue: 0,0:05:41.39,0:05:42.16,Default,,0,0,0,,Flawlessly.
+Dialogue: 0,0:05:43.76,0:05:45.39,Default,,0,0,0,,Yo, hello.
+Dialogue: 0,0:05:48.58,0:05:52.32,Default,,0,0,0,,Prince Sapphire, I would appreciate it if you offered your greeting according to protocol.
+Dialogue: 0,0:05:52.58,0:05:54.83,Default,,0,0,0,,Never mind that, never mind that. Plastic, congratulations.
+Dialogue: 0,0:05:54.95,0:05:56.29,Default,,0,0,0,,Oh, th-thanks.
+Dialogue: 0,0:05:56.50,0:05:58.68,Default,,0,0,0,,Hey now, Plastic, give your greeting.
+Dialogue: 0,0:06:04.55,0:06:05.55,Default,,0,0,0,,Turn right.
+Dialogue: 0,0:06:17.18,0:06:18.74,Default,,0,0,0,,What kind of practice was that?!
+Dialogue: 0,0:06:18.76,0:06:20.30,Default,,0,0,0,,Well, even if you say that...
+Dialogue: 0,0:06:21.64,0:06:22.84,Default,,0,0,0,,What's so funny?
+Dialogue: 0,0:06:23.37,0:06:25.34,Default,,0,0,0,,Let's skip the greetings and go play.
+Dialogue: 0,0:06:25.90,0:06:28.18,Default,,0,0,0,,Forget Duralumin! Plastic, let's go play!
+Dialogue: 0,0:06:35.23,0:06:38.42,Default,,0,0,0,,When dining, do this, then that, and then—do you understand?
+Dialogue: 0,0:06:38.70,0:06:41.42,Default,,0,0,0,,Drink with your spoon without making a sound.
+Dialogue: 0,0:06:41.72,0:06:45.86,Default,,0,0,0,,And then do this, and it goes like this, like this, like this, like this, like this, like this...
+Dialogue: 0,0:06:47.47,0:06:49.72,Default,,0,0,0,,Good grief, what a dimwit. Not worth teaching at all.
+Dialogue: 0,0:06:49.80,0:06:52.41,Default,,0,0,0,,Straighten up a bit.
+Dialogue: 0,0:06:55.86,0:06:57.45,Default,,0,0,0,,Why, you little brat...!
+Dialogue: 0,0:06:58.28,0:07:00.37,Default,,0,0,0,,How dare you bite my nose...
+Dialogue: 0,0:07:05.75,0:07:07.96,Default,,0,0,0,,Nylon, what were you doing?
+Dialogue: 0,0:07:07.98,0:07:11.44,Default,,0,0,0,,Oh, nothing really, I was just astonished by how quick a learner Prince Plastic is.
+Dialogue: 0,0:07:11.67,0:07:14.10,Default,,0,0,0,,Oh, is that so? Well then, shall we go to dinner?
+Dialogue: 0,0:07:30.37,0:07:32.84,Default,,0,0,0,,A toast to celebrate Prince Plastic's graduation.
+Dialogue: 0,0:07:33.22,0:07:34.22,Default,,0,0,0,,Cheers.
+Dialogue: 0,0:07:38.71,0:07:41.64,Default,,0,0,0,,Damn it, as if I'd ever let Sapphire sit on that throne!
+Dialogue: 0,0:07:42.02,0:07:43.76,Default,,0,0,0,,Sapphire must be a woman.
+Dialogue: 0,0:07:44.18,0:07:46.36,Default,,0,0,0,,By law, a woman cannot take the throne.
+Dialogue: 0,0:07:46.82,0:07:50.54,Default,,0,0,0,,Once Sapphire is taken care of, the throne will belong to Plastic.
+Dialogue: 0,0:07:52.09,0:07:54.90,Default,,0,0,0,,After all, Dad is the King's only brother.
+Dialogue: 0,0:07:55.11,0:07:57.55,Default,,0,0,0,,You are more than qualified. Let people laugh if they want—
+Dialogue: 0,0:07:57.57,0:08:02.20,Default,,0,0,0,,I will definitely make sure Plastic sits on that throne!
+Dialogue: 0,0:08:10.91,0:08:12.16,Default,,0,0,0,,Plastic, where are you going?
+Dialogue: 0,0:08:12.36,0:08:13.72,Default,,0,0,0,,I'm going too, Your Highness!
+Dialogue: 0,0:08:14.74,0:08:16.72,Default,,0,0,0,,Hey, Plastic, wait up.
+Dialogue: 0,0:08:17.35,0:08:20.62,Default,,0,0,0,,Plastic! Come on, let's play, Plastic.
+Dialogue: 0,0:08:23.74,0:08:25.42,Default,,0,0,0,,So you like pictures, huh?
+Dialogue: 0,0:08:30.13,0:08:31.56,Default,,0,0,0,,Well, that's impossible.
+Dialogue: 0,0:08:31.80,0:08:33.52,Default,,0,0,0,,Because this is just a picture, see? You can't take it.
+Dialogue: 0,0:08:33.54,0:08:34.98,Default,,0,0,0,,I want to eat dat.
+Dialogue: 0,0:08:35.01,0:08:37.78,Default,,0,0,0,,This is called a winter strawberry—a strawberry picked in winter.
+Dialogue: 0,0:08:37.99,0:08:39.33,Default,,0,0,0,,But like I said, this is just a picture.
+Dialogue: 0,0:08:39.48,0:08:40.89,Default,,0,0,0,,I want to eat dat! I want it!
+Dialogue: 0,0:08:40.91,0:08:42.34,Default,,0,0,0,,You want to eat something you can't have?!
+Dialogue: 0,0:08:43.67,0:08:45.26,Default,,0,0,0,,What a handful!
+Dialogue: 0,0:08:45.28,0:08:46.80,Default,,0,0,0,,I'm sorry, Plastic.
+Dialogue: 0,0:08:47.08,0:08:48.38,Default,,0,0,0,,I already said I'm sorry.
+Dialogue: 0,0:08:53.36,0:08:54.88,Default,,0,0,0,,I want to eat it!
+Dialogue: 0,0:08:54.91,0:08:57.04,Default,,0,0,0,,Well, that's asking for the impossible, Plastic.
+Dialogue: 0,0:08:57.14,0:08:59.71,Default,,0,0,0,,It's summer right now. Winter strawberries can only be picked in winter.
+Dialogue: 0,0:08:59.73,0:09:00.84,Default,,0,0,0,,I want to eat it!
+Dialogue: 0,0:09:02.23,0:09:03.12,Default,,0,0,0,,We have them, we have them!
+Dialogue: 0,0:09:03.30,0:09:04.57,Default,,0,0,0,,There are winter strawberries!
+Dialogue: 0,0:09:04.59,0:09:06.16,Default,,0,0,0,,What? Are you saying they can be found even in summer?
+Dialogue: 0,0:09:06.60,0:09:07.08,Default,,0,0,0,,Yes.
+Dialogue: 0,0:09:07.36,0:09:10.34,Default,,0,0,0,,Deep in these woods, there's a field where winter strawberries grow even in summer.
+Dialogue: 0,0:09:10.48,0:09:11.48,Default,,0,0,0,,Go pick them.
+Dialogue: 0,0:09:12.41,0:09:13.74,Default,,0,0,0,,I've sent the soldiers to fetch them.
+Dialogue: 0,0:09:14.04,0:09:15.36,Default,,0,0,0,,However, Grand Duke Duralumin...
+Dialogue: 0,0:09:15.88,0:09:18.56,Default,,0,0,0,,Rest assured, I've made sure everyone thinks that the selfish person
+Dialogue: 0,0:09:18.59,0:09:21.92,Default,,0,0,0,,demanding winter strawberries in the middle of the night is Prince Sapphire.
+Dialogue: 0,0:09:22.02,0:09:23.18,Default,,0,0,0,,Hmm, well done.
+Dialogue: 0,0:09:30.62,0:09:32.19,Default,,0,0,0,,It's kind of noisy.
+Dialogue: 0,0:09:42.96,0:09:44.96,Default,,0,0,0,,The prize money is mine.
+Dialogue: 0,0:10:12.66,0:10:13.23,Default,,0,0,0,,Oh, thank goodness.
+Dialogue: 0,0:10:15.80,0:10:18.12,Default,,0,0,0,,Who's making a racket in the middle of the night?
+Dialogue: 0,0:10:43.44,0:10:44.60,Default,,0,0,0,,Help!
+Dialogue: 0,0:10:51.53,0:10:53.74,Default,,0,0,0,,Are you surprised, you foolish human alliance?
+Dialogue: 0,0:11:02.80,0:11:03.80,Default,,0,0,0,,It's a demon!
+Dialogue: 0,0:11:06.50,0:11:07.50,Default,,0,0,0,,Foolish humans.
+Dialogue: 0,0:11:09.78,0:11:12.35,Default,,0,0,0,,Do you think that will work against the Sandman, the Spirit of Sleep?
+Dialogue: 0,0:11:12.72,0:11:13.92,Default,,0,0,0,,Spirit of Sleep.
+Dialogue: 0,0:11:14.10,0:11:15.16,Default,,0,0,0,,Spirit of Sleep.
+Dialogue: 0,0:11:15.58,0:11:18.08,Default,,0,0,0,,Anyone staying up late at night is my enemy!
+Dialogue: 0,0:11:18.40,0:11:20.19,Default,,0,0,0,,On top of that, you went and trashed the forest!
+Dialogue: 0,0:11:20.51,0:11:22.11,Default,,0,0,0,,What kind of punishment should I give you?
+Dialogue: 0,0:11:22.14,0:11:23.14,Default,,0,0,0,,Endo!
+Dialogue: 0,0:11:23.26,0:11:24.26,Default,,0,0,0,,Yes!
+Dialogue: 0,0:11:25.35,0:11:26.50,Default,,0,0,0,,Endo, hand me that!
+Dialogue: 0,0:11:26.96,0:11:27.96,Default,,0,0,0,,OK!
+Dialogue: 0,0:11:30.82,0:11:35.82,Default,,0,0,0,,Anger potion, crying potion, laughing potion, sleeping potion... Ah, here it is!
+Dialogue: 0,0:11:36.03,0:11:37.03,Default,,0,0,0,,Here you go, big brother!
+Dialogue: 0,0:11:38.77,0:11:40.25,Default,,0,0,0,,Now, take your punishment!
+Dialogue: 0,0:11:40.49,0:11:43.94,Default,,0,0,0,,What!?
+Dialogue: 0,0:11:48.87,0:11:51.22,Default,,0,0,0,,I'm an angel, so potions don't work on me.
+Dialogue: 0,0:11:54.56,0:11:56.56,Default,,0,0,0,,Fine then, you guys can just go ahead and catch a cold like that!
+Dialogue: 0,0:11:56.67,0:11:57.67,Default,,0,0,0,,Serve you right!
+Dialogue: 0,0:12:00.60,0:12:03.60,Default,,0,0,0,,Hey, who on earth brought you guys out here in the middle of the night!?
+Dialogue: 0,0:12:04.07,0:12:08.78,Default,,0,0,0,,It was Prince Sapphire. Late at night, he suddenly said he wanted to eat winter strawberries.
+Dialogue: 0,0:12:09.01,0:12:10.44,Default,,0,0,0,,Prince Sapphire!?
+Dialogue: 0,0:12:10.44,0:12:11.16,Default,,0,0,0,,Damn it!
+Dialogue: 0,0:12:11.18,0:12:12.18,Default,,0,0,0,,That fool of a prince!
+Dialogue: 0,0:12:12.64,0:12:14.59,Default,,0,0,0,,Endo what kind of punishment should we give?
+Dialogue: 0,0:12:15.19,0:12:16.86,Default,,0,0,0,,You know, right?
+Dialogue: 0,0:12:17.50,0:12:18.50,Default,,0,0,0,,Yes!
+Dialogue: 0,0:12:27.52,0:12:29.16,Default,,0,0,0,,Now then, Plastic.
+Dialogue: 0,0:12:31.33,0:12:36.03,Default,,0,0,0,,Just a little more patience. Come on, sit on the throne. Let Papa take a look at you.
+Dialogue: 0,0:12:36.05,0:12:37.03,Default,,0,0,0,,Yes
+Dialogue: 0,0:12:43.49,0:12:44.46,Default,,0,0,0,,Ouch!
+Dialogue: 0,0:12:44.66,0:12:45.72,Default,,0,0,0,,Ugh, what an infuriating child!
+Dialogue: 0,0:12:45.82,0:12:47.26,Default,,0,0,0,,When I tell you to sit, you sit!
+Dialogue: 0,0:12:49.70,0:12:51.06,Default,,0,0,0,,Oh, Papa swears to you.
+Dialogue: 0,0:12:51.08,0:12:51.90,Default,,0,0,0,,I will make you King, no matter what!
+Dialogue: 0,0:12:51.92,0:12:55.72,Default,,0,0,0,,I will sit you in that seat and place a crown upon your head!
+Dialogue: 0,0:12:55.95,0:12:59.32,Default,,0,0,0,,Even if you're a bit lacking, I have the power!
+Dialogue: 0,0:13:03.79,0:13:07.96,Default,,0,0,0,,Don't go home early... right on time...
+Dialogue: 0,0:13:22.88,0:13:23.88,Default,,0,0,0,,Hey!
+Dialogue: 0,0:13:27.54,0:13:28.88,Default,,0,0,0,,You selfish idiot prince!
+Dialogue: 0,0:13:29.18,0:13:30.66,Default,,0,0,0,,Lord Sandman has come to punish you!
+Dialogue: 0,0:13:30.94,0:13:31.54,Default,,0,0,0,,Wake up!
+Dialogue: 0,0:13:33.68,0:13:34.68,Default,,0,0,0,,He's sleeping soundly!
+Dialogue: 0,0:13:35.15,0:13:38.06,Default,,0,0,0,,A Sleep Fairy can't go attacking someone who's already asleep!
+Dialogue: 0,0:13:38.82,0:13:39.64,Default,,0,0,0,,Alright!
+Dialogue: 0,0:13:39.67,0:13:40.35,Default,,0,0,0,,No!
+Dialogue: 0,0:13:41.31,0:13:42.52,Default,,0,0,0,,I am the Sleep Fairy, Lord Sandman
+Dialogue: 0,0:13:42.81,0:13:44.52,Default,,0,0,0,,I'll make it so you can never sleep again for the rest of your life!
+Dialogue: 0,0:13:47.42,0:13:48.42,Default,,0,0,0,,Sleep Fairy?
+Dialogue: 0,0:13:48.46,0:13:49.46,Default,,0,0,0,,What's gotten into you all of a sudden?
+Dialogue: 0,0:13:49.78,0:13:50.78,Default,,0,0,0,,Don't play dumb!
+Dialogue: 0,0:13:51.05,0:13:53.99,Default,,0,0,0,,Because you wanted winter strawberries, the forest is a complete mess!
+Dialogue: 0,0:13:55.16,0:13:55.76,Default,,0,0,0,,Stop it!
+Dialogue: 0,0:13:55.88,0:13:56.88,Default,,0,0,0,,I won't!
+Dialogue: 0,0:13:57.20,0:13:59.24,Default,,0,0,0,,I don't want any winter strawberries!
+Dialogue: 0,0:13:59.34,0:13:59.90,Default,,0,0,0,,Then who was it?
+Dialogue: 0,0:13:59.92,0:14:00.92,Default,,0,0,0,,The one who wanted them!
+Dialogue: 0,0:14:03.36,0:14:04.36,Default,,0,0,0,,You tell me!
+Dialogue: 0,0:14:04.69,0:14:05.69,Default,,0,0,0,,You're trying to play dumb!
+Dialogue: 0,0:14:06.19,0:14:07.33,Default,,0,0,0,,Grand Duke
+Dialogue: 0,0:14:08.58,0:14:10.88,Default,,0,0,0,,Um... the one who wanted winter strawberries was Plastic!
+Dialogue: 0,0:14:10.92,0:14:12.28,Default,,0,0,0,,The prince isn't that stupid!
+Dialogue: 0,0:14:12.84,0:14:13.84,Default,,0,0,0,,Don't say unnecessary things!
+Dialogue: 0,0:14:14.20,0:14:15.20,Default,,0,0,0,,Plastic?
+Dialogue: 0,0:14:15.24,0:14:16.24,Default,,0,0,0,,In that case, where is he?!
+Dialogue: 0,0:14:16.66,0:14:19.37,Default,,0,0,0,,If you do something terrible to Plastic, I won't forgive you!
+Dialogue: 0,0:14:19.88,0:14:21.15,Default,,0,0,0,,Get out of the way! Move it!
+Dialogue: 0,0:14:22.85,0:14:23.85,Default,,0,0,0,,Well then, farewell!
+Dialogue: 0,0:14:26.38,0:14:27.75,Default,,0,0,0,,You did it!
+Dialogue: 0,0:14:28.19,0:14:29.60,Default,,0,0,0,,It's the Wind Fairy!
+Dialogue: 0,0:14:35.47,0:14:37.02,Default,,0,0,0,,As if anyone could match Lord Sandman!
+Dialogue: 0,0:14:37.20,0:14:38.47,Default,,0,0,0,,Now you've done it!
+Dialogue: 0,0:14:41.12,0:14:43.40,Default,,0,0,0,,Tobi-de yo! Hi no sei yo!
+Dialogue: 0,0:14:52.58,0:14:54.84,Default,,0,0,0,,Oh no... didn't I promise not to get angry?
+Dialogue: 0,0:15:00.39,0:15:02.00,Default,,0,0,0,,Who are you?
+Dialogue: 0,0:15:02.36,0:15:03.08,Default,,0,0,0,,Endo!
+Dialogue: 0,0:15:03.18,0:15:03.50,Default,,0,0,0,,Hey!
+Dialogue: 0,0:15:03.58,0:15:05.67,Default,,0,0,0,,Are you really going to bully someone that young?
+Dialogue: 0,0:15:06.28,0:15:07.72,Default,,0,0,0,,I have no intention of bullying them!
+Dialogue: 0,0:15:08.02,0:15:12.04,Default,,0,0,0,,This kid tried to hit me out of nowhere! When I dodged, he started throwing a fit!
+Dialogue: 0,0:15:13.82,0:15:14.82,Default,,0,0,0,,Good boy, Endo!
+Dialogue: 0,0:15:17.24,0:15:20.23,Default,,0,0,0,,I'll make it so you can never sleep again!
+Dialogue: 0,0:15:24.93,0:15:26.94,Default,,0,0,0,,Bro, are you gonna go after someone dressed so nicely?
+Dialogue: 0,0:15:28.46,0:15:29.99,Default,,0,0,0,,Well, I'll let it slide!
+Dialogue: 0,0:15:30.18,0:15:31.18,Default,,0,0,0,,Let's go, Endo!
+Dialogue: 0,0:15:31.28,0:15:32.28,Default,,0,0,0,,Alright!
+Dialogue: 0,0:15:34.65,0:15:36.50,Default,,0,0,0,,I want to eat winter strawberries...
+Dialogue: 0,0:15:38.26,0:15:39.26,Default,,0,0,0,,Here he comes!
+Dialogue: 0,0:15:55.75,0:15:56.39,Default,,0,0,0,,Hey you!
+Dialogue: 0,0:15:56.44,0:15:57.51,Default,,0,0,0,,You selfish blockhead!
+Dialogue: 0,0:15:57.81,0:16:00.64,Default,,0,0,0,,Because of your selfishness, my forest is a complete mess!
+Dialogue: 0,0:16:02.72,0:16:04.02,Default,,0,0,0,,What's so funny?!
+Dialogue: 0,0:16:06.55,0:16:08.62,Default,,0,0,0,,I'll make it so you can never sleep again!
+Dialogue: 0,0:16:17.35,0:16:19.92,Default,,0,0,0,,Plastic... what happened?
+Dialogue: 0,0:16:21.13,0:16:23.20,Default,,0,0,0,,Wow, did the winter strawberries arrive?
+Dialogue: 0,0:16:23.87,0:16:24.88,Default,,0,0,0,,Who cares about that!
+Dialogue: 0,0:16:25.06,0:16:26.46,Default,,0,0,0,,Something's wrong with Plastic!
+Dialogue: 0,0:16:27.25,0:16:29.20,Default,,0,0,0,,Strange? Wasn't he already strange to begin with?
+Dialogue: 0,0:16:29.49,0:16:30.14,Default,,0,0,0,,Fool!
+Dialogue: 0,0:16:30.14,0:16:31.42,Default,,0,0,0,,I mean he’s really become strange now!
+Dialogue: 0,0:16:39.81,0:16:42.18,Default,,0,0,0,,Good grief... stupidity can only be cured by death!
+Dialogue: 0,0:16:45.17,0:16:48.67,Default,,0,0,0,,Come now, Plastic, close your eyes. Gently, close your eyes...
+Dialogue: 0,0:16:48.70,0:16:52.94,Default,,0,0,0,,You're getting sleepy, so very sleepy. It's sleepy-time! Night-night time!
+Dialogue: 0,0:17:01.08,0:17:03.94,Default,,0,0,0,,Not only are you an idiot, you’re a total blowhard!
+Dialogue: 0,0:17:05.92,0:17:08.74,Default,,0,0,0,,Oh, my Plastic...
+Dialogue: 0,0:17:09.24,0:17:10.24,Default,,0,0,0,,Plastic!
+Dialogue: 0,0:17:10.68,0:17:11.88,Default,,0,0,0,,How can I help you?
+Dialogue: 0,0:17:11.88,0:17:14.24,Default,,0,0,0,,Duralumin, I might be able to cure him!
+Dialogue: 0,0:17:14.60,0:17:15.60,Default,,0,0,0,,Wait for me!
+Dialogue: 0,0:17:17.78,0:17:18.78,Default,,0,0,0,,Opal!
+Dialogue: 0,0:17:19.31,0:17:20.40,Default,,0,0,0,,Your Highness, where are you going?
+Dialogue: 0,0:17:20.99,0:17:23.32,Default,,0,0,0,,I'm going to ask the Spirit of Sleep about Plastic!
+Dialogue: 0,0:17:24.62,0:17:25.34,Default,,0,0,0,,You must not!
+Dialogue: 0,0:17:25.36,0:17:27.90,Default,,0,0,0,,What will you do if the same thing happens to you that happened to Plastic?
+Dialogue: 0,0:17:28.23,0:17:29.36,Default,,0,0,0,,I'll be fine!
+Dialogue: 0,0:17:29.66,0:17:31.56,Default,,0,0,0,,Besides, don't you feel sorry for Plastic?
+Dialogue: 0,0:17:32.29,0:17:34.22,Default,,0,0,0,,Plastic is your enemy!
+Dialogue: 0,0:17:34.59,0:17:35.57,Default,,0,0,0,,Oh, that's right!
+Dialogue: 0,0:17:36.89,0:17:39.33,Default,,0,0,0,,That hateful son of Duralumin! He is an unforgivable enemy...
+Dialogue: 0,0:17:39.35,0:17:42.50,Default,,0,0,0,,trying to usurp your throne! We have no reason to help him!
+Dialogue: 0,0:17:42.70,0:17:43.48,Default,,0,0,0,,Idiots!
+Dialogue: 0,0:17:49.15,0:17:50.52,Default,,0,0,0,,Sandman!
+Dialogue: 0,0:17:51.29,0:17:53.20,Default,,0,0,0,,Sandman!
+Dialogue: 0,0:17:53.48,0:17:55.80,Default,,0,0,0,,Sandman! Are you looking for me?!
+Dialogue: 0,0:17:56.47,0:17:58.20,Default,,0,0,0,,Sandman!
+Dialogue: 0,0:17:58.85,0:18:00.32,Default,,0,0,0,,Where are you?!
+Dialogue: 0,0:18:05.02,0:18:05.80,Default,,0,0,0,,Sandman!
+Dialogue: 0,0:18:05.84,0:18:06.84,Default,,0,0,0,,Please, I beg you!
+Dialogue: 0,0:18:07.39,0:18:09.54,Default,,0,0,0,,What, did you come to get revenge for earlier this evening?
+Dialogue: 0,0:18:09.76,0:18:10.76,Default,,0,0,0,,Alright, just you wait!
+Dialogue: 0,0:18:11.55,0:18:12.35,Default,,0,0,0,,That's not it!
+Dialogue: 0,0:18:12.37,0:18:13.48,Default,,0,0,0,,That's wrong, Sandman!
+Dialogue: 0,0:18:13.68,0:18:15.28,Default,,0,0,0,,How's that, pitch black, isn't it!
+Dialogue: 0,0:18:15.61,0:18:17.74,Default,,0,0,0,,I can't tell what's going on when it's bright out!
+Dialogue: 0,0:18:21.68,0:18:22.68,Default,,0,0,0,,One more time!
+Dialogue: 0,0:18:24.40,0:18:24.96,Default,,0,0,0,,What's wrong?
+Dialogue: 0,0:18:25.16,0:18:25.66,Default,,0,0,0,,Stop it!
+Dialogue: 0,0:18:26.08,0:18:27.08,Default,,0,0,0,,One more time!
+Dialogue: 0,0:18:27.34,0:18:28.34,Default,,0,0,0,,Sandman!
+Dialogue: 0,0:18:29.94,0:18:32.03,Default,,0,0,0,,Please, you must fix Plastic!
+Dialogue: 0,0:18:32.40,0:18:33.08,Default,,0,0,0,,No way!
+Dialogue: 0,0:18:33.42,0:18:34.42,Default,,0,0,0,,Please!
+Dialogue: 0,0:18:34.56,0:18:37.31,Default,,0,0,0,,I'll apologize for ruining the forest!
+Dialogue: 0,0:18:38.17,0:18:39.52,Default,,0,0,0,,You're groveling because you're scared, aren't you?
+Dialogue: 0,0:18:39.88,0:18:40.40,Default,,0,0,0,,Coward!
+Dialogue: 0,0:18:40.62,0:18:41.62,Default,,0,0,0,,What did you say?!
+Dialogue: 0,0:18:43.11,0:18:44.11,Default,,0,0,0,,Oh no! I'm not supposed to fight, am I?
+Dialogue: 0,0:18:44.28,0:18:46.14,Default,,0,0,0,,Endo, do that thing to the coward!
+Dialogue: 0,0:18:46.20,0:18:47.24,Default,,0,0,0,,Okay, Big Brother!
+Dialogue: 0,0:18:48.40,0:18:49.40,Default,,0,0,0,,There we go!
+Dialogue: 0,0:19:03.51,0:19:04.90,Default,,0,0,0,,I fell asleep... wait, what?
+Dialogue: 0,0:19:05.96,0:19:06.70,Default,,0,0,0,,Stop it!
+Dialogue: 0,0:19:06.78,0:19:07.78,Default,,0,0,0,,I told you, no!
+Dialogue: 0,0:19:09.30,0:19:10.68,Default,,0,0,0,,Who do you think you are!
+Dialogue: 0,0:19:10.98,0:19:11.98,Default,,0,0,0,,Who are you!
+Dialogue: 0,0:19:12.46,0:19:13.06,Default,,0,0,0,,Whaddya want?
+Dialogue: 0,0:19:13.08,0:19:13.90,Default,,0,0,0,,Insolent, you say?!
+Dialogue: 0,0:19:13.92,0:19:15.16,Default,,0,0,0,,Why am I insolent?!
+Dialogue: 0,0:19:15.34,0:19:17.58,Default,,0,0,0,,I'm not insolent!
+Dialogue: 0,0:19:22.76,0:19:24.38,Default,,0,0,0,,You should just get mad if they do that!
+Dialogue: 0,0:19:24.56,0:19:26.62,Default,,0,0,0,,This prank is going way too far!
+Dialogue: 0,0:19:27.00,0:19:29.48,Default,,0,0,0,,Ah, that's fairy medicine!
+Dialogue: 0,0:19:30.20,0:19:31.20,Default,,0,0,0,,Weakling!
+Dialogue: 0,0:19:31.44,0:19:33.58,Default,,0,0,0,,And to think that's supposed to be a prince!
+Dialogue: 0,0:19:36.59,0:19:39.18,Default,,0,0,0,,Here is the potion to make them angry!
+Dialogue: 0,0:19:46.71,0:19:48.65,Default,,0,0,0,,Now I'm mad!
+Dialogue: 0,0:19:50.82,0:19:52.88,Default,,0,0,0,,Now, try this next!
+Dialogue: 0,0:19:57.24,0:19:58.29,Default,,0,0,0,,Hey, Sandman!
+Dialogue: 0,0:19:58.31,0:19:59.31,Default,,0,0,0,,Sandman's here!
+Dialogue: 0,0:19:59.82,0:20:00.82,Default,,0,0,0,,Coward!
+Dialogue: 0,0:20:00.89,0:20:02.30,Default,,0,0,0,,You're just like a girl!
+Dialogue: 0,0:20:02.76,0:20:03.38,Default,,0,0,0,,Like what?
+Dialogue: 0,0:20:03.74,0:20:04.23,Default,,0,0,0,,Sandman!
+Dialogue: 0,0:20:04.36,0:20:05.36,Default,,0,0,0,,That's it, now I'm mad!
+Dialogue: 0,0:20:05.43,0:20:06.43,Default,,0,0,0,,I'll take you on!
+Dialogue: 0,0:20:06.46,0:20:07.12,Default,,0,0,0,,Come on!
+Dialogue: 0,0:20:08.98,0:20:09.98,Default,,0,0,0,,Come on, what's wrong?!
+Dialogue: 0,0:20:10.02,0:20:11.02,Default,,0,0,0,,Where'd all your energy go?!
+Dialogue: 0,0:20:15.10,0:20:16.88,Default,,0,0,0,,Endo, help me!
+Dialogue: 0,0:20:16.90,0:20:17.92,Default,,0,0,0,,All right!
+Dialogue: 0,0:20:27.66,0:20:30.36,Default,,0,0,0,,Now you've made me angry-!
+Dialogue: 0,0:20:34.64,0:20:36.10,Default,,0,0,0,,Like I'd ever tell you, even if you try to intimidate me!
+Dialogue: 0,0:20:36.94,0:20:37.52,Default,,0,0,0,,Tell me!
+Dialogue: 0,0:20:37.90,0:20:39.56,Default,,0,0,0,,Tell me how to fix Plastic!
+Dialogue: 0,0:20:39.92,0:20:40.34,Default,,0,0,0,,No way!
+Dialogue: 0,0:20:40.53,0:20:41.75,Default,,0,0,0,,He can just stay like that for the rest of his life!
+Dialogue: 0,0:20:42.42,0:20:42.86,Default,,0,0,0,,Please!
+Dialogue: 0,0:20:43.22,0:20:44.22,Default,,0,0,0,,Tell me!
+Dialogue: 0,0:20:45.02,0:20:46.93,Default,,0,0,0,,If I tell you, will you do as I say?
+Dialogue: 0,0:20:48.16,0:20:48.44,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:20:49.13,0:20:51.52,Default,,0,0,0,,Then bow down on your hands and knees in front of me and beg!
+Dialogue: 0,0:20:52.60,0:20:54.06,Default,,0,0,0,,Bow down and beg?
+Dialogue: 0,0:20:54.30,0:20:54.96,Default,,0,0,0,,That's right!
+Dialogue: 0,0:20:55.07,0:20:57.20,Default,,0,0,0,,You gotta get on your hands and knees and beg!
+Dialogue: 0,0:20:58.52,0:20:59.06,Default,,0,0,0,,What's the matter?
+Dialogue: 0,0:20:59.33,0:21:00.33,Default,,0,0,0,,You can't do it, can you?
+Dialogue: 0,0:21:01.04,0:21:02.98,Default,,0,0,0,,A prince getting down on his hands and knees to beg!
+Dialogue: 0,0:21:04.90,0:21:05.90,Default,,0,0,0,,Please!
+Dialogue: 0,0:21:06.06,0:21:07.50,Default,,0,0,0,,Please, tell me!
+Dialogue: 0,0:21:09.75,0:21:10.82,Default,,0,0,0,,This is priceless!
+Dialogue: 0,0:21:11.15,0:21:13.40,Default,,0,0,0,,A prince just got down on his hands and knees and begged me!
+Dialogue: 0,0:21:15.20,0:21:16.20,Default,,0,0,0,,Look, Endo!
+Dialogue: 0,0:21:16.47,0:21:17.86,Default,,0,0,0,,And to think he's supposed to be a prince!
+Dialogue: 0,0:21:21.13,0:21:22.13,Default,,0,0,0,,Big brother!
+Dialogue: 0,0:21:22.36,0:21:23.54,Default,,0,0,0,,That's cowardly!
+Dialogue: 0,0:21:29.64,0:21:30.34,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:21:30.58,0:21:31.58,Default,,0,0,0,,I'll teach you a lesson!
+Dialogue: 0,0:21:31.72,0:21:32.25,Default,,0,0,0,,You!
+Dialogue: 0,0:21:32.74,0:21:33.88,Default,,0,0,0,,You're in a different mood, aren't you!
+Dialogue: 0,0:21:34.33,0:21:36.20,Default,,0,0,0,,Going out of your way for someone else's sake!
+Dialogue: 0,0:21:36.74,0:21:37.74,Default,,0,0,0,,Sandman!
+Dialogue: 0,0:21:52.91,0:21:54.46,Default,,0,0,0,,Plastic!
+Dialogue: 0,0:21:57.14,0:21:58.14,Default,,0,0,0,,Plastic!
+Dialogue: 0,0:21:58.87,0:21:59.87,Default,,0,0,0,,What is that jar for?
+Dialogue: 0,0:21:59.92,0:22:01.08,Default,,0,0,0,,If you try anything funny...!
+Dialogue: 0,0:22:01.42,0:22:02.03,Default,,0,0,0,,Shut up!
+Dialogue: 0,0:22:02.22,0:22:03.99,Default,,0,0,0,,This is medicine to cure Plastic!
+Dialogue: 0,0:22:17.59,0:22:20.16,Default,,0,0,0,,Plastic is cured, thank goodness!
+Dialogue: 0,0:22:20.18,0:22:21.18,Default,,0,0,0,,Thank goodness!
+Dialogue: 0,0:22:21.61,0:22:22.40,Default,,0,0,0,,Your Highness!
+Dialogue: 0,0:22:22.43,0:22:24.02,Default,,0,0,0,,I don't know how to thank you enough!
+Dialogue: 0,0:22:24.34,0:22:24.80,Default,,0,0,0,,Shut up!
+Dialogue: 0,0:22:25.07,0:22:26.70,Default,,0,0,0,,I didn't do it for the likes of you!
+Dialogue: 0,0:22:31.58,0:22:32.90,Default,,0,0,0,,Grand Duke Duralumin!
+Dialogue: 0,0:22:33.18,0:22:35.18,Default,,0,0,0,,What do you think of this? This is a\Nmedicine that turns things rock-solid!
+Dialogue: 0,0:22:35.35,0:22:35.72,Default,,0,0,0,,You fool!
+Dialogue: 0,0:22:35.80,0:22:36.80,Default,,0,0,0,,Are you trying to make him suffer again?!
+Dialogue: 0,0:22:37.37,0:22:39.16,Default,,0,0,0,,We pour this on the prince!
+Dialogue: 0,0:22:40.64,0:22:41.64,Default,,0,0,0,,On the prince?
+Dialogue: 0,0:22:41.94,0:22:42.60,Default,,0,0,0,,That's right!
+Dialogue: 0,0:22:42.66,0:22:43.07,Default,,0,0,0,,Grand Duke!
+Dialogue: 0,0:22:43.26,0:22:47.30,Default,,0,0,0,,Shedding tears just because he saved us isn't like you at all, Grand Duke!
+Dialogue: 0,0:22:47.60,0:22:49.56,Default,,0,0,0,,Let's be cold and calculating here!
+Dialogue: 0,0:22:49.82,0:22:53.64,Default,,0,0,0,,Unless we get rid of the prince, Prince Plastic can't take the throne!
+Dialogue: 0,0:22:54.89,0:22:55.89,Default,,0,0,0,,That's true enough!
+Dialogue: 0,0:22:58.03,0:22:59.40,Default,,0,0,0,,Leave everything to me!
+Dialogue: 0,0:23:21.61,0:23:23.68,Default,,0,0,0,,I just had a dream that you saved me!
+Dialogue: 0,0:23:23.83,0:23:26.48,Default,,0,0,0,,Don't dream such silly dreams and get a good night's sleep!
+Dialogue: 0,0:23:26.82,0:23:27.29,Default,,0,0,0,,Okay!
+Dialogue: 0,0:23:27.52,0:23:29.83,Default,,0,0,0,,Now then, I wonder if any kids are staying up late?
+Dialogue: 0,0:23:29.91,0:23:30.65,Default,,0,0,0,,Patrol time!
+Dialogue: 0,0:23:30.88,0:23:31.45,Default,,0,0,0,,Sleep well...
+Dialogue: 0,0:23:31.56,0:23:32.56,Default,,0,0,0,,For me?
+Dialogue: 0,0:23:33.41,0:23:34.86,Default,,0,0,0,,You stay like that for a while!
 Dialogue: 0,0:24:37.26,0:24:40.88,Karaoke,,0,0,0,,{\k29}{\k22}Ta{\k18}ra{\k16}ri {\k18}Ra{\k20}tta {\k23}Ri{\k19}tta {\k26}Ra{\k17}tta {\k19}Ra{\k66}tta{\k69}ttaa
 Dialogue: 0,0:24:40.88,0:24:44.24,Karaoke,,0,0,0,,{\k8}{\k46}Kya{\k68}hoo! {\k35}Kya{\k42}hoo! {\k46}Kya{\k91}hoo!
 Dialogue: 0,0:24:40.88,0:24:44.24,OPED_Translation,,0,0,0,,Yahoo! Yahoo! Yahoo!

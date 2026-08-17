@@ -14,7 +14,8 @@ Audio File: 34 the poison dart.mkv
 Video File: 34 the poison dart.mkv
 Video AR Mode: 4
 Video AR Value: 1.314554
-Active Line: 2
+Scroll Position: 206
+Active Line: 214
 Video Position: 950
 
 [V4+ Styles]
@@ -48,177 +49,197 @@ Dialogue: 0,0:01:25.22,0:01:28.62,Karaoke,,0,0,0,,{\k6}{\k50}Hon{\k43}to {\k33}w
 Dialogue: 0,0:01:25.22,0:01:28.62,OPED_Translation,,0,0,0,,Truly, truly,
 Dialogue: 0,0:01:28.62,0:01:31.82,Karaoke,,0,0,0,,{\k18}{\k23}A{\k23}ta{\k27}shi {\k35}na{\k35}no {\k159}sa{\k0}
 Dialogue: 0,0:01:28.62,0:01:31.82,OPED_Translation,,0,0,0,,It’s really me!
-Dialogue: 0,0:01:44.10,0:01:50.14,Default,,0,0,0,,Thirty-Fourth Episode\NThe Madness of Alce
-Dialogue: 0,0:02:20.74,0:02:24.02,Default,,0,0,0,,All our Kings of the past\Nwere strong and courageous!
-Dialogue: 0,0:02:24.06,0:02:27.05,Default,,0,0,0,,And all were capable\Nof performing exceptional feats!
-Dialogue: 0,0:02:29.30,0:02:32.29,Default,,0,0,0,,Look! Look at these Kings,\Nhow brave they were!
-Dialogue: 0,0:02:54.54,0:02:58.53,Default,,0,0,0,,How beautiful and courageous\Nwere the Kings of the past!
-Dialogue: 0,0:02:58.94,0:03:02.17,Default,,0,0,0,,Certainly! I told you,\Nthey were the bravest in the world.
-Dialogue: 0,0:03:02.22,0:03:04.13,Default,,0,0,0,,Look at how strong this one was!
-Dialogue: 0,0:03:22.46,0:03:26.25,Default,,0,0,0,,- And that one there? - He caught\Nthat big whale all by himself!
-Dialogue: 0,0:03:33.90,0:03:35.81,Default,,0,0,0,,Bravo! Bravo!
-Dialogue: 0,0:03:40.78,0:03:44.90,Default,,0,0,0,,The Kings of old fought\Nagainst dragons with only a sword!
-Dialogue: 0,0:03:45.30,0:03:48.77,Default,,0,0,0,,And when the Kings of ancient times\Nfought against a lion,
-Dialogue: 0,0:03:48.82,0:03:51.34,Default,,0,0,0,,they carried only a\Nsingle tiny spear!
-Dialogue: 0,0:03:51.82,0:03:55.37,Default,,0,0,0,,As you can see, the Kings of old\Nwere strong and very courageous.
-Dialogue: 0,0:03:55.50,0:03:58.41,Default,,0,0,0,,- And what is Prince Sapphire like?\N- Well...
-Dialogue: 0,0:03:58.70,0:04:01.58,Default,,0,0,0,,Well... He... Actually...
-Dialogue: 0,0:04:02.02,0:04:04.01,Default,,0,0,0,,Tell me, Nylon!
-Dialogue: 0,0:04:04.54,0:04:07.26,Default,,0,0,0,,Sapphire will be our next King,\Nwon't he?
-Dialogue: 0,0:04:07.30,0:04:09.37,Default,,0,0,0,,Is he also strong and courageous?
-Dialogue: 0,0:04:10.10,0:04:13.38,Default,,0,0,0,,No, no, not at all! Sapphire is\Nneither strong nor courageous!
-Dialogue: 0,0:04:13.42,0:04:15.98,Default,,0,0,0,,- Why?\N- Because he has never performed...
-Dialogue: 0,0:04:16.02,0:04:19.57,Default,,0,0,0,,...an achievement so important\Nthat it can be displayed in here.
-Dialogue: 0,0:04:19.62,0:04:21.61,Default,,0,0,0,,So he is not as good as he seems!
-Dialogue: 0,0:04:23.34,0:04:25.90,Default,,0,0,0,,No, Princess Sapphire,\Nplease stay calm!
-Dialogue: 0,0:04:25.94,0:04:28.01,Default,,0,0,0,,If you get angry, it will\Nbe trouble for everyone!
-Dialogue: 0,0:04:28.10,0:04:30.93,Default,,0,0,0,,It's better if you go over\Nthere, I'll keep an eye on them!
-Dialogue: 0,0:04:31.14,0:04:33.13,Default,,0,0,0,,He seems strong!
-Dialogue: 0,0:04:33.42,0:04:35.41,Default,,0,0,0,,But in reality, he is weak!
-Dialogue: 0,0:04:36.34,0:04:39.33,Default,,0,0,0,,Hurray!\NSapphire is not strong at all!
-Dialogue: 0,0:04:39.42,0:04:41.41,Default,,0,0,0,,Sapphire is weak!
-Dialogue: 0,0:04:44.58,0:04:46.49,Default,,0,0,0,,Sapphire is weak!
-Dialogue: 0,0:04:50.18,0:04:53.73,Default,,0,0,0,,- Weak Sapphire has arrived!\N- What?!
-Dialogue: 0,0:04:55.38,0:04:58.58,Default,,0,0,0,,Nylon said that you are\Nnot as brave as you seem.
-Dialogue: 0,0:04:58.90,0:05:00.89,Default,,0,0,0,,What are you saying?
-Dialogue: 0,0:05:01.10,0:05:04.22,Default,,0,0,0,,Welcome, Princess Sapphire\Nand Doctor Uranaru.
-Dialogue: 0,0:05:04.62,0:05:08.61,Default,,0,0,0,,Nylon, why do you say that I am not\Nas brave as I seem?
-Dialogue: 0,0:05:09.02,0:05:11.01,Default,,0,0,0,,Well, I only said...
-Dialogue: 0,0:05:11.06,0:05:13.97,Default,,0,0,0,,...that you haven't had a chance\Nto prove your courage.
-Dialogue: 0,0:05:14.02,0:05:17.06,Default,,0,0,0,,Nylon! I will never forgive you\Nif you say unkind things...
-Dialogue: 0,0:05:17.10,0:05:19.06,Default,,0,0,0,,...about\NPrincess Sapphire!
-Dialogue: 0,0:05:19.10,0:05:22.14,Default,,0,0,0,,So, Princess Sapphire,\Nwhy don't you try to prove...
-Dialogue: 0,0:05:22.18,0:05:25.73,Default,,0,0,0,,...your courage to Plastic?\N- Prove my courage?!
-Dialogue: 0,0:05:25.98,0:05:30.29,Default,,0,0,0,,There is a deer named Alce who lives\Nin the forest near the castle.
-Dialogue: 0,0:05:30.82,0:05:34.13,Default,,0,0,0,,He is no ordinary deer; he is huge!
-Dialogue: 0,0:05:34.22,0:05:38.13,Default,,0,0,0,,Not only that! When hunters\Ngo looking for animals,
-Dialogue: 0,0:05:38.42,0:05:42.30,Default,,0,0,0,,he suddenly appears\Nand attacks them!
-Dialogue: 0,0:05:42.58,0:05:45.02,Default,,0,0,0,,He always wins and then leaves!
-Dialogue: 0,0:05:45.18,0:05:47.78,Default,,0,0,0,,It is said that now\Neveryone is afraid of him...
-Dialogue: 0,0:05:47.82,0:05:49.81,Default,,0,0,0,,...and they stay away from the forest.
-Dialogue: 0,0:05:51.58,0:05:54.22,Default,,0,0,0,,So, do you want to defeat\Nthe great deer?
-Dialogue: 0,0:05:54.26,0:05:58.25,Default,,0,0,0,,I didn't know there was\Nsuch a deer in the forest! All right, I'll do it!
-Dialogue: 0,0:06:01.74,0:06:03.73,Default,,0,0,0,,Opal, come here!
-Dialogue: 0,0:06:06.90,0:06:08.81,Default,,0,0,0,,Run to the forest immediately!
-Dialogue: 0,0:06:22.14,0:06:25.85,Default,,0,0,0,,- Sapphire! Where are you going?\N- Hi, Tink, I was looking for you
-Dialogue: 0,0:06:25.90,0:06:28.62,Default,,0,0,0,,Is that the forest\Nwhere a deer named Alce lives?
-Dialogue: 0,0:06:28.70,0:06:31.45,Default,,0,0,0,,Alce...?\NYes, this is it!
-Dialogue: 0,0:06:31.50,0:06:34.62,Default,,0,0,0,,- Opale, let's go!\N- Sapphire, wait! No!
-Dialogue: 0,0:06:37.14,0:06:40.45,Default,,0,0,0,,I wonder why Sapphire\Nis going to that place. It's dangerous!
-Dialogue: 0,0:06:40.50,0:06:42.73,Default,,0,0,0,,If Alce attacks him\Nhe will hurt him!
-Dialogue: 0,0:06:48.74,0:06:53.42,Default,,0,0,0,,It's very dark in the forest! Opale,\Nstay here, I'll look for him by myself!
-Dialogue: 0,0:07:06.26,0:07:08.54,Default,,0,0,0,,Hey, hello! Do you know Alce?
-Dialogue: 0,0:07:10.58,0:07:13.22,Default,,0,0,0,,Hey, do you know Alce?
-Dialogue: 0,0:07:14.58,0:07:17.14,Default,,0,0,0,,But it's strange! Why is\Neveryone running away?
-Dialogue: 0,0:07:20.18,0:07:23.89,Default,,0,0,0,,Don't hurt me, please!\NHelp! Help!
-Dialogue: 0,0:07:27.58,0:07:31.70,Default,,0,0,0,,Now I'll teach you to laugh!\NWait! Wait!
-Dialogue: 0,0:07:36.74,0:07:38.22,Default,,0,0,0,,Go!
-Dialogue: 0,0:07:41.14,0:07:43.13,Default,,0,0,0,,Don't do it anymore!
-Dialogue: 0,0:07:48.78,0:07:53.06,Default,,0,0,0,,You are Alce, right? Because of you, no\None can come into the woods anymore!
-Dialogue: 0,0:07:53.10,0:07:55.25,Default,,0,0,0,,I have come to defeat you!
-Dialogue: 0,0:08:02.58,0:08:04.94,Default,,0,0,0,,Where did he go? I don't\Nwant him to get away!
-Dialogue: 0,0:08:10.58,0:08:12.57,Default,,0,0,0,,How big you are!
-Dialogue: 0,0:08:53.34,0:08:56.30,Default,,0,0,0,,Princess Sapphire might be in danger!
-Dialogue: 0,0:08:56.78,0:09:00.17,Default,,0,0,0,,I'm worried!\NI'm worried!
-Dialogue: 0,0:09:02.70,0:09:04.61,Default,,0,0,0,,Here she comes back!
-Dialogue: 0,0:09:09.14,0:09:12.05,Default,,0,0,0,,Princess Sapphire, did\Nyou encounter the deer?
-Dialogue: 0,0:09:12.10,0:09:15.57,Default,,0,0,0,,Yes! And he knocked me to the ground\Nwith a blow from his horns!
-Dialogue: 0,0:09:16.34,0:09:18.90,Default,,0,0,0,,Well, I'm sorry,\NPrincess Sapphire.
-Dialogue: 0,0:09:18.94,0:09:22.49,Default,,0,0,0,,Not even you can defeat him!\NBut if I had been there...
-Dialogue: 0,0:09:22.58,0:09:24.89,Default,,0,0,0,,You wouldn't have been able to do\Nanything at all,
-Dialogue: 0,0:09:24.94,0:09:27.66,Default,,0,0,0,,because Moose's head alone\Nis this big!
-Dialogue: 0,0:09:28.30,0:09:30.82,Default,,0,0,0,,What?! His head is this big?!
-Dialogue: 0,0:09:34.62,0:09:38.61,Default,,0,0,0,,So, Prince Sapphire,\Ndid you manage to kill Moose?
-Dialogue: 0,0:09:38.66,0:09:42.45,Default,,0,0,0,,He's still alive in the woods. I'm letting him\Nlive for a few more days.
-Dialogue: 0,0:09:42.50,0:09:46.13,Default,,0,0,0,,Ah, I see! It's not that by any chance\Nyou're a little afraid of him, right?
-Dialogue: 0,0:09:46.34,0:09:48.73,Default,,0,0,0,,- Me, afraid?!\N- I mean... what I mean is.
-Dialogue: 0,0:09:48.90,0:09:51.18,Default,,0,0,0,,If you don't manage to kill him\Nwhat will you do?
-Dialogue: 0,0:09:51.22,0:09:53.29,Default,,0,0,0,,I will defeat him\Nwithout using my sword!
-Dialogue: 0,0:09:53.34,0:09:56.54,Default,,0,0,0,,But when I've defeated him\Nwhat will you do?
-Dialogue: 0,0:09:56.58,0:10:00.42,Default,,0,0,0,,Well, I'll stand on top of the tower\Nlike a flag! Like this! Look!
-Dialogue: 0,0:10:05.86,0:10:09.25,Default,,0,0,0,,Very interesting!\NIn the meantime, start practicing.
-Dialogue: 0,0:10:09.46,0:10:12.53,Default,,0,0,0,,Princess Sapphire, let's go,\Nyou must rest!
-Dialogue: 0,0:10:14.38,0:10:18.22,Default,,0,0,0,,Are you sure you did the right thing\Nby promising him such a thing?
-Dialogue: 0,0:10:18.26,0:10:20.57,Default,,0,0,0,,Sapphire might even be\Ncapable of defeating Alce!
-Dialogue: 0,0:10:20.62,0:10:22.50,Default,,0,0,0,,Don't worry!
-Dialogue: 0,0:10:25.34,0:10:28.17,Default,,0,0,0,,- I have a way to avoid it!\N- What is it?
-Dialogue: 0,0:10:28.26,0:10:32.17,Default,,0,0,0,,Be careful! If you touch\Nthe tip you will go mad!
-Dialogue: 0,0:10:33.70,0:10:36.22,Default,,0,0,0,,It will be enough just\Nto hit him anywhere...
-Dialogue: 0,0:10:36.26,0:10:39.09,Default,,0,0,0,,..with this poisonous arrow\Nthat the natives of Africa use!
-Dialogue: 0,0:10:40.10,0:10:42.09,Default,,0,0,0,,Let me handle everything!
-Dialogue: 0,0:11:33.62,0:11:37.66,Default,,0,0,0,,- I can't take it anymore!\N- Princess Sapphire, are you alright?
-Dialogue: 0,0:11:37.70,0:11:40.53,Default,,0,0,0,,The sun is almost high,\Nit would be time to stop!
-Dialogue: 0,0:11:40.78,0:11:42.66,Default,,0,0,0,,One more time!
-Dialogue: 0,0:11:42.70,0:11:45.01,Default,,0,0,0,,But I'm sorry to throw\Nyou to the ground again!
-Dialogue: 0,0:11:45.06,0:11:47.02,Default,,0,0,0,,One more time!
-Dialogue: 0,0:12:06.74,0:12:10.70,Default,,0,0,0,,- Oh, no!\N- Is everything alright, Princess?
-Dialogue: 0,0:12:15.34,0:12:17.25,Default,,0,0,0,,The way things are going, I understand.
-Dialogue: 0,0:12:17.30,0:12:19.97,Default,,0,0,0,,.. ...that I cannot defeat\NAlce, at least not with a sword!
-Dialogue: 0,0:12:38.18,0:12:40.25,Default,,0,0,0,,Send out more and more smoke!
-Dialogue: 0,0:12:41.30,0:12:44.66,Default,,0,0,0,,- We are ready, Mr. Nylon.\N- Alright, begin!
-Dialogue: 0,0:12:49.98,0:12:52.54,Default,,0,0,0,,But what are you doing?\NDon't stop!
-Dialogue: 0,0:12:52.66,0:12:54.65,Default,,0,0,0,,Hurry and send the smoke\Ninto the woods!
-Dialogue: 0,0:12:54.70,0:12:57.09,Default,,0,0,0,,We need to drive the animals\Nout, do you understand?
-Dialogue: 0,0:13:34.86,0:13:37.58,Default,,0,0,0,,Soon that cursed Alce\Nwill appear! Are you ready?
-Dialogue: 0,0:13:44.74,0:13:47.62,Default,,0,0,0,,Kill him..! Surround him...\NDon't let him escape..!
-Dialogue: 0,0:14:13.98,0:14:15.97,Default,,0,0,0,,But this is truly a monster!
-Dialogue: 0,0:14:16.02,0:14:18.90,Default,,0,0,0,,But no monster\Ncould climb up this far!
-Dialogue: 0,0:14:20.30,0:14:23.26,Default,,0,0,0,,When he is hit by the\Narrow, he will go mad!
-Dialogue: 0,0:14:49.42,0:14:52.09,Default,,0,0,0,,And now, go as wild\Nas you like!
-Dialogue: 0,0:15:04.90,0:15:08.61,Default,,0,0,0,,Now I really want to see\Nhow Sapphire will catch him!
-Dialogue: 0,0:15:09.34,0:15:12.41,Default,,0,0,0,,If he should meet him, furious\Nas he is, he will tear him to pieces!
-Dialogue: 0,0:15:29.62,0:15:31.50,Default,,0,0,0,,Here comes Alce!
-Dialogue: 0,0:15:35.30,0:15:37.58,Default,,0,0,0,,Hello, Alce, where are\Nyou going in such a hurry?
-Dialogue: 0,0:15:37.62,0:15:39.61,Default,,0,0,0,,Watch out for the sheep!
-Dialogue: 0,0:15:52.70,0:15:56.82,Default,,0,0,0,,My God!\NWhat is this shiny thing?
-Dialogue: 0,0:16:07.42,0:16:10.06,Default,,0,0,0,,What happened to Alce?\NHe seems to have gone mad!
-Dialogue: 0,0:16:20.98,0:16:23.62,Default,,0,0,0,,Alce is running wild\Nthrough the whole city...
-Dialogue: 0,0:16:23.66,0:16:25.78,Default,,0,0,0,,...and the soldiers\Ncannot stop him!
-Dialogue: 0,0:16:26.14,0:16:29.77,Default,,0,0,0,,So we would like you to come\Nand try, Princess Sapphire!
-Dialogue: 0,0:16:29.98,0:16:34.53,Default,,0,0,0,,Just in time! I have just finished\Ndevising a way to kill him!
-Dialogue: 0,0:16:34.58,0:16:38.02,Default,,0,0,0,,If Alce has two horns, well...\NI will have three swords!
-Dialogue: 0,0:16:38.38,0:16:40.37,Default,,0,0,0,,But not three hands!
-Dialogue: 0,0:16:41.42,0:16:45.10,Default,,0,0,0,,Fine! Do you perhaps intend\Nto throw the swords at him?
-Dialogue: 0,0:16:45.38,0:16:49.77,Default,,0,0,0,,Don't worry, my idea\Nwill work! Let's go, Opal!
-Dialogue: 0,0:16:51.42,0:16:53.41,Default,,0,0,0,,Good luck!
-Dialogue: 0,0:16:54.82,0:16:56.86,Default,,0,0,0,,Yeah, she'll need a lot of it!
-Dialogue: 0,0:17:42.78,0:17:45.50,Default,,0,0,0,,He's arrived,\Nbut he's destroying the city
-Dialogue: 0,0:18:03.70,0:18:06.42,Default,,0,0,0,,Come, Alce!\NThis time I'll get you!
-Dialogue: 0,0:18:44.26,0:18:46.14,Default,,0,0,0,,Sapphire!
-Dialogue: 0,0:18:49.02,0:18:51.01,Default,,0,0,0,,Sapphire!
-Dialogue: 0,0:19:02.18,0:19:05.30,Default,,0,0,0,,Don't kill him!\NRemove the arrow he has on his neck!
-Dialogue: 0,0:19:13.34,0:19:17.02,Default,,0,0,0,,Arrow?! I think Tink\Nsaid to pull out an arrow!
-Dialogue: 0,0:19:17.90,0:19:19.89,Default,,0,0,0,,Ah, there it is!
-Dialogue: 0,0:19:44.46,0:19:48.98,Default,,0,0,0,,Sapphire!\NHurry and bring some ropes!
-Dialogue: 0,0:19:51.54,0:19:53.61,Default,,0,0,0,,Bring more!
-Dialogue: 0,0:19:58.82,0:20:00.73,Default,,0,0,0,,Hey, you!
-Dialogue: 0,0:20:00.98,0:20:03.86,Default,,0,0,0,,Quickly, tie the other end\Nto the tree!
-Dialogue: 0,0:20:23.10,0:20:25.66,Default,,0,0,0,,Sapphire!\NSapphire, hold on tight!
-Dialogue: 0,0:20:51.98,0:20:55.37,Default,,0,0,0,,Come on, Alce, open your eyes!\NSapphire has removed the arrow!
-Dialogue: 0,0:20:55.42,0:20:57.41,Default,,0,0,0,,Now it's all over!
-Dialogue: 0,0:21:08.34,0:21:10.33,Default,,0,0,0,,Listen, Moose..
-Dialogue: 0,0:21:11.26,0:21:14.62,Default,,0,0,0,,A bad man shot\Na poisoned arrow at you,
-Dialogue: 0,0:21:14.66,0:21:16.65,Default,,0,0,0,,but she helped you.
-Dialogue: 0,0:21:18.62,0:21:20.93,Default,,0,0,0,,She is telling you to forgive him.
-Dialogue: 0,0:21:21.38,0:21:23.98,Default,,0,0,0,,I am the one who must apologize to you...
-Dialogue: 0,0:21:24.02,0:21:26.54,Default,,0,0,0,,...because I intended\Nto kill you.
-Dialogue: 0,0:21:36.58,0:21:42.82,Default,,0,0,0,,Hurray! Hurray!
-Dialogue: 0,0:21:44.54,0:21:48.53,Default,,0,0,0,,Did you see? He captured Moose!\NNow you will have to keep your promise!
-Dialogue: 0,0:21:49.18,0:21:53.30,Default,,0,0,0,,Oh, no! I am sure I shot\Nthe arrow hitting him in the neck!
-Dialogue: 0,0:21:53.34,0:21:55.57,Default,,0,0,0,,Quick, you idiot!\NGo be the flag..
-Dialogue: 0,0:21:55.62,0:21:58.34,Default,,0,0,0,,...on top of that tower!\N- Let me try again!
-Dialogue: 0,0:22:01.26,0:22:05.17,Default,,0,0,0,,I have another arrow! If I shoot it\Nat Alce, Sapphire will fall and die!
-Dialogue: 0,0:22:06.42,0:22:09.06,Default,,0,0,0,,Hurray!
-Dialogue: 0,0:22:09.10,0:22:11.01,Default,,0,0,0,,Princess!
-Dialogue: 0,0:22:11.30,0:22:13.21,Default,,0,0,0,,Nylon!
-Dialogue: 0,0:22:26.34,0:22:29.09,Default,,0,0,0,,Watch out!\NNo! Wait!
-Dialogue: 0,0:22:29.18,0:22:31.70,Default,,0,0,0,,Wait, I didn't want to hit you!\NHelp!
-Dialogue: 0,0:22:33.02,0:22:35.33,Default,,0,0,0,,Help! Help! Wait!
-Dialogue: 0,0:23:12.66,0:23:16.13,Default,,0,0,0,,It's just as I thought.\NSapphire is not weak at all!
-Dialogue: 0,0:23:16.18,0:23:19.09,Default,,0,0,0,,You're right! He will be\Na strong and brave King!
-Dialogue: 0,0:23:22.10,0:23:26.86,Default,,0,0,0,,Princess Sapphire, will Alce have\Nreturned safe and sound to the forest?
-Dialogue: 0,0:23:26.90,0:23:29.50,Default,,0,0,0,,That's exactly what I was thinking.
-Dialogue: 0,0:23:31.22,0:23:34.26,Default,,0,0,0,,And now, Alce..\NTake care of yourself!
+Dialogue: 0,0:01:44.10,0:01:50.14,Default,,0,0,0,,Thirty-Fourth Episode\NThe Madness of Moose\NGiant Deer Moose
+Dialogue: 0,0:02:21.50,0:02:26.92,Default,,0,0,0,,That is why every king of this realm has been brave and strong.
+Dialogue: 0,0:02:29.52,0:02:32.56,Default,,0,0,0,,Just look at this king's heroic figure.
+Dialogue: 0,0:02:55.47,0:02:58.56,Default,,0,0,0,,The kings from long ago were so cool!
+Dialogue: 0,0:02:59.14,0:03:03.52,Default,,0,0,0,,Indeed, they were the bravest in the world! And this king too.
+Dialogue: 0,0:03:05.53,0:03:08.66,Default,,0,0,0,,So cool! Incredible!
+Dialogue: 0,0:03:21.75,0:03:23.44,Default,,0,0,0,,Hey, what about this king?
+Dialogue: 0,0:03:23.51,0:03:25.45,Default,,0,0,0,,Yes, he was strong too.
+Dialogue: 0,0:03:34.46,0:03:36.21,Default,,0,0,0,,Awesome!
+Dialogue: 0,0:03:41.27,0:03:44.44,Default,,0,0,0,,This is the sword the last king used to fight a dragon.
+Dialogue: 0,0:03:45.58,0:03:47.64,Default,,0,0,0,,And this helmet is from when the king
+Dialogue: 0,0:03:47.66,0:03:50.91,Default,,0,0,0,,before him fought a terrifying giant lion.
+Dialogue: 0,0:03:52.09,0:03:54.94,Default,,0,0,0,,As you can see, our kings were all valiant and strong.
+Dialogue: 0,0:03:55.35,0:03:57.27,Default,,0,0,0,,What about Sapphire?
+Dialogue: 0,0:03:58.02,0:03:59.02,Default,,0,0,0,,Well, you see...
+Dialogue: 0,0:04:01.35,0:04:04.54,Default,,0,0,0,,Sapphire will be the next king, right?
+Dialogue: 0,0:04:04.90,0:04:09.36,Default,,0,0,0,,Is Sapphire brave and strong too?
+Dialogue: 0,0:04:10.45,0:04:13.61,Default,,0,0,0,,Oh, far from it! Sapphire is neither brave nor strong.
+Dialogue: 0,0:04:13.87,0:04:14.69,Default,,0,0,0,,Why?
+Dialogue: 0,0:04:14.80,0:04:16.86,Default,,0,0,0,,Because Sapphire has yet to accomplish a feat
+Dialogue: 0,0:04:16.88,0:04:19.20,Default,,0,0,0,,worthy of display in this room.
+Dialogue: 0,0:04:19.70,0:04:21.76,Default,,0,0,0,,Yeah, Sapphire is all show.
+Dialogue: 0,0:04:21.88,0:04:22.88,Default,,0,0,0,,All show?
+Dialogue: 0,0:04:23.51,0:04:24.98,Default,,0,0,0,,Control yourself, Lord Sapphire!
+Dialogue: 0,0:04:25.00,0:04:27.56,Default,,0,0,0,,Getting angry here will only cause another mess.
+Dialogue: 0,0:04:27.78,0:04:30.43,Default,,0,0,0,,Dr. Uranari is keeping an eye on things, so you mustn't go out there.
+Dialogue: 0,0:04:31.00,0:04:34.88,Default,,0,0,0,,Is it all just for show? Is he actually a coward?
+Dialogue: 0,0:04:37.60,0:04:40.30,Default,,0,0,0,,A coward? Sapphire's a coward!
+Dialogue: 0,0:04:43.40,0:04:46.40,Default,,0,0,0,,He's a coward! Is Sapphire really a coward?
+Dialogue: 0,0:04:50.23,0:04:51.78,Default,,0,0,0,,Here comes the coward!
+Dialogue: 0,0:04:54.92,0:04:58.79,Default,,0,0,0,,Nylon said Sapphire is all talk and a coward—
+Dialogue: 0,0:04:58.82,0:05:00.31,Default,,0,0,0,,hey, stop that!
+Dialogue: 0,0:05:01.21,0:05:03.50,Default,,0,0,0,,Why, Lord Sapphire, Dr. Uranari
+Dialogue: 0,0:05:04.63,0:05:07.75,Default,,0,0,0,,Nylon, why do you say Sapphire is all talk and a coward?
+Dialogue: 0,0:05:08.86,0:05:11.05,Default,,0,0,0,,Because there isn't a single thing in this room
+Dialogue: 0,0:05:11.08,0:05:13.40,Default,,0,0,0,,that proves Lord Sapphire's courage.
+Dialogue: 0,0:05:13.74,0:05:17.86,Default,,0,0,0,,Sir Nylon, I will not tolerate such insolence toward Lord Sapphire!
+Dialogue: 0,0:05:18.98,0:05:20.80,Default,,0,0,0,,Then, Lord Sapphire, won't you show us
+Dialogue: 0,0:05:20.82,0:05:23.62,Default,,0,0,0,,this so-called courage for Lord Plastic's sake?
+Dialogue: 0,0:05:24.19,0:05:25.55,Default,,0,0,0,,Show it?
+Dialogue: 0,0:05:25.57,0:05:28.43,Default,,0,0,0,,Well... a deer called a Moose
+Dialogue: 0,0:05:28.46,0:05:33.56,Default,,0,0,0,,has settled in the forest near the castle. It's a monster ten meters tall.
+Dialogue: 0,0:05:33.92,0:05:37.31,Default,,0,0,0,,If that were all, it wouldn't be so bad,\Nbut whenever hunters corner their prey,
+Dialogue: 0,0:05:37.33,0:05:40.62,Default,,0,0,0,,this giant deer appears, knocking them around
+Dialogue: 0,0:05:40.64,0:05:44.24,Default,,0,0,0,,and trampling them with its huge body and antlers.
+Dialogue: 0,0:05:44.62,0:05:49.68,Default,,0,0,0,,It steals all the leftover prey for itself and casually strolls off—a true villain.
+Dialogue: 0,0:05:49.91,0:05:51.02,Default,,0,0,0,,What do you think?
+Dialogue: 0,0:05:51.66,0:05:54.14,Default,,0,0,0,,Why don't we slay this evil stag?
+Dialogue: 0,0:05:54.62,0:05:56.39,Default,,0,0,0,,Is there really a wicked deer in that forest?
+Dialogue: 0,0:05:56.59,0:05:58.20,Default,,0,0,0,,All right, I'll go defeat them!
+Dialogue: 0,0:06:02.00,0:06:03.00,Default,,0,0,0,,Opal!
+Dialogue: 0,0:06:04.98,0:06:07.42,Default,,0,0,0,,Opal! He headed into the forest!
+Dialogue: 0,0:06:22.09,0:06:24.35,Default,,0,0,0,,Oh, Sapphire! Where are you going?
+Dialogue: 0,0:06:24.52,0:06:26.80,Default,,0,0,0,,Oh, Tink. Perfect timing.
+Dialogue: 0,0:06:27.00,0:06:29.71,Default,,0,0,0,,Is that the forest with the giant deer called Moose?
+Dialogue: 0,0:06:29.87,0:06:31.42,Default,,0,0,0,,Moose? Yeah, that's right.
+Dialogue: 0,0:06:31.49,0:06:32.04,Default,,0,0,0,,Thank you!
+Dialogue: 0,0:06:32.18,0:06:33.83,Default,,0,0,0,,Hey, wait up!
+Dialogue: 0,0:06:34.03,0:06:36.18,Default,,0,0,0,,That's so mean!
+Dialogue: 0,0:06:36.67,0:06:38.62,Default,,0,0,0,,But what was that about? Where are they going?
+Dialogue: 0,0:06:39.32,0:06:41.09,Default,,0,0,0,,It'll be a disaster if she gets beaten by Moose!
+Dialogue: 0,0:06:48.98,0:06:50.47,Default,,0,0,0,,It's pitch black in the forest.
+Dialogue: 0,0:06:50.49,0:06:53.41,Default,,0,0,0,,Opal, this is far enough. I'll search on my own from here.
+Dialogue: 0,0:07:06.46,0:07:08.42,Default,,0,0,0,,Hey, you guys. Have you seen Moose?
+Dialogue: 0,0:07:10.80,0:07:12.67,Default,,0,0,0,,Have you guys seen Moose?
+Dialogue: 0,0:07:14.72,0:07:17.60,Default,,0,0,0,,That's odd... Why is everyone running away?
+Dialogue: 0,0:07:19.25,0:07:21.69,Default,,0,0,0,,No playing tricks!
+Dialogue: 0,0:07:21.89,0:07:23.42,Default,,0,0,0,,Wait!
+Dialogue: 0,0:07:28.05,0:07:29.10,Default,,0,0,0,,Now I'm mad!
+Dialogue: 0,0:07:29.40,0:07:30.64,Default,,0,0,0,,Wait!
+Dialogue: 0,0:07:36.48,0:07:37.76,Default,,0,0,0,,How hasty!
+Dialogue: 0,0:07:41.24,0:07:42.44,Default,,0,0,0,,Look! Stop messing around!
+Dialogue: 0,0:07:49.73,0:07:53.08,Default,,0,0,0,,Monster Moose! Because of you, no one can enter this forest!
+Dialogue: 0,0:07:53.30,0:07:55.02,Default,,0,0,0,,Now Sapphire will vanquish you!
+Dialogue: 0,0:08:02.31,0:08:04.01,Default,,0,0,0,,If you try to run, you won't get away!
+Dialogue: 0,0:08:11.29,0:08:12.29,Default,,0,0,0,,This thing's huge!
+Dialogue: 0,0:08:22.66,0:08:24.12,Default,,0,0,0,,Now try this!
+Dialogue: 0,0:08:43.45,0:08:45.43,Default,,0,0,0,,What are you doing!?
+Dialogue: 0,0:08:51.87,0:08:55.21,Default,,0,0,0,,Please let Lord Sapphire be safe...
+Dialogue: 0,0:08:55.24,0:09:00.15,Default,,0,0,0,,I'm so worried... I'm worried... I'm worried...
+Dialogue: 0,0:09:02.49,0:09:04.29,Default,,0,0,0,,Ah, you made it back...
+Dialogue: 0,0:09:09.00,0:09:11.50,Default,,0,0,0,,Oh, Lord Sapphire, are you hurt?
+Dialogue: 0,0:09:11.80,0:09:15.58,Default,,0,0,0,,Yeah, I totally lost. It sent me flying with its horns and I got knocked out.
+Dialogue: 0,0:09:16.00,0:09:19.14,Default,,0,0,0,,Oh, dear. So even Lord Sapphire failed?
+Dialogue: 0,0:09:19.17,0:09:22.80,Default,,0,0,0,,If I'd been there, I wouldn't have let them off so easily.
+Dialogue: 0,0:09:22.86,0:09:27.75,Default,,0,0,0,,It's no use. Even with Dr. Uranari here, Moose's head alone is this big.
+Dialogue: 0,0:09:27.79,0:09:30.36,Default,,0,0,0,,His head alone is this...
+Dialogue: 0,0:09:34.68,0:09:38.12,Default,,0,0,0,,Well, Lord Sapphire? Where is the moose's head?
+Dialogue: 0,0:09:38.63,0:09:42.04,Default,,0,0,0,,In the forest! I've spared their lives for another two or three days!
+Dialogue: 0,0:09:43.42,0:09:45.94,Default,,0,0,0,,Such impressive bravado!
+Dialogue: 0,0:09:46.31,0:09:47.31,Default,,0,0,0,,Shut up!
+Dialogue: 0,0:09:47.48,0:09:50.84,Default,,0,0,0,,What if... just what if you can't...
+Dialogue: 0,0:09:51.09,0:09:52.94,Default,,0,0,0,,When that time comes, I'll never pick up a sword again!
+Dialogue: 0,0:09:53.30,0:09:56.35,Default,,0,0,0,,So what will you do if Sapphire gets Moose to surrender?
+Dialogue: 0,0:09:56.66,0:10:01.28,Default,,0,0,0,,Indeed. Perhaps I'll go do a handstand on top of that tower. Just like that!
+Dialogue: 0,0:10:05.80,0:10:09.13,Default,,0,0,0,,Yeah, that's hilarious. Better practice while you still can.
+Dialogue: 0,0:10:09.27,0:10:12.18,Default,,0,0,0,,Lord Sapphire, let's go. Don't waste your time on a guy like him.
+Dialogue: 0,0:10:14.24,0:10:16.84,Default,,0,0,0,,Nylon, are you sure you should make such a promise?
+Dialogue: 0,0:10:16.86,0:10:20.40,Default,,0,0,0,,It's Sapphire we're talking about. If he gets serious, he might actually kill him.
+Dialogue: 0,0:10:20.42,0:10:23.13,Default,,0,0,0,,That's as it may be, but I have plenty of tricks up my sleeve.
+Dialogue: 0,0:10:25.49,0:10:26.66,Default,,0,0,0,,Do you know what this is?
+Dialogue: 0,0:10:27.05,0:10:28.05,Default,,0,0,0,,What is that?
+Dialogue: 0,0:10:28.54,0:10:29.14,Default,,0,0,0,,Stop!
+Dialogue: 0,0:10:29.16,0:10:31.62,Default,,0,0,0,,If the tip so much as touches someone, it'll drive them mad.
+Dialogue: 0,0:10:33.12,0:10:35.96,Default,,0,0,0,,It's a poisoned blowdart used by African natives.
+Dialogue: 0,0:10:36.25,0:10:38.00,Default,,0,0,0,,I'll jab this right into her neck.
+Dialogue: 0,0:10:38.76,0:10:40.86,Default,,0,0,0,,Now, now, just leave it to me.
+Dialogue: 0,0:11:32.49,0:11:35.81,Default,,0,0,0,,Damn it! I'm really off my game today!
+Dialogue: 0,0:11:35.90,0:11:40.18,Default,,0,0,0,,Lord Sapphire, are you alright? It's dawn already. Let's stop here.
+Dialogue: 0,0:11:40.83,0:11:42.23,Default,,0,0,0,,No, no! One more time!
+Dialogue: 0,0:11:42.46,0:11:45.28,Default,,0,0,0,,But... knocking you down any further...
+Dialogue: 0,0:11:45.31,0:11:46.11,Default,,0,0,0,,I said, again!
+Dialogue: 0,0:11:46.16,0:11:47.08,Default,,0,0,0,,Oh, fine...
+Dialogue: 0,0:12:07.40,0:12:08.27,Default,,0,0,0,,It's no good.
+Dialogue: 0,0:12:09.08,0:12:10.58,Default,,0,0,0,,Are you injured?
+Dialogue: 0,0:12:15.73,0:12:18.00,Default,,0,0,0,,At this rate, I'll never beat Moose.
+Dialogue: 0,0:12:18.37,0:12:20.04,Default,,0,0,0,,Sapphire won't even be able to hold a sword soon.
+Dialogue: 0,0:12:36.61,0:12:40.60,Default,,0,0,0,,Send up the second batch of smoke! More, more!
+Dialogue: 0,0:12:41.51,0:12:43.22,Default,,0,0,0,,Lord Nylon, we are ready!
+Dialogue: 0,0:12:43.68,0:12:44.67,Default,,0,0,0,,All right, begin!
+Dialogue: 0,0:12:50.74,0:12:52.11,Default,,0,0,0,,Hey, what are you standing around for?!
+Dialogue: 0,0:12:52.13,0:12:53.96,Default,,0,0,0,,Get that smoke into the forest, quick!
+Dialogue: 0,0:12:54.23,0:12:55.64,Default,,0,0,0,,And drive the beasts out!
+Dialogue: 0,0:12:55.89,0:12:56.89,Default,,0,0,0,,It'll be over soon.
+Dialogue: 0,0:13:35.19,0:13:37.46,Default,,0,0,0,,Hey, it's about time you came out!
+Dialogue: 0,0:13:44.69,0:13:47.88,Default,,0,0,0,,Don't kill it! Surround it with spears so it can't escape!
+Dialogue: 0,0:14:15.19,0:14:16.54,Default,,0,0,0,,It's a monster, just like the rumors say.
+Dialogue: 0,0:14:16.74,0:14:18.98,Default,,0,0,0,,Hey, everyone! It calmed down! Don't move!
+Dialogue: 0,0:14:20.28,0:14:23.04,Default,,0,0,0,,No matter what monster it is, it's no match for this!
+Dialogue: 0,0:14:49.67,0:14:51.54,Default,,0,0,0,,Good, the poison is taking effect!
+Dialogue: 0,0:15:05.06,0:15:08.44,Default,,0,0,0,,Until that poison wears off, Moose will go completely wild.
+Dialogue: 0,0:15:09.19,0:15:11.84,Default,,0,0,0,,Even Sapphire will end up trampled to death.
+Dialogue: 0,0:15:30.17,0:15:31.32,Default,,0,0,0,,That's Moose!
+Dialogue: 0,0:15:35.26,0:15:37.41,Default,,0,0,0,,Hey Moose! Where on earth are you going?
+Dialogue: 0,0:15:38.40,0:15:39.96,Default,,0,0,0,,Watch out, Hitsuji-san! Move!
+Dialogue: 0,0:15:54.69,0:15:56.72,Default,,0,0,0,,What is this, this glowing thing?
+Dialogue: 0,0:16:07.46,0:16:09.56,Default,,0,0,0,,Oh no! Moose has gone crazy!
+Dialogue: 0,0:16:20.18,0:16:24.96,Default,,0,0,0,,Moose is running wild in town, and the soldiers can't handle him at all!
+Dialogue: 0,0:16:25.32,0:16:29.53,Default,,0,0,0,,So, that's why we'd love for Lord Sapphire to come...
+Dialogue: 0,0:16:30.00,0:16:31.07,Default,,0,0,0,,Perfect timing.
+Dialogue: 0,0:16:31.09,0:16:33.50,Default,,0,0,0,,I've finally figured out a way to beat Moose.
+Dialogue: 0,0:16:34.17,0:16:37.48,Default,,0,0,0,,If a moose has two horns, Sapphire has three swords!
+Dialogue: 0,0:16:38.22,0:16:39.54,Default,,0,0,0,,Your Highness...
+Dialogue: 0,0:16:40.98,0:16:44.37,Default,,0,0,0,,Drop your sword and I won't force you to come with us.
+Dialogue: 0,0:16:45.48,0:16:46.31,Default,,0,0,0,,Don't worry.
+Dialogue: 0,0:16:46.88,0:16:48.10,Default,,0,0,0,,I have a plan.
+Dialogue: 0,0:16:48.69,0:16:49.69,Default,,0,0,0,,Away!
+Dialogue: 0,0:16:51.44,0:16:52.59,Default,,0,0,0,,Your Highness...
+Dialogue: 0,0:16:54.84,0:16:56.74,Default,,0,0,0,,This is the end for Sapphire.
+Dialogue: 0,0:17:42.73,0:17:45.31,Default,,0,0,0,,Here it comes... It's tearing up the town.
+Dialogue: 0,0:18:03.36,0:18:06.20,Default,,0,0,0,,Hey, Moose! This time we settle the score!
+Dialogue: 0,0:18:44.54,0:18:45.56,Default,,0,0,0,,Sapphire! Look out!
+Dialogue: 0,0:19:01.22,0:19:02.12,Default,,0,0,0,,Alright!
+Dialogue: 0,0:19:02.12,0:19:03.99,Default,,0,0,0,,Don't kill it! It's in its neck!
+Dialogue: 0,0:19:04.10,0:19:05.29,Default,,0,0,0,,Pull out the blowdart!
+Dialogue: 0,0:19:14.40,0:19:16.82,Default,,0,0,0,,Didn't Tink just mention a blowdart?
+Dialogue: 0,0:19:18.22,0:19:18.84,Default,,0,0,0,,This is it!
+Dialogue: 0,0:19:44.37,0:19:45.54,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:19:46.05,0:19:48.48,Default,,0,0,0,,Rin-chan, hurry up and bring the vine!
+Dialogue: 0,0:19:51.68,0:19:53.36,Default,,0,0,0,,Bring more! Lots more!
+Dialogue: 0,0:19:59.49,0:20:02.61,Default,,0,0,0,,Everyone, tie those ends to the trees!
+Dialogue: 0,0:20:02.75,0:20:03.75,Default,,0,0,0,,Ready?
+Dialogue: 0,0:20:23.08,0:20:24.14,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:20:24.47,0:20:25.93,Default,,0,0,0,,Hold on tight!
+Dialogue: 0,0:20:52.12,0:20:54.14,Default,,0,0,0,,Moose, open your eyes.
+Dialogue: 0,0:20:54.68,0:20:56.70,Default,,0,0,0,,Sapphire pulled out the blowdart for you.
+Dialogue: 0,0:21:08.18,0:21:09.18,Default,,0,0,0,,Moose!
+Dialogue: 0,0:21:10.66,0:21:13.80,Default,,0,0,0,,An evil human poisoned you.
+Dialogue: 0,0:21:13.92,0:21:16.59,Default,,0,0,0,,This is the person who saved you.
+Dialogue: 0,0:21:18.87,0:21:20.26,Default,,0,0,0,,He's saying thank you.
+Dialogue: 0,0:21:21.60,0:21:23.42,Default,,0,0,0,,I'm the one who should apologize, Moose.
+Dialogue: 0,0:21:24.24,0:21:26.38,Default,,0,0,0,,To think I ever tried to get rid of you...
+Dialogue: 0,0:21:41.84,0:21:42.73,Default,,0,0,0,,Oh? What's this?
+Dialogue: 0,0:21:44.70,0:21:48.29,Default,,0,0,0,,Nylon, didn't Sapphire capture Moose?
+Dialogue: 0,0:21:49.02,0:21:52.90,Default,,0,0,0,,No, that can't be! I definitely hit his neck with a poison dart!
+Dialogue: 0,0:21:52.92,0:21:56.49,Default,,0,0,0,,You utter fool! Go do a handstand on top of that tower!
+Dialogue: 0,0:21:56.64,0:21:58.30,Default,,0,0,0,,Whaaat? Fine, I'll just try it one more time!
+Dialogue: 0,0:22:01.22,0:22:02.77,Default,,0,0,0,,When Moose gets close—{\i1}thwip! stab!{\i0}
+Dialogue: 0,0:22:02.79,0:22:04.84,Default,,0,0,0,,Then Moose will run right over Sapphire and trample him to death!
+Dialogue: 0,0:22:07.03,0:22:09.03,Default,,0,0,0,,Bye-bye!
+Dialogue: 0,0:22:26.51,0:22:27.81,Default,,0,0,0,,Darn it!
+Dialogue: 0,0:22:27.83,0:22:29.93,Default,,0,0,0,,Hey, wait!
+Dialogue: 0,0:22:29.95,0:22:32.33,Default,,0,0,0,,Wait, aren't you that old man?!
+Dialogue: 0,0:22:50.04,0:22:54.22,Default,,0,0,0,,Mommy!
+Dialogue: 0,0:23:10.98,0:23:13.97,Default,,0,0,0,,Sapphire really isn't a coward after all.
+Dialogue: 0,0:23:14.00,0:23:16.05,Default,,0,0,0,,She's so strong and cool!
+Dialogue: 0,0:23:16.08,0:23:19.40,Default,,0,0,0,,That's not all—she's brave and kind, too.
+Dialogue: 0,0:23:21.57,0:23:25.90,Default,,0,0,0,,Lord Sapphire, do you think Moose made it back to the forest safely?
+Dialogue: 0,0:23:27.37,0:23:29.48,Default,,0,0,0,,I was just thinking about that myself.
+Dialogue: 0,0:23:31.85,0:23:32.42,Default,,0,0,0,,Moose,
+Dialogue: 0,0:23:34.08,0:23:36.00,Default,,0,0,0,,stay healthy and safe forever.
 Dialogue: 0,0:24:05.18,0:24:08.82,Karaoke,,0,0,0,,{\k29}{\k22}Ta{\k18}ra{\k16}ri {\k18}Ra{\k20}tta {\k23}Ri{\k19}tta {\k26}Ra{\k17}tta {\k19}Ra{\k66}tta{\k69}ttaa
 Dialogue: 0,0:24:08.82,0:24:12.18,Karaoke,,0,0,0,,{\k8}{\k46}Kya{\k68}hoo! {\k35}Kya{\k42}hoo! {\k46}Kya{\k91}hoo!
 Dialogue: 0,0:24:08.82,0:24:12.18,OPED_Translation,,0,0,0,,Yahoo! Yahoo! Yahoo!

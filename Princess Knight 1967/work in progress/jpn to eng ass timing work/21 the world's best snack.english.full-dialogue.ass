@@ -14,7 +14,8 @@ Audio File: 21 the magic cookies.mkv
 Video File: 21 the magic cookies.mkv
 Video AR Mode: 4
 Video AR Value: 1.314554
-Active Line: 18
+Scroll Position: 398
+Active Line: 405
 Video Position: 950
 
 [V4+ Styles]
@@ -48,302 +49,388 @@ Dialogue: 0,0:01:25.22,0:01:28.62,Karaoke,,0,0,0,,{\k6}{\k50}Hon{\k43}to {\k33}w
 Dialogue: 0,0:01:25.22,0:01:28.62,OPED_Translation,,0,0,0,,Truly, truly,
 Dialogue: 0,0:01:28.62,0:01:31.82,Karaoke,,0,0,0,,{\k18}{\k23}A{\k23}ta{\k27}shi {\k35}na{\k35}no {\k159}sa{\k0}
 Dialogue: 0,0:01:28.62,0:01:31.82,OPED_Translation,,0,0,0,,It’s really me!
-Dialogue: 0,0:01:44.10,0:01:50.14,Default,,0,0,0,,Twenty-First Episode\NThe Magic Cookies
-Dialogue: 0,0:02:04.02,0:02:06.82,Default,,0,0,0,,It's time to wake up\NPrince Sapphire.
-Dialogue: 0,0:02:07.58,0:02:09.65,Default,,0,0,0,,Prince Sapphire!
-Dialogue: 0,0:02:10.30,0:02:12.26,Default,,0,0,0,,It's time to get up!
-Dialogue: 0,0:02:14.50,0:02:16.06,Default,,0,0,0,,Good heavens!
-Dialogue: 0,0:02:21.54,0:02:25.33,Default,,0,0,0,,Prince, it is time to go to the\Nsecret room for your lessons!
-Dialogue: 0,0:02:25.38,0:02:27.21,Default,,0,0,0,,Yes, Garigori, I know!
-Dialogue: 0,0:02:33.90,0:02:36.18,Default,,0,0,0,,I will be back soon!
-Dialogue: 0,0:02:36.22,0:02:39.50,Default,,0,0,0,,No, Sapphire! You must\Nstudy at least until nine o'clock!
-Dialogue: 0,0:02:55.70,0:02:58.30,Default,,0,0,0,,You are very late\Nthis morning, Sapphire.
-Dialogue: 0,0:02:58.34,0:03:02.22,Default,,0,0,0,,Put this dress on right\Naway. I will help you. There!
-Dialogue: 0,0:03:03.22,0:03:06.74,Default,,0,0,0,,Is this the dress that my\Nmother had prepared for me?
-Dialogue: 0,0:03:06.78,0:03:10.30,Default,,0,0,0,,Yes, it is. You must take\Ncooking and sewing lessons...
-Dialogue: 0,0:03:10.34,0:03:13.17,Default,,0,0,0,,...to be able to become as\Ngood as your dear mother.
-Dialogue: 0,0:03:13.34,0:03:15.49,Default,,0,0,0,,Alright, I will take the lessons.
-Dialogue: 0,0:03:15.54,0:03:18.29,Default,,0,0,0,,But I can't go horseback\Nriding in this dress!
-Dialogue: 0,0:03:18.58,0:03:21.70,Default,,0,0,0,,You would appreciate it more if\Nyou behaved more like a woman.
-Dialogue: 0,0:03:21.86,0:03:24.42,Default,,0,0,0,,- Let me help you!\N- No, I don't want to!
-Dialogue: 0,0:03:24.46,0:03:26.29,Default,,0,0,0,,- Come on!\N- I want to do it myself!
-Dialogue: 0,0:03:29.02,0:03:31.01,Default,,0,0,0,,How pretty you are...
-Dialogue: 0,0:03:32.54,0:03:35.66,Default,,0,0,0,,Now, to start,\Nslice this bread.
-Dialogue: 0,0:03:35.86,0:03:38.46,Default,,0,0,0,,I can't do it! I don't know how!
-Dialogue: 0,0:03:38.50,0:03:42.29,Default,,0,0,0,,If you warm up the knife, you'll\Nbe able to slice it more easily.
-Dialogue: 0,0:03:42.34,0:03:44.54,Default,,0,0,0,,Like this, look! Like this!
-Dialogue: 0,0:03:45.22,0:03:47.50,Default,,0,0,0,,- Chop! Chop! Chop!\N- I understand.
-Dialogue: 0,0:03:52.74,0:03:55.38,Default,,0,0,0,,I don't know how to do it!\NI don't know how to cut it well!
-Dialogue: 0,0:03:55.82,0:03:57.81,Default,,0,0,0,,Don't you have a knife\Nthat's a bit longer?
-Dialogue: 0,0:03:57.86,0:04:00.38,Default,,0,0,0,,See if you can do better\Nwith this.
-Dialogue: 0,0:04:01.02,0:04:04.01,Default,,0,0,0,,- Good! This one works!\N- Be careful not to cut yourself.
-Dialogue: 0,0:04:04.06,0:04:06.37,Default,,0,0,0,,- It's very sharp.\N- Really?
-Dialogue: 0,0:04:07.10,0:04:10.14,Default,,0,0,0,,My God, Princess!\NWhat do you want to do?!
-Dialogue: 0,0:04:10.18,0:04:11.82,Default,,0,0,0,,Sapphire!
-Dialogue: 0,0:04:13.90,0:04:16.34,Default,,0,0,0,,Great! This cuts much better!
-Dialogue: 0,0:04:17.26,0:04:20.54,Default,,0,0,0,,But when you cook,\Nyou must use the right tools
-Dialogue: 0,0:04:20.58,0:04:23.78,Default,,0,0,0,,- All right...\N- Good morning, everyone
-Dialogue: 0,0:04:24.86,0:04:28.14,Default,,0,0,0,,- Good morning, Your Majesty!\N- Did you sleep well?
-Dialogue: 0,0:04:28.18,0:04:30.62,Default,,0,0,0,,But tell me:\Nwho is that girl?
-Dialogue: 0,0:04:32.74,0:04:36.02,Default,,0,0,0,,Good heavens!\NBut you really are Sapphire!
-Dialogue: 0,0:04:36.10,0:04:38.22,Default,,0,0,0,,Yes! Here is breakfast!
-Dialogue: 0,0:04:38.26,0:04:40.65,Default,,0,0,0,,You are really very good.
-Dialogue: 0,0:04:41.06,0:04:44.02,Default,,0,0,0,,Here you go, father!\NAnd you are served too, mother!
-Dialogue: 0,0:04:44.06,0:04:46.42,Default,,0,0,0,,You really are\Na beautiful and good girl!
-Dialogue: 0,0:04:46.70,0:04:49.01,Default,,0,0,0,,I can do everything,\Nif I only try.
-Dialogue: 0,0:04:50.78,0:04:53.42,Default,,0,0,0,,What's wrong? What's happening?\NWhy are you shouting?
-Dialogue: 0,0:04:53.50,0:04:56.02,Default,,0,0,0,,Nothing, nothing...\NDon't worry.
-Dialogue: 0,0:04:56.06,0:04:59.02,Default,,0,0,0,,How messy you are!\NI had arranged them so well!
-Dialogue: 0,0:04:59.06,0:05:02.29,Default,,0,0,0,,Yes, I'm sorry... Do you want to spread\Nthe tablecloth now?
-Dialogue: 0,0:05:02.78,0:05:04.53,Default,,0,0,0,,What?... Ah, this one!
-Dialogue: 0,0:05:05.74,0:05:07.89,Default,,0,0,0,,I am so sorry, father.
-Dialogue: 0,0:05:07.94,0:05:10.77,Default,,0,0,0,,Yes, I forgive you, but\Nhurry up, please, Sapphire!
-Dialogue: 0,0:05:15.70,0:05:19.33,Default,,0,0,0,,All things considered, it would have been\Nbetter if you were born a boy, you know?
-Dialogue: 0,0:05:24.82,0:05:26.73,Default,,0,0,0,,Why so early?
-Dialogue: 0,0:05:26.78,0:05:28.69,Default,,0,0,0,,Well, I wanted to tell you that...
-Dialogue: 0,0:05:29.14,0:05:31.42,Default,,0,0,0,,- Really?!\N- Yes, sir!
-Dialogue: 0,0:05:31.46,0:05:34.06,Default,,0,0,0,,This is the pastry!\NStand up straight!
-Dialogue: 0,0:05:34.62,0:05:37.26,Default,,0,0,0,,Do a somersault! Bark!
-Dialogue: 0,0:05:38.90,0:05:41.62,Default,,0,0,0,,I put the medicine in\Nit that forces people...
-Dialogue: 0,0:05:41.66,0:05:44.22,Default,,0,0,0,,..to obey any order!
-Dialogue: 0,0:05:44.26,0:05:47.01,Default,,0,0,0,,Good! Have many pastries made immediately!
-Dialogue: 0,0:05:47.06,0:05:49.58,Default,,0,0,0,,And make sure the King, the\NQueen and Sapphire eat them today,
-Dialogue: 0,0:05:49.62,0:05:52.74,Default,,0,0,0,,during afternoon tea,\Ntogether with the other pastries!
-Dialogue: 0,0:05:52.78,0:05:54.37,Default,,0,0,0,,Splendid!
-Dialogue: 0,0:05:55.82,0:05:57.49,Default,,0,0,0,,Really good!
-Dialogue: 0,0:05:57.94,0:05:59.85,Default,,0,0,0,,Why did you eat\Nmy pastry?
-Dialogue: 0,0:06:00.62,0:06:04.30,Default,,0,0,0,,The pastries force people\Nto obey any order.
-Dialogue: 0,0:06:04.94,0:06:07.17,Default,,0,0,0,,Where are you going, damn parrot?
-Dialogue: 0,0:06:07.22,0:06:09.29,Default,,0,0,0,,I ate it! I ate it!
-Dialogue: 0,0:06:09.34,0:06:11.70,Default,,0,0,0,,It's time you dressed again\Nas a boy.
-Dialogue: 0,0:06:11.74,0:06:13.70,Default,,0,0,0,,Ah, finally! Right away!
-Dialogue: 0,0:06:14.34,0:06:16.01,Default,,0,0,0,,Here I am!
-Dialogue: 0,0:06:16.06,0:06:18.86,Default,,0,0,0,,We wanted to raise her\Nas a boy...
-Dialogue: 0,0:06:19.66,0:06:21.57,Default,,0,0,0,,...and now she's a tomboy!
-Dialogue: 0,0:06:25.90,0:06:28.02,Default,,0,0,0,,Hey, parrot! Halt!
-Dialogue: 0,0:06:28.62,0:06:30.85,Default,,0,0,0,,Strange, it stopped all of a sudden!
-Dialogue: 0,0:06:31.22,0:06:33.26,Default,,0,0,0,,Now come onto my hand.
-Dialogue: 0,0:06:33.66,0:06:36.10,Default,,0,0,0,,This must be\NNylon's parrot.
-Dialogue: 0,0:06:36.14,0:06:39.18,Default,,0,0,0,,Hey, my parrot!\NMy little parrot!
-Dialogue: 0,0:06:39.86,0:06:43.22,Default,,0,0,0,,- Oh, Prince!\N- Is it yours? I'll give it back to you right away.
-Dialogue: 0,0:06:43.58,0:06:46.02,Default,,0,0,0,,It doesn't matter,\NI'll take it back later.
-Dialogue: 0,0:06:46.06,0:06:48.34,Default,,0,0,0,,Now I have to take\Na long walk! Long!
-Dialogue: 0,0:06:49.42,0:06:52.46,Default,,0,0,0,,How strange...! There's something\Nwrong with this parrot.
-Dialogue: 0,0:06:53.46,0:06:55.58,Default,,0,0,0,,Listen, tell me everything you know
-Dialogue: 0,0:06:55.62,0:06:58.90,Default,,0,0,0,,- If you eat those pastries...\N- What happens?
-Dialogue: 0,0:06:58.94,0:07:01.98,Default,,0,0,0,,- Have some pastries made!\N- Make some pastries?
-Dialogue: 0,0:07:02.02,0:07:04.49,Default,,0,0,0,,But what pastries\Nare you talking about?!
-Dialogue: 0,0:07:09.82,0:07:12.54,Default,,0,0,0,,Duralumin! This parrot\Ntalked about pastries...
-Dialogue: 0,0:07:12.58,0:07:15.49,Default,,0,0,0,,...that force people\Nto obey any order!
-Dialogue: 0,0:07:16.82,0:07:19.81,Default,,0,0,0,,Pastries that force you\Nto obey orders?!
-Dialogue: 0,0:07:19.86,0:07:21.85,Default,,0,0,0,,What the hell is this about?!
-Dialogue: 0,0:07:21.90,0:07:23.81,Default,,0,0,0,,Nylon, do you know anything about this?
-Dialogue: 0,0:07:23.86,0:07:26.14,Default,,0,0,0,,I don't know anything about\Nit. What are you talking about?
-Dialogue: 0,0:07:26.42,0:07:29.25,Default,,0,0,0,,You're lying! A moment\Nago it seemed like you knew!
-Dialogue: 0,0:07:32.50,0:07:34.94,Default,,0,0,0,,But what the hell is happening to you?
-Dialogue: 0,0:07:34.98,0:07:37.29,Default,,0,0,0,,It seems like you had\Na horrible dream!
-Dialogue: 0,0:07:39.34,0:07:41.90,Default,,0,0,0,,I'm sure they will use\Nthose pastries...
-Dialogue: 0,0:07:41.94,0:07:43.90,Default,,0,0,0,,..for some conspiracy of theirs
-Dialogue: 0,0:07:44.14,0:07:47.69,Default,,0,0,0,,The pastries will surely be made\Nin some pastry shop.
-Dialogue: 0,0:07:48.02,0:07:49.90,Default,,0,0,0,,I'll manage to find it.
-Dialogue: 0,0:07:58.02,0:08:00.41,Default,,0,0,0,,You are Prince Sapphire, right?
-Dialogue: 0,0:08:00.46,0:08:03.29,Default,,0,0,0,,- Where are you going?\N- There's a pastry shop.
-Dialogue: 0,0:08:03.34,0:08:05.62,Default,,0,0,0,,...in the woods!\NI'm going to see it!
-Dialogue: 0,0:08:05.78,0:08:09.57,Default,,0,0,0,,We are also going to the woods\Nto see it!
-Dialogue: 0,0:08:36.50,0:08:38.62,Default,,0,0,0,,The walls are made\Nof sponge cake!
-Dialogue: 0,0:08:38.66,0:08:40.70,Default,,0,0,0,,The snow on the roof is whipped cream!
-Dialogue: 0,0:08:45.18,0:08:48.30,Default,,0,0,0,,The pebbles made of popcorn\Nare delicious!
-Dialogue: 0,0:08:48.46,0:08:52.74,Default,,0,0,0,,- Delicious!\N- What a beautiful, delicious place!
-Dialogue: 0,0:08:53.02,0:08:55.33,Default,,0,0,0,,Hey, you!
-Dialogue: 0,0:08:55.70,0:08:58.30,Default,,0,0,0,,Go away, you damn kids
-Dialogue: 0,0:08:58.38,0:09:01.45,Default,,0,0,0,,I have to make some pastries\Nthat were ordered,
-Dialogue: 0,0:09:01.50,0:09:05.89,Default,,0,0,0,,so get out of my way\Nand let me work in peace!
-Dialogue: 0,0:09:08.02,0:09:12.22,Default,,0,0,0,,Ordered... Just as I thought! It's\Nlikely they are having them made here.
-Dialogue: 0,0:09:14.50,0:09:18.29,Default,,0,0,0,,Opal, go to the castle and bring me\Nmy girl's dress right away.
-Dialogue: 0,0:09:23.38,0:09:26.66,Default,,0,0,0,,This will do!\NYou, Opal, wait for me here
-Dialogue: 0,0:09:35.26,0:09:37.70,Default,,0,0,0,,Who is disturbing me?\NI'm busy, for heaven's sake!
-Dialogue: 0,0:09:37.74,0:09:39.62,Default,,0,0,0,,Are you a customer?
-Dialogue: 0,0:09:40.42,0:09:42.22,Default,,0,0,0,,No, I want to work.
-Dialogue: 0,0:09:42.26,0:09:44.25,Default,,0,0,0,,I heard that the pastry chef...
-Dialogue: 0,0:09:44.30,0:09:47.18,Default,,0,0,0,,...needed someone to\Nhelp him with his work.
-Dialogue: 0,0:09:47.74,0:09:50.38,Default,,0,0,0,,So, can you let\Nme work with you?
-Dialogue: 0,0:09:51.54,0:09:54.01,Default,,0,0,0,,Today I have so much\Nto do that I'll take you on.
-Dialogue: 0,0:09:54.10,0:09:56.01,Default,,0,0,0,,How kind!
-Dialogue: 0,0:09:56.26,0:09:59.25,Default,,0,0,0,,Do you make pastries\Nin such a small room?
-Dialogue: 0,0:09:59.66,0:10:03.54,Default,,0,0,0,,No! Do you perhaps think I can\Nmake pastries inside pastries? Come!
-Dialogue: 0,0:10:05.42,0:10:08.81,Default,,0,0,0,,Good heavens! There's\Na room underground!
-Dialogue: 0,0:10:21.30,0:10:24.10,Default,,0,0,0,,What a great place\Nto work! It's fantastic!
-Dialogue: 0,0:10:24.14,0:10:27.42,Default,,0,0,0,,Of course, since I am the\Nbest pastry chef in the world!
-Dialogue: 0,0:10:28.46,0:10:30.26,Default,,0,0,0,,Hey, you!
-Dialogue: 0,0:10:31.66,0:10:33.06,Default,,0,0,0,,yes?
-Dialogue: 0,0:10:33.10,0:10:35.25,Default,,0,0,0,,Go and light the fire\Nin that oven, over there!
-Dialogue: 0,0:10:35.30,0:10:36.94,Default,,0,0,0,,- Come on!\N- Yes!
-Dialogue: 0,0:10:37.86,0:10:40.58,Default,,0,0,0,,Well, lighting a fire\Nis super easy.
-Dialogue: 0,0:10:43.38,0:10:45.34,Default,,0,0,0,,Good heavens!
-Dialogue: 0,0:10:45.90,0:10:49.21,Default,,0,0,0,,Hey! Don't you even know how to\Nlight a fire?!
-Dialogue: 0,0:10:49.26,0:10:51.82,Default,,0,0,0,,I'm sorry,\Nbut this wood is wet!
-Dialogue: 0,0:10:51.86,0:10:54.14,Default,,0,0,0,,You've turned...\Nblack as coal...
-Dialogue: 0,0:10:54.18,0:10:57.01,Default,,0,0,0,,...even the pastry dough! It's ruined!
-Dialogue: 0,0:10:57.06,0:10:59.89,Default,,0,0,0,,Then we won't be able to\Nmake the pastries anymore!
-Dialogue: 0,0:10:59.94,0:11:02.06,Default,,0,0,0,,Oh, yes! I will make them at all costs!
-Dialogue: 0,0:11:02.10,0:11:04.33,Default,,0,0,0,,Before tea time!\NYou clean everything up!
-Dialogue: 0,0:11:04.38,0:11:05.66,Default,,0,0,0,,Yes!
-Dialogue: 0,0:11:18.94,0:11:22.30,Default,,0,0,0,,Now I'll put in the medicine\Nthat I was ordered to.
-Dialogue: 0,0:11:30.46,0:11:32.85,Default,,0,0,0,,Now come here to help me
-Dialogue: 0,0:11:33.02,0:11:37.41,Default,,0,0,0,,Take a nice handful of dough\Nand shape the pastry.
-Dialogue: 0,0:11:37.46,0:11:39.42,Default,,0,0,0,,Afterward, I will put it in the oven.
-Dialogue: 0,0:11:40.14,0:11:42.02,Default,,0,0,0,,Like this.
-Dialogue: 0,0:11:42.26,0:11:44.25,Default,,0,0,0,,My God, it's too big!
-Dialogue: 0,0:11:53.74,0:11:56.18,Default,,0,0,0,,But how misshapen mine are!
-Dialogue: 0,0:11:56.54,0:12:00.14,Default,,0,0,0,,There's no need for you to make\Nany more. Put mine in the oven.
-Dialogue: 0,0:12:00.34,0:12:02.01,Default,,0,0,0,,Yes!
-Dialogue: 0,0:12:02.06,0:12:06.50,Default,,0,0,0,,I've got it! I will mess up on purpose\Nand drop all the pastries!
-Dialogue: 0,0:12:07.58,0:12:10.54,Default,,0,0,0,,Stupid! Why don't you\Ntry to be more careful?
-Dialogue: 0,0:12:10.58,0:12:13.14,Default,,0,0,0,,I'm so sorry, Mr. Pastry Chef!
-Dialogue: 0,0:12:13.18,0:12:16.54,Default,,0,0,0,,How come you aren't capable\Nof doing such a simple job?
-Dialogue: 0,0:12:16.58,0:12:20.89,Default,,0,0,0,,Even a child could do it!\NCan't you be less distracted?
-Dialogue: 0,0:12:20.94,0:12:22.53,Default,,0,0,0,,Hey, boss!
-Dialogue: 0,0:12:23.22,0:12:25.45,Default,,0,0,0,,Boss, did you make the pastries?
-Dialogue: 0,0:12:25.50,0:12:28.89,Default,,0,0,0,,I'm baking them right\Nnow! Just wait a moment.
-Dialogue: 0,0:12:28.94,0:12:30.61,Default,,0,0,0,,Who is that girl?
-Dialogue: 0,0:12:31.38,0:12:33.82,Default,,0,0,0,,She's my assistant.\NThey are done now.
-Dialogue: 0,0:12:33.86,0:12:36.46,Default,,0,0,0,,- Come here and help me, come on!\N- I'm coming!
-Dialogue: 0,0:12:37.18,0:12:40.09,Default,,0,0,0,,Great! Thank you,\NMr. Pastry Chef.
-Dialogue: 0,0:12:40.14,0:12:42.02,Default,,0,0,0,,Anyway, I have a question to ask:
-Dialogue: 0,0:12:42.06,0:12:44.26,Default,,0,0,0,,What is this medicine\Nthat I put in the pastries?
-Dialogue: 0,0:12:44.30,0:12:46.21,Default,,0,0,0,,It's not poison, is it?
-Dialogue: 0,0:12:46.26,0:12:49.94,Default,,0,0,0,,- Oh, no! Only Vitamin C.\N- I don't believe it!
-Dialogue: 0,0:12:52.62,0:12:55.22,Default,,0,0,0,,Hey, you! Why did you\Nsay "I don't believe it"?
-Dialogue: 0,0:12:55.26,0:12:57.01,Default,,0,0,0,,Do you know something\Nabout these pastries?
-Dialogue: 0,0:12:57.06,0:13:00.37,Default,,0,0,0,,Not me... I... I don't know\Nanything about this medicine.
-Dialogue: 0,0:13:02.54,0:13:05.29,Default,,0,0,0,,These pastries are\Nreally very good.
-Dialogue: 0,0:13:07.10,0:13:10.81,Default,,0,0,0,,I see...! Then you will\Neat these pastries...
-Dialogue: 0,0:13:10.86,0:13:13.42,Default,,0,0,0,,...in which Vitamin C\Nhas been put! Eat them!
-Dialogue: 0,0:13:13.46,0:13:15.58,Default,,0,0,0,,Eat them! Eat them now!
-Dialogue: 0,0:13:15.62,0:13:18.09,Default,,0,0,0,,Try eating them! Come on, eat them!
-Dialogue: 0,0:13:24.94,0:13:28.82,Default,,0,0,0,,Eat them, come on! Come\Non! I order you to eat them!
-Dialogue: 0,0:13:32.26,0:13:35.17,Default,,0,0,0,,Get her! That girl\Nknows about the pastries!
-Dialogue: 0,0:13:35.22,0:13:38.42,Default,,0,0,0,,Don't let her\Nescape! Go, quickly!
-Dialogue: 0,0:13:38.46,0:13:39.81,Default,,0,0,0,,Yes!
-Dialogue: 0,0:13:40.06,0:13:42.62,Default,,0,0,0,,Stop! Stop!
-Dialogue: 0,0:13:45.62,0:13:47.50,Default,,0,0,0,,Opal, let's go!
-Dialogue: 0,0:13:47.54,0:13:49.74,Default,,0,0,0,,- Stop! Stop!\N- Stop!
-Dialogue: 0,0:14:06.02,0:14:08.14,Default,,0,0,0,,Who ordered these\Npastries from you?
-Dialogue: 0,0:14:08.18,0:14:10.70,Default,,0,0,0,,Tell me! Who ordered\Nthese pastries from you?
-Dialogue: 0,0:14:10.74,0:14:13.21,Default,,0,0,0,,Fine! If you don't want to\Ntell me, it doesn't matter!
-Dialogue: 0,0:14:13.26,0:14:15.14,Default,,0,0,0,,I'm taking them with me anyway!
-Dialogue: 0,0:14:15.70,0:14:17.50,Default,,0,0,0,,And now go!
-Dialogue: 0,0:14:23.70,0:14:26.45,Default,,0,0,0,,Mr. Pastry Chef, please\Ngive me those pastries!
-Dialogue: 0,0:14:26.50,0:14:28.62,Default,,0,0,0,,So you weren't a girl!
-Dialogue: 0,0:14:28.66,0:14:31.38,Default,,0,0,0,,No, no! I will deliver them\Nto the man who ordered them from me!
-Dialogue: 0,0:14:31.42,0:14:34.46,Default,,0,0,0,,I've decided to take them!\NYou'd better give them to me!
-Dialogue: 0,0:14:34.70,0:14:38.01,Default,,0,0,0,,No, absolutely not!\NI absolutely cannot give them to you!
-Dialogue: 0,0:14:41.34,0:14:44.65,Default,,0,0,0,,- What happened?\N- I couldn't get them, sir.
-Dialogue: 0,0:14:44.70,0:14:48.46,Default,,0,0,0,,What do you mean?! Perhaps the pastry chef\Nhadn't made them yet?
-Dialogue: 0,0:14:48.50,0:14:50.62,Default,,0,0,0,,What?!\NPrince Sapphire came?!
-Dialogue: 0,0:14:50.66,0:14:52.54,Default,,0,0,0,,Damn it! Ken!
-Dialogue: 0,0:14:58.50,0:15:00.33,Default,,0,0,0,,Here I am, Mr. Nylon!
-Dialogue: 0,0:15:00.38,0:15:02.13,Default,,0,0,0,,I don't want to hear anything more about Sapphire!
-Dialogue: 0,0:15:02.18,0:15:05.06,Default,,0,0,0,,Go back there and this time\Ntake the pastries!
-Dialogue: 0,0:15:05.10,0:15:06.61,Default,,0,0,0,,Yes, sir!
-Dialogue: 0,0:15:06.66,0:15:09.46,Default,,0,0,0,,And do whatever you want\Nwith Prince Sapphire!
-Dialogue: 0,0:15:31.10,0:15:33.01,Default,,0,0,0,,Let's go!
-Dialogue: 0,0:15:38.30,0:15:40.29,Default,,0,0,0,,I've come to take those pastries!
-Dialogue: 0,0:15:42.54,0:15:44.34,Default,,0,0,0,,Damn you!
-Dialogue: 0,0:15:55.82,0:15:58.02,Default,,0,0,0,,You won't be able to stop me anyway!
-Dialogue: 0,0:15:58.42,0:16:00.81,Default,,0,0,0,,I did it! I did it!
-Dialogue: 0,0:16:02.82,0:16:05.21,Default,,0,0,0,,Well done!\NAnd now deal with Sapphire!
-Dialogue: 0,0:16:12.02,0:16:16.33,Default,,0,0,0,,Don't shoot! Don't shoot!\NI am the pastry chef! Don't shoot!
-Dialogue: 0,0:16:17.10,0:16:19.57,Default,,0,0,0,,But why do you want to kill me?
-Dialogue: 0,0:16:20.82,0:16:23.02,Default,,0,0,0,,I don't want you to tell\Nanyone anything about the pastries,
-Dialogue: 0,0:16:23.06,0:16:25.66,Default,,0,0,0,,so, to silence you,\NI will kill you.
-Dialogue: 0,0:16:28.02,0:16:31.09,Default,,0,0,0,,Good heavens! Dirty cowards!\NThey tricked me!
-Dialogue: 0,0:16:31.14,0:16:34.29,Default,,0,0,0,,I assure you that I didn't know\Nthat that medicine was poisonous!
-Dialogue: 0,0:16:34.34,0:16:38.22,Default,,0,0,0,,I didn't know! I only obeyed\Nby making those pastries.
-Dialogue: 0,0:16:38.42,0:16:41.09,Default,,0,0,0,,And do you know who they want\Nto eat them?
-Dialogue: 0,0:16:41.14,0:16:44.26,Default,,0,0,0,,As far as I know, they want\Neveryone at the castle to eat them:
-Dialogue: 0,0:16:44.30,0:16:47.02,Default,,0,0,0,,the King, the Queen, the Prince...\NIn short, everyone!
-Dialogue: 0,0:16:47.06,0:16:49.78,Default,,0,0,0,,Oh, my God!\NI forgot something important:
-Dialogue: 0,0:16:49.82,0:16:52.54,Default,,0,0,0,,they will be eaten during tea\Nthis afternoon!
-Dialogue: 0,0:16:53.82,0:16:57.02,Default,,0,0,0,,What?!\NBut tea time will be here soon!
-Dialogue: 0,0:16:58.14,0:17:01.61,Default,,0,0,0,,Fortunately, there is still a\Nwhole package of pastries left!
-Dialogue: 0,0:17:03.62,0:17:06.53,Default,,0,0,0,,I'll try to get those men\Nout there to eat them.
-Dialogue: 0,0:17:07.34,0:17:10.22,Default,,0,0,0,,That way, they will be\Nas obedient as that parrot!
-Dialogue: 0,0:17:19.02,0:17:20.85,Default,,0,0,0,,Eat this!
-Dialogue: 0,0:17:29.78,0:17:32.66,Default,,0,0,0,,Listen well, you who\Nhave eaten my pastries!
-Dialogue: 0,0:17:32.70,0:17:35.30,Default,,0,0,0,,Now there is no more\Nneed for you to hunt me!
-Dialogue: 0,0:17:35.66,0:17:37.89,Default,,0,0,0,,- Yes, sir!\N- See?
-Dialogue: 0,0:17:37.94,0:17:40.69,Default,,0,0,0,,The pastry medicine\Nhas taken effect.
-Dialogue: 0,0:17:40.74,0:17:42.41,Default,,0,0,0,,Fantastic!
-Dialogue: 0,0:17:45.66,0:17:47.62,Default,,0,0,0,,Prince, we won't get in your way anymore!
-Dialogue: 0,0:17:47.66,0:17:51.65,Default,,0,0,0,,Now you must tell me who it was\Nwho ordered you to kill me!
-Dialogue: 0,0:17:52.02,0:17:54.41,Default,,0,0,0,,I don't know his name.\NI didn't even see him,
-Dialogue: 0,0:17:54.46,0:17:56.37,Default,,0,0,0,,because he gave the order\Nto our leader.
-Dialogue: 0,0:17:57.02,0:17:59.01,Default,,0,0,0,,Is there anyone who knows?
-Dialogue: 0,0:17:59.82,0:18:03.18,Default,,0,0,0,,Prince, hurry up\Nand return to the castle!
-Dialogue: 0,0:18:03.22,0:18:05.29,Default,,0,0,0,,- I'm going!\N- And you, get out of here!
-Dialogue: 0,0:18:05.34,0:18:07.90,Default,,0,0,0,,Never return to this forest again!\NI order you!
-Dialogue: 0,0:18:20.82,0:18:24.10,Default,,0,0,0,,- But at least are they good?\N- They are delicious.
-Dialogue: 0,0:18:24.58,0:18:27.81,Default,,0,0,0,,I had them made\Nby the best pastry chef in town.
-Dialogue: 0,0:18:27.98,0:18:30.34,Default,,0,0,0,,Good! Now deliver them to the servants!
-Dialogue: 0,0:18:30.38,0:18:33.37,Default,,0,0,0,,Make sure that everyone who\Nis close to Sapphire eats them.
-Dialogue: 0,0:18:33.42,0:18:34.82,Default,,0,0,0,,Yes, sir.
-Dialogue: 0,0:18:34.86,0:18:37.93,Default,,0,0,0,,I hope you have killed\Nthe man who made them.
-Dialogue: 0,0:18:37.98,0:18:40.78,Default,,0,0,0,,They are killing him now,\Nalong with Sapphire.
-Dialogue: 0,0:18:40.82,0:18:42.70,Default,,0,0,0,,What? Along with Sapphire?!
-Dialogue: 0,0:18:42.74,0:18:45.94,Default,,0,0,0,,Are you sure they can manage\Nto kill him? Sapphire is strong!
-Dialogue: 0,0:18:46.58,0:18:48.57,Default,,0,0,0,,I am absolutely sure they will!
-Dialogue: 0,0:18:49.42,0:18:51.70,Default,,0,0,0,,Then I will carry out\Na plan of mine.
-Dialogue: 0,0:18:52.90,0:18:55.18,Default,,0,0,0,,Special troops! Special troops!
-Dialogue: 0,0:18:55.22,0:18:58.10,Default,,0,0,0,,Duralumin orders you to kill\Nthe King and his family!
-Dialogue: 0,0:19:08.82,0:19:12.29,Default,,0,0,0,,The medicine calmed those wild\Nmen in a second!
-Dialogue: 0,0:19:12.46,0:19:15.21,Default,,0,0,0,,If Mom and Dad\Ntake that horrible medicine,
-Dialogue: 0,0:19:15.26,0:19:18.09,Default,,0,0,0,,they will be forever obedient\Nto Grand Duke Duralumin!
-Dialogue: 0,0:19:19.30,0:19:21.21,Default,,0,0,0,,Your Majesty, it's tea time
-Dialogue: 0,0:19:21.26,0:19:23.82,Default,,0,0,0,,Put everything on the table\Nand call the others.
-Dialogue: 0,0:19:23.94,0:19:25.93,Default,,0,0,0,,We will have tea all together.
-Dialogue: 0,0:19:26.22,0:19:27.73,Default,,0,0,0,,Yes, Your Majesty.
-Dialogue: 0,0:19:56.30,0:19:58.42,Default,,0,0,0,,That's a tank!
-Dialogue: 0,0:20:02.34,0:20:04.41,Default,,0,0,0,,Gunpowder arrows!
-Dialogue: 0,0:20:10.82,0:20:13.02,Default,,0,0,0,,Get them, Opal! Get them!
-Dialogue: 0,0:20:27.86,0:20:30.38,Default,,0,0,0,,Stop, or I will kill you!
-Dialogue: 0,0:20:35.02,0:20:37.17,Default,,0,0,0,,Who gave you\Nthe order to kill me?
-Dialogue: 0,0:20:37.22,0:20:39.89,Default,,0,0,0,,We were ordered\Nby our Captain, sir!
-Dialogue: 0,0:20:39.94,0:20:43.22,Default,,0,0,0,,Don't lie, soldier! It must have\Nbeen an order from Duralumin!
-Dialogue: 0,0:20:43.26,0:20:45.01,Default,,0,0,0,,- I don't know!\N- Opal!
-Dialogue: 0,0:20:45.06,0:20:47.34,Default,,0,0,0,,Let the horse\Ngo!
-Dialogue: 0,0:20:49.26,0:20:52.62,Default,,0,0,0,,- You will return on foot.\N- Very well, sir.
-Dialogue: 0,0:20:53.90,0:20:56.70,Default,,0,0,0,,- Aren't they coming?\N- They will arrive soon, Your Majesty
-Dialogue: 0,0:20:56.74,0:20:59.21,Default,,0,0,0,,- In the meantime, eat.\N- No, I will wait for them.
-Dialogue: 0,0:20:59.26,0:21:01.73,Default,,0,0,0,,These pastries\Nlook delicious.
-Dialogue: 0,0:21:06.62,0:21:09.22,Default,,0,0,0,,- I apologize for the delay.\N- Forgive me, Your Majesty.
-Dialogue: 0,0:21:09.66,0:21:12.73,Default,,0,0,0,,It doesn't matter.\NAnyway, you are always late.
-Dialogue: 0,0:21:22.18,0:21:25.89,Default,,0,0,0,,Prince Sapphire has arrived!\NOpen the gates at once!
-Dialogue: 0,0:21:30.78,0:21:33.58,Default,,0,0,0,,What are you doing?\NOpen immediately!
-Dialogue: 0,0:21:33.62,0:21:35.77,Default,,0,0,0,,These pastries\Nlook delicious.
-Dialogue: 0,0:21:35.82,0:21:37.54,Default,,0,0,0,,- Don't you think?\N- Yes.
-Dialogue: 0,0:21:37.58,0:21:40.70,Default,,0,0,0,,I wonder if Sapphire will ever be\Nable to make ones just like them.
-Dialogue: 0,0:21:40.74,0:21:43.89,Default,,0,0,0,,Prince Sapphire, one day,\Nwill make even better ones!
-Dialogue: 0,0:22:14.38,0:22:16.74,Default,,0,0,0,,Sapphire, what the hell is going on?!
-Dialogue: 0,0:22:16.82,0:22:20.02,Default,,0,0,0,,Father, mother, forgive\Nme if I had to act this way.
-Dialogue: 0,0:22:20.06,0:22:23.82,Default,,0,0,0,,- Those pastries were poisoned!\N- Good heavens! Really?
-Dialogue: 0,0:22:23.86,0:22:26.93,Default,,0,0,0,,What happened, Sapphire?\NTell me everything, please.
-Dialogue: 0,0:22:27.50,0:22:29.01,Default,,0,0,0,,Right away.
-Dialogue: 0,0:22:29.18,0:22:31.82,Default,,0,0,0,,But I cannot accuse anyone\Nof having ordered them,
-Dialogue: 0,0:22:31.86,0:22:33.66,Default,,0,0,0,,because I lack the proof.
-Dialogue: 0,0:22:35.02,0:22:36.74,Default,,0,0,0,,So, Nylon?
-Dialogue: 0,0:22:36.78,0:22:38.69,Default,,0,0,0,,Sapphire has managed\Nto get on his side...
-Dialogue: 0,0:22:38.74,0:22:41.18,Default,,0,0,0,,...our accomplices,\Nwith the help of those pastries.
-Dialogue: 0,0:22:41.30,0:22:43.21,Default,,0,0,0,,Idiot!
-Dialogue: 0,0:22:53.82,0:22:58.13,Default,,0,0,0,,Maybe I overcooked them, but I'm\Nsure they must be delicious!
-Dialogue: 0,0:22:58.90,0:23:02.26,Default,,0,0,0,,Not bad...\NReally not bad!
-Dialogue: 0,0:23:02.30,0:23:04.82,Default,,0,0,0,,You wouldn't tell\Nthat it's the first time you've made them.
-Dialogue: 0,0:23:04.86,0:23:07.33,Default,,0,0,0,,I'm glad\Nthat they turned out well.
-Dialogue: 0,0:23:08.82,0:23:10.70,Default,,0,0,0,,But it tastes bad! It's bitter!
-Dialogue: 0,0:23:12.26,0:23:15.78,Default,,0,0,0,,Sapphire, you will manage to do\Neverything that girls do.
-Dialogue: 0,0:23:15.82,0:23:17.81,Default,,0,0,0,,With a little effort,\Nyou will learn to make...
-Dialogue: 0,0:23:17.86,0:23:20.06,Default,,0,0,0,,...even the most delicious\Nsweets in the world.
-Dialogue: 0,0:23:20.66,0:23:23.73,Default,,0,0,0,,Do you really believe\Nthat I will learn to cook, father?
+Dialogue: 0,0:01:44.10,0:01:50.14,Default,,0,0,0,,Twenty-First Episode\NThe Magic Cookies\NThe World's Best Snack
+Dialogue: 0,0:02:03.96,0:02:06.73,Default,,0,0,0,,All right, it's time to wake Lord Sapphire.
+Dialogue: 0,0:02:08.33,0:02:11.70,Default,,0,0,0,,Lord Sapphire, it is time.
+Dialogue: 0,0:02:21.93,0:02:24.98,Default,,0,0,0,,Lord Sapphire, it's time to go to the secret room.
+Dialogue: 0,0:02:25.10,0:02:26.76,Default,,0,0,0,,Yeah, I know.
+Dialogue: 0,0:02:34.01,0:02:35.16,Default,,0,0,0,,I'll be right back.
+Dialogue: 0,0:02:36.24,0:02:36.97,Default,,0,0,0,,You must not.
+Dialogue: 0,0:02:37.10,0:02:39.30,Default,,0,0,0,,Please study properly until nine o'clock.
+Dialogue: 0,0:02:55.64,0:02:56.90,Default,,0,0,0,,You're late today.
+Dialogue: 0,0:02:57.02,0:02:58.64,Default,,0,0,0,,Now, hurry and change.
+Dialogue: 0,0:02:58.80,0:03:00.52,Default,,0,0,0,,Allow me to help you.
+Dialogue: 0,0:03:00.67,0:03:02.00,Default,,0,0,0,,Here is your dress.
+Dialogue: 0,0:03:03.26,0:03:04.26,Default,,0,0,0,,Is this it?
+Dialogue: 0,0:03:04.39,0:03:06.49,Default,,0,0,0,,The one Mother made for me?
+Dialogue: 0,0:03:07.04,0:03:08.31,Default,,0,0,0,,Yes, it is.
+Dialogue: 0,0:03:08.45,0:03:12.78,Default,,0,0,0,,You must study cooking and sewing so you won't be outdone by any queen.
+Dialogue: 0,0:03:14.63,0:03:18.26,Default,,0,0,0,,But if I wear women's clothes, I can't ride my horse!
+Dialogue: 0,0:03:18.56,0:03:21.62,Default,,0,0,0,,If you act like a proper girl, I'm sure you'll grow to like it.
+Dialogue: 0,0:03:21.98,0:03:23.26,Default,,0,0,0,,Come on now, please change.
+Dialogue: 0,0:03:23.28,0:03:25.26,Default,,0,0,0,, I told you, I'll do it myself!
+Dialogue: 0,0:03:25.60,0:03:26.60,Default,,0,0,0,,Stop nagging me!
+Dialogue: 0,0:03:31.78,0:03:32.50,Default,,0,0,0,,Come now.
+Dialogue: 0,0:03:32.78,0:03:34.26,Default,,0,0,0,,My, how adorable!
+Dialogue: 0,0:03:34.50,0:03:36.12,Default,,0,0,0,,Now first, slice this bread.
+Dialogue: 0,0:03:36.26,0:03:36.52,Default,,0,0,0,,Okay.
+Dialogue: 0,0:03:36.96,0:03:38.33,Default,,0,0,0,,Huh? It won't cut.
+Dialogue: 0,0:03:38.35,0:03:41.63,Default,,0,0,0,,When that happens, warming the knife helps it cut easily.
+Dialogue: 0,0:03:41.66,0:03:42.94,Default,,0,0,0,,Look, like this.
+Dialogue: 0,0:03:44.84,0:03:46.14,Default,,0,0,0,,Slice, slice, chop...
+Dialogue: 0,0:03:52.62,0:03:53.62,Default,,0,0,0,,This isn't working.
+Dialogue: 0,0:03:53.78,0:03:54.80,Default,,0,0,0,,It won't cut right.
+Dialogue: 0,0:03:55.96,0:03:57.77,Default,,0,0,0,,Hey, do you have a longer knife?
+Dialogue: 0,0:03:58.02,0:03:59.67,Default,,0,0,0,,We have something like this, but...
+Dialogue: 0,0:04:00.99,0:04:02.46,Default,,0,0,0,,Yeah, this will do.
+Dialogue: 0,0:04:02.65,0:04:04.86,Default,,0,0,0,,That's used for preparing fish.
+Dialogue: 0,0:04:07.43,0:04:08.60,Default,,0,0,0,,What are you doing?
+Dialogue: 0,0:04:09.06,0:04:10.06,Default,,0,0,0,,There! Here we go!
+Dialogue: 0,0:04:11.90,0:04:12.95,Default,,0,0,0,,Slice, slice, slice, slice!
+Dialogue: 0,0:04:13.89,0:04:16.28,Default,,0,0,0,,Wow, this cuts way better!
+Dialogue: 0,0:04:16.30,0:04:20.42,Default,,0,0,0,,Ah, no, you can't! When you cook, you have to follow proper cooking rules!
+Dialogue: 0,0:04:20.80,0:04:21.31,Default,,0,0,0,,Okay.
+Dialogue: 0,0:04:21.72,0:04:24.24,Default,,0,0,0,,Good morning, everyone. Oh my...
+Dialogue: 0,0:04:24.82,0:04:26.28,Default,,0,0,0,,Good morning.
+Dialogue: 0,0:04:26.64,0:04:27.78,Default,,0,0,0,,You certainly slept in late.
+Dialogue: 0,0:04:28.26,0:04:30.06,Default,,0,0,0,,Who is that girl?
+Dialogue: 0,0:04:32.74,0:04:34.90,Default,,0,0,0,,Why, if it isn't Sapphire!
+Dialogue: 0,0:04:36.47,0:04:38.09,Default,,0,0,0,,Here's breakfast!
+Dialogue: 0,0:04:38.69,0:04:40.28,Default,,0,0,0,,Well, isn't that thoughtful of you?
+Dialogue: 0,0:04:40.76,0:04:41.76,Default,,0,0,0,,Here you go, Father.
+Dialogue: 0,0:04:42.16,0:04:43.16,Default,,0,0,0,,And this is for Mother.
+Dialogue: 0,0:04:43.35,0:04:46.15,Default,,0,0,0,,Hmm, when she acts like this, she really is a girl after all.
+Dialogue: 0,0:04:46.63,0:04:48.57,Default,,0,0,0,,See? I can do it if I try.
+Dialogue: 0,0:04:50.90,0:04:53.00,Default,,0,0,0,,Huh? What's wrong? Why'd you make that weird sound?
+Dialogue: 0,0:04:53.47,0:04:55.24,Default,,0,0,0,,Oh, nothing, it's just...
+Dialogue: 0,0:04:56.12,0:04:57.54,Default,,0,0,0,,What a sight...
+Dialogue: 0,0:04:57.67,0:04:59.19,Default,,0,0,0,,And after I took the trouble to set it so nicely!
+Dialogue: 0,0:04:59.21,0:05:00.38,Default,,0,0,0,,Oh, I'm so sorry.
+Dialogue: 0,0:05:00.60,0:05:02.49,Default,,0,0,0,,Could someone put a tablecloth over it?
+Dialogue: 0,0:05:03.00,0:05:04.00,Default,,0,0,0,,Oh, uh, this...
+Dialogue: 0,0:05:06.07,0:05:07.47,Default,,0,0,0,,I'm sorry, Father.
+Dialogue: 0,0:05:08.02,0:05:10.38,Default,,0,0,0,,Never mind that, just hurry up, Sapphire.
+Dialogue: 0,0:05:10.60,0:05:12.10,Default,,0,0,0,,Hey, wait a minute.
+Dialogue: 0,0:05:16.17,0:05:19.02,Default,,0,0,0,,You really do seem better off as a boy.
+Dialogue: 0,0:05:24.97,0:05:26.28,Default,,0,0,0,,What? Nothing at all?
+Dialogue: 0,0:05:26.48,0:05:27.48,Default,,0,0,0,,Well, actually...
+Dialogue: 0,0:05:29.00,0:05:30.00,Default,,0,0,0,,Is that true?
+Dialogue: 0,0:05:30.72,0:05:31.98,Default,,0,0,0,,It's these biscuits.
+Dialogue: 0,0:05:33.24,0:05:34.00,Default,,0,0,0,,Handstand!
+Dialogue: 0,0:05:34.92,0:05:35.92,Default,,0,0,0,,Flip!
+Dialogue: 0,0:05:36.41,0:05:37.41,Default,,0,0,0,,Bark!
+Dialogue: 0,0:05:38.97,0:05:41.74,Default,,0,0,0,,I put a new potion I made into these biscuits—
+Dialogue: 0,0:05:41.76,0:05:44.22,Default,,0,0,0,,one that makes people do whatever they're told.
+Dialogue: 0,0:05:44.40,0:05:46.92,Default,,0,0,0,,Good. Have them make plenty of those biscuits.
+Dialogue: 0,0:05:47.20,0:05:52.14,Default,,0,0,0,,And I'll feed it to the King, Queen, and Sapphire at snack time today.
+Dialogue: 0,0:05:55.72,0:05:56.77,Default,,0,0,0,,That was delicious.
+Dialogue: 0,0:05:57.36,0:05:59.73,Default,,0,0,0,,Hey, why did you eat my precious biscuit?
+Dialogue: 0,0:06:00.91,0:06:02.52,Default,,0,0,0,,Biscuits that make you do as you're told.
+Dialogue: 0,0:06:04.76,0:06:07.07,Default,,0,0,0,,Hey, where are you going, you parrot? Wait!
+Dialogue: 0,0:06:09.05,0:06:10.88,Default,,0,0,0,,It's time to become a boy.
+Dialogue: 0,0:06:11.02,0:06:13.06,Default,,0,0,0,,It's finally time.
+Dialogue: 0,0:06:13.46,0:06:15.35,Default,,0,0,0,,All right, off I go!
+Dialogue: 0,0:06:16.12,0:06:18.74,Default,,0,0,0,,Goodness, perhaps I raised her too much like a boy.
+Dialogue: 0,0:06:19.41,0:06:20.64,Default,,0,0,0,,What am I going to do with her?
+Dialogue: 0,0:06:26.18,0:06:27.18,Default,,0,0,0,,Stop!
+Dialogue: 0,0:06:29.47,0:06:30.47,Default,,0,0,0,,It's a parrot.
+Dialogue: 0,0:06:31.04,0:06:31.84,Default,,0,0,0,,How strange.
+Dialogue: 0,0:06:31.95,0:06:32.95,Default,,0,0,0,,Here, perch on my hand.
+Dialogue: 0,0:06:33.97,0:06:35.56,Default,,0,0,0,,This is Nylon's pet parrot.
+Dialogue: 0,0:06:35.66,0:06:36.66,Default,,0,0,0,,Hey, parrot!
+Dialogue: 0,0:06:36.70,0:06:38.03,Default,,0,0,0,,Hey, parrot!
+Dialogue: 0,0:06:39.61,0:06:40.68,Default,,0,0,0,,Prince Sapphire!
+Dialogue: 0,0:06:40.75,0:06:42.05,Default,,0,0,0,,Nylon, this is yours, right?
+Dialogue: 0,0:06:42.16,0:06:42.78,Default,,0,0,0,,Here you go.
+Dialogue: 0,0:06:43.50,0:06:45.33,Default,,0,0,0,,N-No, that won't be necessary.
+Dialogue: 0,0:06:45.76,0:06:47.36,Default,,0,0,0,,Let's go for a ride later.
+Dialogue: 0,0:06:48.78,0:06:50.17,Default,,0,0,0,,That's odd.
+Dialogue: 0,0:06:50.67,0:06:52.22,Default,,0,0,0,,I wonder what's wrong with this parrot.
+Dialogue: 0,0:06:53.42,0:06:55.60,Default,,0,0,0,,Hey, if you know something, tell me.
+Dialogue: 0,0:06:56.28,0:06:57.70,Default,,0,0,0,,Eat a biscuit.
+Dialogue: 0,0:06:57.96,0:06:58.59,Default,,0,0,0,,If you eat it?
+Dialogue: 0,0:06:58.61,0:07:00.48,Default,,0,0,0,,Make biscuits.
+Dialogue: 0,0:07:00.91,0:07:02.54,Default,,0,0,0,,Make biscuits?
+Dialogue: 0,0:07:02.57,0:07:04.11,Default,,0,0,0,,Hey, what kind of biscuits?
+Dialogue: 0,0:07:09.53,0:07:10.53,Default,,0,0,0,,Duralumin!
+Dialogue: 0,0:07:10.75,0:07:14.81,Default,,0,0,0,,This parrot was talking about biscuits laced with an obedience drug!
+Dialogue: 0,0:07:16.75,0:07:21.12,Default,,0,0,0,,Biscuits laced with an obedience drug? What on earth is that?
+Dialogue: 0,0:07:21.38,0:07:22.90,Default,,0,0,0,,Nylon, do you know something about this?
+Dialogue: 0,0:07:23.62,0:07:26.04,Default,,0,0,0,,I have no idea what you mean. I'm completely...
+Dialogue: 0,0:07:26.69,0:07:27.54,Default,,0,0,0,,That's a lie!
+Dialogue: 0,0:07:28.03,0:07:29.37,Default,,0,0,0,,You looked like you knew a moment ago!
+Dialogue: 0,0:07:32.28,0:07:34.30,Default,,0,0,0,,What on earth is wrong with you?
+Dialogue: 0,0:07:34.33,0:07:36.56,Default,,0,0,0,,You must have had a terrible dream last night.
+Dialogue: 0,0:07:41.92,0:07:44.60,Default,,0,0,0,,{\i1}Those biscuits are definitely for some evil plot.{\i0}
+Dialogue: 0,0:07:47.23,0:07:49.86,Default,,0,0,0,,{\i1}If they're biscuits, they must be having a sweet shop make them.{\i0}
+Dialogue: 0,0:07:51.22,0:07:52.76,Default,,0,0,0,,{\i1}All right, I'm definitely going to find them.{\i0}
+Dialogue: 0,0:07:58.51,0:07:59.74,Default,,0,0,0,,You're Prince Sapphire, right?
+Dialogue: 0,0:08:00.64,0:08:01.92,Default,,0,0,0,,Where are you going?
+Dialogue: 0,0:08:01.96,0:08:05.49,Default,,0,0,0,,There's a pastry shop in the woods! I'm going to go look for it!
+Dialogue: 0,0:08:34.30,0:08:39.52,Default,,0,0,0,,This is all sponge cake! The snow on the roof is whipped cream.
+Dialogue: 0,0:08:41.70,0:08:42.70,Default,,0,0,0,,How cute.
+Dialogue: 0,0:08:44.26,0:08:46.90,Default,,0,0,0,,The popcorn gravel sure is delicious.
+Dialogue: 0,0:08:47.14,0:08:48.57,Default,,0,0,0,,Wow, it's tasty!
+Dialogue: 0,0:08:52.57,0:08:53.57,Default,,0,0,0,,Hey!
+Dialogue: 0,0:08:55.62,0:08:57.65,Default,,0,0,0,,What do you want here?!
+Dialogue: 0,0:08:59.86,0:09:03.06,Default,,0,0,0,,Kids who just come to gawk and eat should go home!
+Dialogue: 0,0:09:03.24,0:09:06.06,Default,,0,0,0,,I'm busy making a huge biscuit order!
+Dialogue: 0,0:09:07.80,0:09:09.22,Default,,0,0,0,,The biscuit order...
+Dialogue: 0,0:09:09.98,0:09:11.36,Default,,0,0,0,,So he really is making them here.
+Dialogue: 0,0:09:12.18,0:09:13.18,Default,,0,0,0,,What should I do?
+Dialogue: 0,0:09:14.52,0:09:14.95,Default,,0,0,0,,Ah, I know!
+Dialogue: 0,0:09:15.15,0:09:15.59,Default,,0,0,0,,Opal!
+Dialogue: 0,0:09:15.79,0:09:18.03,Default,,0,0,0,,Go to the castle and fetch me a girl's dress!
+Dialogue: 0,0:09:23.53,0:09:24.53,Default,,0,0,0,,Great, this will do.
+Dialogue: 0,0:09:24.75,0:09:26.56,Default,,0,0,0,,Now Opal, wait here!
+Dialogue: 0,0:09:35.27,0:09:36.88,Default,,0,0,0,,Who is it, when I'm so busy?!
+Dialogue: 0,0:09:37.32,0:09:38.74,Default,,0,0,0,,Oh, a customer?
+Dialogue: 0,0:09:40.04,0:09:42.26,Default,,0,0,0,,No, I'm looking for work.
+Dialogue: 0,0:09:42.72,0:09:47.52,Default,,0,0,0,,I heard the baker here is a kind person who would surely hire me.
+Dialogue: 0,0:09:48.00,0:09:49.90,Default,,0,0,0,,Um, do you have any work for me?
+Dialogue: 0,0:09:50.76,0:09:53.78,Default,,0,0,0,,Well, I'm slammed today, so you're hired!
+Dialogue: 0,0:09:54.20,0:09:55.44,Default,,0,0,0,,Yay! I'm so happy!
+Dialogue: 0,0:09:56.75,0:09:59.55,Default,,0,0,0,,Wait, do you make sweets in a small space like this?
+Dialogue: 0,0:09:59.61,0:10:00.61,Default,,0,0,0,,Don't be foolish!
+Dialogue: 0,0:10:00.68,0:10:03.32,Default,,0,0,0,,How could I bake cakes in a shop like this?!
+Dialogue: 0,0:10:05.74,0:10:08.23,Default,,0,0,0,,Wow, you have a room in the basement too!
+Dialogue: 0,0:10:21.34,0:10:22.81,Default,,0,0,0,,What an amazing workshop!
+Dialogue: 0,0:10:22.87,0:10:23.92,Default,,0,0,0,,It's magnificent!
+Dialogue: 0,0:10:24.16,0:10:27.14,Default,,0,0,0,,After all, I'm the greatest baker in the world!
+Dialogue: 0,0:10:30.68,0:10:31.68,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:10:31.90,0:10:32.90,Default,,0,0,0,,Yes!
+Dialogue: 0,0:10:33.13,0:10:35.40,Default,,0,0,0,,Light the fire in the furthest stove!
+Dialogue: 0,0:10:35.90,0:10:36.59,Default,,0,0,0,,Okay!
+Dialogue: 0,0:10:37.68,0:10:40.52,Default,,0,0,0,,Just set it on fire? That's easy!
+Dialogue: 0,0:10:45.79,0:10:49.28,Default,,0,0,0,,Well, well, Sapphire. Don't you even know how to start a fire?
+Dialogue: 0,0:10:49.63,0:10:51.74,Default,,0,0,0,,I'm sorry, the wood is damp...
+Dialogue: 0,0:10:51.76,0:10:52.70,Default,,0,0,0,,Sapphire, look!
+Dialogue: 0,0:10:52.78,0:10:54.04,Default,,0,0,0,,Everything's pitch black!
+Dialogue: 0,0:10:54.46,0:10:56.33,Default,,0,0,0,,Even the biscuit ingredients are pitch black!
+Dialogue: 0,0:10:57.26,0:10:59.81,Default,,0,0,0,,So you won't make any more biscuits?
+Dialogue: 0,0:10:59.99,0:11:00.84,Default,,0,0,0,,Don't be ridiculous!
+Dialogue: 0,0:11:00.86,0:11:02.64,Default,,0,0,0,,I'll finish it by snack time today!
+Dialogue: 0,0:11:02.71,0:11:03.71,Default,,0,0,0,,Clean up!
+Dialogue: 0,0:11:03.80,0:11:04.80,Default,,0,0,0,,Yes!
+Dialogue: 0,0:11:19.38,0:11:23.28,Default,,0,0,0,,Alright. Now to add the medicine they ordered...
+Dialogue: 0,0:11:30.78,0:11:32.52,Default,,0,0,0,,Now, you're going to help me.
+Dialogue: 0,0:11:32.77,0:11:35.00,Default,,0,0,0,,First, you quickly take the dough,
+Dialogue: 0,0:11:35.02,0:11:37.04,Default,,0,0,0,,pat it down like this, and make it about this size.
+Dialogue: 0,0:11:37.32,0:11:39.04,Default,,0,0,0,,Then you bake it later.
+Dialogue: 0,0:11:40.28,0:11:42.95,Default,,0,0,0,,Pat, pat... Huh?
+Dialogue: 0,0:11:43.12,0:11:44.12,Default,,0,0,0,,It's huge!
+Dialogue: 0,0:11:53.67,0:11:54.56,Default,,0,0,0,,Oh, no!
+Dialogue: 0,0:11:54.69,0:11:55.88,Default,,0,0,0,,Mine fell apart!
+Dialogue: 0,0:11:56.68,0:11:59.80,Default,,0,0,0,,Enough! Put the ones I made into the oven!
+Dialogue: 0,0:12:00.74,0:12:01.74,Default,,0,0,0,,Okay!
+Dialogue: 0,0:12:02.62,0:12:02.94,Default,,0,0,0,,I know!
+Dialogue: 0,0:12:03.52,0:12:06.22,Default,,0,0,0,,I'll mess up on purpose and ruin these biscuits!
+Dialogue: 0,0:12:07.71,0:12:08.71,Default,,0,0,0,,You fool!
+Dialogue: 0,0:12:08.78,0:12:10.67,Default,,0,0,0,,How could you be so careless?!
+Dialogue: 0,0:12:10.89,0:12:12.18,Default,,0,0,0,,I'm sorry, Mr. Cookie!
+Dialogue: 0,0:12:12.40,0:12:13.54,Default,,0,0,0,,I'm so clumsy...
+Dialogue: 0,0:12:13.56,0:12:16.54,Default,,0,0,0,,Why can't you handle such a simple task?
+Dialogue: 0,0:12:16.61,0:12:18.66,Default,,0,0,0,,Even a baby could do this!
+Dialogue: 0,0:12:18.66,0:12:20.44,Default,,0,0,0,,Can't you act like a proper girl?
+Dialogue: 0,0:12:20.47,0:12:21.70,Default,,0,0,0,,Old man, you in here?
+Dialogue: 0,0:12:23.34,0:12:24.34,Default,,0,0,0,,Old man!
+Dialogue: 0,0:12:24.54,0:12:25.68,Default,,0,0,0,,Is our order ready?
+Dialogue: 0,0:12:25.76,0:12:26.86,Default,,0,0,0,,I'm baking them right now!
+Dialogue: 0,0:12:26.96,0:12:28.44,Default,,0,0,0,,You'll have to wait a little longer!
+Dialogue: 0,0:12:29.43,0:12:30.52,Default,,0,0,0,,Who's that girl?
+Dialogue: 0,0:12:31.64,0:12:32.84,Default,,0,0,0,,She's my assistant.
+Dialogue: 0,0:12:32.96,0:12:34.00,Default,,0,0,0,,Right, fresh out of the oven!
+Dialogue: 0,0:12:34.13,0:12:35.13,Default,,0,0,0,,Help me out!
+Dialogue: 0,0:12:36.04,0:12:36.41,Default,,0,0,0,,Yes!
+Dialogue: 0,0:12:37.43,0:12:38.04,Default,,0,0,0,,Very good!
+Dialogue: 0,0:12:38.33,0:12:39.78,Default,,0,0,0,,We'll take the cookies!
+Dialogue: 0,0:12:40.16,0:12:43.66,Default,,0,0,0,,By the way, what medicine did you put in these sweets?
+Dialogue: 0,0:12:44.09,0:12:45.72,Default,,0,0,0,,It isn't poison, is it?
+Dialogue: 0,0:12:45.78,0:12:46.78,Default,,0,0,0,,Don't be ridiculous!
+Dialogue: 0,0:12:46.84,0:12:48.66,Default,,0,0,0,,It's a supplement called Vitamin C!
+Dialogue: 0,0:12:49.12,0:12:50.84,Default,,0,0,0,,A supplement... {\i1}Could it be{\i0}...?
+Dialogue: 0,0:12:52.26,0:12:52.92,Default,,0,0,0,,Girl!
+Dialogue: 0,0:12:53.07,0:12:54.66,Default,,0,0,0,,Why did you just say "could it be"?
+Dialogue: 0,0:12:54.78,0:12:57.19,Default,,0,0,0,,You know something about these biscuits, don't you?
+Dialogue: 0,0:12:57.26,0:12:58.67,Default,,0,0,0,,N-N-No, I don't know a thing!
+Dialogue: 0,0:12:58.74,0:13:00.49,Default,,0,0,0,,Nothing about any medicine...
+Dialogue: 0,0:13:02.90,0:13:05.27,Default,,0,0,0,,These are just delicious biscuits!
+Dialogue: 0,0:13:07.70,0:13:08.70,Default,,0,0,0,,Is that so?
+Dialogue: 0,0:13:09.02,0:13:11.68,Default,,0,0,0,,Then you can eat one of these biscuits!
+Dialogue: 0,0:13:11.82,0:13:14.00,Default,,0,0,0,,They're just biscuits with Vitamin C, right?
+Dialogue: 0,0:13:14.39,0:13:15.39,Default,,0,0,0,,Go on, try it!
+Dialogue: 0,0:13:15.68,0:13:16.68,Default,,0,0,0,,Eat it!
+Dialogue: 0,0:13:16.90,0:13:18.24,Default,,0,0,0,,Come on, eat up!
+Dialogue: 0,0:13:25.92,0:13:26.92,Default,,0,0,0,,Go on, eat!
+Dialogue: 0,0:13:27.32,0:13:28.32,Default,,0,0,0,,Try a bite!
+Dialogue: 0,0:13:32.61,0:13:33.96,Default,,0,0,0,,All right!
+Dialogue: 0,0:13:34.24,0:13:34.68,Default,,0,0,0,,It's true!
+Dialogue: 0,0:13:35.08,0:13:36.68,Default,,0,0,0,,She knows about the biscuits!
+Dialogue: 0,0:13:36.92,0:13:37.92,Default,,0,0,0,,Was it bitter?
+Dialogue: 0,0:13:38.12,0:13:39.12,Default,,0,0,0,,Hold this!
+Dialogue: 0,0:13:45.82,0:13:46.56,Default,,0,0,0,,Opal!
+Dialogue: 0,0:13:46.72,0:13:47.72,Default,,0,0,0,,Let's go!
+Dialogue: 0,0:13:48.99,0:13:50.83,Default,,0,0,0,,Wait!
+Dialogue: 0,0:13:55.58,0:13:56.62,Default,,0,0,0,,Come on!
+Dialogue: 0,0:13:57.10,0:13:58.10,Default,,0,0,0,,Quick, run!
+Dialogue: 0,0:13:58.63,0:13:59.68,Default,,0,0,0,,She getting away!
+Dialogue: 0,0:14:03.11,0:14:04.57,Default,,0,0,0,,Help!
+Dialogue: 0,0:14:06.41,0:14:08.36,Default,,0,0,0,,Who ordered those biscuits made?!
+Dialogue: 0,0:14:08.87,0:14:10.14,Default,,0,0,0,,Those poisoned biscuits!
+Dialogue: 0,0:14:10.76,0:14:11.35,Default,,0,0,0,,Speak!
+Dialogue: 0,0:14:12.59,0:14:13.55,Default,,0,0,0,,Alright, so you won't talk.
+Dialogue: 0,0:14:13.69,0:14:14.69,Default,,0,0,0,,Fine, you don't have to!
+Dialogue: 0,0:14:14.73,0:14:16.10,Default,,0,0,0,,I'll take those biscuits!
+Dialogue: 0,0:14:16.24,0:14:16.75,Default,,0,0,0,,Out of my way!
+Dialogue: 0,0:14:17.75,0:14:19.02,Default,,0,0,0,,I'm saved!
+Dialogue: 0,0:14:23.48,0:14:24.48,Default,,0,0,0,,Mr. Cookie!
+Dialogue: 0,0:14:24.60,0:14:26.23,Default,,0,0,0,,Please give me those biscuits!
+Dialogue: 0,0:14:26.27,0:14:27.72,Default,,0,0,0,,Oh, Your Highness!
+Dialogue: 0,0:14:27.81,0:14:28.50,Default,,0,0,0,,N-No, I can't!
+Dialogue: 0,0:14:28.63,0:14:31.38,Default,,0,0,0,,These biscuits are for the person who ordered them!
+Dialogue: 0,0:14:31.55,0:14:33.02,Default,,0,0,0,,I'm supposed to get them!
+Dialogue: 0,0:14:33.38,0:14:34.00,Default,,0,0,0,,Please!
+Dialogue: 0,0:14:34.60,0:14:35.49,Default,,0,0,0,,No, absolutely not!
+Dialogue: 0,0:14:35.59,0:14:37.33,Default,,0,0,0,,I can't hand these over!
+Dialogue: 0,0:14:40.40,0:14:41.40,Default,,0,0,0,,What's wrong?
+Dialogue: 0,0:14:42.73,0:14:44.62,Default,,0,0,0,,Lord Nylon, it failed.
+Dialogue: 0,0:14:44.65,0:14:45.51,Default,,0,0,0,,It failed?
+Dialogue: 0,0:14:45.61,0:14:47.50,Default,,0,0,0,,Weren't the poisoned biscuits ready?
+Dialogue: 0,0:14:48.18,0:14:48.54,Default,,0,0,0,,What?
+Dialogue: 0,0:14:48.74,0:14:50.19,Default,,0,0,0,,Prince Sapphire showed up?
+Dialogue: 0,0:14:50.65,0:14:51.12,Default,,0,0,0,,Damn it!
+Dialogue: 0,0:14:51.58,0:14:52.58,Default,,0,0,0,,All right!
+Dialogue: 0,0:14:58.74,0:14:59.74,Default,,0,0,0,,May I help you?
+Dialogue: 0,0:15:00.58,0:15:01.88,Default,,0,0,0,,I'll handle Sapphire.
+Dialogue: 0,0:15:02.09,0:15:04.78,Default,,0,0,0,,In the meantime, go back and get the biscuits!
+Dialogue: 0,0:15:06.65,0:15:07.36,Default,,0,0,0,,You guys!
+Dialogue: 0,0:15:07.39,0:15:09.24,Default,,0,0,0,,Take care of Sapphire!
+Dialogue: 0,0:15:30.62,0:15:31.04,Default,,0,0,0,,Go!
+Dialogue: 0,0:15:31.27,0:15:32.20,Default,,0,0,0,,Good grief!
+Dialogue: 0,0:15:32.58,0:15:33.93,Default,,0,0,0,,Looks cool, doesn't it?
+Dialogue: 0,0:15:38.14,0:15:39.14,Default,,0,0,0,,Hello?
+Dialogue: 0,0:15:40.77,0:15:42.02,Default,,0,0,0,,Pardon me.
+Dialogue: 0,0:15:56.07,0:15:56.96,Default,,0,0,0,,You again!
+Dialogue: 0,0:15:56.98,0:15:57.98,Default,,0,0,0,,Villains!
+Dialogue: 0,0:16:01.14,0:16:02.14,Default,,0,0,0,,Got 'em!
+Dialogue: 0,0:16:03.00,0:16:03.62,Default,,0,0,0,,Good work!
+Dialogue: 0,0:16:03.70,0:16:04.72,Default,,0,0,0,,I leave the rest to you!
+Dialogue: 0,0:16:12.92,0:16:13.80,Default,,0,0,0,,Don't shoot!
+Dialogue: 0,0:16:13.82,0:16:15.19,Default,,0,0,0,,I'm Cookie!
+Dialogue: 0,0:16:16.82,0:16:17.92,Default,,0,0,0,,No, don't shoot!
+Dialogue: 0,0:16:17.98,0:16:19.33,Default,,0,0,0,,Why are you shooting?!
+Dialogue: 0,0:16:20.59,0:16:24.02,Default,,0,0,0,,We can't have you blabbing about making poisoned biscuits.
+Dialogue: 0,0:16:24.42,0:16:25.39,Default,,0,0,0,,So you'll have to die!
+Dialogue: 0,0:16:28.05,0:16:28.70,Default,,0,0,0,,Damn it!
+Dialogue: 0,0:16:28.72,0:16:29.79,Default,,0,0,0,,So that's it!
+Dialogue: 0,0:16:29.98,0:16:31.41,Default,,0,0,0,,I was tricked!
+Dialogue: 0,0:16:31.51,0:16:34.67,Default,,0,0,0,,Your Highness, I didn't know that medicine was poison.
+Dialogue: 0,0:16:34.70,0:16:38.42,Default,,0,0,0,,That's why I did as they said and made poisoned treats.
+Dialogue: 0,0:16:38.60,0:16:41.05,Default,,0,0,0,,Do you know who they're going to feed those poisoned biscuits to?
+Dialogue: 0,0:16:41.14,0:16:41.94,Default,,0,0,0,,Yes, I do.
+Dialogue: 0,0:16:42.06,0:16:43.67,Default,,0,0,0,,To everyone in the castle.
+Dialogue: 0,0:16:43.83,0:16:47.44,Default,,0,0,0,,The King, the Queen, the Prince, and... oh no!
+Dialogue: 0,0:16:47.61,0:16:49.43,Default,,0,0,0,,I forgot something terrible!
+Dialogue: 0,0:16:49.45,0:16:52.11,Default,,0,0,0,,Those biscuits were meant to be today's snack!
+Dialogue: 0,0:16:54.76,0:16:55.86,Default,,0,0,0,,Today's snack?
+Dialogue: 0,0:16:56.32,0:16:57.11,Default,,0,0,0,,Oh no!
+Dialogue: 0,0:16:57.13,0:16:58.68,Default,,0,0,0,,It's almost snack time!
+Dialogue: 0,0:16:58.82,0:16:58.98,Default,,0,0,0,,Ah!
+Dialogue: 0,0:16:59.27,0:17:00.68,Default,,0,0,0,,There's still one left over there!
+Dialogue: 0,0:17:00.90,0:17:01.57,Default,,0,0,0,,That's it!
+Dialogue: 0,0:17:04.24,0:17:08.50,Default,,0,0,0,,If we make them eat this biscuit, they'll obey us just like the Queen Mother!
+Dialogue: 0,0:17:08.90,0:17:09.90,Default,,0,0,0,,All right!
+Dialogue: 0,0:17:18.54,0:17:19.70,Default,,0,0,0,,Take this!
+Dialogue: 0,0:17:24.56,0:17:25.56,Default,,0,0,0,,Ouch!
+Dialogue: 0,0:17:30.59,0:17:32.62,Default,,0,0,0,,Listen up, whoever ate the biscuit!
+Dialogue: 0,0:17:33.28,0:17:35.13,Default,,0,0,0,,You don't need to capture me anymore!
+Dialogue: 0,0:17:35.66,0:17:36.74,Default,,0,0,0,,Yes, sir!
+Dialogue: 0,0:17:37.68,0:17:40.70,Default,,0,0,0,,See? The potion in the biscuit works!
+Dialogue: 0,0:17:45.60,0:17:47.82,Default,,0,0,0,,Your Highness, we won't stand in your way anymore!
+Dialogue: 0,0:17:48.14,0:17:50.98,Default,,0,0,0,,Now, tell me who ordered you to defeat me!
+Dialogue: 0,0:17:51.97,0:17:53.80,Default,,0,0,0,,I don't know their name.
+Dialogue: 0,0:17:54.01,0:17:56.02,Default,,0,0,0,,I was only asked by the soldiers...
+Dialogue: 0,0:17:57.03,0:17:58.71,Default,,0,0,0,,Don't the others know?
+Dialogue: 0,0:18:00.29,0:18:02.30,Default,,0,0,0,,Your Grace, quickly, to the castle!
+Dialogue: 0,0:18:02.74,0:18:03.74,Default,,0,0,0,,Oh, right!
+Dialogue: 0,0:18:03.93,0:18:05.61,Default,,0,0,0,,Now, all of you, go home!
+Dialogue: 0,0:18:05.72,0:18:07.49,Default,,0,0,0,,Never come to this forest again!
+Dialogue: 0,0:18:20.57,0:18:22.60,Default,,0,0,0,,Nylon, do they taste good?!
+Dialogue: 0,0:18:22.85,0:18:24.25,Default,,0,0,0,,Of course they do!
+Dialogue: 0,0:18:24.71,0:18:27.76,Default,,0,0,0,,I had Silverland's finest baker make them!
+Dialogue: 0,0:18:27.96,0:18:30.57,Default,,0,0,0,,All right, give this to the castle cook at once...
+Dialogue: 0,0:18:30.59,0:18:33.46,Default,,0,0,0,,...and make everyone who sides with Sapphire eat it!
+Dialogue: 0,0:18:33.46,0:18:34.21,Default,,0,0,0,,Yes, sir!
+Dialogue: 0,0:18:34.49,0:18:37.56,Default,,0,0,0,,And did you get rid of the person who made the biscuits?
+Dialogue: 0,0:18:38.09,0:18:40.51,Default,,0,0,0,,They're taking care of them along with Sapphire right now.
+Dialogue: 0,0:18:40.54,0:18:42.00,Default,,0,0,0,,What, Sapphire too?!
+Dialogue: 0,0:18:42.26,0:18:45.31,Default,,0,0,0,,Are you sure about this? Sapphire is a skilled fighter!
+Dialogue: 0,0:18:46.65,0:18:51.58,Default,,0,0,0,,I'm certain it'll be fine, but... let's take one more precaution.
+Dialogue: 0,0:18:53.36,0:18:55.08,Default,,0,0,0,,Tank squad, tank squad, come in!
+Dialogue: 0,0:18:55.37,0:18:57.26,Default,,0,0,0,,This is a secret order from Lord Duralumin!
+Dialogue: 0,0:19:09.62,0:19:13.70,Default,,0,0,0,,This potion made that violent beast docile in an instant...
+Dialogue: 0,0:19:13.85,0:19:17.57,Default,,0,0,0,,{\i1}If Father and Mother eat it, they'll be at Lord Duralumin's mercy...{\i0}
+Dialogue: 0,0:19:17.59,0:19:19.17,Default,,0,0,0,,{\i1}Then... {\i0}
+Dialogue: 0,0:19:19.19,0:19:21.42,Default,,0,0,0,,Your Majesty, it's time for your snack.
+Dialogue: 0,0:19:22.68,0:19:24.24,Default,,0,0,0,,Put it on that table over there.
+Dialogue: 0,0:19:24.96,0:19:26.34,Default,,0,0,0,,Could you go call everyone else?
+Dialogue: 0,0:19:26.87,0:19:27.96,Default,,0,0,0,,We can eat together.
+Dialogue: 0,0:19:28.37,0:19:29.37,Default,,0,0,0,,Yes.
+Dialogue: 0,0:19:56.34,0:19:57.34,Default,,0,0,0,,It's a tank!
+Dialogue: 0,0:20:02.00,0:20:03.12,Default,,0,0,0,,Hurry!
+Dialogue: 0,0:20:10.83,0:20:12.19,Default,,0,0,0,,Here goes!
+Dialogue: 0,0:20:27.60,0:20:28.60,Default,,0,0,0,,Stop!
+Dialogue: 0,0:20:28.83,0:20:29.90,Default,,0,0,0,,Stop, or I'll cut you down!
+Dialogue: 0,0:20:35.25,0:20:36.85,Default,,0,0,0,,Who ordered you to attack me?
+Dialogue: 0,0:20:37.30,0:20:39.39,Default,,0,0,0,,I was just following the captain's orders...
+Dialogue: 0,0:20:40.14,0:20:41.02,Default,,0,0,0,,Liar!
+Dialogue: 0,0:20:41.24,0:20:42.88,Default,,0,0,0,,Duralumin or Nylon gave the order, didn't they?
+Dialogue: 0,0:20:43.39,0:20:44.90,Default,,0,0,0,,I don't know!
+Dialogue: 0,0:20:45.02,0:20:45.46,Default,,0,0,0,,Opal!
+Dialogue: 0,0:20:45.74,0:20:47.16,Default,,0,0,0,,Just dump them somewhere!
+Dialogue: 0,0:20:49.39,0:20:50.80,Default,,0,0,0,,You guys walk back!
+Dialogue: 0,0:20:51.39,0:20:52.05,Default,,0,0,0,,Yes.
+Dialogue: 0,0:20:54.30,0:20:54.94,Default,,0,0,0,,Are they still not here?
+Dialogue: 0,0:20:55.32,0:20:57.90,Default,,0,0,0,,They'll be right here. Please, go ahead and eat.
+Dialogue: 0,0:20:58.25,0:20:59.82,Default,,0,0,0,,No, no, let's eat together.
+Dialogue: 0,0:21:00.14,0:21:02.06,Default,,0,0,0,,These biscuits look delicious.
+Dialogue: 0,0:21:06.92,0:21:09.11,Default,,0,0,0,,Sorry we're late, Your Majesty.
+Dialogue: 0,0:21:09.56,0:21:10.28,Default,,0,0,0,,You kept me waiting.
+Dialogue: 0,0:21:10.53,0:21:12.06,Default,,0,0,0,,You're always late.
+Dialogue: 0,0:21:22.42,0:21:23.82,Default,,0,0,0,,Prince Sapphire has returned!
+Dialogue: 0,0:21:23.92,0:21:25.29,Default,,0,0,0,,Open the gate!
+Dialogue: 0,0:21:29.89,0:21:30.89,Default,,0,0,0,,Open the gate!
+Dialogue: 0,0:21:30.97,0:21:31.97,Default,,0,0,0,,Hurry up and open it!
+Dialogue: 0,0:21:32.16,0:21:33.16,Default,,0,0,0,,What are you doing?!
+Dialogue: 0,0:21:33.58,0:21:35.50,Default,,0,0,0,,My, these biscuits look delicious.
+Dialogue: 0,0:21:37.72,0:21:40.91,Default,,0,0,0,,If only Sapphire could bake biscuits like these...
+Dialogue: 0,0:21:41.00,0:21:43.66,Default,,0,0,0,,I'm sure Lady Sapphire will learn how to someday.
+Dialogue: 0,0:22:14.89,0:22:15.67,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:22:15.76,0:22:16.84,Default,,0,0,0,,What on earth happened?!
+Dialogue: 0,0:22:17.03,0:22:18.20,Default,,0,0,0,,Mother, Father.
+Dialogue: 0,0:22:18.68,0:22:21.50,Default,,0,0,0,,Next time, I'll bake delicious biscuits for you!
+Dialogue: 0,0:22:21.93,0:22:23.16,Default,,0,0,0,,Oh, my...
+Dialogue: 0,0:22:23.86,0:22:25.38,Default,,0,0,0,,What happened, Sapphire?
+Dialogue: 0,0:22:25.75,0:22:27.03,Default,,0,0,0,,Tell me about it.
+Dialogue: 0,0:22:27.80,0:22:28.23,Default,,0,0,0,,Okay.
+Dialogue: 0,0:22:28.72,0:22:32.92,Default,,0,0,0,,But without proof, we don't know who had those biscuits made.
+Dialogue: 0,0:22:35.11,0:22:36.39,Default,,0,0,0,,What is it?!
+Dialogue: 0,0:22:36.54,0:22:40.87,Default,,0,0,0,,Sapphire used the biscuits to turn our men to her side!
+Dialogue: 0,0:22:41.83,0:22:43.08,Default,,0,0,0,,You fools!
+Dialogue: 0,0:22:51.07,0:22:52.07,Default,,0,0,0,,Oh, my...
+Dialogue: 0,0:22:54.55,0:22:57.70,Default,,0,0,0,,They're a bit burnt, but Mr. Cookie taught me.
+Dialogue: 0,0:22:57.81,0:22:58.58,Default,,0,0,0,,They're tasty! Huh?
+Dialogue: 0,0:22:59.83,0:23:01.62,Default,,0,0,0,,Hey, these are actually pretty good.
+Dialogue: 0,0:23:02.20,0:23:02.73,Default,,0,0,0,,They really are.
+Dialogue: 0,0:23:02.91,0:23:04.28,Default,,0,0,0,,Pretty good for your first try.
+Dialogue: 0,0:23:04.80,0:23:05.64,Default,,0,0,0,,Of course they are!
+Dialogue: 0,0:23:05.66,0:23:06.85,Default,,0,0,0,,Because I made them!
+Dialogue: 0,0:23:08.49,0:23:09.16,Default,,0,0,0,,So bitter!
+Dialogue: 0,0:23:09.48,0:23:10.29,Default,,0,0,0,,Darn it!
+Dialogue: 0,0:23:11.49,0:23:15.74,Default,,0,0,0,,Sapphire, you can do things girls do just fine.
+Dialogue: 0,0:23:16.28,0:23:19.12,Default,,0,0,0,,With some effort, you could even bake the world's best cake.
+Dialogue: 0,0:23:20.70,0:23:20.98,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:23:21.45,0:23:23.20,Default,,0,0,0,,I'll get better, Father. You'll see.
 Dialogue: 0,0:24:08.70,0:24:12.32,Karaoke,,0,0,0,,{\k29}{\k22}Ta{\k18}ra{\k16}ri {\k18}Ra{\k20}tta {\k23}Ri{\k19}tta {\k26}Ra{\k17}tta {\k19}Ra{\k66}tta{\k69}ttaa
 Dialogue: 0,0:24:12.32,0:24:15.68,Karaoke,,0,0,0,,{\k8}{\k46}Kya{\k68}hoo! {\k35}Kya{\k42}hoo! {\k46}Kya{\k91}hoo!
 Dialogue: 0,0:24:12.32,0:24:15.68,OPED_Translation,,0,0,0,,Yahoo! Yahoo! Yahoo!

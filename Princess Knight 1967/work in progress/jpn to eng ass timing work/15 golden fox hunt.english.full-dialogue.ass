@@ -14,7 +14,8 @@ Audio File: 15 the tale of the fox.mkv
 Video File: 15 the tale of the fox.mkv
 Video AR Mode: 4
 Video AR Value: 1.314554
-Active Line: 18
+Scroll Position: 304
+Active Line: 314
 Video Position: 950
 
 [V4+ Styles]
@@ -48,271 +49,297 @@ Dialogue: 0,0:01:25.22,0:01:28.62,Karaoke,,0,0,0,,{\k6}{\k50}Hon{\k43}to {\k33}w
 Dialogue: 0,0:01:25.22,0:01:28.62,OPED_Translation,,0,0,0,,Truly, truly,
 Dialogue: 0,0:01:28.62,0:01:31.82,Karaoke,,0,0,0,,{\k18}{\k23}A{\k23}ta{\k27}shi {\k35}na{\k35}no {\k159}sa{\k0}
 Dialogue: 0,0:01:28.62,0:01:31.82,OPED_Translation,,0,0,0,,It’s really me!
-Dialogue: 0,0:01:44.10,0:01:50.14,Default,,0,0,0,,Fifteenth Episode\NThe Fox's Tale
-Dialogue: 0,0:02:25.02,0:02:26.82,Default,,0,0,0,,What are these horns?
-Dialogue: 0,0:03:05.02,0:03:06.90,Default,,0,0,0,,A wild boar!
-Dialogue: 0,0:03:53.34,0:03:57.02,Default,,0,0,0,,A fox proverb says that\Nwhere there is man, there is food.
-Dialogue: 0,0:03:57.06,0:04:00.50,Default,,0,0,0,,It's dangerous, I know, but I want\Nto go look for food.
-Dialogue: 0,0:04:06.54,0:04:09.93,Default,,0,0,0,,I haven't met Zul yet in the\Nfox hunt, this year.
-Dialogue: 0,0:04:09.98,0:04:12.78,Default,,0,0,0,,Just as well, Your Majesty,\Nbecause that fox is so clever
-Dialogue: 0,0:04:12.82,0:04:15.34,Default,,0,0,0,,...that it always causes us\Nan endless amount of trouble.
-Dialogue: 0,0:04:16.10,0:04:19.38,Default,,0,0,0,,People say that it can speak and\Nthat it is more intelligent than man.
-Dialogue: 0,0:04:19.42,0:04:21.33,Default,,0,0,0,,It is a very cunning fox
-Dialogue: 0,0:04:21.38,0:04:24.10,Default,,0,0,0,,Exactly, Your Majesty!\NIt understands the speech of men
-Dialogue: 0,0:04:24.14,0:04:26.66,Default,,0,0,0,,...and all of their intentions,\Nso it manages to anticipate...
-Dialogue: 0,0:04:26.70,0:04:28.69,Default,,0,0,0,,...every move aimed at capturing it.\NIt is an extraordinary animal.
-Dialogue: 0,0:04:31.10,0:04:34.62,Default,,0,0,0,,I hope to succeed in catching it.\NIt would be a magnificent trophy.
-Dialogue: 0,0:04:34.74,0:04:37.02,Default,,0,0,0,,Yes, its fur is beautiful
-Dialogue: 0,0:04:37.06,0:04:40.02,Default,,0,0,0,,It would be an excellent ornament\Nfor Her Majesty the Queen.
-Dialogue: 0,0:04:40.22,0:04:42.89,Default,,0,0,0,,Who knows where it might be hiding\Nat this moment...!
-Dialogue: 0,0:04:44.50,0:04:48.21,Default,,0,0,0,,Idiot dog! What are you doing here?\NGo hunt with the others!
-Dialogue: 0,0:04:51.58,0:04:54.46,Default,,0,0,0,,That animal has been bitten\Nby some beast.
-Dialogue: 0,0:04:54.62,0:04:56.82,Default,,0,0,0,,Animals heal quickly
-Dialogue: 0,0:05:14.14,0:05:16.10,Default,,0,0,0,,Sabotage!\NSomeone has sabotaged us!
-Dialogue: 0,0:05:16.14,0:05:18.26,Default,,0,0,0,,They broke\Nall the water jars!
-Dialogue: 0,0:05:18.30,0:05:20.50,Default,,0,0,0,,What will we do now without water?
-Dialogue: 0,0:05:20.54,0:05:22.77,Default,,0,0,0,,They put sand in its place!
-Dialogue: 0,0:05:23.90,0:05:26.18,Default,,0,0,0,,And a frog in this pan!
-Dialogue: 0,0:05:26.22,0:05:28.61,Default,,0,0,0,,Well, at least the meat was saved!
-Dialogue: 0,0:05:28.66,0:05:31.02,Default,,0,0,0,,No! They stole this too!
-Dialogue: 0,0:05:32.02,0:05:33.82,Default,,0,0,0,,Someone is coming!
-Dialogue: 0,0:05:36.14,0:05:39.82,Default,,0,0,0,,Soldiers! I heard that Zul\Nis around here! Do you know where he is?
-Dialogue: 0,0:05:40.70,0:05:43.61,Default,,0,0,0,,She was here! She hurt\Nthis horse and she ran away.
-Dialogue: 0,0:05:43.82,0:05:45.81,Default,,0,0,0,,She set a wild boar on us!
-Dialogue: 0,0:05:45.86,0:05:48.01,Default,,0,0,0,,And maybe it was her\Nwho stole our provisions!
-Dialogue: 0,0:05:48.06,0:05:51.21,Default,,0,0,0,,Hey, come this way!\NThere are Zul's footprints!
-Dialogue: 0,0:05:51.26,0:05:53.82,Default,,0,0,0,,They're definitely his! Look:\Nhe's heading toward the forest!
-Dialogue: 0,0:05:53.86,0:05:56.14,Default,,0,0,0,,Let's chase him! We must\Nteach him a good lesson!
-Dialogue: 0,0:05:56.18,0:05:59.54,Default,,0,0,0,,- This way!\N- Idiots! They fell for it!
-Dialogue: 0,0:06:00.46,0:06:03.42,Default,,0,0,0,,I left my footprints walking\Nbackward all the way here!
-Dialogue: 0,0:06:04.54,0:06:06.61,Default,,0,0,0,,The more time passes the more\NI am convinced that humans.
-Dialogue: 0,0:06:06.66,0:06:10.02,Default,,0,0,0,,...they are truly stupid\Nwithout a gram of brains!
-Dialogue: 0,0:06:10.10,0:06:13.81,Default,,0,0,0,,- Prince Sapphire!\N- What is it, lady? I'm here!
-Dialogue: 0,0:06:14.02,0:06:18.22,Default,,0,0,0,,A message has arrived for\Nyou! It comes from Prince Franz!
-Dialogue: 0,0:06:18.26,0:06:20.49,Default,,0,0,0,,From Prince Franz?
-Dialogue: 0,0:06:23.50,0:06:26.62,Default,,0,0,0,,"Dear Prince Sapphire, how are you?"
-Dialogue: 0,0:06:26.66,0:06:31.21,Default,,0,0,0,,Have you still not found\Nthat girl I danced with?
-Dialogue: 0,0:06:32.54,0:06:34.53,Default,,0,0,0,,If only he knew it was me.
-Dialogue: 0,0:06:50.30,0:06:52.21,Default,,0,0,0,,How stupid you are.
-Dialogue: 0,0:07:00.82,0:07:04.81,Default,,0,0,0,,Is it possible that you can't\Nguess that that girl is me?
-Dialogue: 0,0:07:05.90,0:07:07.41,Default,,0,0,0,,Who's there?
-Dialogue: 0,0:07:12.22,0:07:14.21,Default,,0,0,0,,So you must be Zul!
-Dialogue: 0,0:07:14.82,0:07:17.29,Default,,0,0,0,,At your service, Princess!
-Dialogue: 0,0:07:17.34,0:07:19.73,Default,,0,0,0,,What are you\Nsaying?! I am a Prince!
-Dialogue: 0,0:07:19.78,0:07:23.69,Default,,0,0,0,,Tell the truth: you, in reality,\Nare a Princess, aren't you?
-Dialogue: 0,0:07:23.74,0:07:25.41,Default,,0,0,0,,Be quiet!
-Dialogue: 0,0:07:39.06,0:07:41.02,Default,,0,0,0,,Let's chase him, Opal!
-Dialogue: 0,0:07:59.02,0:08:01.41,Default,,0,0,0,,Easy, Opal! Come down!
-Dialogue: 0,0:08:07.22,0:08:09.10,Default,,0,0,0,,You won't escape me!
-Dialogue: 0,0:08:22.58,0:08:25.57,Default,,0,0,0,,How clever! You fell\Ninto a man-made trap!
-Dialogue: 0,0:08:25.62,0:08:27.82,Default,,0,0,0,,Goodbye, Princess!
-Dialogue: 0,0:08:28.26,0:08:30.86,Default,,0,0,0,,Damn fox! I'll catch\Nyou, sooner or later!
-Dialogue: 0,0:08:34.18,0:08:36.54,Default,,0,0,0,,Let's see which way to go...
-Dialogue: 0,0:08:38.90,0:08:42.02,Default,,0,0,0,,This way... No, no!\NBetter this other way...
-Dialogue: 0,0:08:46.58,0:08:49.41,Default,,0,0,0,,How strange, I smell humans!
-Dialogue: 0,0:08:49.74,0:08:51.73,Default,,0,0,0,,And yet I don't see any
-Dialogue: 0,0:08:51.90,0:08:55.02,Default,,0,0,0,,Maybe it's my nose\Nthat isn't working well today.
-Dialogue: 0,0:08:57.10,0:08:59.33,Default,,0,0,0,,Damn it, I'm trapped!
-Dialogue: 0,0:08:59.38,0:09:02.93,Default,,0,0,0,,But you haven't caught me yet\Nand I will sell my life dearly!
-Dialogue: 0,0:09:05.10,0:09:10.65,Default,,0,0,0,,A cannon! All right.\NAll right, then I surrender. Here!
-Dialogue: 0,0:09:10.82,0:09:14.37,Default,,0,0,0,,- Thank goodness, I caught that fox!\N- Well done, Plastic!
-Dialogue: 0,0:09:16.70,0:09:18.69,Default,,0,0,0,,Dad, look what a beautiful cannon!
-Dialogue: 0,0:09:18.74,0:09:21.13,Default,,0,0,0,,Turn it the other way!\NIt's dangerous!
-Dialogue: 0,0:09:21.18,0:09:22.90,Default,,0,0,0,,Well done, son! You caught it!
-Dialogue: 0,0:09:23.30,0:09:27.21,Default,,0,0,0,,Plastic, you are becoming more capable\Nthan I had hoped.
-Dialogue: 0,0:09:27.26,0:09:29.01,Default,,0,0,0,,Thanks, daddy!
-Dialogue: 0,0:09:30.38,0:09:32.58,Default,,0,0,0,,Look, dad!\NDon't I look like a King?
-Dialogue: 0,0:09:32.62,0:09:34.66,Default,,0,0,0,,Yes, you really look like a King!
-Dialogue: 0,0:09:34.70,0:09:37.69,Default,,0,0,0,,That's why I can't wait\Nto see you sitting on the throne!
-Dialogue: 0,0:09:37.74,0:09:39.89,Default,,0,0,0,,If my plans come true,\Nmy son,
-Dialogue: 0,0:09:39.94,0:09:43.09,Default,,0,0,0,,you will be the one, one day,\Nto sit on the throne of Silverland.
-Dialogue: 0,0:09:43.74,0:09:46.02,Default,,0,0,0,,Hurry up, dad!\NI want to become King!
-Dialogue: 0,0:09:46.06,0:09:48.45,Default,,0,0,0,,First we must get rid\Nof my nephew Sapphire...
-Dialogue: 0,0:09:48.50,0:09:50.49,Default,,0,0,0,,...so that you can become King.
-Dialogue: 0,0:09:50.54,0:09:53.18,Default,,0,0,0,,I don't feel like waiting!\NI want to be King!
-Dialogue: 0,0:09:53.22,0:09:55.66,Default,,0,0,0,,Stop throwing tantrums!\NYou'll have to wait instead!
-Dialogue: 0,0:09:55.70,0:09:58.77,Default,,0,0,0,,Meanwhile, why don't you act\Nlike a King and kill that beast?
-Dialogue: 0,0:09:58.82,0:10:00.70,Default,,0,0,0,,Alright, dad! Who do I have to kill?
-Dialogue: 0,0:10:00.74,0:10:03.02,Default,,0,0,0,,What kind of question is that!\NYou have to kill that fox, don't you?
-Dialogue: 0,0:10:05.82,0:10:08.49,Default,,0,0,0,,Poor thing!\NI'm sorry to have to kill it!
-Dialogue: 0,0:10:08.54,0:10:12.01,Default,,0,0,0,,Have you thought, son, that if you are\Ncapable of killing this fox,
-Dialogue: 0,0:10:12.06,0:10:15.34,Default,,0,0,0,,you might also be able\Nto kill Sapphire?
-Dialogue: 0,0:10:15.38,0:10:17.82,Default,,0,0,0,,Go ahead, kill it with the bow!
-Dialogue: 0,0:10:21.62,0:10:23.82,Default,,0,0,0,,Stupid! What are you doing?
-Dialogue: 0,0:10:24.74,0:10:27.02,Default,,0,0,0,,What on earth are you doing?
-Dialogue: 0,0:10:27.06,0:10:29.94,Default,,0,0,0,,It was you, dad, who told me\Nto kill it with the bow!
-Dialogue: 0,0:10:29.98,0:10:32.02,Default,,0,0,0,,- And this is the bow!\N- Fool!
-Dialogue: 0,0:10:32.06,0:10:34.21,Default,,0,0,0,,The bow is only used\Nto shoot the arrow!
-Dialogue: 0,0:10:34.66,0:10:37.10,Default,,0,0,0,,Ah, you are here, Grand\NDuke! I was looking for you!
-Dialogue: 0,0:10:37.14,0:10:40.37,Default,,0,0,0,,Baron Nylon, what do you\Nhave so important to tell me?
-Dialogue: 0,0:10:40.70,0:10:43.82,Default,,0,0,0,,I entered Sapphire's room\Nwhile he wasn't there...
-Dialogue: 0,0:10:43.86,0:10:45.85,Default,,0,0,0,,...and I found a box. This one!
-Dialogue: 0,0:10:45.90,0:10:48.81,Default,,0,0,0,,- It looks like a girl's jewelry box!\N- Yes.
-Dialogue: 0,0:10:49.02,0:10:52.81,Default,,0,0,0,,It could contain the\Nproof that Sapphire is a girl.
-Dialogue: 0,0:10:52.86,0:10:56.17,Default,,0,0,0,,If I had the proof, I could have\NSapphire sentenced to death...
-Dialogue: 0,0:10:56.22,0:10:59.05,Default,,0,0,0,,...since he pretended to be\Nmale to ascend the throne!
-Dialogue: 0,0:10:59.14,0:11:02.21,Default,,0,0,0,,In that case, the only claimant\Nwould be your son Plastic,
-Dialogue: 0,0:11:02.26,0:11:04.49,Default,,0,0,0,,who could soon have\Na crown.
-Dialogue: 0,0:11:04.54,0:11:07.01,Default,,0,0,0,,Come on, open it!\NLet's see what's inside!
-Dialogue: 0,0:11:10.90,0:11:12.81,Default,,0,0,0,,Damn, how ugly it is!
-Dialogue: 0,0:11:13.46,0:11:16.69,Default,,0,0,0,,"Dear Mr. Petty Thief,\Ndid you like this joke of mine?"
-Dialogue: 0,0:11:16.74,0:11:19.38,Default,,0,0,0,,Damn it!\NThe Prince made it!
-Dialogue: 0,0:11:21.18,0:11:23.22,Default,,0,0,0,,What the hell are you laughing at?!
-Dialogue: 0,0:11:23.34,0:11:28.10,Default,,0,0,0,,Are you interested in having proof that the\NPrince is, in reality, a girl?
-Dialogue: 0,0:11:28.46,0:11:30.58,Default,,0,0,0,,Of course I'd be interested.
-Dialogue: 0,0:11:30.62,0:11:33.22,Default,,0,0,0,,Then, if you set me free,\NI will provide you with this proof,
-Dialogue: 0,0:11:33.26,0:11:35.38,Default,,0,0,0,,because I know many things\Nthat you don't know.
-Dialogue: 0,0:11:45.54,0:11:48.50,Default,,0,0,0,,Oh, no! I must look for Sapphire!\NI must warn him immediately...
-Dialogue: 0,0:11:48.54,0:11:50.66,Default,,0,0,0,,...of the grave danger\Nthat he is in!
-Dialogue: 0,0:11:52.70,0:11:57.25,Default,,0,0,0,,Sapphire! Sapphire!
-Dialogue: 0,0:11:59.18,0:12:01.01,Default,,0,0,0,,Hello, little bunny!
-Dialogue: 0,0:12:01.06,0:12:04.05,Default,,0,0,0,,By any chance have you seen around here\Na girl... I mean, a boy?
-Dialogue: 0,0:12:05.22,0:12:08.74,Default,,0,0,0,,Are you saying he fell into a trap\Nand fell asleep in there?
-Dialogue: 0,0:12:08.78,0:12:10.82,Default,,0,0,0,,You really are\Na smart little bunny!
-Dialogue: 0,0:12:12.02,0:12:15.14,Default,,0,0,0,,Sapphire! It's me: Tink!\NWake up!
-Dialogue: 0,0:12:15.18,0:12:16.82,Default,,0,0,0,,- Tink!\N- Listen!
-Dialogue: 0,0:12:16.86,0:12:18.93,Default,,0,0,0,,At the camp, Zul\Ntold Duralumin...
-Dialogue: 0,0:12:18.98,0:12:21.13,Default,,0,0,0,,...that he will give him\Nproof that you are a girl!
-Dialogue: 0,0:12:21.18,0:12:23.49,Default,,0,0,0,,Why would he do\Nsomething like that?
-Dialogue: 0,0:12:23.86,0:12:26.53,Default,,0,0,0,,Hold on to this! You\Ncan climb back up!
-Dialogue: 0,0:12:30.58,0:12:32.38,Default,,0,0,0,,Thanks, Tink!
-Dialogue: 0,0:12:34.50,0:12:36.25,Default,,0,0,0,,Where is Zul?
-Dialogue: 0,0:12:36.82,0:12:39.02,Default,,0,0,0,,He's in the camp\Nand we have to go...
-Dialogue: 0,0:12:39.70,0:12:43.61,Default,,0,0,0,,Damn! I don't remember anymore\Nwhich direction I came from!
-Dialogue: 0,0:12:44.34,0:12:48.02,Default,,0,0,0,,At such an important moment\Nyou go and forget the way?
-Dialogue: 0,0:12:48.14,0:12:51.02,Default,,0,0,0,,If you scold me, then\NI'll remind you that a girl...
-Dialogue: 0,0:12:51.06,0:12:53.18,Default,,0,0,0,,...shouldn't go hunting!\N- Shut up!
-Dialogue: 0,0:12:53.22,0:12:55.66,Default,,0,0,0,,You are a child\Nand you don't know anything about these things!
-Dialogue: 0,0:12:55.70,0:12:58.34,Default,,0,0,0,,Stop calling me "child"!\NAnd then please remember...
-Dialogue: 0,0:12:58.38,0:13:00.02,Default,,0,0,0,,...that you too are still\Na child!
-Dialogue: 0,0:13:00.06,0:13:03.10,Default,,0,0,0,,Besides, it's not good to go hunting\Nand kill poor animals!
-Dialogue: 0,0:13:05.02,0:13:07.90,Default,,0,0,0,,You're right! Let's go\Nin search of the camp!
-Dialogue: 0,0:13:08.26,0:13:11.81,Default,,0,0,0,,I'll come back for you! Now I must\Nrun and I can't take you with me!
-Dialogue: 0,0:13:13.18,0:13:15.85,Default,,0,0,0,,What trouble if Sapphire's\Nsecret is discovered...!
-Dialogue: 0,0:13:22.90,0:13:26.02,Default,,0,0,0,,I must get quickly\Nto the camp! Ugh!
-Dialogue: 0,0:13:26.30,0:13:29.10,Default,,0,0,0,,Mole! Mole!
-Dialogue: 0,0:13:31.34,0:13:33.90,Default,,0,0,0,,Hello! How are you, friend?\NWill you do me a favor?
-Dialogue: 0,0:13:41.22,0:13:44.74,Default,,0,0,0,,So, dad, can I kill\Nthis fox now?
-Dialogue: 0,0:13:46.30,0:13:48.82,Default,,0,0,0,,Be good and wait!\NYou will kill it later.
-Dialogue: 0,0:13:49.10,0:13:52.22,Default,,0,0,0,,I don't feel like waiting! First\Nyou tell me I can kill it...
-Dialogue: 0,0:13:52.26,0:13:54.49,Default,,0,0,0,,...and then you don't let me do it!
-Dialogue: 0,0:13:54.54,0:13:58.14,Default,,0,0,0,,Be good, son! As soon as we have\Nproof that Sapphire is a girl,
-Dialogue: 0,0:13:58.18,0:14:00.82,Default,,0,0,0,,I will allow you to kill\Nthis fox! Alright?
-Dialogue: 0,0:14:00.86,0:14:02.42,Default,,0,0,0,,Alright!
-Dialogue: 0,0:14:03.46,0:14:06.77,Default,,0,0,0,,Let's go! You promised to tell us\Neverything once you were free.
-Dialogue: 0,0:14:06.82,0:14:09.10,Default,,0,0,0,,I didn't know that men\Nwere so impetuous!
-Dialogue: 0,0:14:09.74,0:14:12.21,Default,,0,0,0,,Alright, that means I'll take\Nthe rest of the meal...
-Dialogue: 0,0:14:12.26,0:14:15.25,Default,,0,0,0,,...and I'll go eat it in the woods.\N- But first give us proof!
-Dialogue: 0,0:14:15.42,0:14:19.41,Default,,0,0,0,,I cannot speak without having\Ncompleted a ceremony.
-Dialogue: 0,0:14:19.46,0:14:21.66,Default,,0,0,0,,A ceremony?\NAnd what is it about?
-Dialogue: 0,0:14:21.70,0:14:24.45,Default,,0,0,0,,It's the ceremony\Nin which I solemnly swear.\N•
-Dialogue: 0,0:14:24.50,0:14:26.89,Default,,0,0,0,,..that everything I will tell you\Nis true.
-Dialogue: 0,0:14:28.46,0:14:32.66,Default,,0,0,0,,Bring me sulfur and oak leaves\Nand make a pile of them.
-Dialogue: 0,0:14:32.70,0:14:35.93,Default,,0,0,0,,- Do you need all these things?\N- What do you care?!
-Dialogue: 0,0:14:36.18,0:14:38.57,Default,,0,0,0,,Bring all these things right away!
-Dialogue: 0,0:14:38.62,0:14:41.01,Default,,0,0,0,,Listen, dad, can I kill her afterwards?
-Dialogue: 0,0:14:41.06,0:14:42.65,Default,,0,0,0,,Shut up!
-Dialogue: 0,0:14:50.50,0:14:54.21,Default,,0,0,0,,Now, Baron Nylon,\Nplease, light a nice fire.
-Dialogue: 0,0:14:54.46,0:14:56.69,Default,,0,0,0,,- You want a fire?!\N- I need a fire...
-Dialogue: 0,0:14:56.74,0:15:00.02,Default,,0,0,0,,for the ceremony! I must\Noffer a prayer to my ancestors!
-Dialogue: 0,0:15:15.82,0:15:18.02,Default,,0,0,0,,I tricked you, Grand Duke!
-Dialogue: 0,0:15:18.10,0:15:20.33,Default,,0,0,0,,The fox has run away!
-Dialogue: 0,0:15:22.02,0:15:24.01,Default,,0,0,0,,Chase it!
-Dialogue: 0,0:15:52.02,0:15:54.25,Default,,0,0,0,,Do you mean you found the fox?
-Dialogue: 0,0:15:54.58,0:15:56.94,Default,,0,0,0,,I must run to warn Sapphire!
-Dialogue: 0,0:15:57.66,0:15:59.41,Default,,0,0,0,,But that's Tink!
-Dialogue: 0,0:16:00.74,0:16:02.38,Default,,0,0,0,,Tink!
-Dialogue: 0,0:16:03.02,0:16:04.82,Default,,0,0,0,,Wait, it's me!
-Dialogue: 0,0:16:06.34,0:16:08.33,Default,,0,0,0,,A mole told me\Nthat the fox...
-Dialogue: 0,0:16:08.38,0:16:10.58,Default,,0,0,0,,.got caught in a trap,\Nnear the swamp!
-Dialogue: 0,0:16:11.10,0:16:12.82,Default,,0,0,0,,Down there!
-Dialogue: 0,0:16:14.06,0:16:16.66,Default,,0,0,0,,This time\NI won't let you escape, Zul!
-Dialogue: 0,0:16:17.30,0:16:20.90,Default,,0,0,0,,Please, Prince, let me go!\NMy little ones are waiting for me
-Dialogue: 0,0:16:20.94,0:16:23.33,Default,,0,0,0,,...and if I die,\Nwho will look after them?
-Dialogue: 0,0:16:23.58,0:16:27.54,Default,,0,0,0,,I don't believe you anymore! This time you won't\Nfool me with your whining!
-Dialogue: 0,0:16:27.62,0:16:31.58,Default,,0,0,0,,I don't want to die! If I die,\Nmy little ones will die too!
-Dialogue: 0,0:16:31.62,0:16:34.01,Default,,0,0,0,,They were just born\Nand they've already lost their mother!
-Dialogue: 0,0:16:36.62,0:16:39.37,Default,,0,0,0,,Goodbye, my dear little ones!\NI will never see you again!
-Dialogue: 0,0:16:39.42,0:16:41.46,Default,,0,0,0,,Now you are about to lose\Nyour father too!
-Dialogue: 0,0:16:42.54,0:16:45.58,Default,,0,0,0,,Is it true, Zul?\NDo you really have cubs?
-Dialogue: 0,0:16:46.26,0:16:49.49,Default,,0,0,0,,Yes, yes, it's true!\NAnd they are cute, just like you.
-Dialogue: 0,0:16:51.30,0:16:53.26,Default,,0,0,0,,Zul, leave Tink alone!
-Dialogue: 0,0:16:53.54,0:16:56.82,Default,,0,0,0,,Now listen to me:\Nif you don't want me to bite your friend,
-Dialogue: 0,0:16:56.86,0:16:58.82,Default,,0,0,0,,free me from this trap!
-Dialogue: 0,0:17:00.10,0:17:02.33,Default,,0,0,0,,Come on, free me, Princess!
-Dialogue: 0,0:17:03.74,0:17:06.78,Default,,0,0,0,,I'm taking this child with me\Nas a hostage.
-Dialogue: 0,0:17:09.02,0:17:12.86,Default,,0,0,0,,Don't try to follow me or your\Nfriend will meet a bad end!
-Dialogue: 0,0:17:14.02,0:17:16.06,Default,,0,0,0,,Now I'm angry!
-Dialogue: 0,0:17:16.42,0:17:18.01,Default,,0,0,0,,Let's go!
-Dialogue: 0,0:17:45.22,0:17:47.02,Default,,0,0,0,,Wait, Zul!
-Dialogue: 0,0:18:09.02,0:18:12.46,Default,,0,0,0,,You are surrounded!\NSurrender, Zul! You can't escape!
-Dialogue: 0,0:18:12.74,0:18:16.29,Default,,0,0,0,,If you want, you can even kill\Nme, but this child will die with me!
-Dialogue: 0,0:18:17.26,0:18:18.90,Default,,0,0,0,,And what do we care?
-Dialogue: 0,0:18:19.42,0:18:22.81,Default,,0,0,0,,Yes, you understood perfectly\Nwell! We couldn't care less...
-Dialogue: 0,0:18:22.86,0:18:25.01,Default,,0,0,0,,..whether you kill that child!
-Dialogue: 0,0:18:25.06,0:18:28.37,Default,,0,0,0,,This confirms to me that you\Nhumans are much more evil than us!
-Dialogue: 0,0:18:32.66,0:18:34.65,Default,,0,0,0,,I can't bring myself to kill you.
-Dialogue: 0,0:18:34.70,0:18:36.69,Default,,0,0,0,,You can just go home.
-Dialogue: 0,0:18:37.90,0:18:41.37,Default,,0,0,0,,Zul, be careful! And above all\Ndon't trust a guy like Nylon!
-Dialogue: 0,0:18:45.66,0:18:48.10,Default,,0,0,0,,With this collar,\Nyou won't be able to run far!
-Dialogue: 0,0:18:49.02,0:18:51.82,Default,,0,0,0,,I'm not stupid.\NI only run away when I can.
-Dialogue: 0,0:18:54.62,0:18:56.21,Default,,0,0,0,,It's the voice of a bear!
-Dialogue: 0,0:19:04.22,0:19:06.42,Default,,0,0,0,,Watch out, my little fox cubs!
-Dialogue: 0,0:19:28.02,0:19:30.01,Default,,0,0,0,,That bear is attacking the fox cubs!
-Dialogue: 0,0:19:31.02,0:19:33.17,Default,,0,0,0,,Quick, everyone give chase!
-Dialogue: 0,0:19:48.22,0:19:50.89,Default,,0,0,0,,Quick, Zul, run away!\NThe bear will kill you!
-Dialogue: 0,0:19:55.02,0:19:57.82,Default,,0,0,0,,Your violence\Ndoesn't scare me at all, bear!
-Dialogue: 0,0:20:06.26,0:20:09.22,Default,,0,0,0,,Zul didn't tell a lie\Nby saying he had three cubs!
-Dialogue: 0,0:20:11.78,0:20:13.82,Default,,0,0,0,,Zul, now I will avenge you!
-Dialogue: 0,0:20:15.26,0:20:18.25,Default,,0,0,0,,I didn't know that Sapphire too\Nwas on Zul's trail.
-Dialogue: 0,0:20:19.26,0:20:21.57,Default,,0,0,0,,Giant bear, I challenge you!
-Dialogue: 0,0:20:21.86,0:20:24.14,Default,,0,0,0,,Zul, stay and guard\Nthe fox cubs!
-Dialogue: 0,0:20:49.58,0:20:52.94,Default,,0,0,0,,Friend mole, Sapphire is in\Ntrouble! We must help him!
-Dialogue: 0,0:21:02.90,0:21:05.29,Default,,0,0,0,,Thank you, Zul! I will use it!
-Dialogue: 0,0:21:16.22,0:21:18.89,Default,,0,0,0,,You came to help me too,\Nmole! Thank you!
-Dialogue: 0,0:21:24.82,0:21:28.18,Default,,0,0,0,,Well done, Sapphire! Well done!
-Dialogue: 0,0:21:28.46,0:21:30.61,Default,,0,0,0,,Well done! Well done!
-Dialogue: 0,0:21:30.66,0:21:33.41,Default,,0,0,0,,I owe you eternal gratitude,\NPrince Sapphire!
-Dialogue: 0,0:21:34.10,0:21:36.17,Default,,0,0,0,,It was magnificent!
-Dialogue: 0,0:21:38.06,0:21:40.73,Default,,0,0,0,,- Everything alright, Sapphire?\N- Yes, everything's fine, Tink!
-Dialogue: 0,0:21:41.46,0:21:43.82,Default,,0,0,0,,I'm worried about that big beast.
-Dialogue: 0,0:21:44.42,0:21:47.41,Default,,0,0,0,,- I'll go check!\N- You are always an angel of goodness
-Dialogue: 0,0:21:51.06,0:21:53.37,Default,,0,0,0,,You didn't get hurt too badly, did you?
-Dialogue: 0,0:21:53.42,0:21:55.89,Default,,0,0,0,,You fought very well,\NPrince, but I remind you...
-Dialogue: 0,0:21:55.94,0:21:58.01,Default,,0,0,0,,...that that fox belongs\Nto my son Plastic,
-Dialogue: 0,0:21:58.06,0:22:01.69,Default,,0,0,0,,because he is the one who caught it!\NGive it back to us immediately, please!
-Dialogue: 0,0:22:01.74,0:22:03.89,Default,,0,0,0,,How dare that schemer...?!
-Dialogue: 0,0:22:05.66,0:22:09.81,Default,,0,0,0,,I won't give Zul to anyone,\Nleast of all to you, Grand Duke!
-Dialogue: 0,0:22:09.86,0:22:13.74,Default,,0,0,0,,He must decide for himself,\Nto return with us of his own free will.
-Dialogue: 0,0:22:14.90,0:22:17.65,Default,,0,0,0,,I'm sure he prefers\Nreturning to captivity,
-Dialogue: 0,0:22:17.70,0:22:20.53,Default,,0,0,0,,rather than seeing them\Nkill all those little foxes.
-Dialogue: 0,0:22:23.10,0:22:25.85,Default,,0,0,0,,Zul, watch out!\NIt's a trap! Don't go!
-Dialogue: 0,0:22:37.02,0:22:40.09,Default,,0,0,0,,I know for sure that Prince\NSapphire, in reality, is...
-Dialogue: 0,0:22:40.14,0:22:42.34,Default,,0,0,0,,In reality,\Nhe is definitely a boy.
-Dialogue: 0,0:22:42.38,0:22:44.90,Default,,0,0,0,,- You stupid idiot! Don't tell lies!\N- Look who's talking, you big liar!
-Dialogue: 0,0:22:45.50,0:22:48.33,Default,,0,0,0,,This time I have betrayed\Nyou! Have no mercy!
-Dialogue: 0,0:22:48.38,0:22:50.74,Default,,0,0,0,,Kill all these beasts!
-Dialogue: 0,0:22:53.50,0:22:55.30,Default,,0,0,0,,Help!
-Dialogue: 0,0:22:55.34,0:22:57.01,Default,,0,0,0,,Help!
-Dialogue: 0,0:22:58.90,0:23:00.62,Default,,0,0,0,,Quickly, let's escape!
-Dialogue: 0,0:23:00.82,0:23:03.10,Default,,0,0,0,,- Wait for me!\N- Out of the way!
-Dialogue: 0,0:23:04.46,0:23:07.13,Default,,0,0,0,,Thank you, bear!\NYou were very kind.
-Dialogue: 0,0:23:07.90,0:23:10.37,Default,,0,0,0,,How cute\Nthis little fox is!
-Dialogue: 0,0:23:10.58,0:23:12.62,Default,,0,0,0,,Goodbye, friends!
-Dialogue: 0,0:23:12.66,0:23:14.89,Default,,0,0,0,,It will be better if we don't meet again.
-Dialogue: 0,0:23:14.94,0:23:18.09,Default,,0,0,0,,I agree. It is better that\Nhumans and foxes live apart.
-Dialogue: 0,0:23:18.14,0:23:20.21,Default,,0,0,0,,After all, nature wants it that way.
-Dialogue: 0,0:23:20.26,0:23:22.54,Default,,0,0,0,,You helped me\Nand I helped you,
-Dialogue: 0,0:23:22.58,0:23:24.62,Default,,0,0,0,,but now we must part.
-Dialogue: 0,0:23:25.34,0:23:28.09,Default,,0,0,0,,Goodbye, Prince Sapphire!
-Dialogue: 0,0:23:28.14,0:23:31.18,Default,,0,0,0,,- Goodbye, friends!\N- Take care, animal friends!
-Dialogue: 0,0:23:31.22,0:23:32.73,Default,,0,0,0,,Bye!
-Dialogue: 0,0:23:37.58,0:23:40.89,Default,,0,0,0,,Prince, I heard that you\Ncaptured the golden fox.
-Dialogue: 0,0:23:40.94,0:23:43.09,Default,,0,0,0,,Yes, I had almost managed to catch it.
-Dialogue: 0,0:23:43.22,0:23:46.29,Default,,0,0,0,,How skilled you are\Nto have caught that fox!
-Dialogue: 0,0:23:47.02,0:23:49.01,Default,,0,0,0,,Do you mean you didn't catch it?!
-Dialogue: 0,0:23:49.06,0:23:51.02,Default,,0,0,0,,But if I catch it, I will give it to you as a gift!
-Dialogue: 0,0:23:51.06,0:23:53.02,Default,,0,0,0,,How kind you are!
+Dialogue: 0,0:01:44.10,0:01:50.14,Default,,0,0,0,,Fifteenth Episode\NThe Fox's Tale\NGolden Fox Hunt
+Dialogue: 0,0:02:25.30,0:02:26.48,Default,,0,0,0,,Whoa, what's that?
+Dialogue: 0,0:03:53.59,0:03:54.26,Default,,0,0,0,,There they are!
+Dialogue: 0,0:03:54.44,0:03:57.74,Default,,0,0,0,,As the fox proverb goes, where there are humans, there is food.
+Dialogue: 0,0:03:57.77,0:04:00.38,Default,,0,0,0,,It's a bit risky, but let me help myself.
+Dialogue: 0,0:04:06.69,0:04:10.02,Default,,0,0,0,,Has no one mentioned Zuru's name during this year's fox hunt?
+Dialogue: 0,0:04:10.16,0:04:10.70,Default,,0,0,0,,Zuru?
+Dialogue: 0,0:04:10.80,0:04:12.90,Default,,0,0,0,,Oh, you mean that crafty vixen?
+Dialogue: 0,0:04:13.12,0:04:15.20,Default,,0,0,0,,She always gives us trouble.
+Dialogue: 0,0:04:16.29,0:04:18.08,Default,,0,0,0,,She's a monster fox who speaks human words
+Dialogue: 0,0:04:18.11,0:04:21.18,Default,,0,0,0,,and possesses wisdom beyond any human.
+Dialogue: 0,0:04:21.48,0:04:23.22,Default,,0,0,0,,She truly is quite something.
+Dialogue: 0,0:04:23.37,0:04:28.50,Default,,0,0,0,,Since she understands our speech, she sees through everything humans do and outsmarts us.
+Dialogue: 0,0:04:28.67,0:04:30.08,Default,,0,0,0,,She's completely impossible to handle.
+Dialogue: 0,0:04:31.28,0:04:34.74,Default,,0,0,0,,This time, I'd love to hang her pelt in my room.
+Dialogue: 0,0:04:34.93,0:04:37.72,Default,,0,0,0,,Ah, that golden fur is valuable, too.
+Dialogue: 0,0:04:37.75,0:04:39.72,Default,,0,0,0,,Catching her would make it a national treasure.
+Dialogue: 0,0:04:39.87,0:04:42.42,Default,,0,0,0,,Where could that Zuru be hiding?
+Dialogue: 0,0:04:44.61,0:04:46.98,Default,,0,0,0,,What's this useless mutt dawdling for?
+Dialogue: 0,0:04:47.19,0:04:48.19,Default,,0,0,0,,Hurry into the forest!
+Dialogue: 0,0:04:51.86,0:04:54.25,Default,,0,0,0,,Looks like they were bitten by a beast.
+Dialogue: 0,0:04:54.54,0:04:56.08,Default,,0,0,0,,Hmm, then it can't be helped.
+Dialogue: 0,0:05:13.33,0:05:14.46,Default,,0,0,0,,Who on earth did this?
+Dialogue: 0,0:05:15.77,0:05:17.44,Default,,0,0,0,,My precious booze is ruined!
+Dialogue: 0,0:05:21.09,0:05:22.64,Default,,0,0,0,,There's sand in here instead of wine.
+Dialogue: 0,0:05:24.32,0:05:25.88,Default,,0,0,0,,There's a frog in this pot!
+Dialogue: 0,0:05:26.40,0:05:28.22,Default,,0,0,0,,Looks like the meat is fine...
+Dialogue: 0,0:05:28.94,0:05:30.36,Default,,0,0,0,,...Wait, she got to this one, too.
+Dialogue: 0,0:05:38.53,0:05:40.04,Default,,0,0,0,,Zuru showed up? Where is she?
+Dialogue: 0,0:05:40.90,0:05:43.18,Default,,0,0,0,,She's not the type to show her tail.
+Dialogue: 0,0:05:44.11,0:05:47.32,Default,,0,0,0,,But no one except Zuru could pull off a heist this slick.
+Dialogue: 0,0:05:48.20,0:05:51.12,Default,,0,0,0,,Hey, there are footprints over here!
+Dialogue: 0,0:05:53.25,0:05:54.92,Default,,0,0,0,,Yeah, no doubt about it. It's Zuru.
+Dialogue: 0,0:05:55.18,0:05:56.42,Default,,0,0,0,,Looks like she fled into the forest.
+Dialogue: 0,0:05:57.66,0:05:59.44,Default,,0,0,0,,Humans are so foolish.
+Dialogue: 0,0:05:59.85,0:06:02.30,Default,,0,0,0,,I'm still starving!
+Dialogue: 0,0:06:02.97,0:06:05.10,Default,,0,0,0,,Did you think I'd give up that easily?
+Dialogue: 0,0:06:05.56,0:06:08.54,Default,,0,0,0,,I made those footprints walking backward!
+Dialogue: 0,0:06:10.83,0:06:12.09,Default,,0,0,0,,Prince Sapphire.
+Dialogue: 0,0:06:12.45,0:06:13.45,Default,,0,0,0,,I'm over here!
+Dialogue: 0,0:06:14.38,0:06:15.94,Default,,0,0,0,,A letter has arrived at the castle.
+Dialogue: 0,0:06:16.25,0:06:17.97,Default,,0,0,0,,It's from Prince Franz.
+Dialogue: 0,0:06:18.88,0:06:19.88,Default,,0,0,0,,From Prince Franz?
+Dialogue: 0,0:06:23.32,0:06:25.28,Default,,0,0,0,,How are you, Prince Sapphire?
+Dialogue: 0,0:06:26.10,0:06:32.18,Default,,0,0,0,,Have you found the flaxen-haired girl I danced with yet?
+Dialogue: 0,0:06:38.12,0:06:39.62,Default,,0,0,0,,Flaxen-haired...
+Dialogue: 0,0:06:47.25,0:06:48.86,Default,,0,0,0,,Welcome, Prince Franz.
+Dialogue: 0,0:06:51.05,0:06:51.96,Default,,0,0,0,,Franz...
+Dialogue: 0,0:07:00.87,0:07:01.89,Default,,0,0,0,,He couldn't tell...
+Dialogue: 0,0:07:01.92,0:07:05.26,Default,,0,0,0,,Why can't he figure out that I'm the flaxen-haired girl?
+Dialogue: 0,0:07:12.60,0:07:13.60,Default,,0,0,0,,It's Zuru!
+Dialogue: 0,0:07:15.29,0:07:17.71,Default,,0,0,0,,Nice to meet you, Princess.
+Dialogue: 0,0:07:17.73,0:07:18.32,Default,,0,0,0,,What?
+Dialogue: 0,0:07:18.51,0:07:19.51,Default,,0,0,0,,I'm a prince!
+Dialogue: 0,0:07:19.74,0:07:23.10,Default,,0,0,0,,What a strange prince. Aren't you actually a princess?
+Dialogue: 0,0:07:23.34,0:07:24.34,Default,,0,0,0,,Stop it!
+Dialogue: 0,0:07:39.27,0:07:41.27,Default,,0,0,0,,Wait Zuru!
+Dialogue: 0,0:07:59.05,0:07:59.64,Default,,0,0,0,,Whoa!
+Dialogue: 0,0:07:59.66,0:08:00.29,Default,,0,0,0,,Opal!
+Dialogue: 0,0:08:07.52,0:08:08.52,Default,,0,0,0,,Get down here!
+Dialogue: 0,0:08:23.42,0:08:26.42,Default,,0,0,0,,To think a human would fall for a trap made by humans.
+Dialogue: 0,0:08:26.69,0:08:28.39,Default,,0,0,0,,Goodbye, Princess!
+Dialogue: 0,0:08:28.69,0:08:29.44,Default,,0,0,0,,Ah, wait!
+Dialogue: 0,0:08:29.58,0:08:30.58,Default,,0,0,0,,That's sneaky, Zuru! Sneaky!
+Dialogue: 0,0:08:36.73,0:08:38.10,Default,,0,0,0,,I smell iron.
+Dialogue: 0,0:08:38.58,0:08:40.42,Default,,0,0,0,,Watch out! Look out!
+Dialogue: 0,0:08:47.76,0:08:48.92,Default,,0,0,0,,A human scent?
+Dialogue: 0,0:08:54.09,0:08:55.33,Default,,0,0,0,,Is something wrong with your nose?
+Dialogue: 0,0:08:59.34,0:09:02.30,Default,,0,0,0,,Do you really think you can catch me with that?
+Dialogue: 0,0:09:09.65,0:09:10.78,Default,,0,0,0,,You got me!
+Dialogue: 0,0:09:11.13,0:09:12.98,Default,,0,0,0,,I did it! I did it!
+Dialogue: 0,0:09:13.96,0:09:15.26,Default,,0,0,0,,Plastic!
+Dialogue: 0,0:09:16.32,0:09:19.04,Default,,0,0,0,,Ah, Papa, Papa! Look at this cannon!
+Dialogue: 0,0:09:19.06,0:09:19.64,Default,,0,0,0,,Hey!
+Dialogue: 0,0:09:19.66,0:09:20.87,Default,,0,0,0,,Watch out, watch out!
+Dialogue: 0,0:09:23.74,0:09:27.30,Default,,0,0,0,,Plastic, you've grown up so splendidly!
+Dialogue: 0,0:09:30.75,0:09:32.18,Default,,0,0,0,,So kingly!
+Dialogue: 0,0:09:33.25,0:09:37.38,Default,,0,0,0,,Oh, I can't wait to see you become the true king!
+Dialogue: 0,0:09:37.38,0:09:38.34,Default,,0,0,0,,I wanna be the king!
+Dialogue: 0,0:09:38.36,0:09:39.98,Default,,0,0,0,,I know, I know!
+Dialogue: 0,0:09:40.34,0:09:43.28,Default,,0,0,0,,To do that, we must deal with Sapphire!
+Dialogue: 0,0:09:43.36,0:09:46.11,Default,,0,0,0,,Popa, I wanna be the king!
+Dialogue: 0,0:09:46.33,0:09:48.40,Default,,0,0,0,,I told you, I know!
+Dialogue: 0,0:09:48.46,0:09:49.94,Default,,0,0,0,,That's why Papa has to work so hard!
+Dialogue: 0,0:09:50.23,0:09:53.40,Default,,0,0,0,,Ah, I wanna be the king!
+Dialogue: 0,0:09:53.93,0:09:58.08,Default,,0,0,0,,Stop throwing a tantrum and shoot the bow like a noble future king!
+Dialogue: 0,0:09:59.01,0:10:00.01,Default,,0,0,0,,Shoot what?
+Dialogue: 0,0:10:00.65,0:10:01.42,Default,,0,0,0,,Isn't it obvious?
+Dialogue: 0,0:10:01.60,0:10:02.62,Default,,0,0,0,,That rascal, Zuru!
+Dialogue: 0,0:10:06.51,0:10:08.02,Default,,0,0,0,,Poor thing...
+Dialogue: 0,0:10:08.25,0:10:10.88,Default,,0,0,0,,Don't fall for that trick!
+Dialogue: 0,0:10:11.01,0:10:14.08,Default,,0,0,0,,If you kill her, you'll win today's top honors!
+Dialogue: 0,0:10:14.38,0:10:16.78,Default,,0,0,0,,We can put Sapphire to shame!
+Dialogue: 0,0:10:17.28,0:10:18.78,Default,,0,0,0,,Hurry up!
+Dialogue: 0,0:10:25.23,0:10:27.01,Default,,0,0,0,,You fool, what are you doing?!
+Dialogue: 0,0:10:27.19,0:10:30.58,Default,,0,0,0,,But Papa, you told me to hit it with the bow!
+Dialogue: 0,0:10:30.60,0:10:31.68,Default,,0,0,0,,Do it over!
+Dialogue: 0,0:10:31.75,0:10:32.88,Default,,0,0,0,,Shoot it with an arrow!
+Dialogue: 0,0:10:34.81,0:10:36.80,Default,,0,0,0,,Grand Duke, so this is where you were.
+Dialogue: 0,0:10:36.96,0:10:40.02,Default,,0,0,0,,Ah, Lord Nylon. How was the castle inspection?
+Dialogue: 0,0:10:40.91,0:10:41.26,Default,,0,0,0,,Well,
+Dialogue: 0,0:10:41.29,0:10:44.10,Default,,0,0,0,,taking advantage of Sapphire's absence, I searched his room and found...
+Dialogue: 0,0:10:45.14,0:10:46.54,Default,,0,0,0,,this box.
+Dialogue: 0,0:10:47.14,0:10:49.30,Default,,0,0,0,,It looks like a woman's item...
+Dialogue: 0,0:10:49.32,0:10:52.74,Default,,0,0,0,,If there's proof inside that he's a woman, we've hit the jackpot!
+Dialogue: 0,0:10:53.43,0:10:54.88,Default,,0,0,0,,Only a man can be king!
+Dialogue: 0,0:10:55.10,0:10:58.70,Default,,0,0,0,,We'll send Sapphire to the scaffold for posing as a prince!
+Dialogue: 0,0:10:59.50,0:11:04.16,Default,,0,0,0,,And then your son, Lord Plastic, as the King's relative, will become the next king...
+Dialogue: 0,0:11:04.19,0:11:05.91,Default,,0,0,0,,Go on, open it!
+Dialogue: 0,0:11:13.77,0:11:17.33,Default,,0,0,0,,"Thanks for your trouble, you blind fools of the castle!"
+Dialogue: 0,0:11:17.36,0:11:18.00,Default,,0,0,0,,Damn it!
+Dialogue: 0,0:11:18.10,0:11:19.28,Default,,0,0,0,,He's making fools of us!
+Dialogue: 0,0:11:21.69,0:11:22.84,Default,,0,0,0,,What's so funny?
+Dialogue: 0,0:11:23.21,0:11:24.76,Default,,0,0,0,,You said "blind fools," didn't you?
+Dialogue: 0,0:11:24.92,0:11:28.32,Default,,0,0,0,,Do you want proof that the prince is a girl?
+Dialogue: 0,0:11:28.38,0:11:30.13,Default,,0,0,0,,W-What did you say?
+Dialogue: 0,0:11:30.51,0:11:31.56,Default,,0,0,0,,I happen to know.
+Dialogue: 0,0:11:31.58,0:11:34.98,Default,,0,0,0,,I'll tell you everything if you help me.
+Dialogue: 0,0:11:45.48,0:11:46.26,Default,,0,0,0,,Oh no!
+Dialogue: 0,0:11:46.45,0:11:48.14,Default,,0,0,0,,We have to find Sapphire fast!
+Dialogue: 0,0:11:49.13,0:11:49.57,Default,,0,0,0,,Quickly!
+Dialogue: 0,0:11:49.64,0:11:50.11,Default,,0,0,0,,Quickly!
+Dialogue: 0,0:11:50.25,0:11:51.25,Default,,0,0,0,,Hurry!
+Dialogue: 0,0:11:51.30,0:11:52.30,Default,,0,0,0,,Hurry!
+Dialogue: 0,0:11:53.05,0:11:54.62,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:11:55.89,0:11:57.68,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:11:59.30,0:12:00.48,Default,,0,0,0,,Oh, Usagi-kun!
+Dialogue: 0,0:12:00.90,0:12:04.02,Default,,0,0,0,,Have you seen a girl... I mean, boy named Sapphire?
+Dialogue: 0,0:12:05.28,0:12:08.51,Default,,0,0,0,,That boy is sleeping in a pitfall right over there?
+Dialogue: 0,0:12:09.22,0:12:10.35,Default,,0,0,0,,Thank you!
+Dialogue: 0,0:12:12.42,0:12:13.42,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:12:13.63,0:12:14.84,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:12:14.87,0:12:15.87,Default,,0,0,0,,Oh, Tink!
+Dialogue: 0,0:12:16.26,0:12:17.26,Default,,0,0,0,,This is bad!
+Dialogue: 0,0:12:17.33,0:12:21.58,Default,,0,0,0,,Zuru's going to tell Grand Duke Duralumin that you're a girl!
+Dialogue: 0,0:12:21.94,0:12:22.94,Default,,0,0,0,,To Duralumin?
+Dialogue: 0,0:12:23.20,0:12:25.30,Default,,0,0,0,,Hey, hurry and grab onto this!
+Dialogue: 0,0:12:30.79,0:12:32.26,Default,,0,0,0,,Thanks, Tink!
+Dialogue: 0,0:12:33.70,0:12:35.64,Default,,0,0,0,,Hey, where's Zuru?
+Dialogue: 0,0:12:37.16,0:12:38.16,Default,,0,0,0,,Oh, right!
+Dialogue: 0,0:12:38.96,0:12:40.11,Default,,0,0,0,,Um, um, um...
+Dialogue: 0,0:12:41.04,0:12:43.96,Default,,0,0,0,,I forgot which way she went...
+Dialogue: 0,0:12:44.06,0:12:48.02,Default,,0,0,0,,Geez, forgetting something so important! You really are dumb, Tink!
+Dialogue: 0,0:12:48.17,0:12:50.50,Default,,0,0,0,,Mind your own business! I don't need you calling me dumb!
+Dialogue: 0,0:12:50.57,0:12:52.90,Default,,0,0,0,,Hunting isn't something a girl should be doing anyway!
+Dialogue: 0,0:12:53.73,0:12:55.04,Default,,0,0,0,,You're just a kid, keep quiet!
+Dialogue: 0,0:12:55.11,0:12:56.98,Default,,0,0,0,,You keep calling me a kid!
+Dialogue: 0,0:12:57.38,0:12:58.98,Default,,0,0,0,,Aren't you just a kid yourself?
+Dialogue: 0,0:12:59.26,0:13:02.98,Default,,0,0,0,,Besides, coming to ruin the Peaceful Forest with a hunt is wrong!
+Dialogue: 0,0:13:05.08,0:13:06.36,Default,,0,0,0,,A-Alright, Tink!
+Dialogue: 0,0:13:06.87,0:13:08.54,Default,,0,0,0,,I'll search for him by myself!
+Dialogue: 0,0:13:11.39,0:13:12.46,Default,,0,0,0,,Bleehhhh!
+Dialogue: 0,0:13:13.26,0:13:15.92,Default,,0,0,0,,But Sapphire's secret will be exposed...
+Dialogue: 0,0:13:22.82,0:13:24.84,Default,,0,0,0,,Ah, we can't let that happen!
+Dialogue: 0,0:13:25.57,0:13:26.28,Default,,0,0,0,,Hey!
+Dialogue: 0,0:13:26.42,0:13:27.74,Default,,0,0,0,,Mogura-kun!
+Dialogue: 0,0:13:32.21,0:13:33.33,Default,,0,0,0,,I've found a lead, but...
+Dialogue: 0,0:13:41.57,0:13:44.70,Default,,0,0,0,,Papa, can I kill this fox?
+Dialogue: 0,0:13:45.23,0:13:46.63,Default,,0,0,0,,Hey, Papa, this fox... Don't kill it!
+Dialogue: 0,0:13:46.66,0:13:48.77,Default,,0,0,0,,Shhh! That's enough of that!
+Dialogue: 0,0:13:49.34,0:13:50.24,Default,,0,0,0,,No fair!
+Dialogue: 0,0:13:50.36,0:13:53.47,Default,,0,0,0,,I'm the one who wants to get the credit!
+Dialogue: 0,0:13:54.93,0:13:56.24,Default,,0,0,0,,Be good and wait!
+Dialogue: 0,0:13:56.48,0:14:00.72,Default,,0,0,0,,Once I have proof the Prince is a girl, I'll let you strike that fox down immediately!
+Dialogue: 0,0:14:01.12,0:14:02.12,Default,,0,0,0,,Really?!
+Dialogue: 0,0:14:03.72,0:14:04.72,Default,,0,0,0,,Enough already!
+Dialogue: 0,0:14:04.84,0:14:06.65,Default,,0,0,0,,You promised you'd talk once your stomach was full!
+Dialogue: 0,0:14:06.89,0:14:09.65,Default,,0,0,0,,My, humans are so impatient.
+Dialogue: 0,0:14:10.36,0:14:13.36,Default,,0,0,0,,Well, I'll take the rest home as a treat.
+Dialogue: 0,0:14:13.88,0:14:14.90,Default,,0,0,0,,Alright, now talk!
+Dialogue: 0,0:14:15.50,0:14:18.96,Default,,0,0,0,,No. First, we must perform a Fox Tribe ritual.
+Dialogue: 0,0:14:19.66,0:14:20.20,Default,,0,0,0,,A ritual?
+Dialogue: 0,0:14:20.54,0:14:21.54,Default,,0,0,0,,What's that supposed to be?
+Dialogue: 0,0:14:22.15,0:14:25.36,Default,,0,0,0,,It's a ritual to swear that my story is true.
+Dialogue: 0,0:14:25.50,0:14:26.60,Default,,0,0,0,,If you don't mind.
+Dialogue: 0,0:14:28.92,0:14:32.35,Default,,0,0,0,,A few sulfur rock fragments and a pile of juniper leaves.
+Dialogue: 0,0:14:32.69,0:14:34.28,Default,,0,0,0,,You're going to do a ritual with {\i1}that{\i0}?
+Dialogue: 0,0:14:34.28,0:14:35.44,Default,,0,0,0,,Nylon!
+Dialogue: 0,0:14:36.04,0:14:38.22,Default,,0,0,0,,Never mind that, hurry up and gather them!
+Dialogue: 0,0:14:38.27,0:14:40.75,Default,,0,0,0,,Can I beat him up when we're finished?
+Dialogue: 0,0:14:50.69,0:14:54.16,Default,,0,0,0,,Now, Lord Nylon, please light the fire.
+Dialogue: 0,0:14:54.66,0:14:55.22,Default,,0,0,0,,Light it?
+Dialogue: 0,0:14:55.63,0:14:59.64,Default,,0,0,0,,It's to offer a prayer to our Ancestral Fairy. Go ahead and light it.
+Dialogue: 0,0:15:15.82,0:15:17.32,Default,,0,0,0,,Whoa! Look at all this smoke!
+Dialogue: 0,0:15:18.17,0:15:20.06,Default,,0,0,0,,Look, Zuru's gone!
+Dialogue: 0,0:15:22.52,0:15:23.52,Default,,0,0,0,,Search!
+Dialogue: 0,0:15:23.61,0:15:24.25,Default,,0,0,0,,Search!
+Dialogue: 0,0:15:52.26,0:15:53.90,Default,,0,0,0,,Oh, I got it, Mogura-kun.
+Dialogue: 0,0:15:54.95,0:15:57.51,Default,,0,0,0,,Alright, I've got it, I've got it!
+Dialogue: 0,0:15:58.90,0:15:59.83,Default,,0,0,0,,It's Tink!
+Dialogue: 0,0:16:00.43,0:16:01.52,Default,,0,0,0,,Tink!
+Dialogue: 0,0:16:03.36,0:16:04.89,Default,,0,0,0,,Hey, did you find Zuru?
+Dialogue: 0,0:16:06.56,0:16:08.38,Default,,0,0,0,,Mogura-kun told me.
+Dialogue: 0,0:16:08.75,0:16:10.22,Default,,0,0,0,,He said she's near the swamp.
+Dialogue: 0,0:16:11.28,0:16:12.28,Default,,0,0,0,,There she is!
+Dialogue: 0,0:16:13.76,0:16:14.76,Default,,0,0,0,,Zuru!
+Dialogue: 0,0:16:15.24,0:16:16.42,Default,,0,0,0,,You won't get away this time!
+Dialogue: 0,0:16:16.98,0:16:20.95,Default,,0,0,0,,Please forgive me, sir! I can't die in a place like this!
+Dialogue: 0,0:16:21.21,0:16:23.34,Default,,0,0,0,,My sweet children are waiting for me!
+Dialogue: 0,0:16:23.56,0:16:24.70,Default,,0,0,0,,Trying to play the pity card, Zuru?
+Dialogue: 0,0:16:25.15,0:16:27.08,Default,,0,0,0,,I won't be fooled by a fox ever again!
+Dialogue: 0,0:16:28.00,0:16:30.82,Default,,0,0,0,,I don't want to die, I don't want to die, I don't want to die!
+Dialogue: 0,0:16:31.07,0:16:33.50,Default,,0,0,0,,My three babies will die too!
+Dialogue: 0,0:16:36.61,0:16:38.62,Default,,0,0,0,,My little ones, your mother is going to be killed...
+Dialogue: 0,0:16:38.78,0:16:41.00,Default,,0,0,0,,...by these heartless humans.
+Dialogue: 0,0:16:42.28,0:16:43.48,Default,,0,0,0,,Is that true?
+Dialogue: 0,0:16:43.62,0:16:45.12,Default,,0,0,0,,Is there really a child like that?
+Dialogue: 0,0:16:46.21,0:16:46.88,Default,,0,0,0,,It's true.
+Dialogue: 0,0:16:47.19,0:16:49.70,Default,,0,0,0,,A cute little thing like you?
+Dialogue: 0,0:16:51.82,0:16:52.82,Default,,0,0,0,,What are you doing, you cheat?!
+Dialogue: 0,0:16:53.41,0:16:57.99,Default,,0,0,0,,As you can see, if you don't want your friend to get bitten, disarm the trap...
+Dialogue: 0,0:17:00.23,0:17:02.76,Default,,0,0,0,,Take it off, Princess.
+Dialogue: 0,0:17:09.26,0:17:12.48,Default,,0,0,0,,I'll hold onto this child for later.
+Dialogue: 0,0:17:13.65,0:17:15.98,Default,,0,0,0,,Ugh, that golden fox! Now I'm really mad!
+Dialogue: 0,0:17:16.64,0:17:17.64,Default,,0,0,0,,Go!
+Dialogue: 0,0:17:40.60,0:17:42.91,Default,,0,0,0,,Zuru, wait!
+Dialogue: 0,0:18:09.60,0:18:10.22,Default,,0,0,0,,Oh, Zuru.
+Dialogue: 0,0:18:10.32,0:18:12.35,Default,,0,0,0,,Just surrender quietly.
+Dialogue: 0,0:18:13.14,0:18:13.49,Default,,0,0,0,,Ouch!
+Dialogue: 0,0:18:14.55,0:18:17.32,Default,,0,0,0,,Shoot if you dare. This kid will die with me.
+Dialogue: 0,0:18:17.46,0:18:18.46,Default,,0,0,0,,Fine by me.
+Dialogue: 0,0:18:20.30,0:18:23.71,Default,,0,0,0,,A dead kid or two won't bother us at all.
+Dialogue: 0,0:18:25.37,0:18:28.00,Default,,0,0,0,,Humans are so much worse than foxes.
+Dialogue: 0,0:18:33.14,0:18:36.00,Default,,0,0,0,,Alright. Just capture me already.
+Dialogue: 0,0:18:38.13,0:18:41.18,Default,,0,0,0,,Don't listen to Nylon's orders!
+Dialogue: 0,0:18:43.06,0:18:43.78,Default,,0,0,0,,Ouch!
+Dialogue: 0,0:18:46.29,0:18:47.78,Default,,0,0,0,,There's no escaping now.
+Dialogue: 0,0:18:48.50,0:18:49.88,Default,,0,0,0,,I'm no fool, you know.
+Dialogue: 0,0:18:50.06,0:18:51.78,Default,,0,0,0,,I only run when I can get away.
+Dialogue: 0,0:18:54.42,0:18:55.62,Default,,0,0,0,,Whoa, a bear!
+Dialogue: 0,0:19:04.82,0:19:06.23,Default,,0,0,0,,My babies!
+Dialogue: 0,0:19:28.75,0:19:29.82,Default,,0,0,0,,My babies!
+Dialogue: 0,0:19:30.94,0:19:32.94,Default,,0,0,0,,After her! After her!
+Dialogue: 0,0:19:48.06,0:19:49.34,Default,,0,0,0,,Watch out! Both of you!
+Dialogue: 0,0:19:49.82,0:19:51.64,Default,,0,0,0,,Zuru's going to be killed!
+Dialogue: 0,0:19:54.92,0:19:58.04,Default,,0,0,0,,Can't win with brains, so you're resorting to brute force, huh?
+Dialogue: 0,0:20:06.92,0:20:09.16,Default,,0,0,0,,So the story about the three babies wasn't a lie!
+Dialogue: 0,0:20:11.95,0:20:13.43,Default,,0,0,0,,Zuru, I'll save you!
+Dialogue: 0,0:20:15.97,0:20:18.32,Default,,0,0,0,,Was Sapphire after Zuru too?
+Dialogue: 0,0:20:19.44,0:20:21.54,Default,,0,0,0,,Alright, big guy, you're fighting me!
+Dialogue: 0,0:20:22.27,0:20:24.24,Default,,0,0,0,,Zuru, stay there and protect the babies.
+Dialogue: 0,0:20:51.00,0:20:52.66,Default,,0,0,0,,I have to hurry and help Sapphire!
+Dialogue: 0,0:21:03.51,0:21:04.80,Default,,0,0,0,,Look, look, look!
+Dialogue: 0,0:21:16.38,0:21:18.92,Default,,0,0,0,,Did you come to help me too, Mr. Mole?
+Dialogue: 0,0:21:25.78,0:21:27.45,Default,,0,0,0,,Hooray!
+Dialogue: 0,0:21:28.81,0:21:29.81,Default,,0,0,0,,Hooray!
+Dialogue: 0,0:21:29.90,0:21:31.02,Default,,0,0,0,,Hooray!
+Dialogue: 0,0:21:31.04,0:21:33.10,Default,,0,0,0,,You saved me, Master Sapphire!
+Dialogue: 0,0:21:34.21,0:21:35.34,Default,,0,0,0,,Well, bravo!
+Dialogue: 0,0:21:37.29,0:21:38.46,Default,,0,0,0,,Are you okay, Sapphire?
+Dialogue: 0,0:21:39.84,0:21:41.32,Default,,0,0,0,,It's okay, Tink.
+Dialogue: 0,0:21:41.97,0:21:43.97,Default,,0,0,0,,Still, I wonder if Kuma-san is okay.
+Dialogue: 0,0:21:44.42,0:21:45.42,Default,,0,0,0,,I'll go check!
+Dialogue: 0,0:21:45.56,0:21:46.86,Default,,0,0,0,,You sure are busy, Tink.
+Dialogue: 0,0:21:51.44,0:21:52.78,Default,,0,0,0,,Are you okay, Kuma-san?
+Dialogue: 0,0:21:53.37,0:21:55.32,Default,,0,0,0,,That was a fine display of fighting.
+Dialogue: 0,0:21:55.66,0:21:58.86,Default,,0,0,0,,But that fox is my son Plastic's prey!
+Dialogue: 0,0:21:59.23,0:22:01.42,Default,,0,0,0,,Hand her over at once.
+Dialogue: 0,0:22:01.76,0:22:02.76,Default,,0,0,0,,What?
+Dialogue: 0,0:22:05.86,0:22:07.48,Default,,0,0,0,,You'll never get your hands on Zuru!
+Dialogue: 0,0:22:07.99,0:22:09.46,Default,,0,0,0,,Especially not someone like you!
+Dialogue: 0,0:22:11.55,0:22:14.72,Default,,0,0,0,,Regardless of what you say, Zuru will come to us.
+Dialogue: 0,0:22:14.96,0:22:19.16,Default,,0,0,0,,It's better than having her beloved children killed alongside her.
+Dialogue: 0,0:22:19.28,0:22:20.34,Default,,0,0,0,,Right, Zuru?
+Dialogue: 0,0:22:23.39,0:22:24.64,Default,,0,0,0,,Zuru, don't go!
+Dialogue: 0,0:22:24.92,0:22:25.92,Default,,0,0,0,,You can't!
+Dialogue: 0,0:22:37.05,0:22:39.12,Default,,0,0,0,,Master Sapphire is actually...
+Dialogue: 0,0:22:39.15,0:22:39.97,Default,,0,0,0,,Actually?
+Dialogue: 0,0:22:40.37,0:22:41.37,Default,,0,0,0,,...a boy.
+Dialogue: 0,0:22:41.39,0:22:42.17,Default,,0,0,0,,What?
+Dialogue: 0,0:22:42.79,0:22:43.80,Default,,0,0,0,,Don't lie to me!
+Dialogue: 0,0:22:43.94,0:22:45.49,Default,,0,0,0,,For you, this is your...
+Dialogue: 0,0:22:45.51,0:22:46.32,Default,,0,0,0,,..WEAK SPOT
+Dialogue: 0,0:22:46.35,0:22:47.86,Default,,0,0,0,,You betrayed me!
+Dialogue: 0,0:22:47.90,0:22:48.40,Default,,0,0,0,,I don't care!
+Dialogue: 0,0:22:48.41,0:22:50.30,Default,,0,0,0,,Kill both parent and children!
+Dialogue: 0,0:23:01.95,0:23:03.10,Default,,0,0,0,,Help!
+Dialogue: 0,0:23:05.57,0:23:06.97,Default,,0,0,0,,Thank you very much, Kuma-san.
+Dialogue: 0,0:23:12.38,0:23:13.16,Default,,0,0,0,,Goodbye.
+Dialogue: 0,0:23:13.37,0:23:18.14,Default,,0,0,0,,Let's not meet again. It's for the best. A fox is a fox, and a human is a human.
+Dialogue: 0,0:23:19.56,0:23:21.88,Default,,0,0,0,,You saved me, I saved you. We're even.
+Dialogue: 0,0:23:21.95,0:23:24.16,Default,,0,0,0,,It's best if we say goodbye now.
+Dialogue: 0,0:23:27.12,0:23:27.91,Default,,0,0,0,,Goodbye!
+Dialogue: 0,0:23:28.24,0:23:28.99,Default,,0,0,0,,Goodbye!
+Dialogue: 0,0:23:29.17,0:23:30.26,Default,,0,0,0,,Take care, everyone!
+Dialogue: 0,0:23:37.60,0:23:40.64,Default,,0,0,0,,Your Highness, I heard you fought a golden fox?
+Dialogue: 0,0:23:41.13,0:23:42.92,Default,,0,0,0,,Yeah, though I let her get away.
+Dialogue: 0,0:23:43.50,0:23:45.90,Default,,0,0,0,,As expected of the Prince, a fine kill... Huh?
+Dialogue: 0,0:23:47.42,0:23:48.67,Default,,0,0,0,,What did you say?
+Dialogue: 0,0:23:49.29,0:23:50.64,Default,,0,0,0,,I let her get away.
+Dialogue: 0,0:23:51.08,0:23:52.66,Default,,0,0,0,,Oh, you let him get away!
 Dialogue: 0,0:24:24.82,0:24:28.44,Karaoke,,0,0,0,,{\k29}{\k22}Ta{\k18}ra{\k16}ri {\k18}Ra{\k20}tta {\k23}Ri{\k19}tta {\k26}Ra{\k17}tta {\k19}Ra{\k66}tta{\k69}ttaa
 Dialogue: 0,0:24:28.44,0:24:31.80,Karaoke,,0,0,0,,{\k8}{\k46}Kya{\k68}hoo! {\k35}Kya{\k42}hoo! {\k46}Kya{\k91}hoo!
 Dialogue: 0,0:24:28.44,0:24:31.80,OPED_Translation,,0,0,0,,Yahoo! Yahoo! Yahoo!

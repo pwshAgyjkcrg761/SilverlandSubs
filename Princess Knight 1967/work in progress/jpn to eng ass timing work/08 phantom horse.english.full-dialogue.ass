@@ -14,8 +14,8 @@ Audio File: 08 the flying horse.mkv
 Video File: 08 the flying horse.mkv
 Video AR Mode: 4
 Video AR Value: 1.314554
-Scroll Position: 3
-Active Line: 18
+Scroll Position: 282
+Active Line: 287
 Video Position: 950
 
 [V4+ Styles]
@@ -49,247 +49,270 @@ Dialogue: 0,0:01:25.22,0:01:28.62,Karaoke,,0,0,0,,{\k6}{\k50}Hon{\k43}to {\k33}w
 Dialogue: 0,0:01:25.22,0:01:28.62,OPED_Translation,,0,0,0,,Truly, truly,
 Dialogue: 0,0:01:28.62,0:01:31.82,Karaoke,,0,0,0,,{\k18}{\k23}A{\k23}ta{\k27}shi {\k35}na{\k35}no {\k159}sa{\k0}
 Dialogue: 0,0:01:28.62,0:01:31.82,OPED_Translation,,0,0,0,,It’s really me!
-Dialogue: 0,0:01:44.10,0:01:50.14,Default,,0,0,0,,Eighth Episode\NThe Winged Horse
-Dialogue: 0,0:02:22.02,0:02:25.17,Default,,0,0,0,,Where am I?\NI recognize that one!
-Dialogue: 0,0:02:25.22,0:02:29.58,Default,,0,0,0,,It's the ship that carries to Earth\Nthe children who are to be born.
-Dialogue: 0,0:02:29.74,0:02:32.10,Default,,0,0,0,,I get it: I'm in Heaven!
-Dialogue: 0,0:02:32.74,0:02:34.73,Default,,0,0,0,,There, that's me!
-Dialogue: 0,0:02:39.54,0:02:41.53,Default,,0,0,0,,What a naughty little angel I was!
-Dialogue: 0,0:02:42.62,0:02:44.61,Default,,0,0,0,,I was always causing a lot of trouble.
-Dialogue: 0,0:02:44.66,0:02:48.42,Default,,0,0,0,,But I just wanted to have fun!\NLife, up there, is so monotonous!
-Dialogue: 0,0:02:59.62,0:03:01.61,Default,,0,0,0,,These are the little\Nhearts of the children.
-Dialogue: 0,0:03:01.66,0:03:04.65,Default,,0,0,0,,The Lord divides them\Nlike this: boys and girls.
-Dialogue: 0,0:03:04.78,0:03:07.01,Default,,0,0,0,,Come on, little one, open your mouth.
-Dialogue: 0,0:03:07.90,0:03:11.94,Default,,0,0,0,,Those who swallow the\Nhearts blue will be little boys,
-Dialogue: 0,0:03:11.98,0:03:15.82,Default,,0,0,0,,Those, on the other hand, who have pink\Nhearts will be little girls. Here!
-Dialogue: 0,0:03:15.86,0:03:18.58,Default,,0,0,0,,I stole a blue heart\Nfrom the basket!
-Dialogue: 0,0:03:19.38,0:03:22.13,Default,,0,0,0,,Hey, listen! Would you like\Nto be a little boy?
-Dialogue: 0,0:03:22.18,0:03:24.22,Default,,0,0,0,,I don't know what advantage there would be
-Dialogue: 0,0:03:24.26,0:03:26.01,Default,,0,0,0,,I will make a little boy out of you!
-Dialogue: 0,0:03:27.50,0:03:30.17,Default,,0,0,0,,What hard work!\NFinally, I'm almost finished.
-Dialogue: 0,0:03:30.22,0:03:33.21,Default,,0,0,0,,Well, let's see...\NYou have a cute little face.
-Dialogue: 0,0:03:33.26,0:03:35.73,Default,,0,0,0,,I will make you a beautiful little girl!
-Dialogue: 0,0:03:35.78,0:03:37.69,Default,,0,0,0,,But I have already swallowed\Na blue heart.
-Dialogue: 0,0:03:38.18,0:03:42.25,Default,,0,0,0,,What did you say? It must have been\NTink who made this mess!
-Dialogue: 0,0:03:42.30,0:03:45.82,Default,,0,0,0,,- Where did you hide?\N- Forgive me, Lord!
-Dialogue: 0,0:03:45.86,0:03:48.46,Default,,0,0,0,,You little rascal! Do you know that now,\Nbecause of you, that child...
-Dialogue: 0,0:03:48.50,0:03:52.73,Default,,0,0,0,,won't know if he will have to live as a\Nlittle boy or as a little girl?
-Dialogue: 0,0:03:52.82,0:03:55.65,Default,,0,0,0,,Go to Earth\Nand take a heart from him!
-Dialogue: 0,0:03:55.78,0:03:58.01,Default,,0,0,0,,this is your punishment!
-Dialogue: 0,0:04:01.22,0:04:03.34,Default,,0,0,0,,Thank goodness I was only dreaming!
-Dialogue: 0,0:04:03.38,0:04:06.10,Default,,0,0,0,,But what I was dreaming\Nactually happened to me.
-Dialogue: 0,0:04:07.10,0:04:08.93,Default,,0,0,0,,I'm so sleepy!
-Dialogue: 0,0:04:49.42,0:04:52.41,Default,,0,0,0,,Tink! Tink, wake up!
-Dialogue: 0,0:05:00.54,0:05:02.61,Default,,0,0,0,,Who is playing these pranks?
-Dialogue: 0,0:05:02.66,0:05:04.46,Default,,0,0,0,,It's me, Tink!
-Dialogue: 0,0:05:07.62,0:05:12.09,Default,,0,0,0,,Pegasus! I am glad to see you\Nafter all this time! How are you?
-Dialogue: 0,0:05:12.14,0:05:14.42,Default,,0,0,0,,What have you come to\Ndo down here, on Earth?
-Dialogue: 0,0:05:14.46,0:05:16.90,Default,,0,0,0,,In Heaven,\Ndoes the Lord remember me?
-Dialogue: 0,0:05:16.94,0:05:19.09,Default,,0,0,0,,Is something wrong, Pegasus?
-Dialogue: 0,0:05:19.14,0:05:21.42,Default,,0,0,0,,You have not yet done\Nwhat God wanted from you.
-Dialogue: 0,0:05:21.46,0:05:24.02,Default,,0,0,0,,The Lord has lost His\Npatience and has tasked me...
-Dialogue: 0,0:05:24.06,0:05:27.53,Default,,0,0,0,,...to take the blue heart of\NSapphire and bring it back to Heaven.
-Dialogue: 0,0:05:27.58,0:05:30.25,Default,,0,0,0,,Wait a moment, Pegasus! It is\Nnot my fault if I haven't taken it yet!
-Dialogue: 0,0:05:30.30,0:05:32.29,Default,,0,0,0,,I've had a series of difficulties!
-Dialogue: 0,0:05:32.34,0:05:34.86,Default,,0,0,0,,I know well\Neverything that has happened.
-Dialogue: 0,0:05:34.90,0:05:38.05,Default,,0,0,0,,From Heaven I can see\Neverything that happens on Earth.
-Dialogue: 0,0:05:38.14,0:05:40.37,Default,,0,0,0,,God's command is absolute.
-Dialogue: 0,0:05:40.42,0:05:42.94,Default,,0,0,0,,I am forced to take over\Nyour duties, Tink,
-Dialogue: 0,0:05:42.98,0:05:45.02,Default,,0,0,0,,and you will never again\Nbe an angel.
-Dialogue: 0,0:05:45.06,0:05:47.02,Default,,0,0,0,,Wait, Pegasus! I...
-Dialogue: 0,0:06:06.42,0:06:08.49,Default,,0,0,0,,How inconvenient it is to be a child!
-Dialogue: 0,0:06:08.54,0:06:10.58,Default,,0,0,0,,If I had the little wings\NI had in Heaven,
-Dialogue: 0,0:06:10.62,0:06:12.61,Default,,0,0,0,,I could fly instead of walking!
-Dialogue: 0,0:06:12.66,0:06:15.65,Default,,0,0,0,,Who knows, maybe I can still\Nfly! I want to try!
-Dialogue: 0,0:06:17.46,0:06:20.37,Default,,0,0,0,,No luck! On Earth\Nit's a completely different thing!
-Dialogue: 0,0:06:21.26,0:06:25.17,Default,,0,0,0,,- There are people!\N- Look, a winged horse!
-Dialogue: 0,0:06:25.22,0:06:28.34,Default,,0,0,0,,- How beautiful he is!\N- Magnificent!
-Dialogue: 0,0:06:29.02,0:06:31.74,Default,,0,0,0,,Look! How wonderful!
-Dialogue: 0,0:06:31.78,0:06:34.25,Default,,0,0,0,,They say he lives in Heaven!
-Dialogue: 0,0:06:43.02,0:06:46.22,Default,,0,0,0,,Oh, no! Pegasus is going to the castle!\NSapphire is in danger!
-Dialogue: 0,0:06:53.66,0:06:57.02,Default,,0,0,0,,Your Majesty! Something extraordinary!\NA marvel!
-Dialogue: 0,0:06:57.06,0:06:59.62,Default,,0,0,0,,A horse flying\Ntoward the castle!
-Dialogue: 0,0:06:59.66,0:07:02.02,Default,,0,0,0,,What?! It must be Pegasus!
-Dialogue: 0,0:07:02.06,0:07:04.66,Default,,0,0,0,,- He's almost above us!\N- Let's go see!
-Dialogue: 0,0:07:14.70,0:07:16.69,Default,,0,0,0,,It's Pegasus, the winged horse!
-Dialogue: 0,0:07:16.74,0:07:19.46,Default,,0,0,0,,- What a magnificent beast!\N- A unique sight in the world!
-Dialogue: 0,0:07:19.50,0:07:22.22,Default,,0,0,0,,Perhaps he has come to bring\Nhappiness to our kingdom.
-Dialogue: 0,0:07:22.26,0:07:24.57,Default,,0,0,0,,It is said that Pegasus\Nalways brings happiness.
-Dialogue: 0,0:07:24.62,0:07:27.50,Default,,0,0,0,,What makes you think\Nthat he has come for this reason?
-Dialogue: 0,0:07:28.02,0:07:31.25,Default,,0,0,0,,A legend states\Nthat the countries where Pegasus descends...
-Dialogue: 0,0:07:31.30,0:07:34.66,Default,,0,0,0,,...become prosperous and happy,\Nso I hope he comes to us.
-Dialogue: 0,0:07:36.42,0:07:38.46,Default,,0,0,0,,I didn't know this legend
-Dialogue: 0,0:07:39.34,0:07:42.06,Default,,0,0,0,,Pegasus is flying away!\NI must make him come here!
-Dialogue: 0,0:08:06.90,0:08:10.81,Default,,0,0,0,,Sapphire! Sapphire!\NI must catch up to him!
-Dialogue: 0,0:08:11.30,0:08:14.02,Default,,0,0,0,,Tink! Help me make\NPegasus come back!
-Dialogue: 0,0:08:14.06,0:08:16.10,Default,,0,0,0,,They say he brings happiness\Nwith him!
-Dialogue: 0,0:08:16.14,0:08:18.58,Default,,0,0,0,,- He brings happiness?\N- Yes! A legend says..
-Dialogue: 0,0:08:18.62,0:08:20.90,Default,,0,0,0,,...that wherever he\Nlands happiness arrives!
-Dialogue: 0,0:08:20.94,0:08:23.46,Default,,0,0,0,,Pegasus will not bring you\Nwhat you are hoping for, Sapphire!
-Dialogue: 0,0:08:23.50,0:08:27.41,Default,,0,0,0,,He has come to Earth to make\Nyou become completely a girl!
-Dialogue: 0,0:08:41.34,0:08:44.89,Default,,0,0,0,,What damn good luck to have heard\Nabout the legend of the winged horse!
-Dialogue: 0,0:09:59.86,0:10:02.82,Default,,0,0,0,,I've lost sight of him! I\Nmust try to find him again!
-Dialogue: 0,0:10:02.86,0:10:05.69,Default,,0,0,0,,Listen to me: Pegasus will\Nnot bring you happiness.
-Dialogue: 0,0:10:05.74,0:10:07.81,Default,,0,0,0,,Don't interfere! A\Nhorse, even a winged one,
-Dialogue: 0,0:10:07.86,0:10:11.09,Default,,0,0,0,,He can't do what you say! He\Ncan't have gone too far!
-Dialogue: 0,0:10:11.54,0:10:13.82,Default,,0,0,0,,Ah, there he is up there! He won't get away from me!
-Dialogue: 0,0:10:16.54,0:10:20.77,Default,,0,0,0,,The moment I've been waiting for has arrived:\Nfinally Sapphire is left alone!
-Dialogue: 0,0:10:26.94,0:10:29.54,Default,,0,0,0,,Damn!\NWhat could have happened?
-Dialogue: 0,0:10:29.58,0:10:32.54,Default,,0,0,0,,Just as I was\Nabout to capture the winged horse...
-Dialogue: 0,0:10:34.22,0:10:36.45,Default,,0,0,0,,What? A net?!
-Dialogue: 0,0:10:36.90,0:10:39.02,Default,,0,0,0,,I must find out who did it!
-Dialogue: 0,0:10:42.90,0:10:46.29,Default,,0,0,0,,It's strange... I was sure\Nthere was someone here!
-Dialogue: 0,0:10:48.02,0:10:51.57,Default,,0,0,0,,- Baron Nylon! - Hello, Prince!\NWhat are you doing in these parts?
-Dialogue: 0,0:10:51.62,0:10:53.82,Default,,0,0,0,,I'm looking for a winged horse!\NHave you seen it?
-Dialogue: 0,0:10:53.86,0:10:56.06,Default,,0,0,0,,You must be joking?!\NA winged horse?!
-Dialogue: 0,0:10:56.10,0:10:59.65,Default,,0,0,0,,Yes! Pegasus, the horse that\Nbrings happiness wherever he lands!
-Dialogue: 0,0:10:59.70,0:11:02.01,Default,,0,0,0,,But I fear they've captured him.\NDo you know anything about it?
-Dialogue: 0,0:11:02.06,0:11:05.02,Default,,0,0,0,,No, Prince! I was passing by here\Nby chance and saw nothing.
-Dialogue: 0,0:11:05.34,0:11:07.62,Default,,0,0,0,,If this horse\Nbrings happiness,
-Dialogue: 0,0:11:07.66,0:11:09.49,Default,,0,0,0,,I hope you find him\Nas soon as possible.
-Dialogue: 0,0:11:09.54,0:11:11.50,Default,,0,0,0,,Goodbye, Prince.
-Dialogue: 0,0:11:15.82,0:11:18.26,Default,,0,0,0,,It was easy to deceive\Nthat stupid brat!
-Dialogue: 0,0:11:19.50,0:11:22.17,Default,,0,0,0,,He has no idea that it was\Nme who captured Pegasus!
-Dialogue: 0,0:11:23.18,0:11:25.46,Default,,0,0,0,,I've had a splendid idea!
-Dialogue: 0,0:11:40.26,0:11:42.82,Default,,0,0,0,,It's not bad, this magical\Nhouse of the Grand Duke.
-Dialogue: 0,0:11:49.42,0:11:53.02,Default,,0,0,0,,First I scared the brat with\Nthe dynamite that I was given...
-Dialogue: 0,0:11:53.06,0:11:55.34,Default,,0,0,0,,...and then I managed\Nto capture that horse.
-Dialogue: 0,0:11:55.90,0:11:58.26,Default,,0,0,0,,I have never seen\Nsuch a splendid horse!
-Dialogue: 0,0:11:58.30,0:12:01.50,Default,,0,0,0,,Nylon, are you really sure\Nthat it will bring us happiness?
-Dialogue: 0,0:12:02.02,0:12:04.14,Default,,0,0,0,,But of course, Baron Duralumin!
-Dialogue: 0,0:12:04.58,0:12:06.70,Default,,0,0,0,,Let go of my nose right now!
-Dialogue: 0,0:12:06.74,0:12:08.89,Default,,0,0,0,,Bites on my nose\Ndo not make me happy!
-Dialogue: 0,0:12:08.94,0:12:10.90,Default,,0,0,0,,You are an idiot!
-Dialogue: 0,0:12:10.94,0:12:13.46,Default,,0,0,0,,Please calm down!\NDon't take it out on me!
-Dialogue: 0,0:12:13.50,0:12:15.86,Default,,0,0,0,,After all, I brought you\Na one-of-a-kind horse!
-Dialogue: 0,0:12:15.90,0:12:18.21,Default,,0,0,0,,I've had a great idea,\Ndear Grand Duke!
-Dialogue: 0,0:12:18.26,0:12:20.38,Default,,0,0,0,,- Listen to me!\N- What?
-Dialogue: 0,0:12:20.42,0:12:22.49,Default,,0,0,0,,- Sapphire is...?\N- Yes, yes!
-Dialogue: 0,0:12:23.02,0:12:24.82,Default,,0,0,0,,Looking for that horse!
-Dialogue: 0,0:12:24.86,0:12:27.06,Default,,0,0,0,,This is a great opportunity\Nto eliminate the Prince!
-Dialogue: 0,0:12:27.10,0:12:31.14,Default,,0,0,0,,Good! Baron Nylon, you\Nare smarter than I thought!
-Dialogue: 0,0:12:31.18,0:12:33.22,Default,,0,0,0,,Thank you for the compliment!
-Dialogue: 0,0:12:41.58,0:12:45.29,Default,,0,0,0,,See? We just need to choose the\None that looks the most like Pegasus!
-Dialogue: 0,0:12:45.34,0:12:47.22,Default,,0,0,0,,Not this one, not this one.
-Dialogue: 0,0:12:47.26,0:12:50.49,Default,,0,0,0,,Definitely not: its muzzle\Nis a bit too rounded.
-Dialogue: 0,0:12:50.66,0:12:54.05,Default,,0,0,0,,Of this other colt, however,\Nit's the eyes that I don't like.
-Dialogue: 0,0:12:54.22,0:12:56.42,Default,,0,0,0,,It will have to be a\Nvery elegant horse.
-Dialogue: 0,0:12:57.02,0:12:59.82,Default,,0,0,0,,But they are all elegant like\Nthis! Which one to choose?
-Dialogue: 0,0:13:09.42,0:13:11.62,Default,,0,0,0,,I've finished! Admire\Nmy masterpiece!
-Dialogue: 0,0:13:11.78,0:13:15.01,Default,,0,0,0,,Yes, you've done a good\Njob. I admire your skill.
-Dialogue: 0,0:13:15.06,0:13:17.42,Default,,0,0,0,,Now there is nothing left\Nfor us to do but put this wasp...
-Dialogue: 0,0:13:17.46,0:13:19.93,Default,,0,0,0,,...into the ear of the\Nfake Pegasus and wait.
-Dialogue: 0,0:13:19.98,0:13:22.02,Default,,0,0,0,,I've anesthetized it, but\Nas soon as it wakes up...
-Dialogue: 0,0:13:22.06,0:13:24.02,Default,,0,0,0,,...it will start\Nbuzzing in its ear!
-Dialogue: 0,0:13:24.06,0:13:26.29,Default,,0,0,0,,And when Sapphire sees the horse\Non the ground, she will think that...
-Dialogue: 0,0:14:07.34,0:14:09.54,Default,,0,0,0,,I wonder if I'll be\Nable to find Pegasus..!
-Dialogue: 0,0:14:09.94,0:14:11.74,Default,,0,0,0,,He's on the tower!
-Dialogue: 0,0:14:12.02,0:14:15.09,Default,,0,0,0,,Wait, Sapphire! Listen!\NThat Pegasus is fake!
-Dialogue: 0,0:14:15.14,0:14:17.18,Default,,0,0,0,,That horse's wings are fake!
-Dialogue: 0,0:14:17.22,0:14:20.05,Default,,0,0,0,,Listen! Sapphire, wait!
-Dialogue: 0,0:14:21.02,0:14:23.01,Default,,0,0,0,,I managed to catch you!
-Dialogue: 0,0:14:23.42,0:14:26.22,Default,,0,0,0,,Soon, the wasp should\Nwake up and then...
-Dialogue: 0,0:14:26.82,0:14:28.81,Default,,0,0,0,,Come on, little horse!\NStart flying!
-Dialogue: 0,0:14:28.86,0:14:30.82,Default,,0,0,0,,Three, two, one... Here we go!
-Dialogue: 0,0:14:30.86,0:14:34.30,Default,,0,0,0,,Hey, what are you doing?\NWhat's happening to you?
-Dialogue: 0,0:14:35.42,0:14:37.41,Default,,0,0,0,,Stop!
-Dialogue: 0,0:14:38.54,0:14:42.30,Default,,0,0,0,,Don't jump like that, please!\NStop!
-Dialogue: 0,0:14:44.70,0:14:47.17,Default,,0,0,0,,Help!
-Dialogue: 0,0:14:51.78,0:14:55.41,Default,,0,0,0,,Sapphire, hold on! Don't fall!\NWhat can I do? Hold on, please!
-Dialogue: 0,0:14:56.02,0:14:58.62,Default,,0,0,0,,Calm down, come on!\NDon't fret, little horse!
-Dialogue: 0,0:14:58.66,0:15:00.94,Default,,0,0,0,,He won't make it! Opal, help him!
-Dialogue: 0,0:15:05.94,0:15:11.02,Default,,0,0,0,,Help! Help! Help!
-Dialogue: 0,0:15:15.50,0:15:17.57,Default,,0,0,0,,Good heavens, he's plummeting!
-Dialogue: 0,0:15:20.30,0:15:24.01,Default,,0,0,0,,Thank heaven! Sapphire! Sapphire!
-Dialogue: 0,0:15:24.34,0:15:27.01,Default,,0,0,0,,Sapphire, how are you? Are\Nyou alright? How do you feel?
-Dialogue: 0,0:15:29.30,0:15:31.90,Default,,0,0,0,,It was this wasp\Nthat made the horse bolt.
-Dialogue: 0,0:15:31.94,0:15:35.54,Default,,0,0,0,,Someone put it in his ear\Non purpose to get you killed.
-Dialogue: 0,0:15:35.70,0:15:39.61,Default,,0,0,0,,This colt is not Pegasus. Who\Ncould have set up this trick?
-Dialogue: 0,0:15:39.66,0:15:43.02,Default,,0,0,0,,I'm sure it was Nylon who\Nplayed this other dirty trick on me!
-Dialogue: 0,0:15:46.90,0:15:49.42,Default,,0,0,0,,But why does that damn\Nbrat have to be so lucky?
-Dialogue: 0,0:15:49.46,0:15:51.61,Default,,0,0,0,,I can never finish him off,\Ndamn it!
-Dialogue: 0,0:15:52.34,0:15:55.49,Default,,0,0,0,,- Damn it!\N- Nylon, what are you doing here?
-Dialogue: 0,0:15:56.02,0:15:58.49,Default,,0,0,0,,Hello, Prince!\NI'm taking a walk!
-Dialogue: 0,0:15:58.54,0:16:00.85,Default,,0,0,0,,I see you are well and healthy!\NI'm glad!
-Dialogue: 0,0:16:00.90,0:16:03.73,Default,,0,0,0,,- Goodbye.\N- No, wait!
-Dialogue: 0,0:16:04.26,0:16:07.73,Default,,0,0,0,,And now tell me: why did you\Ndeceive me with that fake Pegasus?
-Dialogue: 0,0:16:07.78,0:16:09.66,Default,,0,0,0,,Where is the real one? Speak!
-Dialogue: 0,0:16:09.70,0:16:11.50,Default,,0,0,0,,But what are you talking about,\NPrince?
-Dialogue: 0,0:16:11.54,0:16:14.01,Default,,0,0,0,,- I assure you I know nothing about it!\N- You are a liar!
-Dialogue: 0,0:16:14.70,0:16:18.01,Default,,0,0,0,,It was you who captured him\Nand you are hiding him yourself!
-Dialogue: 0,0:16:18.06,0:16:21.53,Default,,0,0,0,,If you think so, see for yourself\Nwith your own eyes. Search for him!
-Dialogue: 0,0:16:22.50,0:16:24.94,Default,,0,0,0,,Come, please! I will lead the way.
-Dialogue: 0,0:16:34.02,0:16:35.82,Default,,0,0,0,,Look! Go ahead and look!
-Dialogue: 0,0:16:37.02,0:16:39.74,Default,,0,0,0,,Here... and here! And here!
-Dialogue: 0,0:16:40.38,0:16:42.90,Default,,0,0,0,,That's enough! I'll\Nnever find him this way!
-Dialogue: 0,0:16:42.94,0:16:45.46,Default,,0,0,0,,I will find out where you are\Nkeeping him hidden, Baron Nylon!
-Dialogue: 0,0:16:45.50,0:16:47.25,Default,,0,0,0,,And I will punish you!
-Dialogue: 0,0:16:55.02,0:16:58.14,Default,,0,0,0,,Dear Opal, I still need\Nyour help.
-Dialogue: 0,0:16:58.50,0:17:02.21,Default,,0,0,0,,I am sure that with your sense of smell you\Nwill succeed in finding where Pegasus is.
-Dialogue: 0,0:17:02.26,0:17:04.25,Default,,0,0,0,,Go find him, please!
-Dialogue: 0,0:17:36.22,0:17:38.66,Default,,0,0,0,,- This time you must not fail.\N- Of course not!
-Dialogue: 0,0:17:38.70,0:17:40.29,Default,,0,0,0,,I had already planned\Nthe second move...
-Dialogue: 0,0:17:40.34,0:17:42.25,Default,,0,0,0,,..and the next trap\Nwill be perfect!
-Dialogue: 0,0:17:42.30,0:17:45.02,Default,,0,0,0,,Do you know who we will\Nuse this time? The real Pegasus!
-Dialogue: 0,0:17:49.02,0:17:51.58,Default,,0,0,0,,- Are you Prince Sapphire?\N- Yes, it's me.
-Dialogue: 0,0:17:53.02,0:17:55.30,Default,,0,0,0,,- And who are you?\N- I am a poor old man.
-Dialogue: 0,0:17:55.34,0:17:57.33,Default,,0,0,0,,My brothers and I\Nlive in the woods.
-Dialogue: 0,0:17:57.38,0:17:59.69,Default,,0,0,0,,We saw a winged\Nhorse injured in one leg...
-Dialogue: 0,0:17:59.74,0:18:01.33,Default,,0,0,0,,..at the foot of the mountain..
-Dialogue: 0,0:18:01.38,0:18:03.50,Default,,0,0,0,,...and we wanted to warn\Nyou: maybe that horse is yours.
-Dialogue: 0,0:18:03.58,0:18:06.10,Default,,0,0,0,,But Pegasus heals quickly\Nfrom his wounds.
-Dialogue: 0,0:18:09.02,0:18:11.74,Default,,0,0,0,,- We'll see!\N- He's onto us! Let's finish him off!
-Dialogue: 0,0:18:11.78,0:18:14.01,Default,,0,0,0,,Let's get him!
-Dialogue: 0,0:18:22.50,0:18:25.14,Default,,0,0,0,,Speak! Do you know\Nwhere Nylon put Pegasus?
-Dialogue: 0,0:18:25.18,0:18:28.33,Default,,0,0,0,,- Yes...\N- Then, if you value your life, you will lead me to him!
-Dialogue: 0,0:18:40.90,0:18:42.30,Default,,0,0,0,,There he is!
-Dialogue: 0,0:18:43.02,0:18:46.41,Default,,0,0,0,,It's really him!\NNow you can leave!
-Dialogue: 0,0:18:47.70,0:18:51.41,Default,,0,0,0,,There's the Prince!\NGet ready! He's coming!
-Dialogue: 0,0:18:51.46,0:18:53.74,Default,,0,0,0,,Spring the traps!
-Dialogue: 0,0:18:54.42,0:18:57.54,Default,,0,0,0,,What's happening?\NStop! I'm your colleague!
-Dialogue: 0,0:19:05.62,0:19:08.01,Default,,0,0,0,,Idiots! That's not the Prince!
-Dialogue: 0,0:19:08.06,0:19:11.45,Default,,0,0,0,,- But it looked like him!\N- Why are you such idiots?!
-Dialogue: 0,0:19:11.50,0:19:14.02,Default,,0,0,0,,Here is Sapphire! Are you ready?
-Dialogue: 0,0:19:15.34,0:19:17.25,Default,,0,0,0,,Pull!
-Dialogue: 0,0:19:24.62,0:19:26.29,Default,,0,0,0,,Here I am, Pegasus!
-Dialogue: 0,0:19:31.78,0:19:35.01,Default,,0,0,0,,- Sapphire, we're here!\N- Be careful, Tink!
-Dialogue: 0,0:19:35.06,0:19:37.02,Default,,0,0,0,,I will kill you!
-Dialogue: 0,0:20:11.70,0:20:14.42,Default,,0,0,0,,I've wanted to meet you\Nin person for a long time.
-Dialogue: 0,0:20:14.46,0:20:16.82,Default,,0,0,0,,Today I will take\Nyour life, Prince!
-Dialogue: 0,0:20:23.34,0:20:25.14,Default,,0,0,0,,Have at you!
-Dialogue: 0,0:20:25.90,0:20:28.02,Default,,0,0,0,,I will cut off your head!
-Dialogue: 0,0:20:29.46,0:20:31.02,Default,,0,0,0,,Like this!
-Dialogue: 0,0:20:44.54,0:20:46.93,Default,,0,0,0,,That was a close call,\Nthey almost killed you!
-Dialogue: 0,0:20:47.02,0:20:48.82,Default,,0,0,0,,Pegasus!
-Dialogue: 0,0:20:49.02,0:20:51.09,Default,,0,0,0,,You're safe, Pegasus!
-Dialogue: 0,0:20:51.14,0:20:54.26,Default,,0,0,0,,Please, Sapphire, don't ride\NPegasus! It's dangerous!
-Dialogue: 0,0:21:02.02,0:21:06.01,Default,,0,0,0,,Stop, Pegasus! Wait, Sapphire!\NListen to me!
-Dialogue: 0,0:21:10.18,0:21:14.02,Default,,0,0,0,,Sapphire, get down! You don't know what\Nyou're doing! It's starting to rain...!
-Dialogue: 0,0:21:16.54,0:21:19.21,Default,,0,0,0,,Tink! Tink!
-Dialogue: 0,0:21:20.50,0:21:22.25,Default,,0,0,0,,Sapphire!
-Dialogue: 0,0:21:31.22,0:21:34.37,Default,,0,0,0,,Look, Opal: they are heading\Ntowards that church on the mountain!
-Dialogue: 0,0:22:04.34,0:22:06.25,Default,,0,0,0,,And now what do you want to do?
-Dialogue: 0,0:22:16.10,0:22:19.09,Default,,0,0,0,,Stop, Pegasus!\NDon't take the blue heart!
-Dialogue: 0,0:22:19.14,0:22:21.29,Default,,0,0,0,,If you take it away from her,\Nshe will be killed by the evil ones..
-Dialogue: 0,0:22:21.34,0:22:24.14,Default,,0,0,0,,...who want to take over\Nher kingdom! Do you understand, Pegasus?
-Dialogue: 0,0:22:24.30,0:22:26.50,Default,,0,0,0,,Sapphire must remain\Nwith a male heart,
-Dialogue: 0,0:22:26.54,0:22:29.58,Default,,0,0,0,,until she defeats the enemies\Nwho lurk among her people!
-Dialogue: 0,0:22:29.62,0:22:32.01,Default,,0,0,0,,That is why she prefers\Nto have a boy's heart!
-Dialogue: 0,0:22:32.06,0:22:34.62,Default,,0,0,0,,Otherwise the people\Nwill fall into the hands of the wicked!
-Dialogue: 0,0:22:34.66,0:22:37.49,Default,,0,0,0,,Leave Sapphire as she is\Nuntil she has rendered them harmless!
-Dialogue: 0,0:22:37.54,0:22:40.85,Default,,0,0,0,,If you insist on wanting to take from her\Nthe heart I gave her in Heaven,
-Dialogue: 0,0:22:40.90,0:22:42.89,Default,,0,0,0,,I will fight you to prevent it!
-Dialogue: 0,0:22:42.94,0:22:46.25,Default,,0,0,0,,Tell the Lord that I myself will return\NSapphire's blue heart to Him
-Dialogue: 0,0:22:46.30,0:22:49.18,Default,,0,0,0,,when in Silverland\Npeace reigns once again.
-Dialogue: 0,0:22:54.70,0:22:58.01,Default,,0,0,0,,I am so happy!\NYou understood us, didn't you, Pegasus?
-Dialogue: 0,0:23:00.18,0:23:01.82,Default,,0,0,0,,Pegasus!
-Dialogue: 0,0:23:01.86,0:23:05.17,Default,,0,0,0,,Tell the Lord I'm sorry\Nfor the trouble I've caused.
-Dialogue: 0,0:23:23.54,0:23:26.69,Default,,0,0,0,,- Goodbye, Pegasus!\N- His mission is over
-Dialogue: 0,0:23:26.74,0:23:29.10,Default,,0,0,0,,Now he is returning to Heaven\Nand will report everything to the Lord.
-Dialogue: 0,0:23:29.14,0:23:31.10,Default,,0,0,0,,Goodbye, Pegasus!
-Dialogue: 0,0:23:49.74,0:23:53.89,Default,,0,0,0,,Tink, I've realized that happiness\Nis not thanks to a winged horse.
-Dialogue: 0,0:23:54.10,0:23:56.57,Default,,0,0,0,,It must be earned\Nwith sacrifices.
-Dialogue: 0,0:23:56.94,0:24:00.70,Default,,0,0,0,,And I will try for my people\Nand for my country!
+Dialogue: 0,0:01:44.10,0:01:50.14,Default,,0,0,0,,Eighth Episode\NThe Winged Horse\NPhantom Horse
+Dialogue: 0,0:02:19.27,0:02:20.76,Default,,0,0,0,,Where am I?
+Dialogue: 0,0:02:22.54,0:02:25.94,Default,,0,0,0,,Babies about to be born are being sent down to Earth.
+Dialogue: 0,0:02:27.18,0:02:27.66,Default,,0,0,0,,That's it!
+Dialogue: 0,0:02:28.00,0:02:29.26,Default,,0,0,0,,This is Heaven!
+Dialogue: 0,0:02:30.06,0:02:32.52,Default,,0,0,0,,I must be dreaming of Heaven.
+Dialogue: 0,0:02:33.54,0:02:34.54,Default,,0,0,0,,This is me!
+Dialogue: 0,0:02:45.68,0:02:50.00,Default,,0,0,0,,Back when I was in Heaven, I was quite a mischievous angel.
+Dialogue: 0,0:03:00.20,0:03:04.46,Default,,0,0,0,,God is separating the babies into boys and girls!
+Dialogue: 0,0:03:05.40,0:03:06.98,Default,,0,0,0,,There, open wide!
+Dialogue: 0,0:03:07.44,0:03:13.18,Default,,0,0,0,,The child who drinks the blue heart becomes a boy, and the child who drinks the red heart becomes a girl!
+Dialogue: 0,0:03:13.28,0:03:14.76,Default,,0,0,0,,There, open wide!
+Dialogue: 0,0:03:15.86,0:03:18.58,Default,,0,0,0,,I stole a blue heart from the basket!
+Dialogue: 0,0:03:19.72,0:03:21.66,Default,,0,0,0,,Hey, wouldn't it be better to be a boy?
+Dialogue: 0,0:03:21.97,0:03:23.68,Default,,0,0,0,,I don't know which is better.
+Dialogue: 0,0:03:23.88,0:03:25.92,Default,,0,0,0,,I'll give you a boy's heart.
+Dialogue: 0,0:03:27.75,0:03:29.04,Default,,0,0,0,,Who's next?
+Dialogue: 0,0:03:30.95,0:03:33.00,Default,,0,0,0,,You are going to be a girl.
+Dialogue: 0,0:03:33.48,0:03:35.18,Default,,0,0,0,,The child who swallows the red heart will become a girl!
+Dialogue: 0,0:03:35.31,0:03:37.16,Default,,0,0,0,,I already swallowed the blue heart.
+Dialogue: 0,0:03:38.24,0:03:40.06,Default,,0,0,0,,So it's Tink's doing again!
+Dialogue: 0,0:03:40.24,0:03:41.78,Default,,0,0,0,,Where is that Tink hiding?
+Dialogue: 0,0:03:42.42,0:03:43.42,Default,,0,0,0,,Right there!
+Dialogue: 0,0:03:44.60,0:03:45.58,Default,,0,0,0,,I'm sorry.
+Dialogue: 0,0:03:45.60,0:03:46.84,Default,,0,0,0,,Apologizing won't fix this!
+Dialogue: 0,0:03:47.05,0:03:51.02,Default,,0,0,0,,When that child is born, won't it be impossible to tell if it's a boy or a girl?
+Dialogue: 0,0:03:51.23,0:03:54.12,Default,,0,0,0,,Go down to the mortal realm and extract the boy's heart from that child!
+Dialogue: 0,0:03:54.41,0:03:55.41,Default,,0,0,0,,Do you understand?
+Dialogue: 0,0:03:56.33,0:03:57.12,Default,,0,0,0,,Go!
+Dialogue: 0,0:04:02.66,0:04:05.26,Default,,0,0,0,,What, so it was just a dream after all?
+Dialogue: 0,0:04:49.41,0:04:50.08,Default,,0,0,0,,Tink!
+Dialogue: 0,0:04:51.48,0:04:52.48,Default,,0,0,0,,Tink!
+Dialogue: 0,0:04:53.11,0:04:55.54,Default,,0,0,0,,Ugh, shut up already...
+Dialogue: 0,0:04:57.71,0:05:00.44,Default,,0,0,0,,A-a-a-choo!
+Dialogue: 0,0:05:01.59,0:05:02.50,Default,,0,0,0,,Who is it?
+Dialogue: 0,0:05:02.55,0:05:04.52,Default,,0,0,0,,Calling me in the middle of the night like this.
+Dialogue: 0,0:05:04.70,0:05:05.70,Default,,0,0,0,,It's me.
+Dialogue: 0,0:05:07.44,0:05:08.06,Default,,0,0,0,,Whoa!
+Dialogue: 0,0:05:08.07,0:05:09.07,Default,,0,0,0,,Pegasus!
+Dialogue: 0,0:05:09.32,0:05:10.99,Default,,0,0,0,,Long time no see.
+Dialogue: 0,0:05:11.12,0:05:12.86,Default,,0,0,0,,When did you get here? From Heaven.
+Dialogue: 0,0:05:13.24,0:05:14.26,Default,,0,0,0,,What did you come here for?
+Dialogue: 0,0:05:14.72,0:05:16.23,Default,,0,0,0,,Hey, how is God doing?
+Dialogue: 0,0:05:16.79,0:05:19.03,Default,,0,0,0,,Hey, what's wrong? Pegasus...
+Dialogue: 0,0:05:19.06,0:05:22.40,Default,,0,0,0,,Tink, did you forget God's orders?
+Dialogue: 0,0:05:22.80,0:05:24.50,Default,,0,0,0,,I can no longer rely on you.
+Dialogue: 0,0:05:24.83,0:05:27.20,Default,,0,0,0,,I will take Sapphire's boy's heart and return.
+Dialogue: 0,0:05:27.22,0:05:29.14,Default,,0,0,0,,Hey, wait up, Pegasus!
+Dialogue: 0,0:05:29.31,0:05:31.44,Default,,0,0,0,,There's a reason for this, a reason!
+Dialogue: 0,0:05:31.85,0:05:33.64,Default,,0,0,0,,Even I know the reason.
+Dialogue: 0,0:05:34.34,0:05:36.64,Default,,0,0,0,,When you're in Heaven, you know everything that happens on Earth.
+Dialogue: 0,0:05:37.56,0:05:39.78,Default,,0,0,0,,But God's command is a command.
+Dialogue: 0,0:05:40.47,0:05:44.17,Default,,0,0,0,,I'll do this job myself. Tink, I won't ask you anymore.
+Dialogue: 0,0:05:44.51,0:05:46.03,Default,,0,0,0,,Hey, don't say that...
+Dialogue: 0,0:06:06.60,0:06:09.23,Default,,0,0,0,,Ah, I wonder where Pegasus went?
+Dialogue: 0,0:06:09.80,0:06:12.97,Default,,0,0,0,,At times like this, if I had wings like back when I was in Heaven,
+Dialogue: 0,0:06:12.99,0:06:15.92,Default,,0,0,0,,I could float softly through the air like the wind...
+Dialogue: 0,0:06:18.35,0:06:21.22,Default,,0,0,0,,Being human is so inconvenient...
+Dialogue: 0,0:06:44.00,0:06:45.82,Default,,0,0,0,,Oh no, this is a total disaster!
+Dialogue: 0,0:06:53.60,0:06:55.68,Default,,0,0,0,,Pegasus... Your Majesty, I have news!
+Dialogue: 0,0:06:56.00,0:06:56.52,Default,,0,0,0,,What is it?
+Dialogue: 0,0:06:56.66,0:06:57.66,Default,,0,0,0,,It's incredible!
+Dialogue: 0,0:06:57.82,0:07:00.26,Default,,0,0,0,,The Pegasus... the soaring Pegasus is... What did you say?
+Dialogue: 0,0:07:00.42,0:07:01.42,Default,,0,0,0,,A Pegasus?
+Dialogue: 0,0:07:01.94,0:07:03.40,Default,,0,0,0,,It took flight...
+Dialogue: 0,0:07:07.18,0:07:08.41,Default,,0,0,0,,It flew up into the heavens...
+Dialogue: 0,0:07:14.77,0:07:16.04,Default,,0,0,0,,It really is a Pegasus.
+Dialogue: 0,0:07:16.35,0:07:17.66,Default,,0,0,0,,How wonderful!
+Dialogue: 0,0:07:17.90,0:07:18.92,Default,,0,0,0,,Truly magnificent.
+Dialogue: 0,0:07:19.47,0:07:22.37,Default,,0,0,0,,Happiness will surely come to Silverland...
+Dialogue: 0,0:07:22.39,0:07:24.84,Default,,0,0,0,,Yes, it surely will come, happiness...
+Dialogue: 0,0:07:24.87,0:07:25.47,Default,,0,0,0,,Why?
+Dialogue: 0,0:07:25.72,0:07:28.16,Default,,0,0,0,,Hey, why does happiness come when a Pegasus flies?
+Dialogue: 0,0:07:28.28,0:07:29.96,Default,,0,0,0,,That's what people have said since ancient times.
+Dialogue: 0,0:07:30.51,0:07:32.68,Default,,0,0,0,,I hope the Pegasus stays with us forever.
+Dialogue: 0,0:07:36.34,0:07:40.20,Default,,0,0,0,,Yeah, is that so... Ah, the Pegasus is going away!
+Dialogue: 0,0:07:40.45,0:07:42.02,Default,,0,0,0,,Happiness is slipping away!
+Dialogue: 0,0:08:05.90,0:08:07.60,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:08:08.35,0:08:09.78,Default,,0,0,0,,Hurry, hurry, hurry!
+Dialogue: 0,0:08:11.58,0:08:12.92,Default,,0,0,0,,Tink, help me.
+Dialogue: 0,0:08:13.11,0:08:15.48,Default,,0,0,0,,They say that if you catch that pegasus, happiness will come.
+Dialogue: 0,0:08:16.17,0:08:17.17,Default,,0,0,0,,Happiness?
+Dialogue: 0,0:08:17.31,0:08:20.30,Default,,0,0,0,,Like I said, that pegasus—there's that kind of legend about it.
+Dialogue: 0,0:08:20.74,0:08:24.52,Default,,0,0,0,,I told you, that pegasus didn't bring happiness.
+Dialogue: 0,0:08:24.83,0:08:28.76,Default,,0,0,0,,I can't tell you the reason, but it came to make Sapphire more feminine.
+Dialogue: 0,0:08:40.68,0:08:44.05,Default,,0,0,0,,A pegasus that brings happiness, huh? I've found something good here.
+Dialogue: 0,0:10:00.25,0:10:02.42,Default,,0,0,0,,I was sure it was around here, but...
+Dialogue: 0,0:10:02.45,0:10:05.12,Default,,0,0,0,,Well, if it isn't here, it isn't here, Sapphire!
+Dialogue: 0,0:10:05.14,0:10:05.73,Default,,0,0,0,,Shut up!
+Dialogue: 0,0:10:05.98,0:10:07.38,Default,,0,0,0,,Tink, wait right there!
+Dialogue: 0,0:10:07.78,0:10:08.78,Default,,0,0,0,,Got it?
+Dialogue: 0,0:10:08.81,0:10:10.84,Default,,0,0,0,,Where could that pegasus have hidden?
+Dialogue: 0,0:10:11.78,0:10:12.36,Default,,0,0,0,,There it is!
+Dialogue: 0,0:10:12.44,0:10:13.75,Default,,0,0,0,,I won't let you get away this time!
+Dialogue: 0,0:10:16.50,0:10:19.00,Default,,0,0,0,,Sapphire, you're finally alone.
+Dialogue: 0,0:10:19.16,0:10:20.40,Default,,0,0,0,,Ready...
+Dialogue: 0,0:10:27.34,0:10:28.81,Default,,0,0,0,,Hey, who did this?
+Dialogue: 0,0:10:29.16,0:10:31.22,Default,,0,0,0,,I was so close to catching the pegasus, too.
+Dialogue: 0,0:10:41.19,0:10:44.02,Default,,0,0,0,,Strange, I thought it was around here...
+Dialogue: 0,0:10:48.06,0:10:48.92,Default,,0,0,0,,Nylon!
+Dialogue: 0,0:10:49.02,0:10:51.21,Default,,0,0,0,,Well, well, if it isn't Prince Sapphire.
+Dialogue: 0,0:10:51.40,0:10:52.55,Default,,0,0,0,,Have you seen a pegasus?
+Dialogue: 0,0:10:53.42,0:10:53.96,Default,,0,0,0,,A pegasus?
+Dialogue: 0,0:10:54.16,0:10:55.36,Default,,0,0,0,,Did you say Pegasus?
+Dialogue: 0,0:10:55.87,0:10:56.87,Default,,0,0,0,,It is the horse of happiness.
+Dialogue: 0,0:10:57.26,0:10:58.89,Default,,0,0,0,,A horse that brings peace to Silverland.
+Dialogue: 0,0:10:59.71,0:11:00.50,Default,,0,0,0,,Do you really not know?
+Dialogue: 0,0:11:00.72,0:11:02.24,Default,,0,0,0,,No, not at all.
+Dialogue: 0,0:11:02.45,0:11:06.95,Default,,0,0,0,,Well, that sounds fine, but if such a horse exists, Silverland would be overjoyed.
+Dialogue: 0,0:11:06.97,0:11:08.88,Default,,0,0,0,,Now, if you will excuse me.
+Dialogue: 0,0:11:15.97,0:11:18.18,Default,,0,0,0,,Fine, my foot! That little tomboy...
+Dialogue: 0,0:11:19.05,0:11:22.12,Default,,0,0,0,,The Pegasus is properly loaded in this carriage, you know.
+Dialogue: 0,0:11:23.15,0:11:25.48,Default,,0,0,0,,Ah, that's right, I have a good idea. Oh?
+Dialogue: 0,0:11:39.68,0:11:43.30,Default,,0,0,0,,My, as expected of Grand Duke Duralumin's trick mansion.
+Dialogue: 0,0:11:49.55,0:11:53.59,Default,,0,0,0,,The power of the dynamite given by the Grand Duke is truly something.
+Dialogue: 0,0:11:56.11,0:11:58.51,Default,,0,0,0,,This is an extraordinarily splendid horse.
+Dialogue: 0,0:11:58.53,0:12:01.06,Default,,0,0,0,,But, does having a Pegasus really bring happiness?
+Dialogue: 0,0:12:01.31,0:12:03.22,Default,,0,0,0,,Why, yes, yes, of course.
+Dialogue: 0,0:12:06.70,0:12:07.89,Default,,0,0,0,,What happiness?
+Dialogue: 0,0:12:08.04,0:12:10.62,Default,,0,0,0,,Does happiness bite you on the nose, you fool?
+Dialogue: 0,0:12:10.94,0:12:12.66,Default,,0,0,0,,Please wait, Grand Duke Duralumin.
+Dialogue: 0,0:12:12.94,0:12:16.20,Default,,0,0,0,,I've thought of something even better. Let me whisper in your ear...
+Dialogue: 0,0:12:19.03,0:12:20.06,Default,,0,0,0,,Sapphire is?
+Dialogue: 0,0:12:20.48,0:12:22.64,Default,,0,0,0,,Yes, she is frantically chasing after the Pegasus.
+Dialogue: 0,0:12:23.24,0:12:26.77,Default,,0,0,0,,We can use that to finish off that prince once and for all...
+Dialogue: 0,0:12:26.79,0:12:30.67,Default,,0,0,0,,Good! Well, aren't you quite the clever one.
+Dialogue: 0,0:12:30.78,0:12:33.50,Default,,0,0,0,,This is all thanks to bringing the Pegasus...
+Dialogue: 0,0:12:42.80,0:12:47.57,Default,,0,0,0,,Now then, a horse that looks like a Pegasus... a horse that looks like a Pegasus...
+Dialogue: 0,0:12:47.59,0:12:49.44,Default,,0,0,0,,No good, your face is too round.
+Dialogue: 0,0:12:50.68,0:12:51.98,Default,,0,0,0,,You've got a mean look in your eyes.
+Dialogue: 0,0:12:52.01,0:12:54.20,Default,,0,0,0,,After all, elegance is number one when it comes to being a Pegasus.
+Dialogue: 0,0:12:54.38,0:12:55.78,Default,,0,0,0,,It must be refined.
+Dialogue: 0,0:13:09.57,0:13:10.92,Default,,0,0,0,,Your Grace, it is finished.
+Dialogue: 0,0:13:11.04,0:13:12.04,Default,,0,0,0,,How do you like my handiwork?
+Dialogue: 0,0:13:12.10,0:13:13.20,Default,,0,0,0,,Splendid, splendid.
+Dialogue: 0,0:13:13.40,0:13:14.54,Default,,0,0,0,,Just as expected of Nylon.
+Dialogue: 0,0:13:14.89,0:13:17.46,Default,,0,0,0,,And now, put this bee inside the fake Pegasus's ear.
+Dialogue: 0,0:13:17.49,0:13:18.62,Default,,0,0,0,,The anesthesia lasts for 10 minutes.
+Dialogue: 0,0:13:18.76,0:13:20.42,Default,,0,0,0,,In 10 minutes, the bee will wake up.
+Dialogue: 0,0:13:20.71,0:13:24.04,Default,,0,0,0,,And once the bee goes wild, Sapphire will fall from the top of the tower...
+Dialogue: 0,0:14:07.22,0:14:08.82,Default,,0,0,0,,I wonder where the Pegasus went?
+Dialogue: 0,0:14:08.85,0:14:10.40,Default,,0,0,0,,Ah, it's over by that door.
+Dialogue: 0,0:14:11.66,0:14:13.08,Default,,0,0,0,,Sapphire! Wait!
+Dialogue: 0,0:14:14.96,0:14:15.80,Default,,0,0,0,,That's
+Dialogue: 0,0:14:16.02,0:14:16.80,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:14:16.94,0:14:17.92,Default,,0,0,0,,No it's not!!
+Dialogue: 0,0:14:17.92,0:14:20.36,Default,,0,0,0,,That's a fake Pegasus!!
+Dialogue: 0,0:14:21.28,0:14:22.74,Default,,0,0,0,,I caught you!!
+Dialogue: 0,0:14:22.74,0:14:26.44,Default,,0,0,0,,It's about time the fake Pegasus starts going wild, isn't it?!
+Dialogue: 0,0:14:26.44,0:14:27.48,Default,,0,0,0,,Come on, fly!!
+Dialogue: 0,0:14:27.54,0:14:28.48,Default,,0,0,0,,Try flying!!!
+Dialogue: 0,0:14:28.53,0:14:30.08,Default,,0,0,0,,Three, two, one, zero!!
+Dialogue: 0,0:14:30.08,0:14:31.08,Default,,0,0,0,,Kaboom!!
+Dialogue: 0,0:14:32.46,0:14:32.86,Default,,0,0,0,,Hey!
+Dialogue: 0,0:14:33.06,0:14:34.42,Default,,0,0,0,,What's going on?!
+Dialogue: 0,0:14:34.42,0:14:35.42,Default,,0,0,0,,Hey!
+Dialogue: 0,0:14:39.54,0:14:39.84,Default,,0,0,0,,Hey!
+Dialogue: 0,0:14:40.19,0:14:41.90,Default,,0,0,0,,Don't thrash around so much!!
+Dialogue: 0,0:14:51.61,0:14:53.98,Default,,0,0,0,,This is terrible, this is terrible, this is terrible!
+Dialogue: 0,0:14:54.00,0:14:56.58,Default,,0,0,0,, Um, I'm in real trouble... Um, um, what should I do? Hey, hey...\NHey, pull yourself together! *Sigh* ...
+Dialogue: 0,0:14:56.60,0:14:58.07,Default,,0,0,0,,Hey, don't thrash around!
+Dialogue: 0,0:15:02.03,0:15:02.75,Default,,0,0,0,,Opal!
+Dialogue: 0,0:15:05.96,0:15:08.44,Default,,0,0,0,,Whoa, we're gonna fall!
+Dialogue: 0,0:15:16.00,0:15:17.05,Default,,0,0,0,,Oh God!
+Dialogue: 0,0:15:19.48,0:15:20.82,Default,,0,0,0,,Thank goodness...
+Dialogue: 0,0:15:21.98,0:15:23.21,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:15:23.82,0:15:25.39,Default,,0,0,0,,Sapphire, are you okay?
+Dialogue: 0,0:15:29.40,0:15:30.98,Default,,0,0,0,,This was the trick.
+Dialogue: 0,0:15:31.00,0:15:33.68,Default,,0,0,0,,They were planning to kill Sapphire from the very beginning, I'm sure of it.
+Dialogue: 0,0:15:34.20,0:15:36.53,Default,,0,0,0,,Just as I said, it was a fake Pegasus, right?
+Dialogue: 0,0:15:37.04,0:15:40.33,Default,,0,0,0,,But who would use a fake Pegasus...?
+Dialogue: 0,0:15:40.35,0:15:42.74,Default,,0,0,0,,It's definitely that Nylon guy's doing again.
+Dialogue: 0,0:15:46.63,0:15:48.98,Default,,0,0,0,,Ugh, that utterly infuriating Sapphire.
+Dialogue: 0,0:15:49.09,0:15:51.68,Default,,0,0,0,,Damn it, just how lucky can that fellow get? Crap!
+Dialogue: 0,0:15:53.24,0:15:53.84,Default,,0,0,0,,Nylon!
+Dialogue: 0,0:15:54.64,0:15:55.80,Default,,0,0,0,,What are you doing in a place like this?
+Dialogue: 0,0:15:55.94,0:15:59.34,Default,,0,0,0,,Well, well, Prince Sapphire, I am taking an afternoon stroll.
+Dialogue: 0,0:15:59.90,0:16:01.05,Default,,0,0,0,,Now then, if you will excuse me.
+Dialogue: 0,0:16:01.68,0:16:03.02,Default,,0,0,0,,Wait!
+Dialogue: 0,0:16:04.77,0:16:06.58,Default,,0,0,0,,Why did you use a fake Pegasus?
+Dialogue: 0,0:16:06.92,0:16:08.04,Default,,0,0,0,,Where is the real Pegasus?
+Dialogue: 0,0:16:09.16,0:16:10.16,Default,,0,0,0,,What are you talking about?
+Dialogue: 0,0:16:10.19,0:16:12.62,Default,,0,0,0,,Your Highness, you seem to be mistaken about something...
+Dialogue: 0,0:16:12.64,0:16:13.78,Default,,0,0,0,,Playing dumb won't work!
+Dialogue: 0,0:16:14.87,0:16:16.14,Default,,0,0,0,,You're the one who hid the Pegasus.
+Dialogue: 0,0:16:16.47,0:16:17.68,Default,,0,0,0,,It has to be right here!
+Dialogue: 0,0:16:18.21,0:16:21.41,Default,,0,0,0,,If you insist that much, please, go right ahead and search.
+Dialogue: 0,0:16:40.44,0:16:41.44,Default,,0,0,0,,That's enough!
+Dialogue: 0,0:16:41.66,0:16:45.95,Default,,0,0,0,,But no matter where you hide it, I will definitely find Pegasus!
+Dialogue: 0,0:16:53.98,0:16:56.22,Default,,0,0,0,,Opal, do me a favor.
+Dialogue: 0,0:16:57.62,0:17:00.12,Default,,0,0,0,,With your sense of smell, you can tell where Pegasus is, right?
+Dialogue: 0,0:17:00.75,0:17:01.75,Default,,0,0,0,,Go search for him.
+Dialogue: 0,0:17:36.15,0:17:37.61,Default,,0,0,0,,There's no mistake this time.
+Dialogue: 0,0:17:37.63,0:17:38.42,Default,,0,0,0,, Leave it to me.
+Dialogue: 0,0:17:38.44,0:17:41.48,Default,,0,0,0,,I have already set the second and third schemes in motion.
+Dialogue: 0,0:17:41.88,0:17:44.48,Default,,0,0,0,,Using this real Pegasus.
+Dialogue: 0,0:17:50.01,0:17:51.32,Default,,0,0,0,,Prince Sapphire.
+Dialogue: 0,0:17:53.36,0:17:53.94,Default,,0,0,0,,Who's there?
+Dialogue: 0,0:17:54.28,0:17:55.88,Default,,0,0,0,,I am a humble person.
+Dialogue: 0,0:17:56.11,0:17:57.68,Default,,0,0,0,,I have come to bring you news.
+Dialogue: 0,0:17:57.89,0:18:02.30,Default,,0,0,0,,Up ahead at the rocky mountain, a Pegasus has its foot trapped between the rocks.
+Dialogue: 0,0:18:03.42,0:18:04.64,Default,,0,0,0,,Trapped in the rocks?
+Dialogue: 0,0:18:05.06,0:18:06.18,Default,,0,0,0,,Is that true?
+Dialogue: 0,0:18:22.23,0:18:24.23,Default,,0,0,0,,Is the Pegasus really there?
+Dialogue: 0,0:18:25.26,0:18:27.38,Default,,0,0,0,,Alright, I'll go, guide the way!
+Dialogue: 0,0:18:44.54,0:18:46.06,Default,,0,0,0,,Alright, I have no more use for you!
+Dialogue: 0,0:18:47.13,0:18:47.98,Default,,0,0,0,,He's here!
+Dialogue: 0,0:18:48.26,0:18:49.26,Default,,0,0,0,,He's here!
+Dialogue: 0,0:18:49.30,0:18:50.30,Default,,0,0,0,,He's coming, he's coming!
+Dialogue: 0,0:18:54.86,0:18:55.86,Default,,0,0,0,,Help!
+Dialogue: 0,0:18:56.04,0:18:57.18,Default,,0,0,0,,I'm a friend!
+Dialogue: 0,0:18:58.04,0:18:59.04,Default,,0,0,0,,Help!
+Dialogue: 0,0:19:00.90,0:19:01.42,Default,,0,0,0,,I'm a friend!
+Dialogue: 0,0:19:01.42,0:19:01.66,Default,,0,0,0,,Help!
+Dialogue: 0,0:19:01.68,0:19:01.68,Default,,0,0,0,,I'm a friend!
+Dialogue: 0,0:19:01.68,0:19:01.94,Default,,0,0,0,,Help!
+Dialogue: 0,0:19:01.94,0:19:02.94,Default,,0,0,0,,I'm a friend!
+Dialogue: 0,0:19:05.37,0:19:05.92,Default,,0,0,0,,You fool!
+Dialogue: 0,0:19:05.98,0:19:07.16,Default,,0,0,0,,That isn't Sapphire!
+Dialogue: 0,0:19:07.36,0:19:08.25,Default,,0,0,0,,It IS Sapphire!
+Dialogue: 0,0:19:08.32,0:19:08.90,Default,,0,0,0,,No!
+Dialogue: 0,0:19:08.92,0:19:10.00,Default,,0,0,0,,It's not Sapphire!
+Dialogue: 0,0:19:11.30,0:19:12.30,Default,,0,0,0,,It IS Sapphire!
+Dialogue: 0,0:19:14.65,0:19:16.03,Default,,0,0,0,,Ready, fire!
+Dialogue: 0,0:19:24.11,0:19:25.69,Default,,0,0,0,,Pegasus, I've come to help!
+Dialogue: 0,0:19:31.98,0:19:33.17,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:19:33.30,0:19:34.30,Default,,0,0,0,,Tink!
+Dialogue: 0,0:19:35.18,0:19:35.74,Default,,0,0,0,,Watch out!
+Dialogue: 0,0:20:12.05,0:20:16.00,Default,,0,0,0,,Your Highness, today I shall take your life!
+Dialogue: 0,0:20:25.89,0:20:27.00,Default,,0,0,0,,Next is the head!
+Dialogue: 0,0:20:43.65,0:20:45.97,Default,,0,0,0,,That was close, Sapphire!
+Dialogue: 0,0:20:48.33,0:20:49.54,Default,,0,0,0,,Hey, Pegasus!
+Dialogue: 0,0:20:50.86,0:20:51.86,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:20:51.90,0:20:53.49,Default,,0,0,0,,Don't get on that Pegasus!
+Dialogue: 0,0:21:02.00,0:21:03.09,Default,,0,0,0,,Wait!
+Dialogue: 0,0:21:03.11,0:21:05.34,Default,,0,0,0,,Wait! Mr. Pegasus
+Dialogue: 0,0:21:10.02,0:21:11.42,Default,,0,0,0,,Wait!
+Dialogue: 0,0:21:16.59,0:21:17.40,Default,,0,0,0,,Tink!
+Dialogue: 0,0:21:17.60,0:21:18.60,Default,,0,0,0,,Tink!
+Dialogue: 0,0:21:27.19,0:21:28.71,Default,,0,0,0,,Help!
+Dialogue: 0,0:21:31.92,0:21:33.68,Default,,0,0,0,,It's flying towards the mountain border!
+Dialogue: 0,0:22:04.94,0:22:05.94,Default,,0,0,0,,Pegasus!
+Dialogue: 0,0:22:16.04,0:22:17.50,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:22:18.02,0:22:18.77,Default,,0,0,0,,Tink!
+Dialogue: 0,0:22:19.40,0:22:20.40,Default,,0,0,0,,Mr. Pegasus!
+Dialogue: 0,0:22:20.55,0:22:23.06,Default,,0,0,0,,You mustn't take Sapphire's boy's heart!
+Dialogue: 0,0:22:24.60,0:22:27.18,Default,,0,0,0,,Sapphire wants to keep her boy's heart!
+Dialogue: 0,0:22:27.99,0:22:30.48,Default,,0,0,0,,This country has so many bad laws!
+Dialogue: 0,0:22:31.14,0:22:34.14,Default,,0,0,0,,Until those can be fixed, please leave Sapphire as she is!
+Dialogue: 0,0:22:35.03,0:22:37.50,Default,,0,0,0,,If you insist on taking her boy's heart,
+Dialogue: 0,0:22:37.53,0:22:40.65,Default,,0,0,0,,I will protect Sapphire even if I have to fight you!
+Dialogue: 0,0:22:42.73,0:22:48.86,Default,,0,0,0,,Once Silverland is at peace, I promise I will take her boy's heart back to heaven myself!
+Dialogue: 0,0:22:54.28,0:22:55.28,Default,,0,0,0,,Mr. Pegasus!
+Dialogue: 0,0:22:55.50,0:22:57.06,Default,,0,0,0,,You finally understand!
+Dialogue: 0,0:23:00.20,0:23:01.20,Default,,0,0,0,,Mr. Pegasus
+Dialogue: 0,0:23:02.06,0:23:04.44,Default,,0,0,0,,Give my regards to God in heaven!
+Dialogue: 0,0:23:24.16,0:23:25.25,Default,,0,0,0,,Pegasus is
+Dialogue: 0,0:23:25.27,0:23:27.23,Default,,0,0,0,,going back to heaven!
+Dialogue: 0,0:23:27.75,0:23:28.75,Default,,0,0,0,,Goodbye!
+Dialogue: 0,0:23:28.79,0:23:30.32,Default,,0,0,0,,Mr. Pegasus!
+Dialogue: 0,0:23:49.17,0:23:51.70,Default,,0,0,0,,Happiness isn't brought by Pegasus—
+Dialogue: 0,0:23:51.72,0:23:53.97,Default,,0,0,0,,it's something I create with my own power!
+Dialogue: 0,0:23:54.67,0:23:56.38,Default,,0,0,0,,Alright, let me do this!
+Dialogue: 0,0:23:56.79,0:24:01.38,Default,,0,0,0,,And let me make Silverland an even richer and happier country!
 Dialogue: 0,0:24:40.58,0:24:44.20,Karaoke,,0,0,0,,{\k29}{\k22}Ta{\k18}ra{\k16}ri {\k18}Ra{\k20}tta {\k23}Ri{\k19}tta {\k26}Ra{\k17}tta {\k19}Ra{\k66}tta{\k69}ttaa
 Dialogue: 0,0:24:44.20,0:24:47.56,Karaoke,,0,0,0,,{\k8}{\k46}Kya{\k68}hoo! {\k35}Kya{\k42}hoo! {\k46}Kya{\k91}hoo!
 Dialogue: 0,0:24:44.20,0:24:47.56,OPED_Translation,,0,0,0,,Yahoo! Yahoo! Yahoo!

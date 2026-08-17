@@ -14,7 +14,8 @@ Audio File: 48 the invasion of silverland 1.mkv
 Video File: 48 the invasion of silverland 1.mkv
 Video AR Mode: 4
 Video AR Value: 1.314554
-Active Line: 2
+Scroll Position: 254
+Active Line: 269
 Video Position: 950
 
 [V4+ Styles]
@@ -48,241 +49,252 @@ Dialogue: 0,0:01:25.22,0:01:28.62,Karaoke,,0,0,0,,{\k6}{\k50}Hon{\k43}to {\k33}w
 Dialogue: 0,0:01:25.22,0:01:28.62,OPED_Translation,,0,0,0,,Truly, truly,
 Dialogue: 0,0:01:28.62,0:01:31.82,Karaoke,,0,0,0,,{\k18}{\k23}A{\k23}ta{\k27}shi {\k35}na{\k35}no {\k159}sa{\k0}
 Dialogue: 0,0:01:28.62,0:01:31.82,OPED_Translation,,0,0,0,,It’s really me!
-Dialogue: 0,0:01:44.10,0:01:50.14,Default,,0,0,0,,Forty-Eighth Episode\NThe Bounty
-Dialogue: 0,0:02:03.10,0:02:05.66,Default,,0,0,0,,Put the load on the right!
-Dialogue: 0,0:02:43.94,0:02:46.25,Default,,0,0,0,,- It's me!\N- I'm opening right away!
-Dialogue: 0,0:02:58.30,0:03:00.37,Default,,0,0,0,,Hey, everyone!
-Dialogue: 0,0:03:05.18,0:03:09.54,Default,,0,0,0,,If you want to earn a million\Ndollars in one night, listen to me!
-Dialogue: 0,0:03:09.58,0:03:11.17,Default,,0,0,0,,A million?!
-Dialogue: 0,0:03:11.22,0:03:14.53,Default,,0,0,0,,- What? Dollars?! - Do you know\Nthe Princess of Silverland?
-Dialogue: 0,0:03:14.58,0:03:17.57,Default,,0,0,0,,- The one called Sapphire?\N- Yeah, exactly her!
-Dialogue: 0,0:03:17.62,0:03:20.09,Default,,0,0,0,,She must be kidnapped!\NI mean, bring her here alive!
-Dialogue: 0,0:03:20.14,0:03:22.21,Default,,0,0,0,,So, friends, what do you say?
-Dialogue: 0,0:03:22.34,0:03:24.41,Default,,0,0,0,,For what purpose kidnap her?
-Dialogue: 0,0:03:24.66,0:03:26.54,Default,,0,0,0,,No questions, men!
-Dialogue: 0,0:03:26.58,0:03:29.05,Default,,0,0,0,,A million dollars\Nto anyone who brings her here!
-Dialogue: 0,0:03:35.02,0:03:38.25,Default,,0,0,0,,Tonight, the back entrance\Nof the castle will not be guarded,
-Dialogue: 0,0:03:38.30,0:03:40.66,Default,,0,0,0,,nor locked!\NGood luck!
-Dialogue: 0,0:03:41.70,0:03:43.45,Default,,0,0,0,,Did you hear how much he offered!
-Dialogue: 0,0:03:43.50,0:03:45.62,Default,,0,0,0,,It's still more profitable\Nthan being a pirate.
-Dialogue: 0,0:04:03.90,0:04:06.29,Default,,0,0,0,,It's so quiet..\NToo quiet!
-Dialogue: 0,0:04:06.58,0:04:09.41,Default,,0,0,0,,I fear this silence\Nis a prelude to something bad.
-Dialogue: 0,0:04:12.54,0:04:14.61,Default,,0,0,0,,What's the matter, Princess?
-Dialogue: 0,0:04:15.42,0:04:17.65,Default,,0,0,0,,Is that you, Doctor Uranaru?
-Dialogue: 0,0:04:17.70,0:04:20.17,Default,,0,0,0,,I can't sleep,\Nit's too quiet.
-Dialogue: 0,0:04:20.22,0:04:22.13,Default,,0,0,0,,Yes, I was thinking the same thing
-Dialogue: 0,0:04:22.18,0:04:24.85,Default,,0,0,0,,It’s strange... While I was coming\Nhere, I didn't see in the corridors...
-Dialogue: 0,0:04:24.90,0:04:27.10,Default,,0,0,0,,...any soldiers on guard.\NHow come?
-Dialogue: 0,0:04:27.14,0:04:29.02,Default,,0,0,0,,What? No guards?! And why?
-Dialogue: 0,0:04:30.02,0:04:32.74,Default,,0,0,0,,Hey, guards! Guards!
-Dialogue: 0,0:04:33.38,0:04:35.13,Default,,0,0,0,,Guards!
-Dialogue: 0,0:04:40.70,0:04:43.30,Default,,0,0,0,,- It should work.\N- Of course it will work!
-Dialogue: 0,0:04:43.34,0:04:45.17,Default,,0,0,0,,You’ll see that everything will be fine!
-Dialogue: 0,0:04:45.50,0:04:46.90,Default,,0,0,0,,Yeah!
-Dialogue: 0,0:04:51.54,0:04:54.26,Default,,0,0,0,,That bounty, we’re definitely\Nthe ones who are going to bag it!
-Dialogue: 0,0:04:55.94,0:04:59.01,Default,,0,0,0,,You’ve got it all wrong,\Nbrothers! That loot will be ours!
-Dialogue: 0,0:04:59.06,0:05:00.81,Default,,0,0,0,,Get them!
-Dialogue: 0,0:05:04.54,0:05:07.01,Default,,0,0,0,,We’ve already got that money\Nin our pockets! Let's move!
-Dialogue: 0,0:05:13.10,0:05:15.62,Default,,0,0,0,,For this job,\Nyou need professionals.
-Dialogue: 0,0:05:26.30,0:05:28.29,Default,,0,0,0,,He’s fast asleep!
-Dialogue: 0,0:05:31.42,0:05:33.81,Default,,0,0,0,,Damn, she wasn't sleeping!
-Dialogue: 0,0:05:34.26,0:05:37.17,Default,,0,0,0,,I was expecting some villains like you! Who are you?
-Dialogue: 0,0:05:37.22,0:05:39.66,Default,,0,0,0,,Now that you're awake, we'll have to resort to force.
-Dialogue: 0,0:05:39.70,0:05:43.01,Default,,0,0,0,,- Come on!\N- Be a good girl, get in the bag!
-Dialogue: 0,0:05:46.90,0:05:49.62,Default,,0,0,0,,It's you, Captain Blood! What a pleasure to see you!
-Dialogue: 0,0:05:49.70,0:05:53.33,Default,,0,0,0,,Hello, old friend Blood! You want the bounty all for yourself, don't you?
-Dialogue: 0,0:05:53.90,0:05:55.73,Default,,0,0,0,,The bounty?!
-Dialogue: 0,0:05:59.86,0:06:02.58,Default,,0,0,0,,Thanks, Blood! But what did those two want?
-Dialogue: 0,0:06:02.86,0:06:04.50,Default,,0,0,0,,What are you doing?!
-Dialogue: 0,0:06:18.02,0:06:21.33,Default,,0,0,0,,I brought you Princess Sapphire. Pay me the bounty.
-Dialogue: 0,0:06:21.78,0:06:23.74,Default,,0,0,0,,It's really her! Well done!
-Dialogue: 0,0:06:24.46,0:06:26.42,Default,,0,0,0,,Here is the bounty.
-Dialogue: 0,0:06:29.10,0:06:32.22,Default,,0,0,0,,Where am I? What have you done, Captain Blood?
-Dialogue: 0,0:06:32.26,0:06:34.70,Default,,0,0,0,,What is this? You know each other?
-Dialogue: 0,0:06:35.14,0:06:37.45,Default,,0,0,0,,Why did you hit me earlier?
-Dialogue: 0,0:06:37.50,0:06:39.62,Default,,0,0,0,,And who might this individual be?
-Dialogue: 0,0:06:39.66,0:06:42.02,Default,,0,0,0,,Don't be silly and don't talk to me like that!
-Dialogue: 0,0:06:42.06,0:06:44.18,Default,,0,0,0,,- It bothers me!\N- Captain Blood is right!
-Dialogue: 0,0:06:44.22,0:06:46.45,Default,,0,0,0,,You ask too many questions and you're too arrogant!
-Dialogue: 0,0:06:46.82,0:06:48.86,Default,,0,0,0,,But Captain Blood...
-Dialogue: 0,0:06:48.90,0:06:51.02,Default,,0,0,0,,Now that I've collected the bounty that was on you,
-Dialogue: 0,0:06:51.06,0:06:53.02,Default,,0,0,0,,you no longer interest me! Goodbye!
-Dialogue: 0,0:06:53.10,0:06:55.25,Default,,0,0,0,,Wait, Captain!\NI'm coming with you!
-Dialogue: 0,0:06:55.30,0:06:58.02,Default,,0,0,0,,- You aren't going anywhere!\N- What?!
-Dialogue: 0,0:06:58.22,0:07:01.02,Default,,0,0,0,,What do you want?\NWhy can't I leave?
-Dialogue: 0,0:07:01.94,0:07:04.22,Default,,0,0,0,,You will stay with us for three days.
-Dialogue: 0,0:07:04.26,0:07:06.30,Default,,0,0,0,,- That's why!\N- Three days with you?!
-Dialogue: 0,0:07:49.82,0:07:52.34,Default,,0,0,0,,Damn it!\NWhat are these explosions?
-Dialogue: 0,0:07:55.02,0:07:57.14,Default,,0,0,0,,There must be something on the bottom!
-Dialogue: 0,0:09:16.90,0:09:18.65,Default,,0,0,0,,But this is a workshop!
-Dialogue: 0,0:09:37.26,0:09:40.70,Default,,0,0,0,,Listen to me well! Did\Nyou hear the explosions?
-Dialogue: 0,0:09:40.74,0:09:43.02,Default,,0,0,0,,That means the tests were successful!
-Dialogue: 0,0:09:43.06,0:09:45.89,Default,,0,0,0,,You will bring the gunpowder\Nto Silverland in several trips!
-Dialogue: 0,0:09:45.94,0:09:49.65,Default,,0,0,0,,You must bring all the powder\Nto Silverland by tomorrow evening!
-Dialogue: 0,0:09:49.70,0:09:52.09,Default,,0,0,0,,The day after tomorrow, or at noon\Non the third day,
-Dialogue: 0,0:09:52.14,0:09:55.21,Default,,0,0,0,,we will set off the powder\Nand blow up the entire city.
-Dialogue: 0,0:09:55.30,0:10:00.42,Default,,0,0,0,,Rest assured that we will destroy\Nthe entire kingdom of Silverland!
-Dialogue: 0,0:10:10.70,0:10:14.17,Default,,0,0,0,,What do you say? Doesn't this\Nofficial notice seem like a good idea?
-Dialogue: 0,0:10:14.22,0:10:16.74,Default,,0,0,0,,Yes, not bad...\NIt will place upon Sapphire...
-Dialogue: 0,0:10:16.78,0:10:19.53,Default,,0,0,0,,...all the blame for the disasters\Nthat will occur!
-Dialogue: 0,0:10:19.58,0:10:21.57,Default,,0,0,0,,You're right, it will be a laugh!
-Dialogue: 0,0:10:25.30,0:10:28.85,Default,,0,0,0,,It says that they will build\Nan amusement park for children!
-Dialogue: 0,0:10:28.90,0:10:31.81,Default,,0,0,0,,All the buildings located\Nin this area will be destroyed.
-Dialogue: 0,0:10:31.86,0:10:35.30,Default,,0,0,0,,Anyone who does not obey the order\Nwill be sentenced to death on the spot!
-Dialogue: 0,0:10:35.34,0:10:37.22,Default,,0,0,0,,The signature\Nis Princess Sapphire's!
-Dialogue: 0,0:10:49.90,0:10:53.81,Default,,0,0,0,,Our houses! What cruelty!\NIt was she herself who ordered it!
-Dialogue: 0,0:10:53.86,0:10:57.41,Default,,0,0,0,,She's tearing down our houses just\Nto make an amusement park!
-Dialogue: 0,0:10:57.62,0:10:59.74,Default,,0,0,0,,Whatever has gotten into her?!
-Dialogue: 0,0:10:59.78,0:11:02.93,Default,,0,0,0,,I didn't expect this\Nfrom Princess Sapphire!
-Dialogue: 0,0:11:04.42,0:11:07.78,Default,,0,0,0,,Where will we live, now that\Nour houses are destroyed?
-Dialogue: 0,0:11:41.66,0:11:43.62,Default,,0,0,0,,- Hey, Sapphire!\N- Who is calling me?
-Dialogue: 0,0:11:43.66,0:11:45.62,Default,,0,0,0,,I thought I heard\NBlood's voice!
-Dialogue: 0,0:11:45.66,0:11:48.33,Default,,0,0,0,,Ah, it's you!\NWhat have you come here to do?
-Dialogue: 0,0:11:49.02,0:11:50.74,Default,,0,0,0,,Silence!
-Dialogue: 0,0:11:59.02,0:12:02.78,Default,,0,0,0,,What was that noise out there?\NI want to know what happened!
-Dialogue: 0,0:12:06.42,0:12:08.49,Default,,0,0,0,,Boss, I caught this man
-Dialogue: 0,0:12:08.54,0:12:11.01,Default,,0,0,0,,...who was walking\Nin front of Sapphire's room.
-Dialogue: 0,0:12:11.18,0:12:13.78,Default,,0,0,0,,- Captain Blood!\N- Yes, it's me:
-Dialogue: 0,0:12:13.82,0:12:17.02,Default,,0,0,0,,- Captain Blood, the pirate!\N- Damn!
-Dialogue: 0,0:12:17.06,0:12:19.53,Default,,0,0,0,,Hey, boss, wait a moment!\NI came here...
-Dialogue: 0,0:12:19.58,0:12:22.02,Default,,0,0,0,,...because I would like to change\Nmy line of work.
-Dialogue: 0,0:12:22.06,0:12:24.73,Default,,0,0,0,,You don't earn much\Nbeing a pirate.
-Dialogue: 0,0:12:24.78,0:12:26.69,Default,,0,0,0,,I think you understand me
-Dialogue: 0,0:12:26.74,0:12:29.81,Default,,0,0,0,,Good!\NThen have Sapphire come here!
-Dialogue: 0,0:12:35.62,0:12:39.22,Default,,0,0,0,,An "X"! You belong\Nto the X Union, as I suspected!
-Dialogue: 0,0:12:39.26,0:12:41.22,Default,,0,0,0,,Why did you bring me here?
-Dialogue: 0,0:12:41.26,0:12:43.62,Default,,0,0,0,,Go on, tell me what\Nyour evil plan is!
-Dialogue: 0,0:12:43.66,0:12:47.29,Default,,0,0,0,,You amuse me! I was told\Nthat you are a spirited girl!
-Dialogue: 0,0:12:47.34,0:12:50.14,Default,,0,0,0,,Tell me, though:\Ndo you know this man or not?
-Dialogue: 0,0:12:50.74,0:12:54.65,Default,,0,0,0,,Captain Blood! How did you\Nknow that they brought me here?
-Dialogue: 0,0:12:55.14,0:12:57.81,Default,,0,0,0,,I really thought\Nthat you had sold me!
-Dialogue: 0,0:12:58.82,0:13:01.29,Default,,0,0,0,,But who the hell are you?\NI’ve never seen you, brat!
-Dialogue: 0,0:13:01.34,0:13:03.65,Default,,0,0,0,,Haven't you realized\Nyet? I don’t know you!
-Dialogue: 0,0:13:03.70,0:13:06.01,Default,,0,0,0,,You’re mistaking me\Nfor someone else!
-Dialogue: 0,0:13:07.66,0:13:09.41,Default,,0,0,0,,Wait!
-Dialogue: 0,0:13:09.62,0:13:12.77,Default,,0,0,0,,Blood, I can’t believe\Nthat you’ve betrayed me!
-Dialogue: 0,0:13:12.94,0:13:16.14,Default,,0,0,0,,I have a feeling that something\Nterrible is about to happen!
-Dialogue: 0,0:13:16.42,0:13:18.70,Default,,0,0,0,,Open up! Open up, quickly!
-Dialogue: 0,0:13:18.74,0:13:21.02,Default,,0,0,0,,I have nothing to do with\Nthe Princess of Silverland...
-Dialogue: 0,0:13:21.06,0:13:23.62,Default,,0,0,0,,...or whoever she is!\NI just want to stay with you...
-Dialogue: 0,0:13:23.66,0:13:25.73,Default,,0,0,0,,...and have the money!\N- I will satisfy you!
-Dialogue: 0,0:13:25.78,0:13:28.01,Default,,0,0,0,,I think you can be useful to me.
-Dialogue: 0,0:13:28.06,0:13:30.34,Default,,0,0,0,,You two, escort him\Nto the laboratory!
-Dialogue: 0,0:13:36.02,0:13:38.85,Default,,0,0,0,,Haven't you learned\Nnot to trust yet?
-Dialogue: 0,0:13:39.62,0:13:41.85,Default,,0,0,0,,Hey, what nonsense is this?
-Dialogue: 0,0:13:48.38,0:13:51.29,Default,,0,0,0,,Union X is not\Nas naive as you think.
-Dialogue: 0,0:13:51.34,0:13:54.89,Default,,0,0,0,,We don't trust you,\Nso you will stay there all night.
-Dialogue: 0,0:14:10.10,0:14:13.70,Default,,0,0,0,,Princess, you have exceeded\Nthe limits of our patience!
-Dialogue: 0,0:14:13.74,0:14:16.49,Default,,0,0,0,,- This is too much now!\N- It's true, he's right!
-Dialogue: 0,0:14:18.02,0:14:21.01,Default,,0,0,0,,I feel sorry for you, people!\NYou're right to be angry!
-Dialogue: 0,0:14:21.06,0:14:23.53,Default,,0,0,0,,The Princess must be crazy\Nfor having ordered...
-Dialogue: 0,0:14:23.58,0:14:26.25,Default,,0,0,0,,...sweeping away the houses to make\Nroom for an amusement park!
-Dialogue: 0,0:14:26.30,0:14:28.29,Default,,0,0,0,,She cannot treat\Nher subjects like this,
-Dialogue: 0,0:14:28.34,0:14:31.01,Default,,0,0,0,,who have always respected\Nand revered her on every occasion!
-Dialogue: 0,0:14:31.06,0:14:34.74,Default,,0,0,0,,However... you must respect\Nthis official ordinance,
-Dialogue: 0,0:14:34.78,0:14:37.66,Default,,0,0,0,,otherwise you will be imprisoned\Nand your assets confiscated!
-Dialogue: 0,0:14:37.70,0:14:40.69,Default,,0,0,0,,Oh, poor people of Silverland!\NHow you are being harassed!
-Dialogue: 0,0:14:44.18,0:14:46.01,Default,,0,0,0,,Nylon is a good actor!
-Dialogue: 0,0:14:46.06,0:14:48.70,Default,,0,0,0,,The gunpowder will arrive\Nin town this afternoon,
-Dialogue: 0,0:14:48.74,0:14:51.57,Default,,0,0,0,,so they will blow up\Nwhat remains of Silverland.
-Dialogue: 0,0:14:51.62,0:14:53.90,Default,,0,0,0,,Naturally,\Nit will be easy for Union X..
-Dialogue: 0,0:14:53.94,0:14:57.17,Default,,0,0,0,,to conquer the kingdom of Silverland,\Nreduced to a pile of rubble!
-Dialogue: 0,0:14:57.90,0:14:59.73,Default,,0,0,0,,Grand Duke Duralumin!
-Dialogue: 0,0:15:00.90,0:15:03.81,Default,,0,0,0,,Greetings to you,\Nmy most gracious Queen!
-Dialogue: 0,0:15:03.86,0:15:06.82,Default,,0,0,0,,Is it true that Sapphire has given orders\Nto tear down many houses in town,
-Dialogue: 0,0:15:06.86,0:15:09.01,Default,,0,0,0,,to make room\Nfor an amusement park?
-Dialogue: 0,0:15:09.06,0:15:11.89,Default,,0,0,0,,Yes, exactly so, Your Majesty!\NNow the Princess, your daughter...
-Dialogue: 0,0:15:11.94,0:15:15.01,Default,,0,0,0,,...is inspecting the work and\Nsaid she would not return...
-Dialogue: 0,0:15:15.06,0:15:17.89,Default,,0,0,0,,- until it is finished.\N- Oh, woe is us!
-Dialogue: 0,0:15:18.82,0:15:21.10,Default,,0,0,0,,I cannot believe she\Nwould do such a thing.
-Dialogue: 0,0:15:21.14,0:15:23.13,Default,,0,0,0,,I would like to ask her personally.
-Dialogue: 0,0:15:23.18,0:15:26.09,Default,,0,0,0,,What could have happened\Nto her? Sapphire, come home!
-Dialogue: 0,0:15:26.18,0:15:30.54,Default,,0,0,0,,Let me out! Open up!\NWhat do you intend to do?
-Dialogue: 0,0:15:30.58,0:15:32.81,Default,,0,0,0,,You will not conquer Silverland!
-Dialogue: 0,0:15:33.14,0:15:37.37,Default,,0,0,0,,Father! Mother! Forgive\Nme! Forgive my helplessness!
-Dialogue: 0,0:15:42.82,0:15:45.21,Default,,0,0,0,,Quick, open the\Nunderwater tunnel!
-Dialogue: 0,0:15:45.26,0:15:49.33,Default,,0,0,0,,We must bring the gunpowder\Nto Silverland within an hour!
-Dialogue: 0,0:16:12.50,0:16:14.54,Default,,0,0,0,,The prisoner is breaking free!
-Dialogue: 0,0:16:20.70,0:16:24.01,Default,,0,0,0,,The man hasn't been born yet\Nwho can put Captain Blood in a cage!
-Dialogue: 0,0:16:46.50,0:16:50.13,Default,,0,0,0,,Who is that bastard throwing\Ndynamite into the fortress?
-Dialogue: 0,0:16:51.58,0:16:54.02,Default,,0,0,0,,Sapphire! Quick!\NI've come to save you!
-Dialogue: 0,0:16:56.10,0:16:58.01,Default,,0,0,0,,Captain Blood!
-Dialogue: 0,0:16:58.78,0:17:01.53,Default,,0,0,0,,- Thank you for coming.\N- Come on, we must hurry!
-Dialogue: 0,0:17:01.58,0:17:03.65,Default,,0,0,0,,Now I'll free you from your chain!
-Dialogue: 0,0:17:06.74,0:17:09.41,Default,,0,0,0,,They want to destroy what\Nremains of the city of Silverland...
-Dialogue: 0,0:17:09.46,0:17:11.53,Default,,0,0,0,,...with gunpowder!\N- What?!
-Dialogue: 0,0:17:11.58,0:17:14.02,Default,,0,0,0,,We must escape\Nquickly from this place!
-Dialogue: 0,0:17:14.50,0:17:16.89,Default,,0,0,0,,Don't let that bastard escape!
-Dialogue: 0,0:17:16.94,0:17:19.17,Default,,0,0,0,,Catch him and feed\Nhim to the sharks!
-Dialogue: 0,0:17:19.22,0:17:21.69,Default,,0,0,0,,A thousand dollar reward\Nto whoever finds Sapphire!
-Dialogue: 0,0:17:21.74,0:17:23.33,Default,,0,0,0,,This way!
-Dialogue: 0,0:17:23.94,0:17:27.01,Default,,0,0,0,,- There they are!\N- Let's get them!
-Dialogue: 0,0:17:41.66,0:17:44.10,Default,,0,0,0,,Captain Blood, you\Nwere putting on an act...
-Dialogue: 0,0:17:44.14,0:17:46.81,Default,,0,0,0,,...to discover the true intentions\Nof Union X, weren't you?
-Dialogue: 0,0:17:46.86,0:17:50.41,Default,,0,0,0,,Of course! I did all this for\Nyou and for your kingdom.
-Dialogue: 0,0:17:50.82,0:17:53.26,Default,,0,0,0,,Now listen to me, Sapphire:\Nget out of here and run...
-Dialogue: 0,0:17:53.30,0:17:56.13,Default,,0,0,0,,...to Silverland, to prevent\Nthe city from being destroyed.
-Dialogue: 0,0:17:57.14,0:18:00.10,Default,,0,0,0,,- And what will you do, Captain?\N- Don't worry about me.
-Dialogue: 0,0:18:00.14,0:18:02.45,Default,,0,0,0,,First of all, you must save\Nyour country.
-Dialogue: 0,0:18:03.66,0:18:05.81,Default,,0,0,0,,All right! Thank you, Blood!
-Dialogue: 0,0:18:12.10,0:18:16.01,Default,,0,0,0,,Damn it! Is it possible that you\Nstill haven't caught those two?!
-Dialogue: 0,0:18:17.94,0:18:20.22,Default,,0,0,0,,- I'm here!\N- What the hell!
-Dialogue: 0,0:18:20.46,0:18:22.74,Default,,0,0,0,,Hey, you don't scare me!
-Dialogue: 0,0:18:22.78,0:18:25.90,Default,,0,0,0,,I can take down all of you by\Nmyself, henchmen of Union X!
-Dialogue: 0,0:18:25.94,0:18:28.69,Default,,0,0,0,,You let Sapphire escape,\Nyou damned imbecile!
-Dialogue: 0,0:18:28.74,0:18:31.86,Default,,0,0,0,,- I won't forgive you for this!\N- Come at me, come on!
-Dialogue: 0,0:18:33.58,0:18:37.73,Default,,0,0,0,,What are you waiting for? Come\Non, you have to take him out!
-Dialogue: 0,0:18:39.62,0:18:42.58,Default,,0,0,0,,Hurry, Sapphire! I'll take\Ncare of stopping them!
-Dialogue: 0,0:19:07.26,0:19:09.25,Default,,0,0,0,,Look,\Nthat's gunpowder!
-Dialogue: 0,0:19:09.30,0:19:12.29,Default,,0,0,0,,They want to blow up the\Nhouses with that! We'll blow up too!
-Dialogue: 0,0:19:23.10,0:19:25.74,Default,,0,0,0,,We have placed\Nall the powder, sir.
-Dialogue: 0,0:19:26.10,0:19:29.65,Default,,0,0,0,,Great! Soldier, now all\Nthat's left is to light the fuses!
-Dialogue: 0,0:19:29.70,0:19:31.42,Default,,0,0,0,,Come on, get to it!
-Dialogue: 0,0:19:49.18,0:19:51.57,Default,,0,0,0,,Hey, you! Stop! Where are you going?
-Dialogue: 0,0:19:53.82,0:19:56.18,Default,,0,0,0,,Let's get her! It's the Princess!
-Dialogue: 0,0:19:57.58,0:19:59.14,Default,,0,0,0,,Good heavens!
-Dialogue: 0,0:20:02.54,0:20:04.82,Default,,0,0,0,,It will be a disaster\Nif I don't hurry!
-Dialogue: 0,0:20:15.50,0:20:17.33,Default,,0,0,0,,Go, Opal!
-Dialogue: 0,0:20:29.70,0:20:32.50,Default,,0,0,0,,Look! Princess Sapphire\Nis cutting the fuses!
-Dialogue: 0,0:20:32.54,0:20:35.01,Default,,0,0,0,,But hadn't he ordered\Nto blow up the city?
-Dialogue: 0,0:20:35.06,0:20:38.45,Default,,0,0,0,,But it's... That... it's Sapphire!\NIt really is Sapphire, damn it!
-Dialogue: 0,0:20:41.18,0:20:43.90,Default,,0,0,0,,Nylon, who ordered the\Nblowing up of the houses?
-Dialogue: 0,0:20:43.94,0:20:46.90,Default,,0,0,0,,But... But... But you signed the\Nofficial ordinance yourself, didn't you?
-Dialogue: 0,0:20:47.58,0:20:50.46,Default,,0,0,0,,- The official ordinance?!\N- Well done, Sapphire!
-Dialogue: 0,0:20:50.50,0:20:52.49,Default,,0,0,0,,You arrived in time and\Nyou managed to prevent..
-Dialogue: 0,0:20:52.54,0:20:55.90,Default,,0,0,0,,. ...the destruction of Silverland!\N- You made it too!
-Dialogue: 0,0:20:56.82,0:21:00.89,Default,,0,0,0,,Yes, I made it! I want to tell you\None thing, citizens of Silverland!
-Dialogue: 0,0:21:01.14,0:21:04.29,Default,,0,0,0,,It was those from Union X\Nwho planted the gunpowder!
-Dialogue: 0,0:21:04.34,0:21:07.57,Default,,0,0,0,,Now let's move against them\Nand let's finish them all off together!
-Dialogue: 0,0:21:07.62,0:21:09.45,Default,,0,0,0,,Yes!
-Dialogue: 0,0:21:09.90,0:21:12.78,Default,,0,0,0,,Free me, Princess! What\Ndo you intend to do with me?
-Dialogue: 0,0:21:12.82,0:21:16.26,Default,,0,0,0,,You will stay where you are until I\Nhave cleared up the doubts about you.
-Dialogue: 0,0:21:19.82,0:21:22.02,Default,,0,0,0,,Damn it, they're attacking us!
-Dialogue: 0,0:21:22.38,0:21:24.69,Default,,0,0,0,,At them! At them!
-Dialogue: 0,0:21:25.90,0:21:28.81,Default,,0,0,0,,Let's kill them all! At them!
-Dialogue: 0,0:21:29.02,0:21:31.69,Default,,0,0,0,,Let's get them! At them!
-Dialogue: 0,0:21:33.46,0:21:36.42,Default,,0,0,0,,Wait! Wait, you idiots!
-Dialogue: 0,0:21:36.46,0:21:39.82,Default,,0,0,0,,Don't run away! Come back!\NFight!
-Dialogue: 0,0:21:40.90,0:21:43.62,Default,,0,0,0,,Damn it!\NThey escaped on the carts!
-Dialogue: 0,0:21:55.90,0:21:58.70,Default,,0,0,0,,Curse it! You bunch of cowards!
-Dialogue: 0,0:21:58.74,0:22:00.49,Default,,0,0,0,,Damn it!
-Dialogue: 0,0:22:09.74,0:22:12.21,Default,,0,0,0,,But look at him! Too bad for him!
-Dialogue: 0,0:22:12.42,0:22:14.89,Default,,0,0,0,,The cart is speeding away with him on it!
-Dialogue: 0,0:22:15.66,0:22:19.37,Default,,0,0,0,,What happened?\NWhy wasn't there an explosion?
-Dialogue: 0,0:22:20.90,0:22:23.54,Default,,0,0,0,,But what is this earthquake?!
-Dialogue: 0,0:22:23.58,0:22:25.62,Default,,0,0,0,,Damn it!
-Dialogue: 0,0:22:32.90,0:22:36.45,Default,,0,0,0,,The island! The island is sinking!
-Dialogue: 0,0:22:36.50,0:22:40.02,Default,,0,0,0,,Who knows what caused\Nall this upheaval!
-Dialogue: 0,0:22:40.62,0:22:43.53,Default,,0,0,0,,Damn it,\Nmy whole plan has failed!
-Dialogue: 0,0:22:43.58,0:22:45.57,Default,,0,0,0,,Poor me!
-Dialogue: 0,0:23:03.02,0:23:07.01,Default,,0,0,0,,Princess Sapphire! We are\Nall extremely grateful to you!
-Dialogue: 0,0:23:07.06,0:23:10.02,Default,,0,0,0,,You have saved our city\Nfrom destruction!
-Dialogue: 0,0:23:10.06,0:23:12.13,Default,,0,0,0,,We cannot celebrate\Nvictory yet!
-Dialogue: 0,0:23:12.18,0:23:15.06,Default,,0,0,0,,The Union X army\Nis approaching us.
-Dialogue: 0,0:23:15.22,0:23:18.13,Default,,0,0,0,,But listen:\Nonly if we work together
-Dialogue: 0,0:23:18.18,0:23:20.85,Default,,0,0,0,,...all united for the protection\Nof our homeland,
-Dialogue: 0,0:23:20.90,0:23:22.89,Default,,0,0,0,,will we succeed in defeating\Nour enemies.
-Dialogue: 0,0:23:22.94,0:23:25.06,Default,,0,0,0,,It is our only chance of salvation.
+Dialogue: 0,0:01:44.10,0:01:50.14,Default,,0,0,0,,Forty-Eighth Episode\NThe Bounty\NSapphire that Disappeared into the Sea
+Dialogue: 0,0:02:44.90,0:02:45.58,Default,,0,0,0,,It's me.
+Dialogue: 0,0:02:58.23,0:02:59.70,Default,,0,0,0,,Silence!
+Dialogue: 0,0:03:05.09,0:03:09.30,Default,,0,0,0,,Gentlemen, if you want to make a million yen, listen up!
+Dialogue: 0,0:03:09.46,0:03:10.46,Default,,0,0,0,,A million yen?
+Dialogue: 0,0:03:10.72,0:03:11.72,Default,,0,0,0,,A million yen!
+Dialogue: 0,0:03:12.01,0:03:13.98,Default,,0,0,0,,You know the princess of Silverland.
+Dialogue: 0,0:03:14.51,0:03:15.51,Default,,0,0,0,,You mean Sapphire?
+Dialogue: 0,0:03:16.15,0:03:20.92,Default,,0,0,0,,That's right. Go kidnap Sapphire. Don't kill her. Just bring her to me.
+Dialogue: 0,0:03:22.28,0:03:23.58,Default,,0,0,0,,What for?
+Dialogue: 0,0:03:24.63,0:03:26.81,Default,,0,0,0,,I won't answer questions.
+Dialogue: 0,0:03:26.84,0:03:30.14,Default,,0,0,0,,A one-million-yen reward to whoever brings her by tomorrow morning.
+Dialogue: 0,0:03:34.86,0:03:38.47,Default,,0,0,0,,Tonight, the castle's back gate is unguarded and unlocked.
+Dialogue: 0,0:03:38.50,0:03:40.36,Default,,0,0,0,,Good luck, gentlemen.
+Dialogue: 0,0:03:41.64,0:03:42.86,Default,,0,0,0,,Hey, a million yen!
+Dialogue: 0,0:03:43.28,0:03:44.68,Default,,0,0,0,,That pays better than being pirates.
+Dialogue: 0,0:03:44.84,0:03:45.35,Default,,0,0,0,,Count me in.
+Dialogue: 0,0:04:03.96,0:04:05.90,Default,,0,0,0,,It's quiet... Too quiet!
+Dialogue: 0,0:04:06.83,0:04:09.57,Default,,0,0,0,,On a night like this, I feel like something bad is about to happen...
+Dialogue: 0,0:04:12.85,0:04:14.92,Default,,0,0,0,,Oh, Lord Sapphire, is something wrong?
+Dialogue: 0,0:04:15.62,0:04:17.59,Default,,0,0,0,,Oh, it's just you, Doctor Uranai!
+Dialogue: 0,0:04:17.89,0:04:19.74,Default,,0,0,0,,It is far too quiet, Lord Sapphire.
+Dialogue: 0,0:04:19.96,0:04:21.58,Default,,0,0,0,,I was just thinking the same thing.
+Dialogue: 0,0:04:21.93,0:04:23.48,Default,,0,0,0,,In the hallway on my way here...
+Dialogue: 0,0:04:23.88,0:04:26.16,Default,,0,0,0,,Not a single guard was standing watch.
+Dialogue: 0,0:04:26.61,0:04:28.23,Default,,0,0,0,,Not a single one?
+Dialogue: 0,0:04:29.64,0:04:30.41,Default,,0,0,0,,Guards!
+Dialogue: 0,0:04:31.21,0:04:32.36,Default,,0,0,0,,Are there no guards here?
+Dialogue: 0,0:04:32.94,0:04:34.32,Default,,0,0,0,,Guards!
+Dialogue: 0,0:04:40.95,0:04:41.98,Default,,0,0,0,,Will this really work?
+Dialogue: 0,0:04:42.26,0:04:44.67,Default,,0,0,0,,It's my master plan. Just watch!
+Dialogue: 0,0:04:51.55,0:04:53.67,Default,,0,0,0,,Looks like the bounty is ours.
+Dialogue: 0,0:04:54.89,0:04:55.89,Default,,0,0,0,,Who are you?
+Dialogue: 0,0:04:56.22,0:04:57.74,Default,,0,0,0,,Who are {\i1}you{\i0}, showing up after us?
+Dialogue: 0,0:04:58.11,0:04:59.36,Default,,0,0,0,,Get them!
+Dialogue: 0,0:05:04.82,0:05:06.66,Default,,0,0,0,,We won't let you steal our bounty!
+Dialogue: 0,0:05:06.99,0:05:08.04,Default,,0,0,0,,Hurry up!
+Dialogue: 0,0:05:13.19,0:05:16.06,Default,,0,0,0,,You can leave the rest to us.
+Dialogue: 0,0:05:26.60,0:05:27.82,Default,,0,0,0,,She's sound asleep.
+Dialogue: 0,0:05:33.54,0:05:34.62,Default,,0,0,0,,Sapphire, you're awake?
+Dialogue: 0,0:05:34.64,0:05:35.55,Default,,0,0,0,,I knew you'd show up.
+Dialogue: 0,0:05:35.62,0:05:36.75,Default,,0,0,0,,Who are you?
+Dialogue: 0,0:05:36.93,0:05:38.88,Default,,0,0,0,,Since you're awake, we're doing this the rough way!
+Dialogue: 0,0:05:41.86,0:05:43.70,Default,,0,0,0,,Just get into this sack quietly!
+Dialogue: 0,0:05:47.02,0:05:49.20,Default,,0,0,0,,Blood! Is that you, Blood?
+Dialogue: 0,0:05:49.59,0:05:53.54,Default,,0,0,0,,It's Boss Blood! Did you come for the bounty, too?
+Dialogue: 0,0:05:57.44,0:05:59.61,Default,,0,0,0,,Boss! Trying to hog it all for yourself?
+Dialogue: 0,0:05:59.79,0:06:03.41,Default,,0,0,0,,Thank you! But why are you here...? What bounty?
+Dialogue: 0,0:06:21.45,0:06:23.48,Default,,0,0,0,,Give me the reward for Sapphire as promised.
+Dialogue: 0,0:06:23.81,0:06:25.44,Default,,0,0,0,,It's definitely Sapphire...
+Dialogue: 0,0:06:25.47,0:06:27.88,Default,,0,0,0,,Here's my one million yen reward!
+Dialogue: 0,0:06:29.97,0:06:30.78,Default,,0,0,0,,Where am I?
+Dialogue: 0,0:06:30.82,0:06:32.13,Default,,0,0,0,,Oh, Blood!
+Dialogue: 0,0:06:32.24,0:06:34.42,Default,,0,0,0,,Wait, do you know each other?
+Dialogue: 0,0:06:35.69,0:06:37.50,Default,,0,0,0,,Why did you hit me all of a sudden?
+Dialogue: 0,0:06:37.70,0:06:39.30,Default,,0,0,0,,And who on earth are these people?
+Dialogue: 0,0:06:42.88,0:06:46.76,Default,,0,0,0,,No way. Don't address me so casually, Princess of Silverland. It's annoying.
+Dialogue: 0,0:06:47.18,0:06:48.18,Default,,0,0,0,,Blood!
+Dialogue: 0,0:06:48.98,0:06:52.42,Default,,0,0,0,,Now that I've got what I came for, I'm done here. See ya.
+Dialogue: 0,0:06:53.89,0:06:54.85,Default,,0,0,0,,Blood, wait!
+Dialogue: 0,0:06:55.06,0:06:57.24,Default,,0,0,0,,Wait, wait—you're staying right here.
+Dialogue: 0,0:06:57.34,0:06:58.03,Default,,0,0,0,,What?
+Dialogue: 0,0:06:58.70,0:06:59.70,Default,,0,0,0,,What on earth is going on?
+Dialogue: 0,0:06:59.90,0:07:01.03,Default,,0,0,0,,What happened?
+Dialogue: 0,0:07:02.31,0:07:04.75,Default,,0,0,0,,Hang in there for three days.
+Dialogue: 0,0:07:04.78,0:07:05.82,Default,,0,0,0,,Three days?
+Dialogue: 0,0:07:50.64,0:07:51.86,Default,,0,0,0,,What's with this explosion?!
+Dialogue: 0,0:07:55.00,0:07:56.41,Default,,0,0,0,,There's something at the bottom of the sea.
+Dialogue: 0,0:09:17.38,0:09:18.38,Default,,0,0,0,,This is incredible!
+Dialogue: 0,0:09:37.24,0:09:40.63,Default,,0,0,0,,Listen up, everyone! The explosion test was a success!
+Dialogue: 0,0:09:42.32,0:09:44.71,Default,,0,0,0,,Transport all the finished gunpowder to
+Dialogue: 0,0:09:44.74,0:09:47.82,Default,,0,0,0,,Silverland's castle town by tomorrow night!
+Dialogue: 0,0:09:48.14,0:09:50.53,Default,,0,0,0,,The day after tomorrow—
+Dialogue: 0,0:09:50.56,0:09:52.83,Default,,0,0,0,,the afternoon of the third day—
+Dialogue: 0,0:09:52.86,0:09:55.64,Default,,0,0,0,,we'll detonate the gunpowder and blow the city of Silverland to pieces!
+Dialogue: 0,0:09:56.20,0:10:00.52,Default,,0,0,0,,Now everyone, keep making more of this top-grade gunpowder!
+Dialogue: 0,0:10:11.24,0:10:14.38,Default,,0,0,0,,How's that? Looks just like the real decree, doesn't it?
+Dialogue: 0,0:10:15.42,0:10:17.25,Default,,0,0,0,,Anyone would take it for real.
+Dialogue: 0,0:10:17.27,0:10:19.64,Default,,0,0,0,,Once this is posted, Sapphire takes all the blame!
+Dialogue: 0,0:10:19.88,0:10:21.14,Default,,0,0,0,,Precisely!
+Dialogue: 0,0:10:24.64,0:10:25.64,Default,,0,0,0,,What does it say?
+Dialogue: 0,0:10:26.06,0:10:28.07,Default,,0,0,0,,{\i1}A grand amusement park shall be built for the children.{\i0}
+Dialogue: 0,0:10:28.09,0:10:30.64,Default,,0,0,0,,{\i1}All obstructing buildings will be demolished.{\i0}
+Dialogue: 0,0:10:30.66,0:10:33.44,Default,,0,0,0,,{\i1}Disobeyers will be executed immediately.{\i0}
+Dialogue: 0,0:10:33.67,0:10:35.04,Default,,0,0,0,,From Princess Sapphire?!
+Dialogue: 0,0:10:53.10,0:10:54.20,Default,,0,0,0,,Our homes...
+Dialogue: 0,0:10:54.22,0:10:56.12,Default,,0,0,0,,How cruel...
+Dialogue: 0,0:10:56.14,0:10:58.28,Default,,0,0,0,,Is this really Princess Sapphire's order?
+Dialogue: 0,0:11:00.00,0:11:02.57,Default,,0,0,0,,Execution? Isn't that a bit extreme for an amusement park?
+Dialogue: 0,0:11:04.67,0:11:06.82,Default,,0,0,0,,What in the world is Princess Sapphire thinking?
+Dialogue: 0,0:11:41.74,0:11:42.74,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:11:43.68,0:11:44.68,Default,,0,0,0,,Who's calling me?
+Dialogue: 0,0:11:46.11,0:11:48.14,Default,,0,0,0,,That was definitely Blood's voice!
+Dialogue: 0,0:11:49.33,0:11:50.33,Default,,0,0,0,,Quiet.
+Dialogue: 0,0:11:59.46,0:12:02.12,Default,,0,0,0,,It sounds noisy outside. What's going on?
+Dialogue: 0,0:12:06.66,0:12:10.24,Default,,0,0,0,,Lord Goll, this man was loitering in front of Sapphire's room.
+Dialogue: 0,0:12:11.68,0:12:12.54,Default,,0,0,0,,You're...
+Dialogue: 0,0:12:12.93,0:12:15.24,Default,,0,0,0,,Yep, it's me! Pirate Blood!
+Dialogue: 0,0:12:17.11,0:12:18.33,Default,,0,0,0,,Whoa, boss, hold on!
+Dialogue: 0,0:12:18.36,0:12:22.52,Default,,0,0,0,,Pirating wasn't paying off, so I snuck in here to change careers!
+Dialogue: 0,0:12:22.86,0:12:23.86,Default,,0,0,0,,Cut me some slack!
+Dialogue: 0,0:12:26.44,0:12:27.08,Default,,0,0,0,,Hey!
+Dialogue: 0,0:12:27.39,0:12:28.60,Default,,0,0,0,,Bring out Sapphire!
+Dialogue: 0,0:12:34.72,0:12:35.69,Default,,0,0,0,,X!
+Dialogue: 0,0:12:35.90,0:12:37.76,Default,,0,0,0,,So you really are part of the X-Union!
+Dialogue: 0,0:12:39.23,0:12:42.85,Default,,0,0,0,,What evil scheme are you plotting, bringing me here?!
+Dialogue: 0,0:12:43.40,0:12:46.62,Default,,0,0,0,,Just as the rumors say, she's quite feisty.
+Dialogue: 0,0:12:46.95,0:12:49.92,Default,,0,0,0,,Hey, Sapphire, do you know this man?
+Dialogue: 0,0:12:51.26,0:12:52.17,Default,,0,0,0,,Blood!
+Dialogue: 0,0:12:52.67,0:12:54.50,Default,,0,0,0,,Still, I'm glad you found this place.
+Dialogue: 0,0:12:54.52,0:12:56.20,Default,,0,0,0,,I really thought you'd betrayed me.
+Dialogue: 0,0:12:56.22,0:12:57.88,Default,,0,0,0,,Hey, how many times do I have to tell you?
+Dialogue: 0,0:12:57.90,0:12:59.60,Default,,0,0,0,,I don't know you. You've got the wrong guy.
+Dialogue: 0,0:13:01.36,0:13:05.62,Default,,0,0,0,,I can't get anything done with you butting in. Now back off! What a pain.
+Dialogue: 0,0:13:07.67,0:13:08.48,Default,,0,0,0,,Blood!
+Dialogue: 0,0:13:10.14,0:13:12.58,Default,,0,0,0,,I can't believe Blood would betray me after how close we were...
+Dialogue: 0,0:13:13.59,0:13:14.79,Default,,0,0,0,,Something terrible is happening...
+Dialogue: 0,0:13:14.81,0:13:16.61,Default,,0,0,0,,Someone! Open this door!
+Dialogue: 0,0:13:17.19,0:13:18.24,Default,,0,0,0,,Let me out!
+Dialogue: 0,0:13:18.94,0:13:21.39,Default,,0,0,0,,Princess of Silverland or not,
+Dialogue: 0,0:13:21.41,0:13:22.71,Default,,0,0,0,,I don't care about any of that.
+Dialogue: 0,0:13:22.73,0:13:24.32,Default,,0,0,0,,All I want is money.
+Dialogue: 0,0:13:24.50,0:13:25.66,Default,,0,0,0,,Fine, alright.
+Dialogue: 0,0:13:25.68,0:13:27.28,Default,,0,0,0,,You seem like you could be useful.
+Dialogue: 0,0:13:27.30,0:13:29.88,Default,,0,0,0,,Hey, take this guy to the workshop.
+Dialogue: 0,0:13:35.15,0:13:36.62,Default,,0,0,0,,Well? Learned your lesson yet?
+Dialogue: 0,0:13:38.96,0:13:40.42,Default,,0,0,0,,Hey, this is crazy!
+Dialogue: 0,0:13:47.88,0:13:52.07,Default,,0,0,0,,X-Union isn't naive enough to trust you.
+Dialogue: 0,0:13:52.09,0:13:53.71,Default,,0,0,0,,You can stay like that all night.
+Dialogue: 0,0:14:10.43,0:14:12.87,Default,,0,0,0,,This is just going too far!
+Dialogue: 0,0:14:13.30,0:14:15.47,Default,,0,0,0,,I'm not listening to anything Sapphire says anymore!
+Dialogue: 0,0:14:18.22,0:14:21.18,Default,,0,0,0,,Everyone! Poor people of Silverland!
+Dialogue: 0,0:14:21.40,0:14:22.98,Default,,0,0,0,,You have every right to be angry!
+Dialogue: 0,0:14:23.45,0:14:25.29,Default,,0,0,0,,Out of nowhere, Princess Sapphire declared
+Dialogue: 0,0:14:25.32,0:14:28.71,Default,,0,0,0,,she's tearing down the castle town in three days to build
+Dialogue: 0,0:14:28.74,0:14:30.86,Default,,0,0,0,, a children's amusement park here.
+Dialogue: 0,0:14:30.88,0:14:32.05,Default,,0,0,0,,What's gotten into her?
+Dialogue: 0,0:14:32.68,0:14:37.03,Default,,0,0,0,,But as long as Princess Sapphire's decree stands,
+Dialogue: 0,0:14:37.06,0:14:39.12,Default,,0,0,0,,we must obey her orders.
+Dialogue: 0,0:14:40.59,0:14:42.25,Default,,0,0,0,,What a terrible person Sapphire is!
+Dialogue: 0,0:14:44.63,0:14:46.81,Default,,0,0,0,,Nylon did a fine job.
+Dialogue: 0,0:14:46.83,0:14:50.80,Default,,0,0,0,,The gunpowder arrives this afternoon, and the town will be blown to bits.
+Dialogue: 0,0:14:51.34,0:14:56.86,Default,,0,0,0,,And X-Union storms into a desperate Silverland.
+Dialogue: 0,0:14:59.14,0:15:00.14,Default,,0,0,0,,Grand Duke Duralumin.
+Dialogue: 0,0:15:01.05,0:15:03.36,Default,,0,0,0,,Well, well, Your Majesty.
+Dialogue: 0,0:15:04.04,0:15:08.11,Default,,0,0,0,,Did Sapphire really order the town to be demolished?
+Dialogue: 0,0:15:08.92,0:15:10.50,Default,,0,0,0,,Yes, that's right.
+Dialogue: 0,0:15:10.53,0:15:14.20,Default,,0,0,0,,Apparently, she refuses to leave until construction is finished and
+Dialogue: 0,0:15:14.22,0:15:16.36,Default,,0,0,0,,she's been running all over the site.
+Dialogue: 0,0:15:18.61,0:15:20.14,Default,,0,0,0,,To think she'd do such a thing...
+Dialogue: 0,0:15:21.58,0:15:22.93,Default,,0,0,0,,I can't believe this.
+Dialogue: 0,0:15:22.95,0:15:24.12,Default,,0,0,0,,What could have happened?
+Dialogue: 0,0:15:24.14,0:15:26.16,Default,,0,0,0,,Sapphire, please hurry back...
+Dialogue: 0,0:15:26.18,0:15:28.96,Default,,0,0,0,,Someone! Someone open this door!
+Dialogue: 0,0:15:29.44,0:15:30.88,Default,,0,0,0,,Will Silverland be alright?
+Dialogue: 0,0:15:31.34,0:15:32.04,Default,,0,0,0,,Father,
+Dialogue: 0,0:15:32.67,0:15:33.38,Default,,0,0,0,,Mother,
+Dialogue: 0,0:15:33.77,0:15:35.80,Default,,0,0,0,,please forgive me for being so helpless.
+Dialogue: 0,0:15:42.35,0:15:44.35,Default,,0,0,0,,Open the undersea tunnel!
+Dialogue: 0,0:15:44.68,0:15:48.69,Default,,0,0,0,,Deliver the gunpowder to Silverland within the hour!
+Dialogue: 0,0:16:16.13,0:16:17.13,Default,,0,0,0,,Let's go!
+Dialogue: 0,0:16:21.06,0:16:23.28,Default,,0,0,0,,Silverland won't go down that easily!
+Dialogue: 0,0:16:46.80,0:16:49.67,Default,,0,0,0,,Who threw dynamite into the room?
+Dialogue: 0,0:16:51.77,0:16:53.35,Default,,0,0,0,,Sapphire, are you okay?
+Dialogue: 0,0:16:56.46,0:16:57.14,Default,,0,0,0,,Blood!
+Dialogue: 0,0:16:59.12,0:17:00.30,Default,,0,0,0,,You came to save me.
+Dialogue: 0,0:17:00.33,0:17:01.30,Default,,0,0,0,,Of course I did.
+Dialogue: 0,0:17:01.97,0:17:03.58,Default,,0,0,0,,Are you hurt, Sapphire?
+Dialogue: 0,0:17:06.80,0:17:10.96,Default,,0,0,0,,X-Union is about to blow Silverland to bits with dynamite!
+Dialogue: 0,0:17:11.17,0:17:11.99,Default,,0,0,0,,What?
+Dialogue: 0,0:17:12.01,0:17:13.68,Default,,0,0,0,,But how do we get out of here?
+Dialogue: 0,0:17:15.39,0:17:16.60,Default,,0,0,0,,Don't let Blood get away!
+Dialogue: 0,0:17:16.84,0:17:18.68,Default,,0,0,0,,Feed him to the sharks!
+Dialogue: 0,0:17:18.98,0:17:21.03,Default,,0,0,0,,Hurry up and search! Quick!
+Dialogue: 0,0:17:21.94,0:17:22.96,Default,,0,0,0,,Over here!
+Dialogue: 0,0:17:24.10,0:17:24.98,Default,,0,0,0,,Look, over there!
+Dialogue: 0,0:17:25.00,0:17:26.03,Default,,0,0,0,,Sapphire is with him, too!
+Dialogue: 0,0:17:26.05,0:17:26.62,Default,,0,0,0,,Get them!
+Dialogue: 0,0:17:41.71,0:17:46.90,Default,,0,0,0,,So Blood was just putting on an act to uncover the X-Union's true motive!
+Dialogue: 0,0:17:47.32,0:17:50.21,Default,,0,0,0,,That's right. He did it all for your sake.
+Dialogue: 0,0:17:51.06,0:17:51.84,Default,,0,0,0,,Listen, Sapphire!
+Dialogue: 0,0:17:51.87,0:17:55.78,Default,,0,0,0,,Take this cart straight to Silverland and stop the explosion!
+Dialogue: 0,0:17:57.34,0:17:58.34,Default,,0,0,0,,Blood, what about you?
+Dialogue: 0,0:17:58.72,0:18:00.06,Default,,0,0,0,,Don't worry about me.
+Dialogue: 0,0:18:00.08,0:18:02.34,Default,,0,0,0,,Just save Silverland, alright?
+Dialogue: 0,0:18:03.85,0:18:05.16,Default,,0,0,0,,I'm sorry, Blood.
+Dialogue: 0,0:18:12.64,0:18:14.70,Default,,0,0,0,,What, you still haven't found them?
+Dialogue: 0,0:18:14.73,0:18:16.02,Default,,0,0,0,,Search! Search, hurry!
+Dialogue: 0,0:18:16.02,0:18:17.42,Default,,0,0,0,,Goll! Over here! Over here!
+Dialogue: 0,0:18:18.61,0:18:19.34,Default,,0,0,0,,Heads up!
+Dialogue: 0,0:18:20.71,0:18:22.34,Default,,0,0,0,,Hey, you so-called X-Union!
+Dialogue: 0,0:18:22.92,0:18:25.66,Default,,0,0,0,,I, the great Blood, am more than enough for the likes of you!
+Dialogue: 0,0:18:26.06,0:18:29.43,Default,,0,0,0,,I won't let you get your hands on Sapphire!
+Dialogue: 0,0:18:29.97,0:18:31.60,Default,,0,0,0,,Come on, bring it on!
+Dialogue: 0,0:18:33.91,0:18:35.72,Default,,0,0,0,,What are you doing?! Catch him, quick!
+Dialogue: 0,0:18:35.94,0:18:36.94,Default,,0,0,0,,Go! Attack!
+Dialogue: 0,0:18:40.08,0:18:42.61,Default,,0,0,0,,Sapphire! Run! Hurry!
+Dialogue: 0,0:19:07.62,0:19:09.66,Default,,0,0,0,,Whoa, isn't that dynamite?!
+Dialogue: 0,0:19:09.70,0:19:12.21,Default,,0,0,0,,Oh no! They're gonna blow up our houses with that!
+Dialogue: 0,0:19:23.06,0:19:26.48,Default,,0,0,0,,Let me... Lord Nylon, the dynamite is all set.
+Dialogue: 0,0:19:26.54,0:19:30.76,Default,,0,0,0,,Alright, soldiers! Light every last bit of gunpowder in town!
+Dialogue: 0,0:19:49.45,0:19:51.28,Default,,0,0,0,,Look! It's Sapphire!
+Dialogue: 0,0:19:53.76,0:19:54.76,Default,,0,0,0,,Get her!
+Dialogue: 0,0:19:57.34,0:19:58.34,Default,,0,0,0,,Damn it!
+Dialogue: 0,0:20:03.07,0:20:04.74,Default,,0,0,0,,We have to hurry, or something terrible will happen!
+Dialogue: 0,0:20:30.02,0:20:32.20,Default,,0,0,0,,Ah! Sapphire is cutting the fuses!
+Dialogue: 0,0:20:32.55,0:20:34.70,Default,,0,0,0,,Wait, wasn't it Sapphire who gave the signal?!
+Dialogue: 0,0:20:34.96,0:20:38.60,Default,,0,0,0,,Huh? What? Sapphire... Sapphire is...
+Dialogue: 0,0:20:41.53,0:20:44.07,Default,,0,0,0,,Nylon! On whose orders did you do this?!
+Dialogue: 0,0:20:44.25,0:20:48.06,Default,,0,0,0,,Well, an official decree was issued in Lord Sapphire's name...
+Dialogue: 0,0:20:48.29,0:20:49.58,Default,,0,0,0,,A decree from me...?
+Dialogue: 0,0:20:49.83,0:20:50.46,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:20:50.87,0:20:53.02,Default,,0,0,0,,Looks like you managed to prevent the explosion!
+Dialogue: 0,0:20:53.84,0:20:55.76,Default,,0,0,0,,Blood! You're safe!
+Dialogue: 0,0:20:56.59,0:20:57.56,Default,,0,0,0,,Of course I am!
+Dialogue: 0,0:20:58.11,0:20:58.82,Default,,0,0,0,,Everyone!
+Dialogue: 0,0:20:59.45,0:21:02.49,Default,,0,0,0,,Setting the explosives was the work of the X-Union!
+Dialogue: 0,0:21:03.03,0:21:06.23,Default,,0,0,0,,Come on! Let's take down those X-Union bastards!
+Dialogue: 0,0:21:06.64,0:21:07.11,Default,,0,0,0,,Get 'em!
+Dialogue: 0,0:21:07.37,0:21:08.88,Default,,0,0,0,,Hey!
+Dialogue: 0,0:21:09.89,0:21:12.64,Default,,0,0,0,,Lord Sapphire, what about me?
+Dialogue: 0,0:21:13.17,0:21:15.60,Default,,0,0,0,,Stay right there until your name is cleared!
+Dialogue: 0,0:21:16.44,0:21:17.84,Default,,0,0,0,,You can't be serious...
+Dialogue: 0,0:21:20.64,0:21:21.64,Default,,0,0,0,,We've got trouble!
+Dialogue: 0,0:21:36.72,0:21:37.98,Default,,0,0,0,,Wait! Wait! Wait!
+Dialogue: 0,0:21:38.00,0:21:38.95,Default,,0,0,0,,Stop!
+Dialogue: 0,0:21:39.25,0:21:40.72,Default,,0,0,0,,Come back and fight!
+Dialogue: 0,0:21:40.98,0:21:41.74,Default,,0,0,0,,Damn it!
+Dialogue: 0,0:21:41.91,0:21:43.16,Default,,0,0,0,,They escaped in the cart!
+Dialogue: 0,0:21:56.24,0:21:56.86,Default,,0,0,0,,Damn it!
+Dialogue: 0,0:21:56.89,0:21:58.83,Default,,0,0,0,,What a pathetic bunch!
+Dialogue: 0,0:22:10.89,0:22:11.54,Default,,0,0,0,,Amazing!
+Dialogue: 0,0:22:12.16,0:22:14.16,Default,,0,0,0,,Just look at it plow right into them, Sapphire!
+Dialogue: 0,0:22:15.80,0:22:19.00,Default,,0,0,0,,What on earth happened? I don't hear the explosions anymore.
+Dialogue: 0,0:22:19.15,0:22:22.97,Default,,0,0,0,,W-W-W-W-W-W-W-W-W-W-W-What is this earthquake?!
+Dialogue: 0,0:22:35.32,0:22:36.72,Default,,0,0,0,,What was that earthquake just now?
+Dialogue: 0,0:22:36.74,0:22:39.66,Default,,0,0,0,,An underwater explosion sank the island.
+Dialogue: 0,0:22:39.69,0:22:44.82,Default,,0,0,0,,Oh, what a disaster! All our hard work, down the drain...
+Dialogue: 0,0:23:03.15,0:23:04.15,Default,,0,0,0,,Lord Sapphire!
+Dialogue: 0,0:23:05.07,0:23:09.77,Default,,0,0,0,,Thank you. Thanks to you, the town was spared from destruction.
+Dialogue: 0,0:23:10.14,0:23:11.62,Default,,0,0,0,,It's too early to celebrate.
+Dialogue: 0,0:23:12.24,0:23:14.74,Default,,0,0,0,,The X-Union is finally closing in on Silverland.
+Dialogue: 0,0:23:16.09,0:23:17.15,Default,,0,0,0,,But no matter what happens everyone,
+Dialogue: 0,0:23:17.17,0:23:22.43,Default,,0,0,0,,we must protect our nation, this beautiful Silverland!
+Dialogue: 0,0:23:22.94,0:23:24.52,Default,,0,0,0,,Let us all join forces!
+Dialogue: 0,0:23:44.51,0:23:50.82,Default,,0,0,0,,{\i1}Just as Sapphire predicted, the main force of the X-Union turned its dark fangs toward Silverland.{\i0}
 Dialogue: 0,0:24:22.98,0:24:26.62,Karaoke,,0,0,0,,{\k29}{\k22}Ta{\k18}ra{\k16}ri {\k18}Ra{\k20}tta {\k23}Ri{\k19}tta {\k26}Ra{\k17}tta {\k19}Ra{\k66}tta{\k69}ttaa
 Dialogue: 0,0:24:26.62,0:24:29.98,Karaoke,,0,0,0,,{\k8}{\k46}Kya{\k68}hoo! {\k35}Kya{\k42}hoo! {\k46}Kya{\k91}hoo!
 Dialogue: 0,0:24:26.62,0:24:29.98,OPED_Translation,,0,0,0,,Yahoo! Yahoo! Yahoo!

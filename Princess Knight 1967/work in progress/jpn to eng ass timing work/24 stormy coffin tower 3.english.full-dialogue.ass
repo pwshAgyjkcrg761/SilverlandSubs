@@ -14,7 +14,8 @@ Audio File: 24 the phantom knight 3.mkv
 Video File: 24 the phantom knight 3.mkv
 Video AR Mode: 4
 Video AR Value: 1.314554
-Active Line: 18
+Scroll Position: 335
+Active Line: 339
 Video Position: 950
 
 [V4+ Styles]
@@ -48,239 +49,322 @@ Dialogue: 0,0:01:25.22,0:01:28.62,Karaoke,,0,0,0,,{\k6}{\k50}Hon{\k43}to {\k33}w
 Dialogue: 0,0:01:25.22,0:01:28.62,OPED_Translation,,0,0,0,,Truly, truly,
 Dialogue: 0,0:01:28.62,0:01:31.82,Karaoke,,0,0,0,,{\k18}{\k23}A{\k23}ta{\k27}shi {\k35}na{\k35}no {\k159}sa{\k0}
 Dialogue: 0,0:01:28.62,0:01:31.82,OPED_Translation,,0,0,0,,It’s really me!
-Dialogue: 0,0:01:44.10,0:01:50.14,Default,,0,0,0,,Twenty-Fourth Episode\NThe Assassins
-Dialogue: 0,0:01:52.78,0:01:55.22,Default,,0,0,0,,Before we get to\Ntoday's story,
-Dialogue: 0,0:01:55.26,0:01:58.09,Default,,0,0,0,,let's briefly recall\Nthe previous episodes.
-Dialogue: 0,0:01:58.14,0:02:01.21,Default,,0,0,0,,The King disappeared\Nand it was decided that Sapphire
-Dialogue: 0,0:02:01.26,0:02:03.49,Default,,0,0,0,,...would become the new King.
-Dialogue: 0,0:02:03.66,0:02:06.41,Default,,0,0,0,,But on the day of the coronation\Nceremony,
-Dialogue: 0,0:02:06.46,0:02:10.58,Default,,0,0,0,,the Queen was deceived\Nby the evil Duralumin and Nylon..
-Dialogue: 0,0:02:10.74,0:02:13.73,Default,,0,0,0,,...and she revealed that Sapphire\Nwas a girl.
-Dialogue: 0,0:02:14.54,0:02:19.77,Default,,0,0,0,,Therefore, Sapphire and the Queen were\Nlocked in the coffin tower.
-Dialogue: 0,0:02:21.42,0:02:26.73,Default,,0,0,0,,As a result, Duralumin felt\Nfree to tyrannize the people.
-Dialogue: 0,0:02:27.54,0:02:30.21,Default,,0,0,0,,Hearing of this,\NSapphire escaped...
-Dialogue: 0,0:02:30.26,0:02:32.93,Default,,0,0,0,,...through the hole\Nthat a little mouse showed her
-Dialogue: 0,0:02:32.98,0:02:35.10,Default,,0,0,0,,And in the guise\Nof the phantom knight,
-Dialogue: 0,0:02:35.14,0:02:39.82,Default,,0,0,0,,she defeated Duralumin's retinue\Nand saved the suffering prisoners.
-Dialogue: 0,0:02:40.02,0:02:43.01,Default,,0,0,0,,Meanwhile, Duralumin was preparing\Na cruel plan:
-Dialogue: 0,0:02:43.06,0:02:46.61,Default,,0,0,0,,suspecting that the phantom\Nknight could be Sapphire,
-Dialogue: 0,0:02:46.66,0:02:49.30,Default,,0,0,0,,he sent skilled assassins\Nto the tower.
-Dialogue: 0,0:02:49.46,0:02:53.01,Default,,0,0,0,,Now, the life of Sapphire\Nand the Queen is in danger.
-Dialogue: 0,0:02:53.34,0:02:56.22,Default,,0,0,0,,Let us now proceed to narrate\Ntoday's episode.
-Dialogue: 0,0:03:15.14,0:03:17.74,Default,,0,0,0,,This damn mouse!
-Dialogue: 0,0:03:39.02,0:03:41.33,Default,,0,0,0,,So, tell me: what is it?
-Dialogue: 0,0:03:45.02,0:03:48.25,Default,,0,0,0,,Excuse me, cute little mouse,\Nbut I really don't understand you.
-Dialogue: 0,0:04:01.02,0:04:03.01,Default,,0,0,0,,But what is it you want to tell me?
-Dialogue: 0,0:04:09.26,0:04:12.70,Default,,0,0,0,,Assassins?! Surely they\Nhave come here to kill me!
-Dialogue: 0,0:04:13.02,0:04:15.38,Default,,0,0,0,,Little mouse,\Nthank you for warning me!
-Dialogue: 0,0:04:26.34,0:04:29.33,Default,,0,0,0,,- Mother, assassins are coming!\N- What? Assassins?!
-Dialogue: 0,0:04:29.38,0:04:31.74,Default,,0,0,0,,Absolutely do not open the door!
-Dialogue: 0,0:04:40.02,0:04:41.66,Default,,0,0,0,,What do you want to do?
-Dialogue: 0,0:04:41.90,0:04:43.89,Default,,0,0,0,,I want to get rid of the assassins!
-Dialogue: 0,0:05:02.50,0:05:07.10,Default,,0,0,0,,Now, Gama, show us where the\Nroom is of Sapphire and the Queen.
-Dialogue: 0,0:05:07.14,0:05:08.81,Default,,0,0,0,,Come!
-Dialogue: 0,0:05:13.86,0:05:15.69,Default,,0,0,0,,Sapphire...!
-Dialogue: 0,0:05:20.78,0:05:24.25,Default,,0,0,0,,- They are in this room.\N- Are you really sure they are here?
-Dialogue: 0,0:05:24.30,0:05:27.74,Default,,0,0,0,,I locked them securely inside and\Nle ho mai lasciate uscire da qui,
-Dialogue: 0,0:05:27.78,0:05:30.22,Default,,0,0,0,,except to make them work.
-Dialogue: 0,0:05:30.26,0:05:31.82,Default,,0,0,0,,All right.
-Dialogue: 0,0:05:33.18,0:05:36.78,Default,,0,0,0,,I don't like it very much.\NThey are just a girl and a woman.
-Dialogue: 0,0:05:36.82,0:05:40.89,Default,,0,0,0,,Shut up and listen! After I have\Nmade a hole in this door,
-Dialogue: 0,0:05:40.94,0:05:44.46,Default,,0,0,0,,all you have to do is\Nthrow the rocket bomb inside
-Dialogue: 0,0:05:45.30,0:05:48.61,Default,,0,0,0,,- Okay!\N- If the other three show up
-Dialogue: 0,0:05:48.78,0:05:52.30,Default,,0,0,0,,kill them!\NDo you understand? Now light it!
-Dialogue: 0,0:06:00.66,0:06:04.02,Default,,0,0,0,,- Don't you think that's a bit much?\N- Will you cut it out?!
-Dialogue: 0,0:06:10.10,0:06:12.22,Default,,0,0,0,,Sapphire, hurry!
-Dialogue: 0,0:06:18.46,0:06:22.01,Default,,0,0,0,,- The Phantom Knight!\N- Hey, assassins!
-Dialogue: 0,0:06:22.90,0:06:25.26,Default,,0,0,0,,What?! But how did you get in?
-Dialogue: 0,0:06:25.42,0:06:27.49,Default,,0,0,0,,I can enter\Nfrom anywhere!
-Dialogue: 0,0:06:27.54,0:06:30.77,Default,,0,0,0,,I will kill anyone who harms\Nthe Queen and Sapphire!
-Dialogue: 0,0:07:10.22,0:07:12.21,Default,,0,0,0,,And don't you dare ever again\Nget close to...
-Dialogue: 0,0:07:12.26,0:07:14.49,Default,,0,0,0,,...the Queen\Nand Princess Sapphire!
-Dialogue: 0,0:07:14.94,0:07:18.38,Default,,0,0,0,,It's strange...\NThat voice and that appearance.
-Dialogue: 0,0:07:23.74,0:07:26.70,Default,,0,0,0,,It's as if I have\Nalready known him.
-Dialogue: 0,0:07:28.42,0:07:30.38,Default,,0,0,0,,Sapphire!
-Dialogue: 0,0:07:34.50,0:07:38.10,Default,,0,0,0,,It's impossible..!\NHe looks a lot like her.
-Dialogue: 0,0:07:47.90,0:07:52.45,Default,,0,0,0,,Yes, I've got it! It's almost impossible,\Nbut he looks a lot like her!
-Dialogue: 0,0:07:52.58,0:07:54.81,Default,,0,0,0,,Anyway, I must make sure of it.
-Dialogue: 0,0:08:22.38,0:08:24.66,Default,,0,0,0,,I got scared! It's you, Gama!
-Dialogue: 0,0:08:25.38,0:08:27.26,Default,,0,0,0,,Gama, it was terrible!
-Dialogue: 0,0:08:27.30,0:08:30.13,Default,,0,0,0,,Many horrible men\Ntried to kill us.
-Dialogue: 0,0:08:30.18,0:08:32.54,Default,,0,0,0,,But a man called\N"phantom knight"...
-Dialogue: 0,0:08:32.58,0:08:34.46,Default,,0,0,0,,..appeared and helped us
-Dialogue: 0,0:08:34.50,0:08:37.62,Default,,0,0,0,,Listen, Gama, but who the hell is\Nthe phantom knight?
-Dialogue: 0,0:08:38.34,0:08:41.81,Default,,0,0,0,,So it's not her!\NBut she looks so much like her!
-Dialogue: 0,0:08:43.02,0:08:45.01,Default,,0,0,0,,I can't waste time.
-Dialogue: 0,0:08:45.06,0:08:47.58,Default,,0,0,0,,It must have been Duralumin\Nwho sent those assassins.
-Dialogue: 0,0:08:47.62,0:08:51.33,Default,,0,0,0,,I think he deserves a good lesson\Nand I'll make sure to give it to him!
-Dialogue: 0,0:09:00.46,0:09:02.74,Default,,0,0,0,,The ghost knight!
-Dialogue: 0,0:09:07.94,0:09:12.54,Default,,0,0,0,,Open the gate! I have something\Nto settle with Duralumin!
-Dialogue: 0,0:09:13.90,0:09:15.81,Default,,0,0,0,,Open the gate!
-Dialogue: 0,0:09:15.86,0:09:21.49,Default,,0,0,0,,Well, I never! Well, I never! Well, I\Nnever! Well, I never! Well, I never!
-Dialogue: 0,0:09:22.10,0:09:23.74,Default,,0,0,0,,Well, I never!
-Dialogue: 0,0:09:26.42,0:09:29.33,Default,,0,0,0,,It happened that... It happened...\NYou see, it happened that...
-Dialogue: 0,0:09:29.38,0:09:31.26,Default,,0,0,0,,But what the hell happened?
-Dialogue: 0,0:09:31.30,0:09:33.50,Default,,0,0,0,,The ghost knight wants to\Nforce his way into the castle!
-Dialogue: 0,0:09:33.54,0:09:36.18,Default,,0,0,0,,What?! Idiot, don't let\Nhim in! Drive him away!
-Dialogue: 0,0:09:36.22,0:09:38.61,Default,,0,0,0,,Kill him!\NDon't let him return alive!
-Dialogue: 0,0:09:42.38,0:09:45.02,Default,,0,0,0,,Hey, Duralumin! I'm sending\Nyour assassins back to you..
-Dialogue: 0,0:09:45.06,0:09:47.21,Default,,0,0,0,,...that you sent\Nto the coffin tower!
-Dialogue: 0,0:09:48.58,0:09:52.78,Default,,0,0,0,,Kill him!\NKill him immediately!
-Dialogue: 0,0:09:55.78,0:09:57.82,Default,,0,0,0,,Grand Duke, what is going on?
-Dialogue: 0,0:10:01.34,0:10:03.73,Default,,0,0,0,,Hey, you! Isn't it good?
-Dialogue: 0,0:10:11.02,0:10:12.66,Default,,0,0,0,,One more!
-Dialogue: 0,0:10:17.42,0:10:19.09,Default,,0,0,0,,Ole!
-Dialogue: 0,0:10:29.02,0:10:31.74,Default,,0,0,0,,Listen, Duralumin!\NThe phantom knight..
-Dialogue: 0,0:10:31.78,0:10:33.69,Default,,0,0,0,,...could appear\Nat any moment!
-Dialogue: 0,0:10:33.74,0:10:36.13,Default,,0,0,0,,I will fight against you\Nuntil death!
-Dialogue: 0,0:10:41.14,0:10:44.50,Default,,0,0,0,,I will soon annihilate you!\NPrepare yourself for this! Come on!
-Dialogue: 0,0:10:45.58,0:10:49.10,Default,,0,0,0,,- Hurrah! Hurrah!\N- Long live the phantom knight!
-Dialogue: 0,0:11:12.18,0:11:15.81,Default,,0,0,0,,Hey, you, innkeeper!\NBring more wine, quickly!
-Dialogue: 0,0:11:15.86,0:11:18.30,Default,,0,0,0,,Listen, I will bring you\Nall the wine you want,
-Dialogue: 0,0:11:18.34,0:11:20.54,Default,,0,0,0,,but then do you intend\Nto pay or not?
-Dialogue: 0,0:11:20.58,0:11:23.25,Default,,0,0,0,,What? Do you want to force us to pay?
-Dialogue: 0,0:11:23.30,0:11:25.02,Default,,0,0,0,,Yes, well... yes..
-Dialogue: 0,0:11:25.34,0:11:29.81,Default,,0,0,0,,Damn you, try saying that again!\NDo you know who we are or not?
-Dialogue: 0,0:11:29.86,0:11:32.30,Default,,0,0,0,,- Help! Help!\N- Innkeeper, bring us some wine
-Dialogue: 0,0:11:32.34,0:11:36.05,Default,,0,0,0,,or we will have this child devoured\Nby King Plastic's dogs!
-Dialogue: 0,0:11:36.70,0:11:39.61,Default,,0,0,0,,- Oh, forgive me!\N- Bring some wine, now!
-Dialogue: 0,0:11:40.70,0:11:43.58,Default,,0,0,0,,Damn you!\NYou will be torn apart by the dogs!
-Dialogue: 0,0:11:44.18,0:11:46.14,Default,,0,0,0,,The phantom knight!
-Dialogue: 0,0:11:46.18,0:11:49.81,Default,,0,0,0,,Soldiers of Duralumin, the phantom\Nknight will get you drunk!
-Dialogue: 0,0:11:49.86,0:11:51.42,Default,,0,0,0,,Courage!
-Dialogue: 0,0:11:56.18,0:11:58.90,Default,,0,0,0,,The phantom knight! How wonderful!
-Dialogue: 0,0:12:21.22,0:12:24.77,Default,,0,0,0,,- The phantom knight!\N- What happened to those people?
-Dialogue: 0,0:12:25.34,0:12:28.49,Default,,0,0,0,,Because they sang\Nthe song of the phantom knight,
-Dialogue: 0,0:12:28.54,0:12:30.18,Default,,0,0,0,,they will become slaves!
-Dialogue: 0,0:12:30.22,0:12:32.02,Default,,0,0,0,,The song of the phantom knight?
-Dialogue: 0,0:12:32.06,0:12:34.02,Default,,0,0,0,,Yes, it's a popular song.\NIt goes like this:
-Dialogue: 0,0:12:34.06,0:12:36.45,Default,,0,0,0,,"The phantom knight\Nis the champion"!
-Dialogue: 0,0:12:37.82,0:12:40.34,Default,,0,0,0,,Wait! Wait!
-Dialogue: 0,0:12:55.82,0:12:58.10,Default,,0,0,0,,Hooray! Hooray!
-Dialogue: 0,0:12:58.14,0:13:06.14,Default,,0,0,0,,The phantom knight\Nis the champion!
-Dialogue: 0,0:13:09.18,0:13:11.38,Default,,0,0,0,,Did you say he freed\Nthe prisoners?
-Dialogue: 0,0:13:11.42,0:13:14.49,Default,,0,0,0,,Yes, he's elusive! You can\Nnever know when he will show up!
-Dialogue: 0,0:13:15.46,0:13:18.69,Default,,0,0,0,,The Phantom Knight\Nis the champion!
-Dialogue: 0,0:13:18.74,0:13:20.73,Default,,0,0,0,,- How wonderful!\N- Idiot!
-Dialogue: 0,0:13:22.62,0:13:26.01,Default,,0,0,0,,Curse that Phantom Knight...!
-Dialogue: 0,0:13:27.82,0:13:31.13,Default,,0,0,0,,I've got it! I found a way to\Ncapture the Phantom Knight!
-Dialogue: 0,0:13:31.82,0:13:34.81,Default,,0,0,0,,The Phantom Knight\Nis very popular with children,
-Dialogue: 0,0:13:34.86,0:13:38.06,Default,,0,0,0,,so, if we take a child\Nhostage, he will come to free him!
-Dialogue: 0,0:13:38.74,0:13:41.62,Default,,0,0,0,,And we'll set a trap for him\Nthat he will surely fall into!
-Dialogue: 0,0:13:43.42,0:13:51.42,Default,,0,0,0,,The ghost knight\Nis the champion!
-Dialogue: 0,0:13:57.02,0:14:01.70,Default,,0,0,0,,The ghost knight\Nis the champion!
-Dialogue: 0,0:14:01.74,0:14:04.26,Default,,0,0,0,,The ghost knight...
-Dialogue: 0,0:14:05.42,0:14:07.57,Default,,0,0,0,,Help! Help!
-Dialogue: 0,0:14:10.86,0:14:13.66,Default,,0,0,0,,- Taste it, it's a delicious juice.\N- Thank you.
-Dialogue: 0,0:14:13.94,0:14:16.01,Default,,0,0,0,,Ghost knight!
-Dialogue: 0,0:14:17.74,0:14:21.05,Default,,0,0,0,,Cursed ghost knight,\Nthis time you will die!
-Dialogue: 0,0:14:32.22,0:14:35.29,Default,,0,0,0,,- Help!\N- Mama! Mama!
-Dialogue: 0,0:14:35.34,0:14:37.57,Default,,0,0,0,,Help, I'm scared!
-Dialogue: 0,0:14:38.62,0:14:42.66,Default,,0,0,0,,Cry! Cry! The ghost\Nknight will come to help you!
-Dialogue: 0,0:14:44.06,0:14:47.02,Default,,0,0,0,,And if he comes, we will win!\NIf he comes to this square,
-Dialogue: 0,0:14:47.06,0:14:49.94,Default,,0,0,0,,the cannon, the rockets and the arrows\Nwill attack him!
-Dialogue: 0,0:14:50.22,0:14:52.21,Default,,0,0,0,,He will die in an instant!
-Dialogue: 0,0:15:06.58,0:15:08.57,Default,,0,0,0,,But what is he waiting for?
-Dialogue: 0,0:15:10.18,0:15:13.89,Default,,0,0,0,,- Mom!\N- Help!
-Dialogue: 0,0:15:14.34,0:15:17.57,Default,,0,0,0,,What's happening, ghost\Nknight? Are you scared?
-Dialogue: 0,0:15:28.62,0:15:30.85,Default,,0,0,0,,Damned ghost knight!
-Dialogue: 0,0:15:34.58,0:15:36.46,Default,,0,0,0,,I wonder if he's scared.
-Dialogue: 0,0:15:44.02,0:15:47.01,Default,,0,0,0,,Cry, children! Cry!\NAnd the knight...
-Dialogue: 0,0:15:51.82,0:15:53.81,Default,,0,0,0,,Is coming from the sky?!
-Dialogue: 0,0:16:22.50,0:16:24.49,Default,,0,0,0,,Who's next!
-Dialogue: 0,0:16:32.02,0:16:36.46,Default,,0,0,0,,Water! Throw some water!\NBut not on me, you idiot!
-Dialogue: 0,0:16:42.42,0:16:44.14,Default,,0,0,0,,What?!
-Dialogue: 0,0:16:45.46,0:16:47.42,Default,,0,0,0,,I'm dying of rage!
-Dialogue: 0,0:16:48.74,0:16:51.13,Default,,0,0,0,,And now go back\Nall of you home.
-Dialogue: 0,0:16:52.18,0:16:56.02,Default,,0,0,0,,- Thank you, ghost knight!\N- Be careful!
-Dialogue: 0,0:16:56.10,0:16:58.09,Default,,0,0,0,,Don't get kidnapped again!
-Dialogue: 0,0:17:02.22,0:17:04.26,Default,,0,0,0,,Damn it! Damn it! Damn it!
-Dialogue: 0,0:17:04.30,0:17:06.26,Default,,0,0,0,,- You are Baron Nylon, aren't you?\N- Shut up!
-Dialogue: 0,0:17:06.30,0:17:09.45,Default,,0,0,0,,Good heavens! Don't you want\Nto know where the ghost knight is?
-Dialogue: 0,0:17:09.50,0:17:11.41,Default,,0,0,0,,The ghost knight...
-Dialogue: 0,0:17:12.50,0:17:15.22,Default,,0,0,0,,What?\NAh, how beautiful you are.
-Dialogue: 0,0:17:15.26,0:17:17.73,Default,,0,0,0,,You are looking for the\Nghost knight, aren't you?
-Dialogue: 0,0:17:18.06,0:17:20.89,Default,,0,0,0,,Yes! I wonder where that\Ndamned knight is, damn it!
-Dialogue: 0,0:17:20.94,0:17:23.01,Default,,0,0,0,,- I know!\N- What? Really?
-Dialogue: 0,0:17:23.06,0:17:25.42,Default,,0,0,0,,Tell me, please! Please,\Nbeautiful lady! Please!
-Dialogue: 0,0:17:25.46,0:17:28.21,Default,,0,0,0,,I will tell the Grand Duke\NDuralumin! I would be truly glad...
-Dialogue: 0,0:17:28.26,0:17:31.65,Default,,0,0,0,,...to see that clean-shaven\Nface of Grand Duke Duralumin.
-Dialogue: 0,0:17:32.22,0:17:34.50,Default,,0,0,0,,Yes, but don't you prefer to see mine?
-Dialogue: 0,0:17:34.94,0:17:38.01,Default,,0,0,0,,No! I prefer the clean-shaven\None of Duralumin!
-Dialogue: 0,0:17:38.22,0:17:42.10,Default,,0,0,0,,I see... Then I will take\Nyou to the castle, alright.
-Dialogue: 0,0:17:58.46,0:18:00.90,Default,,0,0,0,,Here, please have the\Ncourtesy to wait here, please!
-Dialogue: 0,0:18:00.94,0:18:03.09,Default,,0,0,0,,Soon Grand Duke\NDuralumin will arrive.
-Dialogue: 0,0:18:03.14,0:18:05.02,Default,,0,0,0,,Yes, of course, I'll wait!
-Dialogue: 0,0:18:05.06,0:18:07.58,Default,,0,0,0,,How beautiful and kind you are,\Ndamn it!
-Dialogue: 0,0:18:07.90,0:18:10.42,Default,,0,0,0,,Well, then wait here\Njust a moment.
-Dialogue: 0,0:18:19.10,0:18:22.94,Default,,0,0,0,,Is that the lady who knows\Nwhere the ghost knight is?
-Dialogue: 0,0:18:23.50,0:18:25.30,Default,,0,0,0,,Yes, sir.
-Dialogue: 0,0:18:25.66,0:18:28.13,Default,,0,0,0,,Then tell me:\Nwhere is the ghost knight?
-Dialogue: 0,0:18:28.18,0:18:30.01,Default,,0,0,0,,Where is he? Where is the phantom knight?
-Dialogue: 0,0:18:30.06,0:18:33.18,Default,,0,0,0,,I want to see him because he is very\Nhandsome! I want to see him because he is...
-Dialogue: 0,0:18:33.70,0:18:37.17,Default,,0,0,0,,So, where is the phantom\Nknight? Answer me!
-Dialogue: 0,0:18:37.22,0:18:39.10,Default,,0,0,0,,And show me your face!
-Dialogue: 0,0:18:41.02,0:18:43.49,Default,,0,0,0,,He's here!\NThe phantom knight is here!
-Dialogue: 0,0:18:43.54,0:18:45.82,Default,,0,0,0,,- How handsome he is!\N- The phantom knight!
-Dialogue: 0,0:18:49.22,0:18:52.85,Default,,0,0,0,,- Quick, someone catch him!\N- Don't move!
-Dialogue: 0,0:18:53.82,0:18:56.29,Default,,0,0,0,,I promised you that I\Nwould appear in the castle!
-Dialogue: 0,0:18:56.34,0:18:58.65,Default,,0,0,0,,I kept my promise!\NHere I am!
-Dialogue: 0,0:18:58.78,0:19:00.45,Default,,0,0,0,,Don't move!
-Dialogue: 0,0:19:00.70,0:19:02.42,Default,,0,0,0,,I'll take this!
-Dialogue: 0,0:19:03.10,0:19:05.14,Default,,0,0,0,,Catch him!
-Dialogue: 0,0:19:28.74,0:19:31.81,Default,,0,0,0,,Catch him!\NTake back the crown!
-Dialogue: 0,0:19:32.18,0:19:34.70,Default,,0,0,0,,This stupid, foolish, imbecile!
-Dialogue: 0,0:19:34.74,0:19:37.73,Default,,0,0,0,,You brought the phantom\Nknight right into my house!
-Dialogue: 0,0:19:37.78,0:19:39.82,Default,,0,0,0,,I am furious!
-Dialogue: 0,0:19:57.02,0:19:59.90,Default,,0,0,0,,Sapphire, you are running\Nvery late today.
-Dialogue: 0,0:20:02.82,0:20:04.54,Default,,0,0,0,,Gama is coming!
-Dialogue: 0,0:20:07.42,0:20:10.70,Default,,0,0,0,,- Hey, open up!\N- Please, wait!
-Dialogue: 0,0:20:10.74,0:20:15.26,Default,,0,0,0,,Wait?! It's time for Sapphire to\Ngo get the water! Understood?
-Dialogue: 0,0:20:15.46,0:20:17.82,Default,,0,0,0,,Wait a moment, please!\NWait!
-Dialogue: 0,0:20:17.86,0:20:20.14,Default,,0,0,0,,I can't wait!
-Dialogue: 0,0:20:23.30,0:20:28.14,Default,,0,0,0,,She's not here! In fact, I thought\Nthe phantom knight was Sapphire!
-Dialogue: 0,0:20:28.18,0:20:31.06,Default,,0,0,0,,- That's not true!\N- Yes, exactly!
-Dialogue: 0,0:20:31.18,0:20:35.81,Default,,0,0,0,,Listen, do you know what will happen to you\Nif Sapphire escapes from the castle?
-Dialogue: 0,0:20:35.86,0:20:38.33,Default,,0,0,0,,What happens is that you will be hanged!
-Dialogue: 0,0:20:38.74,0:20:42.18,Default,,0,0,0,,I warned you!\NAnd now prepare yourself for this!
-Dialogue: 0,0:20:44.70,0:20:47.09,Default,,0,0,0,,No! I...
-Dialogue: 0,0:20:47.50,0:20:50.41,Default,,0,0,0,,I am sure that Sapphire\Nwent to fetch water.
-Dialogue: 0,0:20:50.46,0:20:53.37,Default,,0,0,0,,Don't lie!\NFine, I will go see!
-Dialogue: 0,0:20:54.42,0:20:57.49,Default,,0,0,0,,But if she isn't there,\Nyou will be hanged!
-Dialogue: 0,0:21:02.90,0:21:05.57,Default,,0,0,0,,Sapphire,\Nwe are finally at the end!
-Dialogue: 0,0:21:19.78,0:21:23.25,Default,,0,0,0,,Soon we will see the sun...
-Dialogue: 0,0:21:24.30,0:21:27.26,Default,,0,0,0,,Hey! Where have you been?
-Dialogue: 0,0:21:28.86,0:21:31.74,Default,,0,0,0,,Since Gama forgot\Nto close the door,
-Dialogue: 0,0:21:31.78,0:21:34.30,Default,,0,0,0,,I went out onto the skylight\Nto play with the mice.
-Dialogue: 0,0:21:34.34,0:21:37.33,Default,,0,0,0,,But I started fetching\Nwater at the right time.
-Dialogue: 0,0:21:37.38,0:21:40.61,Default,,0,0,0,,Shut up! You can't do\Nwhatever you want!
-Dialogue: 0,0:21:42.50,0:21:45.70,Default,,0,0,0,,Don't laugh!\NYet there is something strange.
-Dialogue: 0,0:21:45.74,0:21:47.65,Default,,0,0,0,,I feel as if I've been tricked
-Dialogue: 0,0:22:05.86,0:22:07.82,Default,,0,0,0,,Damn phantom knight!
-Dialogue: 0,0:22:07.86,0:22:11.90,Default,,0,0,0,,How clever! Brave!\NWonderful! Damn it!
-Dialogue: 0,0:22:11.94,0:22:14.22,Default,,0,0,0,,Can't I even kill\Na single girl?
-Dialogue: 0,0:22:14.26,0:22:16.57,Default,,0,0,0,,Even the assassins\Nwere sent back!
-Dialogue: 0,0:22:16.62,0:22:19.90,Default,,0,0,0,,And that knight was not\Ncaught in our trap!
-Dialogue: 0,0:22:23.10,0:22:25.62,Default,,0,0,0,,Now I've got it!\NI've got an idea!
-Dialogue: 0,0:22:25.66,0:22:29.50,Default,,0,0,0,,I'm fed up with your stupid ideas!\NDon't bother me!
-Dialogue: 0,0:22:29.54,0:22:32.18,Default,,0,0,0,,No, no! But this one is really good!\NThis is the best!
-Dialogue: 0,0:22:32.22,0:22:34.21,Default,,0,0,0,,Fortunately,\Nthere's a storm outside!
-Dialogue: 0,0:22:34.26,0:22:36.33,Default,,0,0,0,,I can't miss\Nthis opportunity!
-Dialogue: 0,0:22:36.58,0:22:39.25,Default,,0,0,0,,You'd better tell Gama\Nto kill them in secret,
-Dialogue: 0,0:22:39.30,0:22:41.34,Default,,0,0,0,,rather than sending assassins.
-Dialogue: 0,0:23:02.54,0:23:05.21,Default,,0,0,0,,"Gama, today is the day\Nmost favorable.
-Dialogue: 0,0:23:05.34,0:23:08.46,Default,,0,0,0,,Kill the Queen and Sapphire\Ntonight.
-Dialogue: 0,0:23:08.50,0:23:12.34,Default,,0,0,0,,You will receive the reward\Nfrom my emissary. Baron Nylon".
-Dialogue: 0,0:23:17.54,0:23:20.01,Default,,0,0,0,,And try to do it well!
-Dialogue: 0,0:23:36.22,0:23:39.85,Default,,0,0,0,,Honestly, it wouldn't be my\Nintention to kill a girl,
-Dialogue: 0,0:23:40.34,0:23:42.90,Default,,0,0,0,,but I can't help it
-Dialogue: 0,0:23:50.82,0:23:52.81,Default,,0,0,0,,- Gama!\N- Sapphire!
-Dialogue: 0,0:23:53.10,0:23:56.33,Default,,0,0,0,,May I know\Nwhere you are going at this hour?
-Dialogue: 0,0:23:56.38,0:24:00.01,Default,,0,0,0,,I... well... I...\NNowhere!
-Dialogue: 0,0:24:00.90,0:24:03.57,Default,,0,0,0,,You were looking for some hole\Nto escape through, right?
-Dialogue: 0,0:24:03.62,0:24:07.09,Default,,0,0,0,,Alright! If you really want to get out,\Nyou can do it now!
-Dialogue: 0,0:24:07.98,0:24:10.42,Default,,0,0,0,,But you won't make it out alive! Got it?
-Dialogue: 0,0:24:10.46,0:24:13.42,Default,,0,0,0,,Gama! What do you want to do?!
+Dialogue: 0,0:01:44.10,0:01:50.14,Default,,0,0,0,,Twenty-Fourth Episode\NThe Assassins\NThe Stormy Coffin Tower
+Dialogue: 0,0:01:53.70,0:01:58.68,Default,,0,0,0,,{\i1}Before today's episode, let's recap what happened up to last week.{\i0}
+Dialogue: 0,0:01:59.54,0:02:01.03,Default,,0,0,0,,{\i1}When the King went missing,{\i0}
+Dialogue: 0,0:02:01.42,0:02:05.20,Default,,0,0,0,,{\i1}Prince Sapphire was set to succeed him and take the throne.{\i0}
+Dialogue: 0,0:02:06.11,0:02:06.56,Default,,0,0,0,,{\i1}However,{\i0}
+Dialogue: 0,0:02:06.87,0:02:09.97,Default,,0,0,0,,{\i1}tricked by the evil Duralumin and Nylon,{\i0}
+Dialogue: 0,0:02:09.99,0:02:14.24,Default,,0,0,0,,{\i1}the Queen accidentally let slip that Sapphire was actually a girl,{\i0}
+Dialogue: 0,0:02:14.26,0:02:19.73,Default,,0,0,0,,{\i1}resulting in them both being trapped on terrifying Coffin Island.{\i0}
+Dialogue: 0,0:02:22.85,0:02:25.13,Default,,0,0,0,,{\i1}With Sapphire out of the way, Duralumin began{\i0}
+Dialogue: 0,0:02:25.15,0:02:27.88,Default,,0,0,0,,{\i1}abusing his power, making the people suffer.{\i0}
+Dialogue: 0,0:02:28.62,0:02:29.99,Default,,0,0,0,,{\i1}Upon learning this, Sapphire{\i0}
+Dialogue: 0,0:02:30.01,0:02:32.90,Default,,0,0,0,,{\i1}escaped through a secret passage shown by the mice, masked her face,{\i0}
+Dialogue: 0,0:02:32.92,0:02:39.29,Default,,0,0,0,,{\i1}and became the mysterious Ribbon Knight to defeat Duralumin's henchmen...{\i0}
+Dialogue: 0,0:02:39.32,0:02:41.24,Default,,0,0,0,,{\i1}...and rescue the suffering people.{\i0}
+Dialogue: 0,0:02:41.89,0:02:43.76,Default,,0,0,0,,{\i1}Meanwhile, Duralumin refuses to back down.{\i0}
+Dialogue: 0,0:02:44.36,0:02:47.73,Default,,0,0,0,,{\i1}Suspecting that Ribbon Knight might actually be Sapphire,{\i0}
+Dialogue: 0,0:02:47.76,0:02:50.66,Default,,0,0,0,,{\i1}he sends invincible assassins to Coffin Island.{\i0}
+Dialogue: 0,0:02:51.31,0:02:53.90,Default,,0,0,0,,{\i1}Now, Sapphire and the Queen's lives are in grave danger!{\i0}
+Dialogue: 0,0:02:54.34,0:02:58.08,Default,,0,0,0,,{\i1}And on that note, please sit back and enjoy today's episode.{\i0}
+Dialogue: 0,0:03:14.86,0:03:16.92,Default,,0,0,0,,I'll bash you, you damn mouse!
+Dialogue: 0,0:03:16.94,0:03:17.78,Default,,0,0,0,,Ouch!
+Dialogue: 0,0:03:39.35,0:03:39.99,Default,,0,0,0,,What?
+Dialogue: 0,0:03:40.02,0:03:41.20,Default,,0,0,0,,Little mouse? What is it?
+Dialogue: 0,0:03:46.86,0:03:48.54,Default,,0,0,0,,What an interesting little mouse.
+Dialogue: 0,0:04:00.02,0:04:01.02,Default,,0,0,0,,What?
+Dialogue: 0,0:04:09.34,0:04:12.52,Default,,0,0,0,,Assassins... They must be after our lives!
+Dialogue: 0,0:04:12.73,0:04:14.59,Default,,0,0,0,,Thank you for warning us, little mouse.
+Dialogue: 0,0:04:26.30,0:04:28.02,Default,,0,0,0,,Sorry to keep you waiting. Mother, assassins are coming.
+Dialogue: 0,0:04:28.56,0:04:29.30,Default,,0,0,0,,Assassins?
+Dialogue: 0,0:04:29.61,0:04:31.36,Default,,0,0,0,,They've definitely come to kill us.
+Dialogue: 0,0:04:31.55,0:04:33.28,Default,,0,0,0,,Whatever you do, don't open the door.
+Dialogue: 0,0:04:39.98,0:04:41.14,Default,,0,0,0,,Sapphire, what are you...
+Dialogue: 0,0:04:41.79,0:04:43.04,Default,,0,0,0,,I'm going to drive those assassins away.
+Dialogue: 0,0:05:02.46,0:05:03.89,Default,,0,0,0,,Now, Gama,
+Dialogue: 0,0:05:03.91,0:05:06.94,Default,,0,0,0,,lead the way. Where are the Prince and Queen's quarters?
+Dialogue: 0,0:05:07.12,0:05:07.58,Default,,0,0,0,,Yes, sir.
+Dialogue: 0,0:05:14.19,0:05:15.15,Default,,0,0,0,,Sapphire.
+Dialogue: 0,0:05:20.92,0:05:21.92,Default,,0,0,0,,It's this room.
+Dialogue: 0,0:05:22.50,0:05:24.28,Default,,0,0,0,,Are you sure they're both inside?
+Dialogue: 0,0:05:24.50,0:05:29.78,Default,,0,0,0,,As long as they're locked in tight, they don't do much unless they're working.
+Dialogue: 0,0:05:29.98,0:05:30.54,Default,,0,0,0,,All right.
+Dialogue: 0,0:05:33.59,0:05:36.69,Default,,0,0,0,,Fighting a woman and a kid feels a bit underwhelming.
+Dialogue: 0,0:05:36.92,0:05:37.59,Default,,0,0,0,,Shut up!
+Dialogue: 0,0:05:38.08,0:05:38.69,Default,,0,0,0,,Listen up.
+Dialogue: 0,0:05:38.92,0:05:44.02,Default,,0,0,0,,I'll blast a hole in the door with this, then you fire a rocket right through it.
+Dialogue: 0,0:05:45.39,0:05:46.50,Default,,0,0,0,,Okay.
+Dialogue: 0,0:05:46.84,0:05:50.42,Default,,0,0,0,,The other three of you finish 'em off if they come at us.
+Dialogue: 0,0:05:51.14,0:05:51.70,Default,,0,0,0,,Got it?
+Dialogue: 0,0:05:51.99,0:05:52.85,Default,,0,0,0,,Let's do this!
+Dialogue: 0,0:06:00.68,0:06:02.34,Default,,0,0,0,,Isn't this overkill?
+Dialogue: 0,0:06:02.68,0:06:03.51,Default,,0,0,0,,Shut up!
+Dialogue: 0,0:06:10.35,0:06:11.60,Default,,0,0,0,,Sapphire hurry!
+Dialogue: 0,0:06:20.66,0:06:21.82,Default,,0,0,0,,Hey, you assassins!
+Dialogue: 0,0:06:22.90,0:06:23.42,Default,,0,0,0,,Ribbon Knight!
+Dialogue: 0,0:06:23.47,0:06:24.81,Default,,0,0,0,,Where the hell did you get in?!
+Dialogue: 0,0:06:25.42,0:06:27.35,Default,,0,0,0,,The Ribbon Knight can enter from anywhere!
+Dialogue: 0,0:06:27.67,0:06:29.43,Default,,0,0,0,,Anyone who lays a finger on the Queen and Princess Sapphire
+Dialogue: 0,0:06:29.46,0:06:31.55,Default,,0,0,0,,will have to answer to the Ribbon Knight!
+Dialogue: 0,0:06:31.66,0:06:32.15,Default,,0,0,0,,Come on!
+Dialogue: 0,0:07:09.99,0:07:11.42,Default,,0,0,0,,Got that, you goons!
+Dialogue: 0,0:07:11.71,0:07:14.68,Default,,0,0,0,,Don't you dare lay a finger on the Queen or Princess Sapphire ever again!
+Dialogue: 0,0:07:15.00,0:07:18.40,Default,,0,0,0,,Wait... that kid, that figure... I've seen them somewhere before...
+Dialogue: 0,0:07:24.94,0:07:26.47,Default,,0,0,0,,Somewhere before...
+Dialogue: 0,0:07:28.40,0:07:29.93,Default,,0,0,0,,Sapphire? It can't be...
+Dialogue: 0,0:07:32.61,0:07:36.57,Default,,0,0,0,,They look so much alike... But no way...
+Dialogue: 0,0:07:40.78,0:07:41.78,Default,,0,0,0,,Alright, that's it!
+Dialogue: 0,0:07:47.47,0:07:49.62,Default,,0,0,0,,It can't be... but they look so alike!
+Dialogue: 0,0:07:51.92,0:07:53.40,Default,,0,0,0,,In any case, I've got to make sure!
+Dialogue: 0,0:08:04.48,0:08:05.91,Default,,0,0,0,,Alright...
+Dialogue: 0,0:08:22.49,0:08:24.06,Default,,0,0,0,,Oh, Gama! You startled me!
+Dialogue: 0,0:08:24.74,0:08:25.94,Default,,0,0,0,,Gama, I was so scared!
+Dialogue: 0,0:08:26.15,0:08:29.28,Default,,0,0,0,,A bunch of scary guys came and tried to kill us!
+Dialogue: 0,0:08:30.18,0:08:33.76,Default,,0,0,0,,But then someone called the Ribbon Knight saved us!
+Dialogue: 0,0:08:34.31,0:08:36.82,Default,,0,0,0,,Hey Gama, who is this Ribbon Knight anyway?
+Dialogue: 0,0:08:38.04,0:08:41.28,Default,,0,0,0,,Was I wrong? Still, they look so much alike...
+Dialogue: 0,0:08:43.83,0:08:44.94,Default,,0,0,0,,I can't just sit around!
+Dialogue: 0,0:08:45.22,0:08:47.26,Default,,0,0,0,,Duralumin must have sent those assassins!
+Dialogue: 0,0:08:47.86,0:08:49.66,Default,,0,0,0,,I won't let him get away with this again!
+Dialogue: 0,0:08:49.85,0:08:51.38,Default,,0,0,0,,I'm going to teach him a real lesson!
+Dialogue: 0,0:08:58.73,0:09:01.50,Default,,0,0,0,,It's the Ribbon Knight!
+Dialogue: 0,0:09:07.61,0:09:08.94,Default,,0,0,0,,Open the gate!
+Dialogue: 0,0:09:10.43,0:09:11.97,Default,,0,0,0,,I have business with Duralumin!
+Dialogue: 0,0:09:13.53,0:09:14.98,Default,,0,0,0,,Open the gate!
+Dialogue: 0,0:09:15.39,0:09:16.50,Default,,0,0,0,,This is terrible!
+Dialogue: 0,0:09:16.52,0:09:17.12,Default,,0,0,0,,This is terrible!
+Dialogue: 0,0:09:17.12,0:09:18.12,Default,,0,0,0,,This is terrible!
+Dialogue: 0,0:09:18.31,0:09:19.45,Default,,0,0,0,,This is terrible!
+Dialogue: 0,0:09:19.52,0:09:20.61,Default,,0,0,0,,This is terrible!
+Dialogue: 0,0:09:20.64,0:09:22.33,Default,,0,0,0,,This is terrible!
+Dialogue: 0,0:09:26.26,0:09:27.41,Default,,0,0,0,,Most terrible news!
+Dialogue: 0,0:09:27.48,0:09:28.80,Default,,0,0,0,,Most terrible news, my lord!
+Dialogue: 0,0:09:28.86,0:09:30.39,Default,,0,0,0,,What on earth is going on?
+Dialogue: 0,0:09:30.74,0:09:33.00,Default,,0,0,0,,The Ribbon Knight is trying to storm the castle!
+Dialogue: 0,0:09:33.48,0:09:33.96,Default,,0,0,0,,Fool!
+Dialogue: 0,0:09:33.99,0:09:34.96,Default,,0,0,0,,Don't let her in!
+Dialogue: 0,0:09:35.11,0:09:36.22,Default,,0,0,0,,Drive her back and kill her!
+Dialogue: 0,0:09:36.25,0:09:37.97,Default,,0,0,0,,Don't let her leave alive!
+Dialogue: 0,0:09:42.24,0:09:43.24,Default,,0,0,0,,Alright, Duralumin!
+Dialogue: 0,0:09:43.50,0:09:46.28,Default,,0,0,0,,I'm returning the assassins you sent to the Coffin Tower!
+Dialogue: 0,0:09:48.09,0:09:48.90,Default,,0,0,0,,No!
+Dialogue: 0,0:09:48.90,0:09:50.00,Default,,0,0,0,,Kill him!
+Dialogue: 0,0:09:50.06,0:09:50.75,Default,,0,0,0,,Take that!
+Dialogue: 0,0:09:55.75,0:09:57.43,Default,,0,0,0,,What's wrong, Your Grace?
+Dialogue: 0,0:10:01.30,0:10:02.14,Default,,0,0,0,,How about that?!
+Dialogue: 0,0:10:02.21,0:10:03.60,Default,,0,0,0,,How does your idiot henchman taste?
+Dialogue: 0,0:10:03.89,0:10:04.75,Default,,0,0,0,,Take that!
+Dialogue: 0,0:10:10.76,0:10:12.05,Default,,0,0,0,,Here's another!
+Dialogue: 0,0:10:17.38,0:10:18.50,Default,,0,0,0,,Take that!
+Dialogue: 0,0:10:30.60,0:10:31.60,Default,,0,0,0,,Duralumin!
+Dialogue: 0,0:10:31.76,0:10:33.48,Default,,0,0,0,,The Knight of the Ribbon appears wherever you go!
+Dialogue: 0,0:10:33.68,0:10:35.34,Default,,0,0,0,,And I'll fight you to the very end!
+Dialogue: 0,0:10:35.76,0:10:36.42,Default,,0,0,0,,Take that!
+Dialogue: 0,0:10:40.90,0:10:43.06,Default,,0,0,0,,One of these days, I'll definitely kill you!
+Dialogue: 0,0:10:43.13,0:10:44.38,Default,,0,0,0,,Prepare yourself!
+Dialogue: 0,0:11:12.09,0:11:13.09,Default,,0,0,0,,Barkeep!
+Dialogue: 0,0:11:13.19,0:11:14.86,Default,,0,0,0,,Keep the booze coming!
+Dialogue: 0,0:11:15.58,0:11:20.28,Default,,0,0,0,,But you aren't going to pay me...
+Dialogue: 0,0:11:20.30,0:11:21.46,Default,,0,0,0,,What did you say?!
+Dialogue: 0,0:11:21.52,0:11:23.03,Default,,0,0,0,,Pay you?!
+Dialogue: 0,0:11:23.12,0:11:23.70,Default,,0,0,0,,Yes!
+Dialogue: 0,0:11:24.02,0:11:24.48,Default,,0,0,0,,You bastard!
+Dialogue: 0,0:11:25.12,0:11:26.24,Default,,0,0,0,,I'll say it again!
+Dialogue: 0,0:11:26.75,0:11:29.40,Default,,0,0,0,,We're Lord Duralumin's royal guard!
+Dialogue: 0,0:11:29.43,0:11:30.62,Default,,0,0,0,,Help!
+Dialogue: 0,0:11:31.06,0:11:32.06,Default,,0,0,0,,No way, old man!
+Dialogue: 0,0:11:32.13,0:11:35.98,Default,,0,0,0,,Bring us booze, or we'll feed your kid to your own dog!
+Dialogue: 0,0:11:36.80,0:11:38.26,Default,,0,0,0,,Mercy, please!
+Dialogue: 0,0:11:38.38,0:11:39.74,Default,,0,0,0,,Then hurry up and bring it!
+Dialogue: 0,0:11:40.80,0:11:41.50,Default,,0,0,0,,You bastard!
+Dialogue: 0,0:11:41.74,0:11:43.77,Default,,0,0,0,,You're dog food!
+Dialogue: 0,0:11:46.18,0:11:47.63,Default,,0,0,0,,You soldiers of Duralumin!
+Dialogue: 0,0:11:47.96,0:11:49.55,Default,,0,0,0,,The Ribbon Knight is going to knock you senseless!
+Dialogue: 0,0:11:55.48,0:11:58.31,Default,,0,0,0,,Yeah! The Ribbon Knight is so cool!
+Dialogue: 0,0:12:20.64,0:12:22.90,Default,,0,0,0,,Oh, Ribbon Knight...
+Dialogue: 0,0:12:22.93,0:12:24.63,Default,,0,0,0,,What on earth did those men do?
+Dialogue: 0,0:12:25.72,0:12:29.55,Default,,0,0,0,,They're being sent to the quarry just for singing the Ribbon Knight's song.
+Dialogue: 0,0:12:29.86,0:12:31.17,Default,,0,0,0,,The Ribbon Knight song?
+Dialogue: 0,0:12:31.42,0:12:32.44,Default,,0,0,0,,It's all the rage right now.
+Dialogue: 0,0:12:32.57,0:12:35.46,Default,,0,0,0,,Ribbon, ribbon, Ribbon Knight is the champion!
+Dialogue: 0,0:12:37.75,0:12:39.78,Default,,0,0,0,,Wait!
+Dialogue: 0,0:12:40.36,0:12:42.14,Default,,0,0,0,,Wait!
+Dialogue: 0,0:12:42.56,0:12:43.75,Default,,0,0,0,,It's the Ribbon Knight!
+Dialogue: 0,0:12:56.14,0:13:00.44,Default,,0,0,0,,♪ ribbon no kishi wa champion ♪\NRibbon Knight is the champion!
+Dialogue: 0,0:13:01.96,0:13:06.16,Default,,0,0,0,,♪ ribbon no kishi wa champion ♪\NRibbon Knight is the champion!
+Dialogue: 0,0:13:09.00,0:13:11.15,Default,,0,0,0,,Did the Ribbon Knight help the prisoners escape?
+Dialogue: 0,0:13:11.32,0:13:14.82,Default,,0,0,0,,He's so elusive—no telling when or where he'll show up.
+Dialogue: 0,0:13:15.10,0:13:19.09,Default,,0,0,0,,Ribbon Knight is the champion. Pretty cool, huh?
+Dialogue: 0,0:13:19.11,0:13:20.46,Default,,0,0,0,,You fool!
+Dialogue: 0,0:13:23.10,0:13:24.69,Default,,0,0,0,,Curse that Ribbon Knight!
+Dialogue: 0,0:13:27.84,0:13:30.20,Default,,0,0,0,,This plan is guaranteed to catch the Ribbon Knight.
+Dialogue: 0,0:13:31.27,0:13:32.81,Default,,0,0,0,,He's a hit with the kids.
+Dialogue: 0,0:13:32.88,0:13:34.48,Default,,0,0,0,,So we capture a kid...
+Dialogue: 0,0:13:34.60,0:13:36.74,Default,,0,0,0,,...and he's bound to come to the rescue.
+Dialogue: 0,0:13:38.13,0:13:39.38,Default,,0,0,0,,That's where we set our trap.
+Dialogue: 0,0:13:39.48,0:13:40.82,Default,,0,0,0,,He'll fall for it for sure!
+Dialogue: 0,0:13:42.23,0:13:47.26,Default,,0,0,0,,♪ ribbon no kishi wa champion ♪\NRibbon Knight is the champion!
+Dialogue: 0,0:13:48.36,0:13:53.56,Default,,0,0,0,,♪ Zuron, kingan, rairon, sansan, janpu! ♪\N-
+Dialogue: 0,0:13:54.39,0:13:55.94,Default,,0,0,0,,♪ jamporin ♪\NJump and bounce!
+Dialogue: 0,0:13:56.62,0:14:01.26,Default,,0,0,0,,♪ ribbon no kishi wa champion ♪\NRibbon Knight is the champion!
+Dialogue: 0,0:14:02.68,0:14:03.99,Default,,0,0,0,,♪ Zuron, king... ♪\N-
+Dialogue: 0,0:14:05.39,0:14:07.29,Default,,0,0,0,,Help!
+Dialogue: 0,0:14:10.44,0:14:12.48,Default,,0,0,0,,Here you go. It's delicious juice.
+Dialogue: 0,0:14:12.51,0:14:13.03,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:14:13.07,0:14:14.07,Default,,0,0,0,,We've got trouble!
+Dialogue: 0,0:14:17.48,0:14:18.30,Default,,0,0,0,,Damn it!
+Dialogue: 0,0:14:18.38,0:14:19.38,Default,,0,0,0,,That Ribbon Knight!
+Dialogue: 0,0:14:19.47,0:14:21.18,Default,,0,0,0,,This time, he's going straight to the grave!
+Dialogue: 0,0:14:48.23,0:14:48.85,Default,,0,0,0,,Cry!
+Dialogue: 0,0:14:48.88,0:14:49.35,Default,,0,0,0,,Cry!
+Dialogue: 0,0:14:49.44,0:14:51.54,Default,,0,0,0,,Cry, and the Ribbon Knight will come to rescue you!
+Dialogue: 0,0:14:52.94,0:14:54.44,Default,,0,0,0,,Once he comes, he's ours.
+Dialogue: 0,0:14:54.78,0:14:57.37,Default,,0,0,0,,When he enters the plaza, rain cannons, rockets,
+Dialogue: 0,0:14:57.40,0:15:00.08,Default,,0,0,0,,and arrows on him and finish him off!
+Dialogue: 0,0:15:07.02,0:15:08.46,Default,,0,0,0,,Hasn't he shown up yet?
+Dialogue: 0,0:15:14.48,0:15:15.10,Default,,0,0,0,,What's wrong?
+Dialogue: 0,0:15:15.22,0:15:16.98,Default,,0,0,0,,Did the Ribbon Knight chicken out?
+Dialogue: 0,0:15:28.90,0:15:30.72,Default,,0,0,0,,That Ribbon Knight!
+Dialogue: 0,0:15:34.19,0:15:36.07,Default,,0,0,0,,Is she too scared?
+Dialogue: 0,0:15:43.94,0:15:44.34,Default,,0,0,0,,Cry!
+Dialogue: 0,0:15:44.39,0:15:44.74,Default,,0,0,0,,Cry!
+Dialogue: 0,0:15:44.76,0:15:45.32,Default,,0,0,0,,Cry harder!
+Dialogue: 0,0:15:45.36,0:15:47.02,Default,,0,0,0,,If you cry, the Ribbon Knight...
+Dialogue: 0,0:15:51.83,0:15:53.07,Default,,0,0,0,,She came from the sky!
+Dialogue: 0,0:16:30.35,0:16:31.74,Default,,0,0,0,,No, it's burning! Water, water!
+Dialogue: 0,0:16:32.05,0:16:33.65,Default,,0,0,0,,Throw it on!
+Dialogue: 0,0:16:33.93,0:16:35.41,Default,,0,0,0,,Not on me!
+Dialogue: 0,0:16:42.97,0:16:44.13,Default,,0,0,0,,He got us!
+Dialogue: 0,0:16:45.38,0:16:47.70,Default,,0,0,0,,She's coming at us like crazy!
+Dialogue: 0,0:16:48.63,0:16:50.62,Default,,0,0,0,,Come on, everyone, hurry home!
+Dialogue: 0,0:16:52.02,0:16:53.75,Default,,0,0,0,,Thank you, Ribbon Knight!
+Dialogue: 0,0:16:54.26,0:16:55.26,Default,,0,0,0,,Be careful!
+Dialogue: 0,0:16:56.08,0:16:57.72,Default,,0,0,0,,Don't get caught this time!
+Dialogue: 0,0:17:01.88,0:17:03.91,Default,,0,0,0,,Damn it! Damn it! Damn it! Damn it!
+Dialogue: 0,0:17:03.94,0:17:04.50,Default,,0,0,0,,Hey!
+Dialogue: 0,0:17:04.56,0:17:06.19,Default,,0,0,0,,This is no time to cry!
+Dialogue: 0,0:17:06.74,0:17:07.13,Default,,0,0,0,,Hey!
+Dialogue: 0,0:17:07.16,0:17:08.44,Default,,0,0,0,,I know the Ribbon Knight's hideout!
+Dialogue: 0,0:17:08.44,0:17:09.06,Default,,0,0,0,,I mean, I know where the Ribbon Knight is!
+Dialogue: 0,0:17:09.06,0:17:09.90,Default,,0,0,0,,Ribbon Knight?
+Dialogue: 0,0:17:09.92,0:17:11.05,Default,,0,0,0,,Now isn't the time for that...
+Dialogue: 0,0:17:13.28,0:17:15.02,Default,,0,0,0,,Well, well, what a lovely young lady!
+Dialogue: 0,0:17:15.26,0:17:17.18,Default,,0,0,0,,You're looking for Ribbon Knight?
+Dialogue: 0,0:17:18.60,0:17:19.42,Default,,0,0,0,,That's right!
+Dialogue: 0,0:17:19.44,0:17:19.84,Default,,0,0,0,,That jerk!
+Dialogue: 0,0:17:19.90,0:17:20.81,Default,,0,0,0,,Where is he?
+Dialogue: 0,0:17:20.84,0:17:22.10,Default,,0,0,0,,I know!
+Dialogue: 0,0:17:22.16,0:17:22.81,Default,,0,0,0,,Really?
+Dialogue: 0,0:17:22.84,0:17:23.28,Default,,0,0,0,,Tell me!
+Dialogue: 0,0:17:23.34,0:17:24.87,Default,,0,0,0,,Lovely lady, please!
+Dialogue: 0,0:17:25.16,0:17:29.08,Default,,0,0,0,,I'm planning to tell Grand Duke Duralumin!
+Dialogue: 0,0:17:29.40,0:17:32.08,Default,,0,0,0,,I was just SO dying to meet Lord Bushy-Eyebrows!
+Dialogue: 0,0:17:32.11,0:17:33.92,Default,,0,0,0,,Forget that guy, why not me?
+Dialogue: 0,0:17:35.27,0:17:37.90,Default,,0,0,0,,I still think Lord Bushy-Eyebrows is way dreamier!
+Dialogue: 0,0:17:38.56,0:17:39.20,Default,,0,0,0,,Is that so!
+Dialogue: 0,0:17:39.31,0:17:39.84,Default,,0,0,0,,Fine then!
+Dialogue: 0,0:17:40.00,0:17:42.00,Default,,0,0,0,,Then allow me to escort you to the castle!
+Dialogue: 0,0:17:57.90,0:17:59.82,Default,,0,0,0,,Now, wait here, young lady!
+Dialogue: 0,0:18:00.01,0:18:02.46,Default,,0,0,0,,Grand Duke Duralumin will be arriving shortly!
+Dialogue: 0,0:18:03.06,0:18:04.77,Default,,0,0,0,,Yes, I'll wait right here like this!
+Dialogue: 0,0:18:05.14,0:18:05.74,Default,,0,0,0,,Splendid!
+Dialogue: 0,0:18:05.84,0:18:07.90,Default,,0,0,0,,What a polite young lady!
+Dialogue: 0,0:18:08.10,0:18:09.90,Default,,0,0,0,,Now, stay like that for a while!
+Dialogue: 0,0:18:19.04,0:18:22.26,Default,,0,0,0,,So you know where the Ribbon Knight is?
+Dialogue: 0,0:18:22.68,0:18:23.29,Default,,0,0,0,,Yes!
+Dialogue: 0,0:18:25.46,0:18:26.17,Default,,0,0,0,,Where is he?
+Dialogue: 0,0:18:26.22,0:18:27.94,Default,,0,0,0,,Where is the Ribbon Knight?
+Dialogue: 0,0:18:27.98,0:18:28.32,Default,,0,0,0,,Where is he?
+Dialogue: 0,0:18:28.40,0:18:30.14,Default,,0,0,0,,Where is the Ribbon Knight?
+Dialogue: 0,0:18:30.20,0:18:32.76,Default,,0,0,0,,I wanted to meet the Ribbon Knight because he's so dashing...
+Dialogue: 0,0:18:33.40,0:18:35.76,Default,,0,0,0,,I asked you where the Ribbon Knight is!
+Dialogue: 0,0:18:36.15,0:18:37.87,Default,,0,0,0,,Look up and answer me!
+Dialogue: 0,0:18:39.26,0:18:39.95,Default,,0,0,0,,Right here!
+Dialogue: 0,0:18:40.78,0:18:42.47,Default,,0,0,0,,The Ribbon Knight is right here!
+Dialogue: 0,0:18:49.87,0:18:52.22,Default,,0,0,0,,Someone capture the Ribbon Knight!
+Dialogue: 0,0:18:52.24,0:18:53.24,Default,,0,0,0,,Don't move!
+Dialogue: 0,0:18:53.93,0:18:56.76,Default,,0,0,0,,I promised the Ribbon Knight would show up at the castle!
+Dialogue: 0,0:18:56.99,0:18:58.35,Default,,0,0,0,,And here I am, just as promised!
+Dialogue: 0,0:18:58.52,0:18:59.52,Default,,0,0,0,,Don't move!
+Dialogue: 0,0:19:00.87,0:19:01.87,Default,,0,0,0,,I'll be taking this!
+Dialogue: 0,0:19:03.58,0:19:05.59,Default,,0,0,0,,Get the crown back!
+Dialogue: 0,0:19:29.12,0:19:31.18,Default,,0,0,0,,You brainless, bumbling idiot!
+Dialogue: 0,0:19:31.39,0:19:34.21,Default,,0,0,0,,What were you thinking, bringing the Ribbon Knight right to us?!
+Dialogue: 0,0:19:34.37,0:19:38.02,Default,,0,0,0,,I'm so mad I could burst!
+Dialogue: 0,0:19:38.14,0:19:39.14,Default,,0,0,0,,I'm furious!
+Dialogue: 0,0:19:57.44,0:19:58.44,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:19:58.62,0:19:59.86,Default,,0,0,0,,She's really late today...
+Dialogue: 0,0:20:02.25,0:20:03.27,Default,,0,0,0,,It's Gama!
+Dialogue: 0,0:20:06.81,0:20:07.86,Default,,0,0,0,,Hello!
+Dialogue: 0,0:20:07.88,0:20:08.38,Default,,0,0,0,,Open up!
+Dialogue: 0,0:20:08.71,0:20:09.32,Default,,0,0,0,,Hold on!
+Dialogue: 0,0:20:09.72,0:20:10.79,Default,,0,0,0,,Hold on, you say?!
+Dialogue: 0,0:20:10.82,0:20:12.70,Default,,0,0,0,,It's time for Sapphire to fetch water!
+Dialogue: 0,0:20:12.97,0:20:14.93,Default,,0,0,0,,What happened to Sapphire?!
+Dialogue: 0,0:20:15.22,0:20:16.06,Default,,0,0,0,,Wait a minute!
+Dialogue: 0,0:20:16.19,0:20:17.19,Default,,0,0,0,,Please wait!
+Dialogue: 0,0:20:17.23,0:20:18.23,Default,,0,0,0,,No way!
+Dialogue: 0,0:20:18.71,0:20:20.12,Default,,0,0,0,,You're acting suspicious!
+Dialogue: 0,0:20:22.98,0:20:23.74,Default,,0,0,0,,She's not here!
+Dialogue: 0,0:20:23.81,0:20:24.58,Default,,0,0,0,,Damn it!
+Dialogue: 0,0:20:24.60,0:20:25.60,Default,,0,0,0,,I knew it!
+Dialogue: 0,0:20:25.93,0:20:28.25,Default,,0,0,0,,Sapphire is the Ribbon Knight!
+Dialogue: 0,0:20:28.36,0:20:29.36,Default,,0,0,0,,That's not true!
+Dialogue: 0,0:20:29.44,0:20:30.52,Default,,0,0,0,,Like hell it isn't!
+Dialogue: 0,0:20:30.99,0:20:31.99,Default,,0,0,0,,Damn it!
+Dialogue: 0,0:20:32.13,0:20:35.67,Default,,0,0,0,,You know what happens if she escapes the Coffin Tower!
+Dialogue: 0,0:20:36.07,0:20:38.38,Default,,0,0,0,,The Queen gets tied up right along with her!
+Dialogue: 0,0:20:39.02,0:20:41.14,Default,,0,0,0,,Prepare yourself!
+Dialogue: 0,0:20:44.16,0:20:45.16,Default,,0,0,0,,That's not true!
+Dialogue: 0,0:20:45.72,0:20:50.26,Default,,0,0,0,,I'm sure Sapphire is fetching water right now!
+Dialogue: 0,0:20:50.41,0:20:51.72,Default,,0,0,0,,Don't give me that nonsense!
+Dialogue: 0,0:20:52.09,0:20:53.70,Default,,0,0,0,,All right, let's go check!
+Dialogue: 0,0:20:54.48,0:20:57.00,Default,,0,0,0,,If she's not there, the Queen gets this!
+Dialogue: 0,0:21:02.43,0:21:04.96,Default,,0,0,0,,Sapphire, we're finished!
+Dialogue: 0,0:21:21.17,0:21:25.09,Default,,0,0,0,,♪ Sonochi harema ga... ♪\NOne of these days...
+Dialogue: 0,0:21:25.34,0:21:26.64,Default,,0,0,0,,Hey! Hey! Hey!
+Dialogue: 0,0:21:27.32,0:21:28.55,Default,,0,0,0,,Where have you been?
+Dialogue: 0,0:21:28.84,0:21:31.73,Default,,0,0,0,,Earlier, Gama, You forgot to lock the door,
+Dialogue: 0,0:21:31.75,0:21:34.44,Default,,0,0,0,,so I snuck out to play with the mice in the attic.
+Dialogue: 0,0:21:34.80,0:21:37.00,Default,,0,0,0,,But I still started fetching water right on time!
+Dialogue: 0,0:21:37.25,0:21:38.07,Default,,0,0,0,,Shut up!
+Dialogue: 0,0:21:38.19,0:21:39.56,Default,,0,0,0,,You acted on your own!
+Dialogue: 0,0:21:40.50,0:21:41.60,Default,,0,0,0,,Don't laugh!
+Dialogue: 0,0:21:42.62,0:21:44.59,Default,,0,0,0,,Still, something isn't right...
+Dialogue: 0,0:21:44.86,0:21:47.28,Default,,0,0,0,,I feel like I'm being duped...
+Dialogue: 0,0:22:05.58,0:22:06.92,Default,,0,0,0,,Curse that Ribbon Knight!
+Dialogue: 0,0:22:07.14,0:22:08.14,Default,,0,0,0,,Her wit!
+Dialogue: 0,0:22:08.59,0:22:09.38,Default,,0,0,0,,Her courage!
+Dialogue: 0,0:22:09.41,0:22:10.00,Default,,0,0,0,,Her look!
+Dialogue: 0,0:22:10.06,0:22:11.06,Default,,0,0,0,,Her voice!
+Dialogue: 0,0:22:11.62,0:22:12.62,Default,,0,0,0,,Damn it!
+Dialogue: 0,0:22:12.72,0:22:15.82,Default,,0,0,0,,She's just one girl! She should be easy to crush!
+Dialogue: 0,0:22:16.64,0:22:19.39,Default,,0,0,0,,She drove off the assassin and didn't fall for the trap!
+Dialogue: 0,0:22:23.46,0:22:23.66,Default,,0,0,0,,No... wait!
+Dialogue: 0,0:22:23.80,0:22:25.06,Default,,0,0,0,,I have a great idea!
+Dialogue: 0,0:22:25.92,0:22:28.82,Default,,0,0,0,,I'm sick of hearing about your "great ideas"!
+Dialogue: 0,0:22:28.99,0:22:29.99,Default,,0,0,0,,No, no, no!
+Dialogue: 0,0:22:30.17,0:22:31.90,Default,,0,0,0,,This is the absolute best idea!
+Dialogue: 0,0:22:32.59,0:22:33.72,Default,,0,0,0,,Luckily, it's storming outside!
+Dialogue: 0,0:22:34.01,0:22:35.50,Default,,0,0,0,,We can't let this chance slip by...
+Dialogue: 0,0:22:36.57,0:22:38.66,Default,,0,0,0,,It's better to be patient than send a whole crowd of assassins!
+Dialogue: 0,0:22:38.87,0:22:40.46,Default,,0,0,0,,We'll have it done quietly!
+Dialogue: 0,0:23:00.76,0:23:01.54,Default,,0,0,0,,What?
+Dialogue: 0,0:23:01.70,0:23:04.18,Default,,0,0,0,,{\i1}Tonight's storm is perfect!{\i0}
+Dialogue: 0,0:23:05.38,0:23:07.80,Default,,0,0,0,,{\i1}Kill Sapphire and the Queen tonight!{\i0}
+Dialogue: 0,0:23:07.96,0:23:11.00,Default,,0,0,0,,{\i1}I have sent the reward with the messenger, Lord Nylon!{\i0}
+Dialogue: 0,0:23:18.01,0:23:19.08,Default,,0,0,0,,Kill both of them!
+Dialogue: 0,0:23:35.80,0:23:38.56,Default,,0,0,0,,I don't really feel like killing a girl, but...
+Dialogue: 0,0:23:50.58,0:23:51.58,Default,,0,0,0,,Gama!
+Dialogue: 0,0:23:51.59,0:23:52.59,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:23:52.75,0:23:54.97,Default,,0,0,0,,Where do you think you're going at this hour?
+Dialogue: 0,0:23:56.86,0:23:59.57,Default,,0,0,0,,I'm... nowhere... um...
+Dialogue: 0,0:23:59.59,0:24:02.56,Default,,0,0,0,,You were looking for an escape hole, weren't you?
+Dialogue: 0,0:24:03.04,0:24:06.42,Default,,0,0,0,,Alright, if you want out so bad, I'll let you out!
+Dialogue: 0,0:24:07.59,0:24:09.52,Default,,0,0,0,,Though you won't leave alive!
+Dialogue: 0,0:24:10.92,0:24:11.50,Default,,0,0,0,,Gama!
+Dialogue: 0,0:24:11.56,0:24:12.56,Default,,0,0,0,,What are you doing?!
 Dialogue: 0,0:24:34.34,0:24:37.96,Karaoke,,0,0,0,,{\k29}{\k22}Ta{\k18}ra{\k16}ri {\k18}Ra{\k20}tta {\k23}Ri{\k19}tta {\k26}Ra{\k17}tta {\k19}Ra{\k66}tta{\k69}ttaa
 Dialogue: 0,0:24:37.96,0:24:41.32,Karaoke,,0,0,0,,{\k8}{\k46}Kya{\k68}hoo! {\k35}Kya{\k42}hoo! {\k46}Kya{\k91}hoo!
 Dialogue: 0,0:24:37.96,0:24:41.32,OPED_Translation,,0,0,0,,Yahoo! Yahoo! Yahoo!

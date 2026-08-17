@@ -963,7 +963,7 @@ He's gruff and stubborn, but...
 
 238
 00:23:02,399 --> 00:23:03,440
-...kind Captain Blood.
+<i>...kind Captain Blood.</i>
 
 239
 00:23:48,340 --> 00:23:51,960

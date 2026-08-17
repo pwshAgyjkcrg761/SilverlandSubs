@@ -14,7 +14,8 @@ Audio File: 42 famine in silverland.mkv
 Video File: 42 famine in silverland.mkv
 Video AR Mode: 4
 Video AR Value: 1.314554
-Active Line: 2
+Scroll Position: 200
+Active Line: 215
 Video Position: 950
 
 [V4+ Styles]
@@ -48,213 +49,198 @@ Dialogue: 0,0:01:25.22,0:01:28.62,Karaoke,,0,0,0,,{\k6}{\k50}Hon{\k43}to {\k33}w
 Dialogue: 0,0:01:25.22,0:01:28.62,OPED_Translation,,0,0,0,,Truly, truly,
 Dialogue: 0,0:01:28.62,0:01:31.82,Karaoke,,0,0,0,,{\k18}{\k23}A{\k23}ta{\k27}shi {\k35}na{\k35}no {\k159}sa{\k0}
 Dialogue: 0,0:01:28.62,0:01:31.82,OPED_Translation,,0,0,0,,It’s really me!
-Dialogue: 0,0:01:44.11,0:01:50.15,Default,,0,0,0,,Forty-Second Episode\NThe Rat Man
-Dialogue: 0,0:02:08.50,0:02:10.73,Default,,0,0,0,,Many happy returns of the day, friend!
-Dialogue: 0,0:02:11.14,0:02:13.34,Default,,0,0,0,,Long live the harvest festival!
-Dialogue: 0,0:02:28.86,0:02:31.42,Default,,0,0,0,,These fireworks are magnificent.
-Dialogue: 0,0:02:33.10,0:02:35.17,Default,,0,0,0,,Oh, how beautiful!
-Dialogue: 0,0:02:36.18,0:02:38.49,Default,,0,0,0,,They are celebrating the wheat harvest.
-Dialogue: 0,0:02:38.74,0:02:41.57,Default,,0,0,0,,Yeah! This year was excellent!\NBut where are you going?
-Dialogue: 0,0:02:42.50,0:02:45.86,Default,,0,0,0,,- I’d like to go down into town.\N- Wait, I’m coming with you.
-Dialogue: 0,0:02:46.18,0:02:48.46,Default,,0,0,0,,Just a minute, time to change my clothes.
-Dialogue: 0,0:02:53.10,0:02:55.82,Default,,0,0,0,,But...! What a struggle! Are\Nyou coming in that outfit?
-Dialogue: 0,0:02:55.86,0:02:58.01,Default,,0,0,0,,Why?\NDon't tell me you don't like it!
-Dialogue: 0,0:03:04.54,0:03:07.06,Default,,0,0,0,,Long live Silverland! Hurrah!
-Dialogue: 0,0:03:17.82,0:03:20.05,Default,,0,0,0,,I've never seen such a rich harvest!
-Dialogue: 0,0:03:20.10,0:03:22.74,Default,,0,0,0,,- Let's have a little drink to it!\N- Yeah!
-Dialogue: 0,0:03:22.94,0:03:25.61,Default,,0,0,0,,Hey, the mice harvest is rich too!
-Dialogue: 0,0:03:37.42,0:03:40.17,Default,,0,0,0,,Help!
-Dialogue: 0,0:03:42.90,0:03:45.65,Default,,0,0,0,,The mice! Help!
-Dialogue: 0,0:03:51.54,0:03:55.01,Default,,0,0,0,,- So many mice!\N- Damn! But how many are there?!
-Dialogue: 0,0:04:06.10,0:04:09.49,Default,,0,0,0,,My dear little mice, this year\Nthe granaries of Silverland...
-Dialogue: 0,0:04:09.54,0:04:11.93,Default,,0,0,0,,...are full of excellent wheat!
-Dialogue: 0,0:04:12.14,0:04:14.70,Default,,0,0,0,,Devour as much as you want!
-Dialogue: 0,0:04:19.54,0:04:22.10,Default,,0,0,0,,Help! Help!
-Dialogue: 0,0:04:23.82,0:04:26.21,Default,,0,0,0,,Quick! Let's run!
-Dialogue: 0,0:04:44.86,0:04:47.25,Default,,0,0,0,,Where are all these mice coming from?
-Dialogue: 0,0:04:53.70,0:04:56.82,Default,,0,0,0,,Look there!\NThey’ve eaten all the wheat!
-Dialogue: 0,0:04:57.06,0:05:00.61,Default,,0,0,0,,We won't have anything left\Nto eat until the next harvest.
-Dialogue: 0,0:05:00.66,0:05:02.86,Default,,0,0,0,,How will we manage to get by?
-Dialogue: 0,0:05:02.90,0:05:06.74,Default,,0,0,0,,Just this year, when the harvest\Nhad been most abundant..!
-Dialogue: 0,0:05:07.42,0:05:09.94,Default,,0,0,0,,We don't even have\Nseeds to plant!
-Dialogue: 0,0:05:09.98,0:05:13.26,Default,,0,0,0,,If something doesn't happen,\Nwe'll all starve to death!
-Dialogue: 0,0:05:13.30,0:05:15.02,Default,,0,0,0,,That's for sure!
-Dialogue: 0,0:05:15.06,0:05:18.77,Default,,0,0,0,,I've never seen so many rats in\Nmy life! Where could they have come from?
-Dialogue: 0,0:05:25.70,0:05:29.77,Default,,0,0,0,,Did you see the commotion in the\Nvillage over those rats, Grand Duke?
-Dialogue: 0,0:05:29.82,0:05:32.81,Default,,0,0,0,,They said that all\Nthe grain has been plundered.
-Dialogue: 0,0:05:33.18,0:05:36.81,Default,,0,0,0,,An excellent move! That man\Nwith the rats is very powerful,
-Dialogue: 0,0:05:36.86,0:05:40.17,Default,,0,0,0,,just as an agent\Nof Union X should be.
-Dialogue: 0,0:05:40.74,0:05:44.81,Default,,0,0,0,,That way, when Union X attacks\Nour kingdom to subjugate it,
-Dialogue: 0,0:05:45.02,0:05:47.01,Default,,0,0,0,,they will succeed with great ease.
-Dialogue: 0,0:05:47.06,0:05:49.29,Default,,0,0,0,,Yes, they'll be too hungry\Nto run away!
-Dialogue: 0,0:05:55.14,0:05:58.02,Default,,0,0,0,,I am a messenger\Nfrom the Sovereign of Goldland!
-Dialogue: 0,0:05:58.06,0:06:00.42,Default,,0,0,0,,I have a message\Nfor His Majesty the King!
-Dialogue: 0,0:06:00.46,0:06:02.66,Default,,0,0,0,,A message\Nfrom the Sovereign of Goldland?!
-Dialogue: 0,0:06:11.22,0:06:13.50,Default,,0,0,0,,Listen!\NThe King of Goldland,
-Dialogue: 0,0:06:13.54,0:06:16.53,Default,,0,0,0,,informed of the calamity that\Nhas befallen our kingdom,
-Dialogue: 0,0:06:16.58,0:06:18.89,Default,,0,0,0,,has offered\Nto lend us some grain!
-Dialogue: 0,0:06:19.46,0:06:22.37,Default,,0,0,0,,Our Sovereign, who does\Nnot want his subjects to suffer...
-Dialogue: 0,0:06:22.42,0:06:26.49,Default,,0,0,0,,neither hunger nor famine, has\Naccepted the King of Goldland’s offer!
-Dialogue: 0,0:06:26.90,0:06:29.46,Default,,0,0,0,,- Hurrah!\N- Hooray!
-Dialogue: 0,0:06:30.50,0:06:32.38,Default,,0,0,0,,How kind of the King of Goldland!
-Dialogue: 0,0:06:32.42,0:06:34.65,Default,,0,0,0,,Our granaries will be full again!
-Dialogue: 0,0:06:49.06,0:06:51.05,Default,,0,0,0,,Let's see.
-Dialogue: 0,0:06:56.34,0:06:58.22,Default,,0,0,0,,Heavenly Father, forgive me!
-Dialogue: 0,0:06:58.26,0:07:00.86,Default,,0,0,0,,I'm too hungry\Nto be able to fall asleep.
-Dialogue: 0,0:07:02.90,0:07:06.02,Default,,0,0,0,,I hope you won't be too angry\Nwith me if I take something to eat.
-Dialogue: 0,0:07:11.82,0:07:15.02,Default,,0,0,0,,Where are Duralumin and Nylon\Ngoing in the middle of the night?
-Dialogue: 0,0:07:40.34,0:07:42.30,Default,,0,0,0,,Hello!
-Dialogue: 0,0:07:43.18,0:07:45.49,Default,,0,0,0,,I'm happy to see you.
-Dialogue: 0,0:07:46.62,0:07:48.66,Default,,0,0,0,,Are you about to sit down to eat?
-Dialogue: 0,0:07:49.74,0:07:52.62,Default,,0,0,0,,Yes! And I would be delighted\Nif you would have lunch with me.
-Dialogue: 0,0:07:52.66,0:07:55.13,Default,,0,0,0,,Thank you,\Nyou are very kind indeed!
-Dialogue: 0,0:07:56.18,0:07:59.01,Default,,0,0,0,,What a delicious smell! What is it?
-Dialogue: 0,0:07:59.30,0:08:02.10,Default,,0,0,0,,It's a soup of worms,\Ncentipedes, and spiders.
-Dialogue: 0,0:08:03.62,0:08:06.09,Default,,0,0,0,,This fry-up looks tasty.\NWhat is it?
-Dialogue: 0,0:08:06.14,0:08:08.21,Default,,0,0,0,,It's a toad omelet.
-Dialogue: 0,0:08:09.78,0:08:13.01,Default,,0,0,0,,- Would you like some caterpillar soup?\N- No, thank you..!
-Dialogue: 0,0:08:13.42,0:08:16.17,Default,,0,0,0,,Am I wrong, or do you not like\Nmy cooking very much?
-Dialogue: 0,0:08:16.22,0:08:18.53,Default,,0,0,0,,Perhaps you would only like some liqueur?
-Dialogue: 0,0:08:19.42,0:08:22.14,Default,,0,0,0,,- Yes, we'd prefer that!\N- We like liqueur very much!
-Dialogue: 0,0:08:24.34,0:08:26.41,Default,,0,0,0,,Good! It's truly delicious!
-Dialogue: 0,0:08:27.14,0:08:30.58,Default,,0,0,0,,You like it, eh? It's distilled\Nbat blood.
-Dialogue: 0,0:08:34.34,0:08:37.54,Default,,0,0,0,,Guys, not like that!\NRemember that I'm eating lunch!
-Dialogue: 0,0:08:38.22,0:08:40.34,Default,,0,0,0,,Forgive us, but we wanted to tell you...
-Dialogue: 0,0:08:40.38,0:08:43.02,Default,,0,0,0,,...that, after your little job\Nof making all the grain disappear,
-Dialogue: 0,0:08:43.06,0:08:46.66,Default,,0,0,0,,the King of Goldland has offered\Nto refill the empty granaries.
-Dialogue: 0,0:08:46.70,0:08:49.74,Default,,0,0,0,,Don't worry! I will make sure\Nthat not a single grain...
-Dialogue: 0,0:08:49.78,0:08:52.17,Default,,0,0,0,,...can reach Silverland!
-Dialogue: 0,0:08:52.22,0:08:55.02,Default,,0,0,0,,Will you manage to destroy\Nthat grain too?
-Dialogue: 0,0:08:55.42,0:08:57.81,Default,,0,0,0,,Certainly! After all,\Nthe time has come again...
-Dialogue: 0,0:08:57.86,0:09:00.30,Default,,0,0,0,,...to feed\Nmy dear little mice!
-Dialogue: 0,0:09:04.70,0:09:07.30,Default,,0,0,0,,Thank you, dear,\Nfor your long journey.
-Dialogue: 0,0:09:11.54,0:09:15.45,Default,,0,0,0,,They inform me that the wheat wagons\Nwill leave Goldland tomorrow morning,
-Dialogue: 0,0:09:15.50,0:09:17.89,Default,,0,0,0,,led by Prince Franz.
-Dialogue: 0,0:09:20.30,0:09:23.21,Default,,0,0,0,,And at what point do you intend\Nto have them attacked?
-Dialogue: 0,0:09:23.26,0:09:26.22,Default,,0,0,0,,Once past the border, the wagons\Nwill take the shortest route...
-Dialogue: 0,0:09:26.26,0:09:28.33,Default,,0,0,0,,...to reach\NSilverland Castle.
-Dialogue: 0,0:09:28.38,0:09:30.50,Default,,0,0,0,,I will wait for them near the river...
-Dialogue: 0,0:09:30.54,0:09:33.85,Default,,0,0,0,,...and every grain of wheat\Nwill end up as food for my mice.
-Dialogue: 0,0:09:34.70,0:09:38.01,Default,,0,0,0,,What if the tanks took\Nthe other road, the one to the West?
-Dialogue: 0,0:09:38.06,0:09:41.74,Default,,0,0,0,,It won't happen! It would be madness\Nto send the tanks down that road.
-Dialogue: 0,0:09:41.78,0:09:45.41,Default,,0,0,0,,In fact, not only is it very long,\Nbut it is also a mountain road:
-Dialogue: 0,0:09:45.46,0:09:49.22,Default,,0,0,0,,in many stretches it is so narrow\Nthat a tank would barely fit through.
-Dialogue: 0,0:09:49.26,0:09:52.01,Default,,0,0,0,,No, friends!\NI know where to wait for those tanks!
-Dialogue: 0,0:09:52.06,0:09:54.21,Default,,0,0,0,,Yes, I think you're right.
-Dialogue: 0,0:09:55.18,0:09:58.81,Default,,0,0,0,,You truly deserve to be\NMr. X's right-hand man!
-Dialogue: 0,0:10:06.74,0:10:08.89,Default,,0,0,0,,F... F... Friend, stay calm!
-Dialogue: 0,0:10:09.30,0:10:12.34,Default,,0,0,0,,I must give him something..\NHere, take this! You'll like this!
-Dialogue: 0,0:10:14.94,0:10:17.66,Default,,0,0,0,,Hey, my children!\NI have guests with me!
-Dialogue: 0,0:10:17.70,0:10:19.82,Default,,0,0,0,,Will you stop fighting?!
-Dialogue: 0,0:10:26.70,0:10:28.58,Default,,0,0,0,,What?! Are you serious?
-Dialogue: 0,0:10:28.62,0:10:31.01,Default,,0,0,0,,Yes! Hurry up or something\Nterrible will happen!
-Dialogue: 0,0:10:31.06,0:10:32.89,Default,,0,0,0,,I'm coming right away!
-Dialogue: 0,0:10:39.70,0:10:41.90,Default,,0,0,0,,Sapphire, hurry up!
-Dialogue: 0,0:10:46.94,0:10:49.58,Default,,0,0,0,,Sapphire, take me with you!
-Dialogue: 0,0:10:49.78,0:10:53.62,Default,,0,0,0,,Damn! Every time she's about to\Nmeet Franz, she loses her head!
-Dialogue: 0,0:11:09.34,0:11:11.86,Default,,0,0,0,,Now, my dear little mice,\Ncome with me!
-Dialogue: 0,0:11:11.90,0:11:14.89,Default,,0,0,0,,I will feed you the\Ntasty grain of Goldland!
-Dialogue: 0,0:11:14.94,0:11:17.41,Default,,0,0,0,,Get ready\Nfor another good feast!
-Dialogue: 0,0:11:19.10,0:11:21.01,Default,,0,0,0,,Let's go!
-Dialogue: 0,0:11:44.18,0:11:46.65,Default,,0,0,0,,Prince, we are ready!
-Dialogue: 0,0:11:47.90,0:11:50.37,Default,,0,0,0,,Good! I will bring\Nthis grain to Silverland.
-Dialogue: 0,0:11:50.42,0:11:52.89,Default,,0,0,0,,Whatever happens,\Nnothing will stop me!
-Dialogue: 0,0:11:54.86,0:11:57.14,Default,,0,0,0,,- Let's go!\N- Forward!
-Dialogue: 0,0:12:21.62,0:12:25.01,Default,,0,0,0,,Faster! Keep the horses moving!
-Dialogue: 0,0:12:25.06,0:12:28.82,Default,,0,0,0,,I fear it will be a tiring journey.\NWe have a long way to go.
-Dialogue: 0,0:12:59.22,0:13:01.34,Default,,0,0,0,,Greetings to you, mysterious knight!
-Dialogue: 0,0:13:01.38,0:13:04.37,Default,,0,0,0,,Prince Frank, Princess\NSapphire sends you this.
-Dialogue: 0,0:13:05.02,0:13:07.17,Default,,0,0,0,,Oh, Sapphire...
-Dialogue: 0,0:13:10.14,0:13:12.18,Default,,0,0,0,,What? She tells me to stop?!
-Dialogue: 0,0:13:12.22,0:13:15.93,Default,,0,0,0,,Prince, this is an opportunity\Nto get rid of all those mice.
-Dialogue: 0,0:13:15.98,0:13:17.97,Default,,0,0,0,,We will set a trap for them!
-Dialogue: 0,0:13:18.22,0:13:20.21,Default,,0,0,0,,I agree!
-Dialogue: 0,0:13:30.62,0:13:34.01,Default,,0,0,0,,Listen to me carefully! I will\Nshow you what you have to do.
-Dialogue: 0,0:13:35.10,0:13:37.74,Default,,0,0,0,,Remember to do\Nexactly what I said.
-Dialogue: 0,0:13:37.78,0:13:39.45,Default,,0,0,0,,You must not make a mistake!
-Dialogue: 0,0:13:40.22,0:13:42.89,Default,,0,0,0,,Yes, I believe this\Nplan can work.
-Dialogue: 0,0:13:43.82,0:13:46.10,Default,,0,0,0,,Your task will be very delicate.
-Dialogue: 0,0:13:46.90,0:13:50.21,Default,,0,0,0,,Everything is ready! Let's\Nget ready to spring the trap!
-Dialogue: 0,0:14:00.46,0:14:03.74,Default,,0,0,0,,Tonight, my dear little\Nmice will give a hard time...
-Dialogue: 0,0:14:03.78,0:14:07.22,Default,,0,0,0,,...to that fool Prince\NFrank! It will be fun!
-Dialogue: 0,0:14:19.18,0:14:21.33,Default,,0,0,0,,Keep up this pace!
-Dialogue: 0,0:14:24.82,0:14:28.42,Default,,0,0,0,,My dear little mice, all the\Ngrain in those wagons is for you!
-Dialogue: 0,0:14:48.74,0:14:52.26,Default,,0,0,0,,Go, my children! Loot!\NDestroy! Devour!
-Dialogue: 0,0:14:52.30,0:14:54.90,Default,,0,0,0,,And let not even a grain\Nof that wheat remain!
-Dialogue: 0,0:15:04.74,0:15:06.73,Default,,0,0,0,,Something is wrong!
-Dialogue: 0,0:15:07.42,0:15:10.06,Default,,0,0,0,,What?! They’re just mannequins!
-Dialogue: 0,0:15:15.22,0:15:18.58,Default,,0,0,0,,This is gunpowder! And here\Nthere are barrels full of oil!
-Dialogue: 0,0:15:19.02,0:15:21.58,Default,,0,0,0,,Curse it,\Nthey’ve set a trap for us!
-Dialogue: 0,0:15:24.18,0:15:26.30,Default,,0,0,0,,Shoot the arrows at the wagons!
-Dialogue: 0,0:15:32.02,0:15:33.69,Default,,0,0,0,,Dammit!
-Dialogue: 0,0:15:41.62,0:15:44.53,Default,,0,0,0,,Oh, no! My dear little mice!
-Dialogue: 0,0:15:46.62,0:15:48.34,Default,,0,0,0,,Dammit!
-Dialogue: 0,0:15:53.18,0:15:56.30,Default,,0,0,0,,An opening!\NThis way!
-Dialogue: 0,0:15:56.54,0:15:58.90,Default,,0,0,0,,Come,\Nyou who are survivors!
-Dialogue: 0,0:16:00.46,0:16:03.69,Default,,0,0,0,,Poor dears! Forgive me!\NI was a fool...
-Dialogue: 0,0:16:03.74,0:16:06.18,Default,,0,0,0,,...to let you end up\Nin this trap!
-Dialogue: 0,0:16:12.50,0:16:14.70,Default,,0,0,0,,It's time! Cut the ropes!
-Dialogue: 0,0:16:29.22,0:16:34.06,Default,,0,0,0,,Cursed Franz! I will remember\Nyou! One day I will have my revenge!
-Dialogue: 0,0:16:57.30,0:16:59.18,Default,,0,0,0,,Here are the wagons!
-Dialogue: 0,0:17:05.10,0:17:08.86,Default,,0,0,0,,They are preparing an\Nambush, exactly as I expected.
-Dialogue: 0,0:17:16.02,0:17:18.01,Default,,0,0,0,,Forward, attack!
-Dialogue: 0,0:17:30.58,0:17:32.94,Default,,0,0,0,,There’s a landslide! Stop the wagons!
-Dialogue: 0,0:17:41.26,0:17:44.65,Default,,0,0,0,,Damn that mysterious\Nknight! I’ll show him!
-Dialogue: 0,0:17:49.50,0:17:51.14,Default,,0,0,0,,Hurray, I hit him!
-Dialogue: 0,0:17:51.18,0:17:54.22,Default,,0,0,0,,Forward, let’s attack\Nhim! Finish him! Finish him!
-Dialogue: 0,0:17:55.62,0:17:57.34,Default,,0,0,0,,Who is there?
-Dialogue: 0,0:17:57.54,0:17:59.90,Default,,0,0,0,,Ready? Shoot!
-Dialogue: 0,0:17:59.94,0:18:02.01,Default,,0,0,0,,Help! Help!
-Dialogue: 0,0:18:02.70,0:18:04.69,Default,,0,0,0,,Are you alright, mysterious knight?
-Dialogue: 0,0:18:04.74,0:18:06.70,Default,,0,0,0,,Yes, nothing serious.\NIt's only a scratch.
-Dialogue: 0,0:18:06.74,0:18:08.81,Default,,0,0,0,,Thank you from the bottom of my heart for saving me
-Dialogue: 0,0:18:09.02,0:18:12.01,Default,,0,0,0,,No, it is I who must be grateful for your help.
-Dialogue: 0,0:18:12.30,0:18:14.42,Default,,0,0,0,,But what is the matter? Are you unwell?
-Dialogue: 0,0:18:14.90,0:18:17.57,Default,,0,0,0,,- It's nothing. - I'll have your wound treated immediately!
-Dialogue: 0,0:18:17.62,0:18:20.50,Default,,0,0,0,,No, thank you, I'm fine!\NGoodbye, Prince!
-Dialogue: 0,0:18:21.10,0:18:23.01,Default,,0,0,0,,See you soon!
-Dialogue: 0,0:18:26.02,0:18:28.01,Default,,0,0,0,,What a strange knight...!
-Dialogue: 0,0:18:29.02,0:18:32.33,Default,,0,0,0,,- It's the grain wagons!\N- Long live Prince Franz!
-Dialogue: 0,0:18:56.22,0:18:59.85,Default,,0,0,0,,He loves me not, he loves me, he loves me not.
-Dialogue: 0,0:19:04.54,0:19:06.61,Default,,0,0,0,,Oh! This is Sapphire!
-Dialogue: 0,0:19:08.02,0:19:10.22,Default,,0,0,0,,Forgive me for keeping you waiting.
-Dialogue: 0,0:19:11.18,0:19:13.49,Default,,0,0,0,,What is that bandage? Are you hurt?
-Dialogue: 0,0:19:15.02,0:19:17.41,Default,,0,0,0,,yes...\NNo, well, it was a thorn
-Dialogue: 0,0:19:17.46,0:19:19.58,Default,,0,0,0,,I hurt myself on the stem of a rose.
-Dialogue: 0,0:19:20.10,0:19:22.62,Default,,0,0,0,,A rose that has hurt your delightful little arm...
-Dialogue: 0,0:19:22.66,0:19:25.18,Default,,0,0,0,,...does not deserve to be a flower.\NI want to cut it down!
-Dialogue: 0,0:19:25.22,0:19:26.81,Default,,0,0,0,,How kind you are..
-Dialogue: 0,0:19:26.86,0:19:29.01,Default,,0,0,0,,- Princess Sapphire.\N- Franz..!
-Dialogue: 0,0:19:51.34,0:19:54.17,Default,,0,0,0,,Finally we are face to face, Prince Franz!
-Dialogue: 0,0:19:55.50,0:19:57.17,Default,,0,0,0,,I will have no mercy!
-Dialogue: 0,0:19:57.46,0:19:59.45,Default,,0,0,0,,Sapphire, throw me the sword!
-Dialogue: 0,0:20:14.50,0:20:16.33,Default,,0,0,0,,Damn it!
-Dialogue: 0,0:20:27.90,0:20:30.46,Default,,0,0,0,,- You're trapped!\N- Damn it!
-Dialogue: 0,0:20:30.78,0:20:34.14,Default,,0,0,0,,- Surrender, if you value your life!\N- Dammit!
-Dialogue: 0,0:20:36.62,0:20:39.22,Default,,0,0,0,,Now talk! Tell us who you really are!
-Dialogue: 0,0:20:39.34,0:20:41.90,Default,,0,0,0,,Why did you attack me?\NWhat were you trying to do?
-Dialogue: 0,0:20:43.38,0:20:45.77,Default,,0,0,0,,I wanted to avenge the mice you killed!
-Dialogue: 0,0:20:45.82,0:20:47.65,Default,,0,0,0,,Those dear little animals of mine!
-Dialogue: 0,0:20:47.90,0:20:49.49,Default,,0,0,0,,The mice?
-Dialogue: 0,0:20:51.62,0:20:55.82,Default,,0,0,0,,We're sorry, but this time\Nyou'll have to let our friend go.
-Dialogue: 0,0:20:56.02,0:20:58.14,Default,,0,0,0,,This guy is a friend of yours?
-Dialogue: 0,0:20:58.18,0:21:01.01,Default,,0,0,0,,Are you saying the two of you\Nhave allied yourselves with him?
-Dialogue: 0,0:21:01.70,0:21:04.77,Default,,0,0,0,,Certainly!\NI had requested his help.
-Dialogue: 0,0:21:04.82,0:21:08.37,Default,,0,0,0,,.. ...to have the mice invade the\Ntown and thus take possession of it!
-Dialogue: 0,0:21:12.54,0:21:16.01,Default,,0,0,0,,- Goodbye! - What?!\N- Hey, where are you going?
-Dialogue: 0,0:21:16.18,0:21:19.41,Default,,0,0,0,,Now that the plan has failed, I have\Nnothing more to do with you,
-Dialogue: 0,0:21:19.46,0:21:21.85,Default,,0,0,0,,so I'm going to Mr. X\Nto inform him!
-Dialogue: 0,0:21:22.22,0:21:24.21,Default,,0,0,0,,Don't be a fool!
-Dialogue: 0,0:21:24.38,0:21:27.45,Default,,0,0,0,,- Goodbye!\N- Wait! Wait!
-Dialogue: 0,0:21:32.58,0:21:35.33,Default,,0,0,0,,I remember that I have something\Nvery urgent to do!
-Dialogue: 0,0:21:35.38,0:21:37.21,Default,,0,0,0,,Bastard!
-Dialogue: 0,0:21:41.10,0:21:42.66,Default,,0,0,0,,No!
-Dialogue: 0,0:21:44.10,0:21:47.49,Default,,0,0,0,,You were very good, Franz, at\Ngiving those two a good lesson.
-Dialogue: 0,0:21:47.54,0:21:50.42,Default,,0,0,0,,You know, I believe they\Nwon't forget it for a long while
-Dialogue: 0,0:21:50.74,0:21:54.10,Default,,0,0,0,,We were lucky.\NUnion X will be discouraged now.
-Dialogue: 0,0:21:54.74,0:21:57.89,Default,,0,0,0,,It was a great feat\Nto defeat the rat man.
-Dialogue: 0,0:22:37.66,0:22:40.81,Default,,0,0,0,,You know what?\NIf you are always close,
-Dialogue: 0,0:22:40.86,0:22:43.69,Default,,0,0,0,,you will be so strong\Nas to overcome all adversity!
+Dialogue: 0,0:01:44.11,0:01:50.15,Default,,0,0,0,,Forty-Second Episode\NThe Rat Man\NThe Great Rat Removal Strategy
+Dialogue: 0,0:02:09.02,0:02:10.58,Default,,0,0,0,,Here's to good health and good fortune, my friend!
+Dialogue: 0,0:02:10.60,0:02:13.04,Default,,0,0,0,,What a glorious day! What a glorious day!
+Dialogue: 0,0:02:32.26,0:02:33.90,Default,,0,0,0,,Wow, so pretty!
+Dialogue: 0,0:02:34.14,0:02:34.75,Default,,0,0,0,,Yes.
+Dialogue: 0,0:02:36.29,0:02:38.45,Default,,0,0,0,,I'm going too!
+Dialogue: 0,0:02:39.91,0:02:41.36,Default,,0,0,0,,Wait for me. I'm coming too.
+Dialogue: 0,0:02:41.75,0:02:43.89,Default,,0,0,0,,Well, not dressed like that.
+Dialogue: 0,0:02:44.66,0:02:46.15,Default,,0,0,0,,Please wait for me then.
+Dialogue: 0,0:02:53.40,0:02:54.45,Default,,0,0,0,,You're terrible, Sapphire!
+Dialogue: 0,0:02:54.47,0:02:55.50,Default,,0,0,0,,Sorry to keep you waiting.
+Dialogue: 0,0:02:56.70,0:02:57.81,Default,,0,0,0,,Let's hurry.
+Dialogue: 0,0:03:04.72,0:03:07.26,Default,,0,0,0,,Now THIS is a fantastic party!
+Dialogue: 0,0:03:17.96,0:03:20.16,Default,,0,0,0,,A bumper crop! A bumper crop!
+Dialogue: 0,0:03:20.30,0:03:22.95,Default,,0,0,0,,Come on, drink up! Drink up!
+Dialogue: 0,0:03:23.28,0:03:25.36,Default,,0,0,0,,Why, look at that! We've got a bumper crop of rats this year, too!
+Dialogue: 0,0:03:42.21,0:03:44.21,Default,,0,0,0,,Help me!
+Dialogue: 0,0:04:06.35,0:04:11.34,Default,,0,0,0,,My dear rats, Silverland's storehouse is full of delicious wheat.
+Dialogue: 0,0:04:12.48,0:04:14.03,Default,,0,0,0,,Go quickly and eat up.
+Dialogue: 0,0:04:44.70,0:04:47.33,Default,,0,0,0,,Where on earth did so many rats come from?
+Dialogue: 0,0:04:55.00,0:04:56.76,Default,,0,0,0,,This has turned into a disaster...
+Dialogue: 0,0:04:56.86,0:04:57.86,Default,,0,0,0,,What should we do?
+Dialogue: 0,0:04:58.32,0:04:59.62,Default,,0,0,0,,We're in real trouble...
+Dialogue: 0,0:05:02.25,0:05:09.42,Default,,0,0,0,,It's over. There's nothing left to eat in this kingdom until the next harvest.
+Dialogue: 0,0:05:10.06,0:05:12.64,Default,,0,0,0,,Forget that! At this rate, we won't even have food on the table today!
+Dialogue: 0,0:05:15.34,0:05:18.17,Default,,0,0,0,,At this rate, we're all going to starve to death!
+Dialogue: 0,0:05:26.62,0:05:30.06,Default,,0,0,0,,Lord Duralumin, did you see the surfing in the village last night?
+Dialogue: 0,0:05:30.28,0:05:32.74,Default,,0,0,0,,You certainly went on a rampage again.
+Dialogue: 0,0:05:33.18,0:05:38.73,Default,,0,0,0,,Still, I'd expect no less from the Rat Man sent by Lord X.
+Dialogue: 0,0:05:39.04,0:05:40.48,Default,,0,0,0,,What incredible power!
+Dialogue: 0,0:05:41.46,0:05:46.86,Default,,0,0,0,,If Lord X's army invades next month, this kingdom won't stand a chance.
+Dialogue: 0,0:05:46.89,0:05:49.14,Default,,0,0,0,,Starving soldiers won't even have the energy to run away.
+Dialogue: 0,0:05:55.49,0:05:59.97,Default,,0,0,0,,I am an envoy from Goldland. I bring a letter for the King of Silverland.
+Dialogue: 0,0:06:00.70,0:06:02.72,Default,,0,0,0,,What? From Goldland?
+Dialogue: 0,0:06:11.59,0:06:13.01,Default,,0,0,0,,{\i1}Hear me, everyone!{\i0}
+Dialogue: 0,0:06:13.03,0:06:16.62,Default,,0,0,0,,{\i1}The King of neighboring Goldland, moved by our recent disaster, {\i0}
+Dialogue: 0,0:06:16.64,0:06:18.59,Default,,0,0,0,,{\i1}has agreed to lend us wheat.{\i0}
+Dialogue: 0,0:06:19.54,0:06:25.93,Default,,0,0,0,,{\i1}His Majesty urges all citizens to rest assured and rise above this tragedy.{\i0}
+Dialogue: 0,0:06:25.95,0:06:26.53,Default,,0,0,0,,{\i1}That is all!{\i0}
+Dialogue: 0,0:06:30.48,0:06:31.94,Default,,0,0,0,,That's great! That's great!
+Dialogue: 0,0:06:31.96,0:06:34.31,Default,,0,0,0,,Let's make the granary sturdier!
+Dialogue: 0,0:06:46.33,0:06:48.81,Default,,0,0,0,,Let's see... What are we missing...
+Dialogue: 0,0:06:51.24,0:06:52.65,Default,,0,0,0,,I'll tell you right now!
+Dialogue: 0,0:06:56.78,0:06:58.98,Default,,0,0,0,,Heavenly Father, forgive me!
+Dialogue: 0,0:06:59.56,0:07:02.14,Default,,0,0,0,,But I'm too hungry to sleep!
+Dialogue: 0,0:07:03.11,0:07:06.33,Default,,0,0,0,,Living as a human is so inconvenient!
+Dialogue: 0,0:07:12.14,0:07:13.52,Default,,0,0,0,,Duralumin and Nylon.
+Dialogue: 0,0:07:13.90,0:07:15.29,Default,,0,0,0,,Where are they going now?
+Dialogue: 0,0:07:16.65,0:07:17.65,Default,,0,0,0,,All right!
+Dialogue: 0,0:07:40.47,0:07:41.40,Default,,0,0,0,,Pardon the intrusion!
+Dialogue: 0,0:07:43.67,0:07:45.29,Default,,0,0,0,,Well, well... what a fine gathering!
+Dialogue: 0,0:07:46.90,0:07:48.56,Default,,0,0,0,,Oh? Interrupting your meal, are we?
+Dialogue: 0,0:07:49.90,0:07:52.38,Default,,0,0,0,,How about joining me?
+Dialogue: 0,0:07:53.24,0:07:54.37,Default,,0,0,0,,Well, don't mind if I do.
+Dialogue: 0,0:07:56.83,0:07:59.12,Default,,0,0,0,,This smells great. What is it?
+Dialogue: 0,0:07:59.15,0:08:02.28,Default,,0,0,0,,It's a stewed mixture of earthworms, caterpillars, and spiders.
+Dialogue: 0,0:08:03.60,0:08:05.88,Default,,0,0,0,,What about this delicious-looking fried dish?
+Dialogue: 0,0:08:06.83,0:08:08.19,Default,,0,0,0,,Oh no, that's a toad.
+Dialogue: 0,0:08:09.76,0:08:11.62,Default,,0,0,0,,Then how about centipede soup?
+Dialogue: 0,0:08:11.62,0:08:13.26,Default,,0,0,0,,No, I'll pass.
+Dialogue: 0,0:08:13.75,0:08:15.98,Default,,0,0,0,,Looks like none of it is to your liking.
+Dialogue: 0,0:08:16.61,0:08:17.92,Default,,0,0,0,,How about a drink, then?
+Dialogue: 0,0:08:19.82,0:08:20.89,Default,,0,0,0,,If it's booze...
+Dialogue: 0,0:08:20.98,0:08:21.98,Default,,0,0,0,,I'll gladly take some.
+Dialogue: 0,0:08:24.58,0:08:25.98,Default,,0,0,0,,Delicious! This hits the spot!
+Dialogue: 0,0:08:26.06,0:08:27.06,Default,,0,0,0,,All right!
+Dialogue: 0,0:08:27.41,0:08:29.64,Default,,0,0,0,,Newt wine really builds up your strength, after all.
+Dialogue: 0,0:08:34.81,0:08:37.40,Default,,0,0,0,,Hey, hey, I'm trying to eat here!
+Dialogue: 0,0:08:38.34,0:08:39.56,Default,,0,0,0,,Pardon me.
+Dialogue: 0,0:08:39.59,0:08:42.59,Default,,0,0,0,,We went through all that trouble using your power
+Dialogue: 0,0:08:42.61,0:08:46.08,Default,,0,0,0,,to wipe out the wheat, but that meddling King of Goldland...
+Dialogue: 0,0:08:46.60,0:08:47.96,Default,,0,0,0,,Don't worry.
+Dialogue: 0,0:08:47.99,0:08:52.26,Default,,0,0,0,,Not a single grain of wheat will reach them from Goldland.
+Dialogue: 0,0:08:52.54,0:08:55.35,Default,,0,0,0,,So on their way...?
+Dialogue: 0,0:08:55.37,0:09:00.22,Default,,0,0,0,,Exactly. It's about time I fed my lovely rats.
+Dialogue: 0,0:09:05.03,0:09:07.22,Default,,0,0,0,,There, there. Good work coming all this way.
+Dialogue: 0,0:09:11.74,0:09:14.46,Default,,0,0,0,,The wheat supply convoy will depart
+Dialogue: 0,0:09:14.49,0:09:17.48,Default,,0,0,0,,tomorrow morning under Prince Franz of Goldland's command.
+Dialogue: 0,0:09:20.47,0:09:22.85,Default,,0,0,0,,So, where will you crush them?
+Dialogue: 0,0:09:23.39,0:09:26.73,Default,,0,0,0,,First, after leaving Goldland, the convoy will stay here,
+Dialogue: 0,0:09:26.75,0:09:29.32,Default,,0,0,0,,and camp around this area the next night.
+Dialogue: 0,0:09:29.49,0:09:33.63,Default,,0,0,0,,We'll ambush them by this river and let the rats eat every last grain.
+Dialogue: 0,0:09:33.65,0:09:37.39,Default,,0,0,0,,But aren't there both eastern and western roads from Goldland?
+Dialogue: 0,0:09:38.10,0:09:41.18,Default,,0,0,0,,No, they are sure to take this western road.
+Dialogue: 0,0:09:41.54,0:09:43.76,Default,,0,0,0,,The eastern road is a steep mountain path,
+Dialogue: 0,0:09:43.78,0:09:46.86,Default,,0,0,0,,making it hard for wagons loaded with wheat to pass.
+Dialogue: 0,0:09:47.02,0:09:50.70,Default,,0,0,0,,Even if it's a detour, they'll undoubtedly take the flat western road.
+Dialogue: 0,0:09:51.65,0:09:52.95,Default,,0,0,0,,I see.
+Dialogue: 0,0:09:53.26,0:09:58.54,Default,,0,0,0,,You truly live up to your reputation as Lord X's right-hand man, Lord Rat.
+Dialogue: 0,0:10:07.25,0:10:09.34,Default,,0,0,0,,Oh no, I'm scared!
+Dialogue: 0,0:10:14.63,0:10:18.02,Default,,0,0,0,,Hey, we have a guests! Quiet down, will you?
+Dialogue: 0,0:10:27.42,0:10:28.06,Default,,0,0,0,,Is that true?
+Dialogue: 0,0:10:28.43,0:10:30.94,Default,,0,0,0,,That's right. If we don't hurry, something terrible will happen.
+Dialogue: 0,0:10:31.20,0:10:31.86,Default,,0,0,0,,All right!
+Dialogue: 0,0:10:39.52,0:10:41.57,Default,,0,0,0,,Sapphire! Hurry!
+Dialogue: 0,0:10:41.78,0:10:42.40,Default,,0,0,0,,Okay!
+Dialogue: 0,0:10:46.99,0:10:49.67,Default,,0,0,0,,Sapphire! Take me too!
+Dialogue: 0,0:10:50.85,0:10:53.51,Default,,0,0,0,,She gets so carried away whenever it comes to seeing Franz.
+Dialogue: 0,0:11:09.68,0:11:14.09,Default,,0,0,0,,Come out, my rats! Come out and follow me!
+Dialogue: 0,0:11:14.72,0:11:18.19,Default,,0,0,0,,I'll feed you plenty of delicious Goldland wheat!
+Dialogue: 0,0:11:19.65,0:11:20.65,Default,,0,0,0,,Go!
+Dialogue: 0,0:11:45.02,0:11:47.16,Default,,0,0,0,,Prince Franz, are you ready?
+Dialogue: 0,0:11:48.35,0:11:52.66,Default,,0,0,0,,All right, no matter what happens, we'll deliver this wheat to Silverland!
+Dialogue: 0,0:11:54.35,0:11:55.46,Default,,0,0,0,,Move out!
+Dialogue: 0,0:12:20.96,0:12:21.85,Default,,0,0,0,,We're too slow!
+Dialogue: 0,0:12:23.30,0:12:24.30,Default,,0,0,0,,Come on, keep pushing!
+Dialogue: 0,0:12:25.42,0:12:27.54,Default,,0,0,0,,Though we've still got quite a journey ahead of us...
+Dialogue: 0,0:12:52.61,0:12:54.82,Default,,0,0,0,,Franz! I'm glad I made it in time!
+Dialogue: 0,0:12:58.95,0:13:00.94,Default,,0,0,0,,Ribbon Knight! What are you doing here?
+Dialogue: 0,0:13:02.13,0:13:04.14,Default,,0,0,0,,Lord Sapphire sent this to you...
+Dialogue: 0,0:13:06.24,0:13:06.94,Default,,0,0,0,,Sapphire...
+Dialogue: 0,0:13:11.04,0:13:11.74,Default,,0,0,0,,What? An ambush?
+Dialogue: 0,0:13:12.95,0:13:15.16,Default,,0,0,0,,Prince Franz, this is our chance!
+Dialogue: 0,0:13:15.34,0:13:18.18,Default,,0,0,0,,Let's set a trap instead and wipe out those rats!
+Dialogue: 0,0:13:18.55,0:13:19.43,Default,,0,0,0,,Alright, let's do it!
+Dialogue: 0,0:13:47.46,0:13:50.08,Default,,0,0,0,,All set. Now we just wait for tomorrow.
+Dialogue: 0,0:14:18.93,0:14:20.70,Default,,0,0,0,,Hurry! Night will fall before we know it!
+Dialogue: 0,0:14:24.92,0:14:27.79,Default,,0,0,0,,Tonight, I'll teach them a lesson!
+Dialogue: 0,0:14:48.72,0:14:54.51,Default,,0,0,0,,Now, my lovely rats, go feast on the wheat in that wagon.
+Dialogue: 0,0:15:03.41,0:15:05.08,Default,,0,0,0,,The rats are acting strange.
+Dialogue: 0,0:15:09.06,0:15:10.06,Default,,0,0,0,,It's a doll!
+Dialogue: 0,0:15:14.55,0:15:16.22,Default,,0,0,0,,Oh, this is gunpowder.
+Dialogue: 0,0:15:16.86,0:15:18.75,Default,,0,0,0,,And oil... Oh no!
+Dialogue: 0,0:15:20.00,0:15:20.94,Default,,0,0,0,,Damn it!
+Dialogue: 0,0:15:24.70,0:15:26.14,Default,,0,0,0,,Now! Take that!
+Dialogue: 0,0:15:43.41,0:15:45.30,Default,,0,0,0,,My rats!
+Dialogue: 0,0:15:45.70,0:15:46.95,Default,,0,0,0,,Damn it!
+Dialogue: 0,0:15:55.49,0:15:56.54,Default,,0,0,0,,Over here! This way!
+Dialogue: 0,0:15:57.36,0:15:58.74,Default,,0,0,0,,Come to me, everyone!
+Dialogue: 0,0:16:00.78,0:16:03.64,Default,,0,0,0,,You poor things, forgive me!
+Dialogue: 0,0:16:03.82,0:16:05.70,Default,,0,0,0,,I let my guard down!
+Dialogue: 0,0:16:12.91,0:16:14.89,Default,,0,0,0,,Cut the ropes!
+Dialogue: 0,0:16:29.42,0:16:33.71,Default,,0,0,0,,Mark my words, Franz! I will have my revenge for this!
+Dialogue: 0,0:16:57.83,0:16:58.59,Default,,0,0,0,,It's close.
+Dialogue: 0,0:17:05.15,0:17:06.38,Default,,0,0,0,,Just as I thought!
+Dialogue: 0,0:17:07.14,0:17:08.73,Default,,0,0,0,,This dangerous pass is the exact spot they'd attack!
+Dialogue: 0,0:17:30.81,0:17:32.78,Default,,0,0,0,,Landslide! Halt!
+Dialogue: 0,0:17:41.44,0:17:43.76,Default,,0,0,0,,Curse that Ribbon Knight! Just you wait!
+Dialogue: 0,0:17:49.44,0:17:51.20,Default,,0,0,0,,Ha! A hit! It hit!
+Dialogue: 0,0:17:51.28,0:17:54.65,Default,,0,0,0,,Charge! Finish them off! Get them!
+Dialogue: 0,0:17:58.34,0:17:59.34,Default,,0,0,0,,Fire!
+Dialogue: 0,0:18:00.50,0:18:01.89,Default,,0,0,0,,Hey, wait!
+Dialogue: 0,0:18:02.52,0:18:04.34,Default,,0,0,0,,Are you alright, Ribbon Knight?
+Dialogue: 0,0:18:05.31,0:18:06.00,Default,,0,0,0,,I'm fine!
+Dialogue: 0,0:18:07.00,0:18:08.91,Default,,0,0,0,,Thank you for saving me back there...
+Dialogue: 0,0:18:09.28,0:18:11.76,Default,,0,0,0,,No, no, you've saved me so many times yourself...
+Dialogue: 0,0:18:13.36,0:18:14.19,Default,,0,0,0,,What about that wound?
+Dialogue: 0,0:18:14.38,0:18:15.04,Default,,0,0,0,,It's nothing...
+Dialogue: 0,0:18:15.46,0:18:16.86,Default,,0,0,0,,I'll have my men tend to it right away.
+Dialogue: 0,0:18:17.62,0:18:20.50,Default,,0,0,0,,No, I'm really fine. See you later!
+Dialogue: 0,0:18:21.85,0:18:22.78,Default,,0,0,0,,Ribbon Knight!
+Dialogue: 0,0:18:26.19,0:18:27.32,Default,,0,0,0,,What a strange fellow...
+Dialogue: 0,0:18:55.15,0:18:56.28,Default,,0,0,0,,Loves me...
+Dialogue: 0,0:18:56.62,0:18:57.66,Default,,0,0,0,,Loves me not...
+Dialogue: 0,0:18:59.16,0:18:59.65,Default,,0,0,0,,Loves me...
+Dialogue: 0,0:19:04.85,0:19:05.89,Default,,0,0,0,,Y-You're...!
+Dialogue: 0,0:19:08.29,0:19:09.29,Default,,0,0,0,,I'm sorry I'm late.
+Dialogue: 0,0:19:11.84,0:19:13.30,Default,,0,0,0,,How did you get that wound?
+Dialogue: 0,0:19:15.57,0:19:19.51,Default,,0,0,0,,I was just careless with a rose thorn in the garden...
+Dialogue: 0,0:19:20.20,0:19:22.68,Default,,0,0,0,,Any rose that dares hurt your beautiful hand,
+Dialogue: 0,0:19:22.70,0:19:25.28,Default,,0,0,0,,I'd slice to pieces with this sword!
+Dialogue: 0,0:19:26.06,0:19:26.79,Default,,0,0,0,,How sweet...
+Dialogue: 0,0:19:51.94,0:19:53.17,Default,,0,0,0,,
+Dialogue: 0,0:19:57.83,0:19:59.17,Default,,0,0,0,,Sapphire, the sword!
+Dialogue: 0,0:19:59.50,0:19:59.91,Default,,0,0,0,,Yes!
+Dialogue: 0,0:20:29.30,0:20:30.30,Default,,0,0,0,,Now's the time!
+Dialogue: 0,0:20:32.84,0:20:34.10,Default,,0,0,0,,Now stay still!
+Dialogue: 0,0:20:36.62,0:20:38.09,Default,,0,0,0,,Who are you?
+Dialogue: 0,0:20:38.12,0:20:39.45,Default,,0,0,0,,Why are you attacking us?
+Dialogue: 0,0:20:39.47,0:20:41.39,Default,,0,0,0,,Start talking!
+Dialogue: 0,0:20:42.86,0:20:47.24,Default,,0,0,0,,This is revenge for the rats you wiped out!
+Dialogue: 0,0:20:47.72,0:20:48.72,Default,,0,0,0,,Rats?
+Dialogue: 0,0:20:52.36,0:20:55.64,Default,,0,0,0,,Sorry to interrupt, but would you mind letting that rat man go?
+Dialogue: 0,0:20:56.20,0:20:57.77,Default,,0,0,0,,What are you saying, Lord Nylon?!
+Dialogue: 0,0:20:58.43,0:21:00.85,Default,,0,0,0,,So you teamed up with this man to...
+Dialogue: 0,0:21:02.28,0:21:03.05,Default,,0,0,0,,That's right.
+Dialogue: 0,0:21:03.07,0:21:06.95,Default,,0,0,0,,The plan was to use the rats to ravage the kingdom,
+Dialogue: 0,0:21:06.97,0:21:08.90,Default,,0,0,0,,then take it over.
+Dialogue: 0,0:21:14.75,0:21:15.89,Default,,0,0,0,,Hey, where are you going?
+Dialogue: 0,0:21:16.56,0:21:19.39,Default,,0,0,0,,Now that the plan has failed, I'm no longer needed here.
+Dialogue: 0,0:21:19.41,0:21:21.78,Default,,0,0,0,,I'll just go back and report to Lord X.
+Dialogue: 0,0:21:22.43,0:21:23.89,Default,,0,0,0,,Th-That's impossible!
+Dialogue: 0,0:21:23.99,0:21:24.99,Default,,0,0,0,,See ya!
+Dialogue: 0,0:21:25.51,0:21:27.29,Default,,0,0,0,,W-Wait!
+Dialogue: 0,0:21:33.28,0:21:34.94,Default,,0,0,0,,Sorry to bother you.
+Dialogue: 0,0:21:44.67,0:21:45.46,Default,,0,0,0,,Franz
+Dialogue: 0,0:21:46.17,0:21:46.99,Default,,0,0,0,,Franz
+Dialogue: 0,0:21:47.01,0:21:49.71,Default,,0,0,0,,That's enough. Why don't you forgive him now?
+Dialogue: 0,0:21:51.21,0:21:52.72,Default,,0,0,0,,What a hopeless bunch.
+Dialogue: 0,0:21:52.74,0:21:53.84,Default,,0,0,0,,Still, I'm glad it's over.
+Dialogue: 0,0:21:53.86,0:21:57.37,Default,,0,0,0,,They were a formidable enemy, but this should teach the X-Union a lesson.
+Dialogue: 0,0:22:37.91,0:22:44.42,Default,,0,0,0,,I think they'd look great together if they got along like those dolls.
 Dialogue: 0,0:23:21.38,0:23:25.02,Karaoke,,0,0,0,,{\k29}{\k22}Ta{\k18}ra{\k16}ri {\k18}Ra{\k20}tta {\k23}Ri{\k19}tta {\k26}Ra{\k17}tta {\k19}Ra{\k66}tta{\k69}ttaa
 Dialogue: 0,0:23:25.02,0:23:28.38,Karaoke,,0,0,0,,{\k8}{\k46}Kya{\k68}hoo! {\k35}Kya{\k42}hoo! {\k46}Kya{\k91}hoo!
 Dialogue: 0,0:23:25.02,0:23:28.38,OPED_Translation,,0,0,0,,Yahoo! Yahoo! Yahoo!

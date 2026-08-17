@@ -14,7 +14,8 @@ Audio File: 33 the egyptian adventure.mkv
 Video File: 33 the egyptian adventure.mkv
 Video AR Mode: 4
 Video AR Value: 1.314554
-Active Line: 2
+Scroll Position: 285
+Active Line: 288
 Video Position: 950
 
 [V4+ Styles]
@@ -48,231 +49,271 @@ Dialogue: 0,0:01:25.22,0:01:28.62,Karaoke,,0,0,0,,{\k6}{\k50}Hon{\k43}to {\k33}w
 Dialogue: 0,0:01:25.22,0:01:28.62,OPED_Translation,,0,0,0,,Truly, truly,
 Dialogue: 0,0:01:28.62,0:01:31.82,Karaoke,,0,0,0,,{\k18}{\k23}A{\k23}ta{\k27}shi {\k35}na{\k35}no {\k159}sa{\k0}
 Dialogue: 0,0:01:28.62,0:01:31.82,OPED_Translation,,0,0,0,,It’s really me!
-Dialogue: 0,0:01:44.10,0:01:50.14,Default,,0,0,0,,Thirty-Third Episode\NThe Egyptian Adventure
-Dialogue: 0,0:02:22.42,0:02:26.33,Default,,0,0,0,,Here on the sea there is a lot of mist,\Nespecially in winter!
-Dialogue: 0,0:02:26.42,0:02:29.38,Default,,0,0,0,,Often we don't notice the enemy\Nbecause of the mist.
-Dialogue: 0,0:02:29.42,0:02:32.09,Default,,0,0,0,,A day like today\Nis very dangerous,
-Dialogue: 0,0:02:32.14,0:02:34.50,Default,,0,0,0,,therefore it is important\Nto stay well on guard!
-Dialogue: 0,0:02:35.98,0:02:37.97,Default,,0,0,0,,An enemy ship!
-Dialogue: 0,0:02:41.10,0:02:43.09,Default,,0,0,0,,Who knows where it comes from...
-Dialogue: 0,0:02:50.34,0:02:52.33,Default,,0,0,0,,What could this possibly be?
-Dialogue: 0,0:02:55.42,0:02:57.54,Default,,0,0,0,,Don't worry.\NWhere do you come from?
-Dialogue: 0,0:02:57.58,0:03:00.33,Default,,0,0,0,,- Why are you wearing this\Niron ring? - I escaped!
-Dialogue: 0,0:03:00.38,0:03:04.14,Default,,0,0,0,,Please, be kind, take this\Nhorrible iron ring off me at once!
-Dialogue: 0,0:03:07.86,0:03:09.98,Default,,0,0,0,,Oh, no, I can't take it off you!
-Dialogue: 0,0:03:10.50,0:03:12.41,Default,,0,0,0,,What is this mark?
-Dialogue: 0,0:03:12.50,0:03:15.62,Default,,0,0,0,,This iron ring is the symbol\Nof the sacrifice to the deity.
-Dialogue: 0,0:03:17.50,0:03:20.06,Default,,0,0,0,,Sacrifice, you said?\NWhat sacrifice?
-Dialogue: 0,0:03:20.10,0:03:23.17,Default,,0,0,0,,Every year, ten girls are\Nburied alive underground...
-Dialogue: 0,0:03:23.22,0:03:25.50,Default,,0,0,0,,...as a sacrifice to the\Ndeity! Thank you very much!
-Dialogue: 0,0:03:25.58,0:03:28.94,Default,,0,0,0,,Buried alive?! How is\Nsuch cruelty possible?
-Dialogue: 0,0:03:32.02,0:03:34.09,Default,,0,0,0,,The persecutors are coming!
-Dialogue: 0,0:03:35.02,0:03:38.73,Default,,0,0,0,,- Quick, help me escape!\N- Hide behind the Fort! Go!
-Dialogue: 0,0:03:50.50,0:03:52.41,Default,,0,0,0,,It won't open anymore!
-Dialogue: 0,0:03:58.34,0:04:00.62,Default,,0,0,0,,Which country's soldiers are you?
-Dialogue: 0,0:04:01.02,0:04:04.22,Default,,0,0,0,,Girl destined for sacrifice,\Nwhy did you run away?
-Dialogue: 0,0:04:04.26,0:04:07.22,Default,,0,0,0,,- You will be severely punished!\N- But what are you talking about?
-Dialogue: 0,0:04:07.26,0:04:10.09,Default,,0,0,0,,I am Sapphire, the\NPrincess of Silverland!
-Dialogue: 0,0:04:10.14,0:04:13.98,Default,,0,0,0,,Shut up! You cannot deceive us\Neven if you have changed your clothes!
-Dialogue: 0,0:04:14.02,0:04:18.01,Default,,0,0,0,,You are a girl of our country\Nand the iron ring is the proof!
-Dialogue: 0,0:04:18.06,0:04:20.45,Default,,0,0,0,,That's enough! Take her to the ship!
-Dialogue: 0,0:05:08.90,0:05:12.53,Default,,0,0,0,,- I'm tired, let me sleep!\N- Come on, wake up! You lazybones!
-Dialogue: 0,0:05:21.42,0:05:23.81,Default,,0,0,0,,Are you awake, beautiful girl?
-Dialogue: 0,0:05:27.22,0:05:30.13,Default,,0,0,0,,Who are you? And where am I?
-Dialogue: 0,0:05:30.18,0:05:32.78,Default,,0,0,0,,Are you still trying\Nto feign ignorance?
-Dialogue: 0,0:05:32.82,0:05:35.86,Default,,0,0,0,,There is no one in the world\Nwho doesn't know this country!
-Dialogue: 0,0:05:35.90,0:05:37.97,Default,,0,0,0,,Look at that\Ngreat seaside city...
-Dialogue: 0,0:05:38.02,0:05:41.30,Default,,0,0,0,,...and look at those three\Ngreat pyramids in the desert!
-Dialogue: 0,0:05:43.30,0:05:45.21,Default,,0,0,0,,Great seaside city...
-Dialogue: 0,0:05:46.22,0:05:48.10,Default,,0,0,0,,Pyramids..!
-Dialogue: 0,0:05:48.18,0:05:52.22,Default,,0,0,0,,So, according to Dr. Uranaru,\Nthis country is Egypt!
-Dialogue: 0,0:05:54.34,0:05:57.25,Default,,0,0,0,,This is the largest city\Nin Egypt: Alexandria.
-Dialogue: 0,0:05:57.30,0:06:00.02,Default,,0,0,0,,And I am Morufo,\Nthe celebrant of rites.
-Dialogue: 0,0:06:01.02,0:06:05.14,Default,,0,0,0,,Morufo? Listen, Morufo,\Nyou're wrong, I am not that girl!
-Dialogue: 0,0:06:06.74,0:06:09.62,Default,,0,0,0,,Do you still intend\Nto feign ignorance?
-Dialogue: 0,0:06:09.86,0:06:14.01,Default,,0,0,0,,Don't you think it's very honorable\Nto be a sacrificial victim?
-Dialogue: 0,0:06:14.94,0:06:17.50,Default,,0,0,0,,You were chosen\Nbecause you are beautiful!
-Dialogue: 0,0:06:19.34,0:06:21.46,Default,,0,0,0,,And furthermore,\Nby offering sacrifices,
-Dialogue: 0,0:06:21.50,0:06:25.18,Default,,0,0,0,,we can calm the wrath of Osiris\Nand this country will know peace.
-Dialogue: 0,0:06:25.22,0:06:27.94,Default,,0,0,0,,It's nonsense! A country\Ncannot become peaceful...
-Dialogue: 0,0:06:27.98,0:06:30.34,Default,,0,0,0,,...by offering sacrifices!\N- Queen Deida wants you.
-Dialogue: 0,0:06:30.38,0:06:32.66,Default,,0,0,0,,...and nine other girls\Nto be offered in sacrifice!
-Dialogue: 0,0:06:32.70,0:06:34.69,Default,,0,0,0,,Ten girls? Damn!
-Dialogue: 0,0:06:34.74,0:06:37.49,Default,,0,0,0,,The ten beautiful girls\Nwill be offered in sacrifice..
-Dialogue: 0,0:06:37.54,0:06:40.01,Default,,0,0,0,,...on the first night\Nof the splendid full moon!
-Dialogue: 0,0:06:41.66,0:06:43.65,Default,,0,0,0,,I must manage to escape!
-Dialogue: 0,0:06:46.58,0:06:48.49,Default,,0,0,0,,Absolutely!
-Dialogue: 0,0:06:50.50,0:06:54.65,Default,,0,0,0,,- What is happening to you?\N- This iron ring hurts!
-Dialogue: 0,0:06:55.34,0:06:59.10,Default,,0,0,0,,- Please, take this ring off me!\N- Well... All right!
-Dialogue: 0,0:07:02.62,0:07:04.50,Default,,0,0,0,,There you go!
-Dialogue: 0,0:07:10.02,0:07:12.25,Default,,0,0,0,,Damn! How dare you?
-Dialogue: 0,0:07:23.66,0:07:25.65,Default,,0,0,0,,It's between the two of us now!
-Dialogue: 0,0:07:27.30,0:07:28.97,Default,,0,0,0,,Halt!
-Dialogue: 0,0:07:32.30,0:07:34.29,Default,,0,0,0,,Prince Amesisis?!
-Dialogue: 0,0:07:35.90,0:07:39.42,Default,,0,0,0,,I am the only son of the deceased\NQueen Deida: Amesisis.
-Dialogue: 0,0:07:41.22,0:07:43.89,Default,,0,0,0,,I am the Princess of Silverland:\NSapphire.
-Dialogue: 0,0:07:43.94,0:07:46.61,Default,,0,0,0,,Princess of Silverland?\NI want to believe you!
-Dialogue: 0,0:07:46.66,0:07:49.18,Default,,0,0,0,,Judging by your skill\Nin using the sword,
-Dialogue: 0,0:07:49.22,0:07:51.86,Default,,0,0,0,,you are different from the normal girls\Nof this country.
-Dialogue: 0,0:07:51.90,0:07:54.13,Default,,0,0,0,,Let me go, please.
-Dialogue: 0,0:07:55.70,0:07:57.50,Default,,0,0,0,,What is it?
-Dialogue: 0,0:07:57.54,0:08:00.61,Default,,0,0,0,,I know they mistook you for another,\Nbut I cannot decide alone..
-Dialogue: 0,0:08:00.66,0:08:03.26,Default,,0,0,0,,...what to do with you.\N- But why?
-Dialogue: 0,0:08:03.74,0:08:06.21,Default,,0,0,0,,This country is large\Nand I have no power!
-Dialogue: 0,0:08:06.50,0:08:08.49,Default,,0,0,0,,I will hold a meeting and we will decide.
-Dialogue: 0,0:08:08.54,0:08:10.90,Default,,0,0,0,,Until then, please,\Nwait here!
-Dialogue: 0,0:08:13.26,0:08:15.25,Default,,0,0,0,,Prince Amesisis...
-Dialogue: 0,0:08:20.82,0:08:23.38,Default,,0,0,0,,Come on, wake up!\NWake up, I said! Wake up!
-Dialogue: 0,0:08:23.42,0:08:26.22,Default,,0,0,0,,Wake up! Wake up! Wake\Nup! Wake up! Wake up!
-Dialogue: 0,0:08:29.82,0:08:33.02,Default,,0,0,0,,Listen, boy, is your parrot\Ngood at imitating people?
-Dialogue: 0,0:08:33.06,0:08:35.45,Default,,0,0,0,,I can imitate anyone from any country!
-Dialogue: 0,0:08:35.58,0:08:38.70,Default,,0,0,0,,- Are you able to fly?\N- I have flown all over the world!
-Dialogue: 0,0:08:39.70,0:08:42.22,Default,,0,0,0,,Don't believe him!\NBut he really can fly!
-Dialogue: 0,0:08:42.26,0:08:46.38,Default,,0,0,0,,What a fine friend! You meanie, you're\Nmaking me out to be a liar to everyone!
-Dialogue: 0,0:08:46.42,0:08:48.38,Default,,0,0,0,,Please, fly to my country!
-Dialogue: 0,0:08:48.42,0:08:51.57,Default,,0,0,0,,Tell a boy named Tink\Nto come help Sapphire!
-Dialogue: 0,0:08:51.62,0:08:54.06,Default,,0,0,0,,- It's very easy!\N- I'll reward you later!
-Dialogue: 0,0:08:54.10,0:08:56.90,Default,,0,0,0,,- Alright! Where is your country?\N- It's to the North!
-Dialogue: 0,0:08:56.94,0:08:59.74,Default,,0,0,0,,Go, fly to the North!\NGo call Tink, understood?
-Dialogue: 0,0:09:00.02,0:09:04.09,Default,,0,0,0,,Away, to the North!\NAway, to the North!
-Dialogue: 0,0:09:15.02,0:09:18.86,Default,,0,0,0,,Nine more girls!\NI will be buried alive with them!
-Dialogue: 0,0:09:19.02,0:09:23.09,Default,,0,0,0,,Prince! Prince Amesisis!\NI can't go back!
-Dialogue: 0,0:09:23.74,0:09:26.57,Default,,0,0,0,,Prince!\NPrince, what will become of me?
-Dialogue: 0,0:09:28.50,0:09:31.62,Default,,0,0,0,,You will be a sacrificial victim,\Nit's already been decided!
-Dialogue: 0,0:09:31.66,0:09:33.65,Default,,0,0,0,,Oh..! Oh, no!
-Dialogue: 0,0:09:34.54,0:09:38.82,Default,,0,0,0,,Since we cannot manage to bring back\Nthe girl who escaped to your country,
-Dialogue: 0,0:09:39.66,0:09:43.02,Default,,0,0,0,,you must replace her\Nand sacrifice yourself in her place.
-Dialogue: 0,0:09:43.58,0:09:46.65,Default,,0,0,0,,We will prepare a\Nvery honorable sacrificial ceremony.
-Dialogue: 0,0:09:46.70,0:09:49.42,Default,,0,0,0,,You will be offered\Nto the late Queen Deida.
-Dialogue: 0,0:09:51.14,0:09:53.97,Default,,0,0,0,,It is said that Deida\Nwas the second woman...
-Dialogue: 0,0:09:54.02,0:09:56.90,Default,,0,0,0,,...most beautiful in the world,\Nafter Cleopatra.
-Dialogue: 0,0:09:57.90,0:10:02.18,Default,,0,0,0,,She is dead and now lies\Nmore beautiful than ever in the pyramid.
-Dialogue: 0,0:10:04.18,0:10:08.25,Default,,0,0,0,,But the youth and beauty\Nof the Queen will fade forever,
-Dialogue: 0,0:10:08.42,0:10:12.13,Default,,0,0,0,,if every year there are not\Noffered as sacrificial victims...
-Dialogue: 0,0:10:12.42,0:10:14.94,Default,,0,0,0,,...the ten most beautiful maidens\Nof the country.
-Dialogue: 0,0:10:15.62,0:10:18.74,Default,,0,0,0,,And you have ten poor girls killed just because you believe...
-Dialogue: 0,0:10:18.78,0:10:21.77,Default,,0,0,0,,- ...in a stupid superstition?\N- A superstition?!
-Dialogue: 0,0:10:21.82,0:10:24.70,Default,,0,0,0,,Prince, do you also believe this implausible story?
-Dialogue: 0,0:10:25.10,0:10:28.49,Default,,0,0,0,,I believe it because Morufo believes it and assures me that it is the truth.
-Dialogue: 0,0:10:28.54,0:10:33.09,Default,,0,0,0,,I never tell lies! It is necessary to offer sacrificial victims.
-Dialogue: 0,0:10:33.14,0:10:36.50,Default,,0,0,0,,If we do not offer these victims, your late mother will be destroyed
-Dialogue: 0,0:10:36.54,0:10:39.58,Default,,0,0,0,,..and Osiris will punish Egypt!\N- It's a lie, Prince!
-Dialogue: 0,0:10:39.62,0:10:42.22,Default,,0,0,0,,- Enough!\N- I have nothing more to say!
-Dialogue: 0,0:10:42.74,0:10:47.42,Default,,0,0,0,,You and the other nine girls\Nwill all be sacrificed in five days.
-Dialogue: 0,0:10:47.62,0:10:50.18,Default,,0,0,0,,Until then, enjoy yourselves\Nas much as you can.
-Dialogue: 0,0:10:55.14,0:10:57.02,Default,,0,0,0,,I will not die!
-Dialogue: 0,0:10:58.18,0:11:00.54,Default,,0,0,0,,Tink, what are you doing?
-Dialogue: 0,0:11:29.26,0:11:32.57,Default,,0,0,0,,But why is none of you\Ncrying or trying to escape?
-Dialogue: 0,0:11:32.62,0:11:35.01,Default,,0,0,0,,I was chosen because I am beautiful.
-Dialogue: 0,0:11:35.22,0:11:37.97,Default,,0,0,0,,But were you perhaps\Nborn to be buried alive?
-Dialogue: 0,0:11:40.78,0:11:42.93,Default,,0,0,0,,Listen, let's escape somehow.
-Dialogue: 0,0:11:42.98,0:11:45.54,Default,,0,0,0,,I'm sure we will manage to\Nsave ourselves if we run away.
-Dialogue: 0,0:11:45.58,0:11:47.41,Default,,0,0,0,,- Sapphire!\N- Tink!
-Dialogue: 0,0:11:47.66,0:11:50.70,Default,,0,0,0,,Are you Tink?\NPrince Amesisis...
-Dialogue: 0,0:11:51.22,0:11:53.42,Default,,0,0,0,,- There is only one\Nway to save you - How?
-Dialogue: 0,0:11:53.62,0:11:57.41,Default,,0,0,0,,It is to marry me! If you\Nmarry me, you will not die!
-Dialogue: 0,0:11:58.74,0:12:01.41,Default,,0,0,0,,Please, marry me! I\Nlike you very much!
-Dialogue: 0,0:12:02.34,0:12:04.65,Default,,0,0,0,,And I can make you truly happy!
-Dialogue: 0,0:12:08.70,0:12:10.69,Default,,0,0,0,,Choose another girl.
-Dialogue: 0,0:12:11.10,0:12:14.62,Default,,0,0,0,,I do not want to be saved\Nmyself and let nine other girls die.
-Dialogue: 0,0:12:14.94,0:12:18.82,Default,,0,0,0,,You can still live for three days,\Nyou know. I await your answer.
-Dialogue: 0,0:13:13.66,0:13:15.65,Default,,0,0,0,,Tink, where are you?
-Dialogue: 0,0:13:28.02,0:13:32.49,Default,,0,0,0,,Oh, beautiful girls, this is\Na night of the full moon.
-Dialogue: 0,0:13:34.62,0:13:36.69,Default,,0,0,0,,Osiris...
-Dialogue: 0,0:13:37.54,0:13:41.01,Default,,0,0,0,,Please, receive these\Nsacrificial victims...
-Dialogue: 0,0:13:41.18,0:13:45.89,Default,,0,0,0,,...and please, offer youth\Nand beauty to Queen Deida.
-Dialogue: 0,0:13:48.22,0:13:50.86,Default,,0,0,0,,May Queen Deida be young!
-Dialogue: 0,0:13:50.90,0:13:53.73,Default,,0,0,0,,May Queen Deida be beautiful!
-Dialogue: 0,0:13:55.22,0:13:58.69,Default,,0,0,0,,Enough! No matter how much\Nyou pray, the dead can never again...
-Dialogue: 0,0:13:58.74,0:14:02.53,Default,,0,0,0,,...return to being young and beautiful!\N- Fear the wrath of Osiris!
-Dialogue: 0,0:14:02.58,0:14:04.57,Default,,0,0,0,,A dead woman does not bloom again!
-Dialogue: 0,0:14:04.62,0:14:08.14,Default,,0,0,0,,Have you gone mad from the\Nfear of becoming a sacrificial victim?
-Dialogue: 0,0:14:08.18,0:14:12.09,Default,,0,0,0,,Lead the victims to the pyramid\Nwhere Queen Deida is sleeping!
-Dialogue: 0,0:14:20.22,0:14:23.50,Default,,0,0,0,,Sapphire! Sapphire,\Nplease, grant my request!
-Dialogue: 0,0:14:23.54,0:14:25.82,Default,,0,0,0,,Marry me now or it will be too late!
-Dialogue: 0,0:14:30.30,0:14:31.62,Default,,0,0,0,,No!
-Dialogue: 0,0:14:55.38,0:14:58.13,Default,,0,0,0,,Sapphire!\NSapphire!
-Dialogue: 0,0:14:58.90,0:15:01.54,Default,,0,0,0,,Tink, is that you?\NTink, where are you?
-Dialogue: 0,0:15:05.38,0:15:08.37,Default,,0,0,0,,Sapphire, I'm asking you\Nfor the last time: marry me!
-Dialogue: 0,0:15:08.42,0:15:12.13,Default,,0,0,0,,Otherwise it will be too late!\N- Prince Amesisis...
-Dialogue: 0,0:15:12.38,0:15:14.61,Default,,0,0,0,,I don't want you to\Ndie, Sapphire! Marry me!
-Dialogue: 0,0:15:14.66,0:15:18.42,Default,,0,0,0,,Even if you repeat it to\Nme endlessly, I won't do it!
-Dialogue: 0,0:15:18.50,0:15:22.62,Default,,0,0,0,,I am not so petty as to save\Nmyself by letting the other girls die.
-Dialogue: 0,0:15:34.82,0:15:37.49,Default,,0,0,0,,If I did that,\Nit would be over for me.
-Dialogue: 0,0:15:47.22,0:15:50.93,Default,,0,0,0,,- Sapphire!\N- Tink, I'm here!
-Dialogue: 0,0:15:51.58,0:15:54.18,Default,,0,0,0,,- What is it?\N- Sapphire! - Sapphire!
-Dialogue: 0,0:15:57.90,0:15:59.73,Default,,0,0,0,,Get them!
-Dialogue: 0,0:16:04.18,0:16:06.06,Default,,0,0,0,,Oh, my God!
-Dialogue: 0,0:16:06.10,0:16:08.74,Default,,0,0,0,,Help! Help!\NHelp!
-Dialogue: 0,0:16:24.62,0:16:26.53,Default,,0,0,0,,Tink!
-Dialogue: 0,0:16:33.06,0:16:35.53,Default,,0,0,0,,Sapphire, how cowardly I\Nam! I don't have the courage...
-Dialogue: 0,0:16:35.58,0:16:38.33,Default,,0,0,0,,...to go against Morufo\Nand Osiris and save you.
-Dialogue: 0,0:16:39.10,0:16:41.09,Default,,0,0,0,,Please, don't die!
-Dialogue: 0,0:17:35.66,0:17:38.73,Default,,0,0,0,,Be careful not to step\Non that black stone!
-Dialogue: 0,0:17:54.02,0:17:56.30,Default,,0,0,0,,I warned you,\Nstupid boy.
-Dialogue: 0,0:17:56.54,0:17:59.90,Default,,0,0,0,,In this pyramid there are\Nmany traps to avoid thieves.
-Dialogue: 0,0:18:13.98,0:18:17.89,Default,,0,0,0,,Osiris, please, receive\Nthese sacrificial victims.
-Dialogue: 0,0:18:28.42,0:18:30.33,Default,,0,0,0,,Goodbye forever!
-Dialogue: 0,0:18:35.94,0:18:37.98,Default,,0,0,0,,That will be your coffin!
-Dialogue: 0,0:18:40.42,0:18:43.81,Default,,0,0,0,,Great Osiris, please help\Nus, I don't want to die!
-Dialogue: 0,0:18:45.14,0:18:47.21,Default,,0,0,0,,Try to take courage.
-Dialogue: 0,0:18:48.50,0:18:52.29,Default,,0,0,0,,- Please, help us!\N- Calm down and take courage.
-Dialogue: 0,0:18:52.34,0:18:54.86,Default,,0,0,0,,I am certain there is\Na secret hole to escape.
-Dialogue: 0,0:18:54.90,0:18:58.42,Default,,0,0,0,,I am sure of it, because the pyramid\Nhas many secret passages.
-Dialogue: 0,0:19:02.22,0:19:04.21,Default,,0,0,0,,I'm tired! I'm tired!
-Dialogue: 0,0:19:06.06,0:19:08.58,Default,,0,0,0,,Hel... Help!
-Dialogue: 0,0:19:09.42,0:19:11.98,Default,,0,0,0,,Help! Help!\NA crocodile!
-Dialogue: 0,0:19:12.46,0:19:15.21,Default,,0,0,0,,Help! Help! Help!
-Dialogue: 0,0:19:15.26,0:19:17.30,Default,,0,0,0,,We are being attacked\Nfrom both sides!
-Dialogue: 0,0:19:20.78,0:19:22.77,Default,,0,0,0,,Thank you very much.
-Dialogue: 0,0:19:25.50,0:19:28.10,Default,,0,0,0,,You saved our lives.\NThank you!
-Dialogue: 0,0:19:28.66,0:19:30.70,Default,,0,0,0,,I'll be able to sell this boy well.
-Dialogue: 0,0:19:30.74,0:19:34.02,Default,,0,0,0,,He can be sold for about 300 Yen.\NBoss, it's a real fortune!
-Dialogue: 0,0:19:34.62,0:19:37.14,Default,,0,0,0,,- But what are you talking about?\N- We are slave traders.
-Dialogue: 0,0:19:37.18,0:19:41.02,Default,,0,0,0,,You can be sold for 300 Yen.\NDon't you think that's a good price?
-Dialogue: 0,0:19:41.70,0:19:47.01,Default,,0,0,0,,You want to sell me?\NNo! No! No! No!
-Dialogue: 0,0:19:48.02,0:19:51.41,Default,,0,0,0,,No! No! No! No! No!\NI have to help Sapphire!
-Dialogue: 0,0:19:51.46,0:19:54.37,Default,,0,0,0,,Let me go!\NI really can't stay with you!
-Dialogue: 0,0:19:54.42,0:19:58.13,Default,,0,0,0,,Look, are you going to put me down,\Nyes or no?
-Dialogue: 0,0:20:05.10,0:20:07.09,Default,,0,0,0,,There is no hole!
-Dialogue: 0,0:20:07.54,0:20:10.14,Default,,0,0,0,,I would have sworn there\Nhad to be one.
-Dialogue: 0,0:20:10.74,0:20:13.94,Default,,0,0,0,,Leave it alone, we have no\Nchoice but to resign ourselves!
-Dialogue: 0,0:20:14.18,0:20:18.30,Default,,0,0,0,,Osiris, sacrifice, and this\Nsort of thing are superstitions.
-Dialogue: 0,0:20:18.34,0:20:20.70,Default,,0,0,0,,When you die you can no\Nlonger become beautiful again!
-Dialogue: 0,0:20:20.74,0:20:24.58,Default,,0,0,0,,Don't say those things! I am\Nafraid of Osiris's punishment!
-Dialogue: 0,0:20:24.62,0:20:27.53,Default,,0,0,0,,And I am telling you that\Nthere can be no punishment!
-Dialogue: 0,0:20:28.34,0:20:30.33,Default,,0,0,0,,The mummy!
-Dialogue: 0,0:20:58.14,0:21:01.69,Default,,0,0,0,,There is a secret door! Hurry\Nup! Quickly, let's escape from here!
-Dialogue: 0,0:21:13.90,0:21:15.49,Default,,0,0,0,,Come!
-Dialogue: 0,0:21:18.50,0:21:20.57,Default,,0,0,0,,Come, quickly! Here is the exit!
-Dialogue: 0,0:21:34.10,0:21:36.01,Default,,0,0,0,,Oh...! Morufo!
-Dialogue: 0,0:21:36.22,0:21:38.26,Default,,0,0,0,,Slave merchant,\Nthis time these girls...
-Dialogue: 0,0:21:38.30,0:21:41.42,Default,,0,0,0,,..they have given me a lot of trouble\Nbecause of this girl.
-Dialogue: 0,0:21:41.46,0:21:43.37,Default,,0,0,0,,Slave merchant?!
-Dialogue: 0,0:21:44.62,0:21:47.93,Default,,0,0,0,,It seems to me that this year the girls\Nare quite beautiful, right?
-Dialogue: 0,0:21:47.98,0:21:50.81,Default,,0,0,0,,- You will pay a good price.\N- All right. - I understand, Morufo!
-Dialogue: 0,0:21:50.90,0:21:52.86,Default,,0,0,0,,Every year\Nyou choose beautiful girls,
-Dialogue: 0,0:21:52.90,0:21:55.21,Default,,0,0,0,,saying that you offer them\Nas sacrificial victims..
-Dialogue: 0,0:21:55.26,0:21:57.62,Default,,0,0,0,,...and instead you sell them\Nto a slave merchant!
-Dialogue: 0,0:21:57.90,0:22:00.42,Default,,0,0,0,,Isn't it a good trick\Nto say that I kill them...
-Dialogue: 0,0:22:00.46,0:22:02.37,Default,,0,0,0,,..to protect\Nthe Queen's beauty.
-Dialogue: 0,0:22:02.42,0:22:04.41,Default,,0,0,0,,..and to appease the wrath of Osiris?
-Dialogue: 0,0:22:04.78,0:22:07.30,Default,,0,0,0,,- Tie up the slaves!\N- Let me go!
-Dialogue: 0,0:22:12.50,0:22:16.57,Default,,0,0,0,,Damn! Did they really have to\Nshut me in a jar full of pepper?
-Dialogue: 0,0:22:19.42,0:22:21.30,Default,,0,0,0,,Sapphire!
-Dialogue: 0,0:22:21.34,0:22:25.38,Default,,0,0,0,,If they found me now I could no longer\Nsave Sapphire! What can I do?
-Dialogue: 0,0:22:26.74,0:22:28.62,Default,,0,0,0,,I've got it!
-Dialogue: 0,0:22:28.90,0:22:31.37,Default,,0,0,0,,Father in heaven,\Nplease forgive me,
-Dialogue: 0,0:22:31.42,0:22:33.70,Default,,0,0,0,,but I'll have to make\Nthe camels eat some pepper.
-Dialogue: 0,0:22:33.74,0:22:35.73,Default,,0,0,0,,I'm sorry, camels
-Dialogue: 0,0:22:42.74,0:22:44.62,Default,,0,0,0,,What's happening?
-Dialogue: 0,0:22:46.34,0:22:48.46,Default,,0,0,0,,Tink, you've finally arrived!
-Dialogue: 0,0:22:50.66,0:22:52.57,Default,,0,0,0,,Forward, Morufo!
-Dialogue: 0,0:22:55.38,0:22:57.82,Default,,0,0,0,,Forward...\NWait!
-Dialogue: 0,0:23:06.58,0:23:08.57,Default,,0,0,0,,Here I am, Morufo!
-Dialogue: 0,0:23:23.82,0:23:27.81,Default,,0,0,0,,Morufo! Leave her alone\Nand fight against me!
-Dialogue: 0,0:23:47.50,0:23:51.29,Default,,0,0,0,,Thank you, Sapphire. Now\NI am strong because of you!
-Dialogue: 0,0:23:53.98,0:23:57.74,Default,,0,0,0,,I will try to make my country\Na country as good as yours.
+Dialogue: 0,0:01:44.10,0:01:50.14,Default,,0,0,0,,Thirty-Third Episode\NThe Egyptian Adventure\NPyramid Monster
+Dialogue: 0,0:02:22.96,0:02:25.89,Default,,0,0,0,,That's why your watch is so important.
+Dialogue: 0,0:02:25.91,0:02:29.37,Default,,0,0,0,,Especially in winter, fog rolls over these waters.
+Dialogue: 0,0:02:29.39,0:02:33.00,Default,,0,0,0,,If an enemy ship attacked under cover of it, we'd never know.
+Dialogue: 0,0:02:33.40,0:02:35.05,Default,,0,0,0,,Days like today are the most dangerous.
+Dialogue: 0,0:02:35.89,0:02:37.31,Default,,0,0,0,,What's that?!
+Dialogue: 0,0:02:41.86,0:02:43.14,Default,,0,0,0,,{\i1}It's a suspicious ship.{\i0}
+Dialogue: 0,0:02:49.00,0:02:50.42,Default,,0,0,0,,{\i1}What country is this girl from?{\i0}
+Dialogue: 0,0:02:54.87,0:02:56.31,Default,,0,0,0,,Don't worry, you're safe.
+Dialogue: 0,0:02:56.33,0:02:57.39,Default,,0,0,0,,Where are you from?
+Dialogue: 0,0:02:57.52,0:02:59.12,Default,,0,0,0,,Why are you wearing those iron rings?
+Dialogue: 0,0:02:59.16,0:03:00.46,Default,,0,0,0,,I ran away.
+Dialogue: 0,0:03:00.48,0:03:03.27,Default,,0,0,0,,Please, take off these iron rings.
+Dialogue: 0,0:03:04.06,0:03:04.85,Default,,0,0,0,,All right.
+Dialogue: 0,0:03:07.76,0:03:08.76,Default,,0,0,0,,They won't come off.
+Dialogue: 0,0:03:10.13,0:03:11.80,Default,,0,0,0,,What on earth is this mark?
+Dialogue: 0,0:03:11.90,0:03:13.30,Default,,0,0,0,,It is the mark of sacrifice.
+Dialogue: 0,0:03:13.61,0:03:17.38,Default,,0,0,0,,Every year, ten girls wearing these bracelets are sacrificed.
+Dialogue: 0,0:03:18.00,0:03:18.91,Default,,0,0,0,,A sacrifice?
+Dialogue: 0,0:03:18.93,0:03:20.11,Default,,0,0,0,,How terrible...
+Dialogue: 0,0:03:23.82,0:03:25.02,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:03:25.39,0:03:28.66,Default,,0,0,0,,Tell me more. Where is your country located?
+Dialogue: 0,0:03:31.82,0:03:32.82,Default,,0,0,0,,Pursuers!
+Dialogue: 0,0:03:35.13,0:03:36.47,Default,,0,0,0,,Please help me escape!
+Dialogue: 0,0:03:36.67,0:03:38.43,Default,,0,0,0,,Quick! Hide in that fortress!
+Dialogue: 0,0:03:50.59,0:03:51.43,Default,,0,0,0,,This is bad...
+Dialogue: 0,0:03:58.67,0:04:00.14,Default,,0,0,0,,What country's soldiers are you?!
+Dialogue: 0,0:04:01.40,0:04:04.18,Default,,0,0,0,,Young maiden chosen for the sacrifice, why did you run?!
+Dialogue: 0,0:04:04.37,0:04:05.44,Default,,0,0,0,,Your crime is grave!
+Dialogue: 0,0:04:05.69,0:04:06.76,Default,,0,0,0,,Make no mistake!
+Dialogue: 0,0:04:06.78,0:04:09.84,Default,,0,0,0,,I am Princess Sapphire of Silverland!
+Dialogue: 0,0:04:09.98,0:04:11.11,Default,,0,0,0,,Don't be ridiculous!
+Dialogue: 0,0:04:11.44,0:04:14.20,Default,,0,0,0,,Disguising yourself as a young maiden of this land won't fool anyone!
+Dialogue: 0,0:04:14.67,0:04:17.17,Default,,0,0,0,,That bracelet you're wearing is absolute proof!
+Dialogue: 0,0:04:17.54,0:04:18.74,Default,,0,0,0,,Don't waste time!
+Dialogue: 0,0:04:18.77,0:04:20.16,Default,,0,0,0,,Drag the young maiden away!
+Dialogue: 0,0:04:23.59,0:04:25.54,Default,,0,0,0,,Let go! You've got the wrong person!
+Dialogue: 0,0:05:09.77,0:05:10.66,Default,,0,0,0,,I'm sick of this!
+Dialogue: 0,0:05:10.69,0:05:12.32,Default,,0,0,0,,{\i1}I'm sick of this.{\i0}
+Dialogue: 0,0:05:21.57,0:05:24.02,Default,,0,0,0,,Are you awake, beautiful maiden?
+Dialogue: 0,0:05:24.68,0:05:25.39,Default,,0,0,0,,Who are you...?
+Dialogue: 0,0:05:27.24,0:05:27.92,Default,,0,0,0,,Where...
+Dialogue: 0,0:05:28.63,0:05:29.72,Default,,0,0,0,,where am I?
+Dialogue: 0,0:05:30.26,0:05:31.56,Default,,0,0,0,,Trying to play dumb, are you?
+Dialogue: 0,0:05:32.03,0:05:33.59,Default,,0,0,0,,This large port town,
+Dialogue: 0,0:05:33.61,0:05:37.56,Default,,0,0,0,,and the great triangular structures beyond the desert...
+Dialogue: 0,0:05:37.58,0:05:40.92,Default,,0,0,0,,Everyone in the world knows this place.
+Dialogue: 0,0:05:43.45,0:05:44.56,Default,,0,0,0,,The big port...
+Dialogue: 0,0:05:46.17,0:05:47.52,Default,,0,0,0,,and the pyramids
+Dialogue: 0,0:05:48.25,0:05:52.10,Default,,0,0,0,,So this is Egypt, just like Dr. Uranai told me about!
+Dialogue: 0,0:05:54.45,0:05:58.12,Default,,0,0,0,,Yes, this is Egypt's premier city, Alexandria.
+Dialogue: 0,0:05:58.14,0:06:00.94,Default,,0,0,0,,And I am the Master of Ceremonies, Morpho.
+Dialogue: 0,0:06:01.00,0:06:01.80,Default,,0,0,0,,Morpho!
+Dialogue: 0,0:06:01.93,0:06:02.93,Default,,0,0,0,,Hey, Morpho!
+Dialogue: 0,0:06:02.95,0:06:05.48,Default,,0,0,0,,This is all a case of mistaken identity!
+Dialogue: 0,0:06:07.08,0:06:08.86,Default,,0,0,0,,Still trying to play dumb?
+Dialogue: 0,0:06:09.26,0:06:13.78,Default,,0,0,0,,Tell me, beautiful maiden, isn't it an honor to be sacrificed?
+Dialogue: 0,0:06:14.40,0:06:17.68,Default,,0,0,0,,You were chosen as a sacrifice because you are so beautiful.
+Dialogue: 0,0:06:19.31,0:06:24.54,Default,,0,0,0,,Sacrifices appease Osiris, the God of Death, and keep our land at peace!
+Dialogue: 0,0:06:24.77,0:06:28.22,Default,,0,0,0,,That's nonsense! A kingdom can't gain peace through sacrifice!
+Dialogue: 0,0:06:28.22,0:06:33.44,Default,,0,0,0,,Silence! The god Osiris and Queen Ida demand ten sacrifices!
+Dialogue: 0,0:06:33.69,0:06:34.51,Default,,0,0,0,,Ten?!
+Dialogue: 0,0:06:34.81,0:06:36.09,Default,,0,0,0,,On the night of the next full moon,
+Dialogue: 0,0:06:36.11,0:06:39.85,Default,,0,0,0,,all ten of you beautiful maidens will be sacrificed!
+Dialogue: 0,0:06:40.97,0:06:43.16,Default,,0,0,0,,{\i1}I have to find a way to escape...{\i0}
+Dialogue: 0,0:06:46.22,0:06:47.22,Default,,0,0,0,,Very well.
+Dialogue: 0,0:06:49.81,0:06:51.74,Default,,0,0,0,,Goodness, what's wrong?
+Dialogue: 0,0:06:52.90,0:06:53.93,Default,,0,0,0,,These iron shackles...
+Dialogue: 0,0:06:53.95,0:06:57.34,Default,,0,0,0,,Could you please adjust them so they don't hurt?
+Dialogue: 0,0:06:57.81,0:06:59.62,Default,,0,0,0,,That's easily done.
+Dialogue: 0,0:07:01.91,0:07:03.70,Default,,0,0,0,,Oh, there we go.
+Dialogue: 0,0:07:10.11,0:07:12.31,Default,,0,0,0,,Damn it, taking me for a fool!
+Dialogue: 0,0:07:13.24,0:07:13.88,Default,,0,0,0,,There!
+Dialogue: 0,0:07:23.85,0:07:24.85,Default,,0,0,0,,Not bad!
+Dialogue: 0,0:07:26.90,0:07:27.40,Default,,0,0,0,,Hold it!
+Dialogue: 0,0:07:32.01,0:07:33.22,Default,,0,0,0,,Prince Amensis
+Dialogue: 0,0:07:36.04,0:07:38.79,Default,,0,0,0,,I am Amensis, the late Queen Ida's only son.
+Dialogue: 0,0:07:41.22,0:07:43.02,Default,,0,0,0,,Princess Sapphire of Silverland.
+Dialogue: 0,0:07:43.66,0:07:45.00,Default,,0,0,0,,Princess of Silverland,
+Dialogue: 0,0:07:45.59,0:07:46.88,Default,,0,0,0,,I believe your words.
+Dialogue: 0,0:07:47.45,0:07:51.62,Default,,0,0,0,,Your noble grace and skill with a sword prove you are no ordinary maiden.
+Dialogue: 0,0:07:52.04,0:07:54.06,Default,,0,0,0,,Please, let me go back.
+Dialogue: 0,0:07:56.20,0:07:57.20,Default,,0,0,0,,Is something wrong?
+Dialogue: 0,0:07:57.33,0:08:01.90,Default,,0,0,0,,Even if it's a case of mistaken identity, I cannot decide your fate on my own.
+Dialogue: 0,0:08:02.35,0:08:03.00,Default,,0,0,0,,No!
+Dialogue: 0,0:08:03.47,0:08:06.58,Default,,0,0,0,,This kingdom is vast, and I lack authority.
+Dialogue: 0,0:08:07.29,0:08:10.33,Default,,0,0,0,,I will call a council to decide. Please wait here until then.
+Dialogue: 0,0:08:13.59,0:08:14.67,Default,,0,0,0,,Prince Amensis!
+Dialogue: 0,0:08:21.36,0:08:23.19,Default,,0,0,0,,I'm really sick of this!
+Dialogue: 0,0:08:28.72,0:08:29.29,Default,,0,0,0,,{\i1}I know!{\i0}
+Dialogue: 0,0:08:29.76,0:08:32.41,Default,,0,0,0,,Hey, kid, is that parrot good at mimicking people?
+Dialogue: 0,0:08:32.66,0:08:35.46,Default,,0,0,0,,{\i1}Hey kid, is that parrot good at mimicking people?{\i0}
+Dialogue: 0,0:08:35.75,0:08:37.40,Default,,0,0,0,,Can that parrot fly well?
+Dialogue: 0,0:08:37.97,0:08:39.68,Default,,0,0,0,,{\i1}Can that parrot fly well?{\i0}
+Dialogue: 0,0:08:40.59,0:08:41.97,Default,,0,0,0,,It could fly around the world!
+Dialogue: 0,0:08:42.37,0:08:44.00,Default,,0,0,0,,{\i1}...around the world.{\i0}
+Dialogue: 0,0:08:44.03,0:08:46.88,Default,,0,0,0,,That's a bit of an exaggeration.
+Dialogue: 0,0:08:46.91,0:08:51.53,Default,,0,0,0,,Listen, go to my kingdom and tell Tink to come help me.
+Dialogue: 0,0:08:51.83,0:08:52.83,Default,,0,0,0,,Easy enough!
+Dialogue: 0,0:08:52.97,0:08:54.31,Default,,0,0,0,,I'll reward you later.
+Dialogue: 0,0:08:54.50,0:08:56.00,Default,,0,0,0,,Which way is your kingdom?
+Dialogue: 0,0:08:56.02,0:08:56.91,Default,,0,0,0,,{\i1}To the north.{\i0}
+Dialogue: 0,0:08:56.94,0:08:59.59,Default,,0,0,0,,Right, fly as fast as you can to the north.
+Dialogue: 0,0:09:03.21,0:09:04.67,Default,,0,0,0,,{\i1}This way.{\i0}
+Dialogue: 0,0:09:15.43,0:09:17.94,Default,,0,0,0,,I'm going to be buried alive along with these people!
+Dialogue: 0,0:09:19.13,0:09:21.57,Default,,0,0,0,,Your Highness! Prince Amensis!
+Dialogue: 0,0:09:21.59,0:09:23.72,Default,,0,0,0,,Won't you please release me, Sapphire?
+Dialogue: 0,0:09:24.90,0:09:27.05,Default,,0,0,0,,Your Highness! What's going to happen to me?
+Dialogue: 0,0:09:28.63,0:09:31.89,Default,,0,0,0,,You will be sacrificed as well. It has been decided.
+Dialogue: 0,0:09:32.66,0:09:33.75,Default,,0,0,0,,{\i1}That's absurd...{\i0}
+Dialogue: 0,0:09:33.77,0:09:37.32,Default,,0,0,0,,You are taking the place of the young maiden who fled to your kingdom.
+Dialogue: 0,0:09:38.36,0:09:38.91,Default,,0,0,0,,Now then,
+Dialogue: 0,0:09:38.93,0:09:44.81,Default,,0,0,0,,you are the sacrifices to be offered to the spirit of the late Queen Ida.
+Dialogue: 0,0:09:44.83,0:09:47.37,Default,,0,0,0,,As you know,
+Dialogue: 0,0:09:47.40,0:09:51.77,Default,,0,0,0,,Queen Ida was said to be the second most beautiful woman,
+Dialogue: 0,0:09:51.79,0:09:53.10,Default,,0,0,0,, right after Cleopatra.
+Dialogue: 0,0:09:54.31,0:09:55.82,Default,,0,0,0,,Even in death,
+Dialogue: 0,0:09:55.84,0:09:57.87,Default,,0,0,0,,she retains her youth and beauty,
+Dialogue: 0,0:09:57.89,0:10:03.44,Default,,0,0,0,,sleeping mummified deep within the pyramid.
+Dialogue: 0,0:10:07.25,0:10:11.67,Default,,0,0,0,,But the mummy's youth and beauty
+Dialogue: 0,0:10:11.70,0:10:15.40,Default,,0,0,0,,will fade unless you, the sacrifices, offer yours.
+Dialogue: 0,0:10:15.77,0:10:16.60,Default,,0,0,0,,It's just superstition.
+Dialogue: 0,0:10:17.02,0:10:19.63,Default,,0,0,0,,To take ten lives every year over something like this...
+Dialogue: 0,0:10:20.28,0:10:21.28,Default,,0,0,0,,{\i1}Superstition?!{\i0}
+Dialogue: 0,0:10:21.68,0:10:24.86,Default,,0,0,0,,Highness! As young as you are, do you really believe this?
+Dialogue: 0,0:10:25.08,0:10:28.30,Default,,0,0,0,,I'm just believing what Morpho taught me.
+Dialogue: 0,0:10:28.53,0:10:30.27,Default,,0,0,0,,I do not lie.
+Dialogue: 0,0:10:30.29,0:10:34.17,Default,,0,0,0,,Without a sacrifice, your mother's mummy will hideously decay,
+Dialogue: 0,0:10:34.19,0:10:38.49,Default,,0,0,0,,and the curse of Osiris, God of Death, will fall upon the Kingdom of Egypt.
+Dialogue: 0,0:10:38.52,0:10:39.52,Default,,0,0,0,,He's lying, Highness!
+Dialogue: 0,0:10:39.54,0:10:40.58,Default,,0,0,0,,Stop it!
+Dialogue: 0,0:10:40.89,0:10:42.69,Default,,0,0,0,,There's nothing more to say.
+Dialogue: 0,0:10:42.72,0:10:45.30,Default,,0,0,0,,You will be sacrificed in five days.
+Dialogue: 0,0:10:45.32,0:10:49.82,Default,,0,0,0,,Until then, enjoy yourself in this palace to your heart's content.
+Dialogue: 0,0:10:55.25,0:10:57.28,Default,,0,0,0,,{\i1}I, Sapphire am not going to die like this!{\i0}
+Dialogue: 0,0:10:58.24,0:10:59.98,Default,,0,0,0,,And Tink didn't show up today, either...
+Dialogue: 0,0:11:28.97,0:11:32.12,Default,,0,0,0,,Why aren't you crying or trying to run away?
+Dialogue: 0,0:11:32.42,0:11:34.62,Default,,0,0,0,,I was chosen because I'm beautiful.
+Dialogue: 0,0:11:35.47,0:11:37.62,Default,,0,0,0,,Were you born just to be buried alive?
+Dialogue: 0,0:11:40.41,0:11:44.52,Default,,0,0,0,,Listen, we have to escape somehow. If we fight, I know we can make it.
+Dialogue: 0,0:11:44.86,0:11:48.85,Default,,0,0,0,,Sapphire... Tink... It's Tink!
+Dialogue: 0,0:11:49.90,0:11:51.10,Default,,0,0,0,,Prince Amensis...
+Dialogue: 0,0:11:51.12,0:11:53.14,Default,,0,0,0,,there is one way to save you.
+Dialogue: 0,0:11:53.37,0:11:57.22,Default,,0,0,0,,That is... That is to marry me.
+Dialogue: 0,0:11:58.18,0:12:01.14,Default,,0,0,0,,If you marry me, you won't have to die.
+Dialogue: 0,0:12:03.08,0:12:04.24,Default,,0,0,0,,Please marry me.
+Dialogue: 0,0:12:08.84,0:12:09.84,Default,,0,0,0,,I refuse!
+Dialogue: 0,0:12:11.33,0:12:12.42,Default,,0,0,0,,Choose someone else!
+Dialogue: 0,0:12:13.00,0:12:14.96,Default,,0,0,0,,I, Sapphire, refuse to be the only one saved!
+Dialogue: 0,0:12:15.19,0:12:16.40,Default,,0,0,0,,You have only three days left to live.
+Dialogue: 0,0:12:17.07,0:12:18.38,Default,,0,0,0,,I'll be awaiting your answer.
+Dialogue: 0,0:13:14.66,0:13:15.57,Default,,0,0,0,,{\i1}Tink.{\i0}
+Dialogue: 0,0:13:15.97,0:13:17.50,Default,,0,0,0,,{\i1}The news must not have reached you.{\i0}
+Dialogue: 0,0:13:25.89,0:13:31.84,Default,,0,0,0,,Beautiful sacrifices, the night of the full moon has come. Are you prepared?
+Dialogue: 0,0:13:34.49,0:13:39.57,Default,,0,0,0,,Great Reaper Osiris, deliver these sacrifices to the realm of the dead!
+Dialogue: 0,0:13:39.85,0:13:45.46,Default,,0,0,0,,And transfer their beauty to the mummy of Queen Ida!
+Dialogue: 0,0:13:45.81,0:13:49.38,Default,,0,0,0,,Oh, Queen Ida, remain beautiful forever!
+Dialogue: 0,0:13:49.96,0:13:53.85,Default,,0,0,0,,Oh, Queen Ida, remain young forever!
+Dialogue: 0,0:13:55.06,0:13:56.11,Default,,0,0,0,,Stop this at once!
+Dialogue: 0,0:13:56.69,0:13:59.97,Default,,0,0,0,,Dead people can't become young or beautiful!
+Dialogue: 0,0:14:00.40,0:14:02.24,Default,,0,0,0,,Fear Osiris, the god of death!
+Dialogue: 0,0:14:02.66,0:14:03.91,Default,,0,0,0,,There is no god of blood!
+Dialogue: 0,0:14:04.23,0:14:07.45,Default,,0,0,0,,What? Has she gone mad with fear of being sacrificed?!
+Dialogue: 0,0:14:07.94,0:14:09.51,Default,,0,0,0,,Men, take the sacrifices away!
+Dialogue: 0,0:14:09.78,0:14:12.06,Default,,0,0,0,,To the pyramid where Queen Ida slumbers!
+Dialogue: 0,0:14:17.96,0:14:18.96,Default,,0,0,0,,Wait.
+Dialogue: 0,0:14:19.47,0:14:21.80,Default,,0,0,0,,Sapphire, please hear my request.
+Dialogue: 0,0:14:22.13,0:14:26.30,Default,,0,0,0,,Take this ring and become my wife, and you will be saved.
+Dialogue: 0,0:14:29.90,0:14:30.90,Default,,0,0,0,,I refuse.
+Dialogue: 0,0:14:42.54,0:14:43.70,Default,,0,0,0,,Hey, go check it out.
+Dialogue: 0,0:14:54.65,0:14:56.12,Default,,0,0,0,,Sapphire, Sapphire.
+Dialogue: 0,0:14:56.92,0:14:57.60,Default,,0,0,0,,Sapphire.
+Dialogue: 0,0:14:57.94,0:14:58.98,Default,,0,0,0,,Tink?
+Dialogue: 0,0:14:59.57,0:15:00.48,Default,,0,0,0,,Tink?
+Dialogue: 0,0:15:00.51,0:15:02.50,Default,,0,0,0,,Where are you?
+Dialogue: 0,0:15:05.49,0:15:10.18,Default,,0,0,0,,Sapphire, listen to me. Become my wife, Sapphire.
+Dialogue: 0,0:15:11.06,0:15:12.07,Default,,0,0,0,,Prince Amensis...
+Dialogue: 0,0:15:12.31,0:15:13.92,Default,,0,0,0,,I don't want to see you die!
+Dialogue: 0,0:15:14.65,0:15:16.02,Default,,0,0,0,,No matter how many times you ask, I refuse!
+Dialogue: 0,0:15:17.18,0:15:20.67,Default,,0,0,0,,I am not the kind of girl who would be happy saving only myself!
+Dialogue: 0,0:15:34.65,0:15:37.58,Default,,0,0,0,,{\i1}Once we're trapped inside... It's all over.{\i0}
+Dialogue: 0,0:15:47.44,0:15:49.20,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:15:49.84,0:15:50.69,Default,,0,0,0,,Tink!
+Dialogue: 0,0:15:51.34,0:15:52.34,Default,,0,0,0,,Hmm? Who's there?
+Dialogue: 0,0:15:52.62,0:15:53.62,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:15:55.90,0:15:57.93,Default,,0,0,0,,Tink! Over here!
+Dialogue: 0,0:15:58.02,0:15:58.55,Default,,0,0,0,,There!
+Dialogue: 0,0:16:07.22,0:16:09.08,Default,,0,0,0,,{\i1}This is awful!{\i0}
+Dialogue: 0,0:16:24.90,0:16:25.99,Default,,0,0,0,,Tink!
+Dialogue: 0,0:16:33.03,0:16:35.38,Default,,0,0,0,,Sapphire, I am a coward.
+Dialogue: 0,0:16:35.58,0:16:38.70,Default,,0,0,0,,I don't have the courage to face Morpho or Osiris to protect you.
+Dialogue: 0,0:16:39.25,0:16:40.16,Default,,0,0,0,,Sapphire.
+Dialogue: 0,0:17:36.70,0:17:39.83,Default,,0,0,0,,Carry out my will as you move forward! Understood?!
+Dialogue: 0,0:17:53.83,0:17:55.66,Default,,0,0,0,,Fools, even after I warned them!
+Dialogue: 0,0:17:56.01,0:17:59.44,Default,,0,0,0,,The pyramid is full of traps to ward off thieves!
+Dialogue: 0,0:18:13.04,0:18:16.77,Default,,0,0,0,,O Osiris, God of Death, accept this sacrifice!
+Dialogue: 0,0:18:28.33,0:18:29.78,Default,,0,0,0,,Farewell!
+Dialogue: 0,0:18:34.72,0:18:36.83,Default,,0,0,0,,That shall be your grave!
+Dialogue: 0,0:18:40.80,0:18:43.76,Default,,0,0,0,,Gods, save us! I'm so scared! I'm afraid to die!
+Dialogue: 0,0:18:45.17,0:18:48.24,Default,,0,0,0,,Are you girls all beauty and no courage?
+Dialogue: 0,0:18:49.11,0:18:54.06,Default,,0,0,0,,Come on, cheer up and be brave. There must be an exit somewhere.
+Dialogue: 0,0:18:54.48,0:18:56.11,Default,,0,0,0,,Since the pyramid is a giant maze,
+Dialogue: 0,0:18:56.13,0:18:58.18,Default,,0,0,0,,there's bound to be at least one opening.
+Dialogue: 0,0:19:02.37,0:19:03.54,Default,,0,0,0,,{\i1}Oh, this is awful...{\i0}
+Dialogue: 0,0:19:05.46,0:19:06.73,Default,,0,0,0,,Help me!
+Dialogue: 0,0:19:10.89,0:19:12.86,Default,,0,0,0,,We really don't need crocodiles now!
+Dialogue: 0,0:19:16.34,0:19:17.40,Default,,0,0,0,,It's a pincer attack!
+Dialogue: 0,0:19:21.10,0:19:22.55,Default,,0,0,0,,Thank you very much.
+Dialogue: 0,0:19:25.92,0:19:27.14,Default,,0,0,0,,Thank you so very much.
+Dialogue: 0,0:19:28.44,0:19:30.44,Default,,0,0,0,,I bet even this kid will sell.
+Dialogue: 0,0:19:30.55,0:19:31.90,Default,,0,0,0,,Maybe around 300 yen?
+Dialogue: 0,0:19:31.93,0:19:33.62,Default,,0,0,0,,Boss, that's awful!
+Dialogue: 0,0:19:34.28,0:19:35.70,Default,,0,0,0,,300 yen? What do you mean?
+Dialogue: 0,0:19:35.88,0:19:40.84,Default,,0,0,0,,We're slave traders. Even you can sell for 300 yen. Have some confidence!
+Dialogue: 0,0:19:41.70,0:19:42.94,Default,,0,0,0,,You're going to sell me?
+Dialogue: 0,0:19:43.21,0:19:45.60,Default,,0,0,0,,No! No! No! No! No!
+Dialogue: 0,0:19:46.27,0:19:49.09,Default,,0,0,0,,No! No! No! No!
+Dialogue: 0,0:19:49.19,0:19:52.04,Default,,0,0,0,,I have to go save Sapphire!
+Dialogue: 0,0:19:52.22,0:19:54.85,Default,,0,0,0,,I said no! Let go of me!
+Dialogue: 0,0:19:55.31,0:19:57.21,Default,,0,0,0,,I said no! No! No! No!
+Dialogue: 0,0:20:05.39,0:20:06.30,Default,,0,0,0,,Nothing...
+Dialogue: 0,0:20:07.87,0:20:09.92,Default,,0,0,0,,I thought there'd be a secret exit somewhere...
+Dialogue: 0,0:20:10.74,0:20:14.32,Default,,0,0,0,,It's no use. We've been captured by Osiris, the god of death.
+Dialogue: 0,0:20:14.37,0:20:16.98,Default,,0,0,0,,Osiris, sacrifices... it's all just superstition.
+Dialogue: 0,0:20:17.39,0:20:20.72,Default,,0,0,0,,Dying won't make the mummies look any prettier.
+Dialogue: 0,0:20:20.86,0:20:23.84,Default,,0,0,0,,Don't say that! Lord Osiris's curse is terrifying!
+Dialogue: 0,0:20:24.69,0:20:26.56,Default,,0,0,0,,There's no such thing as a curse.
+Dialogue: 0,0:20:35.62,0:20:37.98,Default,,0,0,0,,M-M-M-Mummy!
+Dialogue: 0,0:20:57.95,0:21:00.89,Default,,0,0,0,,A secret exit! Escape through there! Come on!
+Dialogue: 0,0:21:12.80,0:21:13.98,Default,,0,0,0,,Get up! Hurry!
+Dialogue: 0,0:21:18.45,0:21:20.61,Default,,0,0,0,,It's the exit! Hurry!
+Dialogue: 0,0:21:34.45,0:21:35.25,Default,,0,0,0,,Morfo!
+Dialogue: 0,0:21:36.60,0:21:37.87,Default,,0,0,0,,Hey, slave trader,
+Dialogue: 0,0:21:37.89,0:21:41.52,Default,,0,0,0,,this batch of female slaves gave us a hard time, all because of this one.
+Dialogue: 0,0:21:41.55,0:21:42.74,Default,,0,0,0,,A slaver trader...
+Dialogue: 0,0:21:43.94,0:21:46.94,Default,,0,0,0,,Quite a lineup of beauties this year.
+Dialogue: 0,0:21:47.54,0:21:48.71,Default,,0,0,0,,Give me a good price for them.
+Dialogue: 0,0:21:48.73,0:21:49.20,Default,,0,0,0,,Sure.
+Dialogue: 0,0:21:49.26,0:21:50.06,Default,,0,0,0,,I see.
+Dialogue: 0,0:21:50.08,0:21:52.28,Default,,0,0,0,,Every year, claiming they were sacrifices, you gathered
+Dialogue: 0,0:21:52.30,0:21:54.67,Default,,0,0,0,,beautiful maidens from across the land and kidnapped them.
+Dialogue: 0,0:21:54.69,0:21:57.12,Default,,0,0,0,,You were selling them off to slave traders!
+Dialogue: 0,0:21:58.26,0:22:00.47,Default,,0,0,0,,The Reaper of Osiris, preserving the mummy's beauty...
+Dialogue: 0,0:22:00.50,0:22:03.71,Default,,0,0,0,,I set it all up brilliantly, if I say so myself.
+Dialogue: 0,0:22:04.65,0:22:06.04,Default,,0,0,0,,Tie up the slaves!
+Dialogue: 0,0:22:06.36,0:22:07.36,Default,,0,0,0,,Let me go!
+Dialogue: 0,0:22:14.04,0:22:16.50,Default,,0,0,0,,Stuffing me into a mustard pot is so cruel!
+Dialogue: 0,0:22:18.88,0:22:19.88,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:22:21.48,0:22:23.58,Default,,0,0,0,,If I'm caught, I can't save Sapphire.
+Dialogue: 0,0:22:24.06,0:22:26.25,Default,,0,0,0,,What should I do... what should I do...?
+Dialogue: 0,0:22:26.27,0:22:26.91,Default,,0,0,0,, I know!
+Dialogue: 0,0:22:29.12,0:22:32.95,Default,,0,0,0,,Heavenly Father, forgive me for picking on these camels.
+Dialogue: 0,0:22:33.28,0:22:34.96,Default,,0,0,0,,Sorry, Rakuda-san!
+Dialogue: 0,0:22:42.55,0:22:44.09,Default,,0,0,0,,What's going on here!?
+Dialogue: 0,0:22:46.06,0:22:47.06,Default,,0,0,0,,Tink!
+Dialogue: 0,0:22:47.68,0:22:48.68,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:22:50.61,0:22:51.82,Default,,0,0,0,,Prepare yourself, Morpho!
+Dialogue: 0,0:22:57.10,0:22:58.26,Default,,0,0,0,,Wait!
+Dialogue: 0,0:23:07.02,0:23:08.06,Default,,0,0,0,,Wait!
+Dialogue: 0,0:23:21.41,0:23:22.41,Default,,0,0,0,,How do you like that?
+Dialogue: 0,0:23:24.22,0:23:27.70,Default,,0,0,0,,Morpho, now is the time to stand up to superstition!
+Dialogue: 0,0:23:30.87,0:23:31.83,Default,,0,0,0,,How dare you!
+Dialogue: 0,0:23:47.39,0:23:50.26,Default,,0,0,0,,I feel like I've grown stronger thanks to you.
+Dialogue: 0,0:23:50.41,0:23:51.42,Default,,0,0,0,,Thank you, Sapphire.
+Dialogue: 0,0:23:53.79,0:23:57.54,Default,,0,0,0,,We'll do our best to make our country just as great as yours.
 Dialogue: 0,0:24:26.46,0:24:30.10,Karaoke,,0,0,0,,{\k29}{\k22}Ta{\k18}ra{\k16}ri {\k18}Ra{\k20}tta {\k23}Ri{\k19}tta {\k26}Ra{\k17}tta {\k19}Ra{\k66}tta{\k69}ttaa
 Dialogue: 0,0:24:30.10,0:24:33.46,Karaoke,,0,0,0,,{\k8}{\k46}Kya{\k68}hoo! {\k35}Kya{\k42}hoo! {\k46}Kya{\k91}hoo!
 Dialogue: 0,0:24:30.10,0:24:33.46,OPED_Translation,,0,0,0,,Yahoo! Yahoo! Yahoo!

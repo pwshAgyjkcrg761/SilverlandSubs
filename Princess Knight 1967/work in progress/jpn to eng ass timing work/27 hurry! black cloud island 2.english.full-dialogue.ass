@@ -14,7 +14,8 @@ Audio File: 27 queen icicle 2.mkv
 Video File: 27 queen icicle 2.mkv
 Video AR Mode: 4
 Video AR Value: 1.314554
-Active Line: 18
+Scroll Position: 355
+Active Line: 365
 Video Position: 950
 
 [V4+ Styles]
@@ -48,239 +49,348 @@ Dialogue: 0,0:01:25.22,0:01:28.62,Karaoke,,0,0,0,,{\k6}{\k50}Hon{\k43}to {\k33}w
 Dialogue: 0,0:01:25.22,0:01:28.62,OPED_Translation,,0,0,0,,Truly, truly,
 Dialogue: 0,0:01:28.62,0:01:31.82,Karaoke,,0,0,0,,{\k18}{\k23}A{\k23}ta{\k27}shi {\k35}na{\k35}no {\k159}sa{\k0}
 Dialogue: 0,0:01:28.62,0:01:31.82,OPED_Translation,,0,0,0,,It’s really me!
-Dialogue: 0,0:01:44.10,0:01:50.14,Default,,0,0,0,,Twenty-Seventh Episode\NMagic Water
-Dialogue: 0,0:02:50.34,0:02:52.81,Default,,0,0,0,,I was deceived\Nby the fake Tink...
-Dialogue: 0,0:02:52.94,0:02:55.41,Default,,0,0,0,,...and I was thrown down\Ninto the valley.
-Dialogue: 0,0:02:55.66,0:02:57.89,Default,,0,0,0,,There, a mysterious gas\Nblinded me...
-Dialogue: 0,0:02:58.90,0:03:01.97,Default,,0,0,0,,...and I finally returned\Nto the castle with difficulty,
-Dialogue: 0,0:03:02.42,0:03:04.94,Default,,0,0,0,,only to find\Na fake Sapphire there.
-Dialogue: 0,0:03:05.58,0:03:08.70,Default,,0,0,0,,But I will not give up!\NWhatever happens,
-Dialogue: 0,0:03:08.74,0:03:11.70,Default,,0,0,0,,I will thwart this conspiracy\Nand Dad and Mom...
-Dialogue: 0,0:03:19.14,0:03:21.05,Default,,0,0,0,,Who's there?
-Dialogue: 0,0:03:24.10,0:03:26.25,Default,,0,0,0,,This sounds to me like\Nthe laughter of Mephisto!
-Dialogue: 0,0:03:26.30,0:03:29.42,Default,,0,0,0,,Yes! And today I will succeed\Nin stealing your heart!
-Dialogue: 0,0:03:32.42,0:03:36.49,Default,,0,0,0,,It's useless! Don't you want to know\Nwhere your father and mother are?
-Dialogue: 0,0:03:36.54,0:03:38.74,Default,,0,0,0,,What? You know where they are?
-Dialogue: 0,0:03:38.98,0:03:42.53,Default,,0,0,0,,Now I understand...\NYou kidnapped my father and my mother!
-Dialogue: 0,0:03:42.62,0:03:44.74,Default,,0,0,0,,Please, tell me where they are!
-Dialogue: 0,0:03:45.70,0:03:49.33,Default,,0,0,0,,I will tell you, if in exchange\Nyou give me your heart!
-Dialogue: 0,0:04:00.02,0:04:03.57,Default,,0,0,0,,Stone crane,\Nfly to my house!
-Dialogue: 0,0:04:30.06,0:04:33.18,Default,,0,0,0,,- Where am I?\N- This is my house!
-Dialogue: 0,0:04:33.22,0:04:35.74,Default,,0,0,0,,Tell me...\NWhere are my father and my mother?
-Dialogue: 0,0:04:36.18,0:04:40.17,Default,,0,0,0,,Fine, as promised I'll tell you:\Nthey are on Snake Island.
-Dialogue: 0,0:04:41.30,0:04:44.98,Default,,0,0,0,,- Snake Island?\N- Yes! They are there, motionless...
-Dialogue: 0,0:04:45.02,0:04:47.49,Default,,0,0,0,,...and they don't say a word!\N- What do you mean?
-Dialogue: 0,0:04:49.22,0:04:53.50,Default,,0,0,0,,With a spell of mine, I turned\Nthem into stone statues...
-Dialogue: 0,0:04:53.54,0:04:56.10,Default,,0,0,0,,and now they can't even move a hair.
-Dialogue: 0,0:04:57.30,0:04:59.61,Default,,0,0,0,,Mom and Dad are stone statues?!
-Dialogue: 0,0:04:59.74,0:05:02.89,Default,,0,0,0,,Untie this rope, I want\Nto go to Snake Island!
-Dialogue: 0,0:05:03.02,0:05:06.25,Default,,0,0,0,,- Untie this rope!\N- All right!
-Dialogue: 0,0:05:06.62,0:05:10.17,Default,,0,0,0,,I'll untie you, but only after\Nyou've given your heart to Hecate.
-Dialogue: 0,0:05:10.38,0:05:13.61,Default,,0,0,0,,Hecate! Hecate, come here!\NHecate!
-Dialogue: 0,0:05:14.74,0:05:17.97,Default,,0,0,0,,Hecate, answer me!\NHecate, wait for me!
-Dialogue: 0,0:05:18.78,0:05:23.30,Default,,0,0,0,,Hecate, come out! Maybe\Nyou don't like his heart?
-Dialogue: 0,0:05:26.90,0:05:29.21,Default,,0,0,0,,Father... Mother...\NI'm sorry!
-Dialogue: 0,0:05:29.66,0:05:32.49,Default,,0,0,0,,I wish I could do it,\Nbut I can't help you!
-Dialogue: 0,0:05:33.26,0:05:35.41,Default,,0,0,0,,If only I could see..
-Dialogue: 0,0:05:35.90,0:05:39.66,Default,,0,0,0,,But it's too late!\NSoon Mephisto will return!
-Dialogue: 0,0:05:42.62,0:05:46.14,Default,,0,0,0,,- Hecate, where are you?\N- I'm here!
-Dialogue: 0,0:05:51.30,0:05:55.01,Default,,0,0,0,,Hecate, come on, answer me!\NWhere are you, Hecate?
-Dialogue: 0,0:05:55.30,0:05:59.21,Default,,0,0,0,,May I know where you've hidden yourself?\NAnswer me!
-Dialogue: 0,0:06:00.98,0:06:04.69,Default,,0,0,0,,I've got it! She must have hidden\Nin one of these jars!
-Dialogue: 0,0:06:10.26,0:06:12.41,Default,,0,0,0,,I saw you!\NSo you're in here!
-Dialogue: 0,0:06:12.46,0:06:15.50,Default,,0,0,0,,I've caught you, Hecate!\NCome out, Hecate!
-Dialogue: 0,0:06:15.54,0:06:18.10,Default,,0,0,0,,Please, obey your father.
-Dialogue: 0,0:06:20.02,0:06:21.93,Default,,0,0,0,,I'm sorry Dad..
-Dialogue: 0,0:06:22.02,0:06:24.06,Default,,0,0,0,,Hecate, open the lid!
-Dialogue: 0,0:06:24.10,0:06:26.82,Default,,0,0,0,,I won't scold you,\Nbut please, come out!
-Dialogue: 0,0:06:28.18,0:06:30.65,Default,,0,0,0,,I know you're hidden\Nin this jar!
-Dialogue: 0,0:06:32.66,0:06:35.81,Default,,0,0,0,,Thank you, Hecate,\NI am grateful to you for saving me
-Dialogue: 0,0:06:36.18,0:06:39.30,Default,,0,0,0,,Hurry and get ready to run away!\NRun, now!
-Dialogue: 0,0:06:39.42,0:06:42.73,Default,,0,0,0,,If Dad finds out that the lid\Ndoesn't open, he'll come back!
-Dialogue: 0,0:06:42.78,0:06:45.34,Default,,0,0,0,,Please, Hecate!\NPlease, come out!
-Dialogue: 0,0:06:45.38,0:06:49.50,Default,,0,0,0,,I can't break the jar with a\Nmagic spell if you are inside!
-Dialogue: 0,0:07:08.54,0:07:11.50,Default,,0,0,0,,Come on, Sapphire, hold\Non until we get to a ship!
-Dialogue: 0,0:07:19.94,0:07:22.30,Default,,0,0,0,,I would like to treat\Nyour eyes, but I can't.
-Dialogue: 0,0:07:22.42,0:07:25.73,Default,,0,0,0,,I'm already grateful to you\Nfor bringing me this far, Hecate.
-Dialogue: 0,0:07:33.50,0:07:35.41,Default,,0,0,0,,There's the ship!
-Dialogue: 0,0:07:44.02,0:07:46.01,Default,,0,0,0,,Come on, be brave!
-Dialogue: 0,0:07:49.14,0:07:52.34,Default,,0,0,0,,We have to reach Snake\NIsland before Dad arrives!
-Dialogue: 0,0:07:57.82,0:08:00.46,Default,,0,0,0,,I'm afraid that Dad\Nis really angry!
-Dialogue: 0,0:08:09.30,0:08:11.82,Default,,0,0,0,,I wonder how long\NI've been asleep.
-Dialogue: 0,0:08:15.82,0:08:17.81,Default,,0,0,0,,I thought the direction\Nhad changed...
-Dialogue: 0,0:08:17.86,0:08:19.74,Default,,0,0,0,,...while I was sleeping,\Nbut it's the same!
-Dialogue: 0,0:08:19.78,0:08:22.09,Default,,0,0,0,,- Are we at Snake Island already?\N- Not yet!
-Dialogue: 0,0:08:22.22,0:08:25.34,Default,,0,0,0,,I want to see my father and my mother\Nas soon as possible.
-Dialogue: 0,0:08:25.38,0:08:27.37,Default,,0,0,0,,You will see them soon, Sapphire!
-Dialogue: 0,0:08:36.22,0:08:40.01,Default,,0,0,0,,- That is the Island of Snakes!\N- Really?! Finally, we are here!
-Dialogue: 0,0:08:40.14,0:08:42.61,Default,,0,0,0,,Hold on tight to the boat,\Nthere are many whirlpools.
-Dialogue: 0,0:08:42.66,0:08:45.22,Default,,0,0,0,,We must be careful,\Nbecause they are very dangerous.
-Dialogue: 0,0:09:22.90,0:09:25.26,Default,,0,0,0,,Hecate! Where are you, Hecate?
-Dialogue: 0,0:09:26.62,0:09:30.41,Default,,0,0,0,,- I am safe, Sapphire!\NIs everything okay? - Yes!
-Dialogue: 0,0:09:30.46,0:09:33.61,Default,,0,0,0,,Even though it was tough, finally\Nwe are on the Island of Snakes!
-Dialogue: 0,0:09:33.66,0:09:35.73,Default,,0,0,0,,What?! This is it?\NAnd where are they?
-Dialogue: 0,0:09:35.78,0:09:38.01,Default,,0,0,0,,They must be somewhere\Non this island!
-Dialogue: 0,0:09:45.14,0:09:47.13,Default,,0,0,0,,Sapphire, quick, hide!
-Dialogue: 0,0:09:47.82,0:09:49.81,Default,,0,0,0,,- What is happening?\N- Be quiet! There are many...
-Dialogue: 0,0:09:49.86,0:09:52.74,Default,,0,0,0,,...sea snakes on this island!\NIf they discover us, we will die!
-Dialogue: 0,0:10:12.82,0:10:14.81,Default,,0,0,0,,Sapphire! It's on your head!
-Dialogue: 0,0:10:17.26,0:10:19.25,Default,,0,0,0,,Let's get out of here!
-Dialogue: 0,0:10:24.22,0:10:25.81,Default,,0,0,0,,Up!
-Dialogue: 0,0:10:26.42,0:10:28.41,Default,,0,0,0,,We have almost arrived.
-Dialogue: 0,0:10:34.86,0:10:37.58,Default,,0,0,0,,Sapphire, look!\NThere are your father and your mother!
-Dialogue: 0,0:10:38.86,0:10:40.85,Default,,0,0,0,,Where are they, Hecate?
-Dialogue: 0,0:10:41.66,0:10:43.65,Default,,0,0,0,,This is your mother, Sapphire.
-Dialogue: 0,0:10:46.34,0:10:49.54,Default,,0,0,0,,This is her?!\NThis cold stone is my mother?
-Dialogue: 0,0:10:49.90,0:10:52.34,Default,,0,0,0,,Oh, mother!\NMy mother!
-Dialogue: 0,0:10:53.58,0:10:57.10,Default,,0,0,0,,Please, tell me: how\Ndo I break the spell?
-Dialogue: 0,0:10:57.46,0:10:59.90,Default,,0,0,0,,One way is to have\Nmy father do it.
-Dialogue: 0,0:11:00.78,0:11:03.66,Default,,0,0,0,,I really don't think he\Nwould be willing to do it!
-Dialogue: 0,0:11:04.02,0:11:06.09,Default,,0,0,0,,And another way is\Nto pour over them...
-Dialogue: 0,0:11:06.14,0:11:08.78,Default,,0,0,0,,...the greatest possible amount of\Nthe blood of the one who loves them.
-Dialogue: 0,0:11:08.82,0:11:11.13,Default,,0,0,0,,The greatest possible\Namount of blood?
-Dialogue: 0,0:11:12.10,0:11:15.46,Default,,0,0,0,,I love them more than\Nanyone else! Then, if I pour...
-Dialogue: 0,0:11:15.50,0:11:18.46,Default,,0,0,0,,...all my blood over them,\Nthe spell will be broken!
-Dialogue: 0,0:11:18.50,0:11:20.97,Default,,0,0,0,,- That's right, isn't it?\N- But it's impossible!
-Dialogue: 0,0:11:22.62,0:11:24.98,Default,,0,0,0,,It is possible! I can do it!
-Dialogue: 0,0:11:25.22,0:11:29.58,Default,,0,0,0,,Father! Mother! I will break the\Nspell that Mephisto has cast on you!
-Dialogue: 0,0:11:29.62,0:11:32.22,Default,,0,0,0,,No, Sapphire! If you do\Nsuch a thing, you will die!
-Dialogue: 0,0:11:33.02,0:11:35.01,Default,,0,0,0,,- Let me go!\N- Sapphire...!
-Dialogue: 0,0:11:35.10,0:11:39.25,Default,,0,0,0,,- Hecate! Hecate!\N- Here is my father!
-Dialogue: 0,0:11:42.54,0:11:45.69,Default,,0,0,0,,- Mephisto...\N- Sapphire, it's dangerous!
-Dialogue: 0,0:11:47.70,0:11:49.61,Default,,0,0,0,,Sapphire!
-Dialogue: 0,0:11:54.62,0:11:57.34,Default,,0,0,0,,- Sapphire!\N- Father! Mother..
-Dialogue: 0,0:12:16.66,0:12:21.10,Default,,0,0,0,,Throw that body overboard\Nand let the fish eat it!
-Dialogue: 0,0:12:22.10,0:12:24.09,Default,,0,0,0,,But he is still alive!
-Dialogue: 0,0:12:26.22,0:12:28.53,Default,,0,0,0,,He must have escaped\Nfrom some island.
-Dialogue: 0,0:12:28.58,0:12:33.05,Default,,0,0,0,,To avoid unpleasant situations, it will\Nbe better to throw him back into the sea.
-Dialogue: 0,0:12:33.10,0:12:36.57,Default,,0,0,0,,It's a shame to throw him back\Ninto the sea after we've saved him!
-Dialogue: 0,0:12:40.66,0:12:44.54,Default,,0,0,0,,- Wait! Don't throw him overboard!\N- At your orders, Captain!
-Dialogue: 0,0:12:45.14,0:12:48.50,Default,,0,0,0,,Silver, don't you dare do\Nanything without my permission!
-Dialogue: 0,0:12:49.10,0:12:52.30,Default,,0,0,0,,I want to take a look at\Nhim. Bring him to my room!
-Dialogue: 0,0:13:18.74,0:13:21.49,Default,,0,0,0,,I've hoped so much to be able to\Nsee you again one day, Sapphire.
-Dialogue: 0,0:13:21.54,0:13:23.61,Default,,0,0,0,,And that day has come!\NBut now sleep well...
-Dialogue: 0,0:13:23.66,0:13:25.89,Default,,0,0,0,,...and try to recover your\Nhealth soon!
-Dialogue: 0,0:13:30.34,0:13:33.09,Default,,0,0,0,,- Where am I?\N- You've woken up!
-Dialogue: 0,0:13:33.14,0:13:35.13,Default,,0,0,0,,Who's there? Who are you?
-Dialogue: 0,0:13:35.42,0:13:38.30,Default,,0,0,0,,- It's me, Captain Blood!\N- Captain Blood?!
-Dialogue: 0,0:13:38.34,0:13:40.98,Default,,0,0,0,,Don't you remember me?\NYou saved me that time...
-Dialogue: 0,0:13:41.02,0:13:43.46,Default,,0,0,0,,...when I was arrested\Nby the Grand Duke, a year ago!
-Dialogue: 0,0:13:43.50,0:13:45.73,Default,,0,0,0,,And now, as you see,\NI'm a pirate!
-Dialogue: 0,0:13:47.02,0:13:50.49,Default,,0,0,0,,But what happened to your eyes?\NCan't you see me?
-Dialogue: 0,0:13:51.26,0:13:54.65,Default,,0,0,0,,What the hell happened to you?\NTell me, if you want.
-Dialogue: 0,0:13:56.90,0:13:59.86,Default,,0,0,0,,It must have been a plot\Nby the Ice Queen.
-Dialogue: 0,0:13:59.90,0:14:01.81,Default,,0,0,0,,- Ice Queen?!\N- Exactly!
-Dialogue: 0,0:14:01.90,0:14:04.97,Default,,0,0,0,,They say that soon\Nthe Ice Queen's army
-Dialogue: 0,0:14:05.14,0:14:08.10,Default,,0,0,0,,...will prepare\Nto occupy Silverland, understand?
-Dialogue: 0,0:14:08.14,0:14:10.18,Default,,0,0,0,,Then Mephisto and the fake Sapphire...
-Dialogue: 0,0:14:10.22,0:14:12.97,Default,,0,0,0,,Yes, they must be accomplices\Nof the Ice Queen.
-Dialogue: 0,0:14:13.02,0:14:15.22,Default,,0,0,0,,It's just\Nthe way she operates.
-Dialogue: 0,0:14:15.70,0:14:19.25,Default,,0,0,0,,Damned Ice Queen!\NAs soon as I see her again, I'll kill her!
-Dialogue: 0,0:14:19.30,0:14:22.50,Default,,0,0,0,,If you want to do that, for a start,\Nwe have to heal your eyes!
-Dialogue: 0,0:14:22.54,0:14:25.14,Default,,0,0,0,,Heal my eyes?\NBut can they be healed?
-Dialogue: 0,0:14:25.22,0:14:28.21,Default,,0,0,0,,Pirates travel the world\Nand hear many things.
-Dialogue: 0,0:14:28.30,0:14:31.42,Default,,0,0,0,,I have heard talk\Nof the Magic Spring!
-Dialogue: 0,0:14:31.46,0:14:33.45,Default,,0,0,0,,- Magic Spring?!\N- Yes!
-Dialogue: 0,0:14:33.50,0:14:36.02,Default,,0,0,0,,If you wash your eyes\Nwith its magic water,
-Dialogue: 0,0:14:36.10,0:14:39.65,Default,,0,0,0,,the water will remove the poison\Nand soon you will be able to see again.
-Dialogue: 0,0:14:40.02,0:14:44.22,Default,,0,0,0,,Really? Are you serious?\NDo you think I will be able to see again?
-Dialogue: 0,0:14:44.26,0:14:47.78,Default,,0,0,0,,We might encounter dangers\Non the way to the Black Island,
-Dialogue: 0,0:14:47.82,0:14:50.94,Default,,0,0,0,,where the Spring is located,\Nbut do not fear, I will protect you!
-Dialogue: 0,0:14:51.34,0:14:54.22,Default,,0,0,0,,How stupid Blood is!\NI can't stand being entangled
-Dialogue: 0,0:14:54.26,0:14:57.25,Default,,0,0,0,,...in a dangerous undertaking\Nbecause of that brat! Let's go!
-Dialogue: 0,0:14:57.70,0:15:00.50,Default,,0,0,0,,It's cold on the deck,\Nlet's go back to the cabin.
-Dialogue: 0,0:15:01.98,0:15:04.81,Default,,0,0,0,,Damn Blood!\NYou will pay for this!
-Dialogue: 0,0:15:05.34,0:15:07.70,Default,,0,0,0,,Why do you say that we\Nwill encounter dangers?
-Dialogue: 0,0:15:07.78,0:15:11.14,Default,,0,0,0,,Because to get there we\Nhave to pass Wild Rock...
-Dialogue: 0,0:15:11.18,0:15:14.81,Default,,0,0,0,,...and Koto Inlet.\N- Are they very dangerous?
-Dialogue: 0,0:15:15.10,0:15:18.89,Default,,0,0,0,,Don't worry! In the meantime\Ndrink this, it'll warm you up.
-Dialogue: 0,0:15:19.22,0:15:21.29,Default,,0,0,0,,No, I can't drink alcohol.
-Dialogue: 0,0:15:21.82,0:15:25.34,Default,,0,0,0,,Then I'll give you something\Nthat is much better than alcohol.
-Dialogue: 0,0:15:25.38,0:15:27.37,Default,,0,0,0,,I think I put it here.
-Dialogue: 0,0:15:27.62,0:15:31.41,Default,,0,0,0,,It's true that I helped you,\Nbut why are you so kind to me?
-Dialogue: 0,0:15:31.82,0:15:34.81,Default,,0,0,0,,Well, I can't answer you\Njust like that!
-Dialogue: 0,0:15:35.18,0:15:37.30,Default,,0,0,0,,Here it is, I found it!
-Dialogue: 0,0:15:37.34,0:15:40.73,Default,,0,0,0,,You'll see that this\Nwill do you much more good than alcohol!
-Dialogue: 0,0:15:42.18,0:15:44.70,Default,,0,0,0,,- But what is it?\N- It's a dress.
-Dialogue: 0,0:15:44.74,0:15:48.10,Default,,0,0,0,,I kept it because I was convinced\Nthat I would meet you one day.
-Dialogue: 0,0:15:48.14,0:15:50.29,Default,,0,0,0,,- Try it on! - Don't make\Nfun of me! I'm a boy!
-Dialogue: 0,0:15:50.34,0:15:54.05,Default,,0,0,0,,Sapphire, even if you pretend to be\Na boy, I know you're a girl.
-Dialogue: 0,0:15:54.22,0:15:56.21,Default,,0,0,0,,Don't insist!
-Dialogue: 0,0:15:57.14,0:15:59.97,Default,,0,0,0,,All right! All right, Sapphire!\NFor now I won't insist,
-Dialogue: 0,0:16:00.02,0:16:03.73,Default,,0,0,0,,but please try it on if you have\Nsome free time one day.
-Dialogue: 0,0:16:14.54,0:16:17.29,Default,,0,0,0,,What's happening?\NThere's a rock in front of us!
-Dialogue: 0,0:16:17.70,0:16:20.01,Default,,0,0,0,,- There's another one!\N- Another one!
-Dialogue: 0,0:16:24.94,0:16:26.98,Default,,0,0,0,,- Help!\N- Help!
-Dialogue: 0,0:16:36.58,0:16:39.54,Default,,0,0,0,,Water will get in,\Nhurry up and repair it!
-Dialogue: 0,0:16:41.26,0:16:43.57,Default,,0,0,0,,- The water has stopped!\N- It's stopped!
-Dialogue: 0,0:16:44.62,0:16:46.69,Default,,0,0,0,,Help, Blood!
-Dialogue: 0,0:16:48.14,0:16:51.42,Default,,0,0,0,,The Wild Rock!\NThe Wild Rock...
-Dialogue: 0,0:16:52.66,0:16:54.54,Default,,0,0,0,,Watch out!
-Dialogue: 0,0:16:57.98,0:17:02.13,Default,,0,0,0,,- Is everything okay, Sapphire?\N- Yes! But what the hell happened?
-Dialogue: 0,0:17:04.02,0:17:06.06,Default,,0,0,0,,- The Wild Rock!\N- The Wild Rock?!
-Dialogue: 0,0:17:06.10,0:17:09.09,Default,,0,0,0,,But we're going to the Black Island,\Nwhere the magic Spring is!
-Dialogue: 0,0:17:09.14,0:17:12.26,Default,,0,0,0,,Yes! I'll help you, Sapphire,\Neven if you don't want me to!
-Dialogue: 0,0:17:13.70,0:17:17.30,Default,,0,0,0,,Hey, don't waste time!\NDon't let the water in!
-Dialogue: 0,0:17:23.34,0:17:25.25,Default,,0,0,0,,Sapphire, be careful!
-Dialogue: 0,0:17:28.66,0:17:30.65,Default,,0,0,0,,Correct the course!
-Dialogue: 0,0:17:31.34,0:17:33.25,Default,,0,0,0,,Damn it!
-Dialogue: 0,0:17:49.98,0:17:54.50,Default,,0,0,0,,- Hurrah!\N- Hurrah!
-Dialogue: 0,0:17:55.26,0:17:57.25,Default,,0,0,0,,Silver, what have you done?
-Dialogue: 0,0:17:57.42,0:17:59.81,Default,,0,0,0,,Listen, Captain, it seems\Nto me that you can't...
-Dialogue: 0,0:17:59.86,0:18:02.42,Default,,0,0,0,,...see anything else\Nbesides Sapphire!
-Dialogue: 0,0:18:02.46,0:18:06.25,Default,,0,0,0,,- What?!\N- Be more careful from now on!
-Dialogue: 0,0:18:27.22,0:18:29.29,Default,,0,0,0,,The island! The island!
-Dialogue: 0,0:18:29.34,0:18:31.49,Default,,0,0,0,,Sapphire, get up, the island is in sight!
-Dialogue: 0,0:18:44.70,0:18:46.93,Default,,0,0,0,,I feel dazed!
-Dialogue: 0,0:18:50.70,0:18:52.69,Default,,0,0,0,,There's a mermaid!
-Dialogue: 0,0:18:55.22,0:18:57.21,Default,,0,0,0,,- I'm going!\N- Me too!
-Dialogue: 0,0:18:59.50,0:19:01.70,Default,,0,0,0,,Stay in your places!\NDon't be fooled!
-Dialogue: 0,0:19:01.74,0:19:03.81,Default,,0,0,0,,That song is a spell!
-Dialogue: 0,0:19:09.22,0:19:12.29,Default,,0,0,0,,Oh, no, I feel dizzy too!
-Dialogue: 0,0:19:33.50,0:19:35.49,Default,,0,0,0,,Sapphire...
-Dialogue: 0,0:19:40.34,0:19:43.49,Default,,0,0,0,,Sapphire, thank you!\NI've finally recovered.
-Dialogue: 0,0:19:45.02,0:19:47.49,Default,,0,0,0,,If you want the sharks to eat you, go!
-Dialogue: 0,0:19:47.54,0:19:49.77,Default,,0,0,0,,I will only stop at the Black Island!
-Dialogue: 0,0:19:49.82,0:19:53.13,Default,,0,0,0,,Damn it! I can't stand working for a girl!
-Dialogue: 0,0:19:53.18,0:19:55.09,Default,,0,0,0,,You'll pay for this too!
-Dialogue: 0,0:20:19.34,0:20:23.30,Default,,0,0,0,,Sapphire, this is the Black Island, where the magic Spring is.
-Dialogue: 0,0:20:26.02,0:20:28.66,Default,,0,0,0,,Silver, what do you need that saber for?
-Dialogue: 0,0:20:28.94,0:20:32.22,Default,,0,0,0,,You never know who you might run into.
-Dialogue: 0,0:20:35.02,0:20:37.90,Default,,0,0,0,,Blood, I hear the sound of water. Over there!
-Dialogue: 0,0:20:41.94,0:20:44.22,Default,,0,0,0,,There it is!\NIt must be the magic spring.
-Dialogue: 0,0:20:44.26,0:20:46.54,Default,,0,0,0,,Be careful, because the bottom is treacherous.
-Dialogue: 0,0:20:55.22,0:20:57.13,Default,,0,0,0,,Wash them with care.
-Dialogue: 0,0:21:05.94,0:21:08.82,Default,,0,0,0,,I can't see anything!\NIt's darker than ever!
-Dialogue: 0,0:21:09.62,0:21:14.57,Default,,0,0,0,,Wash them! Wash them! Fill your eyes with water and wash them thoroughly!
-Dialogue: 0,0:21:21.26,0:21:23.82,Default,,0,0,0,,- Well, Sapphire?\N- Blood, watch out!
-Dialogue: 0,0:21:26.14,0:21:28.74,Default,,0,0,0,,What are you doing, Silver?\NHave you decided to betray me?
-Dialogue: 0,0:21:28.90,0:21:31.18,Default,,0,0,0,,I've waited so long\Nfor this moment!
-Dialogue: 0,0:21:31.22,0:21:34.98,Default,,0,0,0,,Before someone stops\Nme, Blood... On guard!
-Dialogue: 0,0:21:35.82,0:21:38.02,Default,,0,0,0,,Now I can see!\NI can see!
-Dialogue: 0,0:21:42.82,0:21:45.73,Default,,0,0,0,,Fine, you damned traitor!\NCome on, show some guts!
-Dialogue: 0,0:21:50.82,0:21:53.02,Default,,0,0,0,,Stop! Don't fight among yourselves!
-Dialogue: 0,0:21:55.02,0:21:56.90,Default,,0,0,0,,Oh! Damn it!
-Dialogue: 0,0:21:57.82,0:21:59.73,Default,,0,0,0,,Take this!
-Dialogue: 0,0:22:08.10,0:22:11.14,Default,,0,0,0,,Wait! I'm fighting too, now!
-Dialogue: 0,0:22:11.22,0:22:16.82,Default,,0,0,0,,You brat! You'll be the\Nfirst to die! Prepare yourself!
-Dialogue: 0,0:22:40.46,0:22:42.90,Default,,0,0,0,,Now you're alone.\NWhat do you want to do?
-Dialogue: 0,0:22:43.22,0:22:45.37,Default,,0,0,0,,No, no, no! I surrender.
-Dialogue: 0,0:22:45.42,0:22:48.22,Default,,0,0,0,,I don't want to fight anymore! Goodbye!
-Dialogue: 0,0:22:55.54,0:22:58.74,Default,,0,0,0,,Are you okay, Blood? Wait,\NI want to wash your wound
-Dialogue: 0,0:22:59.02,0:23:02.98,Default,,0,0,0,,I'm perfectly fine, it's just a\Nscratch. You're always so strong.
-Dialogue: 0,0:23:06.22,0:23:10.42,Default,,0,0,0,,But I still prefer the Sapphire\Ndressed like yesterday to this one.
-Dialogue: 0,0:23:11.26,0:23:15.10,Default,,0,0,0,,- Did you say something?\N- No, no, I didn't say anything!
-Dialogue: 0,0:23:15.14,0:23:17.50,Default,,0,0,0,,But you should rest now.
-Dialogue: 0,0:23:17.82,0:23:21.34,Default,,0,0,0,,It's a truly wonderful thing\Nthat you can see again, isn't it?
-Dialogue: 0,0:23:22.42,0:23:25.46,Default,,0,0,0,,Yes, Blood! And I owe\Nall of this only to you!
-Dialogue: 0,0:23:30.90,0:23:34.45,Default,,0,0,0,,So, Sapphire, please,\Nbe careful. All right?
-Dialogue: 0,0:23:34.62,0:23:36.69,Default,,0,0,0,,Yes! Goodbye, Blood!
-Dialogue: 0,0:23:40.90,0:23:42.89,Default,,0,0,0,,Sapphire, take care of yourself!
-Dialogue: 0,0:23:43.18,0:23:46.33,Default,,0,0,0,,Goodbye, Blood!\NGoodbye to everyone!
-Dialogue: 0,0:23:46.62,0:23:52.78,Default,,0,0,0,,- Goodbye! Goodbye, Sapphire!\N- Bye, Sapphire!
-Dialogue: 0,0:23:56.34,0:23:58.62,Default,,0,0,0,,You'll see, now! I will\Nsucceed in defeating...
-Dialogue: 0,0:23:58.66,0:24:01.46,Default,,0,0,0,,...Queen Icicle and\Nprotecting Silverland!
-Dialogue: 0,0:24:02.94,0:24:05.82,Default,,0,0,0,,Father... Mother...\NPlease, wait for me!
+Dialogue: 0,0:01:44.10,0:01:50.14,Default,,0,0,0,,Twenty-Seventh Episode\NMagic Water\NHurry! Black Cloud Island
+Dialogue: 0,0:02:53.25,0:02:55.74,Default,,0,0,0,,{\i1}I was tricked by that Tink doll and thrown down a valley.{\i0}
+Dialogue: 0,0:02:56.57,0:03:01.12,Default,,0,0,0,,{\i1}And there, that foul smoke blinded me.{\i0}
+Dialogue: 0,0:03:02.72,0:03:06.67,Default,,0,0,0,,{\i1}When I returned to the castle, an impostor was in my place.{\i0}
+Dialogue: 0,0:03:08.62,0:03:09.62,Default,,0,0,0,,I can't just sit back and wait!
+Dialogue: 0,0:03:10.14,0:03:12.48,Default,,0,0,0,,No matter what, I will expose this scheme!
+Dialogue: 0,0:03:12.82,0:03:15.26,Default,,0,0,0,,And Father and Mother...
+Dialogue: 0,0:03:19.45,0:03:20.01,Default,,0,0,0,,Who's there?!
+Dialogue: 0,0:03:24.37,0:03:25.70,Default,,0,0,0,,That voice... Mephisto!
+Dialogue: 0,0:03:26.00,0:03:26.69,Default,,0,0,0,,That's right.
+Dialogue: 0,0:03:26.85,0:03:29.39,Default,,0,0,0,,Today, I will finally take your boy's heart!
+Dialogue: 0,0:03:29.92,0:03:30.94,Default,,0,0,0,,It's useless, useless!
+Dialogue: 0,0:03:33.31,0:03:36.14,Default,,0,0,0,,Don't you want to know where your father and mother are?
+Dialogue: 0,0:03:37.38,0:03:38.38,Default,,0,0,0,,Father and Mother?
+Dialogue: 0,0:03:39.18,0:03:42.18,Default,,0,0,0,,I see... You kidnapped them, didn't you?!
+Dialogue: 0,0:03:42.39,0:03:44.63,Default,,0,0,0,,Speak! Where are my parents?!
+Dialogue: 0,0:03:45.14,0:03:46.68,Default,,0,0,0,,I'll tell you...
+Dialogue: 0,0:03:47.20,0:03:50.82,Default,,0,0,0,,...if you come to my lair and trade your boy's heart for them.
+Dialogue: 0,0:03:51.30,0:03:52.30,Default,,0,0,0,,Zuborasha!
+Dialogue: 0,0:03:56.92,0:03:59.86,Default,,0,0,0,,Stone crane, fly to my mountain!
+Dialogue: 0,0:04:30.55,0:04:31.65,Default,,0,0,0,,Where am I?
+Dialogue: 0,0:04:31.77,0:04:32.93,Default,,0,0,0,,My home.
+Dialogue: 0,0:04:33.84,0:04:34.52,Default,,0,0,0,,Tell me.
+Dialogue: 0,0:04:34.84,0:04:36.03,Default,,0,0,0,,Where are my parents?
+Dialogue: 0,0:04:36.09,0:04:36.58,Default,,0,0,0,,Very well.
+Dialogue: 0,0:04:36.75,0:04:37.31,Default,,0,0,0,,A promise is a promise.
+Dialogue: 0,0:04:37.51,0:04:40.12,Default,,0,0,0,,I'll tell you. Those two are on Sea Snake Island.
+Dialogue: 0,0:04:41.28,0:04:42.28,Default,,0,0,0,,Sea Snake Island?
+Dialogue: 0,0:04:42.82,0:04:43.30,Default,,0,0,0,,That's right.
+Dialogue: 0,0:04:43.58,0:04:46.39,Default,,0,0,0,,They're staying quiet there without making a sound.
+Dialogue: 0,0:04:46.41,0:04:47.65,Default,,0,0,0,,What do you mean by that?
+Dialogue: 0,0:04:48.64,0:04:50.24,Default,,0,0,0,,They've both been turned to stone.
+Dialogue: 0,0:04:51.10,0:04:55.42,Default,,0,0,0,,With my full power, they've become stone that can't move a single hair.
+Dialogue: 0,0:04:56.52,0:04:58.45,Default,,0,0,0,,Father and Mother... turned to stone?
+Dialogue: 0,0:05:00.54,0:05:01.54,Default,,0,0,0,,You monster!
+Dialogue: 0,0:05:01.72,0:05:02.92,Default,,0,0,0,,Untie my ropes!
+Dialogue: 0,0:05:03.20,0:05:04.58,Default,,0,0,0,,I'm going to Sea Snake Island!
+Dialogue: 0,0:05:04.68,0:05:08.92,Default,,0,0,0,,Fine. After I transfer your boy's heart to Hecate.
+Dialogue: 0,0:05:09.24,0:05:09.74,Default,,0,0,0,,Hey,
+Dialogue: 0,0:05:09.95,0:05:10.69,Default,,0,0,0,,Hecate!
+Dialogue: 0,0:05:11.36,0:05:12.36,Default,,0,0,0,,Hecate!
+Dialogue: 0,0:05:14.41,0:05:15.71,Default,,0,0,0,,Hey, Hecate!
+Dialogue: 0,0:05:16.10,0:05:17.63,Default,,0,0,0,,Answer me, Hecate!
+Dialogue: 0,0:05:18.46,0:05:19.99,Default,,0,0,0,,Come out, Hecate!
+Dialogue: 0,0:05:20.61,0:05:23.31,Default,,0,0,0,,Why do you hate taking the boy's heart so much?
+Dialogue: 0,0:05:27.08,0:05:28.23,Default,,0,0,0,,Father,
+Dialogue: 0,0:05:28.85,0:05:29.60,Default,,0,0,0,,Mother,
+Dialogue: 0,0:05:30.04,0:05:30.84,Default,,0,0,0,,I'm sorry.
+Dialogue: 0,0:05:31.31,0:05:35.00,Default,,0,0,0,,My strength as Sapphire isn't enough to save you.
+Dialogue: 0,0:05:35.73,0:05:38.14,Default,,0,0,0,,If only I could see...
+Dialogue: 0,0:05:39.23,0:05:40.66,Default,,0,0,0,,But there's no time.
+Dialogue: 0,0:05:41.15,0:05:42.68,Default,,0,0,0,,Mephisto will be back soon.
+Dialogue: 0,0:05:43.17,0:05:44.58,Default,,0,0,0,,Hecate, where are you?
+Dialogue: 0,0:05:45.26,0:05:46.39,Default,,0,0,0,,Zubarasha!
+Dialogue: 0,0:05:51.30,0:05:53.10,Default,,0,0,0,,Hecate, come over here!
+Dialogue: 0,0:05:53.69,0:05:54.72,Default,,0,0,0,,Answer me!
+Dialogue: 0,0:05:55.25,0:05:56.25,Default,,0,0,0,,Hecate, where are you?
+Dialogue: 0,0:05:56.52,0:05:57.69,Default,,0,0,0,,Where are you hiding?
+Dialogue: 0,0:05:57.80,0:05:59.22,Default,,0,0,0,,Answer me!
+Dialogue: 0,0:06:00.86,0:06:03.91,Default,,0,0,0,,I see, you must be hiding in one of these jars.
+Dialogue: 0,0:06:10.15,0:06:12.01,Default,,0,0,0,,I've got you, Hecate.
+Dialogue: 0,0:06:12.60,0:06:13.98,Default,,0,0,0,,Be a good girl and come out.
+Dialogue: 0,0:06:14.43,0:06:17.72,Default,,0,0,0,,Hecate, listen to your papa.
+Dialogue: 0,0:06:20.16,0:06:21.30,Default,,0,0,0,,I'm sorry, Papa.
+Dialogue: 0,0:06:21.76,0:06:23.58,Default,,0,0,0,,Come on, Hecate, open the lid.
+Dialogue: 0,0:06:23.93,0:06:25.34,Default,,0,0,0,,I won't send you away, so come out.
+Dialogue: 0,0:06:25.81,0:06:26.81,Default,,0,0,0,,Be a good girl.
+Dialogue: 0,0:06:27.08,0:06:29.50,Default,,0,0,0,,I know you're hiding inside this jar.
+Dialogue: 0,0:06:32.32,0:06:33.43,Default,,0,0,0,,Thank you, Hecate.
+Dialogue: 0,0:06:33.68,0:06:35.32,Default,,0,0,0,,You saved me again.
+Dialogue: 0,0:06:36.78,0:06:38.07,Default,,0,0,0,,Hurry and get ready to run.
+Dialogue: 0,0:06:38.46,0:06:39.24,Default,,0,0,0,,Come on, hurry.
+Dialogue: 0,0:06:39.26,0:06:42.59,Default,,0,0,0,,I made sure the lid won't open, but Papa will come straight here as soon as he realizes.
+Dialogue: 0,0:06:42.63,0:06:43.63,Default,,0,0,0,,Please, Hecate.
+Dialogue: 0,0:06:43.81,0:06:45.00,Default,,0,0,0,,Papa is begging you.
+Dialogue: 0,0:06:45.15,0:06:46.15,Default,,0,0,0,,Please come out.
+Dialogue: 0,0:06:46.27,0:06:49.56,Default,,0,0,0,,I can't even break the jar with magic while you're inside. Come on.
+Dialogue: 0,0:07:08.08,0:07:09.08,Default,,0,0,0,,Hang in there, Sapphire.
+Dialogue: 0,0:07:09.36,0:07:11.42,Default,,0,0,0,,Just make it to where the ship is.
+Dialogue: 0,0:07:18.89,0:07:22.27,Default,,0,0,0,,I wish I could heal your eyes, but it's beyond my power.
+Dialogue: 0,0:07:22.84,0:07:25.92,Default,,0,0,0,,Just taking me to Sea Snake Island is enough.
+Dialogue: 0,0:07:43.38,0:07:44.38,Default,,0,0,0,,We're almost at the ship.
+Dialogue: 0,0:07:44.53,0:07:45.53,Default,,0,0,0,,Hang on.
+Dialogue: 0,0:07:49.90,0:07:52.16,Default,,0,0,0,,Alright, we have to get to Sea Snake Island before Papa comes.
+Dialogue: 0,0:07:59.09,0:08:00.74,Default,,0,0,0,,Papa's probably furious right about now.
+Dialogue: 0,0:08:08.81,0:08:11.70,Default,,0,0,0,,Oh, did I drift off?
+Dialogue: 0,0:08:15.76,0:08:19.62,Default,,0,0,0,,Thank goodness. I was worried we lost our way while I was asleep, but we're fine.
+Dialogue: 0,0:08:19.65,0:08:21.00,Default,,0,0,0,,Hecate, have we reached Sea Serpent Island?
+Dialogue: 0,0:08:21.03,0:08:22.06,Default,,0,0,0,,No, not yet.
+Dialogue: 0,0:08:22.51,0:08:24.81,Default,,0,0,0,,I can't wait to see my father and mother.
+Dialogue: 0,0:08:25.17,0:08:26.35,Default,,0,0,0,,We're almost there, Sapphire.
+Dialogue: 0,0:08:36.78,0:08:37.88,Default,,0,0,0,,Sapphire, look! Sea Serpent Island!
+Dialogue: 0,0:08:38.24,0:08:39.62,Default,,0,0,0,,So, we've finally arrived.
+Dialogue: 0,0:08:40.10,0:08:41.34,Default,,0,0,0,,Hold on to the boat! Hold tight!
+Dialogue: 0,0:08:41.71,0:08:43.70,Default,,0,0,0,,The island is surrounded by treacherous whirlpools.
+Dialogue: 0,0:08:43.95,0:08:45.78,Default,,0,0,0,,If we get caught in one, we're done for!
+Dialogue: 0,0:09:22.17,0:09:22.97,Default,,0,0,0,,Hecate!
+Dialogue: 0,0:09:23.00,0:09:24.39,Default,,0,0,0,,Hecate, where are you?!
+Dialogue: 0,0:09:24.67,0:09:25.76,Default,,0,0,0,,Hecate!
+Dialogue: 0,0:09:26.34,0:09:27.64,Default,,0,0,0,,That was close.
+Dialogue: 0,0:09:28.29,0:09:29.43,Default,,0,0,0,,Sapphire, are you okay?
+Dialogue: 0,0:09:29.68,0:09:30.09,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:09:30.42,0:09:32.78,Default,,0,0,0,,That was rough, but we made it to Sea Snake Island.
+Dialogue: 0,0:09:33.78,0:09:34.37,Default,,0,0,0,,This is it?
+Dialogue: 0,0:09:34.62,0:09:35.62,Default,,0,0,0,,Then where are my parents?
+Dialogue: 0,0:09:35.84,0:09:37.62,Default,,0,0,0,,They should be somewhere on this island.
+Dialogue: 0,0:09:44.64,0:09:45.95,Default,,0,0,0,,Sapphire, hide!
+Dialogue: 0,0:09:46.82,0:09:48.09,Default,,0,0,0,,What's wrong, Hecate?
+Dialogue: 0,0:09:49.26,0:09:51.80,Default,,0,0,0,,Quiet. It's the sea snakes that lives on this island.
+Dialogue: 0,0:09:52.17,0:09:53.42,Default,,0,0,0,,If they spot us, we're done for.
+Dialogue: 0,0:10:06.01,0:10:06.65,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:10:06.70,0:10:08.36,Default,,0,0,0,,Don't let it pull you! Cut it down!
+Dialogue: 0,0:10:12.65,0:10:14.15,Default,,0,0,0,,Sapphire, above you!
+Dialogue: 0,0:10:17.57,0:10:19.06,Default,,0,0,0,,Get away from there, fast!
+Dialogue: 0,0:10:26.21,0:10:27.91,Default,,0,0,0,,Hang in there!
+Dialogue: 0,0:10:28.58,0:10:29.33,Default,,0,0,0,,Almost there!
+Dialogue: 0,0:10:35.14,0:10:36.34,Default,,0,0,0,,Sapphire, I found them!
+Dialogue: 0,0:10:36.46,0:10:38.22,Default,,0,0,0,,Your father and mother!
+Dialogue: 0,0:10:39.54,0:10:40.54,Default,,0,0,0,,W-Where, Hecate?
+Dialogue: 0,0:10:42.04,0:10:43.74,Default,,0,0,0,,This is your mother, Sapphire.
+Dialogue: 0,0:10:47.14,0:10:47.88,Default,,0,0,0,,Th-This is...?
+Dialogue: 0,0:10:48.36,0:10:50.45,Default,,0,0,0,,This cold touch... is my mother?
+Dialogue: 0,0:10:50.53,0:10:52.07,Default,,0,0,0,,M-Mother!
+Dialogue: 0,0:10:53.82,0:10:54.99,Default,,0,0,0,,Come on, tell me!
+Dialogue: 0,0:10:55.26,0:10:56.81,Default,,0,0,0,,How do we break this spell?
+Dialogue: 0,0:10:57.63,0:11:00.65,Default,,0,0,0,,One way is for my father to undo it.
+Dialogue: 0,0:11:01.05,0:11:02.05,Default,,0,0,0,,That's obvious!
+Dialogue: 0,0:11:02.22,0:11:03.68,Default,,0,0,0,,I'm asking you because he won't!
+Dialogue: 0,0:11:04.00,0:11:05.05,Default,,0,0,0,,And the other way is to...
+Dialogue: 0,0:11:05.07,0:11:08.35,Default,,0,0,0,,pour all the blood of the person who loves them most over them.
+Dialogue: 0,0:11:08.62,0:11:09.08,Default,,0,0,0,,What?!
+Dialogue: 0,0:11:09.49,0:11:10.49,Default,,0,0,0,,Every last drop of my blood?
+Dialogue: 0,0:11:11.38,0:11:14.48,Default,,0,0,0,,I love Mother and Father more than anyone!
+Dialogue: 0,0:11:15.27,0:11:18.64,Default,,0,0,0,,So if I cover them in my blood, the spell will break?
+Dialogue: 0,0:11:19.77,0:11:21.26,Default,,0,0,0,,But you can't do that!
+Dialogue: 0,0:11:22.17,0:11:23.17,Default,,0,0,0,,Yes I can!
+Dialogue: 0,0:11:23.36,0:11:24.36,Default,,0,0,0,,I can do it!
+Dialogue: 0,0:11:25.04,0:11:28.90,Default,,0,0,0,,Father, Mother, my blood will break this devil's curse!
+Dialogue: 0,0:11:29.03,0:11:29.73,Default,,0,0,0,,No, stop!
+Dialogue: 0,0:11:29.79,0:11:30.24,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:11:30.52,0:11:32.20,Default,,0,0,0,,You'll die if you do that!
+Dialogue: 0,0:11:32.49,0:11:33.10,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:11:33.10,0:11:33.74,Default,,0,0,0,,Let go of me!
+Dialogue: 0,0:11:34.06,0:11:35.06,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:11:35.34,0:11:36.11,Default,,0,0,0,,Hecate!
+Dialogue: 0,0:11:36.74,0:11:37.41,Default,,0,0,0,,Hecate!
+Dialogue: 0,0:11:37.70,0:11:38.70,Default,,0,0,0,,Papa!
+Dialogue: 0,0:11:42.52,0:11:43.52,Default,,0,0,0,,Mephisto?
+Dialogue: 0,0:11:44.28,0:11:44.88,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:11:45.00,0:11:45.75,Default,,0,0,0,,Watch out!
+Dialogue: 0,0:11:47.72,0:11:48.72,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:11:54.79,0:11:55.90,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:11:58.28,0:11:59.90,Default,,0,0,0,,Father!
+Dialogue: 0,0:12:00.06,0:12:01.97,Default,,0,0,0,,Mother!
+Dialogue: 0,0:12:16.48,0:12:21.19,Default,,0,0,0,,Throw this corpse into the sea to feed the fish!
+Dialogue: 0,0:12:21.94,0:12:23.82,Default,,0,0,0,,Wait, he's still alive!
+Dialogue: 0,0:12:26.42,0:12:29.48,Default,,0,0,0,,He must have escaped from some island!
+Dialogue: 0,0:12:29.56,0:12:31.14,Default,,0,0,0,,We don't want to get involved in any trouble!
+Dialogue: 0,0:12:31.39,0:12:32.48,Default,,0,0,0,,Throw him into the sea!
+Dialogue: 0,0:12:32.88,0:12:35.77,Default,,0,0,0,,Unlucky bastard—just when he was almost saved!
+Dialogue: 0,0:12:39.18,0:12:40.18,Default,,0,0,0,,Hey, wait!
+Dialogue: 0,0:12:41.49,0:12:42.56,Default,,0,0,0,,Put him down, Bond!
+Dialogue: 0,0:12:42.95,0:12:44.45,Default,,0,0,0,,Aye aye, Captain!
+Dialogue: 0,0:12:45.01,0:12:48.40,Default,,0,0,0,,Silver, I won't let you give orders on my ship!
+Dialogue: 0,0:12:49.44,0:12:51.56,Default,,0,0,0,,I'll look into it. Put them in the war room!
+Dialogue: 0,0:13:18.60,0:13:21.56,Default,,0,0,0,,Never thought I'd see you in a place like this.
+Dialogue: 0,0:13:22.16,0:13:25.93,Default,,0,0,0,,Sapphire, get a good night's sleep first so you can recover.
+Dialogue: 0,0:13:30.34,0:13:31.34,Default,,0,0,0,,Where am I?
+Dialogue: 0,0:13:31.39,0:13:32.80,Default,,0,0,0,,Oh, you're awake.
+Dialogue: 0,0:13:33.37,0:13:34.51,Default,,0,0,0,,Who's there?!
+Dialogue: 0,0:13:35.54,0:13:36.80,Default,,0,0,0,,It's me, Blood.
+Dialogue: 0,0:13:37.01,0:13:38.01,Default,,0,0,0,,Blood?
+Dialogue: 0,0:13:38.60,0:13:39.88,Default,,0,0,0,,I see. So you don't remember.
+Dialogue: 0,0:13:40.33,0:13:44.00,Default,,0,0,0,,I'm the prisoner you saved a year ago when Grand Duke Duralumin captured me.
+Dialogue: 0,0:13:44.44,0:13:45.88,Default,,0,0,0,,As you can see, I'm a pirate now.
+Dialogue: 0,0:13:47.74,0:13:48.74,Default,,0,0,0,,What happened to your eyes?
+Dialogue: 0,0:13:49.39,0:13:50.42,Default,,0,0,0,,Can't you even see my face?
+Dialogue: 0,0:13:51.28,0:13:52.28,Default,,0,0,0,,What on earth happened?
+Dialogue: 0,0:13:52.79,0:13:54.14,Default,,0,0,0,,If you're okay with me, won't you talk to me?
+Dialogue: 0,0:14:00.61,0:14:03.14,Default,,0,0,0,,There must be a pact with the Snow Queen.
+Dialogue: 0,0:14:03.22,0:14:04.15,Default,,0,0,0,,How sickening...
+Dialogue: 0,0:14:04.28,0:14:07.58,Default,,0,0,0,,Right. Word is her army will invade Silverland soon.
+Dialogue: 0,0:14:07.90,0:14:09.66,Default,,0,0,0,,Then Mephisto and my imposter...
+Dialogue: 0,0:14:10.28,0:14:12.91,Default,,0,0,0,,Yeah, most likely the Snow Queen's doing.
+Dialogue: 0,0:14:13.52,0:14:15.02,Default,,0,0,0,,That sounds just like her.
+Dialogue: 0,0:14:15.82,0:14:18.87,Default,,0,0,0,,Damn that Snow Queen! Next time I see her, I won't let her get away with this!
+Dialogue: 0,0:14:19.49,0:14:22.28,Default,,0,0,0,,But first, we need to cure your eyes.
+Dialogue: 0,0:14:22.55,0:14:23.55,Default,,0,0,0,,Cure my eyes?
+Dialogue: 0,0:14:23.62,0:14:24.75,Default,,0,0,0,,Can my sight really be restored?
+Dialogue: 0,0:14:26.75,0:14:29.94,Default,,0,0,0,,A pirate sails to ports all over the world and hears all kinds of rumors.
+Dialogue: 0,0:14:30.33,0:14:31.74,Default,,0,0,0,,One of them is about the Waterfall of Purification.
+Dialogue: 0,0:14:31.94,0:14:32.94,Default,,0,0,0,,The Waterfall of Purification?
+Dialogue: 0,0:14:33.14,0:14:33.74,Default,,0,0,0,,That's right.
+Dialogue: 0,0:14:34.26,0:14:35.90,Default,,0,0,0,,If you wash your eyes with the water from that waterfall,
+Dialogue: 0,0:14:36.40,0:14:39.72,Default,,0,0,0,, it'll flush out the poison and restore your sight in no time.
+Dialogue: 0,0:14:39.91,0:14:42.92,Default,,0,0,0,,My eyes... I'll be able to see again!
+Dialogue: 0,0:14:44.16,0:14:47.82,Default,,0,0,0,,Getting to Black Cloud Island where the waterfall is might be dangerous,
+Dialogue: 0,0:14:47.86,0:14:50.33,Default,,0,0,0,,but with Blood around, you've got nothing to worry about.
+Dialogue: 0,0:14:51.03,0:14:52.36,Default,,0,0,0,,Blood's really gone soft.
+Dialogue: 0,0:14:52.46,0:14:56.24,Default,,0,0,0,,Real deal or not, I'm not risking my neck for a guy like him.
+Dialogue: 0,0:14:57.74,0:14:58.82,Default,,0,0,0,,You shouldn't let yourself catch a chill.
+Dialogue: 0,0:14:59.34,0:15:00.34,Default,,0,0,0,,Let's head back inside.
+Dialogue: 0,0:15:01.61,0:15:03.10,Default,,0,0,0,,Damn that Blood. Just you wait...
+Dialogue: 0,0:15:04.86,0:15:06.36,Default,,0,0,0,,You said it was dangerous...
+Dialogue: 0,0:15:07.04,0:15:08.72,Default,,0,0,0,,Ah, right, there are two treacherous spots.
+Dialogue: 0,0:15:08.95,0:15:09.95,Default,,0,0,0,,One is the Raging Rocks.
+Dialogue: 0,0:15:10.54,0:15:12.02,Default,,0,0,0,,And the Cove of the Ancient Capital.
+Dialogue: 0,0:15:12.94,0:15:13.72,Default,,0,0,0,,Raging Rocks?
+Dialogue: 0,0:15:13.91,0:15:14.68,Default,,0,0,0,,The Cove of the Ancient Capital?
+Dialogue: 0,0:15:14.85,0:15:16.42,Default,,0,0,0,,Come on, it's nothing to worry about.
+Dialogue: 0,0:15:16.89,0:15:18.78,Default,,0,0,0,,Here, drink this to warm yourself up.
+Dialogue: 0,0:15:19.22,0:15:19.67,Default,,0,0,0,,I don't want any!
+Dialogue: 0,0:15:19.75,0:15:20.86,Default,,0,0,0,,I don't drink alcohol!
+Dialogue: 0,0:15:21.62,0:15:22.62,Default,,0,0,0,,Oh right, Sapphire.
+Dialogue: 0,0:15:22.99,0:15:24.52,Default,,0,0,0,,This is what's best for you.
+Dialogue: 0,0:15:24.84,0:15:26.54,Default,,0,0,0,,I'm pretty sure I put it in here...
+Dialogue: 0,0:15:27.24,0:15:30.76,Default,,0,0,0,,Just because I saved you, why are you being so nice to me?
+Dialogue: 0,0:15:31.38,0:15:34.54,Default,,0,0,0,,Well, don't go asking weird things out of nowhere.
+Dialogue: 0,0:15:34.68,0:15:35.34,Default,,0,0,0,,Ah, here it is!
+Dialogue: 0,0:15:35.40,0:15:36.03,Default,,0,0,0,,This one.
+Dialogue: 0,0:15:37.42,0:15:40.36,Default,,0,0,0,,This suits you much better than liquor.
+Dialogue: 0,0:15:40.86,0:15:43.06,Default,,0,0,0,,W-What is this?
+Dialogue: 0,0:15:43.55,0:15:44.16,Default,,0,0,0,,A dress.
+Dialogue: 0,0:15:44.69,0:15:46.78,Default,,0,0,0,,I saved it, hoping I'd run into you again someday.
+Dialogue: 0,0:15:47.25,0:15:48.08,Default,,0,0,0,,Why don't you try it on?
+Dialogue: 0,0:15:48.08,0:15:48.64,Default,,0,0,0,,A dress?
+Dialogue: 0,0:15:48.74,0:15:49.54,Default,,0,0,0,,Don't make a fool of me!
+Dialogue: 0,0:15:49.66,0:15:50.66,Default,,0,0,0,,I'm a boy!
+Dialogue: 0,0:15:50.72,0:15:54.23,Default,,0,0,0,,Sapphire, no matter how much you act like a boy, I know you're a girl.
+Dialogue: 0,0:15:54.32,0:15:55.32,Default,,0,0,0,,Are you starting that again?!
+Dialogue: 0,0:15:56.36,0:15:57.01,Default,,0,0,0,,All right, I get it.
+Dialogue: 0,0:15:57.03,0:15:58.28,Default,,0,0,0,,I get it, Sapphire.
+Dialogue: 0,0:15:58.92,0:16:00.84,Default,,0,0,0,,But if you ever get the chance, just once would be enough.
+Dialogue: 0,0:16:01.21,0:16:02.82,Default,,0,0,0,,Won't you wear it and show me?
+Dialogue: 0,0:16:19.58,0:16:20.58,Default,,0,0,0,,What's wrong?
+Dialogue: 0,0:16:31.72,0:16:33.34,Default,,0,0,0,,Captain! Look at that!
+Dialogue: 0,0:16:36.74,0:16:37.74,Default,,0,0,0,,We're taking on water!
+Dialogue: 0,0:16:37.90,0:16:38.90,Default,,0,0,0,,Repair the hole!
+Dialogue: 0,0:16:41.61,0:16:42.69,Default,,0,0,0,,The water stopped!
+Dialogue: 0,0:16:42.79,0:16:44.28,Default,,0,0,0,,The water stopped!
+Dialogue: 0,0:16:44.49,0:16:46.36,Default,,0,0,0,,Blood, what happened?
+Dialogue: 0,0:16:52.76,0:16:53.39,Default,,0,0,0,,Look out!
+Dialogue: 0,0:16:53.48,0:16:54.12,Default,,0,0,0,,Blood!
+Dialogue: 0,0:16:58.52,0:16:59.58,Default,,0,0,0,,Are you okay, Sapphire?
+Dialogue: 0,0:16:59.80,0:17:00.09,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:17:00.29,0:17:01.69,Default,,0,0,0,,But what happened?
+Dialogue: 0,0:17:04.18,0:17:05.11,Default,,0,0,0,,The Raging Rocks...
+Dialogue: 0,0:17:05.13,0:17:06.24,Default,,0,0,0,,What about the Raging Rocks?
+Dialogue: 0,0:17:06.35,0:17:08.82,Default,,0,0,0,,So, are we heading toward Black Cloud Island with the waterfall?
+Dialogue: 0,0:17:09.18,0:17:12.02,Default,,0,0,0,,Yeah, no matter what you say, I'm getting involved.
+Dialogue: 0,0:17:13.48,0:17:14.90,Default,,0,0,0,,Hey, don't dawdle!
+Dialogue: 0,0:17:15.17,0:17:16.28,Default,,0,0,0,,Water's rushing in!
+Dialogue: 0,0:17:20.64,0:17:22.04,Default,,0,0,0,,Sapphire, hold on!
+Dialogue: 0,0:17:28.24,0:17:29.69,Default,,0,0,0,,Hey, hard to starboard!
+Dialogue: 0,0:17:29.85,0:17:31.21,Default,,0,0,0,,Bare to right!
+Dialogue: 0,0:17:31.64,0:17:33.38,Default,,0,0,0,,Damn it!
+Dialogue: 0,0:17:49.70,0:17:54.17,Default,,0,0,0,,I'm saved!
+Dialogue: 0,0:17:54.19,0:17:55.66,Default,,0,0,0,,We're saved!
+Dialogue: 0,0:17:55.82,0:17:56.65,Default,,0,0,0,,Well done!
+Dialogue: 0,0:17:57.50,0:17:59.69,Default,,0,0,0,,Some captain you are!
+Dialogue: 0,0:18:00.11,0:18:01.83,Default,,0,0,0,,Is Sapphire all you can see?!
+Dialogue: 0,0:18:02.14,0:18:02.94,Default,,0,0,0,,What did you say?
+Dialogue: 0,0:18:03.20,0:18:05.95,Default,,0,0,0,,If you don't pull yourself together, I fear for what lies ahead!
+Dialogue: 0,0:18:27.17,0:18:29.24,Default,,0,0,0,,Land ho!
+Dialogue: 0,0:18:29.32,0:18:30.32,Default,,0,0,0,,Sapphire, wake up!
+Dialogue: 0,0:18:30.42,0:18:31.33,Default,,0,0,0,,The island's coming into view!
+Dialogue: 0,0:18:44.72,0:18:46.87,Default,,0,0,0,,My head feels so fuzzy...
+Dialogue: 0,0:18:50.42,0:18:51.95,Default,,0,0,0,,It's a mermaid!
+Dialogue: 0,0:18:55.08,0:18:57.01,Default,,0,0,0,,It's getting to me, too...
+Dialogue: 0,0:19:00.21,0:19:01.01,Default,,0,0,0,,Get to the island!
+Dialogue: 0,0:19:01.19,0:19:02.19,Default,,0,0,0,,Don't be fooled!
+Dialogue: 0,0:19:02.39,0:19:03.59,Default,,0,0,0,,That song is the voice of a demon!
+Dialogue: 0,0:19:09.49,0:19:11.76,Default,,0,0,0,,Wait, my head's going crazy too...
+Dialogue: 0,0:19:33.54,0:19:34.28,Default,,0,0,0,,Sapphire...
+Dialogue: 0,0:19:40.32,0:19:41.74,Default,,0,0,0,,Sapphire, thank you.
+Dialogue: 0,0:19:41.96,0:19:43.26,Default,,0,0,0,,I've come back to my senses.
+Dialogue: 0,0:19:44.52,0:19:46.29,Default,,0,0,0,,Anyone who wants to be shark bait, go right ahead!
+Dialogue: 0,0:19:46.97,0:19:48.91,Default,,0,0,0,,Captain Blood has landed on Black Cloud Island!
+Dialogue: 0,0:19:50.03,0:19:51.90,Default,,0,0,0,,No way am I moving a muscle for a woman!
+Dialogue: 0,0:19:52.23,0:19:53.92,Default,,0,0,0,,That bastard... just wait and see!
+Dialogue: 0,0:19:54.29,0:19:54.79,Default,,0,0,0,,Wretch!
+Dialogue: 0,0:20:19.58,0:20:22.61,Default,,0,0,0,,Sapphire, this is Black Cloud Island, home of the Waterfall of Purification.
+Dialogue: 0,0:20:26.32,0:20:28.58,Default,,0,0,0,,Silver, you didn't need to bring that with you.
+Dialogue: 0,0:20:30.00,0:20:31.92,Default,,0,0,0,,You never know what might show up.
+Dialogue: 0,0:20:34.86,0:20:37.93,Default,,0,0,0,,Blood, I hear the sound of water over there...
+Dialogue: 0,0:20:41.82,0:20:42.24,Default,,0,0,0,,That's it!
+Dialogue: 0,0:20:42.70,0:20:44.08,Default,,0,0,0,,That's gotta be the Waterfall of Purification.
+Dialogue: 0,0:20:44.62,0:20:46.06,Default,,0,0,0,,Sapphire, the footing is treacherous.
+Dialogue: 0,0:20:46.30,0:20:46.83,Default,,0,0,0,,Go stand over there.
+Dialogue: 0,0:20:54.72,0:20:56.25,Default,,0,0,0,,Wash thoroughly to rinse out the poison.
+Dialogue: 0,0:21:05.98,0:21:06.54,Default,,0,0,0,,It's no good!
+Dialogue: 0,0:21:06.74,0:21:07.21,Default,,0,0,0,,It won't come out!
+Dialogue: 0,0:21:07.44,0:21:08.44,Default,,0,0,0,,It's just like before!
+Dialogue: 0,0:21:09.94,0:21:10.94,Default,,0,0,0,,Rinse them well!
+Dialogue: 0,0:21:11.34,0:21:14.39,Default,,0,0,0,,Let the water soak into your eyes and wash them carefully.
+Dialogue: 0,0:21:21.16,0:21:22.15,Default,,0,0,0,,How is it, Sapphire?
+Dialogue: 0,0:21:22.40,0:21:23.43,Default,,0,0,0,,Blood, watch out!
+Dialogue: 0,0:21:26.58,0:21:28.48,Default,,0,0,0,,Silver, you dare turn against me?
+Dialogue: 0,0:21:29.92,0:21:32.08,Default,,0,0,0,,I've been waiting a long time for this chance.
+Dialogue: 0,0:21:32.50,0:21:33.54,Default,,0,0,0,,Then no one will get in my way.
+Dialogue: 0,0:21:33.75,0:21:35.04,Default,,0,0,0,,Blood, here I come!
+Dialogue: 0,0:21:35.82,0:21:36.14,Default,,0,0,0,,I can see!
+Dialogue: 0,0:21:36.47,0:21:37.54,Default,,0,0,0,,My eyes... I can see again!
+Dialogue: 0,0:21:43.22,0:21:44.41,Default,,0,0,0,,Alright, come on!
+Dialogue: 0,0:21:44.66,0:21:45.34,Default,,0,0,0,,I'll take you on!
+Dialogue: 0,0:21:45.45,0:21:45.83,Default,,0,0,0,,Come on!
+Dialogue: 0,0:21:50.78,0:21:51.60,Default,,0,0,0,,Stop!
+Dialogue: 0,0:21:51.77,0:21:52.93,Default,,0,0,0,,Stop it, both of you!
+Dialogue: 0,0:22:06.11,0:22:06.95,Default,,0,0,0,,Wait!
+Dialogue: 0,0:22:08.17,0:22:09.44,Default,,0,0,0,,Now you're facing me!
+Dialogue: 0,0:22:12.15,0:22:13.13,Default,,0,0,0,,Impudent brat!
+Dialogue: 0,0:22:13.32,0:22:15.16,Default,,0,0,0,,I'll take care of you first!
+Dialogue: 0,0:22:15.23,0:22:17.42,Default,,0,0,0,,Prepare yourself!
+Dialogue: 0,0:22:40.67,0:22:41.76,Default,,0,0,0,,You're all alone!
+Dialogue: 0,0:22:41.94,0:22:42.94,Default,,0,0,0,,What are you going to do?
+Dialogue: 0,0:22:43.44,0:22:44.08,Default,,0,0,0,,F-F-F-F-Father!
+Dialogue: 0,0:22:44.36,0:22:45.58,Default,,0,0,0,,I give up!
+Dialogue: 0,0:22:45.77,0:22:46.82,Default,,0,0,0,,Father, it's me!
+Dialogue: 0,0:22:55.63,0:22:56.63,Default,,0,0,0,,Are you all right, Blood?
+Dialogue: 0,0:22:56.90,0:22:57.34,Default,,0,0,0,,Hold on!
+Dialogue: 0,0:22:57.60,0:22:59.08,Default,,0,0,0,,First, let me wash that wound.
+Dialogue: 0,0:22:59.35,0:22:59.96,Default,,0,0,0,,I'm fine.
+Dialogue: 0,0:23:00.10,0:23:01.14,Default,,0,0,0,,It's just a scratch.
+Dialogue: 0,0:23:01.44,0:23:02.90,Default,,0,0,0,,You're as strong as ever.
+Dialogue: 0,0:23:06.14,0:23:10.18,Default,,0,0,0,,But I like you better in a dress, like yesterday.
+Dialogue: 0,0:23:10.97,0:23:12.18,Default,,0,0,0,,Did you say something?
+Dialogue: 0,0:23:13.46,0:23:14.46,Default,,0,0,0,,No, nothing.
+Dialogue: 0,0:23:14.92,0:23:16.54,Default,,0,0,0,,Just that we should hurry back home.
+Dialogue: 0,0:23:17.84,0:23:20.76,Default,,0,0,0,,Still, I'm really glad you got your sight back.
+Dialogue: 0,0:23:23.19,0:23:25.28,Default,,0,0,0,,It's all thanks to you, Blood!
+Dialogue: 0,0:23:31.06,0:23:32.06,Default,,0,0,0,,Well then, Sapphire.
+Dialogue: 0,0:23:32.17,0:23:33.84,Default,,0,0,0,,Take care and stay strong.
+Dialogue: 0,0:23:33.96,0:23:34.50,Default,,0,0,0,,Okay?
+Dialogue: 0,0:23:34.56,0:23:34.95,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:23:35.33,0:23:36.33,Default,,0,0,0,,Goodbye, Blood.
+Dialogue: 0,0:23:40.80,0:23:41.49,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:23:41.70,0:23:42.28,Default,,0,0,0,,Take care!
+Dialogue: 0,0:23:43.36,0:23:44.65,Default,,0,0,0,,Goodbye, Blood!
+Dialogue: 0,0:23:44.93,0:23:45.73,Default,,0,0,0,,Goodbye, everyone!
+Dialogue: 0,0:23:56.04,0:23:57.04,Default,,0,0,0,,Watch over me!
+Dialogue: 0,0:23:57.34,0:24:00.86,Default,,0,0,0,,I'll defeat the Snow Queen and protect Silverland!
+Dialogue: 0,0:24:02.72,0:24:05.32,Default,,0,0,0,,Father, Mother, please wait for me!
 Dialogue: 0,0:24:26.78,0:24:30.42,Karaoke,,0,0,0,,{\k29}{\k22}Ta{\k18}ra{\k16}ri {\k18}Ra{\k20}tta {\k23}Ri{\k19}tta {\k26}Ra{\k17}tta {\k19}Ra{\k66}tta{\k69}ttaa
 Dialogue: 0,0:24:30.42,0:24:33.78,Karaoke,,0,0,0,,{\k8}{\k46}Kya{\k68}hoo! {\k35}Kya{\k42}hoo! {\k46}Kya{\k91}hoo!
 Dialogue: 0,0:24:30.42,0:24:33.78,OPED_Translation,,0,0,0,,Yahoo! Yahoo! Yahoo!

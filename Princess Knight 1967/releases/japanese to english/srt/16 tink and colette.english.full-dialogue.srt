@@ -87,7 +87,7 @@ Step right up! Come on over!
 
 19
 00:02:12,740 --> 00:02:16,460
-Old Man Azoro's puppet show is so much fun!
+Old Man Anzoro's puppet show is so much fun!
 
 20
 00:02:20,730 --> 00:02:23,500
@@ -95,7 +95,7 @@ Ah, so many people have gathered!
 
 21
 00:02:23,665 --> 00:02:26,320
-It's Old Anthro's puppet show.
+It's Old Anzoro's puppet show.
 
 22
 00:02:30,400 --> 00:02:32,660
@@ -115,7 +115,7 @@ Hey, are you asking why everyone's gathered?
 
 26
 00:02:45,480 --> 00:02:48,100
-It's Old Man Azoro's puppet show.
+It's Old Man Anzoro's puppet show.
 
 27
 00:02:48,125 --> 00:02:49,280
@@ -519,7 +519,7 @@ The puppet show is starting!
 
 127
 00:10:06,690 --> 00:10:11,800
-Colette's 'Snow White and the Giant Monster' is about to begin!
+Colette's "Snow White and the Giant Monster" is about to begin!
 
 128
 00:10:13,106 --> 00:10:17,525
@@ -1135,15 +1135,15 @@ Then I can finally become king!
 
 280
 00:17:40,134 --> 00:17:43,900
-Bad people like you will be eaten by the King of Hell, Lord Enma!
+<i>Bad people like you will be eaten by the King of Hell, Lord Enma!</i>
 
 281
 00:17:44,519 --> 00:17:47,200
-Enma or whatever, I don't care! I'm not scared!
+<i>Enma or whatever, I don't care! I'm not scared!</i>
 
 282
-00:17:47,554 --> 00:17:48,760
-I'll beat them all up!
+00:17:47,554 --> 00:17:48,946
+<i>I'll beat them all up!</i>
 
 283
 00:17:55,860 --> 00:17:56,860
@@ -1171,43 +1171,43 @@ Look, Mother, isn't that just a show?
 
 289
 00:18:07,839 --> 00:18:09,780
-I am the Demon of Hell!
+<i>I am the Demon of Hell!</i>
 
 290
 00:18:10,009 --> 00:18:12,093
-Where is that lying tomboy?!
+<i>Where is that lying tomboy?!</i>
 
 291
 00:18:12,280 --> 00:18:13,280
-There you are!
+<i>There you are!</i>
 
 292
 00:18:14,485 --> 00:18:16,753
-I'm going to eat you up!
+<i>I'm going to eat you up!</i>
 
 293
 00:18:17,493 --> 00:18:17,966
-Huh?
+<i>Huh?</i>
 
 294
 00:18:18,059 --> 00:18:19,080
-I'll eat you up!
+<i>I'll eat you up!</i>
 
 295
 00:18:19,120 --> 00:18:19,500
-Eat you!
+<i>Eat you!</i>
 
 296
 00:18:19,620 --> 00:18:20,040
-Eat you!
+<i>Eat you!</i>
 
 297
-00:18:20,200 --> 00:18:20,600
+00:18:20,200 --> 00:18:20,759
 Damn it!
 
 298
 00:18:20,820 --> 00:18:21,460
-Eat you!
+<i>Eat you!</i>
 
 299
 00:18:21,469 --> 00:18:24,173

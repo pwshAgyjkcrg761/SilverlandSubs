@@ -14,7 +14,8 @@ Audio File: 30 the phantom kite.mkv
 Video File: 30 the phantom kite.mkv
 Video AR Mode: 4
 Video AR Value: 1.314554
-Active Line: 18
+Scroll Position: 339
+Active Line: 342
 Video Position: 950
 
 [V4+ Styles]
@@ -48,261 +49,325 @@ Dialogue: 0,0:01:25.22,0:01:28.62,Karaoke,,0,0,0,,{\k6}{\k50}Hon{\k43}to {\k33}w
 Dialogue: 0,0:01:25.22,0:01:28.62,OPED_Translation,,0,0,0,,Truly, truly,
 Dialogue: 0,0:01:28.62,0:01:31.82,Karaoke,,0,0,0,,{\k18}{\k23}A{\k23}ta{\k27}shi {\k35}na{\k35}no {\k159}sa{\k0}
 Dialogue: 0,0:01:28.62,0:01:31.82,OPED_Translation,,0,0,0,,It’s really me!
-Dialogue: 0,0:01:44.10,0:01:50.14,Default,,0,0,0,,Thirtieth Episode\NThe Phantom Kite
-Dialogue: 0,0:02:17.18,0:02:19.01,Default,,0,0,0,,How delightful!
-Dialogue: 0,0:02:25.06,0:02:28.69,Default,,0,0,0,,My crown has disappeared!\NQuick, search for it! Find it!
-Dialogue: 0,0:02:38.78,0:02:41.34,Default,,0,0,0,,The phantom thief Gilbert?
-Dialogue: 0,0:02:41.90,0:02:46.69,Default,,0,0,0,,Yes... Yes, yes! He is a strange\Nthief who only targets crowns.
-Dialogue: 0,0:02:46.82,0:02:49.46,Default,,0,0,0,,He has never been\Ncaught or seen by anyone.
-Dialogue: 0,0:02:49.50,0:02:51.70,Default,,0,0,0,,All that is known is that he is
-Dialogue: 0,0:02:52.62,0:02:54.82,Default,,0,0,0,,incredibly agile and strong!
-Dialogue: 0,0:03:49.90,0:03:53.66,Default,,0,0,0,,Majesty, it seems that Gilbert\Nhas been seen around here.
-Dialogue: 0,0:03:54.42,0:03:57.62,Default,,0,0,0,,My God, how I like Gilbert!\NI can't wait to see him!
-Dialogue: 0,0:03:57.66,0:04:00.70,Default,,0,0,0,,- But I say... Sapphire!\N- Yes, mother...
-Dialogue: 0,0:04:00.78,0:04:04.90,Default,,0,0,0,,They say he appeared suddenly\Nin the town next to ours.
-Dialogue: 0,0:04:05.18,0:04:07.49,Default,,0,0,0,,Did he steal some crowns there too?
-Dialogue: 0,0:04:07.54,0:04:09.53,Default,,0,0,0,,We don't know!\NHe's so fast...
-Dialogue: 0,0:04:09.58,0:04:11.73,Default,,0,0,0,,...that you can never know\Nwhere and when he arrives.
-Dialogue: 0,0:04:11.78,0:04:15.25,Default,,0,0,0,,It's said that he wants to remain a thief\Nuntil he has stolen 10 crowns!
-Dialogue: 0,0:04:15.30,0:04:17.29,Default,,0,0,0,,What a strange fellow!
-Dialogue: 0,0:04:17.34,0:04:20.22,Default,,0,0,0,,Then he could also steal\Nmy father and mother's crown!
-Dialogue: 0,0:04:20.26,0:04:22.14,Default,,0,0,0,,That would be terrible!
-Dialogue: 0,0:04:22.30,0:04:24.77,Default,,0,0,0,,If they steal it from you,\Nyou can put on another one.
-Dialogue: 0,0:04:24.82,0:04:28.53,Default,,0,0,0,,No, we can't. This is part\Nof the Silverland treasure.
-Dialogue: 0,0:04:28.58,0:04:30.94,Default,,0,0,0,,It was made\Nby a great master.
-Dialogue: 0,0:04:31.94,0:04:35.70,Default,,0,0,0,,Really? Looking at it, it seems\Nlike just an ordinary crown.
-Dialogue: 0,0:04:35.74,0:04:38.18,Default,,0,0,0,,Anyway, you'll have to be\Nvery careful.
-Dialogue: 0,0:04:39.10,0:04:42.01,Default,,0,0,0,,You know well that,\Nif they were to steal the crown from you,
-Dialogue: 0,0:04:42.06,0:04:44.02,Default,,0,0,0,,you would fall into disgrace!
-Dialogue: 0,0:04:44.06,0:04:47.02,Default,,0,0,0,,I know, but I'll try to be\Nvery careful.
-Dialogue: 0,0:05:17.82,0:05:20.65,Default,,0,0,0,,How I love\Nwatching the parades!
-Dialogue: 0,0:05:41.30,0:05:43.66,Default,,0,0,0,,That's the phantom thief Gilbert!
-Dialogue: 0,0:05:54.74,0:05:57.05,Default,,0,0,0,,Someone shoot down that kite!
-Dialogue: 0,0:06:15.70,0:06:17.82,Default,,0,0,0,,Now I'll bring you down!
-Dialogue: 0,0:06:39.70,0:06:42.09,Default,,0,0,0,,Hey! Give us back the crown!
-Dialogue: 0,0:06:45.50,0:06:47.33,Default,,0,0,0,,Tink, watch out!
-Dialogue: 0,0:06:52.42,0:06:54.73,Default,,0,0,0,,Help!
-Dialogue: 0,0:06:55.42,0:06:57.09,Default,,0,0,0,,Thank you!
-Dialogue: 0,0:07:08.82,0:07:11.57,Default,,0,0,0,,Nylon had warned you\Nthat Gilbert would come...
-Dialogue: 0,0:07:11.62,0:07:14.18,Default,,0,0,0,,...and you let the crown\Nbe stolen so easily!
-Dialogue: 0,0:07:14.22,0:07:17.05,Default,,0,0,0,,It's shameful! Have you\Nforgotten that the crown...
-Dialogue: 0,0:07:17.10,0:07:19.41,Default,,0,0,0,,...is the precious\Ntreasure of Silverland?
-Dialogue: 0,0:07:19.70,0:07:23.77,Default,,0,0,0,,How could I have imagined that\Nhe would come right from the sky?
-Dialogue: 0,0:07:25.18,0:07:28.70,Default,,0,0,0,,It means that, for the\Nmoment, I'll put on another one.
-Dialogue: 0,0:07:30.34,0:07:32.30,Default,,0,0,0,,For the moment?!
-Dialogue: 0,0:07:32.34,0:07:35.46,Default,,0,0,0,,Do you perhaps hope the stolen\Ncrown will return on its own?
-Dialogue: 0,0:07:35.50,0:07:38.10,Default,,0,0,0,,But we don't even\Nknow where it ended up?!
-Dialogue: 0,0:07:38.14,0:07:40.81,Default,,0,0,0,,I will search for it myself\Nand I will certainly find it!
-Dialogue: 0,0:07:40.86,0:07:44.46,Default,,0,0,0,,- Sapphire!\N- Mother, if I don't do this,
-Dialogue: 0,0:07:44.50,0:07:47.41,Default,,0,0,0,,these two people\Nwill never stop talking!
-Dialogue: 0,0:07:49.02,0:07:51.74,Default,,0,0,0,,How brave you are,\NPrincess Sapphire!
-Dialogue: 0,0:07:53.34,0:07:56.17,Default,,0,0,0,,How long do you think it will take you\Nto find it?
-Dialogue: 0,0:07:56.22,0:07:59.45,Default,,0,0,0,,It would be a real shame\Nif it took three years!
-Dialogue: 0,0:08:01.02,0:08:03.46,Default,,0,0,0,,- Three days.\N- Three days?!
-Dialogue: 0,0:08:03.50,0:08:06.06,Default,,0,0,0,,I will get it back in three days.\NAre you satisfied?
-Dialogue: 0,0:08:06.10,0:08:09.65,Default,,0,0,0,,Certainly, Princess Sapphire!\NWe know how brave you are.
-Dialogue: 0,0:08:09.70,0:08:12.01,Default,,0,0,0,,It's wonderful to hear you say
-Dialogue: 0,0:08:12.06,0:08:14.42,Default,,0,0,0,,...that you will manage to get\Nthe crown back in three days.
-Dialogue: 0,0:08:14.90,0:08:18.05,Default,,0,0,0,,But, to actually do it,\Nhow long do you think it will take you?
-Dialogue: 0,0:08:20.66,0:08:23.22,Default,,0,0,0,,I can't wait for\Nthe fourth day to come!
-Dialogue: 0,0:08:30.42,0:08:34.38,Default,,0,0,0,,You were good! But will you manage\Nto get it back in only three days?
-Dialogue: 0,0:08:34.42,0:08:37.41,Default,,0,0,0,,Besides, the thief is a strange\Nfellow, who flies on a kite.
-Dialogue: 0,0:08:37.46,0:08:41.25,Default,,0,0,0,,- It's impossible to catch him!\N- Then I will fly too.
-Dialogue: 0,0:08:41.30,0:08:43.66,Default,,0,0,0,,What?! You intend to fly?!
-Dialogue: 0,0:08:44.02,0:08:45.82,Default,,0,0,0,,Yes! Look!
-Dialogue: 0,0:08:45.86,0:08:48.22,Default,,0,0,0,,This is a poster\Nfor the circus that has arrived in town.
-Dialogue: 0,0:08:48.26,0:08:52.30,Default,,0,0,0,,Yes! I'll go there and have them\Nteach me some acrobatics.
-Dialogue: 0,0:08:52.38,0:08:55.42,Default,,0,0,0,,Stop joking, please!\NYou are a Princess!
-Dialogue: 0,0:08:55.46,0:08:58.69,Default,,0,0,0,,- Something like acrobatics...!\N- Well then, Doctor Uranaru,
-Dialogue: 0,0:08:58.74,0:09:01.30,Default,,0,0,0,,can you teach me\Nanother way to fly?
-Dialogue: 0,0:09:03.74,0:09:05.81,Default,,0,0,0,,Actually, I'll think about it.
-Dialogue: 0,0:09:06.10,0:09:08.41,Default,,0,0,0,,No, no, no... There's no time.
-Dialogue: 0,0:09:08.90,0:09:11.21,Default,,0,0,0,,I promised to do it in three days.
-Dialogue: 0,0:09:11.86,0:09:14.53,Default,,0,0,0,,I know, but there's nothing\Nthat can be done now.
-Dialogue: 0,0:09:14.58,0:09:17.25,Default,,0,0,0,,Listen!\NThey say that this boy, Trot,
-Dialogue: 0,0:09:17.30,0:09:19.26,Default,,0,0,0,,...is able to fly\Non a kite.
-Dialogue: 0,0:09:19.30,0:09:21.61,Default,,0,0,0,,Doctor Uranaru,\Nplease investigate,
-Dialogue: 0,0:09:21.66,0:09:24.81,Default,,0,0,0,,into what Trot was doing\Nwhen the crown was stolen.
-Dialogue: 0,0:09:25.30,0:09:27.66,Default,,0,0,0,,I'll have to play detective too...
-Dialogue: 0,0:09:27.70,0:09:30.90,Default,,0,0,0,,Gilbert's true identity\Ncould be that of Trot.
-Dialogue: 0,0:09:30.94,0:09:32.74,Default,,0,0,0,,Ah, I see!
-Dialogue: 0,0:09:32.90,0:09:36.42,Default,,0,0,0,,And one more thing: we must\Nsucceed in luring Gilbert.
-Dialogue: 0,0:09:36.46,0:09:38.42,Default,,0,0,0,,- Lure him?!\N- Yes.
-Dialogue: 0,0:09:39.86,0:09:42.53,Default,,0,0,0,,Oh, yes, yes! Yes, yes, I understand!
-Dialogue: 0,0:09:42.58,0:09:45.02,Default,,0,0,0,,And now, Uranaru,\Nhave the people warned immediately!
-Dialogue: 0,0:09:45.06,0:09:47.81,Default,,0,0,0,,This way, Gilbert will arrive!\NYou are truly clever!
-Dialogue: 0,0:09:57.02,0:10:00.93,Default,,0,0,0,,What?! They say that the night after tomorrow\Nthere will be another military parade.
-Dialogue: 0,0:10:00.98,0:10:03.26,Default,,0,0,0,,Really?! Did they\Nhave to hold it at night?
-Dialogue: 0,0:10:03.30,0:10:06.93,Default,,0,0,0,,It is said that the crown that was\Nstolen during yesterday's parade...
-Dialogue: 0,0:10:06.98,0:10:10.74,Default,,0,0,0,,...is a fake crown, created\Nto deceive the thief Gilbert.
-Dialogue: 0,0:10:10.78,0:10:12.82,Default,,0,0,0,,I told you so!\NIt wasn't possible...
-Dialogue: 0,0:10:12.86,0:10:15.74,Default,,0,0,0,,...that the King would let\Na crown be stolen so easily.
-Dialogue: 0,0:10:22.70,0:10:24.69,Default,,0,0,0,,A fake crown...
-Dialogue: 0,0:10:25.50,0:10:27.33,Default,,0,0,0,,Trot!
-Dialogue: 0,0:10:27.50,0:10:30.73,Default,,0,0,0,,- Are you ready? It's your turn next! Hurry up!\N- Yes, alright!
-Dialogue: 0,0:10:41.62,0:10:43.90,Default,,0,0,0,,- Princess Sapphire!\N- Uranaru, well?
-Dialogue: 0,0:10:43.94,0:10:46.54,Default,,0,0,0,,It seems that Trot was performing\Nhis acrobatics...
-Dialogue: 0,0:10:46.58,0:10:49.18,Default,,0,0,0,,...while they were stealing the crown!\NThere are many witnesses.
-Dialogue: 0,0:10:49.22,0:10:51.66,Default,,0,0,0,,I see.\NThen he is not Gilbert.
-Dialogue: 0,0:10:51.70,0:10:54.74,Default,,0,0,0,,I have informed the population\Nabout the military parade.
-Dialogue: 0,0:10:55.22,0:10:58.02,Default,,0,0,0,,Alright, thank you!\NThen I'll go to the circus right away.
-Dialogue: 0,0:10:58.06,0:11:00.66,Default,,0,0,0,,...and have them teach me\Nhow to fly on a kite!
-Dialogue: 0,0:11:03.18,0:11:06.62,Default,,0,0,0,,Hey, Princess Sapphire!\NWhere are you going?
-Dialogue: 0,0:11:07.22,0:11:09.74,Default,,0,0,0,,We only have two days left!
-Dialogue: 0,0:11:22.02,0:11:24.66,Default,,0,0,0,,- Bravo!\N- Good!
-Dialogue: 0,0:11:37.38,0:11:41.01,Default,,0,0,0,,And now, for you, a master\Nof kite flying!
-Dialogue: 0,0:11:41.10,0:11:46.02,Default,,0,0,0,,Trot will show you, to start with,\N"Big wave and small wave"!
-Dialogue: 0,0:11:51.50,0:11:55.57,Default,,0,0,0,,The next act\Nwill be "Revolution"!
-Dialogue: 0,0:12:12.10,0:12:14.25,Default,,0,0,0,,And now pay attention!
-Dialogue: 0,0:12:14.30,0:12:17.90,Default,,0,0,0,,Trot will draw for you\Na beautiful picture in the sky!
-Dialogue: 0,0:12:32.90,0:12:35.78,Default,,0,0,0,,Bravo! Bravo!
-Dialogue: 0,0:12:35.82,0:12:39.05,Default,,0,0,0,,- You're the best!\N- Bravo!
-Dialogue: 0,0:12:40.06,0:12:42.89,Default,,0,0,0,,Bravo! He doesn't even seem\Nlike a human being!
-Dialogue: 0,0:12:45.74,0:12:48.94,Default,,0,0,0,,Are you the one who would like\Nto learn how to fly on a kite?
-Dialogue: 0,0:12:48.98,0:12:51.42,Default,,0,0,0,,Yes! Please, make me\Nyour pupil!
-Dialogue: 0,0:12:51.70,0:12:54.09,Default,,0,0,0,,He showed no sign of surprise\Nat seeing me...
-Dialogue: 0,0:12:54.14,0:12:56.10,Default,,0,0,0,,As I thought,\Nit isn't Gilbert.
-Dialogue: 0,0:12:56.14,0:12:59.02,Default,,0,0,0,,You say that, but it's very different\Nfrom riding a horse.
-Dialogue: 0,0:12:59.06,0:13:03.50,Default,,0,0,0,,Only those who are very brave, quick\Nand skilled can learn to fly.
-Dialogue: 0,0:13:04.10,0:13:06.82,Default,,0,0,0,,Fine! Then it seems made\Njust for me,
-Dialogue: 0,0:13:06.86,0:13:09.30,Default,,0,0,0,,because I am brave,\Nquick and skilled...
-Dialogue: 0,0:13:09.34,0:13:12.14,Default,,0,0,0,,...and I'm also strong,\NI'm telling you! So, I can!
-Dialogue: 0,0:13:12.22,0:13:16.61,Default,,0,0,0,,These hands are white and delicate\Nlike those of a girl!
-Dialogue: 0,0:13:16.82,0:13:19.54,Default,,0,0,0,,To fly a kite\Nyou need strong hands!
-Dialogue: 0,0:13:19.58,0:13:23.18,Default,,0,0,0,,You're saying something rude!\NThey are thin, but they are strong
-Dialogue: 0,0:13:23.54,0:13:26.77,Default,,0,0,0,,Alright then, I'll give you\Na test. Come with me.
-Dialogue: 0,0:13:32.94,0:13:35.25,Default,,0,0,0,,First of all, try up here.
-Dialogue: 0,0:13:35.94,0:13:39.38,Default,,0,0,0,,Oh, but it's Prince Sapphire!\NI wonder why he's here...!
-Dialogue: 0,0:13:39.50,0:13:42.70,Default,,0,0,0,,What could he possibly have come here for?\NAnd what is he doing with Trot?!
-Dialogue: 0,0:13:55.02,0:13:57.74,Default,,0,0,0,,- Do you think you're capable?\N- I'll try.
-Dialogue: 0,0:14:13.66,0:14:16.33,Default,,0,0,0,,- How did it go?\N- Well, pretty well.
-Dialogue: 0,0:14:16.38,0:14:18.34,Default,,0,0,0,,The next one is that! Look!
-Dialogue: 0,0:14:37.62,0:14:40.29,Default,,0,0,0,,- Now you try it.\N- Do I really have to?
-Dialogue: 0,0:14:40.46,0:14:42.37,Default,,0,0,0,,Of course!
-Dialogue: 0,0:14:50.38,0:14:52.61,Default,,0,0,0,,Not like that! You have to let yourself go!
-Dialogue: 0,0:14:52.66,0:14:54.78,Default,,0,0,0,,- Trot, the boss is calling you!\N- Yes, I'm going!
-Dialogue: 0,0:14:54.82,0:14:57.62,Default,,0,0,0,,I'll be right back. In the\Nmeantime, you practice.
-Dialogue: 0,0:15:01.02,0:15:03.22,Default,,0,0,0,,I'll rest while he's away.
-Dialogue: 0,0:15:05.34,0:15:09.10,Default,,0,0,0,,Who is it? Scoundrel, show yourself!
-Dialogue: 0,0:15:12.78,0:15:14.61,Default,,0,0,0,,Show yourself!
-Dialogue: 0,0:15:20.14,0:15:23.58,Default,,0,0,0,,Here I am! I'm sorry\Nfor making you wait.
-Dialogue: 0,0:15:23.62,0:15:26.09,Default,,0,0,0,,But what are you doing?\NAren't you practicing?
-Dialogue: 0,0:15:26.14,0:15:29.66,Default,,0,0,0,,I didn't have time to do\Nit. They tried to kill me.
-Dialogue: 0,0:15:29.70,0:15:32.74,Default,,0,0,0,,Suddenly, someone\Nthrew knives at me.
-Dialogue: 0,0:15:34.02,0:15:36.58,Default,,0,0,0,,- Why are you laughing?\N- If you can't overcome
-Dialogue: 0,0:15:36.62,0:15:39.37,Default,,0,0,0,,...a thing like that, you'll\Nnever be able to fly on a kite!
-Dialogue: 0,0:15:40.86,0:15:43.90,Default,,0,0,0,,So the knives\Ndidn't hit their mark, huh?
-Dialogue: 0,0:15:43.94,0:15:46.61,Default,,0,0,0,,Ah, here they are!\NI missed the shot.
-Dialogue: 0,0:15:46.66,0:15:49.65,Default,,0,0,0,,Yes! And that thing,\Nyou have to change it for a bigger one!
-Dialogue: 0,0:15:51.66,0:15:55.57,Default,,0,0,0,,If something like that falls\Non your head, you die immediately.
-Dialogue: 0,0:15:59.02,0:16:03.09,Default,,0,0,0,,But why do you want to learn\Nto fly on a kite?
-Dialogue: 0,0:16:03.14,0:16:06.29,Default,,0,0,0,,I have a reason and I have to learn\Nby tomorrow night.
-Dialogue: 0,0:16:07.58,0:16:10.02,Default,,0,0,0,,Alright, I'll be able to teach you
-Dialogue: 0,0:16:10.06,0:16:12.53,Default,,0,0,0,,What is important\Nin kite flying...
-Dialogue: 0,0:16:12.58,0:16:15.89,Default,,0,0,0,,...is arm strength\Nand a sense of balance.
-Dialogue: 0,0:16:19.82,0:16:22.02,Default,,0,0,0,,Your left hand\Nis too weak.
-Dialogue: 0,0:16:22.06,0:16:24.81,Default,,0,0,0,,Stand up, now,\Nand try again! Come on, get up
-Dialogue: 0,0:16:27.02,0:16:28.74,Default,,0,0,0,,Stand up!
-Dialogue: 0,0:16:31.94,0:16:35.33,Default,,0,0,0,,If you don't want to fall, keep the\Nsame strength in both hands!
-Dialogue: 0,0:16:41.42,0:16:44.22,Default,,0,0,0,,Hold on, otherwise\Nyou won't make it by tomorrow!
-Dialogue: 0,0:16:54.94,0:16:57.38,Default,,0,0,0,,I finally learned\Nhow to fly on a kite!
-Dialogue: 0,0:16:58.74,0:17:01.30,Default,,0,0,0,,Tonight will be\Nthe big moment!
-Dialogue: 0,0:17:05.02,0:17:07.82,Default,,0,0,0,,He's so good!\NHe learned in just one day!
-Dialogue: 0,0:17:09.42,0:17:12.62,Default,,0,0,0,,- Trot, do you know who that is?\N- No. Who is it?
-Dialogue: 0,0:17:12.74,0:17:15.41,Default,,0,0,0,,It's Sapphire,\Nthe Prince of this country!
-Dialogue: 0,0:17:15.54,0:17:18.29,Default,,0,0,0,,What are you saying?!\NAre you sure, brother?
-Dialogue: 0,0:17:18.34,0:17:20.33,Default,,0,0,0,,Yes, absolutely sure.
-Dialogue: 0,0:17:22.90,0:17:25.73,Default,,0,0,0,,When I went to steal\Nthe crown, I saw him.
-Dialogue: 0,0:17:25.78,0:17:29.25,Default,,0,0,0,,No one, so far, has ever\Nknown that you and I are Gilbert.
-Dialogue: 0,0:17:29.30,0:17:31.29,Default,,0,0,0,,He, however, might find out.
-Dialogue: 0,0:17:31.34,0:17:35.13,Default,,0,0,0,,He used a fake crown and now he's\Norganizing another military parade.
-Dialogue: 0,0:17:35.18,0:17:37.01,Default,,0,0,0,,What could he have in mind?
-Dialogue: 0,0:17:37.06,0:17:40.58,Default,,0,0,0,,His goal might be\Nto lure us into a trap.
-Dialogue: 0,0:17:41.58,0:17:44.81,Default,,0,0,0,,But I will succeed in stealing\Nthe true crown of Silverland!
-Dialogue: 0,0:17:45.82,0:17:48.46,Default,,0,0,0,,And now the kite-flying\Nmaster...
-Dialogue: 0,0:17:49.26,0:17:51.41,Default,,0,0,0,,...will fight\Nagainst his pupil!
-Dialogue: 0,0:17:53.02,0:17:55.41,Default,,0,0,0,,Return to the castle\Nand wait for the phantom thief.
-Dialogue: 0,0:17:55.78,0:17:58.85,Default,,0,0,0,,Trot! Trot!
-Dialogue: 0,0:18:03.70,0:18:05.58,Default,,0,0,0,,That’s Gilbert!
-Dialogue: 0,0:18:06.66,0:18:10.10,Default,,0,0,0,,- Really?\N- No, it’s Sapphire!
-Dialogue: 0,0:18:13.62,0:18:15.61,Default,,0,0,0,,Princess!
-Dialogue: 0,0:18:21.10,0:18:23.49,Default,,0,0,0,,- Oh, my God!\N- Sapphire!
-Dialogue: 0,0:18:29.54,0:18:32.10,Default,,0,0,0,,She’s safe! She’s safe!
-Dialogue: 0,0:18:32.14,0:18:35.21,Default,,0,0,0,,- Are you alright, Sapphire?\N- Yes, everything is fine, Tink.
-Dialogue: 0,0:18:35.34,0:18:39.30,Default,,0,0,0,,Princess, the time you\Nyourself set will soon arrive!
-Dialogue: 0,0:18:39.34,0:18:41.14,Default,,0,0,0,,Yes, Uranaru, I know.
-Dialogue: 0,0:18:41.18,0:18:43.57,Default,,0,0,0,,Sapphire, you have something\Nstuck to your back.
-Dialogue: 0,0:18:44.58,0:18:46.78,Default,,0,0,0,,- It’s a letter!\N- Read it!
-Dialogue: 0,0:18:46.82,0:18:49.02,Default,,0,0,0,,"You dared to make me steal\Nthe false crown,
-Dialogue: 0,0:18:49.06,0:18:51.02,Default,,0,0,0,,but tonight I will steal the true one.
-Dialogue: 0,0:18:51.06,0:18:53.21,Default,,0,0,0,,Signed:\Nthe phantom thief Gilbert."
-Dialogue: 0,0:18:53.26,0:18:55.46,Default,,0,0,0,,It’s from Gilbert! Damn him!
-Dialogue: 0,0:18:55.50,0:18:59.10,Default,,0,0,0,,I’ve caught you in a trap and we’ll see\Nwho manages to win this time!
-Dialogue: 0,0:19:08.10,0:19:10.62,Default,,0,0,0,,Tonight there will be\Nthe military parade.
-Dialogue: 0,0:19:10.66,0:19:13.65,Default,,0,0,0,,How can Gilbert be avoided\Nif he comes down from the sky?
-Dialogue: 0,0:19:15.42,0:19:18.62,Default,,0,0,0,,Let’s see...\NOh yes, I’ve got it!
-Dialogue: 0,0:19:18.66,0:19:22.57,Default,,0,0,0,,It's very easy to fly!\NWe will be able to fly...
-Dialogue: 0,0:19:22.78,0:19:25.93,Default,,0,0,0,,...if we fill that bag\Nwith gas! - Yes!
-Dialogue: 0,0:19:32.94,0:19:35.38,Default,,0,0,0,,Will you be able to get the crown back?
-Dialogue: 0,0:19:56.22,0:19:58.21,Default,,0,0,0,,The moment has arrived.
-Dialogue: 0,0:20:02.70,0:20:05.22,Default,,0,0,0,,Hey! Something strange\Nis descending from the sky!
-Dialogue: 0,0:20:05.26,0:20:07.65,Default,,0,0,0,,I don't know what it is, but I'm\Ntelling you to be on your guard!
-Dialogue: 0,0:20:14.02,0:20:16.41,Default,,0,0,0,,Help! Help!
-Dialogue: 0,0:20:18.66,0:20:21.81,Default,,0,0,0,,There it is! There it\Nis! It's coming! Hit it!
-Dialogue: 0,0:20:26.62,0:20:28.58,Default,,0,0,0,,The crown is mine!
-Dialogue: 0,0:20:29.74,0:20:31.89,Default,,0,0,0,,Damn you, Gilbert!
-Dialogue: 0,0:20:35.86,0:20:37.61,Default,,0,0,0,,Damn it!
-Dialogue: 0,0:20:38.22,0:20:40.34,Default,,0,0,0,,This is luminous paint!
-Dialogue: 0,0:20:40.78,0:20:42.82,Default,,0,0,0,,Gilbert, on guard!
-Dialogue: 0,0:20:53.74,0:20:56.62,Default,,0,0,0,,If you lose your balance,\Nyou will fall, Sapphire!
-Dialogue: 0,0:20:56.66,0:20:59.73,Default,,0,0,0,,Tell me, how do you know\Nmy name?
-Dialogue: 0,0:21:03.50,0:21:06.81,Default,,0,0,0,,- Damn it!\N- That crown is fake!
-Dialogue: 0,0:21:06.86,0:21:10.54,Default,,0,0,0,,- What?!\N- I used it to catch you!
-Dialogue: 0,0:21:13.42,0:21:15.41,Default,,0,0,0,,"Revolution"!
-Dialogue: 0,0:21:20.22,0:21:22.13,Default,,0,0,0,,"Revolution"!
-Dialogue: 0,0:21:26.22,0:21:28.10,Default,,0,0,0,,Here I am!
-Dialogue: 0,0:21:40.14,0:21:42.45,Default,,0,0,0,,But how?! You are Trot!
-Dialogue: 0,0:21:43.30,0:21:46.34,Default,,0,0,0,,Sapphire, you are admirable.\NYou have beaten me!
-Dialogue: 0,0:21:46.38,0:21:48.21,Default,,0,0,0,,Do with me what you will!
-Dialogue: 0,0:21:48.26,0:21:50.57,Default,,0,0,0,,Why on earth did you do\Nsuch a thing?
-Dialogue: 0,0:21:51.74,0:21:54.49,Default,,0,0,0,,Sapphire, I will reveal\NGilbert's identity to you!
-Dialogue: 0,0:21:54.54,0:21:56.93,Default,,0,0,0,,There is another Trot?!\NBut it's not possible!
-Dialogue: 0,0:21:56.98,0:21:59.34,Default,,0,0,0,,Stop it, brother!\NWe have been defeated!
-Dialogue: 0,0:21:59.38,0:22:01.02,Default,,0,0,0,,Brother?!
-Dialogue: 0,0:22:01.42,0:22:03.81,Default,,0,0,0,,Now you know: we are twins!
-Dialogue: 0,0:22:03.86,0:22:07.06,Default,,0,0,0,,One plays the part of Gilbert\Nand the other provides the alibis.
-Dialogue: 0,0:22:11.78,0:22:14.17,Default,,0,0,0,,Look,\Nthis is my great invention:
-Dialogue: 0,0:22:14.22,0:22:16.45,Default,,0,0,0,,a flying basket\Nfilled with gas!
-Dialogue: 0,0:22:16.50,0:22:18.89,Default,,0,0,0,,I want to catch\Nthe phantom thief Gilbert!
-Dialogue: 0,0:22:18.94,0:22:20.82,Default,,0,0,0,,Yes! Yes! We've caught him!
-Dialogue: 0,0:22:21.10,0:22:23.01,Default,,0,0,0,,Curse it!
-Dialogue: 0,0:22:23.06,0:22:26.21,Default,,0,0,0,,Brother, we'd better surrender!\NThey are superior to us!
-Dialogue: 0,0:22:29.62,0:22:34.25,Default,,0,0,0,,Sapphire caught Gilbert!\NAdmirable! Admirable!
-Dialogue: 0,0:22:43.74,0:22:46.05,Default,,0,0,0,,Here, father, this is the real one.
-Dialogue: 0,0:22:46.10,0:22:47.42,Default,,0,0,0,,Thank you.
-Dialogue: 0,0:22:47.82,0:22:51.18,Default,,0,0,0,,I am the guilty one,\Nso forgive my brother.
-Dialogue: 0,0:22:51.50,0:22:54.14,Default,,0,0,0,,It’s not true!\NI am the only one to blame!
-Dialogue: 0,0:22:54.18,0:22:56.17,Default,,0,0,0,,It's him you must forgive!
-Dialogue: 0,0:22:56.22,0:22:58.82,Default,,0,0,0,,I won't forgive either of them!
-Dialogue: 0,0:23:00.90,0:23:03.73,Default,,0,0,0,,Tell me one thing:\Nwhy do you only steal crowns?
-Dialogue: 0,0:23:03.78,0:23:05.82,Default,,0,0,0,,Is there perhaps a specific reason?
-Dialogue: 0,0:23:06.94,0:23:10.90,Default,,0,0,0,,In the past, my father was\Nin the service of a King, as a soldier.
-Dialogue: 0,0:23:12.14,0:23:14.21,Default,,0,0,0,,One day, by pure chance
-Dialogue: 0,0:23:15.42,0:23:17.30,Default,,0,0,0,,he dropped the King's crown.
-Dialogue: 0,0:23:19.02,0:23:22.86,Default,,0,0,0,,He was imprisoned\Nand then executed as punishment.
-Dialogue: 0,0:23:28.10,0:23:30.77,Default,,0,0,0,,I don't know how precious\Nthat crown was,
-Dialogue: 0,0:23:30.82,0:23:33.26,Default,,0,0,0,,but a man's life\Nis certainly more precious.
-Dialogue: 0,0:23:34.18,0:23:37.49,Default,,0,0,0,,For us, our father was\Nthe most precious thing in the world.
-Dialogue: 0,0:23:37.54,0:23:39.10,Default,,0,0,0,,I understand
-Dialogue: 0,0:23:43.86,0:23:46.01,Default,,0,0,0,,Your Majesty, they have come\Nto take Gilbert!
-Dialogue: 0,0:23:46.06,0:23:49.45,Default,,0,0,0,,I was the one who captured him,\Nso I will punish him!
-Dialogue: 0,0:23:52.82,0:23:56.13,Default,,0,0,0,,He ran away!\NGilbert ran away!
-Dialogue: 0,0:23:56.18,0:23:58.01,Default,,0,0,0,,Sapphire!
-Dialogue: 0,0:23:58.06,0:24:00.62,Default,,0,0,0,,Gilbert escaped! Catch him!
-Dialogue: 0,0:24:08.94,0:24:11.17,Default,,0,0,0,,No matter how precious a crown is,
-Dialogue: 0,0:24:11.22,0:24:13.66,Default,,0,0,0,,it is nothing\Ncompared to the life of a man.
-Dialogue: 0,0:24:14.18,0:24:17.46,Default,,0,0,0,,I can understand Gilbert's feelings\Nperfectly well.
-Dialogue: 0,0:24:17.94,0:24:21.57,Default,,0,0,0,,And I can understand yours, Sapphire.\NBelieve me.
+Dialogue: 0,0:01:44.10,0:01:50.14,Default,,0,0,0,,Thirtieth Episode\NThe Phantom Kite\NFlying Phantom Thief
+Dialogue: 0,0:02:17.33,0:02:19.23,Default,,0,0,0,,How delightful.
+Dialogue: 0,0:02:25.03,0:02:26.46,Default,,0,0,0,,My crown is gone!
+Dialogue: 0,0:02:26.63,0:02:27.30,Default,,0,0,0,,S-Search for it!
+Dialogue: 0,0:02:27.38,0:02:28.27,Default,,0,0,0,,Find it!
+Dialogue: 0,0:02:28.39,0:02:28.81,Default,,0,0,0,,Hurry!
+Dialogue: 0,0:02:39.36,0:02:41.07,Default,,0,0,0,,The Phantom Thief Jiruba?
+Dialogue: 0,0:02:41.68,0:02:42.27,Default,,0,0,0,,Yes.
+Dialogue: 0,0:02:42.89,0:02:45.88,Default,,0,0,0,,He's a strange thief who targets nothing but crowns.
+Dialogue: 0,0:02:46.60,0:02:48.80,Default,,0,0,0,,Not only has he never been caught,
+Dialogue: 0,0:02:49.00,0:02:51.34,Default,,0,0,0,,no one has ever seen his face.
+Dialogue: 0,0:02:52.59,0:02:55.23,Default,,0,0,0,,All we know is...
+Dialogue: 0,0:02:56.73,0:02:58.73,Default,,0,0,0,, Wait!
+Dialogue: 0,0:03:49.86,0:03:53.28,Default,,0,0,0,,He's remarkably agile and terrifyingly strong.
+Dialogue: 0,0:03:55.29,0:03:57.79,Default,,0,0,0,,Jiruba is so cool! I really admire him!
+Dialogue: 0,0:03:57.82,0:03:59.15,Default,,0,0,0,,Now see here, Sapphire...
+Dialogue: 0,0:03:59.62,0:04:00.43,Default,,0,0,0,,Okay.
+Dialogue: 0,0:04:00.79,0:04:04.79,Default,,0,0,0,,Word is that wretched Jiruba showed up in the neighboring kingdom a month ago and stole their crown—
+Dialogue: 0,0:04:05.57,0:04:07.20,Default,,0,0,0,,So that's how their crown got stolen?
+Dialogue: 0,0:04:07.22,0:04:08.25,Default,,0,0,0,,Of course it was!
+Dialogue: 0,0:04:08.28,0:04:11.49,Default,,0,0,0,,Who on earth is this Jiruba? He's a tricky thief, and no one knows where he comes from.
+Dialogue: 0,0:04:11.51,0:04:15.24,Default,,0,0,0,,Word is he won't stop stealing until he's collected a thousand crowns.
+Dialogue: 0,0:04:15.50,0:04:17.47,Default,,0,0,0,,Jiruba's a strange one, isn't she?
+Dialogue: 0,0:04:18.45,0:04:20.42,Default,,0,0,0,,And Father... Father's in danger, too.
+Dialogue: 0,0:04:20.59,0:04:22.49,Default,,0,0,0,,Hey, don't scare me like that.
+Dialogue: 0,0:04:22.68,0:04:25.26,Default,,0,0,0,,Whatever. If they take it, just wear another one.
+Dialogue: 0,0:04:25.55,0:04:26.60,Default,,0,0,0,,That's not going to happen.
+Dialogue: 0,0:04:26.84,0:04:30.72,Default,,0,0,0,,After all, it's a treasure of Silverland, crafted by a master crown-maker.
+Dialogue: 0,0:04:32.54,0:04:35.71,Default,,0,0,0,,It doesn't look any different from the other crowns.
+Dialogue: 0,0:04:35.73,0:04:38.50,Default,,0,0,0,,Still, you can never be too careful.
+Dialogue: 0,0:04:39.50,0:04:43.46,Default,,0,0,0,,So if that crown is taken, we'll lose face completely before the citizens.
+Dialogue: 0,0:04:44.46,0:04:47.00,Default,,0,0,0,,I know, I know. I'll be very careful.
+Dialogue: 0,0:05:17.54,0:05:18.85,Default,,0,0,0,,Wow, amazing!
+Dialogue: 0,0:05:18.96,0:05:20.39,Default,,0,0,0,,So cool!
+Dialogue: 0,0:05:41.60,0:05:43.30,Default,,0,0,0,,So this is the Phantom Thief Jiruba.
+Dialogue: 0,0:05:54.84,0:05:56.87,Default,,0,0,0,,Someone, shoot down that chump!
+Dialogue: 0,0:06:15.94,0:06:17.41,Default,,0,0,0,,Take Sapphire's arrow!
+Dialogue: 0,0:06:39.39,0:06:40.08,Default,,0,0,0,,Hey!
+Dialogue: 0,0:06:40.13,0:06:40.41,Default,,0,0,0,,Thief!
+Dialogue: 0,0:06:40.43,0:06:42.02,Default,,0,0,0,,Give back the crown!
+Dialogue: 0,0:06:45.16,0:06:45.89,Default,,0,0,0,,Tink!
+Dialogue: 0,0:06:46.08,0:06:46.73,Default,,0,0,0,,Watch out!
+Dialogue: 0,0:06:53.35,0:06:55.61,Default,,0,0,0,,H-H-Help me!
+Dialogue: 0,0:06:55.88,0:06:56.88,Default,,0,0,0,,Th-Thanks!
+Dialogue: 0,0:07:08.89,0:07:12.30,Default,,0,0,0,,Surely you heard the rumors from Nylon that Jiruba was coming.
+Dialogue: 0,0:07:12.47,0:07:15.78,Default,,0,0,0,,Yet you let the crown be stolen so easily! How pathetic.
+Dialogue: 0,0:07:16.03,0:07:19.04,Default,,0,0,0,,Did you forget that crown is our kingdom's treasure?
+Dialogue: 0,0:07:19.97,0:07:23.41,Default,,0,0,0,,Well, I never expected him to come from the sky!
+Dialogue: 0,0:07:24.90,0:07:28.70,Default,,0,0,0,,I'll just have to wear a substitute crown for now.
+Dialogue: 0,0:07:29.44,0:07:34.50,Default,,0,0,0,,Look, even if it's only temporary, the stolen original won't be coming back.
+Dialogue: 0,0:07:34.67,0:07:38.01,Default,,0,0,0,,After all, our opponent is Jiruba, and we don't even know where he is.
+Dialogue: 0,0:07:38.20,0:07:39.72,Default,,0,0,0,,Alright, I just have to get it back, right?
+Dialogue: 0,0:07:39.89,0:07:40.89,Default,,0,0,0,,I'll definitely get it back.
+Dialogue: 0,0:07:41.24,0:07:41.97,Default,,0,0,0,,Sapphire...
+Dialogue: 0,0:07:42.07,0:07:43.32,Default,,0,0,0,,It's all right, Mother.
+Dialogue: 0,0:07:43.74,0:07:47.21,Default,,0,0,0,,Otherwise, these two will keep speaking ill of Father.
+Dialogue: 0,0:07:49.06,0:07:50.51,Default,,0,0,0,,Impressive, Princess Sapphire.
+Dialogue: 0,0:07:50.60,0:07:51.56,Default,,0,0,0,,Still...
+Dialogue: 0,0:07:53.27,0:07:56.24,Default,,0,0,0,,how long will it take to reclaim the crown?
+Dialogue: 0,0:07:56.26,0:07:59.33,Default,,0,0,0,,We can't wait two, three, or five years...
+Dialogue: 0,0:08:01.16,0:08:02.16,Default,,0,0,0,,Give me three days!
+Dialogue: 0,0:08:02.25,0:08:03.25,Default,,0,0,0,,Oh, three days?
+Dialogue: 0,0:08:03.64,0:08:05.40,Default,,0,0,0,,I will definitely retrieve it within three days.
+Dialogue: 0,0:08:05.54,0:08:06.25,Default,,0,0,0,,Very well then.
+Dialogue: 0,0:08:06.30,0:08:08.29,Default,,0,0,0,,Indeed, that sounds wonderful, Lord Sapphire.
+Dialogue: 0,0:08:08.39,0:08:09.50,Default,,0,0,0,,I am truly impressed.
+Dialogue: 0,0:08:09.67,0:08:13.70,Default,,0,0,0,,To retrieve the crown from the Phantom Thief Jiruba in just three days... how impressive.
+Dialogue: 0,0:08:14.29,0:08:17.74,Default,,0,0,0,,Well, assuming you actually manage to get it back, that is.
+Dialogue: 0,0:08:20.04,0:08:21.53,Default,,0,0,0,,This should be entertaining.
+Dialogue: 0,0:08:21.59,0:08:23.30,Default,,0,0,0,,I'll be eagerly waiting three days from now.
+Dialogue: 0,0:08:30.24,0:08:33.43,Default,,0,0,0,,What could anyone possibly do in a mere three days?
+Dialogue: 0,0:08:33.90,0:08:38.44,Default,,0,0,0,,Besides, there's nothing we can do against a phantom thief flying on a kite.
+Dialogue: 0,0:08:39.13,0:08:40.72,Default,,0,0,0,,That's why I'm going to fly, too.
+Dialogue: 0,0:08:40.99,0:08:41.99,Default,,0,0,0,,W-What?
+Dialogue: 0,0:08:42.07,0:08:43.16,Default,,0,0,0,,You're going to fly?
+Dialogue: 0,0:08:43.68,0:08:44.68,Default,,0,0,0,,Yeah, with this.
+Dialogue: 0,0:08:44.86,0:08:47.68,Default,,0,0,0,,Ah, a poster for the circus in town.
+Dialogue: 0,0:08:48.24,0:08:51.92,Default,,0,0,0,,Right. I'll go there and learn acrobatics from this boy, Trott.
+Dialogue: 0,0:08:52.24,0:08:53.80,Default,,0,0,0,,Y-You can't be serious!
+Dialogue: 0,0:08:53.93,0:08:56.73,Default,,0,0,0,,For a noble prince to do circus tricks...
+Dialogue: 0,0:08:57.55,0:09:00.62,Default,,0,0,0,,Well, Dr. Uranari, do you have another way to fly?
+Dialogue: 0,0:09:00.87,0:09:06.01,Default,,0,0,0,,Oh, well, about that... No, I'll study the grand ceremony now—
+Dialogue: 0,0:09:06.03,0:09:08.26,Default,,0,0,0,,No, no, there's no time!
+Dialogue: 0,0:09:09.42,0:09:10.70,Default,,0,0,0,,The promise was for three days.
+Dialogue: 0,0:09:11.78,0:09:14.20,Default,,0,0,0,,Alright. I guess I have no choice.
+Dialogue: 0,0:09:14.46,0:09:15.26,Default,,0,0,0,,Thank goodness.
+Dialogue: 0,0:09:16.42,0:09:19.00,Default,,0,0,0,,Word is this kid Trott is going to ride an kite, too.
+Dialogue: 0,0:09:19.91,0:09:24.83,Default,,0,0,0,,Dr. Uranari, find out what young Trott was doing when the crown was stolen.
+Dialogue: 0,0:09:26.11,0:09:27.26,Default,,0,0,0,,Quite the detective.
+Dialogue: 0,0:09:27.72,0:09:30.36,Default,,0,0,0,,Jiruba's true identity might be young Trott.
+Dialogue: 0,0:09:31.35,0:09:32.33,Default,,0,0,0,,I see.
+Dialogue: 0,0:09:32.82,0:09:36.08,Default,,0,0,0,,And one more thing: we have to lure out Phantom Thief Jiruba.
+Dialogue: 0,0:09:36.38,0:09:37.38,Default,,0,0,0,,Lure them out?
+Dialogue: 0,0:09:37.51,0:09:39.29,Default,,0,0,0,,Yeah, well, you see...
+Dialogue: 0,0:09:39.58,0:09:42.14,Default,,0,0,0,,Hmm, I see. That's good.
+Dialogue: 0,0:09:42.50,0:09:44.61,Default,,0,0,0,,Post that notice all over town, Doctor.
+Dialogue: 0,0:09:44.74,0:09:47.66,Default,,0,0,0,,Well, with this, even the Phantom Thief Jiruba is sure to take the bait. Huh?
+Dialogue: 0,0:09:57.20,0:09:58.20,Default,,0,0,0,,What's this?
+Dialogue: 0,0:09:58.44,0:10:00.96,Default,,0,0,0,,They're holding another military review in two nights?
+Dialogue: 0,0:10:01.34,0:10:01.34,Default,,0,0,0,,Huh?
+Dialogue: 0,0:10:01.68,0:10:03.04,Default,,0,0,0,,At night?
+Dialogue: 0,0:10:03.93,0:10:06.84,Default,,0,0,0,,Furthermore, the crown stolen during the recent military review was a fake
+Dialogue: 0,0:10:06.86,0:10:09.80,Default,,0,0,0,,made to fool the Phantom Thief Jiruba.
+Dialogue: 0,0:10:10.29,0:10:15.28,Default,,0,0,0,,See? There's no way the King would let a simple thief take the royal crown so easily.
+Dialogue: 0,0:10:23.02,0:10:24.02,Default,,0,0,0,,So it was a fake.
+Dialogue: 0,0:10:24.97,0:10:26.48,Default,,0,0,0,,Trott, are you ready?
+Dialogue: 0,0:10:27.80,0:10:29.62,Default,,0,0,0,,You're up next. Get ready.
+Dialogue: 0,0:10:29.73,0:10:30.73,Default,,0,0,0,,Okay, got it.
+Dialogue: 0,0:10:40.78,0:10:41.78,Default,,0,0,0,,Lord Sapphire.
+Dialogue: 0,0:10:42.04,0:10:43.22,Default,,0,0,0,,Doctor, how did it go?
+Dialogue: 0,0:10:43.71,0:10:47.14,Default,,0,0,0,,It seems Trott was performing for the audience
+Dialogue: 0,0:10:47.17,0:10:49.58,Default,,0,0,0,,when the crown was stolen. Several merchants saw him.
+Dialogue: 0,0:10:49.61,0:10:50.85,Default,,0,0,0,,I see.
+Dialogue: 0,0:10:51.10,0:10:52.05,Default,,0,0,0,,So it wasn't Jiruba after all.
+Dialogue: 0,0:10:52.52,0:10:54.78,Default,,0,0,0,,And notice about the crown has been posted all over town.
+Dialogue: 0,0:10:55.62,0:10:56.62,Default,,0,0,0,,Yeah, thanks.
+Dialogue: 0,0:10:56.96,0:11:00.45,Default,,0,0,0,,Then I'm off to the circus to learn kite riding, Doctor!
+Dialogue: 0,0:11:00.84,0:11:02.10,Default,,0,0,0,,Damn that Jiruba... did you see that just now?
+Dialogue: 0,0:11:03.28,0:11:06.00,Default,,0,0,0,,Oh, Lord Sapphire, where are you off to?
+Dialogue: 0,0:11:07.44,0:11:09.20,Default,,0,0,0,,Just a little over two days left, isn't it?
+Dialogue: 0,0:11:37.45,0:11:41.16,Default,,0,0,0,,Step right up! The master of kite riding, the famous Trott!
+Dialogue: 0,0:11:41.64,0:11:44.26,Default,,0,0,0,,To start off, "Big Wave, Small Wave"!
+Dialogue: 0,0:11:52.17,0:11:54.86,Default,,0,0,0,,Next up, "The Whirlwind Spin"!
+Dialogue: 0,0:12:12.05,0:12:17.24,Default,,0,0,0,,Next, he will paint a picture in the blue sky for you all!
+Dialogue: 0,0:12:40.50,0:12:42.63,Default,,0,0,0,,Incredible! He doesn't even seem human!
+Dialogue: 0,0:12:45.99,0:12:46.74,Default,,0,0,0,,Is it you?
+Dialogue: 0,0:12:46.85,0:12:48.80,Default,,0,0,0,,The one who wants to practice kite riding?
+Dialogue: 0,0:12:49.41,0:12:49.96,Default,,0,0,0,,Yes, please!
+Dialogue: 0,0:12:50.37,0:12:51.50,Default,,0,0,0,,Please make me your apprentice.
+Dialogue: 0,0:12:52.01,0:12:53.26,Default,,0,0,0,,He wasn't surprised to see me.
+Dialogue: 0,0:12:53.82,0:12:55.50,Default,,0,0,0,,So Trott really wasn't Jiruba after all.
+Dialogue: 0,0:12:55.72,0:12:58.76,Default,,0,0,0,,You say you want to be my apprentice, but it's nothing like riding a horse, kid.
+Dialogue: 0,0:12:59.61,0:13:03.31,Default,,0,0,0,,We need someone brave, agile, and quick-witted.
+Dialogue: 0,0:13:04.19,0:13:05.36,Default,,0,0,0,,I can do that!
+Dialogue: 0,0:13:05.78,0:13:08.94,Default,,0,0,0,,I'm brave, agile, and very quick-witted.
+Dialogue: 0,0:13:09.40,0:13:12.09,Default,,0,0,0,,If I say so, it must be true.
+Dialogue: 0,0:13:12.24,0:13:14.00,Default,,0,0,0,,Sure, I'll take you as an apprentice... but what's with these soft white hands?
+Dialogue: 0,0:13:14.16,0:13:16.28,Default,,0,0,0,,They're pale and slender, just like a girl's.
+Dialogue: 0,0:13:17.06,0:13:19.24,Default,,0,0,0,,Stunt riding takes strong arms.
+Dialogue: 0,0:13:20.26,0:13:21.26,Default,,0,0,0,,How rude!
+Dialogue: 0,0:13:21.62,0:13:22.92,Default,,0,0,0,,They may be thin, but I'm strong!
+Dialogue: 0,0:13:24.04,0:13:24.56,Default,,0,0,0,,Alright, then.
+Dialogue: 0,0:13:24.92,0:13:26.88,Default,,0,0,0,,Come over here and I'll test you.
+Dialogue: 0,0:13:33.42,0:13:34.90,Default,,0,0,0,,First, try riding this.
+Dialogue: 0,0:13:36.84,0:13:38.48,Default,,0,0,0,,Isn't that Prince Sapphire?
+Dialogue: 0,0:13:39.34,0:13:41.37,Default,,0,0,0,,What is he doing in a place like this?
+Dialogue: 0,0:13:42.21,0:13:42.91,Default,,0,0,0,,Don't tell me...
+Dialogue: 0,0:13:55.40,0:13:56.40,Default,,0,0,0,,Well, can you do it?
+Dialogue: 0,0:13:56.70,0:13:57.70,Default,,0,0,0,,I'll give it a try.
+Dialogue: 0,0:14:13.29,0:14:14.49,Default,,0,0,0,,How's that?
+Dialogue: 0,0:14:15.58,0:14:16.58,Default,,0,0,0,,Not bad.
+Dialogue: 0,0:14:17.20,0:14:18.11,Default,,0,0,0,,Next is that one over there.
+Dialogue: 0,0:14:38.00,0:14:39.00,Default,,0,0,0,,Go on, give it a try.
+Dialogue: 0,0:14:39.36,0:14:40.36,Default,,0,0,0,,Me?
+Dialogue: 0,0:14:40.62,0:14:41.30,Default,,0,0,0,,That's right.
+Dialogue: 0,0:14:50.60,0:14:51.40,Default,,0,0,0,,No good.
+Dialogue: 0,0:14:51.42,0:14:52.42,Default,,0,0,0,,Relax your body.
+Dialogue: 0,0:14:52.58,0:14:54.02,Default,,0,0,0,,The boss is calling for you.
+Dialogue: 0,0:14:54.18,0:14:54.67,Default,,0,0,0,,Coming!
+Dialogue: 0,0:14:55.16,0:14:57.18,Default,,0,0,0,,I'll be right back, so keep practicing until I return.
+Dialogue: 0,0:15:01.43,0:15:02.88,Default,,0,0,0,,Time for a quick break while he's gone.
+Dialogue: 0,0:15:06.23,0:15:08.64,Default,,0,0,0,,Who is it? Scoundrel, show yourself!
+Dialogue: 0,0:15:12.87,0:15:13.82,Default,,0,0,0,,Show yourself!
+Dialogue: 0,0:15:20.06,0:15:21.06,Default,,0,0,0,,Sorry to keep you waiting.
+Dialogue: 0,0:15:21.92,0:15:23.62,Default,,0,0,0,,That won't do. You need to practice.
+Dialogue: 0,0:15:24.38,0:15:25.74,Default,,0,0,0,,Have you gotten any better?
+Dialogue: 0,0:15:26.33,0:15:27.45,Default,,0,0,0,,Practice? I've got bigger problems!
+Dialogue: 0,0:15:27.90,0:15:29.49,Default,,0,0,0,,I was almost killed!
+Dialogue: 0,0:15:29.78,0:15:32.37,Default,,0,0,0,,Out of nowhere, someone threw knives at me!
+Dialogue: 0,0:15:34.33,0:15:35.24,Default,,0,0,0,,What's so funny?
+Dialogue: 0,0:15:35.58,0:15:39.09,Default,,0,0,0,,If you can't dodge a knife or two, how do you expect to ride a kite?
+Dialogue: 0,0:15:39.25,0:15:41.18,Default,,0,0,0,,Didn't some flying swords come at you?
+Dialogue: 0,0:15:42.15,0:15:43.68,Default,,0,0,0,,Yeah, that's them! That's the ones!
+Dialogue: 0,0:15:44.58,0:15:46.34,Default,,0,0,0,,My hand slipped.
+Dialogue: 0,0:15:47.25,0:15:49.59,Default,,0,0,0,,Why don't you switch to a bigger target?
+Dialogue: 0,0:15:52.11,0:15:53.70,Default,,0,0,0,,If something like this falls on me, I'll be squashed flat!
+Dialogue: 0,0:15:54.05,0:15:55.06,Default,,0,0,0,,There we go.
+Dialogue: 0,0:15:58.80,0:15:59.80,Default,,0,0,0,,Alright, that's enough.
+Dialogue: 0,0:16:00.53,0:16:02.83,Default,,0,0,0,,More importantly, why do you want to learn kite-riding?
+Dialogue: 0,0:16:03.72,0:16:06.90,Default,,0,0,0,,I have my reasons. I must master it by tomorrow night, no matter what.
+Dialogue: 0,0:16:08.26,0:16:08.64,Default,,0,0,0,,I see.
+Dialogue: 0,0:16:08.94,0:16:09.94,Default,,0,0,0,,Alright, got it.
+Dialogue: 0,0:16:10.50,0:16:12.02,Default,,0,0,0,,I'll make sure you learn.
+Dialogue: 0,0:16:12.38,0:16:16.12,Default,,0,0,0,,The key to kite-riding is arm strength and leg movement for balance.
+Dialogue: 0,0:16:20.12,0:16:21.62,Default,,0,0,0,,Your left arm is too weak.
+Dialogue: 0,0:16:22.60,0:16:23.39,Default,,0,0,0,,Come on, get up.
+Dialogue: 0,0:16:23.76,0:16:24.76,Default,,0,0,0,,Get up and try again.
+Dialogue: 0,0:16:26.14,0:16:28.93,Default,,0,0,0,,Remember, keep equal strength in both arms.
+Dialogue: 0,0:16:29.67,0:16:31.71,Default,,0,0,0,,If you lose that, you'll lose your balance and fall.
+Dialogue: 0,0:16:33.47,0:16:35.44,Default,,0,0,0,,At this rate, you won't be able to ride the kite by tomorrow.
+Dialogue: 0,0:16:42.14,0:16:42.80,Default,,0,0,0,,No, no.
+Dialogue: 0,0:16:42.91,0:16:43.91,Default,,0,0,0,,Keep trying!
+Dialogue: 0,0:16:44.05,0:16:44.50,Default,,0,0,0,,Come on!
+Dialogue: 0,0:16:55.21,0:16:56.99,Default,,0,0,0,,I've finally learned to ride the kite!
+Dialogue: 0,0:16:59.06,0:17:00.06,Default,,0,0,0,,Just you wait.
+Dialogue: 0,0:17:00.32,0:17:01.46,Default,,0,0,0,,Damn you, Phantom Thief Jiruba.
+Dialogue: 0,0:17:03.96,0:17:05.36,Default,,0,0,0,,What an incredible fellow.
+Dialogue: 0,0:17:05.78,0:17:07.44,Default,,0,0,0,,To master it in just a single day...
+Dialogue: 0,0:17:08.90,0:17:11.50,Default,,0,0,0,,Trott, who do you think that is?
+Dialogue: 0,0:17:11.78,0:17:12.50,Default,,0,0,0,,Who?
+Dialogue: 0,0:17:13.01,0:17:15.15,Default,,0,0,0,,That's Prince Sapphire of this kingdom.
+Dialogue: 0,0:17:15.97,0:17:17.02,Default,,0,0,0,,What did you say, Brother?
+Dialogue: 0,0:17:17.46,0:17:18.27,Default,,0,0,0,,Is that true?
+Dialogue: 0,0:17:18.46,0:17:19.46,Default,,0,0,0,,Yeah, it's true.
+Dialogue: 0,0:17:19.95,0:17:22.22,Default,,0,0,0,,He was there when I went to steal the crown the day before yesterday.
+Dialogue: 0,0:17:23.61,0:17:25.51,Default,,0,0,0,,No one from any kingdom suspected
+Dialogue: 0,0:17:25.54,0:17:27.92,Default,,0,0,0,,that the two of us were taking turns playing Jiruba.
+Dialogue: 0,0:17:29.32,0:17:31.04,Default,,0,0,0,,But we can't let our guard down around him.
+Dialogue: 0,0:17:31.55,0:17:33.09,Default,,0,0,0,,They're using a fake crown,
+Dialogue: 0,0:17:33.51,0:17:35.48,Default,,0,0,0,,and they've even announced the date for the coronation.
+Dialogue: 0,0:17:36.68,0:17:40.27,Default,,0,0,0,,Man, it's like he's just making fun of us.
+Dialogue: 0,0:17:40.99,0:17:44.84,Default,,0,0,0,,Alright! Tonight, I'm definitely stealing Silverland's crown.
+Dialogue: 0,0:17:45.76,0:17:46.29,Default,,0,0,0,,Very well.
+Dialogue: 0,0:17:46.55,0:17:48.02,Default,,0,0,0,,So it's master against pupil.
+Dialogue: 0,0:17:53.43,0:17:55.35,Default,,0,0,0,,Sapphire, go back to the castle and wait.
+Dialogue: 0,0:17:56.32,0:17:58.69,Default,,0,0,0,,Trott!
+Dialogue: 0,0:18:03.42,0:18:04.56,Default,,0,0,0,,Look, it's Jiruba!
+Dialogue: 0,0:18:08.84,0:18:10.62,Default,,0,0,0,,Ah, that's Sapphire!
+Dialogue: 0,0:18:29.30,0:18:31.78,Default,,0,0,0,,She's safe, she's safe!
+Dialogue: 0,0:18:31.98,0:18:33.51,Default,,0,0,0,,Sapphire, are you okay?
+Dialogue: 0,0:18:33.87,0:18:35.02,Default,,0,0,0,,Yeah, I'm fine.
+Dialogue: 0,0:18:35.67,0:18:39.12,Default,,0,0,0,,Your Highness, our promised time is running short.
+Dialogue: 0,0:18:39.50,0:18:40.50,Default,,0,0,0,,I know.
+Dialogue: 0,0:18:40.70,0:18:43.22,Default,,0,0,0,,Hey, Sapphire, there's something on your back.
+Dialogue: 0,0:18:44.52,0:18:45.52,Default,,0,0,0,,It's a note.
+Dialogue: 0,0:18:45.71,0:18:46.32,Default,,0,0,0,,Read it!
+Dialogue: 0,0:18:46.58,0:18:49.48,Default,,0,0,0,,{\i1}How dare you give me a fake crown.{\i0}
+Dialogue: 0,0:18:50.06,0:18:52.46,Default,,0,0,0,,{\i1}Tonight, I will definitely come for the real one.{\i0}
+Dialogue: 0,0:18:52.73,0:18:53.46,Default,,0,0,0,,{\i1}Phantom Thief Jiruba.{\i0}
+Dialogue: 0,0:18:53.65,0:18:54.65,Default,,0,0,0,,It's from Jiruba!
+Dialogue: 0,0:18:54.78,0:18:55.78,Default,,0,0,0,,It's from Jiruba!
+Dialogue: 0,0:18:55.83,0:18:58.90,Default,,0,0,0,,You fell right into my trap! Sapphire challenges you to a duel!
+Dialogue: 0,0:19:08.32,0:19:10.46,Default,,0,0,0,,It's finally time for the military parade.
+Dialogue: 0,0:19:10.59,0:19:13.35,Default,,0,0,0,,Isn't there any way to stop Jiruba the Phantom Thief from coming from the sky?
+Dialogue: 0,0:19:17.75,0:19:18.45,Default,,0,0,0,,That's right.
+Dialogue: 0,0:19:18.62,0:19:19.94,Default,,0,0,0,,Flying in the sky is easy.
+Dialogue: 0,0:19:20.25,0:19:22.53,Default,,0,0,0,,We just need to pack this smoke into bags.
+Dialogue: 0,0:19:23.51,0:19:25.76,Default,,0,0,0,,Come on, Tink, make them right away!
+Dialogue: 0,0:19:33.00,0:19:35.17,Default,,0,0,0,,We'll get the crown back.
+Dialogue: 0,0:19:56.79,0:19:58.26,Default,,0,0,0,,They're drawing close!
+Dialogue: 0,0:20:03.85,0:20:04.94,Default,,0,0,0,,Something strange is falling!
+Dialogue: 0,0:20:05.76,0:20:07.59,Default,,0,0,0,,I don't know what it is, but don't let your guard down!
+Dialogue: 0,0:20:18.44,0:20:19.12,Default,,0,0,0,,Quiet down!
+Dialogue: 0,0:20:19.40,0:20:20.16,Default,,0,0,0,,The enemy is in the sky!
+Dialogue: 0,0:20:20.37,0:20:21.70,Default,,0,0,0,,Keep your eyes on the sky!
+Dialogue: 0,0:20:26.29,0:20:27.86,Default,,0,0,0,,Consider it stolen!
+Dialogue: 0,0:20:30.04,0:20:30.72,Default,,0,0,0,,Over there!
+Dialogue: 0,0:20:30.84,0:20:31.84,Default,,0,0,0,,Damn you, Jiruba!
+Dialogue: 0,0:20:38.40,0:20:39.06,Default,,0,0,0,,Damn it!
+Dialogue: 0,0:20:39.08,0:20:40.08,Default,,0,0,0,,Luminous paint!
+Dialogue: 0,0:20:40.76,0:20:41.08,Default,,0,0,0,,Jiruba!
+Dialogue: 0,0:20:41.18,0:20:42.18,Default,,0,0,0,,Prepare yourself!
+Dialogue: 0,0:20:53.79,0:20:55.26,Default,,0,0,0,,If you lose your balance, you'll fall!
+Dialogue: 0,0:20:55.41,0:20:56.55,Default,,0,0,0,,Watch out, Sapphire!
+Dialogue: 0,0:20:57.25,0:20:59.51,Default,,0,0,0,,Wh-Why do you know my name?
+Dialogue: 0,0:21:03.10,0:21:04.10,Default,,0,0,0,,Damn it!
+Dialogue: 0,0:21:05.17,0:21:06.50,Default,,0,0,0,,That crown is a fake!
+Dialogue: 0,0:21:06.56,0:21:07.29,Default,,0,0,0,,What?
+Dialogue: 0,0:21:07.96,0:21:09.98,Default,,0,0,0,,I used it to catch you!
+Dialogue: 0,0:21:20.32,0:21:21.44,Default,,0,0,0,,You've beaten me!
+Dialogue: 0,0:21:40.63,0:21:41.81,Default,,0,0,0,,Y-You're Trott!
+Dialogue: 0,0:21:43.57,0:21:44.19,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:21:44.36,0:21:45.36,Default,,0,0,0,,Splendid!
+Dialogue: 0,0:21:45.54,0:21:46.54,Default,,0,0,0,,I lose!
+Dialogue: 0,0:21:46.69,0:21:47.51,Default,,0,0,0,,Do whatever you want with me!
+Dialogue: 0,0:21:47.64,0:21:48.02,Default,,0,0,0,,There!
+Dialogue: 0,0:21:48.04,0:21:50.43,Default,,0,0,0,,Wh-Why... Why would you do a thing like this?!
+Dialogue: 0,0:21:51.24,0:21:52.50,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:21:52.64,0:21:54.24,Default,,0,0,0,,I'll tell you Jiruba's true identity!
+Dialogue: 0,0:21:54.39,0:21:56.49,Default,,0,0,0,,T-Trott has appeared again!
+Dialogue: 0,0:21:57.03,0:21:58.03,Default,,0,0,0,,Brother, stop!
+Dialogue: 0,0:21:58.16,0:21:59.16,Default,,0,0,0,,We've lost!
+Dialogue: 0,0:21:59.40,0:22:00.40,Default,,0,0,0,,Did you say "brother"?
+Dialogue: 0,0:22:01.24,0:22:01.70,Default,,0,0,0,,That's right!
+Dialogue: 0,0:22:02.10,0:22:03.48,Default,,0,0,0,,We're twin brothers!
+Dialogue: 0,0:22:04.29,0:22:06.72,Default,,0,0,0,,One played Jiruba, while the other set up our alibi!
+Dialogue: 0,0:22:10.64,0:22:11.47,Default,,0,0,0,,So there!
+Dialogue: 0,0:22:11.52,0:22:13.05,Default,,0,0,0,,Dr. Uranari's great invention!
+Dialogue: 0,0:22:13.28,0:22:17.55,Default,,0,0,0,,A smoke-filled flying basket to catch Phantom Thief Jiruba!
+Dialogue: 0,0:22:17.87,0:22:19.97,Default,,0,0,0,,Caught him! Caught him!
+Dialogue: 0,0:22:20.42,0:22:20.74,Default,,0,0,0,,What?!
+Dialogue: 0,0:22:20.76,0:22:21.76,Default,,0,0,0,,Damn it!
+Dialogue: 0,0:22:22.70,0:22:23.39,Default,,0,0,0,,Brother!
+Dialogue: 0,0:22:23.60,0:22:24.60,Default,,0,0,0,,Give up gracefully!
+Dialogue: 0,0:22:24.91,0:22:26.37,Default,,0,0,0,,They're out of our league!
+Dialogue: 0,0:22:29.62,0:22:30.82,Default,,0,0,0,,Whoa!
+Dialogue: 0,0:22:30.89,0:22:32.88,Default,,0,0,0,,Sapphire caught Jiruba!
+Dialogue: 0,0:22:32.96,0:22:34.14,Default,,0,0,0,,Well done, well done!
+Dialogue: 0,0:22:43.97,0:22:44.90,Default,,0,0,0,,Here you are, Father!
+Dialogue: 0,0:22:44.92,0:22:45.92,Default,,0,0,0,,It's the real crown!
+Dialogue: 0,0:22:47.82,0:22:48.31,Default,,0,0,0,,I beg you!
+Dialogue: 0,0:22:48.54,0:22:51.16,Default,,0,0,0,,Do whatever you want with me, just please spare my brother!
+Dialogue: 0,0:22:52.06,0:22:53.06,Default,,0,0,0,,What are you saying, Brother?!
+Dialogue: 0,0:22:53.47,0:22:54.54,Default,,0,0,0,,I'll take whatever punishment!
+Dialogue: 0,0:22:54.73,0:22:55.73,Default,,0,0,0,,Please spare my brother!
+Dialogue: 0,0:22:56.44,0:22:57.12,Default,,0,0,0,,Silence!
+Dialogue: 0,0:22:57.14,0:22:58.42,Default,,0,0,0,,I won't spare either of you!
+Dialogue: 0,0:23:01.16,0:23:03.98,Default,,0,0,0,,Why were you only after the crown?
+Dialogue: 0,0:23:04.18,0:23:05.30,Default,,0,0,0,,Is there a reason for this?
+Dialogue: 0,0:23:06.76,0:23:07.32,Default,,0,0,0,,Long ago,
+Dialogue: 0,0:23:08.05,0:23:10.70,Default,,0,0,0,,our father served the king of a distant land.
+Dialogue: 0,0:23:11.42,0:23:13.32,Default,,0,0,0,,One day, when we were five...
+Dialogue: 0,0:23:19.54,0:23:24.64,Default,,0,0,0,,He accidentally scratched the crown and was sentenced to death.
+Dialogue: 0,0:23:28.57,0:23:30.35,Default,,0,0,0,,I don't care how valuable that crown is—
+Dialogue: 0,0:23:30.71,0:23:32.98,Default,,0,0,0,,which is more important, it or a human life?
+Dialogue: 0,0:23:33.80,0:23:37.12,Default,,0,0,0,,Our father, the most important person in the world to us...
+Dialogue: 0,0:23:37.56,0:23:38.63,Default,,0,0,0,,I see...
+Dialogue: 0,0:23:42.97,0:23:45.83,Default,,0,0,0,,Envoys from various nations have come demanding we hand over Jiruba.
+Dialogue: 0,0:23:46.12,0:23:47.20,Default,,0,0,0,,I'm the one who caught him!
+Dialogue: 0,0:23:47.59,0:23:48.64,Default,,0,0,0,,I'll be the judge!
+Dialogue: 0,0:23:52.84,0:23:54.03,Default,,0,0,0,,He escaped!
+Dialogue: 0,0:23:54.26,0:23:56.39,Default,,0,0,0,,Phantom Thief Jiruba escaped!
+Dialogue: 0,0:23:56.42,0:23:57.08,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:23:57.40,0:23:59.49,Default,,0,0,0,,Phantom Thief Jiruba escaped!
+Dialogue: 0,0:23:59.52,0:24:01.57,Default,,0,0,0,,Catch him!
+Dialogue: 0,0:24:06.36,0:24:08.93,Default,,0,0,0,,Even the most magnificent, expensive crown is worthless
+Dialogue: 0,0:24:08.95,0:24:11.96,Default,,0,0,0,,compared to a human life.
+Dialogue: 0,0:24:14.09,0:24:17.68,Default,,0,0,0,,I think I understand why Jiruba stole every single crown.
+Dialogue: 0,0:24:17.71,0:24:21.75,Default,,0,0,0,,And I think I understand why Sapphire forgave him.
 Dialogue: 0,0:24:45.54,0:24:49.18,Karaoke,,0,0,0,,{\k29}{\k22}Ta{\k18}ra{\k16}ri {\k18}Ra{\k20}tta {\k23}Ri{\k19}tta {\k26}Ra{\k17}tta {\k19}Ra{\k66}tta{\k69}ttaa
 Dialogue: 0,0:24:49.18,0:24:52.54,Karaoke,,0,0,0,,{\k8}{\k46}Kya{\k68}hoo! {\k35}Kya{\k42}hoo! {\k46}Kya{\k91}hoo!
 Dialogue: 0,0:24:49.18,0:24:52.54,OPED_Translation,,0,0,0,,Yahoo! Yahoo! Yahoo!

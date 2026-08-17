@@ -14,8 +14,8 @@ Audio File: 06 the three wishes.mkv
 Video File: 06 the three wishes.mkv
 Video AR Mode: 4
 Video AR Value: 1.314554
-Scroll Position: 9
-Active Line: 23
+Scroll Position: 364
+Active Line: 371
 Video Position: 950
 
 [V4+ Styles]
@@ -49,274 +49,354 @@ Dialogue: 0,0:01:25.22,0:01:28.62,Karaoke,,0,0,0,,{\k6}{\k50}Hon{\k43}to {\k33}w
 Dialogue: 0,0:01:25.22,0:01:28.62,OPED_Translation,,0,0,0,,Truly, truly,
 Dialogue: 0,0:01:28.62,0:01:31.82,Karaoke,,0,0,0,,{\k18}{\k23}A{\k23}ta{\k27}shi {\k35}na{\k35}no {\k159}sa{\k0}
 Dialogue: 0,0:01:28.62,0:01:31.82,OPED_Translation,,0,0,0,,It’s really me!
-Dialogue: 0,0:01:44.10,0:01:50.14,Default,,0,0,0,,Sixth Episode\NThe Little Goblin
-Dialogue: 0,0:01:52.02,0:01:54.46,Default,,0,0,0,,On an island in the South,
-Dialogue: 0,0:01:55.70,0:01:57.74,Default,,0,0,0,,in the Southern sea,
-Dialogue: 0,0:01:58.82,0:02:04.45,Default,,0,0,0,,there is a little elf\Nwho plays and wants to play!
-Dialogue: 0,0:02:06.26,0:02:08.73,Default,,0,0,0,,On that island in the South,
-Dialogue: 0,0:02:10.58,0:02:12.81,Default,,0,0,0,,in the blue Southern sea,
-Dialogue: 0,0:02:12.86,0:02:18.02,Default,,0,0,0,,there is a cheeky elf\Nwho knows how to use his magic!
-Dialogue: 0,0:02:21.62,0:02:24.01,Default,,0,0,0,,Even if it's not very pretty,\Nthis is my boat,
-Dialogue: 0,0:02:24.06,0:02:26.02,Default,,0,0,0,,so please\Ndon't laugh at it!
-Dialogue: 0,0:02:26.06,0:02:28.50,Default,,0,0,0,,- It's not ugly! It's just funny!\N- I like it!
-Dialogue: 0,0:02:32.02,0:02:33.69,Default,,0,0,0,,How fun!
-Dialogue: 0,0:02:34.70,0:02:38.09,Default,,0,0,0,,I feel like a sailor!\NBut what do I see?
-Dialogue: 0,0:02:38.78,0:02:40.53,Default,,0,0,0,,I see something..
-Dialogue: 0,0:02:42.34,0:02:44.49,Default,,0,0,0,,And what is this?\NA seashell...
-Dialogue: 0,0:02:44.90,0:02:46.89,Default,,0,0,0,,Let me out, please!
-Dialogue: 0,0:02:46.94,0:02:48.77,Default,,0,0,0,,- I hear a voice...\N- Let me out!
-Dialogue: 0,0:02:48.82,0:02:50.65,Default,,0,0,0,,Help me!
-Dialogue: 0,0:02:53.74,0:02:56.34,Default,,0,0,0,,Please, let me out!
-Dialogue: 0,0:02:59.02,0:03:00.82,Default,,0,0,0,,Heavens, what a surprise!
-Dialogue: 0,0:03:08.42,0:03:10.30,Default,,0,0,0,,Where is he? Where is he? Where is he?
-Dialogue: 0,0:03:10.34,0:03:13.01,Default,,0,0,0,,It's costing me dearly to follow\NPrince Sapphire on his vacation!
-Dialogue: 0,0:03:14.62,0:03:17.58,Default,,0,0,0,,I can't do anything about it at all,\Ndamn it!
-Dialogue: 0,0:03:20.30,0:03:22.58,Default,,0,0,0,,It's an order\Nfrom Grand Duke Duralumin.
-Dialogue: 0,0:03:26.22,0:03:29.50,Default,,0,0,0,,- Here comes that little angel!\N- There is an elf inside here!
-Dialogue: 0,0:03:29.54,0:03:31.53,Default,,0,0,0,,An elf in a seashell?!
-Dialogue: 0,0:03:32.02,0:03:34.82,Default,,0,0,0,,Yes! They had locked me\Nin here!
-Dialogue: 0,0:03:34.86,0:03:37.01,Default,,0,0,0,,Thank you for saving me
-Dialogue: 0,0:03:37.06,0:03:39.34,Default,,0,0,0,,He says he comes\Nfrom a distant southern island..
-Dialogue: 0,0:03:39.38,0:03:41.50,Default,,0,0,0,,...and that he was\Ndragged all the way here,
-Dialogue: 0,0:03:41.54,0:03:43.74,Default,,0,0,0,,always locked inside his shell.
-Dialogue: 0,0:03:44.54,0:03:47.10,Default,,0,0,0,,What is your father's name,\Nlittle elf?
-Dialogue: 0,0:03:47.34,0:03:49.54,Default,,0,0,0,,His name is Genie.
-Dialogue: 0,0:03:50.18,0:03:53.73,Default,,0,0,0,,Did you say "Genie"? But isn't he\Nthe spirit of the magic lamp,
-Dialogue: 0,0:03:53.78,0:03:55.90,Default,,0,0,0,,the one from the fairy tales\Nof "One Thousand and One Nights"?
-Dialogue: 0,0:03:55.94,0:03:59.38,Default,,0,0,0,,Yes, he used to be in the lamp,\Nbut now he is old...
-Dialogue: 0,0:03:59.42,0:04:02.33,Default,,0,0,0,,...and prefers to live on\Nan island in the South Seas.
-Dialogue: 0,0:04:02.66,0:04:05.89,Default,,0,0,0,,Ah, the genie of the magic\Nlamp! Ah, interesting news!
-Dialogue: 0,0:04:05.94,0:04:09.30,Default,,0,0,0,,I heard that the magic\Nlamp granted every wish...
-Dialogue: 0,0:04:09.34,0:04:12.46,Default,,0,0,0,,- Shut up!\N- My father granted wishes.
-Dialogue: 0,0:04:12.50,0:04:15.65,Default,,0,0,0,,...of whoever possessed the magic\Nlamp, but he stopped doing so!
-Dialogue: 0,0:04:15.70,0:04:18.90,Default,,0,0,0,,Since you saved me, I will\Nhave your wishes granted.
-Dialogue: 0,0:04:18.94,0:04:21.25,Default,,0,0,0,,In return, I ask you only one thing.
-Dialogue: 0,0:04:21.58,0:04:25.65,Default,,0,0,0,,If I get you what you want do\Nyou promise to take me back home?
-Dialogue: 0,0:04:25.70,0:04:28.06,Default,,0,0,0,,I mean, I want to say,\Non the South Seas island!
-Dialogue: 0,0:04:28.10,0:04:31.25,Default,,0,0,0,,My father hasn't seen me in a long\Ntime and he must be worried!
-Dialogue: 0,0:04:31.30,0:04:33.13,Default,,0,0,0,,I heard a noise!
-Dialogue: 0,0:04:33.54,0:04:36.93,Default,,0,0,0,,- That's..! Do you believe it, Tink?\N- I do! And you, Sapphire?
-Dialogue: 0,0:04:37.38,0:04:40.02,Default,,0,0,0,,I think he told\Na pack of lies!
-Dialogue: 0,0:04:40.06,0:04:42.58,Default,,0,0,0,,- I think he's a liar!\N- NO! What I told you is true..
-Dialogue: 0,0:04:42.62,0:04:45.14,Default,,0,0,0,,...and I'll prove it to you\Nif you take me home!
-Dialogue: 0,0:04:45.18,0:04:47.25,Default,,0,0,0,,I can't bring myself to believe\Nhis words!
-Dialogue: 0,0:04:50.02,0:04:52.33,Default,,0,0,0,,Sapphire, I feel sorry for that poor guy
-Dialogue: 0,0:04:52.94,0:04:55.33,Default,,0,0,0,,It's none of my business!\NYou keep him!
-Dialogue: 0,0:04:55.38,0:04:57.02,Default,,0,0,0,,Sapphire, wait!
-Dialogue: 0,0:05:00.30,0:05:02.77,Default,,0,0,0,,The genie of the magic lamp\Ngrants every wish,
-Dialogue: 0,0:05:02.82,0:05:04.81,Default,,0,0,0,,so if I can catch\Nthat pixie..!
-Dialogue: 0,0:05:08.90,0:05:10.54,Default,,0,0,0,,What are you doing, Baron Nylon?
-Dialogue: 0,0:05:10.58,0:05:12.17,Default,,0,0,0,,Hello, Your Highness! I was just passing by!
-Dialogue: 0,0:05:12.22,0:05:15.50,Default,,0,0,0,,Liar! That will teach you to lie!
-Dialogue: 0,0:05:15.90,0:05:18.62,Default,,0,0,0,,Actually, I was on my way\Nto your castle!
-Dialogue: 0,0:05:18.94,0:05:20.85,Default,,0,0,0,,Then hurry on over there!
-Dialogue: 0,0:05:20.90,0:05:23.62,Default,,0,0,0,,- Of course, Your Highness!\N- Wait for me, I'm coming with you!
-Dialogue: 0,0:05:27.66,0:05:29.73,Default,,0,0,0,,This Sapphire\Nis really a fool.
-Dialogue: 0,0:05:42.54,0:05:45.74,Default,,0,0,0,,I didn't like Sapphire.\NHe was truly heartless.
-Dialogue: 0,0:05:45.78,0:05:47.74,Default,,0,0,0,,Don't worry, little elf
-Dialogue: 0,0:05:48.26,0:05:51.41,Default,,0,0,0,,I will take you to your home,\Non that island in the South Seas.
-Dialogue: 0,0:05:54.58,0:05:57.57,Default,,0,0,0,,Wait, little one! Don't go\Nout to sea! Give me that elf!
-Dialogue: 0,0:05:57.90,0:05:59.89,Default,,0,0,0,,I wouldn't even think of it!
-Dialogue: 0,0:06:08.30,0:06:10.18,Default,,0,0,0,,So much the worse for you! Now I...
-Dialogue: 0,0:06:10.22,0:06:12.58,Default,,0,0,0,,Hey!\NHow come you came back?
-Dialogue: 0,0:06:12.62,0:06:15.37,Default,,0,0,0,,It's dangerous for little ones\Nto play with boats, and I...
-Dialogue: 0,0:06:15.42,0:06:17.41,Default,,0,0,0,,Tink, come back to shore!
-Dialogue: 0,0:06:17.50,0:06:20.10,Default,,0,0,0,,Tink, do you hear me? Come back, I said!
-Dialogue: 0,0:06:21.50,0:06:24.02,Default,,0,0,0,,You said you didn't believe\Nhis words.
-Dialogue: 0,0:06:26.10,0:06:29.86,Default,,0,0,0,,Stop! Don't be foolish! You won't\Nmanage to reach the island!
-Dialogue: 0,0:06:31.74,0:06:33.62,Default,,0,0,0,,How stubborn!
-Dialogue: 0,0:06:34.90,0:06:38.02,Default,,0,0,0,,Listen to me, Tink!\NIn the sea there are sharks
-Dialogue: 0,0:06:38.06,0:06:41.58,Default,,0,0,0,,...that eat men and\Nwhales and other monstrous animals!
-Dialogue: 0,0:06:42.74,0:06:44.46,Default,,0,0,0,,Now you'll see!
-Dialogue: 0,0:06:46.58,0:06:48.54,Default,,0,0,0,,Do you want to leave me alone?
-Dialogue: 0,0:06:48.58,0:06:50.89,Default,,0,0,0,,Listen, Tink,\NI would like to go home.
-Dialogue: 0,0:06:50.94,0:06:53.74,Default,,0,0,0,,I will take you there! For now you can\Nstay in my hat.
-Dialogue: 0,0:06:54.62,0:06:56.61,Default,,0,0,0,,Tink is really hospitable!
-Dialogue: 0,0:06:56.66,0:06:58.54,Default,,0,0,0,,I don't want to go back!\NLet me go!
-Dialogue: 0,0:06:58.58,0:07:00.30,Default,,0,0,0,,The shark!
-Dialogue: 0,0:07:02.06,0:07:04.13,Default,,0,0,0,,Watch out, Tink! Run!
-Dialogue: 0,0:07:08.50,0:07:10.17,Default,,0,0,0,,Help!
-Dialogue: 0,0:07:10.26,0:07:12.01,Default,,0,0,0,,Here!
-Dialogue: 0,0:07:18.14,0:07:19.81,Default,,0,0,0,,Try to catch me!
-Dialogue: 0,0:07:23.86,0:07:26.42,Default,,0,0,0,,Run, Tink!\NI'll try to help you!
-Dialogue: 0,0:07:28.66,0:07:30.33,Default,,0,0,0,,There it is!
-Dialogue: 0,0:07:31.14,0:07:34.29,Default,,0,0,0,,Oh my, there are so many\Nof them! It's a whole pack!
-Dialogue: 0,0:08:02.30,0:08:05.02,Default,,0,0,0,,Hooray, I'm saved!\NMaybe I made it!
-Dialogue: 0,0:08:05.06,0:08:07.81,Default,,0,0,0,,I wonder if this is the island of\Nthe South Seas..! Who knows?
-Dialogue: 0,0:08:30.58,0:08:32.73,Default,,0,0,0,,Hey, but that\Nlooks like a whale to me!
-Dialogue: 0,0:08:35.34,0:08:37.73,Default,,0,0,0,,Tink, that's not\Nan island! It's a whale!
-Dialogue: 0,0:08:37.78,0:08:40.30,Default,,0,0,0,,A whale?! I thought it\Nwas a Southern island!
-Dialogue: 0,0:08:48.18,0:08:49.82,Default,,0,0,0,,Help!
-Dialogue: 0,0:08:50.54,0:08:53.29,Default,,0,0,0,,Here! Take the anchor, Tink!
-Dialogue: 0,0:08:53.34,0:08:55.09,Default,,0,0,0,,I missed it!
-Dialogue: 0,0:08:56.46,0:08:58.26,Default,,0,0,0,,Don't go down, Tink!
-Dialogue: 0,0:09:00.42,0:09:03.14,Default,,0,0,0,,Too late!\NNow it's going too fast!
-Dialogue: 0,0:09:09.90,0:09:12.81,Default,,0,0,0,,I should run for it, but I\Ncan't abandon Tink!
-Dialogue: 0,0:09:24.82,0:09:26.65,Default,,0,0,0,,An island!
+Dialogue: 0,0:01:44.10,0:01:50.14,Default,,0,0,0,,Sixth Episode\NThe Little Goblin\NThe Pixie and the Giants
+Dialogue: 0,0:01:52.31,0:01:55.04,Default,,0,0,0,,♪ Minami no umi no ♪\NOf the southern seas...
+Dialogue: 0,0:01:55.07,0:01:55.74,Default,,0,0,0,,♪  Yahho ♪\NYahoo
+Dialogue: 0,0:01:55.76,0:01:58.54,Default,,0,0,0,,♪ Hikari no shibaru ♪\NBound by the light...
+Dialogue: 0,0:01:58.57,0:01:59.53,Default,,0,0,0,,♪  Yahho ♪\NYahoo
+Dialogue: 0,0:01:59.56,0:02:06.24,Default,,0,0,0,,♪ Kawaii ni ouji ga iku sou na ♪\NThey say the cute prince sets sail!
+Dialogue: 0,0:02:06.26,0:02:09.16,Default,,0,0,0,,♪ Himitsu no negai yo ♪\NOh, secret wish...
+Dialogue: 0,0:02:09.71,0:02:12.82,Default,,0,0,0,,♪ Kanaete kureru ♪\NWill you grant it?
+Dialogue: 0,0:02:12.86,0:02:19.34,Default,,0,0,0,,♪ Mahou no ouji ga iku sou na ♪\NThey say the magical prince sets sail!
+Dialogue: 0,0:02:21.28,0:02:22.33,Default,,0,0,0,,Don't laugh.
+Dialogue: 0,0:02:22.79,0:02:25.30,Default,,0,0,0,,Even if it's uncool, I'm the one who made it.
+Dialogue: 0,0:02:25.64,0:02:27.40,Default,,0,0,0,,It's cool, very much so.
+Dialogue: 0,0:02:31.82,0:02:33.79,Default,,0,0,0,,Yep, off I go!
+Dialogue: 0,0:02:36.04,0:02:37.04,Default,,0,0,0,,I did it!
+Dialogue: 0,0:02:41.96,0:02:42.42,Default,,0,0,0,,Huh?
+Dialogue: 0,0:02:42.78,0:02:43.78,Default,,0,0,0,,What's this?
+Dialogue: 0,0:02:46.14,0:02:46.88,Default,,0,0,0,,It's a shell!
+Dialogue: 0,0:02:53.29,0:02:54.64,Default,,0,0,0,,There's something inside.
+Dialogue: 0,0:03:06.23,0:03:08.64,Default,,0,0,0,,Here comes Prince Sapphire.
+Dialogue: 0,0:03:09.09,0:03:12.17,Default,,0,0,0,,I'm heading over to Lord Nylon, who is tailing them.
+Dialogue: 0,0:03:13.30,0:03:14.30,Default,,0,0,0,,No way!
+Dialogue: 0,0:03:15.22,0:03:18.04,Default,,0,0,0,,Even though it’s Golden Week...
+Dialogue: 0,0:03:19.99,0:03:24.24,Default,,0,0,0,,Grand Duke Duralumin's orders were to secretly spy on Sapphire while he’s playing around.
+Dialogue: 0,0:03:26.68,0:03:27.86,Default,,0,0,0,,It’s that little angel again.
+Dialogue: 0,0:03:28.08,0:03:29.59,Default,,0,0,0,,A little person came out of the shell.
+Dialogue: 0,0:03:29.61,0:03:31.17,Default,,0,0,0,,A little person from a shell?
+Dialogue: 0,0:03:32.70,0:03:34.46,Default,,0,0,0,,I was trapped in the shell.
+Dialogue: 0,0:03:34.61,0:03:36.21,Default,,0,0,0,,Thank you for saving me.
+Dialogue: 0,0:03:36.92,0:03:40.34,Default,,0,0,0,,He says this child was on a distant southern island.
+Dialogue: 0,0:03:40.73,0:03:44.12,Default,,0,0,0,,He says he was trapped inside the shell and drifted all the way here.
+Dialogue: 0,0:03:44.99,0:03:46.50,Default,,0,0,0,,What’s your papa’s name?
+Dialogue: 0,0:03:47.40,0:03:48.16,Default,,0,0,0,,Genie.
+Dialogue: 0,0:03:48.18,0:03:49.32,Default,,0,0,0,,You said Genie?
+Dialogue: 0,0:03:49.84,0:03:53.40,Default,,0,0,0,,Speaking of Genie, isn’t that the name of the genie of the lamp from the Arabian Nights?
+Dialogue: 0,0:03:53.80,0:03:54.94,Default,,0,0,0,,Is that genie your papa?
+Dialogue: 0,0:03:55.36,0:03:55.64,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:03:56.00,0:04:00.68,Default,,0,0,0,,He used to be in a lamp, but now he’s free and living on an island.
+Dialogue: 0,0:04:03.08,0:04:04.74,Default,,0,0,0,,The genie of the magic lamp?
+Dialogue: 0,0:04:04.90,0:04:05.90,Default,,0,0,0,,Now this is interesting.
+Dialogue: 0,0:04:06.12,0:04:09.96,Default,,0,0,0,,If I remember correctly, a magic lamp is for making wishes.
+Dialogue: 0,0:04:10.55,0:04:11.18,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:04:11.27,0:04:15.43,Default,,0,0,0,,My papa used to do whatever the person holding the lamp told him to.
+Dialogue: 0,0:04:15.62,0:04:18.14,Default,,0,0,0,,But he's not in that line of work anymore.
+Dialogue: 0,0:04:18.48,0:04:24.14,Default,,0,0,0,,But since you saved me, if I tell him, I’m sure he’ll grant your wish in return.
+Dialogue: 0,0:04:24.49,0:04:26.97,Default,,0,0,0,,Hey, take me home.
+Dialogue: 0,0:04:27.13,0:04:29.40,Default,,0,0,0,,To where my papa is on the southern island.
+Dialogue: 0,0:04:29.43,0:04:31.62,Default,,0,0,0,,Please. Hey, I’m begging you.
+Dialogue: 0,0:04:31.75,0:04:32.56,Default,,0,0,0,,Ah, thats...
+Dialogue: 0,0:04:33.40,0:04:36.09,Default,,0,0,0,,Tink, let's just dump this runt somewhere.
+Dialogue: 0,0:04:37.07,0:04:39.82,Default,,0,0,0,,He's just talking nonsense about his dad being a magic lamp genie.
+Dialogue: 0,0:04:40.24,0:04:41.24,Default,,0,0,0,,It’s true!
+Dialogue: 0,0:04:41.37,0:04:43.03,Default,,0,0,0,,You'll see if you take me there.
+Dialogue: 0,0:04:43.24,0:04:45.09,Default,,0,0,0,,I want to go home.
+Dialogue: 0,0:04:45.29,0:04:46.32,Default,,0,0,0,,Count me out.
+Dialogue: 0,0:04:50.20,0:04:52.24,Default,,0,0,0,,Sapphire, we have to help him.
+Dialogue: 0,0:04:52.85,0:04:53.72,Default,,0,0,0,,Not a chance.
+Dialogue: 0,0:04:53.85,0:04:54.85,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:04:55.49,0:04:56.70,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:04:58.04,0:04:59.04,Default,,0,0,0,,Bully!
+Dialogue: 0,0:05:00.79,0:05:02.86,Default,,0,0,0,,A genie of the lamp who grants any wish, eh?
+Dialogue: 0,0:05:02.99,0:05:07.98,Default,,0,0,0,,Alright, if I can just get my hands on that runt...
+Dialogue: 0,0:05:09.22,0:05:10.22,Default,,0,0,0,,Well, if it isn't Lord Nylon!
+Dialogue: 0,0:05:11.17,0:05:12.78,Default,,0,0,0,,It certainly is a nice day...
+Dialogue: 0,0:05:13.40,0:05:14.40,Default,,0,0,0,,What?
+Dialogue: 0,0:05:14.94,0:05:15.94,Default,,0,0,0,,Why are you here?
+Dialogue: 0,0:05:16.82,0:05:18.61,Default,,0,0,0,,Actually, I've come to escort Your Highness back to the castle...
+Dialogue: 0,0:05:18.64,0:05:20.85,Default,,0,0,0,,Alright, in that case, go straight to the castle!
+Dialogue: 0,0:05:21.02,0:05:22.21,Default,,0,0,0,,Go straight there!
+Dialogue: 0,0:05:23.34,0:05:24.40,Default,,0,0,0,,Wait!
+Dialogue: 0,0:05:24.40,0:05:25.40,Default,,0,0,0,,Nylon!
+Dialogue: 0,0:05:27.70,0:05:29.51,Default,,0,0,0,,I tricked him good!
+Dialogue: 0,0:05:42.52,0:05:47.54,Default,,0,0,0,,It's fine, it's fine. I'll take the little guy to the house on the southern island all by myself, so there!
+Dialogue: 0,0:05:47.66,0:05:48.13,Default,,0,0,0,,Really?
+Dialogue: 0,0:05:48.53,0:05:51.40,Default,,0,0,0,,In exchange, make sure Papa grants my wish.
+Dialogue: 0,0:05:54.96,0:05:55.96,Default,,0,0,0,,Wait!
+Dialogue: 0,0:05:56.00,0:05:57.23,Default,,0,0,0,,Hand over that little person!
+Dialogue: 0,0:05:57.72,0:05:58.18,Default,,0,0,0,,No!
+Dialogue: 0,0:05:58.36,0:05:59.36,Default,,0,0,0,,I already said no!
+Dialogue: 0,0:06:10.03,0:06:11.51,Default,,0,0,0,,Why did you come back?
+Dialogue: 0,0:06:11.68,0:06:12.68,Default,,0,0,0,,What are you doing?
+Dialogue: 0,0:06:12.75,0:06:14.92,Default,,0,0,0,,It's just a little kid playing by himself...
+Dialogue: 0,0:06:15.50,0:06:17.01,Default,,0,0,0,,Tink!
+Dialogue: 0,0:06:17.90,0:06:18.92,Default,,0,0,0,,Tink!
+Dialogue: 0,0:06:19.04,0:06:20.04,Default,,0,0,0,,Don't go!
+Dialogue: 0,0:06:20.26,0:06:21.38,Default,,0,0,0,,Go away!
+Dialogue: 0,0:06:21.38,0:06:22.48,Default,,0,0,0,,I told you not to go, so there!
+Dialogue: 0,0:06:22.86,0:06:25.63,Default,,0,0,0,,I'm taking the little guy to where Papa is, so there!
+Dialogue: 0,0:06:26.16,0:06:27.64,Default,,0,0,0,,That’s ridiculous!
+Dialogue: 0,0:06:28.00,0:06:30.40,Default,,0,0,0,,I can't possibly go to a southern island!
+Dialogue: 0,0:06:30.98,0:06:31.40,Default,,0,0,0,,Tink!
+Dialogue: 0,0:06:31.78,0:06:32.30,Default,,0,0,0,,Wait!
+Dialogue: 0,0:06:32.74,0:06:38.36,Default,,0,0,0,,Hey, listen to me! If you go out to sea, there are terrifying, poisonous jellyfish!
+Dialogue: 0,0:06:38.80,0:06:42.08,Default,,0,0,0,,And man-eating sharks, too!
+Dialogue: 0,0:06:42.22,0:06:43.22,Default,,0,0,0,,Tink!
+Dialogue: 0,0:06:47.35,0:06:48.76,Default,,0,0,0,,Leave me alone, leave me alone!
+Dialogue: 0,0:06:49.12,0:06:50.20,Default,,0,0,0,,I'm going home!
+Dialogue: 0,0:06:50.55,0:06:51.96,Default,,0,0,0,,Kobito-kun, stay hidden!
+Dialogue: 0,0:06:53.44,0:06:54.44,Default,,0,0,0,,Tink!
+Dialogue: 0,0:06:54.52,0:06:55.88,Default,,0,0,0,,Come back!
+Dialogue: 0,0:06:55.97,0:06:56.60,Default,,0,0,0,,No!
+Dialogue: 0,0:06:56.62,0:06:57.72,Default,,0,0,0,,I said no!
+Dialogue: 0,0:06:57.72,0:06:58.94,Default,,0,0,0,,Stop it!
+Dialogue: 0,0:07:09.93,0:07:11.38,Default,,0,0,0,,Take that, you monster!
+Dialogue: 0,0:07:24.73,0:07:24.92,Default,,0,0,0,,Tink!
+Dialogue: 0,0:07:25.20,0:07:25.48,Default,,0,0,0,,Row!
+Dialogue: 0,0:07:25.62,0:07:26.23,Default,,0,0,0,,Hurry!
+Dialogue: 0,0:07:29.20,0:07:30.10,Default,,0,0,0,,Take that!
+Dialogue: 0,0:08:02.52,0:08:03.36,Default,,0,0,0,,Yay!
+Dialogue: 0,0:08:03.42,0:08:03.92,Default,,0,0,0,,I'm saved!
+Dialogue: 0,0:08:04.08,0:08:05.08,Default,,0,0,0,,I'm saved!
+Dialogue: 0,0:08:05.42,0:08:07.82,Default,,0,0,0,,Thank you, Kujira-san, for eating the man-eating shark!
+Dialogue: 0,0:08:31.17,0:08:32.60,Default,,0,0,0,,Tink is in trouble!
+Dialogue: 0,0:08:32.93,0:08:33.54,Default,,0,0,0,,Yay!
+Dialogue: 0,0:08:33.60,0:08:35.44,Default,,0,0,0,,Try and catch me!
+Dialogue: 0,0:08:35.92,0:08:36.54,Default,,0,0,0,,That whale!
+Dialogue: 0,0:08:36.73,0:08:37.73,Default,,0,0,0,,It's insane!
+Dialogue: 0,0:08:38.14,0:08:38.40,Default,,0,0,0,,Huh?
+Dialogue: 0,0:08:38.88,0:08:39.88,Default,,0,0,0,,An insane whale?
+Dialogue: 0,0:08:50.28,0:08:51.01,Default,,0,0,0,,Tink!
+Dialogue: 0,0:08:51.14,0:08:52.14,Default,,0,0,0,,Grab onto this!
+Dialogue: 0,0:09:03.10,0:09:04.20,Default,,0,0,0,,Tink!
+Dialogue: 0,0:09:04.53,0:09:05.58,Default,,0,0,0,,Jump!
+Dialogue: 0,0:09:10.37,0:09:13.02,Default,,0,0,0,,If I'm taken any further than this, it's all over!
 Dialogue: 0,0:09:28.62,0:09:30.77,Default,,0,0,0,,It's going to crash into the island!
-Dialogue: 0,0:09:37.06,0:09:39.29,Default,,0,0,0,,It won't even stop\Non dry land!
-Dialogue: 0,0:09:39.34,0:09:41.94,Default,,0,0,0,,I have to stop it!\NI've got it!
-Dialogue: 0,0:09:54.90,0:09:57.57,Default,,0,0,0,,What's down there? A ship!
-Dialogue: 0,0:09:57.62,0:09:59.90,Default,,0,0,0,,Hey, the ship!
-Dialogue: 0,0:10:04.26,0:10:06.22,Default,,0,0,0,,What a crash!
-Dialogue: 0,0:10:21.86,0:10:24.53,Default,,0,0,0,,But it's not a dinosaur,\Nit's a rock!
-Dialogue: 0,0:10:38.30,0:10:41.26,Default,,0,0,0,,Help! Help, Sapphire!\NI can't swim!
-Dialogue: 0,0:10:41.30,0:10:44.37,Default,,0,0,0,,- Hold onto my hand!\N- I can't reach!
-Dialogue: 0,0:10:45.82,0:10:48.18,Default,,0,0,0,,Now I can touch the bottom.
-Dialogue: 0,0:10:48.34,0:10:51.17,Default,,0,0,0,,How come? I can touch too.
-Dialogue: 0,0:10:51.46,0:10:55.09,Default,,0,0,0,,What could it be, Sapphire?\NCan you explain this mystery?
-Dialogue: 0,0:10:55.82,0:10:58.70,Default,,0,0,0,,- Look!\N- What do you think it is?
-Dialogue: 0,0:10:58.74,0:11:00.65,Default,,0,0,0,,I don't know.
-Dialogue: 0,0:11:01.10,0:11:03.41,Default,,0,0,0,,It's a flying manta ray, Tink!
-Dialogue: 0,0:11:07.58,0:11:11.13,Default,,0,0,0,,Hold on tight! Here's another one!
-Dialogue: 0,0:11:37.02,0:11:38.82,Default,,0,0,0,,Sapphire!
-Dialogue: 0,0:11:55.50,0:11:59.38,Default,,0,0,0,,Where could I be? I'm lost\Nin the middle of the ocean!
-Dialogue: 0,0:12:00.02,0:12:02.90,Default,,0,0,0,,An island!\NIt's the South Seas island!
-Dialogue: 0,0:12:08.14,0:12:11.02,Default,,0,0,0,,Hooray, I've arrived!\NIt's the island! Finally!
-Dialogue: 0,0:12:11.74,0:12:13.49,Default,,0,0,0,,But where is Sapphire?
-Dialogue: 0,0:12:13.54,0:12:16.90,Default,,0,0,0,,I've got it! I'll light a fire\Nto let her know where I am!
-Dialogue: 0,0:12:22.14,0:12:23.81,Default,,0,0,0,,I hope she sees the smoke
-Dialogue: 0,0:12:23.90,0:12:26.37,Default,,0,0,0,,What is it? Ah, it's you\Nwho spoke! What are you?
-Dialogue: 0,0:12:26.42,0:12:28.33,Default,,0,0,0,,- Let me go!\N- A dinosaur!
-Dialogue: 0,0:12:28.70,0:12:30.61,Default,,0,0,0,,Ah, is that so? Come on!
-Dialogue: 0,0:12:31.02,0:12:34.30,Default,,0,0,0,,- So many monsters!\N- What's happening? Why did you call?
-Dialogue: 0,0:12:34.34,0:12:36.22,Default,,0,0,0,,Let's teach them a lesson!
-Dialogue: 0,0:12:36.78,0:12:38.74,Default,,0,0,0,,Better run for it!\NHow strange..!
-Dialogue: 0,0:12:38.78,0:12:41.45,Default,,0,0,0,,On this island, trees and\Nanimals are smaller than normal!
-Dialogue: 0,0:12:41.50,0:12:43.57,Default,,0,0,0,,Maybe this\Nis the elf's island!
-Dialogue: 0,0:12:43.62,0:12:45.82,Default,,0,0,0,,Come here, see if you\Nrecognize the island!
-Dialogue: 0,0:12:51.82,0:12:53.70,Default,,0,0,0,,I'm scared, Tink! I'm scared!
-Dialogue: 0,0:12:53.74,0:12:56.70,Default,,0,0,0,,This is not my island!\NThis is a very strange place!
-Dialogue: 0,0:12:57.02,0:12:59.01,Default,,0,0,0,,- Get off our island!\N- Get lost!
-Dialogue: 0,0:12:59.06,0:13:01.13,Default,,0,0,0,,Did you see how I chased him away?
-Dialogue: 0,0:13:03.10,0:13:05.41,Default,,0,0,0,,This bird\Nis as small as a fly.
-Dialogue: 0,0:13:07.42,0:13:10.41,Default,,0,0,0,,Help! Help!\NA swarm of them is coming!
-Dialogue: 0,0:13:10.46,0:13:14.25,Default,,0,0,0,,Damn, they don't intend\Nto stop! Help! Help!
-Dialogue: 0,0:13:23.02,0:13:26.33,Default,,0,0,0,,Yes, I definitely want to leave\Nthis place! But how do I do it?
-Dialogue: 0,0:13:27.58,0:13:29.30,Default,,0,0,0,,Here's the solution!
-Dialogue: 0,0:13:29.34,0:13:31.70,Default,,0,0,0,,This small-scale whirlwind\Nwill carry me away!
-Dialogue: 0,0:13:31.74,0:13:34.73,Default,,0,0,0,,How wonderful! It feels\Nlike I'm on a carousel!
-Dialogue: 0,0:13:40.10,0:13:42.01,Default,,0,0,0,,I see a wisp of smoke!
-Dialogue: 0,0:13:42.06,0:13:45.34,Default,,0,0,0,,Maybe there's someone on\Nthis island! Maybe Tink is here!
-Dialogue: 0,0:13:50.46,0:13:53.10,Default,,0,0,0,,Tink, where are you? Tink!
-Dialogue: 0,0:13:53.90,0:13:57.29,Default,,0,0,0,,Look, look...! They look like\Nthe footprints of Tink's shoes!
-Dialogue: 0,0:14:00.50,0:14:03.02,Default,,0,0,0,,Tink, it's me: Sapphire!
-Dialogue: 0,0:14:03.06,0:14:05.05,Default,,0,0,0,,Where are you, Tink?
-Dialogue: 0,0:14:10.06,0:14:13.50,Default,,0,0,0,,Strange! His footprints\Nend on this rocky ledge!
-Dialogue: 0,0:14:13.78,0:14:15.42,Default,,0,0,0,,Could it be...
-Dialogue: 0,0:14:26.30,0:14:30.21,Default,,0,0,0,,Where am I? Where have we\Nended up? A giant footprint!
-Dialogue: 0,0:14:31.22,0:14:33.74,Default,,0,0,0,,But then... There are giants!
+Dialogue: 0,0:09:56.42,0:09:57.50,Default,,0,0,0,,Great!
+Dialogue: 0,0:09:57.83,0:09:58.92,Default,,0,0,0,,Hey!
+Dialogue: 0,0:10:22.10,0:10:22.76,Default,,0,0,0,,Hey!
+Dialogue: 0,0:10:22.93,0:10:24.06,Default,,0,0,0,,It's not a dinosaur!
+Dialogue: 0,0:10:24.18,0:10:25.68,Default,,0,0,0,,It's a rock!
+Dialogue: 0,0:10:39.42,0:10:39.74,Default,,0,0,0,,Whoa!
+Dialogue: 0,0:10:39.77,0:10:41.86,Default,,0,0,0,,Save me, Sapphire!
+Dialogue: 0,0:10:41.86,0:10:42.42,Default,,0,0,0,,Tink!
+Dialogue: 0,0:10:42.46,0:10:43.46,Default,,0,0,0,,I got you!
+Dialogue: 0,0:11:11.16,0:11:11.92,Default,,0,0,0,,It's a monster!
+Dialogue: 0,0:11:12.07,0:11:12.94,Default,,0,0,0,,Oh no!
+Dialogue: 0,0:11:36.73,0:11:37.94,Default,,0,0,0,,Help!
+Dialogue: 0,0:12:09.08,0:12:09.80,Default,,0,0,0,,Yay!
+Dialogue: 0,0:12:09.82,0:12:10.58,Default,,0,0,0,,It's an island!
+Dialogue: 0,0:12:10.60,0:12:12.04,Default,,0,0,0,,It's a southern island!
+Dialogue: 0,0:12:12.90,0:12:14.13,Default,,0,0,0,,What should I do about Sapphire?
+Dialogue: 0,0:12:14.54,0:12:16.12,Default,,0,0,0,,I have to signal them!
+Dialogue: 0,0:12:21.44,0:12:23.10,Default,,0,0,0,,I wonder if I'll find Sapphire?
+Dialogue: 0,0:12:23.12,0:12:23.52,Default,,0,0,0,,Whoa!
+Dialogue: 0,0:12:23.98,0:12:24.66,Default,,0,0,0,,What is that?
+Dialogue: 0,0:12:24.68,0:12:25.72,Default,,0,0,0,,Is it a mouse?
+Dialogue: 0,0:12:26.18,0:12:26.96,Default,,0,0,0,,When did you get here?
+Dialogue: 0,0:12:26.99,0:12:27.42,Default,,0,0,0,,Whoa!
+Dialogue: 0,0:12:27.46,0:12:28.64,Default,,0,0,0,,It's a dinosaur!
+Dialogue: 0,0:12:29.27,0:12:30.44,Default,,0,0,0,,Everyone, get him!
+Dialogue: 0,0:12:30.68,0:12:31.02,Default,,0,0,0,,Whoa!
+Dialogue: 0,0:12:31.12,0:12:32.38,Default,,0,0,0,,So many of them came!
+Dialogue: 0,0:12:32.44,0:12:33.10,Default,,0,0,0,,What is it?
+Dialogue: 0,0:12:33.32,0:12:34.24,Default,,0,0,0,,Whoa!
+Dialogue: 0,0:12:34.34,0:12:35.40,Default,,0,0,0,,They're coming out, they're coming out!
+Dialogue: 0,0:12:35.57,0:12:36.82,Default,,0,0,0,,Run!
+Dialogue: 0,0:12:37.36,0:12:37.96,Default,,0,0,0,,Oh!
+Dialogue: 0,0:12:37.96,0:12:38.96,Default,,0,0,0,,How strange!
+Dialogue: 0,0:12:39.22,0:12:41.00,Default,,0,0,0,,The trees and flowers, everything is so tiny!
+Dialogue: 0,0:12:41.45,0:12:43.56,Default,,0,0,0,,Maybe it's Kubito-kun's island.
+Dialogue: 0,0:12:43.75,0:12:46.72,Default,,0,0,0,,Look, Kubito-kun!
+Dialogue: 0,0:12:50.14,0:12:51.14,Default,,0,0,0,,Wah!
+Dialogue: 0,0:12:51.51,0:12:52.72,Default,,0,0,0,,It's scary, it's scary!
+Dialogue: 0,0:12:52.80,0:12:53.42,Default,,0,0,0,,Help me!
+Dialogue: 0,0:12:53.74,0:12:54.00,Default,,0,0,0,,Huh?
+Dialogue: 0,0:12:54.00,0:12:54.50,Default,,0,0,0,,No!
+Dialogue: 0,0:12:54.52,0:12:55.30,Default,,0,0,0,,It's not mine!
+Dialogue: 0,0:12:55.32,0:12:57.02,Default,,0,0,0,,I don't know this place!
+Dialogue: 0,0:12:57.06,0:12:58.10,Default,,0,0,0,,Get out!
+Dialogue: 0,0:12:58.20,0:12:59.20,Default,,0,0,0,,Bad!
+Dialogue: 0,0:12:59.93,0:13:01.06,Default,,0,0,0,,It ran away!
+Dialogue: 0,0:13:01.77,0:13:02.44,Default,,0,0,0,,Really?
+Dialogue: 0,0:13:03.20,0:13:05.14,Default,,0,0,0,,What is this thing?! It looks like a fly-sized dinosaur!
+Dialogue: 0,0:13:07.72,0:13:08.50,Default,,0,0,0,,Uwaa!
+Dialogue: 0,0:13:08.56,0:13:09.10,Default,,0,0,0,,It's angry!
+Dialogue: 0,0:13:09.27,0:13:10.56,Default,,0,0,0,,I'm sorry!
+Dialogue: 0,0:13:11.00,0:13:11.30,Default,,0,0,0,,Wah!
+Dialogue: 0,0:13:11.56,0:13:13.36,Default,,0,0,0,,I get it, I get it, I get it!
+Dialogue: 0,0:13:13.50,0:13:15.62,Default,,0,0,0,,I'll leave this island too!
+Dialogue: 0,0:13:23.64,0:13:24.64,Default,,0,0,0,,I just have to leave, right?
+Dialogue: 0,0:13:25.02,0:13:25.24,Default,,0,0,0,,Huh?
+Dialogue: 0,0:13:25.33,0:13:26.12,Default,,0,0,0,,I wonder what that is?
+Dialogue: 0,0:13:26.14,0:13:27.78,Default,,0,0,0,,Turn into this and get out!
+Dialogue: 0,0:13:28.27,0:13:30.64,Default,,0,0,0,,You dirty little tornado!
+Dialogue: 0,0:13:31.10,0:13:31.54,Default,,0,0,0,,Heh!
+Dialogue: 0,0:13:31.66,0:13:33.04,Default,,0,0,0,,I'm saved!
+Dialogue: 0,0:13:33.74,0:13:34.52,Default,,0,0,0,,Uwaa!
+Dialogue: 0,0:13:34.58,0:13:36.08,Default,,0,0,0,,I'm getting dizzy!
+Dialogue: 0,0:13:43.25,0:13:45.10,Default,,0,0,0,,Someone is over there!
+Dialogue: 0,0:13:48.70,0:13:49.72,Default,,0,0,0,,It looks like Tink was here!
+Dialogue: 0,0:13:50.29,0:13:51.29,Default,,0,0,0,,Tink!
+Dialogue: 0,0:13:51.52,0:13:52.68,Default,,0,0,0,,Tink!
+Dialogue: 0,0:13:55.52,0:13:56.86,Default,,0,0,0,,There are Tink's footprints!
+Dialogue: 0,0:13:59.27,0:14:00.64,Default,,0,0,0,,Tink!
+Dialogue: 0,0:14:01.26,0:14:03.34,Default,,0,0,0,,Tink!
+Dialogue: 0,0:14:04.47,0:14:05.78,Default,,0,0,0,,Where are you?
+Dialogue: 0,0:14:10.80,0:14:12.20,Default,,0,0,0,,They disappear here!
+Dialogue: 0,0:14:12.50,0:14:13.50,Default,,0,0,0,,I wonder what happened?
+Dialogue: 0,0:14:24.79,0:14:25.86,Default,,0,0,0,,Ah, huh?
+Dialogue: 0,0:14:27.11,0:14:31.88,Default,,0,0,0,,Ah, um, this place is... ah!
 Dialogue: 0,0:14:33.78,0:14:37.41,Default,,0,0,0,,- Giants?!\N- Don't be afraid, little elf!
-Dialogue: 0,0:14:37.46,0:14:39.42,Default,,0,0,0,,I will protect you.
-Dialogue: 0,0:14:39.62,0:14:42.01,Default,,0,0,0,,Perhaps, from the island\Nof dwarfs, that whirlwind...
-Dialogue: 0,0:14:42.06,0:14:45.26,Default,,0,0,0,,...has brought us to the island\Nof giants. You will stay in a shell.
-Dialogue: 0,0:14:45.30,0:14:47.29,Default,,0,0,0,,I don't want to stay here!
-Dialogue: 0,0:14:47.34,0:14:50.81,Default,,0,0,0,,- Everything is so huge!\N- Let me out, I said!
-Dialogue: 0,0:14:50.86,0:14:53.82,Default,,0,0,0,,Please, stay quiet or\Nthe giants will hear you!
-Dialogue: 0,0:14:55.02,0:14:57.62,Default,,0,0,0,,Oh, goodness! What could it be?
-Dialogue: 0,0:15:05.30,0:15:07.82,Default,,0,0,0,,Please, Mrs. Frog, don't eat me!
-Dialogue: 0,0:15:13.02,0:15:15.98,Default,,0,0,0,,Help! It's chasing me! Help!
-Dialogue: 0,0:15:26.26,0:15:28.82,Default,,0,0,0,,I am indigestible, Mrs. Frog!
-Dialogue: 0,0:15:29.10,0:15:31.38,Default,,0,0,0,,Where can I hide? Oh, there!
-Dialogue: 0,0:15:38.30,0:15:40.82,Default,,0,0,0,,No, don't shake too much, please!
-Dialogue: 0,0:15:41.02,0:15:42.85,Default,,0,0,0,,There are so many of them!
-Dialogue: 0,0:15:53.26,0:15:56.22,Default,,0,0,0,,- I want to get out!\N- Quiet, or the giant will hear you!
-Dialogue: 0,0:15:56.82,0:15:58.81,Default,,0,0,0,,We must leave immediately!
-Dialogue: 0,0:16:14.70,0:16:16.42,Default,,0,0,0,,More frogs?!
-Dialogue: 0,0:16:16.50,0:16:19.57,Default,,0,0,0,,Welcome, little boy!
-Dialogue: 0,0:16:22.86,0:16:25.01,Default,,0,0,0,,And yet, they don't seem bad.
-Dialogue: 0,0:16:27.38,0:16:29.82,Default,,0,0,0,,I am the chief\Nand I welcome you!
-Dialogue: 0,0:16:29.86,0:16:32.50,Default,,0,0,0,,- No, I am the chief!\N- Don't listen to him! I'm in charge!
-Dialogue: 0,0:16:33.90,0:16:36.37,Default,,0,0,0,,I gather that you want\Nsomething from me.
-Dialogue: 0,0:16:36.74,0:16:39.02,Default,,0,0,0,,Yes! Please! Help us!
-Dialogue: 0,0:16:39.06,0:16:42.29,Default,,0,0,0,,How can I help you if I don't\Nknow the danger that threatens you?
-Dialogue: 0,0:16:45.54,0:16:48.10,Default,,0,0,0,,That man wants to eat us!
-Dialogue: 0,0:16:53.74,0:16:55.73,Default,,0,0,0,,Blast it!
-Dialogue: 0,0:16:57.54,0:17:00.50,Default,,0,0,0,,Good heavens! These\Nfrogs are poisonous!
-Dialogue: 0,0:17:01.02,0:17:04.09,Default,,0,0,0,,I see Tink's footprints.\NHe must be on this island!
-Dialogue: 0,0:17:04.42,0:17:07.89,Default,,0,0,0,,Tink! It's me! It's Sapphire!
-Dialogue: 0,0:17:07.94,0:17:10.90,Default,,0,0,0,,Sapphire! The\Ngiant has taken her!
-Dialogue: 0,0:17:11.30,0:17:14.21,Default,,0,0,0,,Let's see... Where is she?
-Dialogue: 0,0:17:17.82,0:17:19.70,Default,,0,0,0,,Now I can escape!
-Dialogue: 0,0:17:21.02,0:17:24.54,Default,,0,0,0,,He's so huge! I will never manage\Nto defeat him by normal means!
-Dialogue: 0,0:17:32.06,0:17:33.73,Default,,0,0,0,,Oh, there he is!
-Dialogue: 0,0:17:45.70,0:17:47.66,Default,,0,0,0,,I can't go any further!
-Dialogue: 0,0:18:02.78,0:18:05.53,Default,,0,0,0,,Sapphire, get out of there\Nor the giant will kill you!
-Dialogue: 0,0:18:11.74,0:18:14.54,Default,,0,0,0,,Damn! He's going to\Nmake the mountain collapse!
-Dialogue: 0,0:18:15.10,0:18:18.89,Default,,0,0,0,,Here is what I'll do! I must\Ngo to the frogs I met earlier.
-Dialogue: 0,0:18:18.94,0:18:20.93,Default,,0,0,0,,Only they can help us!
-Dialogue: 0,0:18:22.26,0:18:24.06,Default,,0,0,0,,May I ask a question?
-Dialogue: 0,0:18:24.10,0:18:26.85,Default,,0,0,0,,I will help you against the giant if\Nyou tell me where you got the poison!
-Dialogue: 0,0:18:27.02,0:18:29.62,Default,,0,0,0,,We get it from\Nthe root of a plant!
-Dialogue: 0,0:18:29.66,0:18:31.89,Default,,0,0,0,,Do you have any more of those roots?
-Dialogue: 0,0:18:32.14,0:18:34.34,Default,,0,0,0,,- Yes, of course!\N- Absolutely!
-Dialogue: 0,0:18:34.90,0:18:36.78,Default,,0,0,0,,Now listen to me carefully!
-Dialogue: 0,0:18:36.82,0:18:40.02,Default,,0,0,0,,You will put some poison in\Nyour mouth and spit it at the giant!
-Dialogue: 0,0:18:40.06,0:18:42.94,Default,,0,0,0,,- In our mouths?\N- Of course! You will spit it at him!
-Dialogue: 0,0:18:43.14,0:18:45.29,Default,,0,0,0,,Alright, we understand!
-Dialogue: 0,0:18:49.26,0:18:51.49,Default,,0,0,0,,He managed\Nto widen the crack!
-Dialogue: 0,0:19:05.34,0:19:08.70,Default,,0,0,0,,I don't want to die in a place\Nlike this! I must do something!
-Dialogue: 0,0:19:08.86,0:19:11.30,Default,,0,0,0,,Green and sparkling,\Nwe are the frogs!
-Dialogue: 0,0:19:11.34,0:19:13.90,Default,,0,0,0,,Here we are, leaping,\Nall together we arrive!
-Dialogue: 0,0:19:16.78,0:19:19.66,Default,,0,0,0,,Stop now!\NWe're almost there!
-Dialogue: 0,0:19:27.42,0:19:29.70,Default,,0,0,0,,I will at least try\Nto cut off his finger!
-Dialogue: 0,0:19:44.70,0:19:46.85,Default,,0,0,0,,Are you ready to spit the poison?
-Dialogue: 0,0:19:49.54,0:19:51.37,Default,,0,0,0,,Spit!
+Dialogue: 0,0:14:37.44,0:14:42.90,Default,,0,0,0,,By the way, that last place was apparently the Island of Tradition, but this time it's the Island of Giants!
+Dialogue: 0,0:14:43.32,0:14:44.52,Default,,0,0,0,,Stay quiet!
+Dialogue: 0,0:14:44.90,0:14:46.50,Default,,0,0,0,,You never know what might come out!
+Dialogue: 0,0:14:47.98,0:14:48.98,Default,,0,0,0,,Whoa!
+Dialogue: 0,0:14:49.06,0:14:51.50,Default,,0,0,0,,Everything and anything is as huge as a mountain!
+Dialogue: 0,0:14:51.68,0:14:52.68,Default,,0,0,0,,It’s incredible!
+Dialogue: 0,0:14:55.04,0:14:55.88,Default,,0,0,0,,What should I do!
+Dialogue: 0,0:14:56.04,0:14:57.64,Default,,0,0,0,,I’ve landed on one heck of an island!
+Dialogue: 0,0:15:01.15,0:15:02.15,Default,,0,0,0,,ribbit!
+Dialogue: 0,0:15:02.90,0:15:04.72,Default,,0,0,0,,ribbit ribbit ribbit ribbit!
+Dialogue: 0,0:15:04.88,0:15:05.40,Default,,0,0,0,,Whoa!
+Dialogue: 0,0:15:05.54,0:15:07.96,Default,,0,0,0,,Don’t eat me! Leave me alone!
+Dialogue: 0,0:15:08.22,0:15:09.22,Default,,0,0,0,,ribbit!
+Dialogue: 0,0:15:09.90,0:15:10.90,Default,,0,0,0,,ribbit!
+Dialogue: 0,0:15:11.46,0:15:12.46,Default,,0,0,0,,Whoa!
+Dialogue: 0,0:15:12.50,0:15:14.46,Default,,0,0,0,,Don’t eat me!
+Dialogue: 0,0:15:15.20,0:15:16.34,Default,,0,0,0,,ribbit ribbit ribbit!
+Dialogue: 0,0:15:26.35,0:15:28.46,Default,,0,0,0,,Help!
+Dialogue: 0,0:15:35.55,0:15:36.20,Default,,0,0,0,,ribbit!
+Dialogue: 0,0:15:36.85,0:15:37.49,Default,,0,0,0,,ribbit!
+Dialogue: 0,0:15:38.48,0:15:40.16,Default,,0,0,0,,Go away!
+Dialogue: 0,0:15:54.74,0:15:55.76,Default,,0,0,0,,Don't shake like that!
+Dialogue: 0,0:15:55.95,0:15:57.10,Default,,0,0,0,,I said don't sha....
+Dialogue: 0,0:16:00.01,0:16:01.14,Default,,0,0,0,,A giant man!
+Dialogue: 0,0:16:09.57,0:16:11.16,Default,,0,0,0,,Ouch!
+Dialogue: 0,0:16:15.10,0:16:16.10,Default,,0,0,0,,Ah! Giant frogs!
+Dialogue: 0,0:16:16.60,0:16:17.78,Default,,0,0,0,,Hello!
+Dialogue: 0,0:16:17.90,0:16:19.18,Default,,0,0,0,,ribbit ribbit!
+Dialogue: 0,0:16:21.86,0:16:22.86,Default,,0,0,0,,Huh?
+Dialogue: 0,0:16:22.99,0:16:24.36,Default,,0,0,0,,The frog called out to me?
+Dialogue: 0,0:16:27.77,0:16:29.02,Default,,0,0,0,,Please.
+Dialogue: 0,0:16:29.12,0:16:31.70,Default,,0,0,0,,We... please help us.
+Dialogue: 0,0:16:32.38,0:16:33.38,Default,,0,0,0,,Huh?
+Dialogue: 0,0:16:33.82,0:16:35.72,Default,,0,0,0,,What do you mean, "help me"?
+Dialogue: 0,0:16:37.10,0:16:38.98,Default,,0,0,0,,Ribbit ribbit ribbit!
+Dialogue: 0,0:16:38.98,0:16:39.42,Default,,0,0,0,,Huh?
+Dialogue: 0,0:16:39.84,0:16:41.82,Default,,0,0,0,,One of you is being eaten every day?
+Dialogue: 0,0:16:41.92,0:16:42.34,Default,,0,0,0,,By whom?
+Dialogue: 0,0:16:42.69,0:16:43.69,Default,,0,0,0,,Wah!
+Dialogue: 0,0:16:45.43,0:16:47.18,Default,,0,0,0,,I can't even get a word out!
+Dialogue: 0,0:16:53.96,0:16:56.78,Default,,0,0,0,,Help me!
+Dialogue: 0,0:16:58.57,0:17:00.88,Default,,0,0,0,,This frog has some paralysis medicine!
+Dialogue: 0,0:17:02.20,0:17:03.20,Default,,0,0,0,,It’s Tinku!
+Dialogue: 0,0:17:04.44,0:17:05.44,Default,,0,0,0,,Tinku!
+Dialogue: 0,0:17:05.54,0:17:06.60,Default,,0,0,0,,It’s me!
+Dialogue: 0,0:17:06.82,0:17:07.72,Default,,0,0,0,,Tinku!
+Dialogue: 0,0:17:07.72,0:17:08.72,Default,,0,0,0,,Tinku!
+Dialogue: 0,0:17:09.92,0:17:10.94,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:17:16.26,0:17:17.26,Default,,0,0,0,,Alright!
+Dialogue: 0,0:17:18.29,0:17:19.29,Default,,0,0,0,,Now!
+Dialogue: 0,0:17:21.36,0:17:24.98,Default,,0,0,0,,That’s a giant monster; we can’t defeat him by normal means!
+Dialogue: 0,0:17:45.26,0:17:45.80,Default,,0,0,0,,Oh no!
+Dialogue: 0,0:17:46.24,0:17:47.24,Default,,0,0,0,,It’s a dead end!
+Dialogue: 0,0:18:02.60,0:18:03.60,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:18:03.73,0:18:05.38,Default,,0,0,0,,You’ll be killed if you stay there!
+Dialogue: 0,0:18:14.69,0:18:16.00,Default,,0,0,0,,Alright!
+Dialogue: 0,0:18:16.30,0:18:20.51,Default,,0,0,0,,Those kaeru-kun... Kaeru-kun!
+Dialogue: 0,0:18:22.55,0:18:26.42,Default,,0,0,0,,You guys, where did you get that paralysis medicine?
+Dialogue: 0,0:18:27.18,0:18:29.47,Default,,0,0,0,,From the root of the paralysis plant, ribbit!
+Dialogue: 0,0:18:29.97,0:18:31.00,Default,,0,0,0,,Is there any left?
+Dialogue: 0,0:18:32.22,0:18:34.61,Default,,0,0,0,,Ribbit ribbit, ribbit!
+Dialogue: 0,0:18:35.02,0:18:36.02,Default,,0,0,0,,Alright!
+Dialogue: 0,0:18:36.09,0:18:40.36,Default,,0,0,0,,Put all of it in your mouths, and spit it at that giant all at once!
+Dialogue: 0,0:18:40.58,0:18:41.18,Default,,0,0,0,,Where to, ribbit?
+Dialogue: 0,0:18:41.46,0:18:43.28,Default,,0,0,0,,At his feet! The giant's feet!
+Dialogue: 0,0:18:43.60,0:18:45.10,Default,,0,0,0,,Ribbit ribbit ribbit!
+Dialogue: 0,0:18:50.26,0:18:51.26,Default,,0,0,0,,It's no use!
+Dialogue: 0,0:18:56.24,0:18:57.24,Default,,0,0,0,,I can't die here!
+Dialogue: 0,0:19:06.50,0:19:09.16,Default,,0,0,0,,I'll cut off at least one of your fingers!
+Dialogue: 0,0:19:17.31,0:19:19.58,Default,,0,0,0,,Everyone, stop!
+Dialogue: 0,0:19:23.02,0:19:24.02,Default,,0,0,0,,Ribbit ribbit!
+Dialogue: 0,0:19:44.17,0:19:44.78,Default,,0,0,0,,Are you ready?
+Dialogue: 0,0:19:44.98,0:19:49.78,Default,,0,0,0,,Take the paralysis medicine in your mouth... 3, 2, 1, zero!
+Dialogue: 0,0:19:50.04,0:19:51.04,Default,,0,0,0,,Fire!
 Dialogue: 0,0:19:54.34,0:19:56.25,Default,,0,0,0,,He's hit!
-Dialogue: 0,0:20:04.02,0:20:06.25,Default,,0,0,0,,Why is the giant\Nleaving?
-Dialogue: 0,0:20:06.46,0:20:08.58,Default,,0,0,0,,What do I see! That's Tink!
-Dialogue: 0,0:20:09.54,0:20:11.53,Default,,0,0,0,,- Sapphire!\N- Tink!
-Dialogue: 0,0:20:11.58,0:20:13.49,Default,,0,0,0,,I am so glad\Nthat you are safe!
-Dialogue: 0,0:20:13.54,0:20:16.45,Default,,0,0,0,,Thank the frogs! They were the\Nones who chased the giant away!
-Dialogue: 0,0:20:17.02,0:20:20.30,Default,,0,0,0,,You know, by now I had lost\Nall hope of finding you alive.
-Dialogue: 0,0:20:22.42,0:20:24.38,Default,,0,0,0,,I'm deeply moved!
-Dialogue: 0,0:20:25.82,0:20:30.61,Default,,0,0,0,,Look! The giant is washing himself,\Nso he can wash off the poison!
-Dialogue: 0,0:20:39.18,0:20:42.25,Default,,0,0,0,,I think he intends to\Nclimb all the way up here.
-Dialogue: 0,0:20:43.02,0:20:46.62,Default,,0,0,0,,I will cut the ivy, to stop\Nhim from climbing up!
-Dialogue: 0,0:20:52.26,0:20:55.49,Default,,0,0,0,,- Let me out! It's important!\N- We are still in danger!
-Dialogue: 0,0:20:55.54,0:20:57.85,Default,,0,0,0,,We could escape quickly\Nand you're fine where you are!
-Dialogue: 0,0:20:59.62,0:21:02.14,Default,,0,0,0,,I'm missing one, Sapphire! Only one!
-Dialogue: 0,0:21:04.02,0:21:07.01,Default,,0,0,0,,I have to get out!\NI made it, finally!
-Dialogue: 0,0:21:07.06,0:21:09.02,Default,,0,0,0,,This is my island\Nand that is my father!
-Dialogue: 0,0:21:09.06,0:21:12.26,Default,,0,0,0,,Really? Then how do you explain\Nthat he has a horn and you don't?
-Dialogue: 0,0:21:12.90,0:21:15.86,Default,,0,0,0,,He has it because we grow a horn\Nwhen we get angry!
-Dialogue: 0,0:21:16.42,0:21:18.54,Default,,0,0,0,,You grew one too!\NThen you are his son!
-Dialogue: 0,0:21:18.58,0:21:20.94,Default,,0,0,0,,Please, don't hurt him!
-Dialogue: 0,0:21:20.98,0:21:23.89,Default,,0,0,0,,What are you doing? Stop!\NThat giant is my father!
-Dialogue: 0,0:21:23.94,0:21:25.90,Default,,0,0,0,,What?! Really?!
-Dialogue: 0,0:21:26.02,0:21:30.14,Default,,0,0,0,,Dad! Dad! It's me!\NI'm your son!
-Dialogue: 0,0:21:30.18,0:21:32.38,Default,,0,0,0,,Little Elf! Is it really you?
-Dialogue: 0,0:21:32.42,0:21:36.54,Default,,0,0,0,,- Yes, it's me!\N- My dear son!
-Dialogue: 0,0:21:39.34,0:21:42.01,Default,,0,0,0,,I'll catch you! There!
-Dialogue: 0,0:21:42.86,0:21:47.25,Default,,0,0,0,,- My little elf!\N- Dear dad, I missed you so much!
-Dialogue: 0,0:21:47.54,0:21:49.90,Default,,0,0,0,,I couldn't wait to see you again!
-Dialogue: 0,0:21:55.02,0:21:57.49,Default,,0,0,0,,The last section is breaking!
-Dialogue: 0,0:21:59.50,0:22:01.30,Default,,0,0,0,,It's falling!
-Dialogue: 0,0:22:13.86,0:22:16.01,Default,,0,0,0,,I'm happy to see you again
-Dialogue: 0,0:22:16.22,0:22:19.10,Default,,0,0,0,,Me too, dad!\NThese two guys are my friends!
-Dialogue: 0,0:22:19.14,0:22:21.74,Default,,0,0,0,,They are so kind!\NThey brought me back here to you!
-Dialogue: 0,0:22:21.78,0:22:25.14,Default,,0,0,0,,I am so grateful to you! I was so worried\Nand anxious about my little one!
-Dialogue: 0,0:22:25.18,0:22:27.70,Default,,0,0,0,,So he is the genie\Nof the magic lamp!
-Dialogue: 0,0:22:28.02,0:22:31.62,Default,,0,0,0,,Promise me you will never go\Nto the beach to play alone again!
-Dialogue: 0,0:22:33.30,0:22:35.90,Default,,0,0,0,,I promise, Dad:\NI won't ever leave you again!
-Dialogue: 0,0:22:35.94,0:22:40.01,Default,,0,0,0,,I'm sorry you were so worried\Nabout me all this time!
-Dialogue: 0,0:22:45.46,0:22:48.50,Default,,0,0,0,,Out of gratitude,\NI will grant your wishes.
-Dialogue: 0,0:22:48.74,0:22:51.30,Default,,0,0,0,,Thank you,\Nthere is no need to trouble yourself
-Dialogue: 0,0:22:51.34,0:22:54.14,Default,,0,0,0,,- I'm sorry about the misunderstanding.\N- I am too!
-Dialogue: 0,0:22:54.18,0:22:56.65,Default,,0,0,0,,But I'd like to return\Nyour kindness.
-Dialogue: 0,0:22:56.90,0:23:00.81,Default,,0,0,0,,Then could you make it so\Nthat Sapphire can be happy?
-Dialogue: 0,0:23:00.86,0:23:03.58,Default,,0,0,0,,I prefer to earn it\Non my own, happiness.
-Dialogue: 0,0:23:03.62,0:23:06.26,Default,,0,0,0,,Dad could free you\Nfrom all your enemies.
-Dialogue: 0,0:23:06.30,0:23:08.90,Default,,0,0,0,,I will manage to get rid of them\Nwith my own strength.
-Dialogue: 0,0:23:08.94,0:23:11.69,Default,,0,0,0,,Dad told me that a certain\NNylon chased you all the way here.
-Dialogue: 0,0:23:11.74,0:23:13.49,Default,,0,0,0,,He must have wanted to set a trap for me!
-Dialogue: 0,0:23:15.10,0:23:17.09,Default,,0,0,0,,Indeed, he certainly looked like it!
-Dialogue: 0,0:23:17.14,0:23:19.34,Default,,0,0,0,,But don't worry!\NSince he seemed bad,
-Dialogue: 0,0:23:19.38,0:23:21.66,Default,,0,0,0,,I transformed him with\Nmagic into a seagull!
-Dialogue: 0,0:23:22.26,0:23:24.01,Default,,0,0,0,,Into a seagull?!
-Dialogue: 0,0:23:34.58,0:23:36.57,Default,,0,0,0,,Have a safe trip, guys!
-Dialogue: 0,0:23:36.62,0:23:40.77,Default,,0,0,0,,- Goodbye, Genie!\N- Restore Nylon to his true form!
-Dialogue: 0,0:23:42.30,0:23:46.53,Default,,0,0,0,,I really think this has\Nbeen a good lesson for him!
+Dialogue: 0,0:20:04.64,0:20:06.86,Default,,0,0,0,,It's running away, but I wonder what happened?
+Dialogue: 0,0:20:07.88,0:20:09.04,Default,,0,0,0,,Tink!
+Dialogue: 0,0:20:09.48,0:20:10.48,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:20:10.70,0:20:11.50,Default,,0,0,0,,Tink!
+Dialogue: 0,0:20:11.66,0:20:12.66,Default,,0,0,0,,Was that too much for you?
+Dialogue: 0,0:20:12.84,0:20:14.42,Default,,0,0,0,,That's a relief!
+Dialogue: 0,0:20:14.42,0:20:17.98,Default,,0,0,0,,Say thank you to the frogs, they drove the giant man away!
+Dialogue: 0,0:20:18.04,0:20:19.04,Default,,0,0,0,,Frogs?
+Dialogue: 0,0:20:19.10,0:20:20.10,Default,,0,0,0,,Frogs dealt with a giant man?
+Dialogue: 0,0:20:30.85,0:20:33.05,Default,,0,0,0,,Tink, lure the giant man over here!
+Dialogue: 0,0:20:35.05,0:20:37.35,Default,,0,0,0,,Chomp!
+Dialogue: 0,0:20:39.62,0:20:42.58,Default,,0,0,0,,Alright, he's climbed up!
+Dialogue: 0,0:20:44.18,0:20:44.72,Default,,0,0,0,,Take him down!
+Dialogue: 0,0:20:45.18,0:20:46.18,Default,,0,0,0,,Got it!
+Dialogue: 0,0:20:53.40,0:20:54.76,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:20:55.04,0:20:57.66,Default,,0,0,0,,If we don't defeat the giant man this time, it's all over!
+Dialogue: 0,0:21:02.24,0:21:03.24,Default,,0,0,0,,One more left!
+Dialogue: 0,0:21:03.51,0:21:04.66,Default,,0,0,0,,It's just one more!
+Dialogue: 0,0:21:06.53,0:21:07.20,Default,,0,0,0,,Over here!
+Dialogue: 0,0:21:07.44,0:21:07.82,Default,,0,0,0,,Over here!
+Dialogue: 0,0:21:07.82,0:21:08.88,Default,,0,0,0,,No!
+Dialogue: 0,0:21:09.18,0:21:12.42,Default,,0,0,0,,I told you no, things are crazy right now, you shouldn't come out!
+Dialogue: 0,0:21:12.58,0:21:14.22,Default,,0,0,0,,This is my island!
+Dialogue: 0,0:21:14.48,0:21:15.70,Default,,0,0,0,,That's my dad!
+Dialogue: 0,0:21:17.17,0:21:18.30,Default,,0,0,0,,Horns are growing!
+Dialogue: 0,0:21:18.81,0:21:20.38,Default,,0,0,0,,When I get angry, my horn comes out!
+Dialogue: 0,0:21:20.54,0:21:21.66,Default,,0,0,0,,Just like Papa!
+Dialogue: 0,0:21:21.80,0:21:22.24,Default,,0,0,0,,No!
+Dialogue: 0,0:21:22.70,0:21:24.18,Default,,0,0,0,,Don't kill Papa!
+Dialogue: 0,0:21:24.71,0:21:25.09,Default,,0,0,0,,You're...
+Dialogue: 0,0:21:25.93,0:21:26.98,Default,,0,0,0,,Papa!
+Dialogue: 0,0:21:27.34,0:21:28.34,Default,,0,0,0,,It's me!
+Dialogue: 0,0:21:28.46,0:21:29.66,Default,,0,0,0,,It's Bakun!
+Dialogue: 0,0:21:30.42,0:21:31.77,Default,,0,0,0,,Bakun?
+Dialogue: 0,0:21:32.18,0:21:33.59,Default,,0,0,0,,Papa!
+Dialogue: 0,0:21:35.28,0:21:36.28,Default,,0,0,0,,Bakun!
+Dialogue: 0,0:21:40.16,0:21:41.30,Default,,0,0,0,,Oh no!
+Dialogue: 0,0:21:43.94,0:21:45.38,Default,,0,0,0,,Papa!
+Dialogue: 0,0:21:45.62,0:21:47.72,Default,,0,0,0,,Papa, I missed you!
+Dialogue: 0,0:21:48.30,0:21:48.86,Default,,0,0,0,,Papa!
+Dialogue: 0,0:21:48.86,0:21:49.96,Default,,0,0,0,,Bakun!
+Dialogue: 0,0:21:55.10,0:21:56.94,Default,,0,0,0,,That child and the man...
+Dialogue: 0,0:21:59.92,0:22:00.92,Default,,0,0,0,,They're falling!
+Dialogue: 0,0:22:03.62,0:22:04.14,Default,,0,0,0,,Watch out!
+Dialogue: 0,0:22:04.56,0:22:05.56,Default,,0,0,0,,Look out!
+Dialogue: 0,0:22:13.82,0:22:15.46,Default,,0,0,0,,I'm so glad you made it back!
+Dialogue: 0,0:22:16.04,0:22:16.62,Default,,0,0,0,,Papa!
+Dialogue: 0,0:22:16.86,0:22:18.38,Default,,0,0,0,,This person is the only good one!
+Dialogue: 0,0:22:18.56,0:22:20.02,Default,,0,0,0,,He brought me home!
+Dialogue: 0,0:22:21.70,0:22:25.10,Default,,0,0,0,,Papa was so worried he couldn't even eat!
+Dialogue: 0,0:22:25.22,0:22:27.68,Default,,0,0,0,,Was this man the one responsible for that magic lamp?!
+Dialogue: 0,0:22:28.56,0:22:32.82,Default,,0,0,0,,Bakun, you must never go out to play alone again!
+Dialogue: 0,0:22:33.05,0:22:34.18,Default,,0,0,0,,I'm sorry, Papa!
+Dialogue: 0,0:22:34.30,0:22:35.50,Default,,0,0,0,,I'm not leaving anymore!
+Dialogue: 0,0:22:35.92,0:22:37.78,Default,,0,0,0,,I'm sorry for making you worry!
+Dialogue: 0,0:22:45.34,0:22:48.36,Default,,0,0,0,,As a thank you, let me grant your wish!
+Dialogue: 0,0:22:48.82,0:22:49.82,Default,,0,0,0,,It's alright now!
+Dialogue: 0,0:22:50.18,0:22:52.58,Default,,0,0,0,,Because I misunderstood too!
+Dialogue: 0,0:22:52.66,0:22:54.06,Default,,0,0,0,,We’re even!
+Dialogue: 0,0:22:54.47,0:22:56.10,Default,,0,0,0,,I want to repay your kindness!
+Dialogue: 0,0:22:56.73,0:23:00.28,Default,,0,0,0,,Well then, pray that happiness comes to Sapphire!
+Dialogue: 0,0:23:00.39,0:23:01.12,Default,,0,0,0,,It's okay!
+Dialogue: 0,0:23:01.32,0:23:02.78,Default,,0,0,0,,I will make my own happiness!
+Dialogue: 0,0:23:03.04,0:23:06.28,Default,,0,0,0,,Papa said the Your Highness is being targeted by bad people!
+Dialogue: 0,0:23:06.36,0:23:08.23,Default,,0,0,0,,Something like that won't tear us apart!
+Dialogue: 0,0:23:08.90,0:23:11.98,Default,,0,0,0,,A man named Lord Nylon even chased us to this island!
+Dialogue: 0,0:23:11.98,0:23:12.98,Default,,0,0,0,,Lord Nylon?
+Dialogue: 0,0:23:13.70,0:23:19.04,Default,,0,0,0,,Well, he was a suspicious guy, so I used magic to turn him into a stupid duck!
+Dialogue: 0,0:23:19.67,0:23:20.67,Default,,0,0,0,,A magic duck?
+Dialogue: 0,0:23:34.54,0:23:36.12,Default,,0,0,0,,Have a safe trip, guys!
+Dialogue: 0,0:23:36.57,0:23:38.32,Default,,0,0,0,,Genie!
+Dialogue: 0,0:23:38.48,0:23:41.89,Default,,0,0,0,,Make sure to change Lord Nylon back from that stupid duck later!
+Dialogue: 0,0:23:42.54,0:23:46.28,Default,,0,0,0,,This should have taught Lord Nylon a bit of a lesson...
 Dialogue: 0,0:24:16.22,0:24:19.84,Karaoke,,0,0,0,,{\k29}{\k22}Ta{\k18}ra{\k16}ri {\k18}Ra{\k20}tta {\k23}Ri{\k19}tta {\k26}Ra{\k17}tta {\k19}Ra{\k66}tta{\k69}ttaa
 Dialogue: 0,0:24:19.84,0:24:23.20,Karaoke,,0,0,0,,{\k8}{\k46}Kya{\k68}hoo! {\k35}Kya{\k42}hoo! {\k46}Kya{\k91}hoo!
 Dialogue: 0,0:24:19.84,0:24:23.20,OPED_Translation,,0,0,0,,Yahoo! Yahoo! Yahoo!

@@ -14,7 +14,8 @@ Audio File: 17 the greedy ghost.mkv
 Video File: 17 the greedy ghost.mkv
 Video AR Mode: 4
 Video AR Value: 1.314554
-Active Line: 18
+Scroll Position: 359
+Active Line: 367
 Video Position: 950
 
 [V4+ Styles]
@@ -48,302 +49,350 @@ Dialogue: 0,0:01:25.22,0:01:28.62,Karaoke,,0,0,0,,{\k6}{\k50}Hon{\k43}to {\k33}w
 Dialogue: 0,0:01:25.22,0:01:28.62,OPED_Translation,,0,0,0,,Truly, truly,
 Dialogue: 0,0:01:28.62,0:01:31.82,Karaoke,,0,0,0,,{\k18}{\k23}A{\k23}ta{\k27}shi {\k35}na{\k35}no {\k159}sa{\k0}
 Dialogue: 0,0:01:28.62,0:01:31.82,OPED_Translation,,0,0,0,,It’s really me!
-Dialogue: 0,0:01:44.10,0:01:50.14,Default,,0,0,0,,Seventeenth Episode\NThe Greedy Ghost
-Dialogue: 0,0:02:00.30,0:02:03.58,Default,,0,0,0,,This is a truly\Nterrible story.
-Dialogue: 0,0:02:04.02,0:02:06.38,Default,,0,0,0,,The deceased owner\Nof the house...
-Dialogue: 0,0:02:06.42,0:02:08.78,Default,,0,0,0,,...was very miserly,\Ndespite being rich,
-Dialogue: 0,0:02:08.82,0:02:11.21,Default,,0,0,0,,and treated the poor terribly.
-Dialogue: 0,0:02:11.26,0:02:15.30,Default,,0,0,0,,And is it true what they say: that now\Nthere is a ghost living in the house?
-Dialogue: 0,0:02:15.34,0:02:19.33,Default,,0,0,0,,That's right! It seems that it is\Nthe owner herself...
-Dialogue: 0,0:02:19.38,0:02:22.77,Default,,0,0,0,,...who continues to haunt\Nthe house as a ghost.
-Dialogue: 0,0:02:22.82,0:02:26.02,Default,,0,0,0,,- And do you believe it?\N- Many people believe it.
-Dialogue: 0,0:02:26.06,0:02:29.13,Default,,0,0,0,,What?! Where do you want to go, Your Highness?\NIt's already dark outside!
-Dialogue: 0,0:02:34.82,0:02:37.46,Default,,0,0,0,,Besides, today's lesson\Nis not over yet!
-Dialogue: 0,0:02:37.50,0:02:40.81,Default,,0,0,0,,That means you will do it.\NMake sure you study hard!
-Dialogue: 0,0:02:40.86,0:02:43.69,Default,,0,0,0,,Don't worry..\NHey, but I am the teacher!
-Dialogue: 0,0:02:43.74,0:02:46.18,Default,,0,0,0,,Then teach yourself! Goodbye!
-Dialogue: 0,0:02:46.22,0:02:48.82,Default,,0,0,0,,- Are you leaving? - I'm going to play\Nin the ghost's house.
-Dialogue: 0,0:02:48.86,0:02:51.30,Default,,0,0,0,,No! I forbid you\Nto leave the castle!
-Dialogue: 0,0:02:51.34,0:02:54.17,Default,,0,0,0,,Wait, Prince!\NDon't go away!
-Dialogue: 0,0:03:02.82,0:03:06.26,Default,,0,0,0,,Stop him! Stop\NPrince Sapphire, quick!
-Dialogue: 0,0:03:06.30,0:03:08.66,Default,,0,0,0,,He went to the ghost's house!
-Dialogue: 0,0:03:10.70,0:03:12.61,Default,,0,0,0,,Did you hear, Baron?
-Dialogue: 0,0:03:12.66,0:03:15.02,Default,,0,0,0,,It's the ghost's house\Nthat everyone is talking about.
-Dialogue: 0,0:03:15.06,0:03:17.42,Default,,0,0,0,,That's the one!\NFollow him immediately
-Dialogue: 0,0:03:17.46,0:03:21.74,Default,,0,0,0,,Yes, sir! Do I have to go\Ninto that house too?
-Dialogue: 0,0:03:22.22,0:03:24.89,Default,,0,0,0,,Why not? You often asked\Nto borrow money...
-Dialogue: 0,0:03:24.94,0:03:27.01,Default,,0,0,0,,...from the owner,\Nbefore she died,
-Dialogue: 0,0:03:27.06,0:03:29.50,Default,,0,0,0,,so you are a client\Nof the ghost, let's say! Go!
-Dialogue: 0,0:03:58.38,0:04:01.34,Default,,0,0,0,,Damn, so much fog!\NI can barely see anything anymore.
-Dialogue: 0,0:04:01.38,0:04:03.21,Default,,0,0,0,,I have to go slower
-Dialogue: 0,0:04:29.02,0:04:31.01,Default,,0,0,0,,It went out!
-Dialogue: 0,0:04:32.94,0:04:35.01,Default,,0,0,0,,What's wrong with you? Are you scared?
-Dialogue: 0,0:04:35.82,0:04:37.89,Default,,0,0,0,,Come on, don't be a scaredy-cat!
-Dialogue: 0,0:04:37.94,0:04:41.82,Default,,0,0,0,,Look at me: I am not afraid\Nat all, even if I am a girl! See?
-Dialogue: 0,0:04:47.74,0:04:50.21,Default,,0,0,0,,Did you get angry?\NGood! Keep going!
-Dialogue: 0,0:05:05.78,0:05:07.61,Default,,0,0,0,,Go back home, Opal.
-Dialogue: 0,0:05:07.90,0:05:11.86,Default,,0,0,0,,I will spend a night here. Do\Nyou think the ghost will hurt me?
-Dialogue: 0,0:05:13.50,0:05:16.65,Default,,0,0,0,,Tomorrow morning you will\Ncome pick me up. Don't worry.
-Dialogue: 0,0:05:18.42,0:05:21.02,Default,,0,0,0,,Rest easy,\NI don't need your help.
-Dialogue: 0,0:05:21.06,0:05:23.29,Default,,0,0,0,,Don't worry!\NGo home, now.
-Dialogue: 0,0:05:23.50,0:05:26.25,Default,,0,0,0,,Bye, see you tomorrow!\NBye, Opal!
-Dialogue: 0,0:05:39.90,0:05:43.10,Default,,0,0,0,,Where are you going? Wait! Wait!
-Dialogue: 0,0:05:46.66,0:05:49.26,Default,,0,0,0,,You really are a terrible hat!
-Dialogue: 0,0:06:36.30,0:06:39.05,Default,,0,0,0,,It's impossible\Nto cross this swamp!
-Dialogue: 0,0:06:40.54,0:06:42.74,Default,,0,0,0,,Well, this way I have a good\Nexcuse to get out of here.
-Dialogue: 0,0:06:42.78,0:06:46.06,Default,,0,0,0,,I must consider myself\Nlucky. Let's head right back!
-Dialogue: 0,0:06:48.14,0:06:50.10,Default,,0,0,0,,Help! I'm drowning!
-Dialogue: 0,0:06:51.50,0:06:54.41,Default,,0,0,0,,Damn! I didn't know it was\Nso shallow.
-Dialogue: 0,0:06:56.02,0:06:58.01,Default,,0,0,0,,But that is Opal!
-Dialogue: 0,0:06:59.30,0:07:01.13,Default,,0,0,0,,Wait!
-Dialogue: 0,0:07:04.02,0:07:06.66,Default,,0,0,0,,Hey, ghost! Show\Nyourself, if you're there!
-Dialogue: 0,0:07:21.02,0:07:23.66,Default,,0,0,0,,This is truly\Na supernatural event!
-Dialogue: 0,0:07:25.42,0:07:27.70,Default,,0,0,0,,Damn, so many books!
-Dialogue: 0,0:07:44.66,0:07:46.73,Default,,0,0,0,,Oh, there's a set table!
-Dialogue: 0,0:07:47.62,0:07:50.61,Default,,0,0,0,,Now this is a surprise!\NI'll taste this!
-Dialogue: 0,0:07:51.14,0:07:53.81,Default,,0,0,0,,It's strange, it seems to\Nme that the bottle is moving!
-Dialogue: 0,0:07:58.90,0:08:00.81,Default,,0,0,0,,I don't want to drink!
-Dialogue: 0,0:08:08.10,0:08:10.01,Default,,0,0,0,,This must be a trick!
-Dialogue: 0,0:08:15.30,0:08:17.02,Default,,0,0,0,,No! No! I don't want it!
-Dialogue: 0,0:08:17.06,0:08:19.50,Default,,0,0,0,,I'm sure it's made\Nof mud and clay!
-Dialogue: 0,0:08:26.42,0:08:28.57,Default,,0,0,0,,Well, it's good anyway.
-Dialogue: 0,0:08:31.06,0:08:32.54,Default,,0,0,0,,Good!
-Dialogue: 0,0:08:36.26,0:08:39.30,Default,,0,0,0,,Thank you! This is even\Ntoo much kindness!
-Dialogue: 0,0:08:40.90,0:08:44.02,Default,,0,0,0,,Strange, though..! How come\Nthe ghost treats me so well?
-Dialogue: 0,0:08:44.06,0:08:46.89,Default,,0,0,0,,I saw your magic! Why\Ndon't you show yourself?
-Dialogue: 0,0:08:47.14,0:08:49.81,Default,,0,0,0,,It must be the portrait of the\Nowner. What a beautiful woman!
-Dialogue: 0,0:08:54.58,0:08:56.33,Default,,0,0,0,,Who's there?
-Dialogue: 0,0:09:03.02,0:09:07.01,Default,,0,0,0,,- You're quite the flatterer!\N- Are you the ghost?!
-Dialogue: 0,0:09:08.42,0:09:12.18,Default,,0,0,0,,- That's right, my handsome.\N- You are older than the portrait.
-Dialogue: 0,0:09:12.26,0:09:15.33,Default,,0,0,0,,- Yes, I was much younger there.\N- But I'm surprised.
-Dialogue: 0,0:09:15.38,0:09:18.21,Default,,0,0,0,,I thought ghosts\Nhad a horrible appearance.
-Dialogue: 0,0:09:18.26,0:09:21.14,Default,,0,0,0,,Usually that's the case\Nand it could be my case,
-Dialogue: 0,0:09:21.18,0:09:23.49,Default,,0,0,0,,but I don't feel like looking\Nlike an old witch...
-Dialogue: 0,0:09:23.54,0:09:25.29,Default,,0,0,0,,..and I take care of my appearance.
-Dialogue: 0,0:09:25.34,0:09:27.33,Default,,0,0,0,,Excuse me, but why\Nare you treating me so well?
-Dialogue: 0,0:09:27.38,0:09:29.82,Default,,0,0,0,,I heard that in life\Nyou were very stingy.
-Dialogue: 0,0:09:29.94,0:09:32.66,Default,,0,0,0,,Yes, go ahead and say it.\NWhat does it matter now, anyway?
-Dialogue: 0,0:09:32.70,0:09:35.01,Default,,0,0,0,,I was the stingiest and greediest in the world!
-Dialogue: 0,0:09:35.06,0:09:38.02,Default,,0,0,0,,And that is why\NI cannot rest in peace!
-Dialogue: 0,0:09:40.22,0:09:42.50,Default,,0,0,0,,Not even after my death!
-Dialogue: 0,0:09:42.54,0:09:45.50,Default,,0,0,0,,And what's worse,\NI cannot go to Heaven!
-Dialogue: 0,0:09:45.54,0:09:47.82,Default,,0,0,0,,Why don't you give yourself a push\Nand go up?
-Dialogue: 0,0:09:47.86,0:09:49.77,Default,,0,0,0,,You see, that's how you go to Heaven.
-Dialogue: 0,0:09:52.22,0:09:54.21,Default,,0,0,0,,You whistle, the car arrives.
-Dialogue: 0,0:09:54.26,0:09:56.65,Default,,0,0,0,,...and if you can go there,\Nit takes you on board.
-Dialogue: 0,0:09:56.70,0:09:59.14,Default,,0,0,0,,But I have never been picked up!
-Dialogue: 0,0:10:03.86,0:10:06.17,Default,,0,0,0,,Heaven is calling me.
-Dialogue: 0,0:10:07.74,0:10:10.05,Default,,0,0,0,,Then you can go up to Heaven!
-Dialogue: 0,0:10:11.02,0:10:14.01,Default,,0,0,0,,I'm afraid not.\NThe problem is not solved.
-Dialogue: 0,0:10:18.66,0:10:20.81,Default,,0,0,0,,What a strange light this is..
-Dialogue: 0,0:10:20.86,0:10:23.42,Default,,0,0,0,,Madam, I'll hold the light\Nfor you, so you can climb up!
-Dialogue: 0,0:10:23.46,0:10:26.02,Default,,0,0,0,,- There, now climb!\N- Thank you!
-Dialogue: 0,0:10:26.58,0:10:28.25,Default,,0,0,0,,It's slipping!
-Dialogue: 0,0:10:32.02,0:10:34.33,Default,,0,0,0,,Did you hurt yourself,\NPrince Sapphire?
-Dialogue: 0,0:10:34.38,0:10:37.50,Default,,0,0,0,,Don't worry about me!\NClimb as fast as you can!
-Dialogue: 0,0:10:53.90,0:10:57.02,Default,,0,0,0,,You were right, they don't\Nwant to let you reach Heaven.
-Dialogue: 0,0:10:57.06,0:10:59.18,Default,,0,0,0,,It's too much for me!\NI can't take it anymore!
-Dialogue: 0,0:10:59.22,0:11:01.66,Default,,0,0,0,,I am desperate\Nand I even want to die!
-Dialogue: 0,0:11:01.70,0:11:04.01,Default,,0,0,0,,The fact is that you cannot\Ndie twice.
-Dialogue: 0,0:11:04.06,0:11:06.58,Default,,0,0,0,,Oh, right, I had forgotten!
-Dialogue: 0,0:11:06.82,0:11:09.46,Default,,0,0,0,,I wish I could help you,\Nbut I don't know how.
-Dialogue: 0,0:11:11.10,0:11:14.33,Default,,0,0,0,,I found it! Tell me, were there many\Npeople at your funeral?
-Dialogue: 0,0:11:14.38,0:11:17.82,Default,,0,0,0,,- I didn't have a funeral.\N- That's exactly the point:
-Dialogue: 0,0:11:17.86,0:11:21.57,Default,,0,0,0,,the funeral! We will need\Na large number of people...
-Dialogue: 0,0:11:21.62,0:11:24.58,Default,,0,0,0,,...to attend! How many\Npeople were closest to you?
-Dialogue: 0,0:11:24.62,0:11:26.53,Default,,0,0,0,,Let me think.
-Dialogue: 0,0:11:29.30,0:11:32.58,Default,,0,0,0,,I had three dear friends,\Nwhom I had known for many years.
-Dialogue: 0,0:11:34.02,0:11:37.30,Default,,0,0,0,,Maybe that will be enough! I'm going to fetch them!\NTell me where they live!
-Dialogue: 0,0:11:37.34,0:11:39.33,Default,,0,0,0,,But why do you think\Nthat the funeral...
-Dialogue: 0,0:11:39.38,0:11:41.42,Default,,0,0,0,,...will allow me\Nto go to Heaven?
-Dialogue: 0,0:11:41.46,0:11:44.61,Default,,0,0,0,,Because everyone weeps for the deceased\Nduring the funeral service.
-Dialogue: 0,0:11:44.66,0:11:47.02,Default,,0,0,0,,I think that anyone\Ncan go to Heaven...
-Dialogue: 0,0:11:47.06,0:11:49.02,Default,,0,0,0,,.if people weep for him
-Dialogue: 0,0:11:49.22,0:11:51.45,Default,,0,0,0,,Yes, but I have been\Ntoo wicked!
-Dialogue: 0,0:11:51.50,0:11:54.02,Default,,0,0,0,,Oh, no! Forgive me!\NI didn't mean that.
-Dialogue: 0,0:11:56.74,0:11:58.73,Default,,0,0,0,,Here are their addresses
-Dialogue: 0,0:11:58.78,0:12:01.66,Default,,0,0,0,,Here, this one here...\NThis one here and this other one here..!
-Dialogue: 0,0:12:01.70,0:12:03.58,Default,,0,0,0,,I will ask them to come!
-Dialogue: 0,0:12:22.22,0:12:25.18,Default,,0,0,0,,Drink this cordial\Nand do not be afraid of me.
-Dialogue: 0,0:12:25.22,0:12:28.69,Default,,0,0,0,,You will remember that I lent you\Nsome money. Did you bring it?
-Dialogue: 0,0:12:29.42,0:12:32.09,Default,,0,0,0,,But... is she still talking about\Nmoney even though she's a ghost?!
-Dialogue: 0,0:12:32.14,0:12:35.29,Default,,0,0,0,,Even a ghost remembers\Nthe money she lent.
-Dialogue: 0,0:12:35.34,0:12:38.09,Default,,0,0,0,,Oh, no! If I keep going like\Nthis, I will never go to Heaven!
-Dialogue: 0,0:12:38.14,0:12:40.45,Default,,0,0,0,,Are you really sure that\Nyou can go to Heaven...
-Dialogue: 0,0:12:40.50,0:12:42.38,Default,,0,0,0,,..if someone cries for you?
-Dialogue: 0,0:12:42.62,0:12:45.50,Default,,0,0,0,,You eavesdropped, didn't\Nyou? How indiscreet you are!
-Dialogue: 0,0:12:45.54,0:12:48.10,Default,,0,0,0,,Listen, what would\Nyou say if I cried for you?
-Dialogue: 0,0:12:50.02,0:12:53.81,Default,,0,0,0,,Young man, if you are really\Nso kind, then please do it!
-Dialogue: 0,0:12:53.86,0:12:56.38,Default,,0,0,0,,I am willing to\Nclear your debts.
-Dialogue: 0,0:12:57.50,0:12:59.70,Default,,0,0,0,,First, I need another favor.
-Dialogue: 0,0:12:59.74,0:13:02.81,Default,,0,0,0,,You don't want to borrow\Nmore money from me again, I hope!
-Dialogue: 0,0:13:02.86,0:13:05.30,Default,,0,0,0,,No, ma'am.\NIt's about Sapphire.
-Dialogue: 0,0:13:05.34,0:13:07.41,Default,,0,0,0,,What does\NPrince Sapphire have to do with it?
-Dialogue: 0,0:13:07.46,0:13:10.69,Default,,0,0,0,,I would like you to find proof\Nthat the Prince is a girl.
-Dialogue: 0,0:13:18.02,0:13:20.77,Default,,0,0,0,,So, let's see...\NThis is the first one.
-Dialogue: 0,0:13:21.38,0:13:26.09,Default,,0,0,0,,Hey, you! Did you borrow\Nsome money from Mrs. Shannerock?
-Dialogue: 0,0:13:26.78,0:13:28.93,Default,,0,0,0,,Damn, this is a stable!
-Dialogue: 0,0:13:30.02,0:13:31.82,Default,,0,0,0,,Good heavens, what a scare!
-Dialogue: 0,0:13:31.86,0:13:34.61,Default,,0,0,0,,- What happened, Sapphire?\N- Tink, where are you?
-Dialogue: 0,0:13:35.42,0:13:37.46,Default,,0,0,0,,I'm here! What are you doing?
-Dialogue: 0,0:13:37.74,0:13:40.70,Default,,0,0,0,,Do you know why I'm here?\NI'm looking for three people who..
-Dialogue: 0,0:13:40.74,0:13:44.02,Default,,0,0,0,,...can weep for the death\Nof a certain old lady.
-Dialogue: 0,0:13:44.42,0:13:46.65,Default,,0,0,0,,I see,\Nthen I can help you too
-Dialogue: 0,0:13:46.70,0:13:49.17,Default,,0,0,0,,- What do you want me to do?\N- You go that way!
-Dialogue: 0,0:13:49.22,0:13:50.81,Default,,0,0,0,,Alright!
-Dialogue: 0,0:13:54.26,0:13:57.89,Default,,0,0,0,,Quick! We have to help a poor\Nold lady! Come with me!
-Dialogue: 0,0:14:00.82,0:14:03.86,Default,,0,0,0,,Have you ever borrowed money\Nfrom Mrs. Shannerock?
-Dialogue: 0,0:14:03.90,0:14:06.50,Default,,0,0,0,,I asked her for a penny, but I've\Nalready returned it. Goodbye!
-Dialogue: 0,0:14:14.94,0:14:17.82,Default,,0,0,0,,Why did you wake me up, little one?\NI was sleeping so well!
-Dialogue: 0,0:14:17.86,0:14:20.69,Default,,0,0,0,,- Mrs. Shannerock...\N- She lent me a nickel...
-Dialogue: 0,0:14:20.74,0:14:22.89,Default,,0,0,0,,...and died before I\Ncould return it to her.
-Dialogue: 0,0:14:22.94,0:14:25.25,Default,,0,0,0,,- Come with me! Right now!\N- What a rush!
-Dialogue: 0,0:14:25.30,0:14:28.50,Default,,0,0,0,,If you cry for her, she\Nwill cancel your debt!
-Dialogue: 0,0:14:28.54,0:14:31.21,Default,,0,0,0,,- Really?\N- What do you want from me?!
-Dialogue: 0,0:14:31.26,0:14:33.82,Default,,0,0,0,,Put me down! Put me\Ndown, I said! Come on!
-Dialogue: 0,0:14:34.10,0:14:37.89,Default,,0,0,0,,Please excuse him. Did\Nyou know Mrs. Shannerock?
-Dialogue: 0,0:14:37.94,0:14:41.17,Default,,0,0,0,,Yes, I knew her, and her greed\Nalways made me feel very sorry for her.
-Dialogue: 0,0:14:41.22,0:14:44.21,Default,,0,0,0,,Could you cry for her? Be kind!
-Dialogue: 0,0:14:44.26,0:14:46.49,Default,,0,0,0,,Come with me to cry for her!
-Dialogue: 0,0:14:49.82,0:14:52.86,Default,,0,0,0,,Very well!\NI'll be happy to come.
-Dialogue: 0,0:14:52.90,0:14:56.13,Default,,0,0,0,,...to this sort of funeral\Nwhenever you want, even right now!
-Dialogue: 0,0:14:56.18,0:14:58.65,Default,,0,0,0,,It's an excellent idea on your part!
-Dialogue: 0,0:15:01.54,0:15:03.69,Default,,0,0,0,,You could cry for her, then!
-Dialogue: 0,0:15:03.74,0:15:07.18,Default,,0,0,0,,Come to think of it, why should we\Ncry for that woman?
-Dialogue: 0,0:15:07.22,0:15:10.66,Default,,0,0,0,,It's impossible! When she was alive, she didn't\Neven give us a piece of bread!
-Dialogue: 0,0:15:10.70,0:15:12.61,Default,,0,0,0,,You mangy old man! You'll see!
-Dialogue: 0,0:15:15.90,0:15:18.02,Default,,0,0,0,,Now I'm full.\NI'm going home.
-Dialogue: 0,0:15:18.82,0:15:21.42,Default,,0,0,0,,Can you cry a little for her,\Nbefore you go?
-Dialogue: 0,0:15:26.22,0:15:28.66,Default,,0,0,0,,Even if I force myself,\Ncan't you see I can't do it?
-Dialogue: 0,0:15:29.06,0:15:30.81,Default,,0,0,0,,Hypocrite!
-Dialogue: 0,0:15:30.90,0:15:33.57,Default,,0,0,0,,I couldn't pay her back\Nsome money she lent me,
-Dialogue: 0,0:15:33.62,0:15:36.82,Default,,0,0,0,,so she took my house, my\Nhorse, and everything I had.
-Dialogue: 0,0:15:36.86,0:15:39.30,Default,,0,0,0,,It's impossible for me to cry for her!
-Dialogue: 0,0:15:46.78,0:15:49.77,Default,,0,0,0,,Good heavens! I'm afraid\Nthat no one will want to cry for her.
-Dialogue: 0,0:15:49.82,0:15:53.42,Default,,0,0,0,,At least you, who were her maid,\Nwill try to cry, right?
-Dialogue: 0,0:15:53.62,0:15:56.29,Default,,0,0,0,,No, I won't! She made me\Nwork without paying me...
-Dialogue: 0,0:15:56.34,0:15:58.49,Default,,0,0,0,,...and she didn't give me enough\Nto eat.
-Dialogue: 0,0:15:58.74,0:16:02.02,Default,,0,0,0,,No wonder a person\Nlike that is rejected by Heaven.
-Dialogue: 0,0:16:02.06,0:16:04.02,Default,,0,0,0,,She deserves\Nto stay on Earth!
-Dialogue: 0,0:16:10.34,0:16:12.73,Default,,0,0,0,,Mean! They are all mean!
-Dialogue: 0,0:16:12.78,0:16:15.90,Default,,0,0,0,,This is too much for me,\Neven if I am a ghost!
-Dialogue: 0,0:16:16.22,0:16:20.18,Default,,0,0,0,,I like money, it's true, but\Nwhat's wrong with loving money?
-Dialogue: 0,0:16:20.22,0:16:23.42,Default,,0,0,0,,- Oh, no! You too!\N- It's a hopeless endeavor!
-Dialogue: 0,0:16:23.82,0:16:26.02,Default,,0,0,0,,Yes, maybe it's better if we leave
-Dialogue: 0,0:16:30.26,0:16:34.30,Default,,0,0,0,,No, Prince! Please, stay\Nwith me! Don't go away!
-Dialogue: 0,0:16:46.58,0:16:48.41,Default,,0,0,0,,Why did you stop?
-Dialogue: 0,0:16:48.46,0:16:52.01,Default,,0,0,0,,- I can't leave her like this.\N- Do you want to go back, Sapphire?
-Dialogue: 0,0:16:52.18,0:16:54.01,Default,,0,0,0,,What do you say, Opal?
-Dialogue: 0,0:16:56.42,0:16:59.41,Default,,0,0,0,,See? Even Opal\Nagrees with me.
-Dialogue: 0,0:16:59.90,0:17:02.18,Default,,0,0,0,,You can go back to the city\Nwith Opal, Tink.
-Dialogue: 0,0:17:02.22,0:17:04.45,Default,,0,0,0,,- Watch out for the ghost.\N- Go, Opal!
-Dialogue: 0,0:17:04.50,0:17:06.33,Default,,0,0,0,,Goodbye, Sapphire!
-Dialogue: 0,0:17:08.70,0:17:11.82,Default,,0,0,0,,Alas! I am a lonely\Nand miserable ghost!
-Dialogue: 0,0:17:11.86,0:17:13.82,Default,,0,0,0,,I am willing\Nto cry for you,
-Dialogue: 0,0:17:13.86,0:17:15.90,Default,,0,0,0,,as long as you do me the favor\NI asked of you some time ago.
-Dialogue: 0,0:17:15.94,0:17:18.90,Default,,0,0,0,,But how do I get proof\Nthat the Prince is a girl?
-Dialogue: 0,0:17:18.94,0:17:21.82,Default,,0,0,0,,- Ah, there he is coming back!\N- I expected it!
-Dialogue: 0,0:17:21.86,0:17:24.01,Default,,0,0,0,,I am counting on you!\NI am hiding!
-Dialogue: 0,0:17:25.74,0:17:28.30,Default,,0,0,0,,Oh, Prince!\NI am glad you have returned!
-Dialogue: 0,0:17:28.34,0:17:30.70,Default,,0,0,0,,I thank you\Nfor your kindness
-Dialogue: 0,0:17:30.74,0:17:33.02,Default,,0,0,0,,Please, make yourself comfortable in my house.
-Dialogue: 0,0:17:33.06,0:17:36.13,Default,,0,0,0,,Come! Follow me, Prince. Please.
-Dialogue: 0,0:17:49.06,0:17:50.86,Default,,0,0,0,,But it is magnificent!
-Dialogue: 0,0:17:51.18,0:17:53.82,Default,,0,0,0,,Look inside this wardrobe,\NPrince.
-Dialogue: 0,0:17:55.34,0:17:57.94,Default,,0,0,0,,I hope there are\Nsome clothes that you like.
-Dialogue: 0,0:17:58.14,0:18:00.13,Default,,0,0,0,,But you must be joking!
-Dialogue: 0,0:18:00.18,0:18:03.73,Default,,0,0,0,,Those are all women's clothes!\NI am a boy! Got it?
-Dialogue: 0,0:18:03.78,0:18:05.53,Default,,0,0,0,,And I am a ghost!
-Dialogue: 0,0:18:06.10,0:18:09.46,Default,,0,0,0,,So I know for sure whether\Nyou are a girl or a boy.
-Dialogue: 0,0:18:09.90,0:18:12.02,Default,,0,0,0,,This is not elegant enough.
-Dialogue: 0,0:18:14.42,0:18:16.49,Default,,0,0,0,,This is too big.
-Dialogue: 0,0:18:17.90,0:18:19.65,Default,,0,0,0,,This seems right!
-Dialogue: 0,0:18:20.22,0:18:23.61,Default,,0,0,0,,- Please, stop!\N- The mirror is at the end of the hall.
-Dialogue: 0,0:18:26.42,0:18:28.01,Default,,0,0,0,,And now...
-Dialogue: 0,0:18:43.02,0:18:46.49,Default,,0,0,0,,Welcome! I didn't expect to\Nsee you here, Princess Sapphire!
-Dialogue: 0,0:18:46.58,0:18:48.17,Default,,0,0,0,,Princess?!
-Dialogue: 0,0:18:48.22,0:18:50.82,Default,,0,0,0,,For a Princess who\Npretends to be a Prince...
-Dialogue: 0,0:18:50.86,0:18:54.57,Default,,0,0,0,,...there is the death penalty in this kingdom!\N- What? The death penalty?!
-Dialogue: 0,0:18:55.54,0:18:59.42,Default,,0,0,0,,Which do you prefer?\NDecapitation or hanging?
-Dialogue: 0,0:18:59.46,0:19:02.42,Default,,0,0,0,,You cannot send\Nsuch a good person to death!
-Dialogue: 0,0:19:02.46,0:19:04.37,Default,,0,0,0,,But this is decreed\Nby the law of Silverland,
-Dialogue: 0,0:19:04.42,0:19:06.41,Default,,0,0,0,,against which\Nnothing can be done!
-Dialogue: 0,0:19:06.46,0:19:09.42,Default,,0,0,0,,Are you ready, Princess?\NI will take you to Grand Duke Duralumin!
-Dialogue: 0,0:19:13.34,0:19:16.09,Default,,0,0,0,,I don't care at all\Nabout this damn law!
-Dialogue: 0,0:19:16.14,0:19:19.37,Default,,0,0,0,,I don't find it reasonable to send\Nsuch a good person to death!
-Dialogue: 0,0:19:19.42,0:19:23.10,Default,,0,0,0,,I'm sorry, Prince Sapphire!\NThis man is very wicked.
-Dialogue: 0,0:19:23.14,0:19:26.74,Default,,0,0,0,,He took advantage of my good\Nfaith for his dirty schemes.
-Dialogue: 0,0:19:26.78,0:19:29.17,Default,,0,0,0,,It seems my big mouth\Nwoke him up.
-Dialogue: 0,0:19:31.10,0:19:33.46,Default,,0,0,0,,I wonder what I bumped into!
-Dialogue: 0,0:19:33.66,0:19:35.89,Default,,0,0,0,,Shall we go then, Princess?
-Dialogue: 0,0:19:35.94,0:19:38.93,Default,,0,0,0,,- Princess? And where is she?\N- What?!
-Dialogue: 0,0:19:40.54,0:19:44.30,Default,,0,0,0,,I know you are a girl! I made\Nsure of it with my own eyes!
-Dialogue: 0,0:19:44.34,0:19:47.94,Default,,0,0,0,,Oh, is that so? Then why don't you\Nmake sure of it once more?
-Dialogue: 0,0:19:47.98,0:19:50.02,Default,,0,0,0,,She must have changed...
-Dialogue: 0,0:19:50.42,0:19:53.73,Default,,0,0,0,,Madam, you saw it too\Nthat she is a girl! Didn't you?
-Dialogue: 0,0:19:53.78,0:19:55.61,Default,,0,0,0,,- No!\N- Did you hear?
-Dialogue: 0,0:19:55.66,0:19:57.46,Default,,0,0,0,,Even this lady says... What?!
-Dialogue: 0,0:19:57.50,0:20:00.70,Default,,0,0,0,,No! I assure you that Prince\NSapphire is without a doubt a boy!
-Dialogue: 0,0:20:00.74,0:20:03.21,Default,,0,0,0,,But it's impossible!\NLook at the clothes in the wardro..
-Dialogue: 0,0:20:04.66,0:20:07.22,Default,,0,0,0,,Oh, no!\NHe was looking at himself in the mirr..
-Dialogue: 0,0:20:13.34,0:20:16.86,Default,,0,0,0,,Damned old hag! You'll\Npay for your betrayal!
-Dialogue: 0,0:20:17.02,0:20:19.33,Default,,0,0,0,,I will forbid everyone\Nfrom coming to this house!
-Dialogue: 0,0:20:19.38,0:20:22.42,Default,,0,0,0,,Do you know what that means? That\Nno one will come to weep for you,
-Dialogue: 0,0:20:22.46,0:20:24.74,Default,,0,0,0,,so you will remain a ghost forever!
-Dialogue: 0,0:20:25.38,0:20:29.01,Default,,0,0,0,,- No! Nylon!\N- So, what is Sapphire?
-Dialogue: 0,0:20:32.82,0:20:35.10,Default,,0,0,0,,Prince Sapphire is..
-Dialogue: 0,0:20:36.18,0:20:39.38,Default,,0,0,0,,...it's... it's... it's...\Nit's really a boy!
-Dialogue: 0,0:20:40.62,0:20:42.45,Default,,0,0,0,,You'll pay for this!
-Dialogue: 0,0:20:44.66,0:20:47.18,Default,,0,0,0,,Why did you do it? It\Nwas a good opportunity!
-Dialogue: 0,0:20:47.22,0:20:49.69,Default,,0,0,0,,I don't know, Prince.\NReally, I don't know!
-Dialogue: 0,0:20:50.62,0:20:52.90,Default,,0,0,0,,Look! It's that light again!
-Dialogue: 0,0:20:52.94,0:20:55.14,Default,,0,0,0,,It's the road to Heaven,\Nma'am!
-Dialogue: 0,0:20:59.10,0:21:01.74,Default,,0,0,0,,I'll try to climb up.\NThank you, Prince!
-Dialogue: 0,0:21:04.94,0:21:06.93,Default,,0,0,0,,Watch out, ma'am!
-Dialogue: 0,0:21:08.18,0:21:11.14,Default,,0,0,0,,Help! Someone help me!
-Dialogue: 0,0:21:13.02,0:21:16.06,Default,,0,0,0,,I'm sorry that this time,\Ntoo, you didn't make it.
-Dialogue: 0,0:21:16.14,0:21:18.61,Default,,0,0,0,,Prince, I hate Heaven!
-Dialogue: 0,0:21:18.66,0:21:21.89,Default,,0,0,0,,Why is the other world\Ndivided into Hell and Heaven?
-Dialogue: 0,0:21:23.66,0:21:25.62,Default,,0,0,0,,What is this noise?
-Dialogue: 0,0:21:29.06,0:21:31.89,Default,,0,0,0,,There he is! That is a\Nghost! Set fire to the room!
-Dialogue: 0,0:21:31.94,0:21:33.90,Default,,0,0,0,,- Let everything burn!\N- Yes, sir!
-Dialogue: 0,0:21:33.94,0:21:36.69,Default,,0,0,0,,Do you want to set the\Nhouse on fire?! I won't let you!
-Dialogue: 0,0:21:37.90,0:21:41.78,Default,,0,0,0,,Damn Shannerock!\NSoldiers, keep setting the fire!
-Dialogue: 0,0:21:41.82,0:21:43.41,Default,,0,0,0,,Yes, sir!
-Dialogue: 0,0:21:44.90,0:21:46.62,Default,,0,0,0,,Help!
-Dialogue: 0,0:21:49.14,0:21:51.34,Default,,0,0,0,,Do you see? Evil\Nwill strike your men...
-Dialogue: 0,0:21:51.38,0:21:53.50,Default,,0,0,0,,...if they continue to\Nset fire to the house!
-Dialogue: 0,0:21:53.54,0:21:55.90,Default,,0,0,0,,Don't listen to her!\NKeep burning it!
-Dialogue: 0,0:21:56.62,0:21:59.42,Default,,0,0,0,,Stop, Nylon! This is\Nan order from the Prince!
-Dialogue: 0,0:21:59.66,0:22:02.57,Default,,0,0,0,,No, you are not a Prince! Your\NHighness, you have given yourself away!
-Dialogue: 0,0:22:02.62,0:22:05.82,Default,,0,0,0,,You are a girl! Quick,\Narrest Princess Sapphire!
-Dialogue: 0,0:22:07.10,0:22:10.62,Default,,0,0,0,,Alright, then I will stop them!\NYou, madam, put out the fire!
-Dialogue: 0,0:22:22.82,0:22:24.70,Default,,0,0,0,,Be careful, madam!
-Dialogue: 0,0:22:25.78,0:22:27.61,Default,,0,0,0,,It's over for this house!
-Dialogue: 0,0:22:28.10,0:22:31.14,Default,,0,0,0,,Shannerock will end up\Nbeing a ghost without a home!
-Dialogue: 0,0:22:31.42,0:22:32.90,Default,,0,0,0,,Without a home!
-Dialogue: 0,0:22:33.26,0:22:36.57,Default,,0,0,0,,Get out of here! It's\Ndangerous to stay here!
-Dialogue: 0,0:22:39.62,0:22:42.26,Default,,0,0,0,,Here I am! Let's get out\Nof here quickly! Let's go!
-Dialogue: 0,0:22:42.30,0:22:46.29,Default,,0,0,0,,This is my home, Prince.\NI am too tired to move.
-Dialogue: 0,0:22:47.42,0:22:49.22,Default,,0,0,0,,Watch out!
-Dialogue: 0,0:22:50.02,0:22:52.62,Default,,0,0,0,,Please, get out\Nof here! I will stay.
-Dialogue: 0,0:22:52.66,0:22:56.21,Default,,0,0,0,,I am sorry to have disturbed you, but\Nby now I have given up on everything.
-Dialogue: 0,0:22:56.26,0:22:58.62,Default,,0,0,0,,- Even on going to Heaven?\N- Yes.
-Dialogue: 0,0:22:58.66,0:23:02.02,Default,,0,0,0,,But now get out of here quickly! In\Na little while this house will collapse.
-Dialogue: 0,0:23:02.06,0:23:05.26,Default,,0,0,0,,Be careful! Nylon\Nis trying to kill you!
-Dialogue: 0,0:23:05.50,0:23:09.02,Default,,0,0,0,,You worry about me...\Nat a moment like this?
-Dialogue: 0,0:23:09.06,0:23:11.81,Default,,0,0,0,,Prince Sapphire, I\Nbeg you! Be careful!
-Dialogue: 0,0:23:11.86,0:23:15.82,Default,,0,0,0,,How sweet of you to worry so\Nmuch about me! I am so moved by it...!
-Dialogue: 0,0:23:21.42,0:23:24.49,Default,,0,0,0,,Good heavens! The fire has\Nstopped burning! How is that?
-Dialogue: 0,0:23:24.74,0:23:28.53,Default,,0,0,0,,Prince Sapphire, now\NI can go to Heaven,
-Dialogue: 0,0:23:28.58,0:23:31.18,Default,,0,0,0,,since you have shed\Ntears for me.
-Dialogue: 0,0:23:31.26,0:23:35.25,Default,,0,0,0,,Please, leave this house now\Nthat the fire is not burning!
-Dialogue: 0,0:23:35.30,0:23:36.89,Default,,0,0,0,,Hurry!
-Dialogue: 0,0:23:44.38,0:23:46.37,Default,,0,0,0,,- The Prince's ghost!\N- Nylon!
-Dialogue: 0,0:23:46.58,0:23:49.14,Default,,0,0,0,,Prince, I am overjoyed\Nthat you were saved!
-Dialogue: 0,0:23:49.18,0:23:52.38,Default,,0,0,0,,Anyway, excuse me, what\Nhappened to the ghost of Shannerock?
-Dialogue: 0,0:23:56.06,0:23:59.45,Default,,0,0,0,,Look! Mrs. Shannerock\Nis going up to Heaven!
-Dialogue: 0,0:24:04.58,0:24:06.62,Default,,0,0,0,,Goodbye, ma'am!
+Dialogue: 0,0:01:44.10,0:01:50.14,Default,,0,0,0,,Seventeenth Episode\NThe Greedy Ghost\NGoodbye, Madame Ghost
+Dialogue: 0,0:02:00.41,0:02:01.49,Default,,0,0,0,,It’s a truly frightening tale.
+Dialogue: 0,0:02:01.52,0:02:05.80,Default,,0,0,0,,The late mistress of that house was incredibly wealthy,
+Dialogue: 0,0:02:05.82,0:02:11.14,Default,,0,0,0,,yet she was such a miser that she did nothing but torment the poor.
+Dialogue: 0,0:02:14.45,0:02:17.04,Default,,0,0,0,,So, you're saying a ghost appears in that house?
+Dialogue: 0,0:02:17.04,0:02:17.85,Default,,0,0,0,,Yes.
+Dialogue: 0,0:02:18.30,0:02:21.70,Default,,0,0,0,,They became a ghost and still linger inside.
+Dialogue: 0,0:02:23.15,0:02:25.78,Default,,0,0,0,,So, what's that woman's name?
+Dialogue: 0,0:02:26.52,0:02:28.20,Default,,0,0,0,,Her name is Shylock.
+Dialogue: 0,0:02:29.18,0:02:32.30,Default,,0,0,0,,Where are you off to? It's already dark outside.
+Dialogue: 0,0:02:34.94,0:02:37.64,Default,,0,0,0,,Besides, you're in the middle of you're studies right now.
+Dialogue: 0,0:02:38.57,0:02:40.20,Default,,0,0,0,,I'll leave the studying to you.
+Dialogue: 0,0:02:40.34,0:02:41.28,Default,,0,0,0,,Make sure you do it right.
+Dialogue: 0,0:02:41.31,0:02:44.04,Default,,0,0,0,,Underst— Wait, no way!
+Dialogue: 0,0:02:45.08,0:02:45.84,Default,,0,0,0,,Hyah! Out of my way!
+Dialogue: 0,0:02:45.86,0:02:47.24,Default,,0,0,0,,Your Highness
+Dialogue: 0,0:02:47.34,0:02:48.94,Default,,0,0,0,,Come play with me in the haunted house!
+Dialogue: 0,0:02:49.43,0:02:51.38,Default,,0,0,0,,You can't leave the castle.
+Dialogue: 0,0:02:53.06,0:02:55.39,Default,,0,0,0,,Please wait, Lord Sapphire!
+Dialogue: 0,0:03:03.89,0:03:06.12,Default,,0,0,0,,Someone stop the Prince!
+Dialogue: 0,0:03:06.32,0:03:08.06,Default,,0,0,0,,He went toward the haunted mansion!
+Dialogue: 0,0:03:11.01,0:03:12.36,Default,,0,0,0,,Did you hear that, Lord Nylon?
+Dialogue: 0,0:03:12.66,0:03:14.86,Default,,0,0,0,,Ah, the infamous haunted house.
+Dialogue: 0,0:03:15.23,0:03:17.23,Default,,0,0,0,,Follow him and see what he's up to.
+Dialogue: 0,0:03:17.25,0:03:17.94,Default,,0,0,0,,Yes, sir.
+Dialogue: 0,0:03:19.10,0:03:21.70,Default,,0,0,0,,Wait, but that means I'll have to go inside that haunted house!
+Dialogue: 0,0:03:22.20,0:03:25.55,Default,,0,0,0,,Of course! You borrowed money from those ghosts before they died, didn't you?
+Dialogue: 0,0:03:25.57,0:03:28.98,Default,,0,0,0,,You're practically their best customer. Now hurry!
+Dialogue: 0,0:03:59.42,0:04:02.86,Default,,0,0,0,,What thick fog... I can barely see a thing.
+Dialogue: 0,0:04:28.59,0:04:29.59,Default,,0,0,0,,It went out.
+Dialogue: 0,0:04:32.94,0:04:33.65,Default,,0,0,0,,What's wrong?
+Dialogue: 0,0:04:33.90,0:04:34.99,Default,,0,0,0,,Are you scared?
+Dialogue: 0,0:04:36.15,0:04:37.46,Default,,0,0,0,,You're hopeless.
+Dialogue: 0,0:04:37.64,0:04:39.35,Default,,0,0,0,,I'm not scared at all.
+Dialogue: 0,0:04:39.82,0:04:41.44,Default,,0,0,0,,I’m a woman, you know.
+Dialogue: 0,0:04:48.30,0:04:50.08,Default,,0,0,0,,Now you're fired up! That's the way!
+Dialogue: 0,0:05:06.37,0:05:07.64,Default,,0,0,0,,Opal, right here is fine.
+Dialogue: 0,0:05:07.91,0:05:09.26,Default,,0,0,0,,I'm staying here tonight.
+Dialogue: 0,0:05:09.55,0:05:10.70,Default,,0,0,0,,Come pick me up in the morning.
+Dialogue: 0,0:05:13.82,0:05:14.82,Default,,0,0,0,,I'll be fine, really.
+Dialogue: 0,0:05:15.10,0:05:16.96,Default,,0,0,0,,Do you think I'd lose to a ghost?
+Dialogue: 0,0:05:18.76,0:05:20.78,Default,,0,0,0,,It's fine, you don't need to help.
+Dialogue: 0,0:05:20.98,0:05:22.30,Default,,0,0,0,,Go on home, don't worry about me.
+Dialogue: 0,0:05:23.96,0:05:24.75,Default,,0,0,0,,Goodbye.
+Dialogue: 0,0:05:24.95,0:05:26.49,Default,,0,0,0,,See you tomorrow. Wait!
+Dialogue: 0,0:05:40.50,0:05:40.88,Default,,0,0,0,,Hey!
+Dialogue: 0,0:05:41.49,0:05:42.16,Default,,0,0,0,,Wait!
+Dialogue: 0,0:05:42.60,0:05:43.09,Default,,0,0,0,,Hey, wait!
+Dialogue: 0,0:05:47.66,0:05:49.10,Default,,0,0,0,,Hey, wait up!
+Dialogue: 0,0:06:40.65,0:06:42.40,Default,,0,0,0,,There's no way I can cross this.
+Dialogue: 0,0:06:42.58,0:06:45.82,Default,,0,0,0,,Actually, that works out fine. Time to go home. The frogs are croaking, so back I go.
+Dialogue: 0,0:06:51.96,0:06:53.56,Default,,0,0,0,,Is it this shallow?
+Dialogue: 0,0:06:55.31,0:06:56.84,Default,,0,0,0,,Opal
+Dialogue: 0,0:06:58.64,0:07:00.01,Default,,0,0,0,,Wait!
+Dialogue: 0,0:07:04.24,0:07:05.62,Default,,0,0,0,,Ghost, where are you?
+Dialogue: 0,0:07:05.82,0:07:06.82,Default,,0,0,0,,Come out!
+Dialogue: 0,0:07:21.79,0:07:22.92,Default,,0,0,0,,You think you're guiding me, huh?
+Dialogue: 0,0:07:25.92,0:07:27.84,Default,,0,0,0,,Whoa, look at all these books!
+Dialogue: 0,0:07:45.54,0:07:46.33,Default,,0,0,0,,Amazing!
+Dialogue: 0,0:07:46.76,0:07:47.76,Default,,0,0,0,,Don't mind if I do
+Dialogue: 0,0:07:49.52,0:07:50.88,Default,,0,0,0,,Looks delicious.
+Dialogue: 0,0:07:51.63,0:07:54.21,Default,,0,0,0,,Watch out, watch out. Can't let myself be tricked.
+Dialogue: 0,0:08:08.73,0:08:09.74,Default,,0,0,0,,I don't need any of that.
+Dialogue: 0,0:08:14.85,0:08:18.10,Default,,0,0,0,,I said I don't want it! It's probably just made of stone or mud anyway.
+Dialogue: 0,0:08:25.80,0:08:26.80,Default,,0,0,0,,It’s poultry!
+Dialogue: 0,0:08:27.22,0:08:28.80,Default,,0,0,0,,This is wonderful!
+Dialogue: 0,0:08:36.50,0:08:37.70,Default,,0,0,0,,W-Wait a second.
+Dialogue: 0,0:08:38.06,0:08:39.06,Default,,0,0,0,,How strange.
+Dialogue: 0,0:08:41.26,0:08:43.85,Default,,0,0,0,,Hey Ghost, why are you giving me such royal treatment?
+Dialogue: 0,0:08:44.30,0:08:46.24,Default,,0,0,0,,Stop doing magic tricks and show yourself.
+Dialogue: 0,0:08:46.86,0:08:48.46,Default,,0,0,0,,So this is Shylock?
+Dialogue: 0,0:08:49.01,0:08:50.01,Default,,0,0,0,,She's so pretty.
+Dialogue: 0,0:08:54.52,0:08:55.52,Default,,0,0,0,,Who?
+Dialogue: 0,0:09:02.63,0:09:05.18,Default,,0,0,0,,Flatterer.
+Dialogue: 0,0:09:05.55,0:09:06.55,Default,,0,0,0,,It's a ghost!
+Dialogue: 0,0:09:08.60,0:09:10.00,Default,,0,0,0,,Indeed I am.
+Dialogue: 0,0:09:10.46,0:09:11.46,Default,,0,0,0,,A real ghost?
+Dialogue: 0,0:09:12.40,0:09:14.04,Default,,0,0,0,,Looks convincing, doesn't it?
+Dialogue: 0,0:09:14.59,0:09:15.59,Default,,0,0,0,,You surprised me.
+Dialogue: 0,0:09:15.78,0:09:18.08,Default,,0,0,0,,I thought ghosts looked much more terrifying.
+Dialogue: 0,0:09:19.18,0:09:21.68,Default,,0,0,0,,Well, I could do that too.
+Dialogue: 0,0:09:21.86,0:09:23.78,Default,,0,0,0,,But that would only turn people off.
+Dialogue: 0,0:09:24.84,0:09:26.80,Default,,0,0,0,,Why are you treating me to such a feast?
+Dialogue: 0,0:09:27.28,0:09:29.72,Default,,0,0,0,,When you were alive, you were terribly stingy.
+Dialogue: 0,0:09:30.75,0:09:32.12,Default,,0,0,0,,Please, go right ahead.
+Dialogue: 0,0:09:32.29,0:09:35.40,Default,,0,0,0,,I was the stingiest, greediest soul in the world.
+Dialogue: 0,0:09:35.51,0:09:42.05,Default,,0,0,0,,That's why I can't rest in peace, even in death.
+Dialogue: 0,0:09:43.31,0:09:45.18,Default,,0,0,0,,I can't ascend to Heaven.
+Dialogue: 0,0:09:45.52,0:09:47.14,Default,,0,0,0,,Why don't you just force your way up?
+Dialogue: 0,0:09:47.92,0:09:50.06,Default,,0,0,0,,Whenever I call upon Heaven like this...
+Dialogue: 0,0:09:53.33,0:09:55.98,Default,,0,0,0,,Look, it's Heaven's guide!
+Dialogue: 0,0:10:04.03,0:10:06.68,Default,,0,0,0,,Heaven is calling for me.
+Dialogue: 0,0:10:07.90,0:10:09.68,Default,,0,0,0,,Looks like you can go to Heaven after all!
+Dialogue: 0,0:10:11.15,0:10:13.76,Default,,0,0,0,,No, this is as far as I ever get.
+Dialogue: 0,0:10:18.87,0:10:20.01,Default,,0,0,0,,What a strange light.
+Dialogue: 0,0:10:20.42,0:10:22.70,Default,,0,0,0,,Ma'am, I'll block the light for you!
+Dialogue: 0,0:10:23.04,0:10:24.58,Default,,0,0,0,,Quick, climb up while you can!
+Dialogue: 0,0:10:24.99,0:10:25.99,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:10:31.76,0:10:33.68,Default,,0,0,0,,Your Highness!
+Dialogue: 0,0:10:33.77,0:10:36.74,Default,,0,0,0,,Don't worry about me, just get up here!
+Dialogue: 0,0:10:53.80,0:10:54.80,Default,,0,0,0,,Hmm... I'm stumped
+Dialogue: 0,0:10:55.06,0:10:56.70,Default,,0,0,0,,I see, so this is Hell.
+Dialogue: 0,0:10:56.85,0:11:01.29,Default,,0,0,0,,I'm so miserable, I feel like dying.
+Dialogue: 0,0:11:01.42,0:11:02.72,Default,,0,0,0,,You're already dead!
+Dialogue: 0,0:11:03.27,0:11:04.48,Default,,0,0,0,,Oh, that's right.
+Dialogue: 0,0:11:07.59,0:11:09.32,Default,,0,0,0,,But how do you get to Heaven?
+Dialogue: 0,0:11:11.00,0:11:13.76,Default,,0,0,0,,Wait, maybe it was the day of your funeral?
+Dialogue: 0,0:11:14.08,0:11:16.04,Default,,0,0,0,,No, I never had a funeral.
+Dialogue: 0,0:11:16.32,0:11:17.64,Default,,0,0,0,,That's it, Ma'am!
+Dialogue: 0,0:11:17.76,0:11:18.76,Default,,0,0,0,,The funeral!
+Dialogue: 0,0:11:19.36,0:11:21.50,Default,,0,0,0,,Yeah, you can't hold a ceremony without people.
+Dialogue: 0,0:11:21.69,0:11:23.74,Default,,0,0,0,,Ma'am, how many really close friends do you have?
+Dialogue: 0,0:11:24.96,0:11:25.96,Default,,0,0,0,,That's right.
+Dialogue: 0,0:11:29.26,0:11:32.60,Default,,0,0,0,,I have about three old friends, but...
+Dialogue: 0,0:11:33.84,0:11:34.72,Default,,0,0,0,,Three is fine.
+Dialogue: 0,0:11:34.82,0:11:37.02,Default,,0,0,0,,Tell me where he is—I'll bring him right away.
+Dialogue: 0,0:11:37.70,0:11:40.72,Default,,0,0,0,,Why does having a funeral let you go to heaven?
+Dialogue: 0,0:11:41.01,0:11:43.89,Default,,0,0,0,,If everyone cries and mourns at their funeral, I'm sure even the worst villain
+Dialogue: 0,0:11:43.91,0:11:47.46,Default,,0,0,0,,will be mistaken for a good person and let into heaven.
+Dialogue: 0,0:11:49.05,0:11:51.22,Default,,0,0,0,,Fine, I'm the villain anyway.
+Dialogue: 0,0:11:52.26,0:11:54.30,Default,,0,0,0,,Sorry, I didn't mean it like that.
+Dialogue: 0,0:11:56.92,0:11:58.62,Default,,0,0,0,,The address is written right here.
+Dialogue: 0,0:11:59.48,0:12:01.09,Default,,0,0,0,,Here, and here... Okay, I got it.
+Dialogue: 0,0:12:01.40,0:12:03.94,Default,,0,0,0,,I'll track them down and ask.
+Dialogue: 0,0:12:22.39,0:12:24.36,Default,,0,0,0,,Don't be afraid. Drink this.
+Dialogue: 0,0:12:25.34,0:12:28.24,Default,,0,0,0,,I lent you money before—did you bring it back?
+Dialogue: 0,0:12:29.08,0:12:31.82,Default,,0,0,0,,Geez, even as a ghost, all she thinks about is money.
+Dialogue: 0,0:12:31.92,0:12:34.22,Default,,0,0,0,,Even ghosts remember money they're owed!
+Dialogue: 0,0:12:34.56,0:12:38.02,Default,,0,0,0,,Oh dear, no, no. I'll never get into heaven talking like this.
+Dialogue: 0,0:12:38.12,0:12:39.26,Default,,0,0,0,,Is what you said earlier true?
+Dialogue: 0,0:12:39.37,0:12:41.96,Default,,0,0,0,,So if someone cries for you, you can go to heaven?
+Dialogue: 0,0:12:42.45,0:12:45.04,Default,,0,0,0,,My, aren't you nasty? Were you eavesdropping?
+Dialogue: 0,0:12:45.84,0:12:47.32,Default,,0,0,0,,Then how about I cry for you?
+Dialogue: 0,0:12:50.25,0:12:53.26,Default,,0,0,0,,Really? I'd be so happy. Please do.
+Dialogue: 0,0:12:54.21,0:12:56.36,Default,,0,0,0,,In return, don't press me about the money.
+Dialogue: 0,0:12:57.54,0:12:59.41,Default,,0,0,0,,I have a condition of my own.
+Dialogue: 0,0:12:59.44,0:13:02.16,Default,,0,0,0,,What, don't tell me you want to borrow money again?
+Dialogue: 0,0:13:03.15,0:13:04.76,Default,,0,0,0,,Actually, it's about Sapphire.
+Dialogue: 0,0:13:04.95,0:13:07.06,Default,,0,0,0,,Did something happen to the Prince?
+Dialogue: 0,0:13:07.30,0:13:10.90,Default,,0,0,0,,Actually, I want you to get proof of whether the prince is a girl.
+Dialogue: 0,0:13:21.20,0:13:22.40,Default,,0,0,0,,Let's see... it's here.
+Dialogue: 0,0:13:22.62,0:13:23.40,Default,,0,0,0,,Hello!
+Dialogue: 0,0:13:23.61,0:13:26.60,Default,,0,0,0,,Excuse me, is this the house that borrowed money from Madame Shy?
+Dialogue: 0,0:13:27.12,0:13:29.13,Default,,0,0,0,,Ooh, ow! I’m seeing stars!
+Dialogue: 0,0:13:29.94,0:13:30.62,Default,,0,0,0,,What a surprise.
+Dialogue: 0,0:13:30.72,0:13:32.61,Default,,0,0,0,,Sapphire, what's wrong?
+Dialogue: 0,0:13:32.98,0:13:34.47,Default,,0,0,0,,Tink, where are you?
+Dialogue: 0,0:13:35.36,0:13:37.06,Default,,0,0,0,,Peekaboo! What are you doing?
+Dialogue: 0,0:13:37.56,0:13:38.56,Default,,0,0,0,,I'm looking for someone.
+Dialogue: 0,0:13:39.54,0:13:41.22,Default,,0,0,0,,There's this poor person, you see.
+Dialogue: 0,0:13:41.77,0:13:44.02,Default,,0,0,0,,I'm looking for someone who will cry for them.
+Dialogue: 0,0:13:44.38,0:13:45.67,Default,,0,0,0,,Oh, I see.
+Dialogue: 0,0:13:46.04,0:13:47.62,Default,,0,0,0,,Well, I'll help too.
+Dialogue: 0,0:13:48.20,0:13:49.20,Default,,0,0,0,,Tink, you go over there.
+Dialogue: 0,0:13:49.31,0:13:50.35,Default,,0,0,0,,Okay.
+Dialogue: 0,0:13:54.34,0:13:55.34,Default,,0,0,0,,Hurry up!
+Dialogue: 0,0:13:55.45,0:13:57.22,Default,,0,0,0,,We have to help the lady.
+Dialogue: 0,0:14:00.96,0:14:03.71,Default,,0,0,0,,Ma'am, have you ever borrowed money from Shy?
+Dialogue: 0,0:14:04.14,0:14:07.46,Default,,0,0,0,,I borrowed 50 yen, but I paid it back ages ago. Bye!
+Dialogue: 0,0:14:12.82,0:14:14.09,Default,,0,0,0,,Hello?
+Dialogue: 0,0:14:15.20,0:14:16.20,Default,,0,0,0,,Yeah, what do you want?
+Dialogue: 0,0:14:16.31,0:14:17.68,Default,,0,0,0,,I was having a nice nap, too.
+Dialogue: 0,0:14:17.97,0:14:19.42,Default,,0,0,0,,Did you you borrow money from Shy?
+Dialogue: 0,0:14:20.41,0:14:22.26,Default,,0,0,0,,Oh, I borrowed 30 yen, but I haven't paid it back yet.
+Dialogue: 0,0:14:22.73,0:14:24.48,Default,,0,0,0,,Then hurry over!
+Dialogue: 0,0:14:24.51,0:14:25.51,Default,,0,0,0,,What is it?
+Dialogue: 0,0:14:25.74,0:14:28.43,Default,,0,0,0,,They said if you cry for her, you don't have to pay it back.
+Dialogue: 0,0:14:28.53,0:14:29.53,Default,,0,0,0,,Really?
+Dialogue: 0,0:14:29.96,0:14:34.08,Default,,0,0,0,,What are you doing? Put me down! Put me down, I say! Hey!
+Dialogue: 0,0:14:34.54,0:14:35.56,Default,,0,0,0,,Hello, Sir.
+Dialogue: 0,0:14:36.23,0:14:37.76,Default,,0,0,0,,Sir, do you know a woman named Shy?
+Dialogue: 0,0:14:37.76,0:14:40.58,Default,,0,0,0,,Oh, I sure do. She made me weep, alright.
+Dialogue: 0,0:14:40.60,0:14:42.39,Default,,0,0,0,,My goodness... you’re still crying about it even now?
+Dialogue: 0,0:14:42.50,0:14:43.92,Default,,0,0,0,,Then come with me and cry!
+Dialogue: 0,0:14:44.18,0:14:46.64,Default,,0,0,0,,Come on, please cry for her. Won't you?
+Dialogue: 0,0:14:50.59,0:14:52.60,Default,,0,0,0,,Delicious!
+Dialogue: 0,0:14:53.35,0:14:55.84,Default,,0,0,0,,If it's a funeral like this, I'd come anytime.
+Dialogue: 0,0:14:56.22,0:14:57.22,Default,,0,0,0,,This is really good!
+Dialogue: 0,0:15:02.01,0:15:04.19,Default,,0,0,0,,Now that you've eaten your fill, please cry.
+Dialogue: 0,0:15:04.22,0:15:05.82,Default,,0,0,0,,How could I cry for a woman like her?
+Dialogue: 0,0:15:05.85,0:15:09.16,Default,,0,0,0,,When she was alive, she wouldn't even give me a single bean!
+Dialogue: 0,0:15:09.18,0:15:10.50,Default,,0,0,0,,Outrageous!
+Dialogue: 0,0:15:10.63,0:15:11.63,Default,,0,0,0,,What did you say?!
+Dialogue: 0,0:15:12.52,0:15:15.06,Default,,0,0,0,,You greedy woman!
+Dialogue: 0,0:15:15.89,0:15:17.12,Default,,0,0,0,,Well, thanks for the meal.
+Dialogue: 0,0:15:17.39,0:15:18.39,Default,,0,0,0,,Time to head home.
+Dialogue: 0,0:15:19.28,0:15:21.04,Default,,0,0,0,,Wait, cry a little before you go!
+Dialogue: 0,0:15:26.46,0:15:27.28,Default,,0,0,0,,It's no use.
+Dialogue: 0,0:15:27.39,0:15:28.39,Default,,0,0,0,,I ain't cryin'.
+Dialogue: 0,0:15:28.79,0:15:29.82,Default,,0,0,0,,Geez!
+Dialogue: 0,0:15:31.36,0:15:32.12,Default,,0,0,0,,Look here...
+Dialogue: 0,0:15:32.28,0:15:36.02,Default,,0,0,0,,Instead of the money, she took everything from us—our home, our horses, all of it!
+Dialogue: 0,0:15:36.97,0:15:39.03,Default,,0,0,0,,There's no way I can cry like this.
+Dialogue: 0,0:15:39.29,0:15:40.45,Default,,0,0,0,,Goodbye.
+Dialogue: 0,0:15:46.88,0:15:47.90,Default,,0,0,0,,That's no good.
+Dialogue: 0,0:15:48.32,0:15:49.50,Default,,0,0,0,,This won't make them cry.
+Dialogue: 0,0:15:49.84,0:15:51.65,Default,,0,0,0,,You'll cry for her, won't you, Miss?
+Dialogue: 0,0:15:51.88,0:15:53.76,Default,,0,0,0,,Because she used to work for Shylock!
+Dialogue: 0,0:15:53.96,0:15:54.40,Default,,0,0,0,,No way.
+Dialogue: 0,0:15:54.90,0:15:58.46,Default,,0,0,0,,She made me work for free for three years and barely even fed me.
+Dialogue: 0,0:15:58.93,0:16:03.24,Default,,0,0,0,,Someone like that shouldn't go to heaven. She can just wander around forever.
+Dialogue: 0,0:16:10.26,0:16:15.12,Default,,0,0,0,,Heartless monsters! Every last one of them! Even if I am a ghost, this is just too cruel!
+Dialogue: 0,0:16:15.28,0:16:18.47,Default,,0,0,0,,I like money. What's wrong with that?
+Dialogue: 0,0:16:20.37,0:16:21.43,Default,,0,0,0,,Don't tell me you guys too...
+Dialogue: 0,0:16:21.45,0:16:23.26,Default,,0,0,0,,How boring. Let me go back.
+Dialogue: 0,0:16:23.96,0:16:24.96,Default,,0,0,0,,Good idea.
+Dialogue: 0,0:16:30.93,0:16:32.26,Default,,0,0,0,,Your Highness, please!
+Dialogue: 0,0:16:32.53,0:16:33.95,Default,,0,0,0,,Don't go back.
+Dialogue: 0,0:16:46.42,0:16:47.42,Default,,0,0,0,,What's wrong?
+Dialogue: 0,0:16:49.04,0:16:51.13,Default,,0,0,0,,I'm going back again. To the ghost?
+Dialogue: 0,0:16:51.48,0:16:51.97,Default,,0,0,0,,Why?
+Dialogue: 0,0:16:52.41,0:16:54.66,Default,,0,0,0,,Why? ...What do you think, Opal?
+Dialogue: 0,0:16:56.69,0:16:59.32,Default,,0,0,0,,See? Opal agrees with me.
+Dialogue: 0,0:16:59.81,0:17:01.80,Default,,0,0,0,,Tink, you go on back to town.
+Dialogue: 0,0:17:02.12,0:17:03.34,Default,,0,0,0,,That's no fun.
+Dialogue: 0,0:17:03.57,0:17:04.57,Default,,0,0,0,,Come on, Opal.
+Dialogue: 0,0:17:04.95,0:17:06.26,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:17:09.70,0:17:11.91,Default,,0,0,0,,I'm just a poor, lonely ghost...
+Dialogue: 0,0:17:11.93,0:17:16.22,Default,,0,0,0,,That's why I said if you grant my request, I'll cry for you.
+Dialogue: 0,0:17:16.36,0:17:20.40,Default,,0,0,0,,But asking me to check if the Prince is a girl... Oh, he came back!
+Dialogue: 0,0:17:20.80,0:17:21.96,Default,,0,0,0,,Just as I thought.
+Dialogue: 0,0:17:22.16,0:17:23.41,Default,,0,0,0,,Mrs. Ghost, handle this well.
+Dialogue: 0,0:17:23.44,0:17:24.58,Default,,0,0,0,,I'll be waiting.
+Dialogue: 0,0:17:24.75,0:17:27.58,Default,,0,0,0,,Welcome back, Your Highness.
+Dialogue: 0,0:17:27.70,0:17:29.29,Default,,0,0,0,,You were so kind earlier...
+Dialogue: 0,0:17:32.54,0:17:34.54,Default,,0,0,0,,Now, right this way.
+Dialogue: 0,0:17:35.88,0:17:37.30,Default,,0,0,0,,Go ahead, Your Highness.
+Dialogue: 0,0:17:48.86,0:17:50.16,Default,,0,0,0,,Wow, how wonderful!
+Dialogue: 0,0:17:52.10,0:17:53.76,Default,,0,0,0,,Yes, right over there.
+Dialogue: 0,0:17:55.24,0:17:57.80,Default,,0,0,0,,Well? I hope there's a dress you like.
+Dialogue: 0,0:17:58.36,0:17:59.36,Default,,0,0,0,,Don't make a fool of me!
+Dialogue: 0,0:17:59.71,0:18:01.20,Default,,0,0,0,,These are all women's clothes!
+Dialogue: 0,0:18:01.82,0:18:03.44,Default,,0,0,0,,Listen, Lady, I am a prince!
+Dialogue: 0,0:18:03.77,0:18:05.20,Default,,0,0,0,,I am a ghost.
+Dialogue: 0,0:18:05.96,0:18:07.55,Default,,0,0,0,,If Lord Sapphire sheds a tear, I will become a girl once more.
+Dialogue: 0,0:18:07.57,0:18:10.98,Default,,0,0,0,,I’ll finally know for certain then... whether he is a boy or a girl.
+Dialogue: 0,0:18:12.01,0:18:13.50,Default,,0,0,0,,Now then, excuse me for a moment...
+Dialogue: 0,0:18:14.84,0:18:16.12,Default,,0,0,0,,Oh dear, it's way too baggy.
+Dialogue: 0,0:18:17.80,0:18:19.32,Default,,0,0,0,,How about something like this?
+Dialogue: 0,0:18:20.29,0:18:21.94,Default,,0,0,0,,Stop it! I said stop!
+Dialogue: 0,0:18:21.96,0:18:23.70,Default,,0,0,0,,The mirror is over there.
+Dialogue: 0,0:18:25.62,0:18:26.62,Default,,0,0,0,,Oh my.
+Dialogue: 0,0:18:28.10,0:18:29.10,Default,,0,0,0,,Here you go.
+Dialogue: 0,0:18:42.86,0:18:46.09,Default,,0,0,0,,Well, well. What a strange place to meet, Princess Sapphire.
+Dialogue: 0,0:18:46.42,0:18:47.42,Default,,0,0,0,,Princess Sapphire?
+Dialogue: 0,0:18:47.45,0:18:49.99,Default,,0,0,0,,By the law of this land, a woman cannot become heir to the throne.
+Dialogue: 0,0:18:50.01,0:18:52.66,Default,,0,0,0,, Impersonating a man carries the death penalty.
+Dialogue: 0,0:18:52.69,0:18:53.98,Default,,0,0,0,,The death penalty?!
+Dialogue: 0,0:18:55.86,0:18:59.48,Default,,0,0,0,,Would you prefer to be beheaded, or is hanging more to your liking?
+Dialogue: 0,0:18:59.63,0:19:01.74,Default,,0,0,0,,That's absurd, executing such a wonderful person!
+Dialogue: 0,0:19:01.77,0:19:03.73,Default,,0,0,0,,It is the law of the Kingdom of Silverland.
+Dialogue: 0,0:19:03.76,0:19:05.14,Default,,0,0,0,,Don't butt in, ghost!
+Dialogue: 0,0:19:05.69,0:19:10.71,Default,,0,0,0,,Once you make up your mind, Grand Duke Duralumin will have you killed. I’ll provide the grandest funeral for you, Princess.
+Dialogue: 0,0:19:13.63,0:19:16.48,Default,,0,0,0,,I don't care about the kingdom's laws! Executing such a good person is outrageous!
+Dialogue: 0,0:19:16.74,0:19:19.54,Default,,0,0,0,,It should be a happy thing to find out she's a princess. What terrible people!
+Dialogue: 0,0:19:21.04,0:19:22.74,Default,,0,0,0,,I'm so sorry, Princess Sapphire.
+Dialogue: 0,0:19:23.13,0:19:27.10,Default,,0,0,0,,This Nylon is a terrible fellow—you lend him money, and he never pays it back.
+Dialogue: 0,0:19:28.46,0:19:30.66,Default,,0,0,0,,Oh, bad-mouthing him woke him right up.
+Dialogue: 0,0:19:32.12,0:19:33.38,Default,,0,0,0,,What did I bump into?
+Dialogue: 0,0:19:33.66,0:19:35.69,Default,,0,0,0,,Princess, my apologies for keeping you waiting.
+Dialogue: 0,0:19:36.10,0:19:36.70,Default,,0,0,0,,Princess?
+Dialogue: 0,0:19:36.82,0:19:38.08,Default,,0,0,0,,Who are you calling "Princess"?
+Dialogue: 0,0:19:40.78,0:19:44.12,Default,,0,0,0,,You are a woman. I just saw it with my own eyes.
+Dialogue: 0,0:19:44.29,0:19:45.91,Default,,0,0,0,,Oh, with those eyes?
+Dialogue: 0,0:19:46.06,0:19:47.74,Default,,0,0,0,,Then take another good look.
+Dialogue: 0,0:19:50.67,0:19:53.68,Default,,0,0,0,,When did you find the time to change her clothes, Madame Shy? No doubt about it... this one is a woman!
+Dialogue: 0,0:19:53.71,0:19:54.42,Default,,0,0,0,,No.
+Dialogue: 0,0:19:54.78,0:19:56.60,Default,,0,0,0,,See? Even the Madame says no.
+Dialogue: 0,0:19:56.78,0:19:57.06,Default,,0,0,0,,What?
+Dialogue: 0,0:19:57.64,0:20:00.62,Default,,0,0,0,,No, Prince Sapphire is a fine prince.
+Dialogue: 0,0:20:00.78,0:20:01.78,Default,,0,0,0,,That can't be!
+Dialogue: 0,0:20:01.95,0:20:02.53,Default,,0,0,0,,He certainly is.
+Dialogue: 0,0:20:02.69,0:20:03.92,Default,,0,0,0,,The dress in this wardrobe...
+Dialogue: 0,0:20:06.15,0:20:08.52,Default,,0,0,0,,Dressed as a woman before this mirror...
+Dialogue: 0,0:20:13.74,0:20:15.20,Default,,0,0,0,,Madame Shy, how dare you betray me!
+Dialogue: 0,0:20:15.38,0:20:15.88,Default,,0,0,0,,Just you wait!
+Dialogue: 0,0:20:15.99,0:20:18.44,Default,,0,0,0,,I'll post guards around this mansion and let no one in!
+Dialogue: 0,0:20:18.68,0:20:20.28,Default,,0,0,0,,Then there'll be no one left to weep for you.
+Dialogue: 0,0:20:20.52,0:20:24.64,Default,,0,0,0,,You'll become a ghost in this mansion forever and suffer the torments of hell!
+Dialogue: 0,0:20:26.29,0:20:27.56,Default,,0,0,0,,What was that about?
+Dialogue: 0,0:20:27.79,0:20:28.79,Default,,0,0,0,,Sapphire, you're a woman, aren't you?
+Dialogue: 0,0:20:33.21,0:20:34.60,Default,,0,0,0,,Prince Sapphire is...
+Dialogue: 0,0:20:37.54,0:20:38.83,Default,,0,0,0,,...a man.
+Dialogue: 0,0:20:41.07,0:20:42.30,Default,,0,0,0,,You'll regret this!
+Dialogue: 0,0:20:44.75,0:20:47.37,Default,,0,0,0,,Ma'am, why did you waste such a great chance...?
+Dialogue: 0,0:20:47.39,0:20:49.67,Default,,0,0,0,,I don't know. I don't understand it myself.
+Dialogue: 0,0:20:51.46,0:20:52.46,Default,,0,0,0,,Light!
+Dialogue: 0,0:20:52.72,0:20:54.34,Default,,0,0,0,,It looks like you’re going to Heaven, Ma'am.
+Dialogue: 0,0:20:59.37,0:21:01.40,Default,,0,0,0,,I'll give it a try. Thank you, Prince.
+Dialogue: 0,0:21:05.11,0:21:06.26,Default,,0,0,0,,Watch out, Ma'am!
+Dialogue: 0,0:21:08.77,0:21:11.16,Default,,0,0,0,,Help! Help!
+Dialogue: 0,0:21:13.00,0:21:14.82,Default,,0,0,0,,Guess it didn't work out after all, Ma'am.
+Dialogue: 0,0:21:15.02,0:21:21.02,Default,,0,0,0,,Poor Prince... I hate Heaven. Why do Heaven and Hell even exist in the afterlife?
+Dialogue: 0,0:21:21.04,0:21:22.84,Default,,0,0,0,,If I just died, then nothing...
+Dialogue: 0,0:21:24.50,0:21:25.54,Default,,0,0,0,,What's that sound?
+Dialogue: 0,0:21:29.17,0:21:30.42,Default,,0,0,0,,The ghost is over there!
+Dialogue: 0,0:21:30.60,0:21:32.06,Default,,0,0,0,,Set fire to the room and burn it down!
+Dialogue: 0,0:21:34.17,0:21:35.62,Default,,0,0,0,,Oh, they're trying to burn down the mansion!
+Dialogue: 0,0:21:35.78,0:21:36.96,Default,,0,0,0,,I won't let them!
+Dialogue: 0,0:21:38.39,0:21:39.58,Default,,0,0,0,,Damn those men!
+Dialogue: 0,0:21:39.76,0:21:41.43,Default,,0,0,0,,Men, set fires everywhere!
+Dialogue: 0,0:21:43.21,0:21:44.36,Default,,0,0,0,,Come on, burn! Burn!
+Dialogue: 0,0:21:49.84,0:21:53.52,Default,,0,0,0,,It's useless to burn it to ashes, Nylon.
+Dialogue: 0,0:21:53.71,0:21:55.89,Default,,0,0,0,,Damn it, what are you doing? Burn it down!
+Dialogue: 0,0:21:56.73,0:21:58.16,Default,,0,0,0,,Nylon, stop setting fires!
+Dialogue: 0,0:21:58.27,0:21:59.27,Default,,0,0,0,,It's an order from the Prince!
+Dialogue: 0,0:21:59.91,0:22:01.24,Default,,0,0,0,,No, you are no prince.
+Dialogue: 0,0:22:01.34,0:22:03.18,Default,,0,0,0,,Lady Sapphire, you are a woman.
+Dialogue: 0,0:22:03.67,0:22:05.69,Default,,0,0,0,,Quick, seize Princess Sapphire!
+Dialogue: 0,0:22:07.88,0:22:09.29,Default,,0,0,0,,Alright! If that's the case, I’ll definitely put this fire out!
+Dialogue: 0,0:22:09.36,0:22:10.67,Default,,0,0,0,,Ma'am, please put out the fire!
+Dialogue: 0,0:22:23.28,0:22:24.28,Default,,0,0,0,,She's in danger!
+Dialogue: 0,0:22:26.28,0:22:27.62,Default,,0,0,0,,This mansion is done for.
+Dialogue: 0,0:22:28.45,0:22:30.28,Default,,0,0,0,,Now then... you’re about to become a beggar ghost!
+Dialogue: 0,0:22:30.65,0:22:31.65,Default,,0,0,0,,A beggar ghost!
+Dialogue: 0,0:22:33.15,0:22:34.50,Default,,0,0,0,,Hey, get your hands off!
+Dialogue: 0,0:22:34.63,0:22:36.14,Default,,0,0,0,,Ma'am, it's dangerous over there!
+Dialogue: 0,0:22:39.97,0:22:41.52,Default,,0,0,0,,Ma'am, so this is where you were!
+Dialogue: 0,0:22:41.66,0:22:42.66,Default,,0,0,0,,Let's get out of here, quick!
+Dialogue: 0,0:22:42.78,0:22:46.62,Default,,0,0,0,,I'm a ghost, so I'm fine. I'm just exhausted...
+Dialogue: 0,0:22:47.66,0:22:48.68,Default,,0,0,0,,Your Highness, look out!
+Dialogue: 0,0:22:49.90,0:22:50.60,Default,,0,0,0,,Please, run away!
+Dialogue: 0,0:22:50.82,0:22:51.82,Default,,0,0,0,,Don't worry about me.
+Dialogue: 0,0:22:52.46,0:22:53.72,Default,,0,0,0,,I'm sorry for all the trouble...
+Dialogue: 0,0:22:54.04,0:22:56.00,Default,,0,0,0,,I've given up now.
+Dialogue: 0,0:22:56.68,0:22:58.10,Default,,0,0,0,,Are you really okay with not going to Heaven?
+Dialogue: 0,0:22:58.19,0:22:59.83,Default,,0,0,0,,It's fine. Please, just run!
+Dialogue: 0,0:22:59.95,0:23:02.10,Default,,0,0,0,,The mansion will burn down any second.
+Dialogue: 0,0:23:02.45,0:23:05.44,Default,,0,0,0,,Nylon and his men are after your life, so please be careful.
+Dialogue: 0,0:23:05.75,0:23:07.08,Default,,0,0,0,,You care about me that much...?
+Dialogue: 0,0:23:08.11,0:23:09.25,Default,,0,0,0,,Ah, Ma'am!
+Dialogue: 0,0:23:09.27,0:23:11.76,Default,,0,0,0,,Lord Sapphire, please be careful...
+Dialogue: 0,0:23:12.26,0:23:14.24,Default,,0,0,0,,To think she worried about me this much...
+Dialogue: 0,0:23:15.05,0:23:16.20,Default,,0,0,0,,Thank you, Ma'am.
+Dialogue: 0,0:23:21.76,0:23:23.72,Default,,0,0,0,,The fire... The fire stopped! What happened?
+Dialogue: 0,0:23:23.97,0:23:28.20,Default,,0,0,0,,Prince Sapphire, because you wept for me, I can go to heaven.
+Dialogue: 0,0:23:28.32,0:23:30.57,Default,,0,0,0,,Get outside while the flames have stopped!
+Dialogue: 0,0:23:30.64,0:23:31.64,Default,,0,0,0,,Hurry!
+Dialogue: 0,0:23:44.22,0:23:46.00,Default,,0,0,0,,It's Prince Sapphire's ghost!
+Dialogue: 0,0:23:46.14,0:23:46.79,Default,,0,0,0,,Nylon!
+Dialogue: 0,0:23:47.03,0:23:48.92,Default,,0,0,0,,Well well, my Prince, you managed to escape.
+Dialogue: 0,0:23:49.12,0:23:51.25,Default,,0,0,0,,By the way, what happened to Shy's ghost?
+Dialogue: 0,0:23:56.22,0:23:59.12,Default,,0,0,0,,Look. Madame Shy is ascending to Heaven.
+Dialogue: 0,0:24:04.73,0:24:06.98,Default,,0,0,0,,Goodbye, Ma'am!
 Dialogue: 0,0:24:34.34,0:24:37.96,Karaoke,,0,0,0,,{\k29}{\k22}Ta{\k18}ra{\k16}ri {\k18}Ra{\k20}tta {\k23}Ri{\k19}tta {\k26}Ra{\k17}tta {\k19}Ra{\k66}tta{\k69}ttaa
 Dialogue: 0,0:24:37.96,0:24:41.32,Karaoke,,0,0,0,,{\k8}{\k46}Kya{\k68}hoo! {\k35}Kya{\k42}hoo! {\k46}Kya{\k91}hoo!
 Dialogue: 0,0:24:37.96,0:24:41.32,OPED_Translation,,0,0,0,,Yahoo! Yahoo! Yahoo!
