@@ -1,0 +1,279 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: 44 screaming white eagle.english.full-dialogue
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.18,0:00:09.22,Default,,0,0,0,,The Princess Sapphire\NKnight of the Ribbon
+Dialogue: 0,0:00:44.00,0:00:50.16,Default,,0,0,0,,♪ Atashi no miru yume himitsu nano ♪\NThe dreams I see are my secret
+Dialogue: 0,0:00:51.25,0:00:57.09,Default,,0,0,0,,♪ Dare ni mo iwanai himitsu nano ♪\NI won’t tell anyone—it’s my secret
+Dialogue: 0,0:00:58.54,0:01:02.46,Default,,0,0,0,,♪ Akai manto hira hira ♪\NA red cape fluttering
+Dialogue: 0,0:01:02.46,0:01:04.98,Default,,0,0,0,,♪ Uma o tobasu oujo ♪\NGalloping on a horse—the princess
+Dialogue: 0,0:01:04.98,0:01:06.90,Default,,0,0,0,,♪ Sore ga atashi ♪\NThat’s me!
+Dialogue: 0,0:01:07.62,0:01:10.90,Default,,0,0,0,,♪ Lula-dula-lula-dula ♪\N-
+Dialogue: 0,0:01:10.91,0:01:13.42,Default,,0,0,0,,♪ Lulu laa, lulaa ♪\N-
+Dialogue: 0,0:01:14.54,0:01:18.02,Default,,0,0,0,,♪ Lula-dula-lula-dula ♪\N-
+Dialogue: 0,0:01:18.14,0:01:20.74,Default,,0,0,0,,♪ Lulu laa, lulaa ♪\N-
+Dialogue: 0,0:01:21.50,0:01:25.22,Default,,0,0,0,,♪ Ribon no kishi wa ♪\NThe Knight of the Ribbon,
+Dialogue: 0,0:01:25.22,0:01:28.62,Default,,0,0,0,,♪ Honto wa hontto wa ♪\NTruly, truly,
+Dialogue: 0,0:01:28.62,0:01:31.82,Default,,0,0,0,,♪ Atashi nano sa ♪\NIt’s really me!
+Dialogue: 0,0:01:44.10,0:01:50.14,Default,,0,0,0,,Forty-Fourth Episode\NThe Snow Eagle\NThe Screaming White Eagle
+Dialogue: 0,0:02:15.93,0:02:16.99,Default,,0,0,0,,How about this, Doctor?
+Dialogue: 0,0:02:17.31,0:02:19.75,Default,,0,0,0,,Come on, it's your turn. Go ahead!
+Dialogue: 0,0:02:22.39,0:02:25.08,Default,,0,0,0,,Doctor, I said it's your turn.
+Dialogue: 0,0:02:25.26,0:02:29.46,Default,,0,0,0,,Forgive me. Well, that was a fine move.
+Dialogue: 0,0:02:29.48,0:02:31.53,Default,,0,0,0,,Now, how's this?
+Dialogue: 0,0:02:31.92,0:02:33.29,Default,,0,0,0,,I see, I see.
+Dialogue: 0,0:02:34.49,0:02:37.13,Default,,0,0,0,,Then I'll go like this. How about that, Doctor?
+Dialogue: 0,0:02:38.37,0:02:39.38,Default,,0,0,0,,Strange.
+Dialogue: 0,0:02:39.64,0:02:41.10,Default,,0,0,0,,What's wrong with the Doctor today?
+Dialogue: 0,0:02:41.50,0:02:43.90,Default,,0,0,0,,He's usually so absorbed, but his mind is completely elsewhere.
+Dialogue: 0,0:02:45.08,0:02:46.08,Default,,0,0,0,,Doctor!
+Dialogue: 0,0:02:47.02,0:02:49.41,Default,,0,0,0,,It was my turn, wasn't it? Let's see...
+Dialogue: 0,0:02:49.84,0:02:50.43,Default,,0,0,0,,Doctor,
+Dialogue: 0,0:02:50.46,0:02:52.15,Default,,0,0,0,,let's stop playing chess.
+Dialogue: 0,0:02:52.18,0:02:52.93,Default,,0,0,0,,Come on,
+Dialogue: 0,0:02:52.96,0:02:56.26,Default,,0,0,0,,something's bothering you, isn't it? Tell me what it is.
+Dialogue: 0,0:02:56.48,0:02:59.65,Default,,0,0,0,,No, it's really something trivial, but it's bugging me.
+Dialogue: 0,0:03:00.05,0:03:04.02,Default,,0,0,0,,Look at the heavy snow outside—that snow is what's worrying me.
+Dialogue: 0,0:03:11.68,0:03:14.88,Default,,0,0,0,,According to the records, it's the heaviest snowfall in 100 years.
+Dialogue: 0,0:03:14.90,0:03:16.62,Default,,0,0,0,,So what about it?
+Dialogue: 0,0:03:16.64,0:03:18.32,Default,,0,0,0,,That is the problem.
+Dialogue: 0,0:03:20.56,0:03:22.89,Default,,0,0,0,,Lord Sapphire, after a heavy snow like this,
+Dialogue: 0,0:03:22.92,0:03:25.20,Default,,0,0,0,,an ill-omened white eagle is sure to appear.
+Dialogue: 0,0:03:25.79,0:03:27.35,Default,,0,0,0,,An ill-omened white eagle?
+Dialogue: 0,0:03:28.73,0:03:31.19,Default,,0,0,0,,Indeed. They say when it arrives with the heavy snow
+Dialogue: 0,0:03:31.21,0:03:35.50,Default,,0,0,0,,and covers the kingdom with its giant wings, misfortune falls upon the land.
+Dialogue: 0,0:03:38.17,0:03:42.07,Default,,0,0,0,,Is that what was bothering you? That's just a superstition.
+Dialogue: 0,0:03:42.25,0:03:43.46,Default,,0,0,0,,I am a scholar myself.
+Dialogue: 0,0:03:43.48,0:03:47.17,Default,,0,0,0,,I don't fear superstition, but history.
+Dialogue: 0,0:03:47.19,0:03:51.19,Default,,0,0,0,,In the past, whenever our kingdom faced invasion, there was always...
+Dialogue: 0,0:03:53.99,0:03:56.00,Default,,0,0,0,,Doctor, what was that sound just now?
+Dialogue: 0,0:03:59.70,0:04:03.58,Default,,0,0,0,,Lord Sapphire... that bad omen I just spoke of is already...
+Dialogue: 0,0:04:28.32,0:04:31.86,Default,,0,0,0,,Lord Sapphire, the ominous white eagle has indeed appeared.
+Dialogue: 0,0:04:32.79,0:04:36.29,Default,,0,0,0,,I'm more concerned about last night's sound, Doctor.
+Dialogue: 0,0:04:36.62,0:04:37.87,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:04:38.33,0:04:39.59,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:04:39.61,0:04:41.08,Default,,0,0,0,,Come on down!
+Dialogue: 0,0:04:41.38,0:04:43.78,Default,,0,0,0,,Let's build a snowman and play!
+Dialogue: 0,0:04:43.86,0:04:46.04,Default,,0,0,0,,Hang on! I'm coming!
+Dialogue: 0,0:04:46.88,0:04:47.96,Default,,0,0,0,,{\i1}Pat-pat-pat...{\i0}
+Dialogue: 0,0:04:49.04,0:04:50.70,Default,,0,0,0,,Sapphire look, it's done!
+Dialogue: 0,0:04:51.91,0:04:54.06,Default,,0,0,0,,How is it? Pretty good, right?
+Dialogue: 0,0:04:55.25,0:04:57.54,Default,,0,0,0,,It's so-so. But what is it supposed to be?
+Dialogue: 0,0:04:57.83,0:05:01.37,Default,,0,0,0,,Ahem! The champion of justice, Ribbon Knight!
+Dialogue: 0,0:05:01.54,0:05:02.96,Default,,0,0,0,,That's mean, Sapphire!
+Dialogue: 0,0:05:03.00,0:05:04.50,Default,,0,0,0,,You're the mean one, Tink!
+Dialogue: 0,0:05:04.85,0:05:08.78,Default,,0,0,0,,The Ribbon Knight is much more slender and stylish than that!
+Dialogue: 0,0:05:11.02,0:05:13.87,Default,,0,0,0,,Haha, you fell down!
+Dialogue: 0,0:05:14.14,0:05:14.92,Default,,0,0,0,,Hey!
+Dialogue: 0,0:05:15.02,0:05:16.02,Default,,0,0,0,,It's Franz!
+Dialogue: 0,0:05:16.52,0:05:17.52,Default,,0,0,0,,Did you say Franz?
+Dialogue: 0,0:05:17.95,0:05:19.02,Default,,0,0,0,,Hey!
+Dialogue: 0,0:05:20.91,0:05:22.30,Default,,0,0,0,,Hello! Welcome!
+Dialogue: 0,0:05:22.98,0:05:24.23,Default,,0,0,0,,It's been a while since we had nice weather.
+Dialogue: 0,0:05:24.38,0:05:25.20,Default,,0,0,0,,Hello, Tink!
+Dialogue: 0,0:05:25.55,0:05:26.95,Default,,0,0,0,,Hello, Franz!
+Dialogue: 0,0:05:27.88,0:05:31.71,Default,,0,0,0,,So, what were you making? Come on, let me join in!
+Dialogue: 0,0:05:34.60,0:05:35.39,Default,,0,0,0,,Is it that one?
+Dialogue: 0,0:05:36.29,0:05:38.24,Default,,0,0,0,,It's me! That snowman is me!
+Dialogue: 0,0:05:38.52,0:05:39.58,Default,,0,0,0,,Can you tell?
+Dialogue: 0,0:05:39.68,0:05:41.88,Default,,0,0,0,,Of course. It's very well made.
+Dialogue: 0,0:05:42.32,0:05:43.92,Default,,0,0,0,,Where's yours? You don't have one.
+Dialogue: 0,0:05:44.46,0:05:45.89,Default,,0,0,0,,I know, I'll make one of you!
+Dialogue: 0,0:05:46.71,0:05:49.26,Default,,0,0,0,,I'd better take the hint and leave them be.
+Dialogue: 0,0:05:52.49,0:05:54.77,Default,,0,0,0,,Wow, it's so pretty.
+Dialogue: 0,0:05:55.20,0:05:56.85,Default,,0,0,0,,It feels like I'm back in Heaven.
+Dialogue: 0,0:05:58.23,0:06:01.66,Default,,0,0,0,,It's like standing in a huge field of white flowers.
+Dialogue: 0,0:06:05.44,0:06:08.09,Default,,0,0,0,,I'm sure I heard something...
+Dialogue: 0,0:06:42.29,0:06:46.78,Default,,0,0,0,,Mister, pull yourself together! Come on, mister, speak to me!
+Dialogue: 0,0:06:48.70,0:06:49.56,Default,,0,0,0,,He's coming around.
+Dialogue: 0,0:06:50.83,0:06:52.35,Default,,0,0,0,,Are you from Silverland?
+Dialogue: 0,0:06:53.08,0:06:54.95,Default,,0,0,0,,Take me to the castle.
+Dialogue: 0,0:06:54.98,0:06:58.77,Default,,0,0,0,,X is coming. X-Union, with a terrifying weapon.
+Dialogue: 0,0:07:02.35,0:07:04.07,Default,,0,0,0,,Yours turned out better after all.
+Dialogue: 0,0:07:04.97,0:07:06.90,Default,,0,0,0,,No, Franz, yours is...
+Dialogue: 0,0:07:09.04,0:07:10.04,Default,,0,0,0,,Look at that!
+Dialogue: 0,0:07:13.48,0:07:15.71,Default,,0,0,0,,Sapphire, I didn't just come over to play.
+Dialogue: 0,0:07:15.73,0:07:17.90,Default,,0,0,0,,I was worried about this strange noise...
+Dialogue: 0,0:07:17.92,0:07:19.09,Default,,0,0,0,,Could it be...
+Dialogue: 0,0:07:19.30,0:07:22.19,Default,,0,0,0,,Sapphire! This is terrible!
+Dialogue: 0,0:07:25.74,0:07:30.23,Default,,0,0,0,,It's terrible! X-Union has reached the Orange Forest!
+Dialogue: 0,0:07:31.02,0:07:33.54,Default,,0,0,0,,They have some kind of terrifying, unknown weapon!
+Dialogue: 0,0:07:33.93,0:07:35.94,Default,,0,0,0,,The border guard has been wiped out!
+Dialogue: 0,0:07:36.49,0:07:37.49,Default,,0,0,0,,- What?!\N- What?!
+Dialogue: 0,0:07:42.40,0:07:44.69,Default,,0,0,0,,Sapphire, this sound could be X's new weapon.
+Dialogue: 0,0:07:44.83,0:07:47.01,Default,,0,0,0,,I'm going to scout the Orange Forest right away.
+Dialogue: 0,0:07:47.21,0:07:48.21,Default,,0,0,0,,Care to join?
+Dialogue: 0,0:07:49.56,0:07:50.89,Default,,0,0,0,,Tink, lead the way!
+Dialogue: 0,0:07:51.59,0:07:54.01,Default,,0,0,0,,Wait for me, Sapphire!
+Dialogue: 0,0:08:12.36,0:08:14.34,Default,,0,0,0,,Tink, are you sure it's around here?
+Dialogue: 0,0:08:14.37,0:08:16.54,Default,,0,0,0,,No doubt about it, it's definitely around here.
+Dialogue: 0,0:08:17.06,0:08:19.29,Default,,0,0,0,,But there isn't a soul in sight.
+Dialogue: 0,0:08:20.59,0:08:23.51,Default,,0,0,0,,Franz, don't you feel like someone is watching us?
+Dialogue: 0,0:08:39.54,0:08:42.23,Default,,0,0,0,,Now that you mention it, there is a strange presence...
+Dialogue: 0,0:08:46.14,0:08:47.14,Default,,0,0,0,,Watch out!
+Dialogue: 0,0:08:48.69,0:08:50.02,Default,,0,0,0,,Who's there? Show yourself!
+Dialogue: 0,0:08:53.14,0:08:54.83,Default,,0,0,0,,We are X's scouts!
+Dialogue: 0,0:08:55.20,0:08:56.47,Default,,0,0,0,,You shall not pass!
+Dialogue: 0,0:08:56.79,0:08:57.53,Default,,0,0,0,,Get them!
+Dialogue: 0,0:09:04.91,0:09:05.64,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:09:05.86,0:09:06.39,Default,,0,0,0,,Franz!
+Dialogue: 0,0:09:09.98,0:09:10.78,Default,,0,0,0,,Take that!
+Dialogue: 0,0:09:12.95,0:09:13.78,Default,,0,0,0,,Nice one, Tink!
+Dialogue: 0,0:09:22.15,0:09:23.64,Default,,0,0,0,,X!
+Dialogue: 0,0:09:25.00,0:09:26.05,Default,,0,0,0,,Retreat!
+Dialogue: 0,0:09:27.91,0:09:29.06,Default,,0,0,0,,They're getting away!
+Dialogue: 0,0:09:31.01,0:09:32.84,Default,,0,0,0,,You'll regret this day!
+Dialogue: 0,0:09:34.66,0:09:38.58,Default,,0,0,0,,I'll give you a real treat. Just sit tight and wait!
+Dialogue: 0,0:09:42.46,0:09:44.67,Default,,0,0,0,,Sapphire, this is a bit strange...
+Dialogue: 0,0:09:59.57,0:10:00.30,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:10:00.51,0:10:01.03,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:10:01.06,0:10:02.58,Default,,0,0,0,,Franz! Over here!
+Dialogue: 0,0:10:03.11,0:10:03.95,Default,,0,0,0,,Are you hurt?
+Dialogue: 0,0:10:04.98,0:10:06.98,Default,,0,0,0,,I'm fine!
+Dialogue: 0,0:10:07.66,0:10:08.66,Default,,0,0,0,,Get down!
+Dialogue: 0,0:10:22.54,0:10:23.30,Default,,0,0,0,,An eagle!
+Dialogue: 0,0:10:23.47,0:10:24.88,Default,,0,0,0,,That ominous eagle just screeched!
+Dialogue: 0,0:10:30.32,0:10:31.72,Default,,0,0,0,,That's ridiculous! Come on!
+Dialogue: 0,0:10:35.68,0:10:38.03,Default,,0,0,0,,Wait, Franz! We're coming too!
+Dialogue: 0,0:10:58.30,0:10:59.32,Default,,0,0,0,,Prepare to fire!
+Dialogue: 0,0:11:08.88,0:11:09.72,Default,,0,0,0,,Fire!
+Dialogue: 0,0:11:18.81,0:11:21.91,Default,,0,0,0,,Silverland's castle walls are like scrap paper!
+Dialogue: 0,0:11:22.43,0:11:23.11,Default,,0,0,0,,Move out!
+Dialogue: 0,0:11:50.28,0:11:53.65,Default,,0,0,0,,Don't falter! We will crush Silverland in one fell swoop!
+Dialogue: 0,0:12:06.74,0:12:08.95,Default,,0,0,0,,So that was what caused the scream.
+Dialogue: 0,0:12:09.11,0:12:12.32,Default,,0,0,0,,If a giant cannon like that crosses the border, we'll be in serious trouble.
+Dialogue: 0,0:12:12.51,0:12:13.92,Default,,0,0,0,,We have to stop them somehow.
+Dialogue: 0,0:12:14.89,0:12:17.36,Default,,0,0,0,,That's right, we must stop them ourselves, no matter what!
+Dialogue: 0,0:12:24.13,0:12:25.78,Default,,0,0,0,,Sapphire, do you have a plan?
+Dialogue: 0,0:12:27.36,0:12:28.18,Default,,0,0,0,,Look over there!
+Dialogue: 0,0:12:29.05,0:12:31.34,Default,,0,0,0,,Let's bring down the bridge over that border river!
+Dialogue: 0,0:12:32.01,0:12:32.43,Default,,0,0,0,,Look!
+Dialogue: 0,0:12:32.67,0:12:35.23,Default,,0,0,0,,The side with the border guard armory wasn't destroyed!
+Dialogue: 0,0:12:35.54,0:12:36.97,Default,,0,0,0,,There must be gunpowder there!
+Dialogue: 0,0:12:38.55,0:12:38.94,Default,,0,0,0,,Right!
+Dialogue: 0,0:12:38.97,0:12:40.60,Default,,0,0,0,,We'll use that gunpowder to blow up the bridge!
+Dialogue: 0,0:12:40.62,0:12:44.25,Default,,0,0,0,,What if there are X-Union lookouts at the fort?
+Dialogue: 0,0:12:45.28,0:12:46.47,Default,,0,0,0,,Then we'll just drive them off!
+Dialogue: 0,0:13:05.04,0:13:05.72,Default,,0,0,0,,Now!
+Dialogue: 0,0:13:17.44,0:13:18.12,Default,,0,0,0,,Watch out!
+Dialogue: 0,0:13:20.70,0:13:21.92,Default,,0,0,0,,W-W-Wait a second...
+Dialogue: 0,0:13:23.46,0:13:25.04,Default,,0,0,0,,Whew, thank goodness...
+Dialogue: 0,0:13:25.06,0:13:26.64,Default,,0,0,0,,Tink, I took care of them!
+Dialogue: 0,0:13:26.69,0:13:27.50,Default,,0,0,0,,Give me a hand!
+Dialogue: 0,0:13:27.52,0:13:28.33,Default,,0,0,0,,Okay!
+Dialogue: 0,0:13:33.00,0:13:37.12,Default,,0,0,0,,All right! With this much gunpowder, we can blast them with the cannon!
+Dialogue: 0,0:13:38.09,0:13:40.72,Default,,0,0,0,,The problem is how to carry all this gunpowder to the bridge.
+Dialogue: 0,0:13:41.08,0:13:42.70,Default,,0,0,0,,Hey, I have a great idea!
+Dialogue: 0,0:13:42.91,0:13:45.34,Default,,0,0,0,,We can make a pulley and transport it with that.
+Dialogue: 0,0:14:05.36,0:14:06.46,Default,,0,0,0,,Speed up!
+Dialogue: 0,0:14:11.05,0:14:12.14,Default,,0,0,0,,Giddyup!
+Dialogue: 0,0:14:15.02,0:14:16.23,Default,,0,0,0,,Yahoo!
+Dialogue: 0,0:14:16.40,0:14:18.69,Default,,0,0,0,,Wheee! Yahoo!
+Dialogue: 0,0:14:20.64,0:14:23.80,Default,,0,0,0,,Careful, Tink! Keep jumping around like that and you'll fall off!
+Dialogue: 0,0:14:31.62,0:14:32.62,Default,,0,0,0,,Charge!
+Dialogue: 0,0:14:38.80,0:14:39.96,Default,,0,0,0,,Oh, it's X!
+Dialogue: 0,0:14:40.59,0:14:41.46,Default,,0,0,0,,W-what?
+Dialogue: 0,0:14:41.75,0:14:42.46,Default,,0,0,0,,There they are!
+Dialogue: 0,0:14:49.34,0:14:52.48,Default,,0,0,0,,Sapphire, watch out! The edges of their skis are blades!
+Dialogue: 0,0:14:53.43,0:14:54.56,Default,,0,0,0,,What!?
+Dialogue: 0,0:15:10.18,0:15:10.72,Default,,0,0,0,,Oh no!
+Dialogue: 0,0:15:10.83,0:15:11.83,Default,,0,0,0,,What's wrong, Sapphire?
+Dialogue: 0,0:15:11.97,0:15:15.00,Default,,0,0,0,,The reins have been cut! I can't steer the sled!
+Dialogue: 0,0:15:16.02,0:15:18.62,Default,,0,0,0,,I hear Sapphire's voice. Sapphire!
+Dialogue: 0,0:15:19.81,0:15:20.81,Default,,0,0,0,,Franz!
+Dialogue: 0,0:15:21.17,0:15:22.39,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:15:28.68,0:15:30.11,Default,,0,0,0,,We're going to crash into the bridge!
+Dialogue: 0,0:15:43.97,0:15:45.26,Default,,0,0,0,,Tink, are you alright?
+Dialogue: 0,0:15:45.32,0:15:46.41,Default,,0,0,0,,Yeah, I'm managing.
+Dialogue: 0,0:15:50.46,0:15:51.46,Default,,0,0,0,,Tink!
+Dialogue: 0,0:15:55.86,0:15:58.58,Default,,0,0,0,,Sapphire, these guys were guarding the bridge!
+Dialogue: 0,0:15:58.70,0:15:59.77,Default,,0,0,0,, Sapphire!
+Dialogue: 0,0:15:59.80,0:16:00.55,Default,,0,0,0,,Yes!
+Dialogue: 0,0:16:13.31,0:16:16.92,Default,,0,0,0,,The gunpowder fell right into the river! There's nothing we can do! Let's fall back to the fort for now!
+Dialogue: 0,0:16:23.40,0:16:24.28,Default,,0,0,0,,The fort...
+Dialogue: 0,0:16:24.41,0:16:25.72,Default,,0,0,0,,has fallen!
+Dialogue: 0,0:16:25.74,0:16:27.98,Default,,0,0,0,,If we go in there, we'll suffer the same fate!
+Dialogue: 0,0:16:28.01,0:16:29.39,Default,,0,0,0,,Giddyup!
+Dialogue: 0,0:16:42.29,0:16:43.56,Default,,0,0,0,,Fire!
+Dialogue: 0,0:16:52.35,0:16:54.56,Default,,0,0,0,,The ravine! If we can make it to that ravine...!
+Dialogue: 0,0:17:56.59,0:17:59.04,Default,,0,0,0,,I thought it felt hot—my glove is scorched!
+Dialogue: 0,0:18:00.81,0:18:03.34,Default,,0,0,0,,That surface acts just like a lens!
+Dialogue: 0,0:18:05.23,0:18:07.28,Default,,0,0,0,,A lens? This is it!
+Dialogue: 0,0:18:07.53,0:18:08.67,Default,,0,0,0,,If we use this...
+Dialogue: 0,0:18:08.69,0:18:11.16,Default,,0,0,0,,this ravine is narrow and prone to avalanches!
+Dialogue: 0,0:18:13.26,0:18:15.36,Default,,0,0,0,,If we can blow up that huge cannon...
+Dialogue: 0,0:18:16.78,0:18:18.20,Default,,0,0,0,,The sun is directly overhead, too!
+Dialogue: 0,0:18:19.52,0:18:21.71,Default,,0,0,0,,This just might work!
+Dialogue: 0,0:18:36.01,0:18:39.78,Default,,0,0,0,,Everyone, split up and hurry! Find the biggest piece of ice you can!
+Dialogue: 0,0:18:40.66,0:18:41.66,Default,,0,0,0,,Okay!
+Dialogue: 0,0:18:42.94,0:18:46.30,Default,,0,0,0,,If we don't hurry, the cannon will pass through the ravine!
+Dialogue: 0,0:18:51.64,0:18:54.81,Default,,0,0,0,,With all this snow, you'd think there'd be ice everywhere,
+Dialogue: 0,0:18:54.83,0:18:56.03,Default,,0,0,0,,but when you actually need it...
+Dialogue: 0,0:18:57.00,0:18:58.13,Default,,0,0,0,,I can't find any!
+Dialogue: 0,0:18:59.27,0:19:02.08,Default,,0,0,0,,What does Sapphire want with ice anyway?
+Dialogue: 0,0:19:09.30,0:19:12.72,Default,,0,0,0,,I'm on top of the ice! No, no, no! I'm gonna fall!
+Dialogue: 0,0:19:13.51,0:19:15.14,Default,,0,0,0,,Found it! I found it!
+Dialogue: 0,0:19:18.09,0:19:20.80,Default,,0,0,0,,Sapphire, aren't you done yet? My hands are freezing!
+Dialogue: 0,0:19:20.80,0:19:22.18,Default,,0,0,0,,Just a little more, hang in there!
+Dialogue: 0,0:19:22.46,0:19:24.96,Default,,0,0,0,,Sapphire, what are you going to do by carving ice?
+Dialogue: 0,0:19:25.09,0:19:27.22,Default,,0,0,0,,A lens! I'm making a giant lens!
+Dialogue: 0,0:19:41.12,0:19:42.12,Default,,0,0,0,,Watch out!
+Dialogue: 0,0:19:42.46,0:19:44.15,Default,,0,0,0,,This ravine is prone to avalanches!
+Dialogue: 0,0:19:44.28,0:19:46.16,Default,,0,0,0,,If you fire by mistake, we'll all be wiped out!
+Dialogue: 0,0:19:46.76,0:19:47.36,Default,,0,0,0,,Listen up!
+Dialogue: 0,0:19:47.50,0:19:49.98,Default,,0,0,0,,No matter what happens, under no circumstances are you to fire!
+Dialogue: 0,0:19:57.75,0:19:58.92,Default,,0,0,0,,I see! I get it now!
+Dialogue: 0,0:19:59.29,0:20:01.70,Default,,0,0,0,,So you're planning to blow up that cannon with this lens?
+Dialogue: 0,0:20:02.10,0:20:04.27,Default,,0,0,0,,Exactly! And luckily, look at the sun!
+Dialogue: 0,0:20:06.47,0:20:08.30,Default,,0,0,0,,It's on our side!
+Dialogue: 0,0:20:09.88,0:20:15.09,Default,,0,0,0,,Shine on, sun! Celebrate X-Union's conquest of Silverland!
+Dialogue: 0,0:20:15.99,0:20:17.28,Default,,0,0,0,,Behold this power!
+Dialogue: 0,0:20:18.07,0:20:19.34,Default,,0,0,0,,This mighty strength!
+Dialogue: 0,0:20:21.12,0:20:23.60,Default,,0,0,0,,X-Union shall become the rulers of the world!
+Dialogue: 0,0:20:30.25,0:20:31.96,Default,,0,0,0,,Damn it! We missed!
+Dialogue: 0,0:20:33.61,0:20:36.73,Default,,0,0,0,,Franz! Hurry! Aim for the fuse!
+Dialogue: 0,0:20:43.71,0:20:46.34,Default,,0,0,0,,The enemy is up there! Archers! Archers!
+Dialogue: 0,0:20:52.24,0:20:54.78,Default,,0,0,0,,Franz! Watch out! Franz, be careful!
+Dialogue: 0,0:20:55.24,0:20:57.15,Default,,0,0,0,,I'm fine, I'm fine! You be careful too!
+Dialogue: 0,0:20:59.21,0:21:00.68,Default,,0,0,0,,Oh, just you wait!
+Dialogue: 0,0:21:07.43,0:21:08.84,Default,,0,0,0,,Fire! Fire!
+Dialogue: 0,0:21:20.22,0:21:21.27,Default,,0,0,0,,The light's reaching the fuse...!
+Dialogue: 0,0:21:56.48,0:21:59.37,Default,,0,0,0,,Wh-who did that?! Help!
+Dialogue: 0,0:22:44.90,0:22:46.48,Default,,0,0,0,,Tink! Hold on tight!
+Dialogue: 0,0:22:46.50,0:22:48.88,Default,,0,0,0,,Sapphire! Don't let go! Hang on!
+Dialogue: 0,0:23:10.51,0:23:11.27,Default,,0,0,0,,Franz!
+Dialogue: 0,0:23:11.94,0:23:12.61,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:23:12.73,0:23:14.35,Default,,0,0,0,,I'm glad you're okay.. Are you hurt?
+Dialogue: 0,0:23:15.20,0:23:15.89,Default,,0,0,0,,Thank you!
+Dialogue: 0,0:23:16.78,0:23:18.95,Default,,0,0,0,,By the way, what happened to the cannon? Let's go take a look..
+Dialogue: 0,0:23:21.87,0:23:22.59,Default,,0,0,0,,We did it!
+Dialogue: 0,0:23:22.65,0:23:24.20,Default,,0,0,0,,The X army is completely wiped out!
+Dialogue: 0,0:23:24.48,0:23:27.20,Default,,0,0,0,,The cannon is buried under the snow!
+Dialogue: 0,0:23:48.72,0:23:52.08,Default,,0,0,0,,The wounded white eagle vanishes in the power of the sun.
+Dialogue: 0,0:23:52.11,0:23:55.60,Default,,0,0,0,,But there is no telling when\Nthe X-Union will attack again.
+Dialogue: 0,0:23:55.62,0:23:58.36,Default,,0,0,0,,We must defeat them with our own strength..
+Dialogue: 0,0:24:21.32,0:24:24.02,Default,,0,0,0,,No matter what, I must protect this peace...
+Dialogue: 0,0:24:52.90,0:24:56.52,Default,,0,0,0,,♪ Tarari Ratta Ritta Ratta Rattattaa ♪\N-
+Dialogue: 0,0:24:56.52,0:24:59.88,Default,,0,0,0,,♪ Kyahoo! Kyahoo! Kyahoo! ♪\NYahoo! Yahoo! Yahoo!
+Dialogue: 0,0:24:59.88,0:25:03.65,Default,,0,0,0,,♪ Tarari Ratta Ritta Ratta Rattattaa ♪\N-
+Dialogue: 0,0:25:03.65,0:25:06.81,Default,,0,0,0,,♪ Kyahoo! Kyahoo! Kyahoo! ♪\NYahoo! Yahoo! Yahoo!
+Dialogue: 0,0:25:06.82,0:25:10.63,Default,,0,0,0,,♪ Sen'nen man'nen hyakuman-nen ♪\NA thousand years, ten thousand years, a million years,
+Dialogue: 0,0:25:10.63,0:25:13.93,Default,,0,0,0,,♪ Ribbon de tsunagou ichioku-nen ♪\NLet’s connect with ribbons for a billion years!
+Dialogue: 0,0:25:13.93,0:25:17.93,Default,,0,0,0,,♪ Akuma ga kute mo arashi ga kute mo ♪\NEven if devils come, even if storms arrive,
+Dialogue: 0,0:25:17.93,0:25:21.37,Default,,0,0,0,,♪ tsunaida kokoro wa hanarenai ♪\NOur bonded hearts will never part.
+Dialogue: 0,0:25:21.37,0:25:24.99,Default,,0,0,0,,♪ Tarari Ratta Ritta Ratta Rattattaa ♪\N-
+Dialogue: 0,0:25:24.99,0:25:28.35,Default,,0,0,0,,♪ Kyahoo! Kyahoo! Kyahoo! ♪\NYahoo! Yahoo! Yahoo!
+Dialogue: 0,0:25:28.35,0:25:32.12,Default,,0,0,0,,♪ Tarari Ratta Ritta Ratta Rattattaa ♪\N-
+Dialogue: 0,0:25:32.12,0:25:35.29,Default,,0,0,0,,♪ Kyahoo! Kyahoo! Kyahoo! ♪\NYahoo! Yahoo! Yahoo!
+Dialogue: 0,0:25:35.31,0:25:41.02,Default,,0,0,0,,Subtitled by\NSilverlandSubs\Ntinyurl.com/SilverlandSubs
+Dialogue: 0,0:25:41.04,0:25:46.18,Default,,0,0,0,,Opening & Ending Song Lyrics Translation by\NNatalia Arlovskaya\Nlyricstranslate.com/en/\Ntranslator/natalia-arlovskaya
+Dialogue: 0,0:25:46.21,0:25:50.21,Default,,0,0,0,,EAN-13 : 8-031179-423880\NASIN : ‎ B0DQ54LVY1\NEAN-13 : 8-031179-426225\NASIN : ‎ B0F1V5YTQP

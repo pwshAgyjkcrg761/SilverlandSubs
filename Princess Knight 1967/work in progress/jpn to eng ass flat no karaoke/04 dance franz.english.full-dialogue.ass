@@ -1,0 +1,435 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: 04 dance franz.english.full-dialogue
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.18,0:00:09.22,Default,,0,0,0,,The Princess Sapphire\NKnight of the Ribbon
+Dialogue: 0,0:00:44.00,0:00:50.16,Default,,0,0,0,,♪ Atashi no miru yume himitsu nano ♪\NThe dreams I see are my secret
+Dialogue: 0,0:00:51.25,0:00:57.09,Default,,0,0,0,,♪ Dare ni mo iwanai himitsu nano ♪\NI won’t tell anyone—it’s my secret
+Dialogue: 0,0:00:58.54,0:01:02.46,Default,,0,0,0,,♪ Akai manto hira hira ♪\NA red cape fluttering
+Dialogue: 0,0:01:02.46,0:01:04.98,Default,,0,0,0,,♪ Uma o tobasu oujo ♪\NGalloping on a horse—the princess
+Dialogue: 0,0:01:04.98,0:01:06.90,Default,,0,0,0,,♪ Sore ga atashi ♪\NThat’s me!
+Dialogue: 0,0:01:07.62,0:01:10.90,Default,,0,0,0,,♪ Lula-dula-lula-dula ♪\N-
+Dialogue: 0,0:01:10.91,0:01:13.42,Default,,0,0,0,,♪ Lulu laa, lulaa ♪\N-
+Dialogue: 0,0:01:14.54,0:01:18.02,Default,,0,0,0,,♪ Lula-dula-lula-dula ♪\N-
+Dialogue: 0,0:01:18.14,0:01:20.74,Default,,0,0,0,,♪ Lulu laa, lulaa ♪\N-
+Dialogue: 0,0:01:21.50,0:01:25.22,Default,,0,0,0,,♪ Ribon no kishi wa ♪\NThe Knight of the Ribbon,
+Dialogue: 0,0:01:25.22,0:01:28.62,Default,,0,0,0,,♪ Honto wa hontto wa ♪\NTruly, truly,
+Dialogue: 0,0:01:28.62,0:01:31.82,Default,,0,0,0,,♪ Atashi nano sa ♪\NIt’s really me!
+Dialogue: 0,0:01:44.10,0:01:50.14,Default,,0,0,0,,Fourth Episode\NThe Phantom Ship\NDance Franz
+Dialogue: 0,0:01:50.38,0:01:52.38,Default,,0,0,0,,♪ Hey-yah-ho ♪
+Dialogue: 0,0:01:52.40,0:01:54.40,Default,,0,0,0,,♪ Hey-yah-ho ♪
+Dialogue: 0,0:01:54.42,0:01:55.98,Default,,0,0,0,,♪ Hey-yah-ho ♪
+Dialogue: 0,0:01:56.00,0:01:58.45,Default,,0,0,0,,♪ Ooooohh-Hoy ♪
+Dialogue: 0,0:01:58.74,0:02:03.06,Default,,0,0,0,,♪ Asa kara ban made, ♪\NFrom morning until night,
+Dialogue: 0,0:02:03.09,0:02:07.14,Default,,0,0,0,,♪ Futari ni tsunagarete! ♪\NChained two by two!
+Dialogue: 0,0:02:07.16,0:02:09.16,Default,,0,0,0,,♪ Yooooh ♪
+Dialogue: 0,0:02:09.19,0:02:11.19,Default,,0,0,0,,♪ Hey-yah-ho ♪
+Dialogue: 0,0:02:11.21,0:02:12.64,Default,,0,0,0,,♪ Hey-yah-ho ♪
+Dialogue: 0,0:02:12.67,0:02:14.89,Default,,0,0,0,,♪ Ooooohh-Hoy ♪
+Dialogue: 0,0:02:15.48,0:02:22.94,Default,,0,0,0,,♪Asa made fuchi ni, tatakarete! ♪\NBeaten into the deep, until morning comes!
+Dialogue: 0,0:02:22.96,0:02:23.48,Default,,0,0,0,,♪ Ohhh ♪
+Dialogue: 0,0:02:23.50,0:02:25.50,Default,,0,0,0,,♪ Hey-yah-ho ♪
+Dialogue: 0,0:02:31.16,0:02:32.16,Default,,0,0,0,,Your Highness!
+Dialogue: 0,0:02:32.62,0:02:33.92,Default,,0,0,0,,Watch out!
+Dialogue: 0,0:02:34.12,0:02:35.44,Default,,0,0,0,,You might you fall in the pond!
+Dialogue: 0,0:02:35.60,0:02:37.06,Default,,0,0,0,,Bye-bye!
+Dialogue: 0,0:02:38.10,0:02:39.10,Default,,0,0,0,,No, don't!
+Dialogue: 0,0:02:39.21,0:02:40.24,Default,,0,0,0,,You mustn't!
+Dialogue: 0,0:02:40.39,0:02:42.36,Default,,0,0,0,,Your Highness, please don't go!
+Dialogue: 0,0:02:45.82,0:02:46.82,Default,,0,0,0,,Nanny!
+Dialogue: 0,0:02:49.56,0:02:50.56,Default,,0,0,0,,Are you okay?
+Dialogue: 0,0:02:52.26,0:02:53.26,Default,,0,0,0,,Look!
+Dialogue: 0,0:02:53.32,0:02:54.64,Default,,0,0,0,,There, I've caught you.
+Dialogue: 0,0:02:54.80,0:02:56.96,Default,,0,0,0,,Today, there is a dance party on the ship.
+Dialogue: 0,0:02:57.14,0:02:58.38,Default,,0,0,0,,Hurry up and get ready.
+Dialogue: 0,0:02:58.58,0:02:59.10,Default,,0,0,0,,Come on, come on!
+Dialogue: 0,0:02:59.36,0:03:00.96,Default,,0,0,0,,I hate dancing!
+Dialogue: 0,0:03:01.11,0:03:02.26,Default,,0,0,0,,No way—!
+Dialogue: 0,0:03:26.79,0:03:27.79,Default,,0,0,0,,Everyone!
+Dialogue: 0,0:03:28.49,0:03:32.76,Default,,0,0,0,,Prince Franz Charming from the neighboring kingdom has arrived incognito.
+Dialogue: 0,0:03:35.07,0:03:36.33,Default,,0,0,0,,Big deal.
+Dialogue: 0,0:03:47.24,0:03:48.56,Default,,0,0,0,,Prince Franz!
+Dialogue: 0,0:03:49.10,0:03:50.10,Default,,0,0,0,,He's here!
+Dialogue: 0,0:03:52.60,0:03:53.06,Default,,0,0,0,,Wow!
+Dialogue: 0,0:03:53.06,0:03:53.64,Default,,0,0,0,,How interesting!
+Dialogue: 0,0:03:53.74,0:03:55.16,Default,,0,0,0,,Is this the greeting of this country?
+Dialogue: 0,0:03:56.22,0:03:57.22,Default,,0,0,0,,I like it!
+Dialogue: 0,0:04:10.96,0:04:12.29,Default,,0,0,0,,Nice to meet you, Prince Sapphire.
+Dialogue: 0,0:04:12.32,0:04:13.40,Default,,0,0,0,,I'm Prince Franz.
+Dialogue: 0,0:04:15.46,0:04:15.78,Default,,0,0,0,,Hello!
+Dialogue: 0,0:04:16.36,0:04:17.36,Default,,0,0,0,,Nice to meet you!
+Dialogue: 0,0:04:17.83,0:04:18.94,Default,,0,0,0,,Well, go on and dance!
+Dialogue: 0,0:04:20.29,0:04:22.60,Default,,0,0,0,,I really hate dancing, so I'll just watch!
+Dialogue: 0,0:04:22.91,0:04:23.92,Default,,0,0,0,,Let's eat sweets later!
+Dialogue: 0,0:04:25.05,0:04:26.05,Default,,0,0,0,,Prince Sapphire!
+Dialogue: 0,0:04:27.58,0:04:29.26,Default,,0,0,0,,Up we go!
+Dialogue: 0,0:04:34.50,0:04:35.41,Default,,0,0,0,,Prince Franz!
+Dialogue: 0,0:04:35.44,0:04:37.00,Default,,0,0,0,,I'll be watching from here, so go ahead and dance!
+Dialogue: 0,0:04:37.97,0:04:38.97,Default,,0,0,0,,What a strange guy.
+Dialogue: 0,0:04:39.08,0:04:40.08,Default,,0,0,0,,He's teasing me.
+Dialogue: 0,0:04:40.10,0:04:40.78,Default,,0,0,0,,Alright!
+Dialogue: 0,0:04:40.81,0:04:41.81,Default,,0,0,0,,I'm coming too!
+Dialogue: 0,0:04:50.00,0:04:51.00,Default,,0,0,0,,Here I go!
+Dialogue: 0,0:05:00.25,0:05:02.74,Default,,0,0,0,,Prince Franz... no, Prince Sapphire...
+Dialogue: 0,0:05:05.16,0:05:08.34,Default,,0,0,0,,Today is the day we find out for sure whether Prince Sapphire is a man or a woman!
+Dialogue: 0,0:05:08.52,0:05:11.12,Default,,0,0,0,,Everything will be fine this time, Grand Duke Duralumin.
+Dialogue: 0,0:05:11.28,0:05:16.02,Default,,0,0,0,,Prince Sapphire flies around wildly like that on purpose, but she is definitely a woman.
+Dialogue: 0,0:05:17.86,0:05:19.94,Default,,0,0,0,,How can you tell she's a girl?
+Dialogue: 0,0:05:21.15,0:05:22.15,Default,,0,0,0,,Are you listening, Grand Duke?
+Dialogue: 0,0:05:22.41,0:05:25.66,Default,,0,0,0,,How about having that Prince Franz look into it? What do you think?
+Dialogue: 0,0:05:26.09,0:05:29.62,Default,,0,0,0,,I see, that's interesting. Don't slip up.
+Dialogue: 0,0:05:38.12,0:05:38.92,Default,,0,0,0,,Wow!
+Dialogue: 0,0:05:39.00,0:05:40.00,Default,,0,0,0,,A ship!
+Dialogue: 0,0:05:44.64,0:05:45.64,Default,,0,0,0,,Thank you!
+Dialogue: 0,0:05:49.82,0:05:51.90,Default,,0,0,0,,What on earth is this "super secret business" about?
+Dialogue: 0,0:05:52.84,0:05:54.31,Default,,0,0,0,,Well, you see,
+Dialogue: 0,0:05:54.33,0:05:57.63,Default,,0,0,0,,it's actually regarding Prince Sapphire, whom you were playing with...
+Dialogue: 0,0:05:57.65,0:05:58.84,Default,,0,0,0,,he has a secret.
+Dialogue: 0,0:05:59.45,0:06:00.70,Default,,0,0,0,,A major secret.
+Dialogue: 0,0:06:00.97,0:06:03.06,Default,,0,0,0,,No one knows whether he's a boy or a girl.
+Dialogue: 0,0:06:03.25,0:06:06.50,Default,,0,0,0,,And so, Prince Franz, they would like you to investigate.
+Dialogue: 0,0:06:06.65,0:06:08.31,Default,,0,0,0,,You don't know if he's a boy or a girl?
+Dialogue: 0,0:06:09.44,0:06:10.48,Default,,0,0,0,,Well, that sounds like fun!
+Dialogue: 0,0:06:10.56,0:06:11.74,Default,,0,0,0,,Alright!
+Dialogue: 0,0:06:14.97,0:06:16.06,Default,,0,0,0,,Lord Nylon is watching you.
+Dialogue: 0,0:06:16.34,0:06:16.91,Default,,0,0,0,,Uh-huh
+Dialogue: 0,0:06:17.13,0:06:18.38,Default,,0,0,0,,So be careful, okay?
+Dialogue: 0,0:06:18.43,0:06:18.97,Default,,0,0,0,,Mm-hmm
+Dialogue: 0,0:06:20.00,0:06:21.00,Default,,0,0,0,,Hey, Sapphire.
+Dialogue: 0,0:06:21.86,0:06:23.00,Default,,0,0,0,,Are you eating a feast?
+Dialogue: 0,0:06:23.10,0:06:26.08,Default,,0,0,0,,You know, I heard something really good about you.
+Dialogue: 0,0:06:26.10,0:06:28.68,Default,,0,0,0,,What are you talking about!
+Dialogue: 0,0:06:29.42,0:06:29.94,Default,,0,0,0,,Whoa!
+Dialogue: 0,0:06:30.08,0:06:31.28,Default,,0,0,0,,Ah!
+Dialogue: 0,0:06:31.34,0:06:32.87,Default,,0,0,0,,Help!
+Dialogue: 0,0:06:34.84,0:06:35.65,Default,,0,0,0,,Hey, guys!
+Dialogue: 0,0:06:35.67,0:06:36.38,Default,,0,0,0,,Ah!
+Dialogue: 0,0:06:37.46,0:06:38.62,Default,,0,0,0,,Look at them all rowing...
+Dialogue: 0,0:06:45.60,0:06:46.28,Default,,0,0,0,,Faster, damn you!
+Dialogue: 0,0:06:48.48,0:06:49.76,Default,,0,0,0,,Keep rowing!
+Dialogue: 0,0:06:49.94,0:06:52.31,Default,,0,0,0,,Stay on course and put your backs into it!
+Dialogue: 0,0:07:11.80,0:07:14.88,Default,,0,0,0,,♪ Asa kara yoru made yo... ♪\NFrom morning until night...
+Dialogue: 0,0:07:20.66,0:07:24.01,Default,,0,0,0,,♪ Tabi ni tsunagare-tsu, mechi ni tatakare... ♪\NChained to this voyage, beaten along the way...
+Dialogue: 0,0:07:24.55,0:07:25.21,Default,,0,0,0,,Row, row!
+Dialogue: 0,0:07:25.30,0:07:25.90,Default,,0,0,0,,No slacking!
+Dialogue: 0,0:07:26.18,0:07:27.18,Default,,0,0,0,,I'll skin you alive!
+Dialogue: 0,0:07:34.74,0:07:36.58,Default,,0,0,0,,What could have happened to these poor souls?
+Dialogue: 0,0:07:37.13,0:07:39.00,Default,,0,0,0,,They're all tied up and forced to work.
+Dialogue: 0,0:07:39.35,0:07:40.35,Default,,0,0,0,,That's strange.
+Dialogue: 0,0:07:43.79,0:07:44.36,Default,,0,0,0,,Hey!
+Dialogue: 0,0:07:44.40,0:07:45.04,Default,,0,0,0,,Row, row!
+Dialogue: 0,0:07:45.22,0:07:46.66,Default,,0,0,0,,If you row, you get to eat!
+Dialogue: 0,0:07:48.57,0:07:49.68,Default,,0,0,0,,Ah, I want to drink some water.
+Dialogue: 0,0:07:50.50,0:07:51.50,Default,,0,0,0,,Hey!
+Dialogue: 0,0:07:52.38,0:07:53.47,Default,,0,0,0,,You rat!
+Dialogue: 0,0:07:53.94,0:07:55.38,Default,,0,0,0,,I'm not a rat.
+Dialogue: 0,0:07:55.96,0:07:57.42,Default,,0,0,0,,I'm an angel named Tink.
+Dialogue: 0,0:07:57.98,0:07:58.98,Default,,0,0,0,,An angel?
+Dialogue: 0,0:07:59.08,0:07:59.58,Default,,0,0,0,,Really?
+Dialogue: 0,0:07:59.60,0:08:00.60,Default,,0,0,0,,Are you really an angel?
+Dialogue: 0,0:08:00.97,0:08:01.97,Default,,0,0,0,,I told you, it's true!
+Dialogue: 0,0:08:02.44,0:08:04.90,Default,,0,0,0,,Mister, you're tied up because you did something bad, aren't you?
+Dialogue: 0,0:08:05.00,0:08:06.00,Default,,0,0,0,,Something bad?
+Dialogue: 0,0:08:06.54,0:08:07.21,Default,,0,0,0,,Blood!
+Dialogue: 0,0:08:07.24,0:08:08.88,Default,,0,0,0,,What are you grumbling about over there?!
+Dialogue: 0,0:08:09.20,0:08:10.20,Default,,0,0,0,,Pull!
+Dialogue: 0,0:08:13.98,0:08:15.67,Default,,0,0,0,,Stop rowing!
+Dialogue: 0,0:08:16.39,0:08:18.06,Default,,0,0,0,,Alright, you dogs, break time!
+Dialogue: 0,0:08:23.49,0:08:24.72,Default,,0,0,0,,I'm gonna eat!
+Dialogue: 0,0:08:24.84,0:08:26.48,Default,,0,0,0,,Make a noise and you'll pay for it!
+Dialogue: 0,0:08:26.82,0:08:29.24,Default,,0,0,0,,Hey, mister, what bad thing did you do?
+Dialogue: 0,0:08:29.90,0:08:32.84,Default,,0,0,0,,If you're really an angel, you should know the truth about everything.
+Dialogue: 0,0:08:33.14,0:08:34.84,Default,,0,0,0,,Whether we...
+Dialogue: 0,0:08:34.99,0:08:35.99,Default,,0,0,0,,...are good people...
+Dialogue: 0,0:08:36.08,0:08:37.08,Default,,0,0,0,,...or bad guys.
+Dialogue: 0,0:08:37.21,0:08:38.62,Default,,0,0,0,,You should be able to tell.
+Dialogue: 0,0:08:38.91,0:08:43.12,Default,,0,0,0,,We just didn't bow, that's all.
+Dialogue: 0,0:08:45.11,0:08:48.37,Default,,0,0,0,,When Grand Duke Duralumin passed by, we didn't bow,
+Dialogue: 0,0:08:49.37,0:08:51.62,Default,,0,0,0,,so the soldiers caught us and put us in chains.
+Dialogue: 0,0:08:52.11,0:08:53.61,Default,,0,0,0,,Resume rowing!
+Dialogue: 0,0:08:54.52,0:08:56.38,Default,,0,0,0,,Row, you dogs!
+Dialogue: 0,0:08:56.88,0:08:58.28,Default,,0,0,0,,Come on, sing!
+Dialogue: 0,0:09:11.76,0:09:15.22,Default,,0,0,0,,Ah, something this terrible... how can I, an angel, just stay silent?
+Dialogue: 0,0:09:17.66,0:09:19.12,Default,,0,0,0,,No way!
+Dialogue: 0,0:09:20.28,0:09:21.28,Default,,0,0,0,,Ah!
+Dialogue: 0,0:09:21.60,0:09:22.20,Default,,0,0,0,,No, no!
+Dialogue: 0,0:09:22.38,0:09:23.63,Default,,0,0,0,,I hate singing and dancing!
+Dialogue: 0,0:09:24.44,0:09:25.00,Default,,0,0,0,,You can't do that!
+Dialogue: 0,0:09:25.02,0:09:26.45,Default,,0,0,0,,If you're invited, you have to dance!
+Dialogue: 0,0:09:27.46,0:09:28.46,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:09:34.61,0:09:36.30,Default,,0,0,0,,Hey there...
+Dialogue: 0,0:09:36.60,0:09:37.62,Default,,0,0,0,,What is it, Tink?
+Dialogue: 0,0:09:38.28,0:09:39.46,Default,,0,0,0,,There's big trouble!
+Dialogue: 0,0:09:40.02,0:09:40.24,Default,,0,0,0,,Huh?
+Dialogue: 0,0:09:40.48,0:09:41.48,Default,,0,0,0,,What happened?
+Dialogue: 0,0:09:41.66,0:09:42.84,Default,,0,0,0,,Well, you see...
+Dialogue: 0,0:09:43.52,0:09:44.88,Default,,0,0,0,,Stop singing that song!
+Dialogue: 0,0:09:46.46,0:09:47.46,Default,,0,0,0,,Ah!
+Dialogue: 0,0:09:53.58,0:09:54.40,Default,,0,0,0,,I said I don't want to!
+Dialogue: 0,0:09:54.44,0:09:55.44,Default,,0,0,0,,Now see here!
+Dialogue: 0,0:09:58.63,0:10:00.88,Default,,0,0,0,,Please help those people!
+Dialogue: 0,0:10:06.34,0:10:07.34,Default,,0,0,0,,Stop it!
+Dialogue: 0,0:10:07.66,0:10:08.66,Default,,0,0,0,,No way!
+Dialogue: 0,0:10:15.08,0:10:16.08,Default,,0,0,0,,Princess Sapphire!
+Dialogue: 0,0:10:16.60,0:10:17.60,Default,,0,0,0,,Princess Sapphire?
+Dialogue: 0,0:10:20.67,0:10:21.90,Default,,0,0,0,,I'm not a girl!
+Dialogue: 0,0:10:23.93,0:10:25.56,Default,,0,0,0,,You don't have to hide it from me.
+Dialogue: 0,0:10:25.78,0:10:26.78,Default,,0,0,0,,What did you say?
+Dialogue: 0,0:10:29.25,0:10:30.28,Default,,0,0,0,,You're a girl, aren't you?
+Dialogue: 0,0:10:30.44,0:10:31.52,Default,,0,0,0,,I realized it while we were dancing.
+Dialogue: 0,0:10:31.86,0:10:33.72,Default,,0,0,0,,I told you to shut up, or I'll challenge you to a duel!
+Dialogue: 0,0:10:35.00,0:10:36.00,Default,,0,0,0,,Draw your sword!
+Dialogue: 0,0:10:36.38,0:10:37.50,Default,,0,0,0,,No way, I don't want to fight!
+Dialogue: 0,0:10:37.97,0:10:39.60,Default,,0,0,0,,You were actually a girl!
+Dialogue: 0,0:10:40.56,0:10:41.96,Default,,0,0,0,,What? Did you say I was a girl?
+Dialogue: 0,0:10:42.32,0:10:42.76,Default,,0,0,0,,A girl!
+Dialogue: 0,0:10:43.10,0:10:44.10,Default,,0,0,0,,What, a tomboy?!
+Dialogue: 0,0:10:45.89,0:10:48.54,Default,,0,0,0,,Sapphire, this is no time to fight!
+Dialogue: 0,0:10:53.24,0:10:54.38,Default,,0,0,0,,Such a tomboy for a girl!
+Dialogue: 0,0:10:54.40,0:10:55.40,Default,,0,0,0,,What?
+Dialogue: 0,0:10:56.61,0:10:57.30,Default,,0,0,0,,Tomboy!
+Dialogue: 0,0:10:57.58,0:10:58.88,Default,,0,0,0,,I told you I'm a guy!
+Dialogue: 0,0:10:59.80,0:11:00.46,Default,,0,0,0,,Delinquent!
+Dialogue: 0,0:11:00.66,0:11:01.66,Default,,0,0,0,,Bad boy!
+Dialogue: 0,0:11:01.88,0:11:03.38,Default,,0,0,0,,Now, now, you two!
+Dialogue: 0,0:11:03.92,0:11:04.92,Default,,0,0,0,,Get lost!
+Dialogue: 0,0:11:07.45,0:11:12.62,Default,,0,0,0,,Nylon, watch closely. Princess Sapphire's voice is starting to sound more and more like a woman's.
+Dialogue: 0,0:11:14.37,0:11:17.26,Default,,0,0,0,,I see. I wonder if he'll accidentally slip into talking like a woman.
+Dialogue: 0,0:11:22.68,0:11:24.07,Default,,0,0,0,,Two by two!
+Dialogue: 0,0:11:24.62,0:11:25.62,Default,,0,0,0,,Thank you, Little Angel!
+Dialogue: 0,0:11:25.90,0:11:26.90,Default,,0,0,0,,They're really off!
+Dialogue: 0,0:11:39.10,0:11:40.10,Default,,0,0,0,,I give up!
+Dialogue: 0,0:11:41.60,0:11:42.76,Default,,0,0,0,,What do you mean you give up?!
+Dialogue: 0,0:11:42.88,0:11:43.98,Default,,0,0,0,,Don't talk back to me!
+Dialogue: 0,0:11:44.79,0:11:45.79,Default,,0,0,0,,What did you do with the chain?!
+Dialogue: 0,0:11:55.77,0:11:56.80,Default,,0,0,0,,Now I've done it!
+Dialogue: 0,0:11:47.22,0:11:49.40,Default,,0,0,0,,Take that!
+Dialogue: 0,0:11:49.43,0:11:51.22,Default,,0,0,0,,Now's our chance!
+Dialogue: 0,0:12:07.00,0:12:07.56,Default,,0,0,0,,Just a minute.
+Dialogue: 0,0:12:07.58,0:12:08.14,Default,,0,0,0,,Now!
+Dialogue: 0,0:12:08.34,0:12:09.34,Default,,0,0,0,,Are you out of your mind?!
+Dialogue: 0,0:12:17.30,0:12:18.30,Default,,0,0,0,,Hey, watch out!
+Dialogue: 0,0:12:21.80,0:12:23.06,Default,,0,0,0,,Who are you guys?!
+Dialogue: 0,0:12:23.26,0:12:24.26,Default,,0,0,0,,Shut up!
+Dialogue: 0,0:12:25.32,0:12:26.78,Default,,0,0,0,,Why are you being so violent?!
+Dialogue: 0,0:12:26.80,0:12:27.80,Default,,0,0,0,,Stop it!
+Dialogue: 0,0:12:27.82,0:12:28.94,Default,,0,0,0,,You think I'm gonna stop?!
+Dialogue: 0,0:12:29.04,0:12:30.04,Default,,0,0,0,,Prepare yourself!
+Dialogue: 0,0:12:30.37,0:12:31.08,Default,,0,0,0,,Watch out!
+Dialogue: 0,0:12:34.36,0:12:35.78,Default,,0,0,0,,Prince Sapphire, it's dangerous here!
+Dialogue: 0,0:12:36.06,0:12:37.06,Default,,0,0,0,,Run!
+Dialogue: 0,0:12:37.40,0:12:37.93,Default,,0,0,0,,Not a chance!
+Dialogue: 0,0:13:01.06,0:13:02.06,Default,,0,0,0,,Get them!
+Dialogue: 0,0:13:04.24,0:13:05.54,Default,,0,0,0,,Ah, soldiers!
+Dialogue: 0,0:13:05.66,0:13:06.16,Default,,0,0,0,,Damn it!
+Dialogue: 0,0:13:06.42,0:13:07.42,Default,,0,0,0,,Stop!
+Dialogue: 0,0:13:11.18,0:13:12.18,Default,,0,0,0,,Run to the stairs!
+Dialogue: 0,0:13:15.79,0:13:17.20,Default,,0,0,0,,We can throw soldiers out!
+Dialogue: 0,0:13:17.24,0:13:18.24,Default,,0,0,0,,Make a pitfall trap!
+Dialogue: 0,0:13:19.09,0:13:19.88,Default,,0,0,0,,Open up!
+Dialogue: 0,0:13:20.05,0:13:20.94,Default,,0,0,0,,Come out!
+Dialogue: 0,0:13:21.00,0:13:22.00,Default,,0,0,0,,Stop it!
+Dialogue: 0,0:13:22.21,0:13:23.40,Default,,0,0,0,,Not yet?
+Dialogue: 0,0:13:23.56,0:13:24.56,Default,,0,0,0,,Just a little more!
+Dialogue: 0,0:13:32.92,0:13:33.92,Default,,0,0,0,,Alright!
+Dialogue: 0,0:13:53.43,0:13:54.34,Default,,0,0,0,,We took care of the soldiers!
+Dialogue: 0,0:13:54.40,0:13:55.40,Default,,0,0,0,,Take it out!
+Dialogue: 0,0:13:55.43,0:13:56.48,Default,,0,0,0,,Yes!
+Dialogue: 0,0:14:07.30,0:14:08.30,Default,,0,0,0,,Damn it!
+Dialogue: 0,0:14:08.56,0:14:09.56,Default,,0,0,0,,There are still more of them?!
+Dialogue: 0,0:14:10.06,0:14:13.26,Default,,0,0,0,,You foolish slaves, do you think you can defeat me?!
+Dialogue: 0,0:14:14.93,0:14:16.82,Default,,0,0,0,,Things have gotten terrible, Princess Sapphire!
+Dialogue: 0,0:14:17.22,0:14:19.29,Default,,0,0,0,,I told you I'm not a princess, I'm a prince!
+Dialogue: 0,0:14:20.38,0:14:21.38,Default,,0,0,0,,I got it.
+Dialogue: 0,0:14:21.96,0:14:23.94,Default,,0,0,0,,But can we get out of here?
+Dialogue: 0,0:14:24.26,0:14:26.86,Default,,0,0,0,,Sapphire, they're fighting fiercely outside.
+Dialogue: 0,0:14:27.16,0:14:28.81,Default,,0,0,0,,I wonder what happened to that guy?
+Dialogue: 0,0:14:39.40,0:14:40.40,Default,,0,0,0,,Wait!
+Dialogue: 0,0:14:40.71,0:14:41.94,Default,,0,0,0,,Tink told me the reason!
+Dialogue: 0,0:14:42.28,0:14:43.64,Default,,0,0,0,,You can't kill those people!
+Dialogue: 0,0:14:44.55,0:14:47.86,Default,,0,0,0,,Well, well, Prince Sapphire, are you unharmed?
+Dialogue: 0,0:14:48.36,0:14:50.22,Default,,0,0,0,,Of course I wouldn't do such a thing.
+Dialogue: 0,0:14:50.34,0:14:51.34,Default,,0,0,0,,That's a promise!
+Dialogue: 0,0:14:51.39,0:14:53.96,Default,,0,0,0,,- You said you wouldn't kill them!\N- Those people are good people!
+Dialogue: 0,0:14:53.99,0:14:55.44,Default,,0,0,0,,They just didn't bow!
+Dialogue: 0,0:14:55.44,0:14:56.36,Default,,0,0,0,,Who do you think you are?!
+Dialogue: 0,0:14:56.38,0:14:57.38,Default,,0,0,0,,Shut up!
+Dialogue: 0,0:15:10.56,0:15:11.32,Default,,0,0,0,,Nylon!
+Dialogue: 0,0:15:11.34,0:15:12.06,Default,,0,0,0,,It's time!
+Dialogue: 0,0:15:12.17,0:15:13.22,Default,,0,0,0,,Yes, sir!
+Dialogue: 0,0:15:13.52,0:15:14.42,Default,,0,0,0,,It's time for the execution!
+Dialogue: 0,0:15:14.46,0:15:15.75,Default,,0,0,0,,Fire!
+Dialogue: 0,0:15:24.08,0:15:25.08,Default,,0,0,0,,That sound!
+Dialogue: 0,0:15:25.82,0:15:27.66,Default,,0,0,0,,Isn't that the drum preparing for the execution?!
+Dialogue: 0,0:15:28.24,0:15:29.24,Default,,0,0,0,,Indeed!
+Dialogue: 0,0:15:29.40,0:15:31.02,Default,,0,0,0,,That wasn't the promise! You broke the promise!
+Dialogue: 0,0:15:31.74,0:15:32.38,Default,,0,0,0,,A promise?
+Dialogue: 0,0:15:32.58,0:15:37.30,Default,,0,0,0,,I don't recall making any such promise, but it's only natural that those guys be executed!
+Dialogue: 0,0:15:37.82,0:15:39.20,Default,,0,0,0,,Fine then, I'm going to tell Father on you!
+Dialogue: 0,0:15:39.46,0:15:40.92,Default,,0,0,0,,They say Grand Duke Duralumin is a liar!
+Dialogue: 0,0:15:41.27,0:15:44.82,Default,,0,0,0,,Go right ahead, I've already received the execution stamp anyway!
+Dialogue: 0,0:15:46.74,0:15:48.56,Default,,0,0,0,,Gather everyone in town!
+Dialogue: 0,0:15:48.65,0:15:50.13,Default,,0,0,0,,Show them the execution!
+Dialogue: 0,0:15:51.09,0:15:52.78,Default,,0,0,0,,What a terrible guy!
+Dialogue: 0,0:16:06.88,0:16:07.88,Default,,0,0,0,,Alright, watch this!
+Dialogue: 0,0:16:07.95,0:16:08.95,Default,,0,0,0,,I'm gonna give them a surprise!
+Dialogue: 0,0:16:10.18,0:16:10.78,Default,,0,0,0,,Hey!
+Dialogue: 0,0:16:11.18,0:16:12.18,Default,,0,0,0,,Prince Franz!
+Dialogue: 0,0:16:12.48,0:16:13.56,Default,,0,0,0,,I came chasing after you!
+Dialogue: 0,0:16:14.19,0:16:16.06,Default,,0,0,0,,Leave the dangerous stuff to the boys!
+Dialogue: 0,0:16:16.29,0:16:18.44,Default,,0,0,0,,I keep telling you, I'm a boy too! Alright?!
+Dialogue: 0,0:16:19.10,0:16:21.18,Default,,0,0,0,,It's fine, it's fine, just leave it to me!
+Dialogue: 0,0:16:21.24,0:16:22.36,Default,,0,0,0,,You busybody!
+Dialogue: 0,0:16:24.20,0:16:26.58,Default,,0,0,0,,Wipe that look off your face!
+Dialogue: 0,0:16:48.83,0:16:49.44,Default,,0,0,0,,Hey!
+Dialogue: 0,0:16:49.46,0:16:50.46,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:16:57.02,0:16:58.32,Default,,0,0,0,,Do you have anything to say?
+Dialogue: 0,0:17:01.11,0:17:02.11,Default,,0,0,0,,Grand Duke Duralumin
+Dialogue: 0,0:17:02.80,0:17:07.14,Default,,0,0,0,,No matter how important you are, I won't bow to anyone who does bad things!
+Dialogue: 0,0:17:08.00,0:17:09.00,Default,,0,0,0,,Not even if I die!
+Dialogue: 0,0:17:09.89,0:17:11.07,Default,,0,0,0,,Ready,
+Dialogue: 0,0:17:11.10,0:17:12.50,Default,,0,0,0,,launch!
+Dialogue: 0,0:17:15.56,0:17:16.70,Default,,0,0,0,,What happened?!
+Dialogue: 0,0:17:19.83,0:17:20.86,Default,,0,0,0,,There's no one here!
+Dialogue: 0,0:17:21.56,0:17:22.04,Default,,0,0,0,,No one?
+Dialogue: 0,0:17:22.30,0:17:22.76,Default,,0,0,0,,Idiot!
+Dialogue: 0,0:17:23.04,0:17:24.97,Default,,0,0,0,,As if a cannon could fire on its own!
+Dialogue: 0,0:17:25.38,0:17:25.98,Default,,0,0,0,,Search!
+Dialogue: 0,0:17:26.31,0:17:27.38,Default,,0,0,0,,Find the prisoner!
+Dialogue: 0,0:17:27.85,0:17:29.34,Default,,0,0,0,,There must be an intruder!
+Dialogue: 0,0:17:29.36,0:17:30.36,Default,,0,0,0,,Yes, sir!
+Dialogue: 0,0:17:40.82,0:17:41.58,Default,,0,0,0,,What is it?
+Dialogue: 0,0:17:41.74,0:17:42.26,Default,,0,0,0,,I don't know!
+Dialogue: 0,0:17:42.46,0:17:44.42,Default,,0,0,0,,If you're not busy, search for the intruder too!
+Dialogue: 0,0:17:44.45,0:17:44.84,Default,,0,0,0,,Yes, sir!
+Dialogue: 0,0:17:45.33,0:17:46.38,Default,,0,0,0,,What are you doing in a place like this?!
+Dialogue: 0,0:17:46.43,0:17:47.43,Default,,0,0,0,,I don't know!
+Dialogue: 0,0:17:53.33,0:17:53.97,Default,,0,0,0,,Alright.
+Dialogue: 0,0:17:57.68,0:17:59.94,Default,,0,0,0,,What on earth... what is going on?!
+Dialogue: 0,0:18:02.22,0:18:02.84,Default,,0,0,0,,What happened?!
+Dialogue: 0,0:18:02.98,0:18:03.80,Default,,0,0,0,,Even you?!
+Dialogue: 0,0:18:03.82,0:18:04.46,Default,,0,0,0,,I don't know!
+Dialogue: 0,0:18:04.64,0:18:05.59,Default,,0,0,0,,There's definitely someone here!
+Dialogue: 0,0:18:05.64,0:18:06.13,Default,,0,0,0,,Search!
+Dialogue: 0,0:18:06.15,0:18:07.15,Default,,0,0,0,,Drag them out!
+Dialogue: 0,0:18:23.70,0:18:23.70,Default,,0,0,0,,What?!
+Dialogue: 0,0:18:23.70,0:18:23.70,Default,,0,0,0,,What?!
+Dialogue: 0,0:18:30.39,0:18:32.20,Default,,0,0,0,,The ship started moving!
+Dialogue: 0,0:18:32.66,0:18:33.66,Default,,0,0,0,,It moved!
+Dialogue: 0,0:18:37.63,0:18:39.32,Default,,0,0,0,,It started moving all by itself!
+Dialogue: 0,0:18:39.54,0:18:39.88,Default,,0,0,0,,Stop it!
+Dialogue: 0,0:18:39.94,0:18:41.00,Default,,0,0,0,,Stop the ship!
+Dialogue: 0,0:18:44.69,0:18:46.59,Default,,0,0,0,,It's moving so fast!
+Dialogue: 0,0:18:49.99,0:18:51.08,Default,,0,0,0,,Who set the ship in motion?!
+Dialogue: 0,0:18:51.42,0:18:51.86,Default,,0,0,0,,Stop it!
+Dialogue: 0,0:18:51.88,0:18:52.61,Default,,0,0,0,,Stop it!
+Dialogue: 0,0:18:52.70,0:18:53.66,Default,,0,0,0,,We can't carry out the execution!
+Dialogue: 0,0:18:53.72,0:18:54.72,Default,,0,0,0,,Stop the ship!
+Dialogue: 0,0:18:55.38,0:18:57.88,Default,,0,0,0,,Why is it moving when there's no one down below?!
+Dialogue: 0,0:18:58.32,0:18:59.36,Default,,0,0,0,,I don't know!
+Dialogue: 0,0:18:59.53,0:19:02.37,Default,,0,0,0,,To think a ship could travel this fast!
+Dialogue: 0,0:19:02.63,0:19:03.63,Default,,0,0,0,,A ghost ship!
+Dialogue: 0,0:19:03.89,0:19:05.22,Default,,0,0,0,,A ghost ship?
+Dialogue: 0,0:19:05.45,0:19:06.14,Default,,0,0,0,,Foolishness!
+Dialogue: 0,0:19:06.26,0:19:07.26,Default,,0,0,0,,That's impossible!
+Dialogue: 0,0:19:07.84,0:19:09.08,Default,,0,0,0,,A ghost ship!
+Dialogue: 0,0:19:11.75,0:19:12.75,Default,,0,0,0,,This is getting interesting!
+Dialogue: 0,0:19:15.04,0:19:16.04,Default,,0,0,0,,Highness!
+Dialogue: 0,0:19:16.14,0:19:17.35,Default,,0,0,0,,Hang in there!
+Dialogue: 0,0:19:20.52,0:19:21.13,Default,,0,0,0,,That's right!
+Dialogue: 0,0:19:21.16,0:19:22.88,Default,,0,0,0,,The ghost fired the cannon too!
+Dialogue: 0,0:19:23.42,0:19:24.04,Default,,0,0,0,,Stop!
+Dialogue: 0,0:19:24.06,0:19:25.80,Default,,0,0,0,,There's no way a ghost would shoot a cannon!
+Dialogue: 0,0:19:26.14,0:19:27.16,Default,,0,0,0,,Here's a bonus!
+Dialogue: 0,0:19:28.64,0:19:28.96,Default,,0,0,0,,Hey!
+Dialogue: 0,0:19:29.10,0:19:30.20,Default,,0,0,0,,Listen, don't run away!
+Dialogue: 0,0:19:30.26,0:19:31.26,Default,,0,0,0,,Please!
+Dialogue: 0,0:19:32.10,0:19:32.82,Default,,0,0,0,,Stop dawdling!
+Dialogue: 0,0:19:32.90,0:19:34.14,Default,,0,0,0,,Chase that ghost ship!
+Dialogue: 0,0:19:34.41,0:19:36.88,Default,,0,0,0,,Understood, the ghost ship!
+Dialogue: 0,0:19:43.46,0:19:44.46,Default,,0,0,0,,Ready?
+Dialogue: 0,0:19:45.08,0:19:45.52,Default,,0,0,0,,Ready?
+Dialogue: 0,0:19:45.83,0:19:47.06,Default,,0,0,0,,Jump out on 1, 2, 3!
+Dialogue: 0,0:19:47.06,0:19:48.10,Default,,0,0,0,,There!
+Dialogue: 0,0:19:48.12,0:19:49.52,Default,,0,0,0,,Search starting from this room!
+Dialogue: 0,0:19:53.26,0:19:54.26,Default,,0,0,0,,Wh-Who is it?
+Dialogue: 0,0:19:54.81,0:19:57.20,Default,,0,0,0,,There's nobody here.
+Dialogue: 0,0:19:57.30,0:19:59.58,Default,,0,0,0,,N-N-N-Nobody, you say?
+Dialogue: 0,0:20:11.76,0:20:12.96,Default,,0,0,0,,Truth be told!
+Dialogue: 0,0:20:13.05,0:20:14.20,Default,,0,0,0,,We were the ghosts!
+Dialogue: 0,0:20:14.25,0:20:15.04,Default,,0,0,0,,Stop!
+Dialogue: 0,0:20:15.14,0:20:16.84,Default,,0,0,0,,Here's another bonus!
+Dialogue: 0,0:20:28.54,0:20:28.94,Default,,0,0,0,,Take that!
+Dialogue: 0,0:20:29.16,0:20:29.84,Default,,0,0,0,,1, 2, 3!
+Dialogue: 0,0:20:30.04,0:20:31.04,Default,,0,0,0,,Alright!
+Dialogue: 0,0:20:35.92,0:20:36.70,Default,,0,0,0,,Please wait!
+Dialogue: 0,0:20:36.72,0:20:37.14,Default,,0,0,0,,Please wait!
+Dialogue: 0,0:20:37.17,0:20:37.90,Default,,0,0,0,,Here you go!
+Dialogue: 0,0:20:37.92,0:20:38.26,Default,,0,0,0,,Thank you!
+Dialogue: 0,0:20:42.34,0:20:43.62,Default,,0,0,0,,It's all thanks to you.
+Dialogue: 0,0:20:45.21,0:20:46.68,Default,,0,0,0,,Playing ghost was fun, wasn't it!
+Dialogue: 0,0:20:47.15,0:20:48.15,Default,,0,0,0,,Let's do it again!
+Dialogue: 0,0:20:48.85,0:20:50.72,Default,,0,0,0,,Duralumin's ship is chasing us!
+Dialogue: 0,0:20:54.80,0:20:55.18,Default,,0,0,0,,Hey!
+Dialogue: 0,0:20:55.50,0:20:57.06,Default,,0,0,0,,Tink, I'm counting on you!
+Dialogue: 0,0:20:57.49,0:20:59.04,Default,,0,0,0,,Okay!
+Dialogue: 0,0:21:00.23,0:21:01.26,Default,,0,0,0,,Alright!
+Dialogue: 0,0:21:03.71,0:21:04.88,Default,,0,0,0,,Iruka-kun, I'm counting on you!
+Dialogue: 0,0:21:04.88,0:21:05.88,Default,,0,0,0,,Go!
+Dialogue: 0,0:21:17.22,0:21:18.22,Default,,0,0,0,,Dolphins?!
+Dialogue: 0,0:21:18.80,0:21:20.38,Default,,0,0,0,,Dolphins were pulling the ship?!
+Dialogue: 0,0:21:23.52,0:21:24.30,Default,,0,0,0,,Row!
+Dialogue: 0,0:21:24.34,0:21:24.92,Default,,0,0,0,,Row!
+Dialogue: 0,0:21:25.18,0:21:26.36,Default,,0,0,0,,We're almost catching up!
+Dialogue: 0,0:21:26.38,0:21:27.38,Default,,0,0,0,,Row!
+Dialogue: 0,0:21:48.86,0:21:49.86,Default,,0,0,0,,So fast!
+Dialogue: 0,0:21:50.78,0:21:52.30,Default,,0,0,0,,There's no way I can catch up!
+Dialogue: 0,0:21:53.08,0:21:53.80,Default,,0,0,0,,Everyone!
+Dialogue: 0,0:21:53.82,0:21:54.82,Default,,0,0,0,,Listen to me!
+Dialogue: 0,0:21:59.83,0:22:02.78,Default,,0,0,0,,We've had enough of bowing and scraping like we used to!
+Dialogue: 0,0:22:03.36,0:22:05.94,Default,,0,0,0,,From now on, we're heading out to sea to stretch our wings!
+Dialogue: 0,0:22:26.75,0:22:27.67,Default,,0,0,0,,Tink!
+Dialogue: 0,0:22:27.69,0:22:29.85,Default,,0,0,0,,I'm escorting you all the way to the sea!
+Dialogue: 0,0:22:30.04,0:22:31.24,Default,,0,0,0,,Leave it to me!
+Dialogue: 0,0:22:31.24,0:22:32.94,Default,,0,0,0,,Row!
+Dialogue: 0,0:22:36.28,0:22:36.28,Default,,0,0,0,,Pulley!
+Dialogue: 0,0:22:37.28,0:22:43.39,Default,,0,0,0,,Goodbye Prince Sapphire!
+Dialogue: 0,0:22:44.74,0:22:46.84,Default,,0,0,0,,You are a wonderful woman!
+Dialogue: 0,0:22:47.00,0:22:47.60,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:22:47.72,0:22:48.92,Default,,0,0,0,,Thank you!
+Dialogue: 0,0:22:49.26,0:22:50.92,Default,,0,0,0,,Goodbye!
+Dialogue: 0,0:23:04.10,0:23:05.34,Default,,0,0,0,,Well, I should head back too!
+Dialogue: 0,0:23:05.74,0:23:06.76,Default,,0,0,0,,Sapphire, see you later!
+Dialogue: 0,0:23:07.75,0:23:08.22,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:23:08.25,0:23:09.25,Default,,0,0,0,,Let me see you again!
+Dialogue: 0,0:23:09.90,0:23:11.48,Default,,0,0,0,,Here, this is my present!
+Dialogue: 0,0:23:14.29,0:23:14.92,Default,,0,0,0,,Flowers?
+Dialogue: 0,0:23:14.95,0:23:16.02,Default,,0,0,0,,I don't need flowers!
+Dialogue: 0,0:23:16.24,0:23:18.52,Default,,0,0,0,,The language of this flower... is a secret!
+Dialogue: 0,0:23:19.00,0:23:20.00,Default,,0,0,0,,Goodbye!
+Dialogue: 0,0:23:21.50,0:23:22.50,Default,,0,0,0,,There go!
+Dialogue: 0,0:23:31.24,0:23:32.24,Default,,0,0,0,,A Secret.
+Dialogue: 0,0:24:10.10,0:24:13.72,Default,,0,0,0,,♪ Tarari Ratta Ritta Ratta Rattattaa ♪\N-
+Dialogue: 0,0:24:13.72,0:24:17.08,Default,,0,0,0,,♪ Kyahoo! Kyahoo! Kyahoo! ♪\NYahoo! Yahoo! Yahoo!
+Dialogue: 0,0:24:17.08,0:24:20.85,Default,,0,0,0,,♪ Tarari Ratta Ritta Ratta Rattattaa ♪\N-
+Dialogue: 0,0:24:20.85,0:24:24.01,Default,,0,0,0,,♪ Kyahoo! Kyahoo! Kyahoo! ♪\NYahoo! Yahoo! Yahoo!
+Dialogue: 0,0:24:24.02,0:24:27.83,Default,,0,0,0,,♪ Sen'nen man'nen hyakuman-nen ♪\NA thousand years, ten thousand years, a million years,
+Dialogue: 0,0:24:27.83,0:24:31.13,Default,,0,0,0,,♪ Ribbon de tsunagou ichioku-nen ♪\NLet’s connect with ribbons for a billion years!
+Dialogue: 0,0:24:31.13,0:24:35.13,Default,,0,0,0,,♪ Akuma ga kute mo arashi ga kute mo ♪\NEven if devils come, even if storms arrive,
+Dialogue: 0,0:24:35.13,0:24:38.57,Default,,0,0,0,,♪ tsunaida kokoro wa hanarenai ♪\NOur bonded hearts will never part.
+Dialogue: 0,0:24:38.57,0:24:42.19,Default,,0,0,0,,♪ Tarari Ratta Ritta Ratta Rattattaa ♪\N-
+Dialogue: 0,0:24:42.19,0:24:45.55,Default,,0,0,0,,♪ Kyahoo! Kyahoo! Kyahoo! ♪\NYahoo! Yahoo! Yahoo!
+Dialogue: 0,0:24:45.55,0:24:49.32,Default,,0,0,0,,♪ Tarari Ratta Ritta Ratta Rattattaa ♪\N-
+Dialogue: 0,0:24:49.32,0:24:52.49,Default,,0,0,0,,♪ Kyahoo! Kyahoo! Kyahoo! ♪\NYahoo! Yahoo! Yahoo!
+Dialogue: 0,0:24:52.51,0:24:58.22,Default,,0,0,0,,Subtitled by\NSilverlandSubs\Ntinyurl.com/SilverlandSubs
+Dialogue: 0,0:24:58.24,0:25:03.38,Default,,0,0,0,,Opening & Ending Song Lyrics Translation by\NNatalia Arlovskaya\Nlyricstranslate.com/en/\Ntranslator/natalia-arlovskaya
+Dialogue: 0,0:25:03.41,0:25:07.41,Default,,0,0,0,,EAN-13 : 8-031179-423880\NASIN : ‎ B0DQ54LVY1\NEAN-13 : 8-031179-426225\NASIN : ‎ B0F1V5YTQP

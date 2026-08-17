@@ -1,0 +1,346 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: 36 the great witch returns 1.english.full-dialogue
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.18,0:00:09.22,Default,,0,0,0,,The Princess Sapphire\NKnight of the Ribbon
+Dialogue: 0,0:00:44.00,0:00:50.16,Default,,0,0,0,,♪ Atashi no miru yume himitsu nano ♪\NThe dreams I see are my secret
+Dialogue: 0,0:00:51.25,0:00:57.09,Default,,0,0,0,,♪ Dare ni mo iwanai himitsu nano ♪\NI won’t tell anyone—it’s my secret
+Dialogue: 0,0:00:58.54,0:01:02.46,Default,,0,0,0,,♪ Akai manto hira hira ♪\NA red cape fluttering
+Dialogue: 0,0:01:02.46,0:01:04.98,Default,,0,0,0,,♪ Uma o tobasu oujo ♪\NGalloping on a horse—the princess
+Dialogue: 0,0:01:04.98,0:01:06.90,Default,,0,0,0,,♪ Sore ga atashi ♪\NThat’s me!
+Dialogue: 0,0:01:07.62,0:01:10.90,Default,,0,0,0,,♪ Lula-dula-lula-dula ♪\N-
+Dialogue: 0,0:01:10.91,0:01:13.42,Default,,0,0,0,,♪ Lulu laa, lulaa ♪\N-
+Dialogue: 0,0:01:14.54,0:01:18.02,Default,,0,0,0,,♪ Lula-dula-lula-dula ♪\N-
+Dialogue: 0,0:01:18.14,0:01:20.74,Default,,0,0,0,,♪ Lulu laa, lulaa ♪\N-
+Dialogue: 0,0:01:21.50,0:01:25.22,Default,,0,0,0,,♪ Ribon no kishi wa ♪\NThe Knight of the Ribbon,
+Dialogue: 0,0:01:25.22,0:01:28.62,Default,,0,0,0,,♪ Honto wa hontto wa ♪\NTruly, truly,
+Dialogue: 0,0:01:28.62,0:01:31.82,Default,,0,0,0,,♪ Atashi nano sa ♪\NIt’s really me!
+Dialogue: 0,0:01:44.10,0:01:50.14,Default,,0,0,0,,Thirty-Sixth Episode\NThe Spell of Mephisto\NThe Great Witch Returns
+Dialogue: 0,0:02:08.80,0:02:12.89,Default,,0,0,0,,Hey, where's the roasted lizard?! Hurry up with the bat eye soup!
+Dialogue: 0,0:02:14.28,0:02:16.38,Default,,0,0,0,,What's wrong, Hecate? Aren't you eating?
+Dialogue: 0,0:02:16.72,0:02:18.14,Default,,0,0,0,,No, I've had enough.
+Dialogue: 0,0:02:18.60,0:02:20.01,Default,,0,0,0,,No, no, that won't
+Dialogue: 0,0:02:20.04,0:02:22.94,Default,,0,0,0,,You'll never become a fine witch like that.
+Dialogue: 0,0:02:22.96,0:02:24.41,Default,,0,0,0,,Hey, hurry it up!
+Dialogue: 0,0:02:26.43,0:02:28.86,Default,,0,0,0,,Bat eye soup.
+Dialogue: 0,0:02:29.01,0:02:31.50,Default,,0,0,0,,Lizard head flambé.
+Dialogue: 0,0:02:32.48,0:02:34.72,Default,,0,0,0,,Papa had today's menu specially prepared with
+Dialogue: 0,0:02:34.74,0:02:36.52,Default,,0,0,0,,demon nutrition in mind!
+Dialogue: 0,0:02:36.77,0:02:38.15,Default,,0,0,0,,Here you go, sir!
+Dialogue: 0,0:02:39.08,0:02:40.45,Default,,0,0,0,,Here you go.
+Dialogue: 0,0:02:40.48,0:02:43.81,Default,,0,0,0,,Come on, Hecate, eat up. Whole roasted lizard builds tenacity,
+Dialogue: 0,0:02:43.84,0:02:47.38,Default,,0,0,0,,and bat eye soup fosters cunning.
+Dialogue: 0,0:02:54.11,0:02:56.00,Default,,0,0,0,,The fire went out!
+Dialogue: 0,0:03:02.83,0:03:03.98,Default,,0,0,0,,What could that be?
+Dialogue: 0,0:03:05.17,0:03:07.10,Default,,0,0,0,,It's Mama! Mama's back!
+Dialogue: 0,0:03:07.60,0:03:11.33,Default,,0,0,0,,Mama? Did you say Mama? Mama's home?
+Dialogue: 0,0:03:18.68,0:03:23.66,Default,,0,0,0,,Home at last after a year. Hecate must surely be a fine witch by now.
+Dialogue: 0,0:03:23.98,0:03:26.00,Default,,0,0,0,,Zubarasha!
+Dialogue: 0,0:03:40.08,0:03:42.00,Default,,0,0,0,,Ah, I'm home!
+Dialogue: 0,0:03:42.08,0:03:44.14,Default,,0,0,0,,Welcome back, Mama.
+Dialogue: 0,0:03:45.68,0:03:47.38,Default,,0,0,0,,Mama!
+Dialogue: 0,0:03:47.70,0:03:50.10,Default,,0,0,0,,Hecate, how have you been?
+Dialogue: 0,0:03:50.34,0:03:51.75,Default,,0,0,0,,I was so worried about you,
+Dialogue: 0,0:03:51.77,0:03:55.30,Default,,0,0,0,,I thought of nothing else during the entire conference.
+Dialogue: 0,0:03:55.70,0:04:00.36,Default,,0,0,0,,And to think that witches' council lasted a whole year. It felt so long.
+Dialogue: 0,0:04:00.99,0:04:03.99,Default,,0,0,0,,So, how are your witch studies coming along?
+Dialogue: 0,0:04:04.63,0:04:06.99,Default,,0,0,0,,Oh right, did you get that boy's heart put in you yet—
+Dialogue: 0,0:04:07.02,0:04:10.16,Default,,0,0,0,,the one from Princess Sapphire your father wrote about?
+Dialogue: 0,0:04:10.74,0:04:13.54,Default,,0,0,0,,Once you have a boy's heart, you'll be a magnificent grand witch.
+Dialogue: 0,0:04:13.56,0:04:16.36,Default,,0,0,0,,Now, show me some proper grand magic!
+Dialogue: 0,0:04:16.38,0:04:17.81,Default,,0,0,0,,Don't be shy. Come on, come on, come on.
+Dialogue: 0,0:04:17.83,0:04:18.93,Default,,0,0,0,,Mama, Mama...
+Dialogue: 0,0:04:19.30,0:04:19.81,Default,,0,0,0,,What is it?
+Dialogue: 0,0:04:19.96,0:04:22.37,Default,,0,0,0,,Well, um... you see... uh...
+Dialogue: 0,0:04:22.47,0:04:25.78,Default,,0,0,0,,What are you mumbling about? Speak up!
+Dialogue: 0,0:04:25.85,0:04:29.05,Default,,0,0,0,,Uh, Hecate is, well... She's still, um... still, you know... not yet...
+Dialogue: 0,0:04:29.12,0:04:31.61,Default,,0,0,0,,Not yet? No way...
+Dialogue: 0,0:04:31.98,0:04:32.83,Default,,0,0,0,,Hecate...
+Dialogue: 0,0:04:33.18,0:04:37.87,Default,,0,0,0,,don't tell me you still haven't become a grand witch. Well, Hecate?
+Dialogue: 0,0:04:38.75,0:04:41.01,Default,,0,0,0,,Forgive me, Mama! Forgive me!
+Dialogue: 0,0:04:41.03,0:04:43.35,Default,,0,0,0,,I haven't taken back Sapphire's boy heart yet.
+Dialogue: 0,0:04:43.38,0:04:48.19,Default,,0,0,0,,You're just a brainless, spineless, pumpkin-headed coward anyway!
+Dialogue: 0,0:04:48.50,0:04:53.29,Default,,0,0,0,,What on earth is wrong with you two? What have you been doing all year?
+Dialogue: 0,0:04:53.32,0:04:58.00,Default,,0,0,0,,I've done nothing but brag about Hecate to the other witches!
+Dialogue: 0,0:04:58.31,0:04:59.64,Default,,0,0,0,,And yet... And yet!
+Dialogue: 0,0:05:00.90,0:05:02.22,Default,,0,0,0,,Very well!
+Dialogue: 0,0:05:03.14,0:05:04.62,Default,,0,0,0,,I'll do it! Hecate!
+Dialogue: 0,0:05:05.27,0:05:08.00,Default,,0,0,0,,Unlike your father, I keep my word. I'm starting right now.
+Dialogue: 0,0:05:08.18,0:05:10.22,Default,,0,0,0,,I'm going to turn you into a proper grand witch!
+Dialogue: 0,0:05:11.89,0:05:15.56,Default,,0,0,0,,That girl Sapphire who has a boy's heart... She's still at the castle, right?
+Dialogue: 0,0:05:15.66,0:05:17.72,Default,,0,0,0,,I think so, Mama. I'll help too.
+Dialogue: 0,0:05:17.93,0:05:19.30,Default,,0,0,0,,No, thank you!
+Dialogue: 0,0:05:25.83,0:05:27.54,Default,,0,0,0,,What lovely weather...
+Dialogue: 0,0:05:33.68,0:05:34.78,Default,,0,0,0,,Forget-me-nots!
+Dialogue: 0,0:05:36.42,0:05:39.12,Default,,0,0,0,,What's the flower language for forget-me-nots again?
+Dialogue: 0,0:05:40.04,0:05:43.28,Default,,0,0,0,,{\i1}Let's see, let's see...{\i0} Oh, right! "Secrets"!
+Dialogue: 0,0:06:02.99,0:06:05.59,Default,,0,0,0,,It's a secret! Prince Franz hasn't noticed.
+Dialogue: 0,0:06:05.61,0:06:10.55,Default,,0,0,0,,Franz told me, "I love you, flaxen-haired girl."
+Dialogue: 0,0:06:11.19,0:06:12.76,Default,,0,0,0,,Secret! Secret!
+Dialogue: 0,0:06:15.05,0:06:17.93,Default,,0,0,0,,Mr. Bear, do you know the language of forget-me-nots?
+Dialogue: 0,0:06:17.96,0:06:21.09,Default,,0,0,0,, It means "secret." I have a secret, too.
+Dialogue: 0,0:06:21.12,0:06:23.35,Default,,0,0,0,,A wonderful secret nobody knows... That I'm a princess...
+Dialogue: 0,0:06:23.37,0:06:25.37,Default,,0,0,0,,Princess...
+Dialogue: 0,0:06:27.08,0:06:29.69,Default,,0,0,0,,Who's there? Sneaking this deep into the castle...
+Dialogue: 0,0:06:30.52,0:06:32.28,Default,,0,0,0,,This flower's scent...
+Dialogue: 0,0:06:33.12,0:06:34.63,Default,,0,0,0,,Who is it? Who's there?
+Dialogue: 0,0:06:43.16,0:06:46.34,Default,,0,0,0,,Anyone who smells this flower turns into a doll—
+Dialogue: 0,0:06:46.36,0:06:49.09,Default,,0,0,0,,a doll that obeys whatever it's told.
+Dialogue: 0,0:06:49.67,0:06:52.17,Default,,0,0,0,,Now, stand up, doll.
+Dialogue: 0,0:06:52.86,0:06:55.90,Default,,0,0,0,,Go to the Demon Cave. Go on, off you go.
+Dialogue: 0,0:06:58.20,0:07:01.14,Default,,0,0,0,,Walk there on your own. To Mephisto's cave.
+Dialogue: 0,0:07:04.31,0:07:06.82,Default,,0,0,0,,Carrying you would be easy enough.
+Dialogue: 0,0:07:07.42,0:07:10.28,Default,,0,0,0,,But as one revered by my proud witch sisters
+Dialogue: 0,0:07:10.30,0:07:13.48,Default,,0,0,0,,as Madam Hell, I do no such thing.
+Dialogue: 0,0:07:14.13,0:07:17.64,Default,,0,0,0,,Go on your own. That is Madam Hell's way.
+Dialogue: 0,0:07:17.95,0:07:19.92,Default,,0,0,0,,Come on now, cheer up, Hecate.
+Dialogue: 0,0:07:20.38,0:07:23.44,Default,,0,0,0,,Don't start saying you don't want to become a grand witch again.
+Dialogue: 0,0:07:23.81,0:07:25.72,Default,,0,0,0,,That would make things very difficult for Mama.
+Dialogue: 0,0:07:26.24,0:07:28.79,Default,,0,0,0,,Now go study your magic like a proper witch
+Dialogue: 0,0:07:28.82,0:07:31.23,Default,,0,0,0,,until Mama gets back. Go on, go on.
+Dialogue: 0,0:07:31.25,0:07:32.82,Default,,0,0,0,,Oh, dear me...
+Dialogue: 0,0:07:36.86,0:07:39.32,Default,,0,0,0,,No, I don't want to! I don't want to become a grand witch!
+Dialogue: 0,0:07:40.05,0:07:41.82,Default,,0,0,0,,Sapphire will be brought here soon.
+Dialogue: 0,0:07:42.12,0:07:46.10,Default,,0,0,0,,Oh, I hate this! Poor Sapphire...
+Dialogue: 0,0:07:48.70,0:07:52.80,Default,,0,0,0,,I know! I'll sneak out of here and save Sapphire.
+Dialogue: 0,0:08:59.87,0:09:00.90,Default,,0,0,0,,To Demon Mountain...
+Dialogue: 0,0:09:07.69,0:09:08.85,Default,,0,0,0,,It's Sapphire!
+Dialogue: 0,0:09:11.70,0:09:14.31,Default,,0,0,0,,Demon Mountain, Demon Mountain...
+Dialogue: 0,0:09:14.60,0:09:15.70,Default,,0,0,0,,Sapphire, don't go!
+Dialogue: 0,0:09:16.70,0:09:18.10,Default,,0,0,0,,Whoa, Opal.
+Dialogue: 0,0:09:18.12,0:09:19.48,Default,,0,0,0,,What's wrong, Sapphire?
+Dialogue: 0,0:09:21.39,0:09:22.10,Default,,0,0,0,,Oh...
+Dialogue: 0,0:09:22.28,0:09:25.19,Default,,0,0,0,,Mom made you smell that potion that turns humans into dolls, didn't she?
+Dialogue: 0,0:09:25.72,0:09:27.03,Default,,0,0,0,,Poor Sapphire.
+Dialogue: 0,0:09:29.11,0:09:30.98,Default,,0,0,0,,Did she put the potion on this flower?
+Dialogue: 0,0:09:32.91,0:09:34.80,Default,,0,0,0,,Guess not. Is this flower special to you?
+Dialogue: 0,0:09:35.78,0:09:36.78,Default,,0,0,0,,Franz...
+Dialogue: 0,0:09:37.12,0:09:38.12,Default,,0,0,0,,Franz?
+Dialogue: 0,0:09:40.20,0:09:42.64,Default,,0,0,0,,Prince Franz of Goldland.
+Dialogue: 0,0:09:43.40,0:09:45.39,Default,,0,0,0,,My dear Prince Franz.
+Dialogue: 0,0:09:46.39,0:09:48.13,Default,,0,0,0,,You love him, don't you?
+Dialogue: 0,0:09:48.72,0:09:51.06,Default,,0,0,0,,Then I'll take you to him!
+Dialogue: 0,0:09:52.26,0:09:53.65,Default,,0,0,0,,Come on, horsey, follow me.
+Dialogue: 0,0:09:53.67,0:09:55.03,Default,,0,0,0,,We're going to Goldland.
+Dialogue: 0,0:09:55.06,0:09:57.00,Default,,0,0,0,,I'm sure the prince can save you.
+Dialogue: 0,0:10:02.85,0:10:05.19,Default,,0,0,0,,Sapphire isn't here? Nor Hecate?
+Dialogue: 0,0:10:05.51,0:10:08.00,Default,,0,0,0,,What on earth have you been doing?!
+Dialogue: 0,0:10:08.17,0:10:09.25,Default,,0,0,0,,Now, now, my dear.
+Dialogue: 0,0:10:09.28,0:10:13.39,Default,,0,0,0,,We can easily find Sapphire's whereabouts using the magic orb.
+Dialogue: 0,0:10:16.18,0:10:18.14,Default,,0,0,0,,Magic orb, magic orb, tell me...
+Dialogue: 0,0:10:19.32,0:10:23.39,Default,,0,0,0,,It's Sapphire! She's running around out there. Was my magic spell broken?
+Dialogue: 0,0:10:24.02,0:10:25.24,Default,,0,0,0,,That's impossible.
+Dialogue: 0,0:10:25.38,0:10:26.45,Default,,0,0,0,,That's right, dear.
+Dialogue: 0,0:10:26.48,0:10:29.28,Default,,0,0,0,,If you have time to dawdle, get ready to leave!
+Dialogue: 0,0:10:29.30,0:10:30.74,Default,,0,0,0,,Where are we going?
+Dialogue: 0,0:10:30.76,0:10:33.23,Default,,0,0,0,,Goldland, of course!
+Dialogue: 0,0:10:33.32,0:10:36.28,Default,,0,0,0,,Can't you even see which way Sapphire is going?
+Dialogue: 0,0:10:36.31,0:10:38.06,Default,,0,0,0,,And you call yourself the Demon King?
+Dialogue: 0,0:11:00.62,0:11:03.44,Default,,0,0,0,,Hey, look! A weird cat came by.
+Dialogue: 0,0:11:15.01,0:11:17.40,Default,,0,0,0,,Hey, the cat's dancing!
+Dialogue: 0,0:11:21.05,0:11:23.58,Default,,0,0,0,,This cat must have escaped from the circus.
+Dialogue: 0,0:11:50.24,0:11:52.80,Default,,0,0,0,,Sapphire, look! This is the Prince's room.
+Dialogue: 0,0:11:55.32,0:11:56.80,Default,,0,0,0,,Wait here, you'll meet him soon.
+Dialogue: 0,0:12:00.98,0:12:01.98,Default,,0,0,0,,You may come in.
+Dialogue: 0,0:12:03.71,0:12:05.06,Default,,0,0,0,,Who is it? What do you want?
+Dialogue: 0,0:12:07.70,0:12:08.70,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:12:10.34,0:12:11.84,Default,,0,0,0,,Welcome, Sapphire!
+Dialogue: 0,0:12:14.39,0:12:16.31,Default,,0,0,0,,What a wonderful gentleman!
+Dialogue: 0,0:12:17.33,0:12:18.44,Default,,0,0,0,,What brings you here today?
+Dialogue: 0,0:12:19.50,0:12:20.94,Default,,0,0,0,,What is it? Why are you staying quiet?
+Dialogue: 0,0:12:21.22,0:12:22.22,Default,,0,0,0,,What's wrong, Sapphire?
+Dialogue: 0,0:12:23.00,0:12:25.12,Default,,0,0,0,,Sapphire, you're acting strange. Are you sick?
+Dialogue: 0,0:12:25.67,0:12:28.56,Default,,0,0,0,,With such a wonderful gentleman on our side, I'm relieved!
+Dialogue: 0,0:12:29.98,0:12:34.00,Default,,0,0,0,,Prince Franz! An intruder has broken into the castle!
+Dialogue: 0,0:12:34.03,0:12:35.05,Default,,0,0,0,,An intruder?
+Dialogue: 0,0:12:36.94,0:12:37.89,Default,,0,0,0,,Sapphire is...
+Dialogue: 0,0:12:38.81,0:12:40.66,Default,,0,0,0,,I see, so that's what happened!
+Dialogue: 0,0:12:41.60,0:12:43.32,Default,,0,0,0,,There's no one suspicious in here!
+Dialogue: 0,0:12:44.08,0:12:47.30,Default,,0,0,0,,Please open up! We need to search your room!
+Dialogue: 0,0:12:47.45,0:12:49.22,Default,,0,0,0,,Did someone suspicious break in?
+Dialogue: 0,0:12:49.39,0:12:50.66,Default,,0,0,0,,Ah, King Chanel!
+Dialogue: 0,0:12:51.25,0:12:54.14,Default,,0,0,0,,Alright, go! I'll search Franz's room myself!
+Dialogue: 0,0:12:54.32,0:12:55.32,Default,,0,0,0,,Yes, sir!
+Dialogue: 0,0:12:57.41,0:13:00.78,Default,,0,0,0,,Franz! It's me, Chanel V! Open up!
+Dialogue: 0,0:13:01.30,0:13:03.30,Default,,0,0,0,,Ah! Uncle! I'll open it right now!
+Dialogue: 0,0:13:20.18,0:13:21.96,Default,,0,0,0,,Please, come in, Uncle.
+Dialogue: 0,0:13:23.47,0:13:25.80,Default,,0,0,0,,If you find anyone suspicious, feel free to throw them out.
+Dialogue: 0,0:13:32.41,0:13:33.94,Default,,0,0,0,,Franz, who is this young lady?
+Dialogue: 0,0:13:35.73,0:13:38.18,Default,,0,0,0,,A young lady? Take a closer look.
+Dialogue: 0,0:13:38.63,0:13:40.28,Default,,0,0,0,,It's a doll my girlfriend gave me.
+Dialogue: 0,0:13:40.71,0:13:43.76,Default,,0,0,0,,It's too big for the shelf, so I sat it on the chair.
+Dialogue: 0,0:13:44.50,0:13:45.56,Default,,0,0,0,,It's remarkably well made.
+Dialogue: 0,0:13:51.15,0:13:55.58,Default,,0,0,0,,A maiden with flaxen hair! I see, so that was it!
+Dialogue: 0,0:14:06.87,0:14:07.52,Default,,0,0,0,,Franz!
+Dialogue: 0,0:14:08.37,0:14:09.78,Default,,0,0,0,,Franz! Franz!
+Dialogue: 0,0:14:10.63,0:14:13.32,Default,,0,0,0,,How rude, Franz! Are you planning to marry that doll or something?!
+Dialogue: 0,0:14:14.16,0:14:15.16,Default,,0,0,0,,Marriage?
+Dialogue: 0,0:14:15.57,0:14:18.99,Default,,0,0,0,,Come on, pull yourself together, Franz. What do you think of this lady?
+Dialogue: 0,0:14:22.55,0:14:26.38,Default,,0,0,0,,Sure, she's no beauty. But she's incredibly rich!
+Dialogue: 0,0:14:26.74,0:14:27.74,Default,,0,0,0,,Not this again...
+Dialogue: 0,0:14:28.28,0:14:31.72,Default,,0,0,0,,Franz, at least promise to marry this young lady.
+Dialogue: 0,0:14:31.74,0:14:33.86,Default,,0,0,0,,She comes with a five-billion-yen dowry!
+Dialogue: 0,0:14:34.16,0:14:37.67,Default,,0,0,0,,With that much money, Goldland will manage to get by.
+Dialogue: 0,0:14:37.97,0:14:38.48,Default,,0,0,0,,No.
+Dialogue: 0,0:14:38.64,0:14:39.34,Default,,0,0,0,,What?!
+Dialogue: 0,0:14:41.77,0:14:45.78,Default,,0,0,0,,Marrying for money?! Uncle, I'll choose for myself!
+Dialogue: 0,0:14:46.09,0:14:49.93,Default,,0,0,0,,You selfish fool! You might as well just marry this doll!
+Dialogue: 0,0:14:51.00,0:14:52.98,Default,,0,0,0,,Dammit! Of course I will! For sure!
+Dialogue: 0,0:14:53.46,0:14:55.40,Default,,0,0,0,,Blast it! Is this girl mocking me?!
+Dialogue: 0,0:14:57.02,0:14:59.05,Default,,0,0,0,,This time, I'll make him marry this young lady!
+Dialogue: 0,0:14:59.29,0:15:02.80,Default,,0,0,0,,If he doesn't say yes by Christmas, I'll kick him out of this castle!
+Dialogue: 0,0:15:07.56,0:15:09.15,Default,,0,0,0,,As if I'd ever listen to what Uncle says!
+Dialogue: 0,0:15:11.02,0:15:12.80,Default,,0,0,0,,Sapphire, I'll never let you go again.
+Dialogue: 0,0:15:13.54,0:15:15.64,Default,,0,0,0,,For your sake, I'd gladly give my life.
+Dialogue: 0,0:15:25.98,0:15:28.08,Default,,0,0,0,,Sapphire, what really happened to you?
+Dialogue: 0,0:15:28.19,0:15:29.58,Default,,0,0,0,,You look just like a real doll.
+Dialogue: 0,0:15:54.71,0:15:55.97,Default,,0,0,0,,Did you hear that?
+Dialogue: 0,0:15:55.99,0:15:58.09,Default,,0,0,0,,Now, smash through the roof!
+Dialogue: 0,0:15:59.33,0:16:03.72,Default,,0,0,0,,Busting through a roof? Any little imp could do that!
+Dialogue: 0,0:16:03.92,0:16:05.31,Default,,0,0,0,,Is there a problem with that?
+Dialogue: 0,0:16:06.26,0:16:09.11,Default,,0,0,0,,What a pathetic Demon King. Just because she's a girl,
+Dialogue: 0,0:16:09.14,0:16:11.72,Default,,0,0,0,,he can't make Hecate a great witch no matter how many years pass.
+Dialogue: 0,0:16:11.75,0:16:13.01,Default,,0,0,0,,But I'm different.
+Dialogue: 0,0:16:23.52,0:16:24.52,Default,,0,0,0,,How do I look?
+Dialogue: 0,0:16:24.65,0:16:29.00,Default,,0,0,0,,You look beautiful. But what do you plan to do like that?
+Dialogue: 0,0:16:29.16,0:16:31.98,Default,,0,0,0,,The scheme is set. Leave it to me.
+Dialogue: 0,0:16:35.76,0:16:38.81,Default,,0,0,0,,Welcome. Which kingdom's princess are you?
+Dialogue: 0,0:16:39.24,0:16:41.46,Default,,0,0,0,,I am the witch of the Kingdom of Fel.
+Dialogue: 0,0:16:42.62,0:16:45.88,Default,,0,0,0,,And I am her master... er, servant, Stoton.
+Dialogue: 0,0:16:45.90,0:16:48.35,Default,,0,0,0,,And what brings you to Goldland?
+Dialogue: 0,0:16:48.37,0:16:49.84,Default,,0,0,0,,Well, you see...
+Dialogue: 0,0:16:51.17,0:16:52.96,Default,,0,0,0,,Stoton, explain it to him.
+Dialogue: 0,0:16:53.81,0:16:58.68,Default,,0,0,0,,At the recent martial arts tournament, my lady took one look at Prince Franz
+Dialogue: 0,0:16:58.70,0:17:00.23,Default,,0,0,0,,here and fell head over heels.
+Dialogue: 0,0:17:02.54,0:17:06.60,Default,,0,0,0,,First, as a token of our friendship, please accept this gift.
+Dialogue: 0,0:17:08.74,0:17:11.66,Default,,0,0,0,,Oh dear, it seems the box was a bit too small.
+Dialogue: 0,0:17:13.30,0:17:16.85,Default,,0,0,0,,In our country, we pave our roads with diamonds, after all.
+Dialogue: 0,0:17:16.88,0:17:19.46,Default,,0,0,0,,W-What? Paving roads with diamonds?!
+Dialogue: 0,0:17:20.90,0:17:22.63,Default,,0,0,0,,{\i1}After all, they were just pebbles to begin with.{\i0}
+Dialogue: 0,0:17:23.10,0:17:25.06,Default,,0,0,0,,{\i1}So you can have as many as you like.{\i0}
+Dialogue: 0,0:17:26.23,0:17:29.29,Default,,0,0,0,,Well if Prince Franz intends to become engaged to Lady Maju,
+Dialogue: 0,0:17:29.31,0:17:33.20,Default,,0,0,0,,we will gift you ten thousand tons of gold coins.
+Dialogue: 0,0:17:33.23,0:17:34.53,Default,,0,0,0,,Ten thousand tons...
+Dialogue: 0,0:17:38.06,0:17:42.63,Default,,0,0,0,,Ten thousand tons, ten thousand tons, ten thousand tons... Ten thousand tons of gold coins...
+Dialogue: 0,0:17:42.66,0:17:46.65,Default,,0,0,0,,Lord Channel, so what do you think of this proposal?
+Dialogue: 0,0:17:46.81,0:17:49.52,Default,,0,0,0,,Ten thousand tons of gold coins... Ten thousand tons...
+Dialogue: 0,0:17:49.54,0:17:52.59,Default,,0,0,0,,Lord Channel, how does that sound?
+Dialogue: 0,0:18:01.93,0:18:04.97,Default,,0,0,0,,Of course! Is there any better match than this?
+Dialogue: 0,0:18:04.99,0:18:07.16,Default,,0,0,0,,Franz will be thrilled, I'm sure.
+Dialogue: 0,0:18:07.84,0:18:10.21,Default,,0,0,0,,Oh, Stoton...
+Dialogue: 0,0:18:10.23,0:18:14.75,Default,,0,0,0,,Madam Witch, how wonderful. Now then, may we have a ring as a token of betrothal?
+Dialogue: 0,0:18:14.77,0:18:18.58,Default,,0,0,0,,Of course, I'll have one made right away.
+Dialogue: 0,0:18:18.60,0:18:21.00,Default,,0,0,0,,Not THAT ring, but something else...
+Dialogue: 0,0:18:21.87,0:18:23.09,Default,,0,0,0,,Anything at all!
+Dialogue: 0,0:18:23.27,0:18:27.69,Default,,0,0,0,,I hear Prince Franz possesses such a wonderfully charming doll...
+Dialogue: 0,0:18:27.71,0:18:29.05,Default,,0,0,0,,Doll...?
+Dialogue: 0,0:18:31.95,0:18:34.10,Default,,0,0,0,,A doll for a betrothal? Is that strange?
+Dialogue: 0,0:18:35.00,0:18:37.38,Default,,0,0,0,,No, no, it's wonderful, absolutely wonderful!
+Dialogue: 0,0:18:37.40,0:18:39.84,Default,,0,0,0,,I'll go fetch it right away. Please wait a moment...
+Dialogue: 0,0:18:42.85,0:18:45.43,Default,,0,0,0,,Well, well, looks like things are going smoothly.
+Dialogue: 0,0:18:46.22,0:18:47.92,Default,,0,0,0,,Open up! Open it!
+Dialogue: 0,0:18:48.78,0:18:50.24,Default,,0,0,0,,Franz, open this door!
+Dialogue: 0,0:18:50.50,0:18:52.15,Default,,0,0,0,,Hand over the document! Hand it over!
+Dialogue: 0,0:18:52.25,0:18:54.54,Default,,0,0,0,,No way! No matter what happens, I'm never giving it to you!
+Dialogue: 0,0:18:58.07,0:18:59.70,Default,,0,0,0,,With this hand, I can make it work!
+Dialogue: 0,0:19:00.46,0:19:03.86,Default,,0,0,0,,Zubarasha! Akorojissho!
+Dialogue: 0,0:19:12.86,0:19:13.51,Default,,0,0,0,,What's that?
+Dialogue: 0,0:19:15.93,0:19:17.30,Default,,0,0,0,,I don't care! Break down the door!
+Dialogue: 0,0:19:26.27,0:19:28.39,Default,,0,0,0,,Franz! Franz! Where are you hiding?
+Dialogue: 0,0:19:29.76,0:19:30.43,Default,,0,0,0,,There!
+Dialogue: 0,0:19:32.61,0:19:34.80,Default,,0,0,0,,Franz is in the courtyard! Search the courtyard!
+Dialogue: 0,0:19:36.78,0:19:38.38,Default,,0,0,0,,Sapphire! Hurry! Hurry!
+Dialogue: 0,0:19:38.88,0:19:40.03,Default,,0,0,0,,I know! Let's hide over there!
+Dialogue: 0,0:19:47.09,0:19:52.31,Default,,0,0,0,,This is a chapel. I'm the demon king's daughter, so I can't go near it.
+Dialogue: 0,0:19:59.80,0:20:01.95,Default,,0,0,0,,Sapphire, I'll never let anyone have you.
+Dialogue: 0,0:20:01.97,0:20:05.96,Default,,0,0,0,,If anyone comes to capture you, even Chanel V, they'll pay for it.
+Dialogue: 0,0:20:06.57,0:20:07.57,Default,,0,0,0,,Did you find Prince Franz?
+Dialogue: 0,0:20:07.68,0:20:08.36,Default,,0,0,0,,He's not here!
+Dialogue: 0,0:20:08.69,0:20:09.91,Default,,0,0,0,,Alright, search along the way!
+Dialogue: 0,0:20:12.80,0:20:15.60,Default,,0,0,0,,Lady Maju! Lady Maju! For the betrothal... must it be a doll?
+Dialogue: 0,0:20:16.32,0:20:20.38,Default,,0,0,0,,Wait, Lady Maju isn't even here! Huh? The jewels...? What is going on here?
+Dialogue: 0,0:20:29.63,0:20:31.44,Default,,0,0,0,,Things aren't going well at all.
+Dialogue: 0,0:20:31.83,0:20:33.83,Default,,0,0,0,,We still have another way. Look at this.
+Dialogue: 0,0:20:33.86,0:20:36.80,Default,,0,0,0,, It's a potion that turns living things to stone for half a day.
+Dialogue: 0,0:20:37.59,0:20:40.80,Default,,0,0,0,,That river flows into the castle and provides their drinking water.
+Dialogue: 0,0:20:45.65,0:20:47.16,Default,,0,0,0,,Just watch.
+Dialogue: 0,0:20:55.57,0:20:56.68,Default,,0,0,0,,The fish turned to stone!
+Dialogue: 0,0:20:57.53,0:21:00.88,Default,,0,0,0,,Flow on, river, and turn everything into stone!
+Dialogue: 0,0:21:33.06,0:21:37.84,Default,,0,0,0,,I have no idea what's going on. The witch is gone, jewels turn to stone...
+Dialogue: 0,0:21:39.05,0:21:40.94,Default,,0,0,0,,Can we still find Franz?
+Dialogue: 0,0:21:41.21,0:21:44.80,Default,,0,0,0,,Hey, what are you dawdling for? What are you doing here?
+Dialogue: 0,0:21:47.97,0:21:49.82,Default,,0,0,0,,Stone! They've turned to stone!
+Dialogue: 0,0:21:51.58,0:21:54.03,Default,,0,0,0,,It's a demon! A demon's doing!
+Dialogue: 0,0:21:54.05,0:21:56.75,Default,,0,0,0,,Is anyone there? Somebody!
+Dialogue: 0,0:21:57.60,0:21:59.89,Default,,0,0,0,,Hey, someone! Is anyone there?
+Dialogue: 0,0:22:03.44,0:22:05.78,Default,,0,0,0,,Someone, please come! Anybody!
+Dialogue: 0,0:22:06.19,0:22:08.53,Default,,0,0,0,,No one's here! There's nobody in this castle!
+Dialogue: 0,0:22:08.67,0:22:10.99,Default,,0,0,0,,Everyone has turned to stone!
+Dialogue: 0,0:22:24.38,0:22:25.38,Default,,0,0,0,,It's that man!
+Dialogue: 0,0:22:30.05,0:22:32.96,Default,,0,0,0,,There must be a demon in this castle!
+Dialogue: 0,0:22:37.33,0:22:39.82,Default,,0,0,0,,Sapphire, something seems off. Keep an eye out.
+Dialogue: 0,0:22:40.72,0:22:43.24,Default,,0,0,0,,Franz! No! Don't go out now!
+Dialogue: 0,0:22:43.28,0:22:45.30,Default,,0,0,0,,Oh no! He went out!
+Dialogue: 0,0:22:47.55,0:22:49.32,Default,,0,0,0,,It's as if there isn't a single living soul here.
+Dialogue: 0,0:22:51.16,0:22:52.16,Default,,0,0,0,,It's Uncle!
+Dialogue: 0,0:22:53.44,0:22:54.06,Default,,0,0,0,,This is strange!
+Dialogue: 0,0:22:54.26,0:22:55.36,Default,,0,0,0,,He's not moving at all!
+Dialogue: 0,0:22:55.48,0:22:56.01,Default,,0,0,0,,Alright!
+Dialogue: 0,0:23:00.53,0:23:03.54,Default,,0,0,0,,Stone! He's turned to stone! It's the work of a demon!
+Dialogue: 0,0:23:10.76,0:23:11.76,Default,,0,0,0,,It's a demon!
+Dialogue: 0,0:23:11.87,0:23:13.85,Default,,0,0,0,,Brat! Hand over Sapphire!
+Dialogue: 0,0:23:14.22,0:23:15.22,Default,,0,0,0,,What did you say?
+Dialogue: 0,0:23:16.00,0:23:19.04,Default,,0,0,0,,Hand Sapphire over and do as you're told, or you'll regret it!
+Dialogue: 0,0:23:19.21,0:23:21.45,Default,,0,0,0,,I'll never hand her over, even if you kill me! Here I come!
+Dialogue: 0,0:23:21.85,0:23:24.44,Default,,0,0,0,,Zubarasha!
+Dialogue: 0,0:23:24.96,0:23:26.76,Default,,0,0,0,,Sore, kaze yo!
+Dialogue: 0,0:23:38.36,0:23:39.82,Default,,0,0,0,,Is Sapphire in there?
+Dialogue: 0,0:23:40.15,0:23:42.72,Default,,0,0,0,,I will never give Sapphire to you!
+Dialogue: 0,0:23:43.78,0:23:44.87,Default,,0,0,0,,It's a chapel!
+Dialogue: 0,0:23:45.03,0:23:46.42,Default,,0,0,0,,How pathetic!
+Dialogue: 0,0:23:47.27,0:23:49.89,Default,,0,0,0,,Zubarasha!
+Dialogue: 0,0:23:56.10,0:23:56.80,Default,,0,0,0,,Water!
+Dialogue: 0,0:23:59.15,0:23:59.64,Default,,0,0,0,,Water!
+Dialogue: 0,0:23:59.72,0:24:00.72,Default,,0,0,0,,You've come to.
+Dialogue: 0,0:24:01.64,0:24:02.26,Default,,0,0,0,,Franz!
+Dialogue: 0,0:24:02.28,0:24:03.28,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:24:06.94,0:24:08.16,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:24:08.41,0:24:09.86,Default,,0,0,0,,Franz!
+Dialogue: 0,0:24:10.90,0:24:11.68,Default,,0,0,0,,Franz!
+Dialogue: 0,0:24:11.77,0:24:12.69,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:24:17.16,0:24:20.08,Default,,0,0,0,,Hang in there, Sapphire! Franz!
+Dialogue: 0,0:24:23.55,0:24:25.80,Default,,0,0,0,,This will make them burst out along with the water!
+Dialogue: 0,0:24:27.82,0:24:29.07,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:24:29.19,0:24:30.65,Default,,0,0,0,,Franz!
+Dialogue: 0,0:24:30.94,0:24:31.82,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:24:31.94,0:24:32.61,Default,,0,0,0,,Hold on!
+Dialogue: 0,0:24:33.47,0:24:35.56,Default,,0,0,0,,Fran—Franz
+Dialogue: 0,0:24:35.58,0:24:36.80,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:24:38.11,0:24:39.11,Default,,0,0,0,,Franz!
+Dialogue: 0,0:24:39.50,0:24:40.78,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:24:46.86,0:24:48.92,Default,,0,0,0,,Sapphire! Sapphire!
+Dialogue: 0,0:24:50.61,0:24:54.45,Default,,0,0,0,,Sapphire! I'll save you... I promise!
+Dialogue: 0,0:25:12.38,0:25:16.00,Default,,0,0,0,,♪ Tarari Ratta Ritta Ratta Rattattaa ♪\N-
+Dialogue: 0,0:25:16.00,0:25:19.36,Default,,0,0,0,,♪ Kyahoo! Kyahoo! Kyahoo! ♪\NYahoo! Yahoo! Yahoo!
+Dialogue: 0,0:25:19.36,0:25:23.13,Default,,0,0,0,,♪ Tarari Ratta Ritta Ratta Rattattaa ♪\N-
+Dialogue: 0,0:25:23.13,0:25:26.29,Default,,0,0,0,,♪ Kyahoo! Kyahoo! Kyahoo! ♪\NYahoo! Yahoo! Yahoo!
+Dialogue: 0,0:25:26.30,0:25:30.11,Default,,0,0,0,,♪ Sen'nen man'nen hyakuman-nen ♪\NA thousand years, ten thousand years, a million years,
+Dialogue: 0,0:25:30.11,0:25:33.41,Default,,0,0,0,,♪ Ribbon de tsunagou ichioku-nen ♪\NLet’s connect with ribbons for a billion years!
+Dialogue: 0,0:25:33.41,0:25:37.41,Default,,0,0,0,,♪ Akuma ga kute mo arashi ga kute mo ♪\NEven if devils come, even if storms arrive,
+Dialogue: 0,0:25:37.41,0:25:40.85,Default,,0,0,0,,♪ tsunaida kokoro wa hanarenai ♪\NOur bonded hearts will never part.
+Dialogue: 0,0:25:40.85,0:25:44.47,Default,,0,0,0,,♪ Tarari Ratta Ritta Ratta Rattattaa ♪\N-
+Dialogue: 0,0:25:44.47,0:25:47.83,Default,,0,0,0,,♪ Kyahoo! Kyahoo! Kyahoo! ♪\NYahoo! Yahoo! Yahoo!
+Dialogue: 0,0:25:47.83,0:25:51.60,Default,,0,0,0,,♪ Tarari Ratta Ritta Ratta Rattattaa ♪\N-
+Dialogue: 0,0:25:51.60,0:25:54.77,Default,,0,0,0,,♪ Kyahoo! Kyahoo! Kyahoo! ♪\NYahoo! Yahoo! Yahoo!
+Dialogue: 0,0:25:54.79,0:26:00.50,Default,,0,0,0,,Subtitled by\NSilverlandSubs\Ntinyurl.com/SilverlandSubs
+Dialogue: 0,0:26:00.52,0:26:05.66,Default,,0,0,0,,Opening & Ending Song Lyrics Translation by\NNatalia Arlovskaya\Nlyricstranslate.com/en/\Ntranslator/natalia-arlovskaya
+Dialogue: 0,0:26:05.69,0:26:09.69,Default,,0,0,0,,EAN-13 : 8-031179-423880\NASIN : ‎ B0DQ54LVY1\NEAN-13 : 8-031179-426225\NASIN : ‎ B0F1V5YTQP

@@ -1,0 +1,313 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: 51 burning silverland 1.english.full-dialogue
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.18,0:00:09.22,Default,,0,0,0,,The Princess Sapphire\NKnight of the Ribbon
+Dialogue: 0,0:00:44.00,0:00:50.16,Default,,0,0,0,,♪ Atashi no miru yume himitsu nano ♪\NThe dreams I see are my secret
+Dialogue: 0,0:00:51.25,0:00:57.09,Default,,0,0,0,,♪ Dare ni mo iwanai himitsu nano ♪\NI won’t tell anyone—it’s my secret
+Dialogue: 0,0:00:58.54,0:01:02.46,Default,,0,0,0,,♪ Akai manto hira hira ♪\NA red cape fluttering
+Dialogue: 0,0:01:02.46,0:01:04.98,Default,,0,0,0,,♪ Uma o tobasu oujo ♪\NGalloping on a horse—the princess
+Dialogue: 0,0:01:04.98,0:01:06.90,Default,,0,0,0,,♪ Sore ga atashi ♪\NThat’s me!
+Dialogue: 0,0:01:07.62,0:01:10.90,Default,,0,0,0,,♪ Lula-dula-lula-dula ♪\N-
+Dialogue: 0,0:01:10.91,0:01:13.42,Default,,0,0,0,,♪ Lulu laa, lulaa ♪\N-
+Dialogue: 0,0:01:14.54,0:01:18.02,Default,,0,0,0,,♪ Lula-dula-lula-dula ♪\N-
+Dialogue: 0,0:01:18.14,0:01:20.74,Default,,0,0,0,,♪ Lulu laa, lulaa ♪\N-
+Dialogue: 0,0:01:21.50,0:01:25.22,Default,,0,0,0,,♪ Ribon no kishi wa ♪\NThe Knight of the Ribbon,
+Dialogue: 0,0:01:25.22,0:01:28.62,Default,,0,0,0,,♪ Honto wa hontto wa ♪\NTruly, truly,
+Dialogue: 0,0:01:28.62,0:01:31.82,Default,,0,0,0,,♪ Atashi nano sa ♪\NIt’s really me!
+Dialogue: 0,0:01:44.10,0:01:50.14,Default,,0,0,0,,Fifty-First Episode\NKing Nylon\NBurning Silverland
+Dialogue: 0,0:03:06.35,0:03:07.94,Default,,0,0,0,,The southern fort has fallen!
+Dialogue: 0,0:03:08.10,0:03:09.78,Default,,0,0,0,,Advance to the eastern fort!
+Dialogue: 0,0:03:10.06,0:03:11.58,Default,,0,0,0,,Down below is already done for!
+Dialogue: 0,0:03:14.24,0:03:15.57,Default,,0,0,0,,The northern fort has fallen!
+Dialogue: 0,0:03:22.03,0:03:24.66,Default,,0,0,0,,The X-Union army is right upon us.
+Dialogue: 0,0:03:25.50,0:03:28.06,Default,,0,0,0,,I ordered our entire army to be divided into four units
+Dialogue: 0,0:03:28.40,0:03:31.90,Default,,0,0,0,,and deployed to the forts in all four directions!
+Dialogue: 0,0:03:32.45,0:03:35.52,Default,,0,0,0,,Yet not a single troop has arrived at any fort!
+Dialogue: 0,0:03:36.21,0:03:38.52,Default,,0,0,0,,Where on earth has the Silverland army vanished to?
+Dialogue: 0,0:03:39.53,0:03:40.58,Default,,0,0,0,,What is Duralumin doing
+Dialogue: 0,0:03:40.60,0:03:42.56,Default,,0,0,0,,at a critical time like this...?
+Dialogue: 0,0:03:52.28,0:03:53.81,Default,,0,0,0,,You're late, Great Duke Duralumin!
+Dialogue: 0,0:03:53.83,0:03:55.96,Default,,0,0,0,,What is the Silverland army doing?!
+Dialogue: 0,0:04:01.66,0:04:03.48,Default,,0,0,0,,Answer me, Great Duke Duralumin!
+Dialogue: 0,0:04:21.00,0:04:22.84,Default,,0,0,0,,M-Minister, what are you doing?!
+Dialogue: 0,0:04:26.98,0:04:27.97,Default,,0,0,0,,What, X-Union?!
+Dialogue: 0,0:04:28.52,0:04:29.96,Default,,0,0,0,,You betrayed us, Duralumin!
+Dialogue: 0,0:04:32.38,0:04:35.04,Default,,0,0,0,,I've finished off all the kingdom's leaders.
+Dialogue: 0,0:04:35.06,0:04:37.95,Default,,0,0,0,,These are the mighty warriors of the X-Union!
+Dialogue: 0,0:04:37.97,0:04:41.66,Default,,0,0,0,,And as of right now, I am the King of Silverland!
+Dialogue: 0,0:04:42.64,0:04:44.32,Default,,0,0,0,,Now, you must die!
+Dialogue: 0,0:04:44.42,0:04:45.52,Default,,0,0,0,,Damn you, traitor!
+Dialogue: 0,0:04:45.54,0:04:46.59,Default,,0,0,0,,You sold out our kingdom!
+Dialogue: 0,0:04:52.47,0:04:52.99,Default,,0,0,0,,Finish them off!
+Dialogue: 0,0:04:53.79,0:04:56.26,Default,,0,0,0,,Get rid of those three intruders!
+Dialogue: 0,0:05:12.44,0:05:13.86,Default,,0,0,0,,Sapphire, hurry over here!
+Dialogue: 0,0:05:14.12,0:05:15.44,Default,,0,0,0,,After them! After them!
+Dialogue: 0,0:05:35.25,0:05:36.82,Default,,0,0,0,,It's the Skull Chamber! Quick, get inside!
+Dialogue: 0,0:05:39.79,0:05:42.23,Default,,0,0,0,,Grand Duke Duralumin has betrayed us!
+Dialogue: 0,0:05:43.00,0:05:44.50,Default,,0,0,0,,Strike down the usurper King!
+Dialogue: 0,0:05:46.72,0:05:49.58,Default,,0,0,0,,Kill anyone who sides with the King!
+Dialogue: 0,0:05:53.07,0:05:54.93,Default,,0,0,0,,Down with Grand Duke Duralumin!
+Dialogue: 0,0:05:55.28,0:05:57.15,Default,,0,0,0,,Let's defeat the evil Grand Duke together
+Dialogue: 0,0:05:57.17,0:05:59.12,Default,,0,0,0,,and save the King!
+Dialogue: 0,0:06:01.03,0:06:03.78,Default,,0,0,0,,That was a mistake!
+Dialogue: 0,0:06:20.81,0:06:22.42,Default,,0,0,0,,This is what happens to anyone who resists!
+Dialogue: 0,0:06:22.44,0:06:24.79,Default,,0,0,0,,Shut up and do as you're told!
+Dialogue: 0,0:06:30.51,0:06:33.80,Default,,0,0,0,,No one can enter the Skull Chamber unless they break down the wall.
+Dialogue: 0,0:06:36.53,0:06:37.86,Default,,0,0,0,,Then we can't get out either?
+Dialogue: 0,0:06:38.26,0:06:40.90,Default,,0,0,0,,No, no, Sapphire, you can get out.
+Dialogue: 0,0:06:40.92,0:06:43.90,Default,,0,0,0,,Long ago, there was another traitor.
+Dialogue: 0,0:06:44.65,0:06:46.79,Default,,0,0,0,,The King and his family barricaded themselves
+Dialogue: 0,0:06:46.81,0:06:48.61,Default,,0,0,0,,in this Skull Chamber back then, too.
+Dialogue: 0,0:06:49.34,0:06:51.39,Default,,0,0,0,,A prince escaped from here alone,
+Dialogue: 0,0:06:51.41,0:06:53.84,Default,,0,0,0,,defeated the traitor, and restored the kingdom.
+Dialogue: 0,0:06:54.23,0:06:55.42,Default,,0,0,0,,And the King and Queen?
+Dialogue: 0,0:06:55.44,0:06:56.65,Default,,0,0,0,,They died here.
+Dialogue: 0,0:06:57.45,0:06:59.92,Default,,0,0,0,,But the prince brilliantly rebuilt his kingdom.
+Dialogue: 0,0:06:59.94,0:07:01.80,Default,,0,0,0,,So Sapphire, you must—
+Dialogue: 0,0:07:02.82,0:07:03.48,Default,,0,0,0,,No!
+Dialogue: 0,0:07:03.89,0:07:05.38,Default,,0,0,0,,I won't be the only one to escape!
+Dialogue: 0,0:07:05.88,0:07:07.20,Default,,0,0,0,,Father, Mother!
+Dialogue: 0,0:07:07.29,0:07:09.26,Default,,0,0,0,,Sapphire, listen to us carefully.
+Dialogue: 0,0:07:09.98,0:07:11.59,Default,,0,0,0,,No! I won't leave you!
+Dialogue: 0,0:07:13.79,0:07:14.79,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:07:15.07,0:07:17.32,Default,,0,0,0,,Is that any way for the heir of Silverland to act?
+Dialogue: 0,0:07:17.88,0:07:18.80,Default,,0,0,0,,It's an order!
+Dialogue: 0,0:07:18.83,0:07:20.17,Default,,0,0,0,,Obey your King!
+Dialogue: 0,0:07:21.16,0:07:22.57,Default,,0,0,0,,You must escape from here and,
+Dialogue: 0,0:07:22.59,0:07:27.62,Default,,0,0,0,,no matter the hardship, take Silverland back from that coward!
+Dialogue: 0,0:07:28.38,0:07:29.24,Default,,0,0,0,,Listen, Sapphire.
+Dialogue: 0,0:07:29.26,0:07:31.79,Default,,0,0,0,,This secret passage is barely wide enough for a single child.
+Dialogue: 0,0:07:32.04,0:07:33.24,Default,,0,0,0,,Escape through here.
+Dialogue: 0,0:07:34.25,0:07:36.57,Default,,0,0,0,, And take these with you.
+Dialogue: 0,0:07:38.24,0:07:39.73,Default,,0,0,0,,Legend says the gold orb represents the royal family,
+Dialogue: 0,0:07:39.75,0:07:41.38,Default,,0,0,0,,the silver orb Silverland,
+Dialogue: 0,0:07:41.41,0:07:44.86,Default,,0,0,0,,and the bronze orb the people.
+Dialogue: 0,0:07:45.31,0:07:49.48,Default,,0,0,0,,These three orbs hold a secret power to protect the kingdom.
+Dialogue: 0,0:07:50.59,0:07:52.39,Default,,0,0,0,,Now go, Sapphire!
+Dialogue: 0,0:07:53.05,0:07:53.65,Default,,0,0,0,,Father...
+Dialogue: 0,0:07:53.67,0:07:54.94,Default,,0,0,0,,Go, quickly.
+Dialogue: 0,0:07:55.67,0:07:56.84,Default,,0,0,0,,Mother...
+Dialogue: 0,0:07:57.04,0:07:58.60,Default,,0,0,0,,Don't hesitate, Sapphire.
+Dialogue: 0,0:07:58.62,0:08:00.72,Default,,0,0,0,,Go face your destiny!
+Dialogue: 0,0:08:01.72,0:08:03.18,Default,,0,0,0,,Farewell, Sapphire.
+Dialogue: 0,0:08:03.54,0:08:04.30,Default,,0,0,0,,Sapphire...
+Dialogue: 0,0:08:04.33,0:08:05.88,Default,,0,0,0,,Father, Mother...
+Dialogue: 0,0:08:05.91,0:08:07.16,Default,,0,0,0,,I will definitely come save you!
+Dialogue: 0,0:08:07.33,0:08:08.28,Default,,0,0,0,,Please wait for me!
+Dialogue: 0,0:08:22.02,0:08:25.58,Default,,0,0,0,,Break through quickly! Drag Sapphire and the King out!
+Dialogue: 0,0:08:52.66,0:08:54.30,Default,,0,0,0,,Everyone's wearing an X mark.
+Dialogue: 0,0:08:55.27,0:08:57.64,Default,,0,0,0,,We must hurry and hold Plastic's coronation
+Dialogue: 0,0:08:57.66,0:08:59.76,Default,,0,0,0,,before Lord X's retinue arrives!
+Dialogue: 0,0:08:59.79,0:09:02.16,Default,,0,0,0,,Gather everyone in the castle in the grand hall!
+Dialogue: 0,0:09:02.74,0:09:03.74,Default,,0,0,0,,I understand.
+Dialogue: 0,0:09:04.18,0:09:07.52,Default,,0,0,0,,At last, Silverland is mine!
+Dialogue: 0,0:09:14.10,0:09:15.54,Default,,0,0,0,,Under the X-Union Army!
+Dialogue: 0,0:09:16.08,0:09:17.60,Default,,0,0,0,,Advance to Grand Duke Duralumin!
+Dialogue: 0,0:09:18.06,0:09:20.80,Default,,0,0,0,,Lord X's army is five kilometers away!
+Dialogue: 0,0:09:21.29,0:09:22.57,Default,,0,0,0,,Are you ready to disperse?!
+Dialogue: 0,0:09:23.23,0:09:24.41,Default,,0,0,0,,What? Only 5 kilometers to go?
+Dialogue: 0,0:09:24.88,0:09:27.16,Default,,0,0,0,,Then skip the ceremony!
+Dialogue: 0,0:09:27.34,0:09:28.58,Default,,0,0,0,,Listen up, everyone!
+Dialogue: 0,0:09:28.88,0:09:32.93,Default,,0,0,0,,As of this moment, my son Plastic is the King of Silverland!
+Dialogue: 0,0:09:35.13,0:09:38.37,Default,,0,0,0,,And I, Duralumin, shall rule in his place!
+Dialogue: 0,0:09:39.06,0:09:41.04,Default,,0,0,0,,Anyone who objects, step forward!
+Dialogue: 0,0:09:50.23,0:09:52.24,Default,,0,0,0,,Ring the celebration bells!
+Dialogue: 0,0:09:55.46,0:09:56.96,Default,,0,0,0,,Actually, I'll ring them myself!
+Dialogue: 0,0:09:57.96,0:09:59.86,Default,,0,0,0,,It's my beloved son's big day!
+Dialogue: 0,0:10:02.94,0:10:05.26,Default,,0,0,0,,A rain of celebration!
+Dialogue: 0,0:10:13.78,0:10:16.04,Default,,0,0,0,,Nylon!
+Dialogue: 0,0:10:16.79,0:10:19.88,Default,,0,0,0,,You betrayed me!
+Dialogue: 0,0:10:26.95,0:10:29.27,Default,,0,0,0,,Help!
+Dialogue: 0,0:10:44.98,0:10:46.10,Default,,0,0,0,,That's enough. That's enough.
+Dialogue: 0,0:10:46.31,0:10:47.54,Default,,0,0,0,,That's enough.
+Dialogue: 0,0:10:59.91,0:11:00.98,Default,,0,0,0,,Got a problem?
+Dialogue: 0,0:11:05.64,0:11:06.79,Default,,0,0,0,,I am king.
+Dialogue: 0,0:11:06.99,0:11:09.03,Default,,0,0,0,,I am now the King of Silverland.
+Dialogue: 0,0:11:09.19,0:11:09.94,Default,,0,0,0,,Wipe my face!
+Dialogue: 0,0:11:14.73,0:11:15.73,Default,,0,0,0,,I'm hungry!
+Dialogue: 0,0:11:17.77,0:11:18.77,Default,,0,0,0,,My shoulders are stiff!
+Dialogue: 0,0:11:30.31,0:11:31.59,Default,,0,0,0,,Stop it!
+Dialogue: 0,0:11:34.58,0:11:35.53,Default,,0,0,0,,Who are you?!
+Dialogue: 0,0:11:35.56,0:11:36.88,Default,,0,0,0,, I am King Nylon!
+Dialogue: 0,0:11:36.97,0:11:37.95,Default,,0,0,0,,King Nylon?
+Dialogue: 0,0:11:37.97,0:11:39.00,Default,,0,0,0,,That ends now!
+Dialogue: 0,0:11:48.62,0:11:49.94,Default,,0,0,0,,The Ribbon Knight...
+Dialogue: 0,0:12:01.23,0:12:02.23,Default,,0,0,0,,Hey, wait!
+Dialogue: 0,0:12:15.61,0:12:17.96,Default,,0,0,0,,Lord X and the entire army have just arrived!
+Dialogue: 0,0:12:18.07,0:12:19.07,Default,,0,0,0,,Lord X!
+Dialogue: 0,0:12:19.89,0:12:21.05,Default,,0,0,0,,Lord X!
+Dialogue: 0,0:12:21.08,0:12:22.16,Default,,0,0,0,,We've been waiting for you, Lord X!
+Dialogue: 0,0:12:22.18,0:12:22.89,Default,,0,0,0,,Wait!
+Dialogue: 0,0:12:37.15,0:12:38.38,Default,,0,0,0,,Welcome!
+Dialogue: 0,0:12:38.41,0:12:39.02,Default,,0,0,0,,Help me!
+Dialogue: 0,0:12:39.05,0:12:40.24,Default,,0,0,0,,I love you, Lord X!
+Dialogue: 0,0:12:40.29,0:12:42.35,Default,,0,0,0,,Please defeat him!
+Dialogue: 0,0:12:42.38,0:12:44.23,Default,,0,0,0,,Hurry, defeat him quick!
+Dialogue: 0,0:12:44.38,0:12:46.07,Default,,0,0,0,,I am so truly honored by your arrival!
+Dialogue: 0,0:13:11.22,0:13:12.81,Default,,0,0,0,,Damn it! He got away!
+Dialogue: 0,0:13:13.88,0:13:14.53,Default,,0,0,0,,X!
+Dialogue: 0,0:13:17.16,0:13:18.80,Default,,0,0,0,,This kingdom will never perish!
+Dialogue: 0,0:13:18.82,0:13:20.38,Default,,0,0,0,,As long as we have these three orbs!
+Dialogue: 0,0:13:37.11,0:13:38.11,Default,,0,0,0,,Ribbon Knight!
+Dialogue: 0,0:13:57.22,0:13:57.24,Default,,0,0,0,,Understood...
+Dialogue: 0,0:14:01.77,0:14:02.62,Default,,0,0,0,,{\i1}Father,{\i0}
+Dialogue: 0,0:14:02.92,0:14:03.71,Default,,0,0,0,,{\i1}Mother,{\i0}
+Dialogue: 0,0:14:04.44,0:14:06.56,Default,,0,0,0,,{\i1}Franz and I will definitely come save you.{\i0}
+Dialogue: 0,0:14:07.13,0:14:08.09,Default,,0,0,0,,{\i1}Please wait for us.{\i0}
+Dialogue: 0,0:14:32.98,0:14:33.98,Default,,0,0,0,,Opal!
+Dialogue: 0,0:14:35.11,0:14:35.83,Default,,0,0,0,,It's Sapphire!
+Dialogue: 0,0:14:36.33,0:14:37.03,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:14:37.83,0:14:38.75,Default,,0,0,0,,Franz!
+Dialogue: 0,0:14:38.96,0:14:39.84,Default,,0,0,0,,Is that the Ribbon Knight?!
+Dialogue: 0,0:14:41.29,0:14:41.73,Default,,0,0,0,,Franz!
+Dialogue: 0,0:14:42.16,0:14:43.07,Default,,0,0,0,,It's terrible!
+Dialogue: 0,0:14:43.28,0:14:45.33,Default,,0,0,0,,At the castle, the King and Queen are...
+Dialogue: 0,0:14:45.88,0:14:46.64,Default,,0,0,0,,Franz!
+Dialogue: 0,0:14:47.10,0:14:47.78,Default,,0,0,0,,What's wrong?
+Dialogue: 0,0:14:48.85,0:14:50.96,Default,,0,0,0,,Why do you know so much about the castle?
+Dialogue: 0,0:14:51.13,0:14:53.30,Default,,0,0,0,,You... you love Sapphire, don't you?
+Dialogue: 0,0:14:53.76,0:14:55.79,Default,,0,0,0,,Sapphire was closer to you than to me, wasn't she?
+Dialogue: 0,0:14:56.10,0:14:59.15,Default,,0,0,0,,That's why you know everything about the castle and Sapphire!
+Dialogue: 0,0:15:00.33,0:15:01.33,Default,,0,0,0,,Go to Sapphire!
+Dialogue: 0,0:15:01.64,0:15:02.98,Default,,0,0,0,,I shouldn't see her anymore!
+Dialogue: 0,0:15:03.50,0:15:05.41,Default,,0,0,0,,You should be the one to take care of Sapphire!
+Dialogue: 0,0:15:05.79,0:15:07.42,Default,,0,0,0,,Someone like me... someone like me...
+Dialogue: 0,0:15:09.35,0:15:11.22,Default,,0,0,0,,What a clumsy, conceited fool!
+Dialogue: 0,0:15:11.99,0:15:14.08,Default,,0,0,0,,Goodbye! Protect Sapphire for me!
+Dialogue: 0,0:15:20.59,0:15:21.36,Default,,0,0,0,,Don't get in my way!
+Dialogue: 0,0:15:21.38,0:15:22.31,Default,,0,0,0,,Franz!
+Dialogue: 0,0:15:34.58,0:15:37.71,Default,,0,0,0,,Sapphire, you were the Ribbon Knight?
+Dialogue: 0,0:16:23.24,0:16:24.81,Default,,0,0,0,,I see... so that's how it is.
+Dialogue: 0,0:16:24.84,0:16:26.90,Default,,0,0,0,,Above all, let's rescue your parents first.
+Dialogue: 0,0:16:27.58,0:16:31.06,Default,,0,0,0,,Nylon has probably tightened security.
+Dialogue: 0,0:16:41.53,0:16:43.25,Default,,0,0,0,,A secret passage here?
+Dialogue: 0,0:16:43.27,0:16:44.58,Default,,0,0,0,,It leads straight up.
+Dialogue: 0,0:16:44.61,0:16:46.03,Default,,0,0,0,,Alright, let's hurry!
+Dialogue: 0,0:17:02.62,0:17:03.55,Default,,0,0,0,,I knew it...
+Dialogue: 0,0:17:03.57,0:17:04.53,Default,,0,0,0,,Father...
+Dialogue: 0,0:17:04.55,0:17:05.84,Default,,0,0,0,,Mother...
+Dialogue: 0,0:17:06.82,0:17:07.94,Default,,0,0,0,,Keep searching, Sapphire!
+Dialogue: 0,0:17:24.74,0:17:25.41,Default,,0,0,0,,{\i1}Mother,{\i0}
+Dialogue: 0,0:17:25.43,0:17:26.41,Default,,0,0,0,,{\i1}Father,{\i0}
+Dialogue: 0,0:17:26.43,0:17:27.43,Default,,0,0,0,,{\i1}please hang on...{\i0}
+Dialogue: 0,0:17:27.45,0:17:28.54,Default,,0,0,0,,A ventilation shaft, huh?
+Dialogue: 0,0:17:28.73,0:17:29.94,Default,,0,0,0,,Alright, let's go through here.
+Dialogue: 0,0:17:33.09,0:17:33.66,Default,,0,0,0,,{\i1}Announcement!{\i0}
+Dialogue: 0,0:17:33.98,0:17:36.61,Default,,0,0,0,,{\i1}At sunset today, at the northern ranch,{\i0}
+Dialogue: 0,0:17:36.63,0:17:39.66,Default,,0,0,0,,{\i1}the King and Queen will be executed!{\i0}
+Dialogue: 0,0:17:40.15,0:17:41.20,Default,,0,0,0,,{\i1}Executed...{\i0}
+Dialogue: 0,0:17:41.65,0:17:44.32,Default,,0,0,0,,{\i1}The King and Queen will be executed!{\i0}
+Dialogue: 0,0:17:45.38,0:17:46.57,Default,,0,0,0,,We can't waste time!
+Dialogue: 0,0:17:46.59,0:17:47.98,Default,,0,0,0,,We have to save them right away!
+Dialogue: 0,0:17:49.31,0:17:50.32,Default,,0,0,0,,Wait, this is suspicious!
+Dialogue: 0,0:17:50.55,0:17:53.54,Default,,0,0,0,,{\i1}At sunset today, at the northern ranch...{\i0}
+Dialogue: 0,0:17:53.72,0:17:54.99,Default,,0,0,0,,Come on, hurry!
+Dialogue: 0,0:17:55.08,0:17:55.94,Default,,0,0,0,,Something's wrong.
+Dialogue: 0,0:17:55.96,0:17:58.22,Default,,0,0,0,,It's as if they're saying this on purpose just for you to hear.
+Dialogue: 0,0:17:58.42,0:17:59.00,Default,,0,0,0,,But...
+Dialogue: 0,0:17:59.03,0:18:02.35,Default,,0,0,0,,The enemy knows we're lurking somewhere nearby,
+Dialogue: 0,0:18:02.37,0:18:05.98,Default,,0,0,0,,so they're making this announcement everywhere to lure you out.
+Dialogue: 0,0:18:06.00,0:18:06.93,Default,,0,0,0,,That has to be it.
+Dialogue: 0,0:18:06.95,0:18:07.64,Default,,0,0,0,,But...
+Dialogue: 0,0:18:07.67,0:18:08.34,Default,,0,0,0,,Listen,
+Dialogue: 0,0:18:08.37,0:18:09.92,Default,,0,0,0,,Sapphire, it's definitely a trap!
+Dialogue: 0,0:18:09.94,0:18:13.61,Default,,0,0,0,,Your parents are actually being held somewhere else.
+Dialogue: 0,0:18:18.14,0:18:19.32,Default,,0,0,0,,Not here either.
+Dialogue: 0,0:18:19.35,0:18:20.86,Default,,0,0,0,,Where could they be?
+Dialogue: 0,0:18:21.86,0:18:23.28,Default,,0,0,0,,Cheer up, Sapphire.
+Dialogue: 0,0:18:23.31,0:18:26.21,Default,,0,0,0,,Look, I'll search over there, so you look over that way.
+Dialogue: 0,0:18:26.77,0:18:28.70,Default,,0,0,0,,Then let's meet back here in 30 minutes, okay?
+Dialogue: 0,0:18:46.31,0:18:47.97,Default,,0,0,0,,So, Lord X,
+Dialogue: 0,0:18:47.99,0:18:49.91,Default,,0,0,0,,what do you think of my idea?
+Dialogue: 0,0:18:49.93,0:18:52.32,Default,,0,0,0,,The decree has reached every corner.
+Dialogue: 0,0:18:52.35,0:18:54.98,Default,,0,0,0,,By now, Sapphire must have heard the news.
+Dialogue: 0,0:18:56.10,0:19:00.32,Default,,0,0,0,,And I'm certain she'll come strolling right out to the northern ranch.
+Dialogue: 0,0:19:00.97,0:19:02.08,Default,,0,0,0,,So it really was a trap!
+Dialogue: 0,0:19:02.70,0:19:04.76,Default,,0,0,0,,Lord Nylon, you're speaking too loudly.
+Dialogue: 0,0:19:06.51,0:19:07.78,Default,,0,0,0,,What? "Lord" Nylon?
+Dialogue: 0,0:19:07.80,0:19:10.11,Default,,0,0,0,,What's this "Lord" nonsense? It's King! King Nylon!
+Dialogue: 0,0:19:10.84,0:19:12.56,Default,,0,0,0,,No, it's Lord Nylon.
+Dialogue: 0,0:19:12.59,0:19:14.26,Default,,0,0,0,,Lord X decided it.
+Dialogue: 0,0:19:15.55,0:19:17.36,Default,,0,0,0,,Lord X? That makes no sense.
+Dialogue: 0,0:19:17.38,0:19:18.51,Default,,0,0,0,,The one who betrayed the king and
+Dialogue: 0,0:19:18.53,0:19:21.02,Default,,0,0,0,,welcomed Lord X was to be made King of Silverland!
+Dialogue: 0,0:19:21.32,0:19:25.22,Default,,0,0,0,,Didn't you promise that yourself, Lord X?
+Dialogue: 0,0:19:35.32,0:19:37.36,Default,,0,0,0,,I do not keep promises.
+Dialogue: 0,0:19:38.92,0:19:40.88,Default,,0,0,0,,You don't keep promises?
+Dialogue: 0,0:19:41.18,0:19:44.36,Default,,0,0,0,,I don't. That is X's way.
+Dialogue: 0,0:19:44.38,0:19:46.12,Default,,0,0,0,,Got a problem with that, Nylon?
+Dialogue: 0,0:20:04.00,0:20:04.70,Default,,0,0,0,,Oh no!
+Dialogue: 0,0:20:19.94,0:20:23.34,Default,,0,0,0,,Stay back, stay back! Please, Duralu--! Stay away, stay away!
+Dialogue: 0,0:20:23.62,0:20:25.04,Default,,0,0,0,, Help me!
+Dialogue: 0,0:20:44.23,0:20:46.68,Default,,0,0,0,,Help me, I beg you!
+Dialogue: 0,0:20:51.11,0:20:52.08,Default,,0,0,0,,Forgive me, Duralumin!
+Dialogue: 0,0:20:52.11,0:20:53.52,Default,,0,0,0,,Please don't hold a grudge against me!
+Dialogue: 0,0:20:53.55,0:20:55.33,Default,,0,0,0,,Look, I'm returning this to you!
+Dialogue: 0,0:20:56.02,0:20:56.94,Default,,0,0,0,,Nylon,
+Dialogue: 0,0:20:56.97,0:20:59.51,Default,,0,0,0,,how dare you betray me!
+Dialogue: 0,0:20:59.96,0:21:01.85,Default,,0,0,0,,No, forgive me.
+Dialogue: 0,0:21:02.36,0:21:07.16,Default,,0,0,0,,I'm waiting in Hell, yet neither the King nor the noble has arrived.
+Dialogue: 0,0:21:07.19,0:21:10.07,Default,,0,0,0,,Where are those two...?
+Dialogue: 0,0:21:11.40,0:21:14.29,Default,,0,0,0,,The King and Queen are set to be executed at sunset today on
+Dialogue: 0,0:21:14.31,0:21:16.48,Default,,0,0,0,,Skull Island, off the western coast.
+Dialogue: 0,0:21:16.78,0:21:17.78,Default,,0,0,0,,Execution?
+Dialogue: 0,0:21:17.96,0:21:20.79,Default,,0,0,0,,They were secretly sent away in a carriage long ago.
+Dialogue: 0,0:21:24.50,0:21:25.86,Default,,0,0,0,,Sapphire! Sapphire!
+Dialogue: 0,0:21:27.18,0:21:28.64,Default,,0,0,0,,I'm going to the northern ranch, Sapphire.
+Dialogue: 0,0:21:29.44,0:21:30.44,Default,,0,0,0,,Damn it.
+Dialogue: 0,0:21:30.80,0:21:31.98,Default,,0,0,0,,{\i1}Please, somehow hold on out there!{\i0}
+Dialogue: 0,0:21:32.16,0:21:33.80,Default,,0,0,0,,{\i1}I'm heading to Skull Island in the west.{\i0}
+Dialogue: 0,0:21:34.65,0:21:35.48,Default,,0,0,0,,Father!
+Dialogue: 0,0:21:35.51,0:21:36.56,Default,,0,0,0,,Mother!
+Dialogue: 0,0:21:57.15,0:21:58.21,Default,,0,0,0,,Father!
+Dialogue: 0,0:21:59.80,0:22:01.06,Default,,0,0,0,,You've fallen into my trap!
+Dialogue: 0,0:22:01.44,0:22:02.15,Default,,0,0,0,,Oh no!
+Dialogue: 0,0:22:20.19,0:22:21.60,Default,,0,0,0,,Opal! I'm counting on you!
+Dialogue: 0,0:22:41.18,0:22:42.02,Default,,0,0,0,,Now, tell the truth!
+Dialogue: 0,0:22:42.05,0:22:44.02,Default,,0,0,0,,Where are the King and Queen?
+Dialogue: 0,0:22:44.21,0:22:45.50,Default,,0,0,0,,To the west...
+Dialogue: 0,0:22:45.52,0:22:46.75,Default,,0,0,0,,Skull Island...
+Dialogue: 0,0:22:46.77,0:22:47.83,Default,,0,0,0,,At sunset...
+Dialogue: 0,0:22:47.85,0:22:49.23,Default,,0,0,0,,An execution...
+Dialogue: 0,0:22:49.32,0:22:50.80,Default,,0,0,0,,Execution?!
+Dialogue: 0,0:22:56.97,0:22:59.93,Default,,0,0,0,,God, please protect my father and mother.
+Dialogue: 0,0:23:12.54,0:23:13.83,Default,,0,0,0,,Mother!
+Dialogue: 0,0:23:14.25,0:23:15.96,Default,,0,0,0,,Father!
+Dialogue: 0,0:23:22.73,0:23:24.30,Default,,0,0,0,,The sun has set!
+Dialogue: 0,0:23:30.39,0:23:32.40,Default,,0,0,0,,The sun has already set!
+Dialogue: 0,0:23:48.49,0:23:49.01,Default,,0,0,0,,Franz!
+Dialogue: 0,0:23:56.69,0:23:58.46,Default,,0,0,0,,Father! Mother!
+Dialogue: 0,0:23:58.57,0:24:03.21,Default,,0,0,0,,I tried to catch up to the ship that was just pulling away and rescue them, but...
+Dialogue: 0,0:24:03.23,0:24:05.81,Default,,0,0,0,,Mother! Father!
+Dialogue: 0,0:24:11.98,0:24:13.13,Default,,0,0,0,,Don't cry, Sapphire!
+Dialogue: 0,0:24:13.15,0:24:14.57,Default,,0,0,0,,Sapphire, don't cry!
+Dialogue: 0,0:24:19.28,0:24:20.57,Default,,0,0,0,,Mother...
+Dialogue: 0,0:24:20.92,0:24:22.75,Default,,0,0,0,,Stand up, Sapphire!
+Dialogue: 0,0:24:23.25,0:24:24.58,Default,,0,0,0,,You have work to do!
+Dialogue: 0,0:24:25.24,0:24:27.06,Default,,0,0,0,,Take back your kingdom
+Dialogue: 0,0:24:27.09,0:24:29.01,Default,,0,0,0,,in the final battle against X!
+Dialogue: 0,0:25:05.94,0:25:09.56,Default,,0,0,0,,♪ Tarari Ratta Ritta Ratta Rattattaa ♪\N-
+Dialogue: 0,0:25:09.56,0:25:12.92,Default,,0,0,0,,♪ Kyahoo! Kyahoo! Kyahoo! ♪\NYahoo! Yahoo! Yahoo!
+Dialogue: 0,0:25:12.92,0:25:16.69,Default,,0,0,0,,♪ Tarari Ratta Ritta Ratta Rattattaa ♪\N-
+Dialogue: 0,0:25:16.69,0:25:19.86,Default,,0,0,0,,♪ Kyahoo! Kyahoo! Kyahoo! ♪\NYahoo! Yahoo! Yahoo!
+Dialogue: 0,0:25:19.86,0:25:23.67,Default,,0,0,0,,♪ Sen'nen man'nen hyakuman-nen ♪\NA thousand years, ten thousand years, a million years,
+Dialogue: 0,0:25:23.67,0:25:26.97,Default,,0,0,0,,♪ Ribbon de tsunagou ichioku-nen ♪\NLet’s connect with ribbons for a billion years!
+Dialogue: 0,0:25:26.97,0:25:30.97,Default,,0,0,0,,♪ Akuma ga kute mo arashi ga kute mo ♪\NEven if devils come, even if storms arrive,
+Dialogue: 0,0:25:30.97,0:25:34.41,Default,,0,0,0,,♪ tsunaida kokoro wa hanarenai ♪\NOur bonded hearts will never part.
+Dialogue: 0,0:25:34.41,0:25:38.03,Default,,0,0,0,,♪ Tarari Ratta Ritta Ratta Rattattaa ♪\N-
+Dialogue: 0,0:25:38.03,0:25:41.39,Default,,0,0,0,,♪ Kyahoo! Kyahoo! Kyahoo! ♪\NYahoo! Yahoo! Yahoo!
+Dialogue: 0,0:25:41.39,0:25:45.16,Default,,0,0,0,,♪ Tarari Ratta Ritta Ratta Rattattaa ♪\N-
+Dialogue: 0,0:25:45.17,0:25:48.33,Default,,0,0,0,,♪ Kyahoo! Kyahoo! Kyahoo! ♪\NYahoo! Yahoo! Yahoo!
+Dialogue: 0,0:25:48.35,0:25:54.06,Default,,0,0,0,,Subtitled by\NSilverlandSubs\Ntinyurl.com/SilverlandSubs
+Dialogue: 0,0:25:54.08,0:25:59.22,Default,,0,0,0,,Opening & Ending Song Lyrics Translation by\NNatalia Arlovskaya\Nlyricstranslate.com/en/\Ntranslator/natalia-arlovskaya
+Dialogue: 0,0:25:59.25,0:26:03.25,Default,,0,0,0,,EAN-13 : 8-031179-423880\NASIN : ‎ B0DQ54LVY1\NEAN-13 : 8-031179-426225\NASIN : ‎ B0F1V5YTQP
