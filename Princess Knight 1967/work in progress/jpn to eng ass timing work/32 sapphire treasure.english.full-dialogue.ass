@@ -14,8 +14,7 @@ Audio File: 32 the silver ship.mkv
 Video File: 32 the silver ship.mkv
 Video AR Mode: 4
 Video AR Value: 1.314554
-Scroll Position: 273
-Active Line: 288
+Active Line: 2
 Video Position: 950
 
 [V4+ Styles]
@@ -28,7 +27,7 @@ Style: OPED_Translation,Verdana,39.7,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:38.00,0:00:41.00,OPED_Translation,,0,0,0,template line,{\fad(300,300)\blur1}
 Comment: 0,0:00:41.00,0:00:44.00,Karaoke,,0,0,0,template syl,{\pos($x,$y)\1c!line.styleref.color2!\t($start,$mid,\fscx150\fscy150\1c&H00D7FF&)\t($mid,$end,\fscx100\fscy100\1c!line.styleref.color1!)}
-Dialogue: 0,0:00:01.18,0:00:09.22,Default,,0,0,0,,The Princess Sapphire
+Dialogue: 0,0:00:01.18,0:00:09.22,Default,,0,0,0,,The Princess Sapphire\NKnight of the Ribbon
 Dialogue: 0,0:00:44.00,0:00:50.16,Karaoke,,0,0,0,,{\k72}{\k14}A{\k32}ta{\k40}shi {\k48}no {\k35}mi{\k52}ru {\k45}yu{\k34}me{\k30} {\k41}hi{\k44}mi{\k43}tsu {\k27}na{\k39}no{\k20}
 Dialogue: 0,0:00:44.00,0:00:50.16,OPED_Translation,,0,0,0,,The dreams I see are my secret
 Dialogue: 0,0:00:51.25,0:00:57.09,Karaoke,,0,0,0,,{\k53}{\k24}Da{\k13}re{\k25} {\k40}ni {\k36}mo {\k68}iwa{\k68}nai{\k56} {\k43}hi{\k40}mi{\k55}tsu {\k31}na{\k32}no
@@ -44,7 +43,7 @@ Dialogue: 0,0:01:10.91,0:01:13.42,Karaoke,,0,0,0,,{\k23}{\k26}Lu{\k26}lu{\k13} {
 Dialogue: 0,0:01:14.54,0:01:18.02,Karaoke,,0,0,0,,{\k12}{\k12}Lu{\k38}la{\k11} {\k20}du{\k10}la{\k19} {\k48}lu{\k53}la {\k43}du{\k40}la{\k22}
 Dialogue: 0,0:01:18.14,0:01:20.74,Karaoke,,0,0,0,,{\k23}{\k26}Lu{\k26}lu{\k13} {\k49}laa, {\k19}lu{\k40}laa{\k55}
 Dialogue: 0,0:01:21.50,0:01:25.22,Karaoke,,0,0,0,,{\k12}{\k52}Ri{\k44}bon {\k38}no {\k35}ki{\k59}shi {\k115}wa{\k17}
-Dialogue: 0,0:01:21.50,0:01:25.22,OPED_Translation,,0,0,0,,The Princess Knight,
+Dialogue: 0,0:01:21.50,0:01:25.22,OPED_Translation,,0,0,0,,The Knight of the Ribbon,
 Dialogue: 0,0:01:25.22,0:01:28.62,Karaoke,,0,0,0,,{\k6}{\k50}Hon{\k43}to {\k33}wa {\k92}hon{\k43}tto {\k49}wa{\k24}
 Dialogue: 0,0:01:25.22,0:01:28.62,OPED_Translation,,0,0,0,,Truly, truly,
 Dialogue: 0,0:01:28.62,0:01:31.82,Karaoke,,0,0,0,,{\k18}{\k23}A{\k23}ta{\k27}shi {\k35}na{\k35}no {\k159}sa{\k0}
