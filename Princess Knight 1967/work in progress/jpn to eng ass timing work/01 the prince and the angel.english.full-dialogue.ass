@@ -16,9 +16,9 @@ Video File: ../01 princess knight.mkv
 Video AR Mode: 4
 Video AR Value: 1.314554
 Video Zoom Percent: 0.500000
-Scroll Position: 3
-Active Line: 18
-Video Position: 38424
+Scroll Position: 362
+Active Line: 366
+Video Position: 36410
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -52,333 +52,349 @@ Dialogue: 0,0:01:25.22,0:01:28.62,OPED_Translation,,0,0,0,,Truly, truly,
 Dialogue: 0,0:01:28.62,0:01:31.82,Karaoke,,0,0,0,,{\k18}{\k23}A{\k23}ta{\k27}shi {\k35}na{\k35}no {\k159}sa{\k0}
 Dialogue: 0,0:01:28.62,0:01:31.82,OPED_Translation,,0,0,0,,It’s really me!
 Dialogue: 0,0:01:44.10,0:01:50.14,Default,,0,0,0,,First Episode\NThe Princess Knight\NThe Prince & the Angel
-Dialogue: 0,0:02:25.54,0:02:27.29,Default,,0,0,0,,I'm coming! Who is it?
-Dialogue: 0,0:02:27.34,0:02:30.01,Default,,0,0,0,,Excuse me, ma'am, have you\Nby any chance seen a young girl...
-Dialogue: 0,0:02:30.06,0:02:33.29,Default,,0,0,0,,...with black hair and blue\Neyes, dressed like a boy?
-Dialogue: 0,0:02:33.34,0:02:35.17,Default,,0,0,0,,I haven't seen any girl.
-Dialogue: 0,0:02:36.02,0:02:39.33,Default,,0,0,0,,Help! Help me! Get\Nme on my feet, please!
-Dialogue: 0,0:02:39.38,0:02:42.45,Default,,0,0,0,,Mrs. Ladybug, maybe\Nyou can help me!
-Dialogue: 0,0:02:42.58,0:02:45.22,Default,,0,0,0,,Have you seen a young\Ngirl dressed like a boy?
-Dialogue: 0,0:02:45.26,0:02:47.73,Default,,0,0,0,,I really haven't\Nseen a girl like that.
-Dialogue: 0,0:02:49.62,0:02:52.74,Default,,0,0,0,,I've been looking for her for\N12 years now without finding her.
-Dialogue: 0,0:02:52.78,0:02:55.42,Default,,0,0,0,,Who knows how much\Nfurther I'll have to go...!
-Dialogue: 0,0:02:55.46,0:02:57.74,Default,,0,0,0,,Take this! And this!
-Dialogue: 0,0:02:58.10,0:02:59.90,Default,,0,0,0,,You won't get me, bandits!
-Dialogue: 0,0:02:59.94,0:03:02.14,Default,,0,0,0,,Let's get him! How he fights!
-Dialogue: 0,0:03:02.18,0:03:04.14,Default,,0,0,0,,Take that! There, you scoundrels!
-Dialogue: 0,0:03:04.42,0:03:06.57,Default,,0,0,0,,Come on! I'm not afraid of you!
-Dialogue: 0,0:03:06.62,0:03:09.01,Default,,0,0,0,,Let's spray the\Nrevealing liquid on him!
-Dialogue: 0,0:03:09.06,0:03:11.45,Default,,0,0,0,,- What are you up to now?\N- This!
-Dialogue: 0,0:03:11.50,0:03:14.02,Default,,0,0,0,,Damn it, I missed him!\NLet's all spray together!
-Dialogue: 0,0:03:14.06,0:03:16.02,Default,,0,0,0,,If she's a girl,\Nshe'll change color!
-Dialogue: 0,0:03:16.66,0:03:18.41,Default,,0,0,0,,Come on, let's spray!
-Dialogue: 0,0:03:21.74,0:03:23.89,Default,,0,0,0,,- Run!\N- Quick! - Let's follow him!
-Dialogue: 0,0:03:25.50,0:03:27.33,Default,,0,0,0,,Onward, gallop!
-Dialogue: 0,0:03:27.38,0:03:30.82,Default,,0,0,0,,Do you want to get your butt\Noff the ground? Walk, idiot!
-Dialogue: 0,0:03:46.46,0:03:48.61,Default,,0,0,0,,Oh, no! Help! I\Ncan't see anymore!
-Dialogue: 0,0:03:51.86,0:03:54.06,Default,,0,0,0,,- Where is that damn bastard?\N- This way!
-Dialogue: 0,0:03:56.90,0:03:58.89,Default,,0,0,0,,No, not in the river!\NWhere is it less damp?
-Dialogue: 0,0:03:58.94,0:04:01.38,Default,,0,0,0,,Here or here? Here or here?\NHere! No, here!
-Dialogue: 0,0:04:05.50,0:04:08.33,Default,,0,0,0,,Tell your master\Nnot to have me chased anymore!
-Dialogue: 0,0:04:10.26,0:04:11.82,Default,,0,0,0,,Away, Opal!
-Dialogue: 0,0:04:37.82,0:04:41.58,Default,,0,0,0,,Prince Sapphire, wake up!\NIt's time to get up! Please!
-Dialogue: 0,0:04:42.10,0:04:45.25,Default,,0,0,0,,Help! Ghosts!\NThey have it out for me! Help!
-Dialogue: 0,0:04:46.90,0:04:48.49,Default,,0,0,0,,Good morning, Garigori.
-Dialogue: 0,0:04:48.54,0:04:51.50,Default,,0,0,0,,Look how much time you've wasted!\NMore than half a minute!
-Dialogue: 0,0:04:51.54,0:04:54.26,Default,,0,0,0,,Mr. Garigori,\NI have been awake for a long time!
-Dialogue: 0,0:04:54.30,0:04:57.21,Default,,0,0,0,,So it's time to stop\Nteasing me!
-Dialogue: 0,0:04:58.38,0:05:00.58,Default,,0,0,0,,Good morning, Prince!\NIt's time to get dressed.
-Dialogue: 0,0:05:05.70,0:05:08.22,Default,,0,0,0,,I brought you\Nclothes suited to your rank.
-Dialogue: 0,0:05:08.90,0:05:10.89,Default,,0,0,0,,No! What are you doing, Prince?
-Dialogue: 0,0:05:10.94,0:05:14.38,Default,,0,0,0,,No! Stop, please, Prince!\NBe good, please!
-Dialogue: 0,0:05:14.62,0:05:17.45,Default,,0,0,0,,You rascal!\NDoing this to a woman like me.
-Dialogue: 0,0:05:17.58,0:05:21.49,Default,,0,0,0,,Where are you going, Prince? Stop!\NCome here!
-Dialogue: 0,0:05:25.26,0:05:27.70,Default,,0,0,0,,Good morning, Opal!\NAre you glad to see me?
-Dialogue: 0,0:05:29.02,0:05:30.82,Default,,0,0,0,,Now take my clothes
-Dialogue: 0,0:05:34.02,0:05:36.01,Default,,0,0,0,,I didn't feel like\Nwearing those clothes.
-Dialogue: 0,0:05:36.06,0:05:38.45,Default,,0,0,0,,I feel much better in mine.\NNow I'm fine!
-Dialogue: 0,0:05:39.42,0:05:40.90,Default,,0,0,0,,See you later!
-Dialogue: 0,0:05:45.94,0:05:47.53,Default,,0,0,0,,Thank you, little horse!
-Dialogue: 0,0:06:02.58,0:06:05.02,Default,,0,0,0,,Greetings to you\Nand may heaven protect you,
-Dialogue: 0,0:06:05.06,0:06:07.66,Default,,0,0,0,,our lord\NSovereign of these lands!
-Dialogue: 0,0:06:07.70,0:06:09.42,Default,,0,0,0,,- Greetings!\N- May the sun...
-Dialogue: 0,0:06:09.46,0:06:12.66,Default,,0,0,0,,...continue to shine\Nupon your fortunes, and may...
-Dialogue: 0,0:06:13.50,0:06:17.02,Default,,0,0,0,,- It's the Prince!\N- The black sheep of the realm!
-Dialogue: 0,0:06:17.06,0:06:19.18,Default,,0,0,0,,The lord of the castle\Nof Tenderloin,
-Dialogue: 0,0:06:19.26,0:06:21.41,Default,,0,0,0,,grand knight of merit of the kingdom,
-Dialogue: 0,0:06:21.46,0:06:24.10,Default,,0,0,0,,the Grand Duke Duralumin\Nof Duralluminium!
-Dialogue: 0,0:06:25.50,0:06:29.13,Default,,0,0,0,,I am pleased to be in the presence\Nof your august person, Sire.
-Dialogue: 0,0:06:29.18,0:06:31.17,Default,,0,0,0,,I too am glad to see you.
-Dialogue: 0,0:06:31.22,0:06:33.82,Default,,0,0,0,,- But he sees the King every day!\N- You little brat!
-Dialogue: 0,0:06:33.86,0:06:36.82,Default,,0,0,0,,I was thinking, regarding\Nthe deer hunting contest,
-Dialogue: 0,0:06:36.86,0:06:39.53,Default,,0,0,0,,I want it to be grand\Nthis year!
-Dialogue: 0,0:06:39.70,0:06:41.90,Default,,0,0,0,,But is there enough money\Nfor the contest?
-Dialogue: 0,0:06:41.94,0:06:44.01,Default,,0,0,0,,Naturally,\Nit will require more taxes!
-Dialogue: 0,0:06:44.06,0:06:47.29,Default,,0,0,0,,I have already prepared the Royal Decree.\NYou need only sign, Sire.
-Dialogue: 0,0:06:47.38,0:06:49.74,Default,,0,0,0,,Give the Grand Duke the Royal Seal!
-Dialogue: 0,0:06:49.78,0:06:52.01,Default,,0,0,0,,With it,\Nyou can sign in my place.
-Dialogue: 0,0:06:54.26,0:06:56.62,Default,,0,0,0,,- Take that!\N- What was that?!
-Dialogue: 0,0:07:00.58,0:07:02.73,Default,,0,0,0,,I will return later.\NExcuse me...
-Dialogue: 0,0:07:02.78,0:07:04.82,Default,,0,0,0,,What a tumble, eh, dad?
-Dialogue: 0,0:07:05.78,0:07:07.37,Default,,0,0,0,,Hi, dad!
-Dialogue: 0,0:07:07.42,0:07:10.06,Default,,0,0,0,,Sapphire, you must take off\Nyour hat in the Throne Room!
-Dialogue: 0,0:07:10.14,0:07:14.26,Default,,0,0,0,,That's better! And why are you\Ndressed like a poor swordsman?
-Dialogue: 0,0:07:15.42,0:07:17.17,Default,,0,0,0,,I like this outfit.
-Dialogue: 0,0:07:17.22,0:07:20.29,Default,,0,0,0,,It suits me! I can't stand\Nthose pompous clothes!
-Dialogue: 0,0:07:20.62,0:07:23.22,Default,,0,0,0,,Sapphire, remember that\Nyou are the Crown Prince!
-Dialogue: 0,0:07:23.26,0:07:25.01,Default,,0,0,0,,You must behave with more dignity!
-Dialogue: 0,0:07:25.06,0:07:28.74,Default,,0,0,0,,How dare you address\Nme by only saying: "Hi, dad!
-Dialogue: 0,0:07:28.78,0:07:30.93,Default,,0,0,0,," Why, dad? What else\Nwas I supposed to say?
-Dialogue: 0,0:07:30.98,0:07:32.86,Default,,0,0,0,,First of all, a bow was required.
-Dialogue: 0,0:07:33.30,0:07:36.50,Default,,0,0,0,,What's there to laugh about?! Oh, my goodness!\NI lost my balance!
-Dialogue: 0,0:07:37.42,0:07:39.06,Default,,0,0,0,,Duke Duralumin!
-Dialogue: 0,0:07:39.50,0:07:41.86,Default,,0,0,0,,Oh, good morning, Baron Nylon!\NIt is you!
-Dialogue: 0,0:07:41.90,0:07:44.62,Default,,0,0,0,,That brat of a Prince\Nprevented me from signing...
-Dialogue: 0,0:07:44.66,0:07:47.02,Default,,0,0,0,,...in place of the King, the Decree\Nthat increases taxes on the people.
-Dialogue: 0,0:07:47.06,0:07:49.02,Default,,0,0,0,,We will teach him a lesson!\NListen, Grand Duke!
-Dialogue: 0,0:07:49.06,0:07:51.10,Default,,0,0,0,,I know how to get rid of\Nthe little Prince.
-Dialogue: 0,0:07:51.18,0:07:53.09,Default,,0,0,0,,If it were known\Nthat he is actually a girl
-Dialogue: 0,0:07:53.14,0:07:55.02,Default,,0,0,0,,he could never again\Nascend the throne,
-Dialogue: 0,0:07:55.06,0:07:57.70,Default,,0,0,0,,because our law forbids\Na woman from reigning as Queen.
-Dialogue: 0,0:07:57.82,0:08:00.05,Default,,0,0,0,,I will reveal the secret\Nand this country will be yours!
-Dialogue: 0,0:08:00.10,0:08:02.30,Default,,0,0,0,,If you do so,\Nyou will have wealth and honors from me..
-Dialogue: 0,0:08:02.34,0:08:04.38,Default,,0,0,0,,as soon as I am proclaimed King!
-Dialogue: 0,0:08:04.42,0:08:06.94,Default,,0,0,0,,A King must not yawn\Nin public!
-Dialogue: 0,0:08:06.98,0:08:10.13,Default,,0,0,0,,He must not even snicker,\Ncough, or laugh too much.
-Dialogue: 0,0:08:10.42,0:08:13.62,Default,,0,0,0,,He must dress with splendor, show himself\Nalways benevolent and never angry,
-Dialogue: 0,0:08:13.66,0:08:16.10,Default,,0,0,0,,he cannot remain alone,\Nbut must always be..
-Dialogue: 0,0:08:16.14,0:08:18.42,Default,,0,0,0,,...accompanied and aided\Nby his vassals.
-Dialogue: 0,0:08:18.46,0:08:21.53,Default,,0,0,0,,What are you doing? You\Nshouldn't just look at the pictures!
-Dialogue: 0,0:08:21.58,0:08:23.41,Default,,0,0,0,,You must read, if you\Nwant to learn something!
-Dialogue: 0,0:08:23.46,0:08:25.90,Default,,0,0,0,,When I was your age, I remember\Nthat I studied very many treatises...
-Dialogue: 0,0:08:25.94,0:08:28.33,Default,,0,0,0,,...and I read many more books\Nthan you do!
-Dialogue: 0,0:08:28.38,0:08:30.13,Default,,0,0,0,,More than all of these?
-Dialogue: 0,0:08:30.74,0:08:34.13,Default,,0,0,0,,Yes, very many!\NHey, Prince, let me out!
-Dialogue: 0,0:08:34.18,0:08:38.49,Default,,0,0,0,,You brat, get me out!\NHelp! Help! Out! Out!
-Dialogue: 0,0:08:46.14,0:08:49.61,Default,,0,0,0,,- Mother!\N- Sapphire, where are you going in such a hurry?
-Dialogue: 0,0:08:49.66,0:08:52.65,Default,,0,0,0,,Don't be naughty! Go back\Nto your rooms, you must study.
-Dialogue: 0,0:08:52.70,0:08:54.45,Default,,0,0,0,,I don't like studying, mother
-Dialogue: 0,0:08:54.50,0:08:57.02,Default,,0,0,0,,and I can't stand always being\Naround old people in the castle!
-Dialogue: 0,0:08:57.06,0:08:59.10,Default,,0,0,0,,Sapphire, you shouldn't\Nsay such things!
-Dialogue: 0,0:08:59.14,0:09:01.58,Default,,0,0,0,,- I'm leaving! Bye, Mom!\N- Sapphire!
-Dialogue: 0,0:09:01.70,0:09:04.53,Default,,0,0,0,,My poor little girl!\NWhere do you want to go?
-Dialogue: 0,0:09:04.70,0:09:08.58,Default,,0,0,0,,It is because of the law of this\Nkingdom that Sapphire is like this now.
-Dialogue: 0,0:09:08.62,0:09:11.69,Default,,0,0,0,,It was a season just like this\Nwhen she was born.
-Dialogue: 0,0:09:22.58,0:09:25.02,Default,,0,0,0,,He is born! He is born!
-Dialogue: 0,0:09:34.82,0:09:37.62,Default,,0,0,0,,Rejoice, my loyal subjects!
-Dialogue: 0,0:09:38.62,0:09:40.66,Default,,0,0,0,,The long-awaited heir is born!
-Dialogue: 0,0:09:40.70,0:09:42.90,Default,,0,0,0,,The Queen has given you a Prince!
-Dialogue: 0,0:09:42.94,0:09:46.25,Default,,0,0,0,,I have deceived my people.\NI should have announced...
-Dialogue: 0,0:09:46.30,0:09:49.18,Default,,0,0,0,,...the birth of a little Princess,\Nnot a little Prince!
-Dialogue: 0,0:09:49.22,0:09:51.89,Default,,0,0,0,,You did the right thing!\NThere was nothing else to be done.
-Dialogue: 0,0:09:51.94,0:09:54.01,Default,,0,0,0,,The law forbids a woman\Nto reign,
-Dialogue: 0,0:09:54.06,0:09:56.86,Default,,0,0,0,,so we must make everyone believe\Nthat she is a boy.
-Dialogue: 0,0:09:56.90,0:09:58.49,Default,,0,0,0,,My heart breaks!
-Dialogue: 0,0:10:02.62,0:10:05.45,Default,,0,0,0,,Why did my husband\Nannounce that she is a boy?
-Dialogue: 0,0:10:06.86,0:10:09.33,Default,,0,0,0,,The truth is, he had\Nno other choice!
-Dialogue: 0,0:10:09.38,0:10:11.29,Default,,0,0,0,,If anyone finds out\Nthat a girl was born,
-Dialogue: 0,0:10:11.34,0:10:13.25,Default,,0,0,0,,it could be dangerous.
-Dialogue: 0,0:10:13.30,0:10:15.21,Default,,0,0,0,,The Grand Duke covets the throne.
-Dialogue: 0,0:10:15.26,0:10:17.22,Default,,0,0,0,,we cannot allow him\Nto seize it.
-Dialogue: 0,0:10:17.26,0:10:20.49,Default,,0,0,0,,Your Majesty, as the law demands,\Nit is time for the Grand Duke...
-Dialogue: 0,0:10:20.54,0:10:22.90,Default,,0,0,0,,...to pay homage\Nto His Highness the little Prince!
-Dialogue: 0,0:10:22.94,0:10:26.25,Default,,0,0,0,,Oh, heavens! Wait a\Nmoment! We are not ready yet!
-Dialogue: 0,0:10:26.30,0:10:29.21,Default,,0,0,0,,You must show the little Prince!\NDon't waste any more time!
-Dialogue: 0,0:10:29.26,0:10:31.49,Default,,0,0,0,,What can I do\Nso he doesn't discover the truth?
-Dialogue: 0,0:10:31.70,0:10:34.01,Default,,0,0,0,,Place next to her\Na boy's toy.
-Dialogue: 0,0:10:34.06,0:10:36.02,Default,,0,0,0,,The Grand Duke will be deceived
-Dialogue: 0,0:10:36.06,0:10:39.26,Default,,0,0,0,,Grand Duke, you may enter\Nto observe...
-Dialogue: 0,0:10:39.30,0:10:41.77,Default,,0,0,0,,..His Highness the Little Prince!
-Dialogue: 0,0:10:52.66,0:10:56.42,Default,,0,0,0,,I pay homage to His Highness and\Nwish him to grow up healthy and strong.
-Dialogue: 0,0:10:58.38,0:11:01.34,Default,,0,0,0,,In this way they managed\Nto deceive the Grand Duke..
-Dialogue: 0,0:11:01.38,0:11:04.58,Default,,0,0,0,,...and hide the truth\Nfrom the court and the people.
-Dialogue: 0,0:11:05.06,0:11:08.02,Default,,0,0,0,,From then on, Sapphire was raised\Nas a boy,
-Dialogue: 0,0:11:08.30,0:11:12.45,Default,,0,0,0,,with the complicity of the doctor,\Nthe nurse, and the chamberlain.
-Dialogue: 0,0:11:14.30,0:11:18.42,Default,,0,0,0,,Seasons passed,\Nmeanwhile, Sapphire grew up.
-Dialogue: 0,0:11:18.54,0:11:23.14,Default,,0,0,0,,She was only allowed games\Ntypical of boys.
-Dialogue: 0,0:11:23.66,0:11:27.13,Default,,0,0,0,,The truth was\Ncarefully kept hidden.
-Dialogue: 0,0:11:27.34,0:11:32.02,Default,,0,0,0,,Sapphire was slowly raised to\Nhave the mindset of a boy.
-Dialogue: 0,0:11:37.70,0:11:42.25,Default,,0,0,0,,So that the kingdom would not fall\Ninto the hands of the evil Grand Duke,
-Dialogue: 0,0:11:42.66,0:11:46.54,Default,,0,0,0,,Sapphire grew up without knowing\Nthe small, great joys...
-Dialogue: 0,0:11:46.74,0:11:49.18,Default,,0,0,0,,...that bloom\Nin the female soul.
-Dialogue: 0,0:11:52.18,0:11:55.62,Default,,0,0,0,,Poor Sapphire!\NHow unhappy I feel for you!
-Dialogue: 0,0:12:21.58,0:12:24.89,Default,,0,0,0,,How are you, Prince? Are you taking\Na solitary walk?
-Dialogue: 0,0:12:24.94,0:12:28.30,Default,,0,0,0,,Baron Nylon, I cannot feel\Nany pleasure in this meeting!
-Dialogue: 0,0:12:28.58,0:12:31.54,Default,,0,0,0,,I am sorry, Prince, to hear you\Nspeak this way towards me.
-Dialogue: 0,0:12:31.58,0:12:35.02,Default,,0,0,0,,They say you are skilled in fencing. I\Nwould like to measure myself against you.
-Dialogue: 0,0:12:35.62,0:12:37.29,Default,,0,0,0,,- Fine!\N- Thank you.
-Dialogue: 0,0:12:37.34,0:12:39.54,Default,,0,0,0,,- On guard!\N- Just the two of us!
-Dialogue: 0,0:12:41.50,0:12:44.41,Default,,0,0,0,,Not bad for a boy!\NTake this! And this!
-Dialogue: 0,0:12:44.46,0:12:46.29,Default,,0,0,0,,A lunge! There! Take that!
-Dialogue: 0,0:12:46.78,0:12:49.69,Default,,0,0,0,,Do you like this blow, eh, Baron?
-Dialogue: 0,0:12:51.82,0:12:55.34,Default,,0,0,0,,- Remember that it was only a game!\N- You lost, it seems!
-Dialogue: 0,0:12:56.38,0:12:58.37,Default,,0,0,0,,Do you want another round?
-Dialogue: 0,0:13:02.10,0:13:06.17,Default,,0,0,0,,What are you looking at?! I\Nwill win the next contest: archery!
-Dialogue: 0,0:13:06.22,0:13:08.21,Default,,0,0,0,,Let's see if you are capable of doing it!
-Dialogue: 0,0:13:08.90,0:13:10.73,Default,,0,0,0,,Do you mean this?
-Dialogue: 0,0:13:12.82,0:13:14.81,Default,,0,0,0,,Do you like apples?
-Dialogue: 0,0:13:14.86,0:13:16.66,Default,,0,0,0,,I've got another idea\Nfor another contest.
-Dialogue: 0,0:13:16.70,0:13:19.50,Default,,0,0,0,,An embroidery contest! Whoever makes it\Nthe most beautiful and in the shortest time wins!
-Dialogue: 0,0:13:19.54,0:13:21.77,Default,,0,0,0,,How dare you? How\Ndare you challenge me...
-Dialogue: 0,0:13:21.82,0:13:24.54,Default,,0,0,0,,...to a contest in which I'd have\Nto perform such feminine work?!
-Dialogue: 0,0:13:24.58,0:13:27.33,Default,,0,0,0,,Rather, now you will tell me\Nwhy you had me followed...
-Dialogue: 0,0:13:27.38,0:13:29.21,Default,,0,0,0,,...by your men over\Nthese last few days!
-Dialogue: 0,0:13:29.26,0:13:31.01,Default,,0,0,0,,But what are you talking\Nabout? I know nothing!
-Dialogue: 0,0:13:31.06,0:13:34.10,Default,,0,0,0,,You are a schemer! Now\Nget out and leave me in peace!
-Dialogue: 0,0:13:41.74,0:13:44.26,Default,,0,0,0,,- Excuse me!\N- Who spoke?
-Dialogue: 0,0:13:46.42,0:13:49.73,Default,,0,0,0,,- And who might you be?\N- My name is Tink.
-Dialogue: 0,0:13:49.94,0:13:52.66,Default,,0,0,0,,Tink, you said? And where\Non earth did you pop out from?
-Dialogue: 0,0:13:52.70,0:13:55.01,Default,,0,0,0,,You know, it's been 12 years\Nthat I've been looking for you!
-Dialogue: 0,0:13:55.06,0:13:57.34,Default,,0,0,0,,- You are a girl, aren't you?\N- What?!
-Dialogue: 0,0:14:01.14,0:14:04.26,Default,,0,0,0,,Yes, tell the truth! I\Nknow that you are a girl.
-Dialogue: 0,0:14:04.74,0:14:06.73,Default,,0,0,0,,It's not true, I'm not a girl!
-Dialogue: 0,0:14:06.78,0:14:08.42,Default,,0,0,0,,And I tell you that you are!
-Dialogue: 0,0:14:08.46,0:14:10.18,Default,,0,0,0,,No, I told you I'm not!
-Dialogue: 0,0:14:10.22,0:14:12.02,Default,,0,0,0,,Do you mean to say you're not a female?
-Dialogue: 0,0:14:12.06,0:14:14.10,Default,,0,0,0,,Alright, fine. But\Nhow do you know?
-Dialogue: 0,0:14:14.50,0:14:16.38,Default,,0,0,0,,Well, you see...\Nit's just that I...
-Dialogue: 0,0:14:17.38,0:14:19.50,Default,,0,0,0,,...you were an angel.\N- You were an angel?!
-Dialogue: 0,0:14:19.74,0:14:22.62,Default,,0,0,0,,I was a real angel,\Nbefore becoming a boy.
-Dialogue: 0,0:14:22.66,0:14:24.22,Default,,0,0,0,,Vengo dal Paradiso
-Dialogue: 0,0:14:24.26,0:14:26.49,Default,,0,0,0,,I searched for you a lot\Nbefore managing to find you!
-Dialogue: 0,0:14:26.54,0:14:29.82,Default,,0,0,0,,I was sent to make you\Na sweet girl, you know?
-Dialogue: 0,0:14:29.86,0:14:32.38,Default,,0,0,0,,You want to make me\Na sweet girl?!
-Dialogue: 0,0:14:41.30,0:14:43.37,Default,,0,0,0,,Listen, if you want,\Nyou can even try,
-Dialogue: 0,0:14:43.42,0:14:46.57,Default,,0,0,0,,but I'm very much afraid that you\Nwill never succeed in this goal!
-Dialogue: 0,0:14:46.62,0:14:49.01,Default,,0,0,0,,I, on the other hand, am sure\Nthat I will succeed!
-Dialogue: 0,0:14:49.06,0:14:50.70,Default,,0,0,0,,Go away!
-Dialogue: 0,0:14:51.70,0:14:54.58,Default,,0,0,0,,- We'll see each other one of these days!\N- Keep my secret!
-Dialogue: 0,0:14:54.62,0:14:56.50,Default,,0,0,0,,Of course, don't worry!
-Dialogue: 0,0:15:01.42,0:15:03.25,Default,,0,0,0,,What a bunch of good-for-nothing\Nidiots!
-Dialogue: 0,0:15:03.30,0:15:05.53,Default,,0,0,0,,I am ashamed that my henchmen\Nare proving to be so incompetent!
-Dialogue: 0,0:15:05.58,0:15:07.49,Default,,0,0,0,,Aren't you ashamed of having\Ngotten yourselves thrown into the river...
-Dialogue: 0,0:15:07.54,0:15:09.42,Default,,0,0,0,,...by that stupid brat?!
-Dialogue: 0,0:15:13.46,0:15:16.18,Default,,0,0,0,,Silence, idiots!\NDid you use the sword
-Dialogue: 0,0:15:16.22,0:15:18.82,Default,,0,0,0,,...that sprays that liquid which makes it possible\Nto tell men from women?
-Dialogue: 0,0:15:18.86,0:15:22.74,Default,,0,0,0,,We tried, Baron, but that\Nliquid had no effect.
-Dialogue: 0,0:15:23.22,0:15:25.82,Default,,0,0,0,,Excuse me!... Oh, look!\NThe liquid is working!
-Dialogue: 0,0:15:25.86,0:15:28.09,Default,,0,0,0,,The Baron has changed color!
-Dialogue: 0,0:15:28.14,0:15:30.61,Default,,0,0,0,,So, now, he will be sure\Nof being a boy!
-Dialogue: 0,0:15:30.66,0:15:33.38,Default,,0,0,0,,- What a terrible complexion!\N- Enough!
-Dialogue: 0,0:15:33.42,0:15:37.02,Default,,0,0,0,,Good morning, Baron,\NI am the alchemist!
-Dialogue: 0,0:15:37.70,0:15:41.58,Default,,0,0,0,,Good! I was waiting for you! Have\Nyou brought the drug I asked you for?
-Dialogue: 0,0:15:41.82,0:15:45.50,Default,,0,0,0,,Tell me: is it true that whoever\Ntakes it confesses any of their secrets?
-Dialogue: 0,0:15:45.54,0:15:47.05,Default,,0,0,0,,Of course, Baron!
-Dialogue: 0,0:15:47.10,0:15:49.62,Default,,0,0,0,,- You, assassins!\N- At your command, Baron!
-Dialogue: 0,0:15:49.66,0:15:52.38,Default,,0,0,0,,This time we will use this\Nnew drug, understood?
-Dialogue: 0,0:15:52.42,0:15:54.49,Default,,0,0,0,,Do you want to make the Prince drink it?
-Dialogue: 0,0:15:54.54,0:15:57.18,Default,,0,0,0,,- No, to the Queen.\N- To the Queen?!
-Dialogue: 0,0:15:57.22,0:15:59.13,Default,,0,0,0,,Yes, exactly! You will\Ngive it to the Queen!
-Dialogue: 0,0:15:59.18,0:16:02.65,Default,,0,0,0,,The Queen must know the Prince's secret\Nbetter than anyone!
-Dialogue: 0,0:16:03.42,0:16:05.62,Default,,0,0,0,,With this drug, finally,\Nthe Queen will reveal to us...
-Dialogue: 0,0:16:05.66,0:16:08.18,Default,,0,0,0,,..if Sapphire is a girl\Nor not.
-Dialogue: 0,0:16:08.42,0:16:11.09,Default,,0,0,0,,In the meantime, you will lure\NSapphire into the enchanted forest,
-Dialogue: 0,0:16:11.14,0:16:13.81,Default,,0,0,0,,where there is a wolf\Nthat feeds on human flesh!
-Dialogue: 0,0:16:26.94,0:16:29.58,Default,,0,0,0,,- It's time! Let's split up!\N- Good!
-Dialogue: 0,0:16:30.82,0:16:33.57,Default,,0,0,0,,Where did they go?\NThis way or that way? This way? That way?
-Dialogue: 0,0:16:36.38,0:16:40.29,Default,,0,0,0,,I don't see them anymore. Who knows where\Nthose three assassins have hidden!
-Dialogue: 0,0:16:41.22,0:16:43.29,Default,,0,0,0,,I have the feeling I'm lost.
-Dialogue: 0,0:16:43.34,0:16:45.94,Default,,0,0,0,,And this place doesn't make me\Nfeel at ease at all.
-Dialogue: 0,0:16:48.18,0:16:49.66,Default,,0,0,0,,Who is it?
-Dialogue: 0,0:16:49.86,0:16:53.25,Default,,0,0,0,,- It's the Duke, Your Grace.\N- Hello, Duke Duralumin.
-Dialogue: 0,0:16:53.30,0:16:55.58,Default,,0,0,0,,- Do you desire something?\N- A merchant has brought me..
-Dialogue: 0,0:16:55.62,0:16:57.61,Default,,0,0,0,,...a very rare elixir.
-Dialogue: 0,0:16:57.66,0:17:00.10,Default,,0,0,0,,It is very sweet\Nand I am sure you will like it.
-Dialogue: 0,0:17:00.66,0:17:02.33,Default,,0,0,0,,You are very kind, Duke
-Dialogue: 0,0:17:02.38,0:17:04.02,Default,,0,0,0,,- Baron Nylon!\N- Yes?
-Dialogue: 0,0:17:04.06,0:17:06.37,Default,,0,0,0,,- Would you like to taste some?\N- No! Well, actually, I...
-Dialogue: 0,0:17:06.42,0:17:08.22,Default,,0,0,0,,...for the last few days\NI have become a bit of a teetotaler!
-Dialogue: 0,0:17:08.26,0:17:10.90,Default,,0,0,0,,- Nonsense! Just a drop!\N- Only a drop...
-Dialogue: 0,0:17:11.22,0:17:14.26,Default,,0,0,0,,Bravo! That's how you keep\Ncompany with Her Grace the Queen.
-Dialogue: 0,0:17:15.02,0:17:17.01,Default,,0,0,0,,And now to you, my Queen!
-Dialogue: 0,0:17:19.66,0:17:21.33,Default,,0,0,0,,I am truly lost!
-Dialogue: 0,0:17:21.38,0:17:24.13,Default,,0,0,0,,And now who knows what\Nwill be the way out of the forest!
-Dialogue: 0,0:17:25.82,0:17:28.73,Default,,0,0,0,,It seems to me that\Nyou are lost, young man.
-Dialogue: 0,0:17:28.78,0:17:31.69,Default,,0,0,0,,You're right, old woman. Can you\Nshow me which way I should go?
-Dialogue: 0,0:17:31.74,0:17:34.94,Default,,0,0,0,,There is a wolf that feeds\Non human flesh, in the forest!
-Dialogue: 0,0:17:34.98,0:17:37.58,Default,,0,0,0,,Be careful! This wolf has\Nlived here for 100 years.
-Dialogue: 0,0:17:37.62,0:17:39.58,Default,,0,0,0,,...and it is very cunning and fast!
-Dialogue: 0,0:17:39.62,0:17:41.61,Default,,0,0,0,,If you go that way,\Nyou'll find a hut...
-Dialogue: 0,0:17:41.66,0:17:43.73,Default,,0,0,0,,...where you can take shelter\Ntonight.
-Dialogue: 0,0:17:43.82,0:17:45.89,Default,,0,0,0,,I'll go there! Thank you, old woman!
-Dialogue: 0,0:18:14.14,0:18:16.45,Default,,0,0,0,,The drug we put\Nin the elixir...
-Dialogue: 0,0:18:16.50,0:18:18.49,Default,,0,0,0,,...will take effect\Nwithin two hours at most.
-Dialogue: 0,0:18:18.54,0:18:21.29,Default,,0,0,0,,The Queen will willingly reveal to us\Nthe Prince's secret...
-Dialogue: 0,0:18:21.34,0:18:23.73,Default,,0,0,0,,...and she will tell us if he\Nis actually a girl!
-Dialogue: 0,0:18:24.14,0:18:26.89,Default,,0,0,0,,Yes, but you too will reveal\Nyour secrets!
-Dialogue: 0,0:18:26.94,0:18:29.69,Default,,0,0,0,,You have also drunk\Nthe drugged elixir!
-Dialogue: 0,0:18:44.02,0:18:46.41,Default,,0,0,0,,There is so much dust\Nin this hut!
-Dialogue: 0,0:18:48.02,0:18:51.81,Default,,0,0,0,,These are the wolf's tracks!\NMy goodness, he must be huge!
-Dialogue: 0,0:19:01.86,0:19:04.38,Default,,0,0,0,,But you're Tink!\NDo you know you scared me?
-Dialogue: 0,0:19:04.42,0:19:07.33,Default,,0,0,0,,Is that how you greet a friend?\NI came to warn you...
-Dialogue: 0,0:19:07.38,0:19:10.34,Default,,0,0,0,,...that you've been deceived! This\Nis the hut where the wolf lives!
-Dialogue: 0,0:19:10.38,0:19:12.90,Default,,0,0,0,,- What are you saying?\N- Yes! That wolf is so clever
-Dialogue: 0,0:19:12.94,0:19:15.93,Default,,0,0,0,,...that he sends travelers to this\Nhut to devour them later.
-Dialogue: 0,0:19:15.98,0:19:17.65,Default,,0,0,0,,A robin told me.
-Dialogue: 0,0:19:17.70,0:19:20.90,Default,,0,0,0,,See those hats? They belonged\Nto the people he devoured!
-Dialogue: 0,0:19:20.94,0:19:23.17,Default,,0,0,0,,If what you say is true,\Nthen I am lost.
-Dialogue: 0,0:19:23.74,0:19:26.81,Default,,0,0,0,,I know that when the wolf realizes\Nthat its prey is a girl,
-Dialogue: 0,0:19:26.86,0:19:29.25,Default,,0,0,0,,- it lets her go.\N- If you think that for this reason
-Dialogue: 0,0:19:29.30,0:19:31.21,Default,,0,0,0,,I'll dress as a girl, you're wrong!
-Dialogue: 0,0:19:31.26,0:19:34.17,Default,,0,0,0,,- Would you prefer to be devoured?\N- I will never dress as a girl!
-Dialogue: 0,0:20:02.34,0:20:06.18,Default,,0,0,0,,There you go! Sapphire, do you know that you are\Nreally so pretty?
-Dialogue: 0,0:20:06.22,0:20:08.29,Default,,0,0,0,,If only you knew how ridiculous I feel!
-Dialogue: 0,0:20:08.34,0:20:10.86,Default,,0,0,0,,Remember to behave\Nlike a girl!
-Dialogue: 0,0:20:10.90,0:20:13.26,Default,,0,0,0,,I can't wait\Nto get these rags off me!
-Dialogue: 0,0:20:13.66,0:20:16.81,Default,,0,0,0,,- The wolf! Here comes the wolf!\N- The wolf is coming!
-Dialogue: 0,0:20:18.70,0:20:21.66,Default,,0,0,0,,Let him get close and strike\Nhim by surprise! Good luck!
-Dialogue: 0,0:20:34.22,0:20:36.02,Default,,0,0,0,,Almost there!
-Dialogue: 0,0:20:36.06,0:20:38.18,Default,,0,0,0,,I feel a sharp pain!
-Dialogue: 0,0:20:38.22,0:20:40.50,Default,,0,0,0,,• Is there something wrong,\Nmy Queen?
-Dialogue: 0,0:20:40.54,0:20:43.50,Default,,0,0,0,,I would like to confide a\Nsecret of mine to someone.
-Dialogue: 0,0:20:47.02,0:20:51.01,Default,,0,0,0,,I'm so hungry! And who\Nthe hell is that over there?!
-Dialogue: 0,0:20:52.02,0:20:55.46,Default,,0,0,0,,She looks like a girl!
-Dialogue: 0,0:20:56.66,0:20:58.57,Default,,0,0,0,,Yes, a girl!
-Dialogue: 0,0:21:01.54,0:21:03.42,Default,,0,0,0,,Oh! The wolf!
-Dialogue: 0,0:21:03.90,0:21:06.94,Default,,0,0,0,,You mustn't be afraid!\NAnd now what do I do?!
-Dialogue: 0,0:21:07.22,0:21:11.82,Default,,0,0,0,,There is nothing more disgusting\Nthan a little girl dying of fear.
-Dialogue: 0,0:21:11.86,0:21:14.01,Default,,0,0,0,,Hey, do you like flowers?
-Dialogue: 0,0:21:14.06,0:21:16.29,Default,,0,0,0,,Would you prefer a piece of cake?
-Dialogue: 0,0:21:16.34,0:21:19.17,Default,,0,0,0,,Don't be afraid of me! I\Nwill be so good to you!
-Dialogue: 0,0:21:19.22,0:21:23.10,Default,,0,0,0,,And don't tremble! You make me\Nnervous! What do you want me to do to stop?
-Dialogue: 0,0:21:23.14,0:21:26.82,Default,,0,0,0,,- Eh? What do you want?\N- I just need you to become smaller.
-Dialogue: 0,0:21:27.30,0:21:29.18,Default,,0,0,0,,Is this okay?
-Dialogue: 0,0:21:29.90,0:21:33.29,Default,,0,0,0,,No! You have to become even\Nmuch smaller!
-Dialogue: 0,0:21:35.34,0:21:37.38,Default,,0,0,0,,- Like this?\N- Yes.
-Dialogue: 0,0:21:37.42,0:21:40.46,Default,,0,0,0,,I've got you! I will stop you\Nfrom doing any more harm!
-Dialogue: 0,0:21:41.62,0:21:47.25,Default,,0,0,0,,You tricked me! And it's\Nover for you, damn little girl!
-Dialogue: 0,0:21:47.30,0:21:49.61,Default,,0,0,0,,Now I will kill you!
-Dialogue: 0,0:21:51.54,0:21:54.69,Default,,0,0,0,,My paw! No! Not my paw!
-Dialogue: 0,0:21:55.02,0:21:56.66,Default,,0,0,0,,Take that!
-Dialogue: 0,0:21:57.82,0:22:00.73,Default,,0,0,0,,- Again!\N- Not my paw!
-Dialogue: 0,0:22:06.14,0:22:07.81,Default,,0,0,0,,Take this!
-Dialogue: 0,0:22:08.14,0:22:11.26,Default,,0,0,0,,My nose! My nose!
-Dialogue: 0,0:22:33.62,0:22:38.33,Default,,0,0,0,,No! Not the fire! Not the fire!
-Dialogue: 0,0:22:38.38,0:22:40.10,Default,,0,0,0,,No!
-Dialogue: 0,0:22:43.50,0:22:46.41,Default,,0,0,0,,Well done, Sapphire! You\Ndid it! You defeated the wolf!
-Dialogue: 0,0:22:46.46,0:22:49.74,Default,,0,0,0,,The secret I would like to\Nconfide concerns Sapphire.
-Dialogue: 0,0:22:49.78,0:22:52.50,Default,,0,0,0,,Here we go! The Queen is\Nabout to reveal the secret!
-Dialogue: 0,0:22:52.54,0:22:55.82,Default,,0,0,0,,Finally I will know\Nif the Prince is a boy!
-Dialogue: 0,0:23:03.54,0:23:06.26,Default,,0,0,0,,I must confess to you\Nthat actually Sapphire is...
-Dialogue: 0,0:23:06.30,0:23:08.02,Default,,0,0,0,,Come on!
-Dialogue: 0,0:23:13.62,0:23:17.06,Default,,0,0,0,,- Yes, I will say it!\NSapphire - What, Queen?
-Dialogue: 0,0:23:18.02,0:23:20.33,Default,,0,0,0,,I too, my Queen, have a\Nsecret to reveal! Yes, yes!
-Dialogue: 0,0:23:20.38,0:23:22.85,Default,,0,0,0,,I will tell you: the Grand Duke\Nhas put a drug in the elixir...
-Dialogue: 0,0:23:22.90,0:23:25.73,Default,,0,0,0,,...which will force you to reveal if\Nthe Prince is truly a boy!
-Dialogue: 0,0:23:26.02,0:23:29.38,Default,,0,0,0,,If you confess that he is not,\Nthe Grand Duke will be able to seize power...
-Dialogue: 0,0:23:29.42,0:23:31.54,Default,,0,0,0,,Shut up! You've ruined everything!
-Dialogue: 0,0:23:34.26,0:23:36.01,Default,,0,0,0,,What's happening, Baron?
-Dialogue: 0,0:23:36.06,0:23:38.02,Default,,0,0,0,,The Queen is about to reveal\Nwhether you are male or female,
-Dialogue: 0,0:23:38.06,0:23:40.02,Default,,0,0,0,,because she drank a drug\Nthat the Grand Duke gave her!
-Dialogue: 0,0:23:40.06,0:23:41.81,Default,,0,0,0,,What a schemer!
-Dialogue: 0,0:23:42.74,0:23:44.49,Default,,0,0,0,,Let's go, Opal!
-Dialogue: 0,0:23:50.18,0:23:53.41,Default,,0,0,0,,- What did you do to my mother?\N- Nothing special.
-Dialogue: 0,0:23:53.46,0:23:55.45,Default,,0,0,0,,- Go away!\N- My regards!
-Dialogue: 0,0:23:57.50,0:24:00.02,Default,,0,0,0,,- I was about to reveal your secret!\N- Yes, I know, Mother.
-Dialogue: 0,0:24:00.06,0:24:02.78,Default,,0,0,0,,But we will continue to pretend\Nthat I am a boy,
-Dialogue: 0,0:24:02.82,0:24:05.54,Default,,0,0,0,,until in our kingdom\Nthere are no more villains!
-Dialogue: 0,0:24:07.74,0:24:09.57,Default,,0,0,0,,My little girl!
-Dialogue: 0,0:24:12.30,0:24:14.50,Default,,0,0,0,,And so the story ended.
+Dialogue: 0,0:02:27.22,0:02:33.24,Default,,0,0,0,,Um, is there a kid around here with blue eyes who looks like a boy or a girl?
+Dialogue: 0,0:02:33.42,0:02:34.60,Default,,0,0,0,,Nope, no weirdos like that around.
+Dialogue: 0,0:02:36.72,0:02:37.60,Default,,0,0,0,,Waa!
+Dialogue: 0,0:02:37.74,0:02:38.66,Default,,0,0,0,,Help!
+Dialogue: 0,0:02:38.67,0:02:40.26,Default,,0,0,0,,Pick me up!
+Dialogue: 0,0:02:41.22,0:02:46.40,Default,,0,0,0,,Kanabun-chan, isn't there a girl in this town with black hair who looks like a boy?
+Dialogue: 0,0:02:46.40,0:02:49.62,Default,,0,0,0,,Beats me, I've never seen one. Well, see ya!
+Dialogue: 0,0:02:50.87,0:02:51.87,Default,,0,0,0,,What a letdown...
+Dialogue: 0,0:02:52.48,0:02:55.34,Default,,0,0,0,,I've been searching for 12 years already...
+Dialogue: 0,0:03:04.51,0:03:05.72,Default,,0,0,0,,Why are you attacking me?!
+Dialogue: 0,0:03:05.98,0:03:08.54,Default,,0,0,0,,Well, they just wanted to know if you're a guy or a girl.
+Dialogue: 0,0:03:09.20,0:03:10.20,Default,,0,0,0,,Who hired you?!
+Dialogue: 0,0:03:10.40,0:03:15.69,Default,,0,0,0,,If this water touches you, men will turn blue and women will turn purple!
+Dialogue: 0,0:03:16.21,0:03:20.06,Default,,0,0,0,,That's for sure!
+Dialogue: 0,0:03:21.14,0:03:21.72,Default,,0,0,0,,They ran away!
+Dialogue: 0,0:03:21.92,0:03:22.16,Default,,0,0,0,,Get 'em!
+Dialogue: 0,0:03:22.36,0:03:22.52,Default,,0,0,0,,Hey!
+Dialogue: 0,0:03:23.09,0:03:24.51,Default,,0,0,0,,Up we go!
+Dialogue: 0,0:03:24.54,0:03:25.43,Default,,0,0,0,,Giddyup!
+Dialogue: 0,0:03:25.88,0:03:28.84,Default,,0,0,0,,Come on, once we start, get off your rear!
+Dialogue: 0,0:03:29.08,0:03:30.36,Default,,0,0,0,,You complete idiot!
+Dialogue: 0,0:03:30.86,0:03:31.58,Default,,0,0,0,,Get up!
+Dialogue: 0,0:03:38.02,0:03:39.02,Default,,0,0,0,,Ah!
+Dialogue: 0,0:03:45.62,0:03:46.62,Default,,0,0,0,,Oh!
+Dialogue: 0,0:03:52.07,0:03:53.07,Default,,0,0,0,,Hey, partner!
+Dialogue: 0,0:03:58.78,0:04:01.48,Default,,0,0,0,,Which one should I pick... Ah, this one!
+Dialogue: 0,0:04:05.66,0:04:06.66,Default,,0,0,0,,Tell your boss!
+Dialogue: 0,0:04:06.82,0:04:08.56,Default,,0,0,0,,No matter how much you chase after me, it's useless!
+Dialogue: 0,0:04:38.30,0:04:42.42,Default,,0,0,0,,Your Highness, wake up. It is time to awaken. Whoa!
+Dialogue: 0,0:04:47.66,0:04:48.70,Default,,0,0,0,,Good morning, Garigori!
+Dialogue: 0,0:04:48.80,0:04:50.02,Default,,0,0,0,,What a waste of time!
+Dialogue: 0,0:04:50.08,0:04:51.54,Default,,0,0,0,,That's a waste of 30 seconds!
+Dialogue: 0,0:04:51.70,0:04:53.82,Default,,0,0,0,,I woke up well before the time!
+Dialogue: 0,0:04:54.80,0:04:57.40,Default,,0,0,0,,I say, please stop both of these useless antics!
+Dialogue: 0,0:04:58.71,0:05:00.88,Default,,0,0,0,,Your clothes are ready.
+Dialogue: 0,0:05:06.28,0:05:08.48,Default,,0,0,0,,Come, Your Highness, please change into these.
+Dialogue: 0,0:05:11.06,0:05:15.22,Default,,0,0,0,,What are you holding? I'm not the one wearing it!
+Dialogue: 0,0:05:15.99,0:05:18.04,Default,,0,0,0,,Your Highness—!
+Dialogue: 0,0:05:25.32,0:05:26.32,Default,,0,0,0,,Hey!
+Dialogue: 0,0:05:26.38,0:05:27.54,Default,,0,0,0,,Good morning, Opal!
+Dialogue: 0,0:05:29.23,0:05:30.26,Default,,0,0,0,,Get my clothes out.
+Dialogue: 0,0:05:34.62,0:05:35.62,Default,,0,0,0,,This is good!
+Dialogue: 0,0:05:35.73,0:05:39.44,Default,,0,0,0,,This is way better than these flashy, glittery clothes!
+Dialogue: 0,0:05:39.74,0:05:40.88,Default,,0,0,0,,See you later, Opal!
+Dialogue: 0,0:05:45.56,0:05:46.38,Default,,0,0,0,,Strike!
+Dialogue: 0,0:05:46.47,0:05:47.47,Default,,0,0,0,,Thank you!
+Dialogue: 0,0:06:02.79,0:06:04.01,Default,,0,0,0,,Dedicated to the everlasting prosperity
+Dialogue: 0,0:06:04.03,0:06:05.56,Default,,0,0,0,,of His Majesty,
+Dialogue: 0,0:06:05.58,0:06:10.84,Default,,0,0,0,,Her Majesty the Queen, and the royal family for thousands of generations,
+Dialogue: 0,0:06:10.87,0:06:13.60,Default,,0,0,0,,we sincerely pray for your ever-flourishing welcome...
+Dialogue: 0,0:06:16.23,0:06:17.38,Default,,0,0,0,,It's the Prince!
+Dialogue: 0,0:06:17.48,0:06:18.66,Default,,0,0,0,,It's Prince Sapphire!
+Dialogue: 0,0:06:18.66,0:06:19.42,Default,,0,0,0,,Not again!
+Dialogue: 0,0:06:19.65,0:06:22.93,Default,,0,0,0,,Announcing the arrival of Grand Duke Duralumin!
+Dialogue: 0,0:06:26.05,0:06:29.79,Default,,0,0,0,,I am deeply honored to behold your gracious presence.
+Dialogue: 0,0:06:29.81,0:06:31.32,Default,,0,0,0,,It is wonderful to see you in good health as well...
+Dialogue: 0,0:06:31.34,0:06:32.98,Default,,0,0,0,,What an over-the-top greeting!
+Dialogue: 0,0:06:34.36,0:06:36.93,Default,,0,0,0,,Now then, Your Majesty, regarding the usual deer hunt tournament,
+Dialogue: 0,0:06:36.95,0:06:39.45,Default,,0,0,0,,this year we plan to make it even grander and more extravagant...
+Dialogue: 0,0:06:39.48,0:06:41.68,Default,,0,0,0,,Do we even have the money for that?
+Dialogue: 0,0:06:42.07,0:06:45.56,Default,,0,0,0,,No need to worry, we'll squeeze plenty of taxes out of the people.
+Dialogue: 0,0:06:47.87,0:06:49.10,Default,,0,0,0,,Bring the seal!
+Dialogue: 0,0:06:50.07,0:06:51.14,Default,,0,0,0,,Press it yourself!
+Dialogue: 0,0:07:00.86,0:07:02.42,Default,,0,0,0,,I'll take the army afterwards.
+Dialogue: 0,0:07:02.60,0:07:04.90,Default,,0,0,0,,Excuse me... Good morning, Father!
+Dialogue: 0,0:07:06.78,0:07:07.78,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:07:07.89,0:07:09.74,Default,,0,0,0,,Take off your hat indoors!
+Dialogue: 0,0:07:11.14,0:07:12.36,Default,,0,0,0,,What is with that outfit?
+Dialogue: 0,0:07:12.56,0:07:14.16,Default,,0,0,0,,Don't you feel any shame?
+Dialogue: 0,0:07:15.76,0:07:19.67,Default,,0,0,0,,But I feel so much more comfortable in these clothes...
+Dialogue: 0,0:07:20.74,0:07:22.74,Default,,0,0,0,,Sapphire, you are the prince of this country.
+Dialogue: 0,0:07:22.89,0:07:25.10,Default,,0,0,0,,A prince must show more dignity!
+Dialogue: 0,0:07:25.47,0:07:26.68,Default,,0,0,0,,That's hardly normal!
+Dialogue: 0,0:07:27.43,0:07:28.64,Default,,0,0,0,,There's a limit to your carelessness!
+Dialogue: 0,0:07:29.32,0:07:30.64,Default,,0,0,0,,Then what am I supposed to say?
+Dialogue: 0,0:07:31.27,0:07:33.04,Default,,0,0,0,,Good morning, honorable Father!
+Dialogue: 0,0:07:33.96,0:07:34.98,Default,,0,0,0,,What's so funny...
+Dialogue: 0,0:07:38.10,0:07:39.46,Default,,0,0,0,,Grand Duke Duralumin!
+Dialogue: 0,0:07:39.84,0:07:41.36,Default,,0,0,0,,Ah, Lord Nylon.
+Dialogue: 0,0:07:41.71,0:07:44.76,Default,,0,0,0,,That bratty prince, what a damn nuisance he is.
+Dialogue: 0,0:07:45.03,0:07:46.85,Default,,0,0,0,,He intentionally tried to get in the way of me stamping the seal...
+Dialogue: 0,0:07:46.88,0:07:48.60,Default,,0,0,0,,Now, now, Duke.
+Dialogue: 0,0:07:48.91,0:07:51.48,Default,,0,0,0,,Prince Sapphire won't be able to act so high and mighty for much longer.
+Dialogue: 0,0:07:51.50,0:07:54.75,Default,,0,0,0,,Once it is revealed that the prince is actually a woman, the throne cannot be inherited.
+Dialogue: 0,0:07:55.02,0:07:58.10,Default,,0,0,0,,After all, by the laws of this kingdom, only a man can ascend to the throne.
+Dialogue: 0,0:07:58.12,0:08:00.52,Default,,0,0,0,,Once the secret is exposed, this country will belong to the Grand Duke.
+Dialogue: 0,0:08:00.55,0:08:04.00,Default,,0,0,0,,That prince is quite a handful. Don't lower your guard!
+Dialogue: 0,0:08:04.48,0:08:07.66,Default,,0,0,0,,Rule 1: The king must not yawn in front of the people.
+Dialogue: 0,0:08:07.90,0:08:09.76,Default,,0,0,0,,Hiccups and burps are completely out of the question.
+Dialogue: 0,0:08:10.05,0:08:12.88,Default,,0,0,0,,Rule: The king must rarely laugh in front of the people.
+Dialogue: 0,0:08:13.18,0:08:15.44,Default,,0,0,0,,Rule: The king must not fetch things himself.
+Dialogue: 0,0:08:15.61,0:08:17.20,Default,,0,0,0,,He should have his retainers fetch them.
+Dialogue: 0,0:08:17.31,0:08:18.31,Default,,0,0,0,,Your Highness!
+Dialogue: 0,0:08:19.07,0:08:22.30,Default,,0,0,0,,Reading mangas again, I see. That simply won't do.
+Dialogue: 0,0:08:22.84,0:08:27.29,Default,,0,0,0,,When I was about Your Highness's age, I read much, much better books.
+Dialogue: 0,0:08:27.32,0:08:28.48,Default,,0,0,0,,About this much?
+Dialogue: 0,0:08:28.54,0:08:29.54,Default,,0,0,0,,Even more than that.
+Dialogue: 0,0:08:29.97,0:08:31.48,Default,,0,0,0,,Even more... Your Highness, please help me!
+Dialogue: 0,0:08:31.58,0:08:32.04,Default,,0,0,0,,Your Highness!
+Dialogue: 0,0:08:32.22,0:08:33.22,Default,,0,0,0,,Your Highness!
+Dialogue: 0,0:08:33.32,0:08:34.56,Default,,0,0,0,,Please help me!
+Dialogue: 0,0:08:46.05,0:08:47.32,Default,,0,0,0,,Ah, look what happened.
+Dialogue: 0,0:08:47.60,0:08:50.20,Default,,0,0,0,,Sapphire, where are you going in the middle of your studies?
+Dialogue: 0,0:08:51.10,0:08:52.74,Default,,0,0,0,,Now, return to your room.
+Dialogue: 0,0:08:53.08,0:08:54.22,Default,,0,0,0,,I hate studying!
+Dialogue: 0,0:08:54.75,0:08:56.51,Default,,0,0,0,,The castle is full of nothing but old people. I feel like I'm suffocating.
+Dialogue: 0,0:08:56.54,0:08:59.02,Default,,0,0,0,,Sapphire, what on earth are you saying?
+Dialogue: 0,0:08:59.64,0:09:01.02,Default,,0,0,0,,I'm heading outside.
+Dialogue: 0,0:09:01.04,0:09:01.47,Default,,0,0,0,,Sapphire!
+Dialogue: 0,0:09:02.83,0:09:04.82,Default,,0,0,0,,Sapphire, poor child.
+Dialogue: 0,0:09:05.57,0:09:09.14,Default,,0,0,0,,The fact that she grew up like that is all because of the laws of this kingdom.
+Dialogue: 0,0:09:09.55,0:09:13.20,Default,,0,0,0,,When that child was born, it was right around the time these flowers were blooming.
+Dialogue: 0,0:09:23.54,0:09:27.88,Default,,0,0,0,,Hooray!
+Dialogue: 0,0:09:34.74,0:09:36.52,Default,,0,0,0,,People of the kingdom, rejoice!
+Dialogue: 0,0:09:36.75,0:09:37.88,Default,,0,0,0,,An heir has been born!
+Dialogue: 0,0:09:38.17,0:09:39.62,Default,,0,0,0,,A prince has been born!
+Dialogue: 0,0:09:43.14,0:09:44.60,Default,,0,0,0,,I am deceiving my people.
+Dialogue: 0,0:09:45.03,0:09:48.80,Default,,0,0,0,,Even though a princess was born, I declared her to be a prince.
+Dialogue: 0,0:09:49.58,0:09:54.26,Default,,0,0,0,,But Your Majesty, under the laws of our country, a princess cannot ascend to the throne.
+Dialogue: 0,0:09:54.64,0:09:56.96,Default,,0,0,0,,Therefore, we had to present her as a prince.
+Dialogue: 0,0:09:57.18,0:09:58.18,Default,,0,0,0,,I know.
+Dialogue: 0,0:10:03.16,0:10:05.96,Default,,0,0,0,,You announced her as a boy even though she is a girl?
+Dialogue: 0,0:10:07.34,0:10:08.66,Default,,0,0,0,,It couldn't be helped.
+Dialogue: 0,0:10:09.08,0:10:11.98,Default,,0,0,0,,If it were discovered that she is a princess, it would be disastrous.
+Dialogue: 0,0:10:12.36,0:10:16.61,Default,,0,0,0,,That treacherous Grand Duke Duralumin would seize the opportunity to take over the kingdom.
+Dialogue: 0,0:10:16.63,0:10:21.36,Default,,0,0,0,,Your Majesty, Grand Duke Duralumin has arrived.
+Dialogue: 0,0:10:21.70,0:10:23.26,Default,,0,0,0,,He is right on time.
+Dialogue: 0,0:10:23.46,0:10:25.66,Default,,0,0,0,,Oh dear, oh dear, what shall we do? The preparations...
+Dialogue: 0,0:10:26.82,0:10:29.16,Default,,0,0,0,,The time was set, wasn't it? Hurry, the time!
+Dialogue: 0,0:10:29.50,0:10:31.04,Default,,0,0,0,,Whatever should we do?
+Dialogue: 0,0:10:32.57,0:10:35.40,Default,,0,0,0,,Put out some boys' toys—that way we can deceive him.
+Dialogue: 0,0:10:36.06,0:10:38.30,Default,,0,0,0,,Here comes the Prince!
+Dialogue: 0,0:10:53.05,0:10:56.42,Default,,0,0,0,,May you grow up healthy and strong.
+Dialogue: 0,0:10:58.98,0:11:01.95,Default,,0,0,0,,That was how they managed to fool the Grand Duke,
+Dialogue: 0,0:11:01.98,0:11:05.68,Default,,0,0,0,,but ever since then, Sapphire was raised as a boy.
+Dialogue: 0,0:11:06.37,0:11:10.50,Default,,0,0,0,,The only ones who knew the secret were the Doctor, the Nanny, and the Chamberlain.
+Dialogue: 0,0:11:14.90,0:11:16.38,Default,,0,0,0,,Twelve years have passed since then.
+Dialogue: 0,0:11:19.30,0:11:21.16,Default,,0,0,0,,The secret was strictly kept.
+Dialogue: 0,0:11:22.91,0:11:25.09,Default,,0,0,0,,But in order to protect that secret,
+Dialogue: 0,0:11:25.11,0:11:28.62,Default,,0,0,0,,Sapphire always had to be raised as a boy.
+Dialogue: 0,0:11:40.79,0:11:45.48,Default,,0,0,0,,By now, Sapphire has become completely a boy, body and soul.
+Dialogue: 0,0:11:46.20,0:11:49.05,Default,,0,0,0,,Without ever knowing the joys or happiness of being a girl,
+Dialogue: 0,0:11:49.07,0:11:51.56,Default,,0,0,0,,all for the law of the land.
+Dialogue: 0,0:11:51.58,0:11:52.88,Default,,0,0,0,,Poor Sapphire.
+Dialogue: 0,0:11:53.53,0:11:56.00,Default,,0,0,0,,Ah, I feel like I'm going mad.
+Dialogue: 0,0:12:21.95,0:12:25.00,Default,,0,0,0,,Well, well, taking a walk all by yourself, my Prince?
+Dialogue: 0,0:12:25.28,0:12:25.76,Default,,0,0,0,,Lord Nylon!
+Dialogue: 0,0:12:26.16,0:12:27.24,Default,,0,0,0,,I hate you!
+Dialogue: 0,0:12:27.30,0:12:28.30,Default,,0,0,0,,Go away!
+Dialogue: 0,0:12:29.52,0:12:31.24,Default,,0,0,0,,What a cold response.
+Dialogue: 0,0:12:31.26,0:12:34.66,Default,,0,0,0,,Actually, I was hoping Your Highness might give me a lesson in swordsmanship.
+Dialogue: 0,0:12:34.94,0:12:35.94,Default,,0,0,0,,All right!
+Dialogue: 0,0:12:36.13,0:12:37.24,Default,,0,0,0,,I am deeply honored!
+Dialogue: 0,0:12:37.87,0:12:39.18,Default,,0,0,0,,Come at me with all you've got!
+Dialogue: 0,0:12:53.61,0:12:55.44,Default,,0,0,0,,How's that?!
+Dialogue: 0,0:12:57.09,0:12:58.76,Default,,0,0,0,,Nylon, what's next?
+Dialogue: 0,0:13:02.30,0:13:05.62,Default,,0,0,0,,If I may, excuse me, but the fruit from that tree...
+Dialogue: 0,0:13:08.77,0:13:09.98,Default,,0,0,0,,Like this!
+Dialogue: 0,0:13:13.36,0:13:14.56,Default,,0,0,0,,What's next?
+Dialogue: 0,0:13:14.86,0:13:19.58,Default,,0,0,0,,As for embroidery practice, whoever finishes this beautiful, beautiful embroidery first wins.
+Dialogue: 0,0:13:19.84,0:13:20.84,Default,,0,0,0,,How annoying!
+Dialogue: 0,0:13:21.05,0:13:24.34,Default,,0,0,0,,How could a prince like me do an imitation of a girl like that?!
+Dialogue: 0,0:13:24.69,0:13:28.68,Default,,0,0,0,,Lord Nylon, you were the one who sent an assassin after me the other day, weren't you!
+Dialogue: 0,0:13:29.27,0:13:31.52,Default,,0,0,0,,I know nothing of such a— Speak!
+Dialogue: 0,0:13:31.96,0:13:33.46,Default,,0,0,0,,Don't you ever lay a hand on me again!
+Dialogue: 0,0:13:41.78,0:13:42.78,Default,,0,0,0,,Hello!
+Dialogue: 0,0:13:43.32,0:13:44.32,Default,,0,0,0,,Who is that?
+Dialogue: 0,0:13:46.68,0:13:47.68,Default,,0,0,0,,Who are you?
+Dialogue: 0,0:13:48.78,0:13:49.78,Default,,0,0,0,,I'm Tink!
+Dialogue: 0,0:13:50.38,0:13:51.38,Default,,0,0,0,,Tink?
+Dialogue: 0,0:13:51.44,0:13:52.48,Default,,0,0,0,,What a strange name!
+Dialogue: 0,0:13:53.18,0:13:55.52,Default,,0,0,0,,I've been searching for you for 12 years.
+Dialogue: 0,0:13:55.91,0:13:57.08,Default,,0,0,0,,You are a woman!
+Dialogue: 0,0:14:01.90,0:14:03.72,Default,,0,0,0,,You are a girl!
+Dialogue: 0,0:14:04.52,0:14:05.76,Default,,0,0,0,,I'm not a girl!
+Dialogue: 0,0:14:06.25,0:14:07.25,Default,,0,0,0,,You are a girl!
+Dialogue: 0,0:14:07.90,0:14:09.50,Default,,0,0,0,,I am NOT a girl!
+Dialogue: 0,0:14:09.66,0:14:10.66,Default,,0,0,0,,Girl!
+Dialogue: 0,0:14:12.56,0:14:13.56,Default,,0,0,0,,How do you know?
+Dialogue: 0,0:14:13.98,0:14:15.70,Default,,0,0,0,,How do I know...
+Dialogue: 0,0:14:15.80,0:14:17.36,Default,,0,0,0,,I was an angel.
+Dialogue: 0,0:14:17.50,0:14:17.98,Default,,0,0,0,,An angel?
+Dialogue: 0,0:14:18.38,0:14:20.46,Default,,0,0,0,,Yeah, a former angel.
+Dialogue: 0,0:14:21.10,0:14:24.02,Default,,0,0,0,,I came down from heaven, looking for you.
+Dialogue: 0,0:14:24.70,0:14:29.64,Default,,0,0,0,,I was sent from heaven to change you back into the gentle girl you used to be.
+Dialogue: 0,0:14:29.67,0:14:31.82,Default,,0,0,0,,Make ME into a girly girl?!
+Dialogue: 0,0:14:40.50,0:14:41.62,Default,,0,0,0,,Just try it!
+Dialogue: 0,0:14:41.94,0:14:45.94,Default,,0,0,0,,I will never become anything like that!
+Dialogue: 0,0:14:46.19,0:14:48.13,Default,,0,0,0,,I'm sure a gentle girl...
+Dialogue: 0,0:14:48.15,0:14:48.96,Default,,0,0,0,,Go Away!
+Dialogue: 0,0:14:51.22,0:14:53.20,Default,,0,0,0,,I'll see you again soon.
+Dialogue: 0,0:14:54.15,0:14:55.26,Default,,0,0,0,,That's a promise!
+Dialogue: 0,0:15:02.83,0:15:04.10,Default,,0,0,0,,You cowards!
+Dialogue: 0,0:15:04.34,0:15:08.14,Default,,0,0,0,,And you still dare call yourselves top-tier hitmen employed by Lord Nylon?!
+Dialogue: 0,0:15:08.39,0:15:10.67,Default,,0,0,0,,Getting thrown into the river by a little brat like that!
+Dialogue: 0,0:15:10.86,0:15:13.46,Default,,0,0,0,,Didn't you get tossed in too, Lord Nylon?
+Dialogue: 0,0:15:13.49,0:15:14.50,Default,,0,0,0,,IDIOTS!
+Dialogue: 0,0:15:14.82,0:15:17.37,Default,,0,0,0,,After going to all the trouble of buying that potion to tell men and women apart...
+Dialogue: 0,0:15:17.39,0:15:20.44,Default,,0,0,0,,from Ponk of the Potion Cave and lacing your sword with it, you didn't even use it?!
+Dialogue: 0,0:15:20.46,0:15:22.92,Default,,0,0,0,,Um, I tried it, but...
+Dialogue: 0,0:15:24.54,0:15:25.54,Default,,0,0,0,,It worked!
+Dialogue: 0,0:15:25.64,0:15:26.64,Default,,0,0,0,,It worked!
+Dialogue: 0,0:15:27.08,0:15:27.94,Default,,0,0,0,,It turned blue!
+Dialogue: 0,0:15:28.04,0:15:28.72,Default,,0,0,0,,It turned blue!
+Dialogue: 0,0:15:28.82,0:15:30.92,Default,,0,0,0,,Lord Nylon is a man after all!
+Dialogue: 0,0:15:31.70,0:15:32.70,Default,,0,0,0,,You fool!
+Dialogue: 0,0:15:33.13,0:15:35.70,Default,,0,0,0,,Lord Nylon, it's Ponko the apothecary.
+Dialogue: 0,0:15:37.82,0:15:39.32,Default,,0,0,0,,Ah, apothecary, I've been waiting for you.
+Dialogue: 0,0:15:39.67,0:15:41.42,Default,,0,0,0,,By the way, is that medicine ready?
+Dialogue: 0,0:15:41.48,0:15:42.50,Default,,0,0,0,,Yes.
+Dialogue: 0,0:15:43.73,0:15:46.84,Default,,0,0,0,,If someone drinks this, will they blab out the secrets of their heart over and over again?!
+Dialogue: 0,0:15:47.32,0:15:48.32,Default,,0,0,0,,Hey!
+Dialogue: 0,0:15:48.81,0:15:51.04,Default,,0,0,0,,If you fail this time, it's off with your heads!
+Dialogue: 0,0:15:52.16,0:15:53.18,Default,,0,0,0,,We'll do it properly.
+Dialogue: 0,0:15:53.52,0:15:53.88,Default,,0,0,0,,I'm sorry.
+Dialogue: 0,0:15:54.29,0:15:56.20,Default,,0,0,0,,The three of you, lure the prince out!
+Dialogue: 0,0:15:56.26,0:15:57.30,Default,,0,0,0,,Lure him out?
+Dialogue: 0,0:15:57.80,0:15:58.26,Default,,0,0,0,,That's right!
+Dialogue: 0,0:15:58.28,0:15:59.48,Default,,0,0,0,,To the Pathless Forest!
+Dialogue: 0,0:15:59.88,0:16:01.40,Default,,0,0,0,,Entice him into the Pathless Forest!
+Dialogue: 0,0:16:01.70,0:16:03.54,Default,,0,0,0,,There are man-eating wolves in there!
+Dialogue: 0,0:16:03.94,0:16:07.18,Default,,0,0,0,,If we lure Sapphire over there, he certainly won't come back in one piece!
+Dialogue: 0,0:16:07.52,0:16:10.18,Default,,0,0,0,,And even if he does come back, before that happens,
+Dialogue: 0,0:16:10.20,0:16:13.12,Default,,0,0,0,,I'll set this potion out and make him drink it first!
+Dialogue: 0,0:16:26.80,0:16:27.14,Default,,0,0,0,,Hey!
+Dialogue: 0,0:16:27.45,0:16:28.45,Default,,0,0,0,,Why are you telling that idiot?!
+Dialogue: 0,0:16:28.52,0:16:29.52,Default,,0,0,0,,I know that!
+Dialogue: 0,0:16:30.44,0:16:32.16,Default,,0,0,0,,Um, is it that way?
+Dialogue: 0,0:16:32.19,0:16:32.86,Default,,0,0,0,,Or this way?
+Dialogue: 0,0:16:32.89,0:16:34.18,Default,,0,0,0,,Oh, neat!
+Dialogue: 0,0:16:36.62,0:16:37.62,Default,,0,0,0,,Clumsy fool!
+Dialogue: 0,0:16:37.88,0:16:39.17,Default,,0,0,0,,Where did they hide?
+Dialogue: 0,0:16:41.94,0:16:44.07,Default,,0,0,0,,I've wandered into quite a dangerous place...
+Dialogue: 0,0:16:48.28,0:16:49.28,Default,,0,0,0,,What happened?
+Dialogue: 0,0:16:49.81,0:16:51.56,Default,,0,0,0,,It is I, Duralumin.
+Dialogue: 0,0:16:52.14,0:16:54.36,Default,,0,0,0,,Oh, Grand Duke, do you need something?
+Dialogue: 0,0:16:54.46,0:16:57.99,Default,,0,0,0,,Actually, I have obtained a rare foreign liquor;
+Dialogue: 0,0:16:58.01,0:17:00.62,Default,,0,0,0,,it's a very sweet wine meant for highborn ladies.
+Dialogue: 0,0:17:00.65,0:17:01.74,Default,,0,0,0,,Well, thank you for that.
+Dialogue: 0,0:17:02.15,0:17:04.98,Default,,0,0,0,,Lord Nylon, perform the poison tasting.
+Dialogue: 0,0:17:05.14,0:17:06.30,Default,,0,0,0,,Um, me?
+Dialogue: 0,0:17:06.42,0:17:07.98,Default,,0,0,0,,Um, I'm the one who has to drink it?
+Dialogue: 0,0:17:08.00,0:17:09.45,Default,,0,0,0,,That's right, gulp it down.
+Dialogue: 0,0:17:09.48,0:17:11.41,Default,,0,0,0,,All right, I'll drink it, I'm drinking it...
+Dialogue: 0,0:17:15.19,0:17:18.40,Default,,0,0,0,,My Queen here have a drink.
+Dialogue: 0,0:17:20.76,0:17:23.00,Default,,0,0,0,,How do i get out of this forest?
+Dialogue: 0,0:17:25.30,0:17:28.06,Default,,0,0,0,,Are you lost, young one?
+Dialogue: 0,0:17:28.44,0:17:29.86,Default,,0,0,0,,Old lady, please help me.
+Dialogue: 0,0:17:30.16,0:17:31.42,Default,,0,0,0,,How can I get out of here?
+Dialogue: 0,0:17:31.59,0:17:33.53,Default,,0,0,0,,Watch out for the man-eating wolf.
+Dialogue: 0,0:17:33.56,0:17:37.06,Default,,0,0,0,,It's a huge, magical wolf that's been alive for a hundred years.
+Dialogue: 0,0:17:37.36,0:17:39.11,Default,,0,0,0,,There is only one way to protect yourself from that wolf.
+Dialogue: 0,0:17:39.13,0:17:41.90,Default,,0,0,0,,There is a house up ahead.
+Dialogue: 0,0:17:41.93,0:17:43.26,Default,,0,0,0,,Go there quickly.
+Dialogue: 0,0:17:43.95,0:17:45.26,Default,,0,0,0,,Thank you, old lady.
+Dialogue: 0,0:18:14.50,0:18:18.38,Default,,0,0,0,,Soon, the drug mixed into that sake will take effect.
+Dialogue: 0,0:18:18.58,0:18:20.60,Default,,0,0,0,,Her Ladyship will start babbling away—
+Dialogue: 0,0:18:20.63,0:18:23.64,Default,,0,0,0,,Prince Sapphire is a girl, she's a girl!
+Dialogue: 0,0:18:23.86,0:18:26.16,Default,,0,0,0,,You'll start babbling too, you know.
+Dialogue: 0,0:18:26.19,0:18:28.18,Default,,0,0,0,,Because you drank that sake as well.
+Dialogue: 0,0:18:44.61,0:18:45.78,Default,,0,0,0,,It's so dusty in here.
+Dialogue: 0,0:18:48.01,0:18:49.36,Default,,0,0,0,,Ah, wolf footprints!
+Dialogue: 0,0:18:49.78,0:18:51.12,Default,,0,0,0,,They're huge.
+Dialogue: 0,0:19:01.97,0:19:03.18,Default,,0,0,0,,It's Tink?!
+Dialogue: 0,0:19:03.60,0:19:04.20,Default,,0,0,0,,Don't scare me.
+Dialogue: 0,0:19:04.22,0:19:05.36,Default,,0,0,0,,I am sorry.
+Dialogue: 0,0:19:05.86,0:19:07.72,Default,,0,0,0,,But you were tricked.
+Dialogue: 0,0:19:08.35,0:19:09.68,Default,,0,0,0,,This is the wolf's house.
+Dialogue: 0,0:19:10.34,0:19:11.34,Default,,0,0,0,,That's ridiculous.
+Dialogue: 0,0:19:11.98,0:19:16.08,Default,,0,0,0,,They say that wolf lures all travelers into this house and eats them.
+Dialogue: 0,0:19:17.04,0:19:20.54,Default,,0,0,0,,Look, those are all hats from the people who got eaten.
+Dialogue: 0,0:19:21.01,0:19:22.12,Default,,0,0,0,,How can we possibly beat it?
+Dialogue: 0,0:19:23.84,0:19:26.94,Default,,0,0,0,,Well, they say wolves have a soft spot for girls.
+Dialogue: 0,0:19:27.97,0:19:30.18,Default,,0,0,0,,Are you telling me to dress like a girl?
+Dialogue: 0,0:19:30.43,0:19:31.88,Default,,0,0,0,,You won't be able to win unless you do.
+Dialogue: 0,0:19:32.04,0:19:34.38,Default,,0,0,0,,Who in their right mind would dress like a girl?!
+Dialogue: 0,0:20:02.28,0:20:03.72,Default,,0,0,0,,All right! There, this will do.
+Dialogue: 0,0:20:03.95,0:20:05.40,Default,,0,0,0,,You look super cute.
+Dialogue: 0,0:20:05.86,0:20:07.64,Default,,0,0,0,,No way, take this off me!
+Dialogue: 0,0:20:08.31,0:20:10.34,Default,,0,0,0,,Speak more like a girl!
+Dialogue: 0,0:20:10.76,0:20:11.32,Default,,0,0,0,,No!
+Dialogue: 0,0:20:11.50,0:20:12.78,Default,,0,0,0,,Unless you strip me, I don't want to!
+Dialogue: 0,0:20:14.33,0:20:15.42,Default,,0,0,0,,Everyone run!
+Dialogue: 0,0:20:15.54,0:20:16.54,Default,,0,0,0,,It's the wolf!
+Dialogue: 0,0:20:18.30,0:20:21.92,Default,,0,0,0,,Bring the wolf close and suddenly attack him!
+Dialogue: 0,0:20:33.74,0:20:35.35,Default,,0,0,0,,The medicine is taking effect.
+Dialogue: 0,0:20:35.37,0:20:37.04,Default,,0,0,0,,Ah, it hurts...
+Dialogue: 0,0:20:37.32,0:20:38.06,Default,,0,0,0,,My chest...
+Dialogue: 0,0:20:38.08,0:20:40.22,Default,,0,0,0,,Is there something wrong, my Queen?
+Dialogue: 0,0:20:40.24,0:20:43.06,Default,,0,0,0,, Grand Duke, I have something to confess to you.
+Dialogue: 0,0:20:56.42,0:20:58.08,Default,,0,0,0,,It's Little Red Riding Hood...
+Dialogue: 0,0:20:58.96,0:21:01.28,Default,,0,0,0,,Oh my...
+Dialogue: 0,0:21:03.66,0:21:04.66,Default,,0,0,0,,Are you scared?
+Dialogue: 0,0:21:05.55,0:21:07.02,Default,,0,0,0,,Well, I'm weakened over here.
+Dialogue: 0,0:21:07.44,0:21:11.54,Default,,0,0,0,,There's nothing that tastes worse than eating a child who's trembling in fear.
+Dialogue: 0,0:21:11.91,0:21:12.91,Default,,0,0,0,,How about some flowers?
+Dialogue: 0,0:21:14.96,0:21:15.96,Default,,0,0,0,,How about some cake?
+Dialogue: 0,0:21:16.78,0:21:19.44,Default,,0,0,0,,Don't worry. I'll eat you up gently.
+Dialogue: 0,0:21:20.09,0:21:21.34,Default,,0,0,0,,Enough already!
+Dialogue: 0,0:21:21.48,0:21:22.14,Default,,0,0,0,,Stop trembling!
+Dialogue: 0,0:21:22.35,0:21:23.70,Default,,0,0,0,,Geez, what am I supposed to do?!
+Dialogue: 0,0:21:24.20,0:21:26.12,Default,,0,0,0,,If you were much smaller, I wouldn't be scared.
+Dialogue: 0,0:21:28.82,0:21:29.52,Default,,0,0,0,,How about this size?
+Dialogue: 0,0:21:29.78,0:21:30.78,Default,,0,0,0,,Even smaller?
+Dialogue: 0,0:21:31.24,0:21:32.24,Default,,0,0,0,,Guess it can't be helped.
+Dialogue: 0,0:21:33.26,0:21:35.24,Default,,0,0,0,,How's this, size?
+Dialogue: 0,0:21:36.64,0:21:37.40,Default,,0,0,0,,So cute!
+Dialogue: 0,0:21:37.59,0:21:38.59,Default,,0,0,0,,You wolf!
+Dialogue: 0,0:21:38.62,0:21:39.62,Default,,0,0,0,,Prepare yourself!
+Dialogue: 0,0:21:44.18,0:21:46.48,Default,,0,0,0,,You put up a good fight, kiddo.
+Dialogue: 0,0:21:47.35,0:21:49.46,Default,,0,0,0,,I'm gonna crush you!
+Dialogue: 0,0:21:52.00,0:21:54.50,Default,,0,0,0,,Ouch!
+Dialogue: 0,0:22:33.22,0:22:34.22,Default,,0,0,0,,Fire?!
+Dialogue: 0,0:22:34.90,0:22:35.90,Default,,0,0,0,,It is! It is!
+Dialogue: 0,0:22:38.15,0:22:40.15,Default,,0,0,0,,Help me!
+Dialogue: 0,0:22:40.82,0:22:46.40,Default,,0,0,0,,Good, good! Good, good!
+Dialogue: 0,0:22:46.43,0:22:49.66,Default,,0,0,0,,My chest hurts, it feels like something is stuck inside.
+Dialogue: 0,0:22:49.76,0:22:51.93,Default,,0,0,0,,Oh, that won't do, it's bad for your health.
+Dialogue: 0,0:22:51.95,0:22:53.34,Default,,0,0,0,,Please open up and confess.
+Dialogue: 0,0:22:53.37,0:22:55.26,Default,,0,0,0,,Spit it all out.
+Dialogue: 0,0:23:03.42,0:23:05.56,Default,,0,0,0,,Um, it's about Sapphire...
+Dialogue: 0,0:23:13.51,0:23:15.17,Default,,0,0,0,,Sapphire is actually...
+Dialogue: 0,0:23:15.20,0:23:16.32,Default,,0,0,0,,actually?
+Dialogue: 0,0:23:17.62,0:23:20.03,Default,,0,0,0,,Oh boy! I'm gonna talk, alright alright, I'm gonna talk!
+Dialogue: 0,0:23:20.06,0:23:22.61,Default,,0,0,0,,That chatter potion we got from the apothecary works really well, doesn't it?
+Dialogue: 0,0:23:22.63,0:23:23.75,Default,,0,0,0,,What do you think, Grand Duke?
+Dialogue: 0,0:23:24.02,0:23:27.20,Default,,0,0,0,,Drugging the Queen to make her spill the beans on Sapphire...
+Dialogue: 0,0:23:27.23,0:23:28.95,Default,,0,0,0,,Only a mastermind like me could pull that off—
+Dialogue: 0,0:23:28.98,0:23:29.54,Default,,0,0,0,,You idiot!
+Dialogue: 0,0:23:29.72,0:23:30.18,Default,,0,0,0,,Shut up!
+Dialogue: 0,0:23:30.34,0:23:30.90,Default,,0,0,0,,Get out of here!
+Dialogue: 0,0:23:34.43,0:23:35.43,Default,,0,0,0,,What's wrong, Lord Nylon?
+Dialogue: 0,0:23:35.50,0:23:39.77,Default,,0,0,0,,Prince, Duralumin is trying to find out from the Queen whether you're a boy or a girl!
+Dialogue: 0,0:23:39.79,0:23:41.12,Default,,0,0,0,,What did you say?!
+Dialogue: 0,0:23:42.55,0:23:43.78,Default,,0,0,0,,Opal, I'm counting on you!
+Dialogue: 0,0:23:50.12,0:23:51.86,Default,,0,0,0,,Duralumin, what are you doing to my mother?
+Dialogue: 0,0:23:52.02,0:23:53.14,Default,,0,0,0,,Nothing in particular.
+Dialogue: 0,0:23:53.28,0:23:53.72,Default,,0,0,0,,Leave!
+Dialogue: 0,0:23:54.20,0:23:56.16,Default,,0,0,0,,Sorry to have intruded, Your Majesty.
+Dialogue: 0,0:23:57.05,0:24:00.24,Default,,0,0,0,,Sapphire, you are a girl. I know that.
+Dialogue: 0,0:24:00.54,0:24:03.84,Default,,0,0,0,,But there are too many evil schemes and customs in this kingdom.
+Dialogue: 0,0:24:04.21,0:24:07.56,Default,,0,0,0,,Until that is gone, I am a boy, Mother.
+Dialogue: 0,0:24:08.00,0:24:09.52,Default,,0,0,0,,Sapphire...
 Dialogue: 0,0:24:38.95,0:24:42.57,Karaoke,,0,0,0,,{\k29}{\k22}Ta{\k18}ra{\k16}ri {\k18}Ra{\k20}tta {\k23}Ri{\k19}tta {\k26}Ra{\k17}tta {\k19}Ra{\k66}tta{\k69}ttaa
 Dialogue: 0,0:24:42.57,0:24:45.93,Karaoke,,0,0,0,,{\k8}{\k46}Kya{\k68}hoo! {\k35}Kya{\k42}hoo! {\k46}Kya{\k91}hoo!
 Dialogue: 0,0:24:42.57,0:24:45.93,OPED_Translation,,0,0,0,,Yahoo! Yahoo! Yahoo!
