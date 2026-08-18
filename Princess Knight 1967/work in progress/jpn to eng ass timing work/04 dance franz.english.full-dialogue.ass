@@ -16,8 +16,9 @@ Video File: ../04 the phantom ship.mkv
 Video AR Mode: 4
 Video AR Value: 1.314554
 Video Zoom Percent: 0.500000
-Active Line: 122
-Video Position: 11017
+Scroll Position: 126
+Active Line: 119
+Video Position: 11808
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -30,7 +31,7 @@ Style: Karaoke - 04 dance franz,Verdana,39.7,&H005174E9,&H0088B8DE,&H00000000,&H
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:38.00,0:00:41.00,OPED_Translation,,0,0,0,template line,{\fad(300,300)\blur1}
 Comment: 0,0:00:41.00,0:00:44.00,Karaoke,,0,0,0,template syl,{\pos($x,$y)\1c!line.styleref.color2!\t($start,$mid,\fscx150\fscy150\1c&H00D7FF&)\t($mid,$end,\fscx100\fscy100\1c!line.styleref.color1!)}
-Comment: 0,0:00:41.00,0:00:44.00,Karaoke - 04 dance franz,,0,0,0,template syl,{\pos($x,$y)\1c!line.styleref.color2!\t($start,$mid,\fscx150\fscy150\1c&H00D7FF&)\t($mid,$end,\fscx100\fscy100\1c!line.styleref.color1!)}
+Comment: 0,0:00:41.00,0:00:44.00,Karaoke - 04 dance franz,,0,0,0,template syl,{\pos($x,$y)\1c!line.styleref.color2!\t($start,$mid,\fscx150\fscy150\1c&H191880&)\t($mid,$end,\fscx100\fscy100\1c!line.styleref.color1!)}
 Dialogue: 0,0:00:01.18,0:00:09.22,Default,,0,0,0,,The Princess Sapphire\NKnight of the Ribbon
 Dialogue: 0,0:00:44.00,0:00:50.16,Karaoke,,0,0,0,,{\k72}{\k14}A{\k32}ta{\k40}shi {\k48}no {\k35}mi{\k52}ru {\k45}yu{\k34}me{\k30} {\k41}hi{\k44}mi{\k43}tsu {\k27}na{\k39}no{\k20}
 Dialogue: 0,0:00:44.00,0:00:50.16,OPED_Translation,,0,0,0,,The dreams I see are my secret
@@ -148,13 +149,27 @@ Dialogue: 0,0:06:37.46,0:06:38.62,Default,,0,0,0,,Look at them all rowing...
 Dialogue: 0,0:06:45.60,0:06:46.28,Default,,0,0,0,,Faster, damn you!
 Dialogue: 0,0:06:48.48,0:06:49.76,Default,,0,0,0,,Keep rowing!
 Dialogue: 0,0:06:49.94,0:06:52.31,Default,,0,0,0,,Stay on course and put your backs into it!
+Dialogue: 0,0:06:53.58,0:06:55.28,Karaoke - 04 dance franz,,0,0,0,,{\k6}{\k29}Hey-{\k33}yah{\k102}-ho
+Dialogue: 0,0:06:55.40,0:06:57.26,Karaoke - 04 dance franz,,0,0,0,,{\k0}{\k35}Hey-{\k33}yah{\k118}-ho
+Dialogue: 0,0:06:57.33,0:06:58.58,Karaoke - 04 dance franz,,0,0,0,,{\k0}{\k35}Hey-{\k33}yah{\k118}-ho
+Dialogue: 0,0:06:58.61,0:07:00.69,Karaoke - 04 dance franz,,0,0,0,,{\k16}O{\k20}-o{\k12}o-{\k21}ooh{\k74}-hoy{\k9}{\k56}-HOY
+Dialogue: 0,0:07:01.10,0:07:03.10,Karaoke - 04 dance franz,,0,0,0,,{\k16}{\k46}Hey-{\k38}yah{\k100}-ho
+Dialogue: 0,0:07:09.46,0:07:11.78,Karaoke - 04 dance franz,,0,0,0,,{\k41}Hey{\k55}-yah{\k54}-hoy{\k27}-o{\k55}-hoy
 Dialogue: 0,0:07:11.80,0:07:14.88,Karaoke - 04 dance franz,,0,0,0,,{\k53}{\k35}A{\k18}sa {\k32}ka{\k19}ra {\k25}yo{\k22}ru {\k31}ma{\k32}de {\k41}yo...
 Dialogue: 0,0:07:11.80,0:07:14.88,OPED_Translation,,0,0,0,,From morning until night...
+Dialogue: 0,0:07:14.89,0:07:17.49,Karaoke - 04 dance franz,,0,0,0,,{\k26}So{\k28}ra {\k47}Hey{\k50}-yah{\k109}-ho
+Dialogue: 0,0:07:14.91,0:07:17.49,OPED_Translation,,0,0,0,,Heave!
+Dialogue: 0,0:07:17.52,0:07:19.52,Karaoke - 04 dance franz,,0,0,0,,{\k16}{\k46}Hey-{\k38}yah{\k100}-ho
+Dialogue: 0,0:07:19.54,0:07:20.64,Karaoke - 04 dance franz,,0,0,0,,Hey
 Dialogue: 0,0:07:20.66,0:07:24.01,Karaoke - 04 dance franz,,0,0,0,,{\k24}Ta{\k22}bi {\k25}ni {\k26}tsu{\k31}na{\k19}ga{\k24}re{\k43}-tsu, {\k7}me{\k30}chi {\k21}ni {\k20}ta{\k16}ta{\k18}ka{\k9}re...
 Dialogue: 0,0:07:20.66,0:07:24.01,OPED_Translation,,0,0,0,,Chained to this voyage, beaten along the way...
 Dialogue: 0,0:07:24.55,0:07:25.21,Default,,0,0,0,,Row, row!
 Dialogue: 0,0:07:25.30,0:07:25.90,Default,,0,0,0,,No slacking!
 Dialogue: 0,0:07:26.18,0:07:27.18,Default,,0,0,0,,I'll skin you alive!
+Dialogue: 0,0:07:27.59,0:07:29.59,Karaoke - 04 dance franz,,0,0,0,,{\k16}{\k46}Hey-{\k38}yah{\k100}-ho
+Dialogue: 0,0:07:29.69,0:07:31.60,Karaoke - 04 dance franz,,0,0,0,,{\k16}{\k46}Hey-{\k38}yah{\k100}-ho
+Dialogue: 0,0:07:31.67,0:07:33.12,Karaoke - 04 dance franz,,0,0,0,,{\k16}{\k46}Hey-{\k38}yah{\k100}-ho
+Dialogue: 0,0:07:33.14,0:07:34.72,Karaoke - 04 dance franz,,0,0,0,,{\k16}O{\k20}-o{\k12}o-{\k21}ooh{\k74}-hoy{\k9}{\k56}-HOY
 Dialogue: 0,0:07:34.74,0:07:36.58,Default,,0,0,0,,What could have happened to these poor souls?
 Dialogue: 0,0:07:37.13,0:07:39.00,Default,,0,0,0,,They're all tied up and forced to work.
 Dialogue: 0,0:07:39.35,0:07:40.35,Default,,0,0,0,,That's strange.
