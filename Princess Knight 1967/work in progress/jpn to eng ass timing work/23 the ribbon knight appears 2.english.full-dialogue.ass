@@ -10,24 +10,28 @@ PlayResX: 714
 PlayResY: 572
 
 [Aegisub Project Garbage]
-Audio File: 23 the phantom knight 2.mkv
-Video File: 23 the phantom knight 2.mkv
+Last Style Storage: Default
+Audio File: ../23 the phantom knight 2.mkv
+Video File: ../23 the phantom knight 2.mkv
 Video AR Mode: 4
 Video AR Value: 1.314554
-Scroll Position: 349
-Active Line: 352
-Video Position: 950
+Video Zoom Percent: 0.500000
+Scroll Position: 157
+Active Line: 332
+Video Position: 33686
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Verdana,39.7,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,19,19,20,1
 Style: Karaoke,Verdana,39.7,&H00FF00FF,&H00FF0000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,19,19,20,1
 Style: OPED_Translation,Verdana,39.7,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,19,19,20,1
+Style: Karaoke - 23 the ribbon knight appears 2,Verdana,39.7,&H00FF8000,&H00696561,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,19,19,20,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:38.00,0:00:41.00,OPED_Translation,,0,0,0,template line,{\fad(300,300)\blur1}
 Comment: 0,0:00:41.00,0:00:44.00,Karaoke,,0,0,0,template syl,{\pos($x,$y)\1c!line.styleref.color2!\t($start,$mid,\fscx150\fscy150\1c&H00D7FF&)\t($mid,$end,\fscx100\fscy100\1c!line.styleref.color1!)}
+Comment: 0,0:00:41.00,0:00:44.00,Karaoke - 23 the ribbon knight appears 2,,0,0,0,template syl,{\pos($x,$y)\1c!line.styleref.color2!\t($start,$mid,\fscx150\fscy150\1c&H00D7FF&)\t($mid,$end,\fscx100\fscy100\1c!line.styleref.color1!)}
 Dialogue: 0,0:00:01.18,0:00:09.22,Default,,0,0,0,,The Princess Sapphire\NKnight of the Ribbon
 Dialogue: 0,0:00:44.00,0:00:50.16,Karaoke,,0,0,0,,{\k72}{\k14}A{\k32}ta{\k40}shi {\k48}no {\k35}mi{\k52}ru {\k45}yu{\k34}me{\k30} {\k41}hi{\k44}mi{\k43}tsu {\k27}na{\k39}no{\k20}
 Dialogue: 0,0:00:44.00,0:00:50.16,OPED_Translation,,0,0,0,,The dreams I see are my secret
@@ -157,21 +161,24 @@ Dialogue: 0,0:09:20.13,0:09:21.58,Default,,0,0,0,,Now that you get it...
 Dialogue: 0,0:09:28.06,0:09:29.06,Default,,0,0,0,,I get it!
 Dialogue: 0,0:09:29.30,0:09:32.31,Default,,0,0,0,,Let's see, a rag, a rag...
 Dialogue: 0,0:09:32.33,0:09:33.36,Default,,0,0,0,,Ah, this one!
-Dialogue: 0,0:09:36.69,0:09:37.67,Default,,0,0,0,,♪ La la la ♪\N-
-Dialogue: 0,0:09:38.63,0:09:39.55,Default,,0,0,0,,♪ La la la ♪\N-
-Dialogue: 0,0:09:40.64,0:09:44.61,Default,,0,0,0,,♪ La la lan la lan la lan lan lan lan ♪\N-
-Dialogue: 0,0:09:44.80,0:09:51.96,Default,,0,0,0,,♪ Sonochi harema ga mierudaro ♪\NOne of these days we'll see some sunshine
-Dialogue: 0,0:09:52.43,0:09:53.48,Default,,0,0,0,,♪ La la la ♪\N-
-Dialogue: 0,0:09:54.58,0:09:55.53,Default,,0,0,0,,♪ La la la ♪\N-
-Dialogue: 0,0:09:56.62,0:09:59.86,Default,,0,0,0,,♪ La la la la lan lan lan ♪\N-
-Dialogue: 0,0:10:01.25,0:10:08.41,Default,,0,0,0,,♪ Sonochi minna ga utaudaro ♪\NOne of these days we'll all be singing
-Dialogue: 0,0:10:08.51,0:10:09.82,Default,,0,0,0,,♪ La la la ♪\N-
-Dialogue: 0,0:10:10.43,0:10:12.07,Default,,0,0,0,,♪ La la la ♪\N-
-Dialogue: 0,0:10:12.59,0:10:15.78,Default,,0,0,0,,♪ La la la la lan lan lan ♪\N-
-Dialogue: 0,0:10:16.37,0:10:24.37,Default,,0,0,0,,♪ Sonochi harema ga mierudaro ♪\NOne of these days we'll see some sunshine
-Dialogue: 0,0:10:24.58,0:10:25.54,Default,,0,0,0,,♪ La la la ♪\N-
-Dialogue: 0,0:10:26.46,0:10:27.60,Default,,0,0,0,,♪ La la la ♪\N-
-Dialogue: 0,0:10:28.55,0:10:31.92,Default,,0,0,0,,♪ La la la la lan lan lan ♪\N-
+Dialogue: 0,0:09:36.69,0:09:37.67,Karaoke - 23 the ribbon knight appears 2,,0,0,0,,{\k26}La {\k28}la {\k44}la
+Dialogue: 0,0:09:38.63,0:09:39.55,Karaoke - 23 the ribbon knight appears 2,,0,0,0,,{\k26}La {\k28}la {\k44}la
+Dialogue: 0,0:09:40.64,0:09:44.61,Karaoke - 23 the ribbon knight appears 2,,0,0,0,,{\k33}La {\k24}la, {\k17}la{\k13}n {\k13}la {\k16}la{\k9}n {\k13}la {\k12}la{\k13}n {\k20}la{\k30}n {\k26}la{\k16}n {\k53}la{\k38}n{\k51}
+Dialogue: 0,0:09:44.80,0:09:51.96,Karaoke - 23 the ribbon knight appears 2,,0,0,0,,{\k22}So{\k22}no{\k44}u{\k62}chi{\k40} {\k24}ha{\k30}re{\k41}ma {\k65}ga{\k24} {\k34}mi{\k28}e{\k67}ru{\k30}da{\k183}ro
+Dialogue: 0,0:09:44.80,0:09:51.96,OPED_Translation,,0,0,0,,One of these days we'll see some sunshine
+Dialogue: 0,0:09:52.43,0:09:53.48,Karaoke - 23 the ribbon knight appears 2,,0,0,0,,{\k26}La {\k28}la {\k44}la
+Dialogue: 0,0:09:54.58,0:09:55.53,Karaoke - 23 the ribbon knight appears 2,,0,0,0,,{\k26}La {\k28}la {\k44}la
+Dialogue: 0,0:09:56.62,0:09:59.86,Karaoke - 23 the ribbon knight appears 2,,0,0,0,,{\k27}La {\k24}la {\k15}la{\k15}n,{\k44} {\k27}la {\k12}la{\k12}n{\k2} {\k28}la{\k42}n {\k56}la{\k20}n
+Dialogue: 0,0:10:01.25,0:10:08.41,Karaoke - 23 the ribbon knight appears 2,,0,0,0,,{\k49}So{\k53}no{\k55}u{\k52}chi {\k66}mi{\k19}n{\k16}na {\k37}ga {\k30}u{\k32}ta{\k67}u{\k25}da{\k215}ro
+Dialogue: 0,0:10:01.25,0:10:08.41,OPED_Translation,,0,0,0,,One of these days we'll all be singing
+Dialogue: 0,0:10:08.51,0:10:09.82,Karaoke - 23 the ribbon knight appears 2,,0,0,0,,{\k26}La {\k28}la {\k44}la
+Dialogue: 0,0:10:10.43,0:10:12.07,Karaoke - 23 the ribbon knight appears 2,,0,0,0,,{\k26}La {\k28}la {\k44}la
+Dialogue: 0,0:10:12.59,0:10:15.78,Karaoke - 23 the ribbon knight appears 2,,0,0,0,,{\k0}{\k28}La {\k27}la {\k35}la, {\k28}la {\k34}la {\k35}la {\k44}la {\k88}la
+Dialogue: 0,0:10:16.37,0:10:24.37,Karaoke - 23 the ribbon knight appears 2,,0,0,0,,{\k17}{\k35}So{\k27}no{\k50}u{\k52}chi{\k36} {\k39}ha{\k25}re{\k46}ma {\k62}ga{\k35} {\k29}mi{\k25}e{\k70}ru{\k30}da{\k222}ro
+Dialogue: 0,0:10:16.37,0:10:24.37,OPED_Translation,,0,0,0,,One of these days we'll see some sunshine
+Dialogue: 0,0:10:24.58,0:10:25.54,Karaoke - 23 the ribbon knight appears 2,,0,0,0,,{\k26}La {\k28}la {\k44}la
+Dialogue: 0,0:10:26.46,0:10:27.60,Karaoke - 23 the ribbon knight appears 2,,0,0,0,,{\k26}La {\k28}la {\k44}la
+Dialogue: 0,0:10:28.55,0:10:31.92,Karaoke - 23 the ribbon knight appears 2,,0,0,0,,{\k27}La {\k24}la {\k15}la{\k15}n,{\k44} {\k27}la {\k12}la{\k12}n{\k2} {\k28}la{\k42}n {\k56}la{\k20}n
 Dialogue: 0,0:10:37.44,0:10:39.45,Default,,0,0,0,,What kind of floor-wiping is that?
 Dialogue: 0,0:10:39.68,0:10:40.33,Default,,0,0,0,,Give it here!
 Dialogue: 0,0:10:40.65,0:10:43.10,Default,,0,0,0,,I can't put my back into it unless I sing to the beat!
@@ -185,7 +192,8 @@ Dialogue: 0,0:11:09.04,0:11:10.21,Default,,0,0,0,,My food...
 Dialogue: 0,0:11:13.77,0:11:15.74,Default,,0,0,0,,What an infuriating brat!
 Dialogue: 0,0:11:15.91,0:11:19.07,Default,,0,0,0,,No way, you're going to keep working with no food for a long time!
 Dialogue: 0,0:11:19.19,0:11:20.31,Default,,0,0,0,,Now keep at it!
-Dialogue: 0,0:11:31.40,0:11:36.56,Default,,0,0,0,,{\i1}Soon the sun{\i0}...
+Dialogue: 0,0:11:31.40,0:11:36.56,Karaoke - 23 the ribbon knight appears 2,,0,0,0,,{\k38}So{\k39}no{\k56}u{\k62}chi{\k90} {\k43}ha{\k33}re{\k64}ma {\k91}mo...
+Dialogue: 0,0:11:31.40,0:11:36.56,OPED_Translation,,0,0,0,,One of these days we'll really...
 Dialogue: 0,0:11:36.58,0:11:38.29,Default,,0,0,0,,Stop singing!
 Dialogue: 0,0:11:38.53,0:11:40.01,Default,,0,0,0,,Grind fine flour!
 Dialogue: 0,0:11:40.34,0:11:43.90,Default,,0,0,0,,So Master Gama can eat top-quality bread baked from it!
@@ -353,7 +361,7 @@ Dialogue: 0,0:21:44.73,0:21:46.28,Default,,0,0,0,,One group will chase that mons
 Dialogue: 0,0:21:46.44,0:21:49.82,Default,,0,0,0,,The other will go to the Coffin Tower to see if Sapphire is there!
 Dialogue: 0,0:21:51.78,0:21:55.26,Default,,0,0,0,,The Ribbon Knight is... Sapphire?!
 Dialogue: 0,0:22:26.46,0:22:26.94,Default,,0,0,0,,Oh no!
-Dialogue: 0,0:22:27.41,0:22:30.64,Default,,0,0,0,,Nylon caught on and is heading to Kagoge Island ahead of us to check!
+Dialogue: 0,0:22:27.41,0:22:30.64,Default,,0,0,0,,Nylon caught on and is heading to Coffin Tower ahead of us to check!
 Dialogue: 0,0:22:31.06,0:22:32.60,Default,,0,0,0,,If I don't hurry back, Mother will be in danger!
 Dialogue: 0,0:22:46.62,0:22:47.40,Default,,0,0,0,,Gama!
 Dialogue: 0,0:22:47.60,0:22:48.60,Default,,0,0,0,,Is Gama there?

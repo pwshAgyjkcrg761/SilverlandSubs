@@ -15,9 +15,10 @@ Audio File: ../22 the phantom knight 1.mkv
 Video File: ../22 the phantom knight 1.mkv
 Video AR Mode: 4
 Video AR Value: 1.314554
-Scroll Position: 1
-Active Line: 2
-Video Position: 1025
+Video Zoom Percent: 0.500000
+Scroll Position: 192
+Active Line: 202
+Video Position: 19538
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -213,14 +214,14 @@ Dialogue: 0,0:12:35.37,0:12:37.17,Karaoke - 22 the coronation 1,,0,0,0,,{\k26}pa
 Dialogue: 0,0:12:33.54,0:12:37.17,OPED_Translation,,0,0,0,,Munching away on treats!
 Dialogue: 0,0:12:37.56,0:12:39.47,Karaoke - 22 the coronation 1,,0,0,0,,{\k26}O{\k27}i{\k41}shi {\k23}go{\k36}chi{\k38}so
 Dialogue: 0,0:12:37.56,0:12:39.47,OPED_Translation,,0,0,0,,A delicious feast!
-Dialogue: 0,0:12:39.50,0:12:41.00,Karaoke - 22 the coronation 1,,0,0,0,,{\k21}La {\k21}la {\k14}la{\k15}n {\k17}la {\k18}la {\k30}la {\k14}la
+Dialogue: 0,0:12:39.50,0:12:41.00,Karaoke - 22 the coronation 1,,0,0,0,,{\k21}La {\k21}la {\k14}la{\k15}n, {\k17}la {\k18}la {\k30}la {\k14}la
 Dialogue: 0,0:12:41.02,0:12:42.43,Karaoke - 22 the coronation 1,,0,0,0,,{\k40}{\k18}Da{\k14}i {\k14}ka{\k15}n{\k40}ki
 Dialogue: 0,0:12:41.02,0:12:42.43,OPED_Translation,,0,0,0,,Great joy!
 Dialogue: 0,0:12:42.52,0:12:43.47,Karaoke - 22 the coronation 1,,0,0,0,,{\k15}Da{\k22}i {\k17}ka{\k18}n{\k23}ki
 Dialogue: 0,0:12:42.52,0:12:43.47,OPED_Translation,,0,0,0,,Great joy!
 Dialogue: 0,0:12:43.58,0:12:47.50,Karaoke - 22 the coronation 1,,0,0,0,,{\k33}Ka{\k11}za{\k45}ro {\k25}ka{\k25}za{\k38}ro {\k13}o{\k25}ma{\k38}tsu{\k38}ri {\k27}o{\k17}ma{\k32}tsu{\k25}ri
 Dialogue: 0,0:12:43.58,0:12:47.50,OPED_Translation,,0,0,0,,Decorate, decorate for the grand festival!
-Dialogue: 0,0:12:47.53,0:12:49.41,Karaoke - 22 the coronation 1,,0,0,0,,{\k35}La {\k17}la {\k12}la{\k10}n {\k13}la{\k12}n {\k32}lu {\k27}lu {\k19}lu{\k11}
+Dialogue: 0,0:12:47.53,0:12:49.41,Karaoke - 22 the coronation 1,,0,0,0,,{\k35}La {\k17}la, {\k12}la{\k10}n {\k13}la{\k12}n, {\k32}lu {\k27}lu {\k19}lu{\k11}
 Dialogue: 0,0:12:49.43,0:12:51.44,Karaoke - 22 the coronation 1,,0,0,0,,{\k33}Ka{\k18}za{\k50}ro {\k37}ka{\k16}za{\k47}ro
 Dialogue: 0,0:12:49.43,0:12:51.44,OPED_Translation,,0,0,0,,Decorate, decorate!
 Dialogue: 0,0:12:51.49,0:12:52.96,Karaoke - 22 the coronation 1,,0,0,0,,{\k22}La {\k17}la, {\k24}la {\k21}la, {\k21}la {\k24}la{\k18} la
