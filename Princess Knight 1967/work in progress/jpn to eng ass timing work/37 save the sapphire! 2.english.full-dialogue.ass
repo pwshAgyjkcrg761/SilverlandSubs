@@ -10,24 +10,28 @@ PlayResX: 700
 PlayResY: 568
 
 [Aegisub Project Garbage]
-Audio File: 37 the magic spell 2.mkv
-Video File: 37 the magic spell 2.mkv
+Last Style Storage: Default
+Audio File: ../37 the magic spell 2.mkv
+Video File: ../37 the magic spell 2.mkv
 Video AR Mode: 4
 Video AR Value: 1.314554
-Scroll Position: 316
-Active Line: 326
-Video Position: 950
+Video Zoom Percent: 0.500000
+Scroll Position: 192
+Active Line: 2
+Video Position: 1025
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Verdana,39.7,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,19,19,20,1
 Style: Karaoke,Verdana,39.7,&H00FF00FF,&H00FF0000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,19,19,20,1
 Style: OPED_Translation,Verdana,39.7,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,19,19,20,1
+Style: Karaoke - 37 save the sapphire! 2,Verdana,39.7,&H00EE82EE,&H00AD2D6F,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,19,19,20,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:38.00,0:00:41.00,OPED_Translation,,0,0,0,template line,{\fad(300,300)\blur1}
 Comment: 0,0:00:41.00,0:00:44.00,Karaoke,,0,0,0,template syl,{\pos($x,$y)\1c!line.styleref.color2!\t($start,$mid,\fscx150\fscy150\1c&H00D7FF&)\t($mid,$end,\fscx100\fscy100\1c!line.styleref.color1!)}
+Comment: 0,0:00:41.00,0:00:44.00,Karaoke - 37 save the sapphire! 2,,0,0,0,template syl,{\pos($x,$y)\1c!line.styleref.color2!\t($start,$mid,\fscx150\fscy150\1c&H2010CF&)\t($mid,$end,\fscx100\fscy100\1c!line.styleref.color1!)}
 Dialogue: 0,0:00:01.18,0:00:09.22,Default,,0,0,0,,The Princess Sapphire\NKnight of the Ribbon
 Dialogue: 0,0:00:44.00,0:00:50.16,Karaoke,,0,0,0,,{\k72}{\k14}A{\k32}ta{\k40}shi {\k48}no {\k35}mi{\k52}ru {\k45}yu{\k34}me{\k30} {\k41}hi{\k44}mi{\k43}tsu {\k27}na{\k39}no{\k20}
 Dialogue: 0,0:00:44.00,0:00:50.16,OPED_Translation,,0,0,0,,The dreams I see are my secret
@@ -208,7 +212,8 @@ Dialogue: 0,0:11:53.70,0:11:55.02,Default,,0,0,0,,What on earth is going on here
 Dialogue: 0,0:11:56.96,0:12:00.14,Default,,0,0,0,,Papa and Mama are using the Demon Orb to look for me,
 Dialogue: 0,0:12:00.16,0:12:02.02,Default,,0,0,0,,so I made a fake me.
 Dialogue: 0,0:12:02.51,0:12:05.20,Default,,0,0,0,,Now, fake me, go for a walk and sing a song.
-Dialogue: 0,0:12:07.02,0:12:12.14,Default,,0,0,0,,♪ Atashi no sukina oji sama ♪\NMy beloved prince...
+Dialogue: 0,0:12:07.02,0:12:12.14,Karaoke - 37 save the sapphire! 2,,0,0,0,,{\k22}A{\k31}ta{\k34}shi {\k27}no {\k29}su{\k40}ki{\k56}na {\k69}o{\k33}ji {\k39}sa{\k132}ma
+Dialogue: 0,0:12:07.02,0:12:12.14,OPED_Translation,,0,0,0,,My beloved prince...
 Dialogue: 0,0:12:17.32,0:12:18.35,Default,,0,0,0,,Good grief...
 Dialogue: 0,0:12:19.91,0:12:20.77,Default,,0,0,0,,Hecate!
 Dialogue: 0,0:12:20.98,0:12:23.92,Default,,0,0,0,,Mama! Mama! I found Hecate!
@@ -219,8 +224,9 @@ Dialogue: 0,0:12:32.78,0:12:34.94,Default,,0,0,0,,Now don't just stand there, hu
 Dialogue: 0,0:12:35.69,0:12:37.84,Default,,0,0,0,,Alright, alright, I'm off!
 Dialogue: 0,0:12:39.93,0:12:43.04,Default,,0,0,0,,Got it? Grab Hecate by the scruff of her neck!
 Dialogue: 0,0:12:43.15,0:12:46.04,Default,,0,0,0,,Oh my, what terrible language for someone like me!
-Dialogue: 0,0:12:56.81,0:13:01.91,Default,,0,0,0,,♪ Atashi no sukina oji sama ♪\NMy beloved prince...
-Dialogue: 0,0:13:02.02,0:13:04.30,Default,,0,0,0,,♪ La la la la la ♪\N.
+Dialogue: 0,0:12:56.81,0:13:01.91,Karaoke - 37 save the sapphire! 2,,0,0,0,,{\k31}A{\k34}ta{\k42}shi {\k18}no {\k30}su{\k41}ki{\k70}na {\k85}o{\k37}ji {\k30}sa{\k92}ma
+Dialogue: 0,0:12:56.81,0:13:01.91,OPED_Translation,,0,0,0,,My beloved prince...
+Dialogue: 0,0:13:02.02,0:13:04.30,Karaoke - 37 save the sapphire! 2,,0,0,0,,{\k34}{\k19}La {\k22}la {\k56}la {\k26}la {\k23}la {\k48}la
 Dialogue: 0,0:13:07.99,0:13:11.63,Default,,0,0,0,,Hecate, what were you doing? Mama is furious.
 Dialogue: 0,0:13:11.81,0:13:12.82,Default,,0,0,0,,Hey, Hecate!
 Dialogue: 0,0:13:15.54,0:13:16.73,Default,,0,0,0,,Cloning spell!
