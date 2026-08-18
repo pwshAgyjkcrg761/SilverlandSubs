@@ -10,25 +10,27 @@ PlayResX: 714
 PlayResY: 572
 
 [Aegisub Project Garbage]
-Audio File: 04 the phantom ship.mkv
-Video File: 04 the phantom ship.mkv
+Last Style Storage: Default
+Audio File: ../04 the phantom ship.mkv
+Video File: ../04 the phantom ship.mkv
 Video AR Mode: 4
 Video AR Value: 1.314554
 Video Zoom Percent: 0.500000
-Scroll Position: 403
-Active Line: 417
-Video Position: 950
+Active Line: 122
+Video Position: 11017
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Verdana,39.7,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,19,19,20,1
 Style: Karaoke,Verdana,39.7,&H00FF00FF,&H00FF0000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,19,19,20,1
 Style: OPED_Translation,Verdana,39.7,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,19,19,20,1
+Style: Karaoke - 04 dance franz,Verdana,39.7,&H005174E9,&H0088B8DE,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,19,19,20,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:38.00,0:00:41.00,OPED_Translation,,0,0,0,template line,{\fad(300,300)\blur1}
 Comment: 0,0:00:41.00,0:00:44.00,Karaoke,,0,0,0,template syl,{\pos($x,$y)\1c!line.styleref.color2!\t($start,$mid,\fscx150\fscy150\1c&H00D7FF&)\t($mid,$end,\fscx100\fscy100\1c!line.styleref.color1!)}
+Comment: 0,0:00:41.00,0:00:44.00,Karaoke - 04 dance franz,,0,0,0,template syl,{\pos($x,$y)\1c!line.styleref.color2!\t($start,$mid,\fscx150\fscy150\1c&H00D7FF&)\t($mid,$end,\fscx100\fscy100\1c!line.styleref.color1!)}
 Dialogue: 0,0:00:01.18,0:00:09.22,Default,,0,0,0,,The Princess Sapphire\NKnight of the Ribbon
 Dialogue: 0,0:00:44.00,0:00:50.16,Karaoke,,0,0,0,,{\k72}{\k14}A{\k32}ta{\k40}shi {\k48}no {\k35}mi{\k52}ru {\k45}yu{\k34}me{\k30} {\k41}hi{\k44}mi{\k43}tsu {\k27}na{\k39}no{\k20}
 Dialogue: 0,0:00:44.00,0:00:50.16,OPED_Translation,,0,0,0,,The dreams I see are my secret
@@ -51,19 +53,22 @@ Dialogue: 0,0:01:25.22,0:01:28.62,OPED_Translation,,0,0,0,,Truly, truly,
 Dialogue: 0,0:01:28.62,0:01:31.82,Karaoke,,0,0,0,,{\k18}{\k23}A{\k23}ta{\k27}shi {\k35}na{\k35}no {\k159}sa{\k0}
 Dialogue: 0,0:01:28.62,0:01:31.82,OPED_Translation,,0,0,0,,It’s really me!
 Dialogue: 0,0:01:44.10,0:01:50.14,Default,,0,0,0,,Fourth Episode\NThe Phantom Ship\NDance Franz
-Dialogue: 0,0:01:50.38,0:01:52.38,Default,,0,0,0,,♪ Hey-yah-ho ♪
-Dialogue: 0,0:01:52.40,0:01:54.40,Default,,0,0,0,,♪ Hey-yah-ho ♪
-Dialogue: 0,0:01:54.42,0:01:55.98,Default,,0,0,0,,♪ Hey-yah-ho ♪
-Dialogue: 0,0:01:56.00,0:01:58.45,Default,,0,0,0,,♪ Ooooohh-Hoy ♪
-Dialogue: 0,0:01:58.74,0:02:03.06,Default,,0,0,0,,♪ Asa kara ban made, ♪\NFrom morning until night,
-Dialogue: 0,0:02:03.09,0:02:07.14,Default,,0,0,0,,♪ Futari ni tsunagarete! ♪\NChained two by two!
-Dialogue: 0,0:02:07.16,0:02:09.16,Default,,0,0,0,,♪ Yooooh ♪
-Dialogue: 0,0:02:09.19,0:02:11.19,Default,,0,0,0,,♪ Hey-yah-ho ♪
-Dialogue: 0,0:02:11.21,0:02:12.64,Default,,0,0,0,,♪ Hey-yah-ho ♪
-Dialogue: 0,0:02:12.67,0:02:14.89,Default,,0,0,0,,♪ Ooooohh-Hoy ♪
-Dialogue: 0,0:02:15.48,0:02:22.94,Default,,0,0,0,,♪Asa made fuchi ni, tatakarete! ♪\NBeaten into the deep, until morning comes!
-Dialogue: 0,0:02:22.96,0:02:23.48,Default,,0,0,0,,♪ Ohhh ♪
-Dialogue: 0,0:02:23.50,0:02:25.50,Default,,0,0,0,,♪ Hey-yah-ho ♪
+Dialogue: 0,0:01:50.38,0:01:52.38,Karaoke - 04 dance franz,,0,0,0,,{\k10}{\k52}Hey-{\k53}yah{\k85}-ho
+Dialogue: 0,0:01:52.40,0:01:54.40,Karaoke - 04 dance franz,,0,0,0,,{\k10}{\k52}Hey-{\k53}yah{\k85}-ho
+Dialogue: 0,0:01:54.42,0:01:55.98,Karaoke - 04 dance franz,,0,0,0,,{\k10}{\k52}Hey-{\k53}yah{\k85}-ho
+Dialogue: 0,0:01:56.00,0:01:58.45,Karaoke - 04 dance franz,,0,0,0,,{\k16}O{\k20}-o{\k31}o-{\k26}ooh{\k50}-hoy{\k9}{\k93}-HOY
+Dialogue: 0,0:01:58.74,0:02:03.06,Karaoke - 04 dance franz,,0,0,0,,{\k53}A{\k51}sa {\k58}ka{\k54}ra {\k56}ba{\k40}n {\k60}ma{\k60}de,
+Dialogue: 0,0:01:58.74,0:02:03.06,OPED_Translation,,0,0,0,,From morning until night,
+Dialogue: 0,0:02:03.09,0:02:07.14,Karaoke - 04 dance franz,,0,0,0,,{\k37}Fu{\k56}ta{\k54}ri {\k52}ni {\k53}tsu{\k54}na{\k55}ga{\k16}re{\k28}te!
+Dialogue: 0,0:02:03.09,0:02:07.14,OPED_Translation,,0,0,0,,Chained two by two!
+Dialogue: 0,0:02:07.16,0:02:09.16,Karaoke - 04 dance franz,,0,0,0,,{\k0}{\k18}Y{\k36}oo{\k36}oo{\k55}-oo{\k55}ooh
+Dialogue: 0,0:02:09.19,0:02:11.19,Karaoke - 04 dance franz,,0,0,0,,{\k10}{\k52}Hey-{\k53}yah{\k85}-ho
+Dialogue: 0,0:02:11.21,0:02:12.64,Karaoke - 04 dance franz,,0,0,0,,{\k10}{\k52}Hey-{\k53}yah{\k85}-ho
+Dialogue: 0,0:02:12.67,0:02:14.89,Karaoke - 04 dance franz,,0,0,0,,{\k16}O{\k20}-o{\k31}o-{\k26}ooh{\k50}-hoy{\k9}{\k93}-HOY
+Dialogue: 0,0:02:15.48,0:02:22.94,Karaoke - 04 dance franz,,0,0,0,,{\k41}A{\k58}sa {\k56}ma{\k56}de {\k91}fu{\k61}chi {\k51}ni, {\k60}ta{\k56}ta{\k53}ka{\k55}re{\k108}te!
+Dialogue: 0,0:02:15.48,0:02:22.94,OPED_Translation,,0,0,0,,Beaten into the deep, until morning comes!
+Dialogue: 0,0:02:22.96,0:02:23.48,Karaoke - 04 dance franz,,0,0,0,,{\k0}{\k14}Y{\k19}oh{\k19}hh
+Dialogue: 0,0:02:23.50,0:02:25.50,Karaoke - 04 dance franz,,0,0,0,,{\k64}{\k38}Hey-{\k35}yah{\k63}-ho
 Dialogue: 0,0:02:31.16,0:02:32.16,Default,,0,0,0,,Your Highness!
 Dialogue: 0,0:02:32.62,0:02:33.92,Default,,0,0,0,,Watch out!
 Dialogue: 0,0:02:34.12,0:02:35.44,Default,,0,0,0,,You might you fall in the pond!
@@ -143,8 +148,10 @@ Dialogue: 0,0:06:37.46,0:06:38.62,Default,,0,0,0,,Look at them all rowing...
 Dialogue: 0,0:06:45.60,0:06:46.28,Default,,0,0,0,,Faster, damn you!
 Dialogue: 0,0:06:48.48,0:06:49.76,Default,,0,0,0,,Keep rowing!
 Dialogue: 0,0:06:49.94,0:06:52.31,Default,,0,0,0,,Stay on course and put your backs into it!
-Dialogue: 0,0:07:11.80,0:07:14.88,Default,,0,0,0,,♪ Asa kara yoru made yo... ♪\NFrom morning until night...
-Dialogue: 0,0:07:20.66,0:07:24.01,Default,,0,0,0,,♪ Tabi ni tsunagare-tsu, mechi ni tatakare... ♪\NChained to this voyage, beaten along the way...
+Dialogue: 0,0:07:11.80,0:07:14.88,Karaoke - 04 dance franz,,0,0,0,,{\k53}{\k35}A{\k18}sa {\k32}ka{\k19}ra {\k25}yo{\k22}ru {\k31}ma{\k32}de {\k41}yo...
+Dialogue: 0,0:07:11.80,0:07:14.88,OPED_Translation,,0,0,0,,From morning until night...
+Dialogue: 0,0:07:20.66,0:07:24.01,Karaoke - 04 dance franz,,0,0,0,,{\k24}Ta{\k22}bi {\k25}ni {\k26}tsu{\k31}na{\k19}ga{\k24}re{\k43}-tsu, {\k7}me{\k30}chi {\k21}ni {\k20}ta{\k16}ta{\k18}ka{\k9}re...
+Dialogue: 0,0:07:20.66,0:07:24.01,OPED_Translation,,0,0,0,,Chained to this voyage, beaten along the way...
 Dialogue: 0,0:07:24.55,0:07:25.21,Default,,0,0,0,,Row, row!
 Dialogue: 0,0:07:25.30,0:07:25.90,Default,,0,0,0,,No slacking!
 Dialogue: 0,0:07:26.18,0:07:27.18,Default,,0,0,0,,I'll skin you alive!

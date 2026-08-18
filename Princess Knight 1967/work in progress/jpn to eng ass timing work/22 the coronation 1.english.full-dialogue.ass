@@ -10,23 +10,27 @@ PlayResX: 714
 PlayResY: 572
 
 [Aegisub Project Garbage]
-Audio File: 22 the phantom knight 1.mkv
-Video File: 22 the phantom knight 1.mkv
+Last Style Storage: Default
+Audio File: ../22 the phantom knight 1.mkv
+Video File: ../22 the phantom knight 1.mkv
 Video AR Mode: 4
 Video AR Value: 1.314554
-Active Line: 325
-Video Position: 950
+Scroll Position: 1
+Active Line: 2
+Video Position: 1025
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Verdana,39.7,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,19,19,20,1
 Style: Karaoke,Verdana,39.7,&H00FF00FF,&H00FF0000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,19,19,20,1
 Style: OPED_Translation,Verdana,39.7,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,19,19,20,1
+Style: Karaoke - 22 the coronation 1,Verdana,39.7,&H0000FF80,&H00408000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,19,19,20,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:38.00,0:00:41.00,OPED_Translation,,0,0,0,template line,{\fad(300,300)\blur1}
 Comment: 0,0:00:41.00,0:00:44.00,Karaoke,,0,0,0,template syl,{\pos($x,$y)\1c!line.styleref.color2!\t($start,$mid,\fscx150\fscy150\1c&H00D7FF&)\t($mid,$end,\fscx100\fscy100\1c!line.styleref.color1!)}
+Comment: 0,0:00:41.00,0:00:44.00,Karaoke - 22 the coronation 1,,0,0,0,template syl,{\pos($x,$y)\1c!line.styleref.color2!\t($start,$mid,\fscx150\fscy150\1c&H0000FFFF&)\t($mid,$end,\fscx100\fscy100\1c!line.styleref.color1!)}
 Dialogue: 0,0:00:01.18,0:00:09.22,Default,,0,0,0,,The Princess Sapphire\NKnight of the Ribbon
 Dialogue: 0,0:00:44.00,0:00:50.16,Karaoke,,0,0,0,,{\k72}{\k14}A{\k32}ta{\k40}shi {\k48}no {\k35}mi{\k52}ru {\k45}yu{\k34}me{\k30} {\k41}hi{\k44}mi{\k43}tsu {\k27}na{\k39}no{\k20}
 Dialogue: 0,0:00:44.00,0:00:50.16,OPED_Translation,,0,0,0,,The dreams I see are my secret
@@ -170,45 +174,77 @@ Dialogue: 0,0:11:17.66,0:11:18.19,Default,,0,0,0,,That's true.
 Dialogue: 0,0:11:18.64,0:11:19.96,Default,,0,0,0,,Mother, that's what I'll do!
 Dialogue: 0,0:11:20.39,0:11:21.39,Default,,0,0,0,,I'll definitely do it.
 Dialogue: 0,0:11:22.04,0:11:23.04,Default,,0,0,0,,I won't back down!
-Dialogue: 0,0:11:23.28,0:11:24.60,Default,,0,0,0,,♪ Dai kanki ♪\NGreat joy!
-Dialogue: 0,0:11:25.26,0:11:26.56,Default,,0,0,0,,♪ Dai kanki ♪\NGreat joy!
-Dialogue: 0,0:11:27.17,0:11:30.96,Default,,0,0,0,,♪ Ureshi ureshi dai kanki ♪\NI'm so happy! I'm overjoyed!
-Dialogue: 0,0:11:31.06,0:11:33.12,Default,,0,0,0,,♪ Lu lu lu lu lu lu ♪\N-
-Dialogue: 0,0:11:33.25,0:11:36.68,Default,,0,0,0,,♪ Ureshi dai kanki ♪\NOh, happy, great joy!
-Dialogue: 0,0:11:37.30,0:11:39.55,Default,,0,0,0,,♪ O shiro pikapikapi ♪\NThe castle is sparkling bright!
-Dialogue: 0,0:11:48.51,0:11:49.98,Default,,0,0,0,,♪ Pikapika ♪\NSparkling bright!
-Dialogue: 0,0:11:50.55,0:11:52.15,Default,,0,0,0,,♪ Dai kanki ♪\NGreat joy!
-Dialogue: 0,0:11:52.56,0:11:53.90,Default,,0,0,0,,♪ Dai kanki ♪\NGreat joy!
-Dialogue: 0,0:11:54.50,0:11:58.09,Default,,0,0,0,,♪ Ureshi ureshi dai kanki ♪\NI'm so happy! I'm overjoyed!
-Dialogue: 0,0:11:58.41,0:12:01.63,Default,,0,0,0,,♪ Lu lu lu lu lu lu lu lu lu ♪\N-
-Dialogue: 0,0:12:02.07,0:12:05.48,Default,,0,0,0,,♪ Kireina dai kanki ♪\NBeautiful, great joy!
-Dialogue: 0,0:12:06.13,0:12:11.83,Default,,0,0,0,,♪ Dare mo tsuya tsuya tsuya tsuya ♪\NEveryone is glowing and bright!
-Dialogue: 0,0:12:15.87,0:12:21.39,Default,,0,0,0,,♪ Tsuya tsuya dai kanki ♪\NGlowing, great joy!
-Dialogue: 0,0:12:25.93,0:12:26.72,Default,,0,0,0,,♪ Dai kanki ♪\NGreat joy!
-Dialogue: 0,0:12:26.92,0:12:27.92,Default,,0,0,0,,♪ Dai kanki ♪\NGreat joy!
-Dialogue: 0,0:12:27.97,0:12:29.57,Default,,0,0,0,,♪ La la la la la la la ♪\N-
-Dialogue: 0,0:12:29.74,0:12:33.28,Default,,0,0,0,,♪ Docchi so mo docchi so mo onaka ga pekopeko ♪\NOne and all, our tummies are rumbling!
-Dialogue: 0,0:12:33.54,0:12:37.17,Default,,0,0,0,,♪ Okashi mo pakupaku pakupaku pakupaku ♪\NMunching away on treats!
-Dialogue: 0,0:12:37.56,0:12:39.47,Default,,0,0,0,,♪ Oishi gochiso ♪\NA delicious feast!
-Dialogue: 0,0:12:39.50,0:12:41.00,Default,,0,0,0,,♪ La la lan la la la la ♪\N-
-Dialogue: 0,0:12:41.02,0:12:42.43,Default,,0,0,0,,♪ Dai kanki ♪\NGreat joy!
-Dialogue: 0,0:12:42.52,0:12:43.47,Default,,0,0,0,,♪ Dai kanki ♪\NGreat joy!
-Dialogue: 0,0:12:43.58,0:12:47.50,Default,,0,0,0,,♪ Kazaro kazaro omatsuri omatsuri ♪\NDecorate, decorate for the grand festival!
-Dialogue: 0,0:12:47.53,0:12:49.41,Default,,0,0,0,,♪ La la lan lan lu lu lu ♪\N-
-Dialogue: 0,0:12:49.43,0:12:51.44,Default,,0,0,0,,♪ Kazaro kazaro ♪\NDecorate, decorate!
-Dialogue: 0,0:12:51.49,0:12:52.96,Default,,0,0,0,,♪ La la la la la la la ♪\N-
-Dialogue: 0,0:12:52.98,0:12:55.44,Default,,0,0,0,,♪ Besu wa fu fu ♪\NThe bass goes puff-puff!
-Dialogue: 0,0:12:55.47,0:12:57.21,Default,,0,0,0,,♪ Fu fu fu fu fu fu ♪\Npuff puff puff puff puff puff!
-Dialogue: 0,0:12:57.27,0:12:59.00,Default,,0,0,0,,♪ Rappa wa fu fu ♪\NThe lover goes puff-puff!
-Dialogue: 0,0:13:01.52,0:13:03.52,Default,,0,0,0,,♪ La la la la la la la ♪\N-
-Dialogue: 0,0:13:03.54,0:13:06.12,Default,,0,0,0,,♪ La la la la la la ♪\N-
-Dialogue: 0,0:13:06.15,0:13:08.10,Default,,0,0,0,,♪ La la la lo ♪\N-
-Dialogue: 0,0:13:08.12,0:13:09.66,Default,,0,0,0,,♪ Dai kanki ♪\NGreat joy!
-Dialogue: 0,0:13:10.24,0:13:11.62,Default,,0,0,0,,♪ Dai kanki ♪\NGreat joy!
-Dialogue: 0,0:13:12.07,0:13:15.71,Default,,0,0,0,,♪ Okyaku ya okyaku no dai kanki ♪\NWelcome, guests! Such great joy!
-Dialogue: 0,0:13:15.77,0:13:17.56,Default,,0,0,0,,♪ Lu lu lu lu lu lu ♪\N-
-Dialogue: 0,0:13:17.58,0:13:21.98,Default,,0,0,0,,♪ O uma wa pa pa pa pa kuruma mo pon pon pon pon ♪\NHorses clip-clopping, carriages chugging along!
-Dialogue: 0,0:13:22.06,0:13:35.54,Default,,0,0,0,,♪ Yokoso yokoso ureshi ureshi dai kanki ♪\NWelcome, welcome! We're so happy, what great joy!
+Dialogue: 0,0:11:23.28,0:11:24.60,Karaoke - 22 the coronation 1,,0,0,0,,{\k26}Da{\k26}i {\k36}ka{\k15}n{\k29}ki
+Dialogue: 0,0:11:23.28,0:11:24.60,OPED_Translation,,0,0,0,,Great joy!
+Dialogue: 0,0:11:25.26,0:11:26.56,Karaoke - 22 the coronation 1,,0,0,0,,{\k19}Da{\k25}i {\k32}ka{\k21}n{\k33}ki
+Dialogue: 0,0:11:25.26,0:11:26.56,OPED_Translation,,0,0,0,,Great joy!
+Dialogue: 0,0:11:27.17,0:11:30.96,Karaoke - 22 the coronation 1,,0,0,0,,{\k23}U{\k26}re{\k54}shi {\k28}u{\k25}re{\k49}shi {\k15}da{\k25}i {\k42}ka{\k22}n{\k70}ki
+Dialogue: 0,0:11:27.17,0:11:30.96,OPED_Translation,,0,0,0,,I'm so happy! I'm overjoyed!
+Dialogue: 0,0:11:31.06,0:11:33.12,Karaoke - 22 the coronation 1,,0,0,0,,{\k0}{\k23}Lu {\k42}lu {\k32}lu,{\k11} {\k18}lu {\k47}lu {\k33}lu {\k0}
+Dialogue: 0,0:11:33.25,0:11:36.68,Karaoke - 22 the coronation 1,,0,0,0,,{\k47}U{\k50}re{\k44}shi{\k53} {\k33}da{\k28}i {\k24}ka{\k21}n{\k43}ki
+Dialogue: 0,0:11:33.25,0:11:36.68,OPED_Translation,,0,0,0,,Oh, happy, great joy!
+Dialogue: 0,0:11:37.30,0:11:39.55,Karaoke - 22 the coronation 1,,0,0,0,,{\k25}O {\k37}shi{\k42}ro {\k21}pi{\k25}ka{\k25}pi{\k25}ka{\k25}pi
+Dialogue: 0,0:11:37.30,0:11:39.55,OPED_Translation,,0,0,0,,The castle is sparkling bright!
+Dialogue: 0,0:11:48.51,0:11:49.98,Karaoke - 22 the coronation 1,,0,0,0,,{\k47}Pi{\k27}ka{\k23}pi{\k50}ka
+Dialogue: 0,0:11:48.51,0:11:49.98,OPED_Translation,,0,0,0,,Sparkling bright!
+Dialogue: 0,0:11:50.55,0:11:52.15,Karaoke - 22 the coronation 1,,0,0,0,,{\k19}Da{\k25}i {\k32}ka{\k21}n{\k63}ki
+Dialogue: 0,0:11:50.55,0:11:52.15,OPED_Translation,,0,0,0,,Great joy!
+Dialogue: 0,0:11:52.56,0:11:53.90,Karaoke - 22 the coronation 1,,0,0,0,,{\k19}Da{\k25}i {\k32}ka{\k21}n{\k63}ki
+Dialogue: 0,0:11:52.56,0:11:53.90,OPED_Translation,,0,0,0,,Great joy!
+Dialogue: 0,0:11:54.50,0:11:58.09,Karaoke - 22 the coronation 1,,0,0,0,,{\k23}U{\k26}re{\k54}shi {\k28}u{\k25}re{\k49}shi {\k15}da{\k25}i {\k42}ka{\k22}n{\k70}ki
+Dialogue: 0,0:11:54.50,0:11:58.09,OPED_Translation,,0,0,0,,I'm so happy! I'm overjoyed!
+Dialogue: 0,0:11:58.41,0:12:01.63,Karaoke - 22 the coronation 1,,0,0,0,,{\k14}Lu {\k15}lu {\k59}lu,{\k8} {\k16}lu {\k14}lu {\k59}lu,{\k10} {\k13}lu {\k14}lu {\k100}lu
+Dialogue: 0,0:12:02.07,0:12:05.48,Karaoke - 22 the coronation 1,,0,0,0,,{\k50}Ki{\k57}re{\k28}i{\k19}na{\k51} {\k15}da{\k20}i {\k30}ka{\k30}n{\k41}ki
+Dialogue: 0,0:12:02.07,0:12:05.48,OPED_Translation,,0,0,0,,Beautiful, great joy!
+Dialogue: 0,0:12:06.13,0:12:11.83,Karaoke - 22 the coronation 1,,0,0,0,,{\k63}Da{\k29}re {\k70}mo {\k40}tsu{\k64}ya {\k36}tsu{\k65}ya {\k33}tsu{\k69}ya {\k34}tsu{\k67}ya
+Dialogue: 0,0:12:06.13,0:12:11.83,OPED_Translation,,0,0,0,,Everyone is glowing and bright!
+Dialogue: 0,0:12:15.87,0:12:21.39,Karaoke - 22 the coronation 1,,0,0,0,,{\k23}Tsu{\k68}ya {\k28}tsu{\k66}ya{\k29} {\k69}da{\k35}i {\k56}ka{\k24}n{\k154}ki
+Dialogue: 0,0:12:15.87,0:12:21.39,OPED_Translation,,0,0,0,,Glowing, great joy!
+Dialogue: 0,0:12:25.93,0:12:26.72,Karaoke - 22 the coronation 1,,0,0,0,,{\k9}Da{\k8}i {\k20}ka{\k17}n{\k25}ki
+Dialogue: 0,0:12:25.93,0:12:26.72,OPED_Translation,,0,0,0,,Great joy!
+Dialogue: 0,0:12:26.92,0:12:27.92,Karaoke - 22 the coronation 1,,0,0,0,,{\k9}Da{\k8}i {\k20}ka{\k17}n{\k25}ki
+Dialogue: 0,0:12:26.92,0:12:27.92,OPED_Translation,,0,0,0,,Great joy!
+Dialogue: 0,0:12:27.97,0:12:29.57,Karaoke - 22 the coronation 1,,0,0,0,,{\k22}La {\k17}la, {\k13}la {\k27}la, {\k26}la {\k24}la{\k31} la
+Dialogue: 0,0:12:29.74,0:12:31.75,Karaoke - 22 the coronation 1,,0,0,0,,{\k22}Do{\k23}c{\k17}chi {\k17}so {\k29}mo {\k16}do{\k19}c{\k22}chi {\k25}so {\k18}mo
+Dialogue: 0,0:12:31.75,0:12:33.28,Karaoke - 22 the coronation 1,,0,0,0,,{\k21}o{\k15}na{\k20}ka {\k25}ga {\k16}pe{\k16}ko{\k16}pe{\k17}ko
+Dialogue: 0,0:12:29.74,0:12:33.28,OPED_Translation,,0,0,0,,One and all, our tummies are rumbling!
+Dialogue: 0,0:12:33.54,0:12:35.37,Karaoke - 22 the coronation 1,,0,0,0,,{\k23}O{\k30}ka{\k18}shi {\k30}mo {\k24}pa{\k16}ku{\k30}pa{\k21}ku
+Dialogue: 0,0:12:35.37,0:12:37.17,Karaoke - 22 the coronation 1,,0,0,0,,{\k26}pa{\k14}ku{\k36}pa{\k15}ku {\k20}pa{\k20}ku{\k20}pa{\k20}ku
+Dialogue: 0,0:12:33.54,0:12:37.17,OPED_Translation,,0,0,0,,Munching away on treats!
+Dialogue: 0,0:12:37.56,0:12:39.47,Karaoke - 22 the coronation 1,,0,0,0,,{\k26}O{\k27}i{\k41}shi {\k23}go{\k36}chi{\k38}so
+Dialogue: 0,0:12:37.56,0:12:39.47,OPED_Translation,,0,0,0,,A delicious feast!
+Dialogue: 0,0:12:39.50,0:12:41.00,Karaoke - 22 the coronation 1,,0,0,0,,{\k21}La {\k21}la {\k14}la{\k15}n {\k17}la {\k18}la {\k30}la {\k14}la
+Dialogue: 0,0:12:41.02,0:12:42.43,Karaoke - 22 the coronation 1,,0,0,0,,{\k40}{\k18}Da{\k14}i {\k14}ka{\k15}n{\k40}ki
+Dialogue: 0,0:12:41.02,0:12:42.43,OPED_Translation,,0,0,0,,Great joy!
+Dialogue: 0,0:12:42.52,0:12:43.47,Karaoke - 22 the coronation 1,,0,0,0,,{\k15}Da{\k22}i {\k17}ka{\k18}n{\k23}ki
+Dialogue: 0,0:12:42.52,0:12:43.47,OPED_Translation,,0,0,0,,Great joy!
+Dialogue: 0,0:12:43.58,0:12:47.50,Karaoke - 22 the coronation 1,,0,0,0,,{\k33}Ka{\k11}za{\k45}ro {\k25}ka{\k25}za{\k38}ro {\k13}o{\k25}ma{\k38}tsu{\k38}ri {\k27}o{\k17}ma{\k32}tsu{\k25}ri
+Dialogue: 0,0:12:43.58,0:12:47.50,OPED_Translation,,0,0,0,,Decorate, decorate for the grand festival!
+Dialogue: 0,0:12:47.53,0:12:49.41,Karaoke - 22 the coronation 1,,0,0,0,,{\k35}La {\k17}la {\k12}la{\k10}n {\k13}la{\k12}n {\k32}lu {\k27}lu {\k19}lu{\k11}
+Dialogue: 0,0:12:49.43,0:12:51.44,Karaoke - 22 the coronation 1,,0,0,0,,{\k33}Ka{\k18}za{\k50}ro {\k37}ka{\k16}za{\k47}ro
+Dialogue: 0,0:12:49.43,0:12:51.44,OPED_Translation,,0,0,0,,Decorate, decorate!
+Dialogue: 0,0:12:51.49,0:12:52.96,Karaoke - 22 the coronation 1,,0,0,0,,{\k22}La {\k17}la, {\k24}la {\k21}la, {\k21}la {\k24}la{\k18} la
+Dialogue: 0,0:12:52.98,0:12:55.44,Karaoke - 22 the coronation 1,,0,0,0,,{\k54}{\k38}Be{\k33}su {\k27}wa {\k39}fu {\k55}fu
+Dialogue: 0,0:12:52.98,0:12:55.44,OPED_Translation,,0,0,0,,The bass goes puff-puff!
+Dialogue: 0,0:12:55.47,0:12:57.21,Karaoke - 22 the coronation 1,,0,0,0,,{\k31}Fu {\k16}fu, {\k19}fu {\k26}fu, {\k40}fu {\k24}fu{\k18}
+Dialogue: 0,0:12:55.47,0:12:57.21,OPED_Translation,,0,0,0,,puff puff puff puff puff puff!
+Dialogue: 0,0:12:57.27,0:12:59.00,Karaoke - 22 the coronation 1,,0,0,0,,{\k25}Ra{\k12}p{\k53}pa {\k21}wa {\k37}fu {\k25}fu
+Dialogue: 0,0:12:57.27,0:12:59.00,OPED_Translation,,0,0,0,,The horn goes puff-puff!
+Dialogue: 0,0:13:01.52,0:13:03.52,Karaoke - 22 the coronation 1,,0,0,0,,{\k29}La {\k28}la {\k38}la, {\k17}la {\k15}la {\k26}la {\k47}la
+Dialogue: 0,0:13:03.54,0:13:06.12,Karaoke - 22 the coronation 1,,0,0,0,,{\k43}La {\k57}la, {\k17}la {\k36}la {\k39}la {\k66}la
+Dialogue: 0,0:13:06.15,0:13:08.10,Karaoke - 22 the coronation 1,,0,0,0,,{\k31}La {\k25}la {\k22}la {\k30}la {\k87}lo
+Dialogue: 0,0:13:08.12,0:13:09.66,Karaoke - 22 the coronation 1,,0,0,0,,{\k19}Da{\k25}i {\k32}ka{\k21}n{\k33}ki
+Dialogue: 0,0:13:08.12,0:13:09.66,OPED_Translation,,0,0,0,,Great joy!
+Dialogue: 0,0:13:10.24,0:13:11.62,Karaoke - 22 the coronation 1,,0,0,0,,{\k19}Da{\k25}i {\k32}ka{\k21}n{\k33}ki
+Dialogue: 0,0:13:10.24,0:13:11.62,OPED_Translation,,0,0,0,,Great joy!
+Dialogue: 0,0:13:12.07,0:13:15.71,Karaoke - 22 the coronation 1,,0,0,0,,{\k24}O{\k26}kya{\k38}ku {\k21}ya {\k23}o{\k22}kya{\k25}ku {\k24}no {\k19}da{\k28}i {\k29}ka{\k23}n{\k62}ki
+Dialogue: 0,0:13:12.07,0:13:15.71,OPED_Translation,,0,0,0,,Welcome, guests! Such great joy!
+Dialogue: 0,0:13:15.77,0:13:17.56,Karaoke - 22 the coronation 1,,0,0,0,,{\k18}Lu {\k15}lu {\k67}lu, {\k17}lu {\k17}lu {\k45}lu
+Dialogue: 0,0:13:17.58,0:13:20.01,Karaoke - 22 the coronation 1,,0,0,0,,{\k37}{\k41}O {\k16}u{\k25}ma {\k18}wa {\k17}pa {\k23}pa {\k23}pa {\k35}pa
+Dialogue: 0,0:13:20.02,0:13:21.98,Karaoke - 22 the coronation 1,,0,0,0,,{\k17}ku{\k18}ru{\k13}ma {\k14}mo {\k19}po{\k19}n {\k19}po{\k19}n {\k19}po{\k19}n {\k19}po{\k10}n
+Dialogue: 0,0:13:17.58,0:13:21.98,OPED_Translation,,0,0,0,,Horses clip-clopping, carriages chugging along!
+Dialogue: 0,0:13:22.06,0:13:35.54,Karaoke - 22 the coronation 1,,0,0,0,,{\k48}Yo{\k43}ko{\k27}so {\k25}yo{\k25}ko{\k26}so {\k26}u{\k22}re{\k23}shi {\k47}u{\k28}re{\k44}shi {\k115}da{\k107}i {\k134}ka{\k67}n{\k541}ki
+Dialogue: 0,0:13:22.06,0:13:35.54,OPED_Translation,,0,0,0,,Welcome, welcome! We're so happy, what great joy!
 Dialogue: 0,0:13:39.48,0:13:41.41,Default,,0,0,0,,The Great Jubilee is finally tomorrow.
 Dialogue: 0,0:13:41.56,0:13:43.74,Default,,0,0,0,,Preparations at the castle are nearly complete,
 Dialogue: 0,0:13:43.76,0:13:46.22,Default,,0,0,0,, and delegates from around the world are arriving one after another.
