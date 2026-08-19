@@ -138,36 +138,36 @@ Now, don't follow me. Goodbye.
 Opal, keep watch for me!
 
 32
-00:03:22,650 --> 00:03:25,500
-Oh no! The Ribbon Knight set the fire!
-
-33
-00:03:26,530 --> 00:03:29,573
-The fire was set by the Ribbon Knight!
-
-34
-00:03:30,600 --> 00:03:32,220
-It's the Ribbon's Knight!
-
-35
-00:03:33,220 --> 00:03:34,900
-It's the Ribbon!
-
-36
-00:03:34,940 --> 00:03:35,720
-Who set it?
-
-37
-00:03:35,945 --> 00:03:36,945
-It was the Ribbon!
-
-38
 00:03:02,546 --> 00:03:04,220
 Help me!
 
-39
+33
 00:03:04,960 --> 00:03:06,460
 Help me!
+
+34
+00:03:22,650 --> 00:03:25,500
+Oh no! The Ribbon Knight set the fire!
+
+35
+00:03:26,530 --> 00:03:29,573
+The fire was set by the Ribbon Knight!
+
+36
+00:03:30,600 --> 00:03:32,220
+It's the Ribbon's Knight!
+
+37
+00:03:33,220 --> 00:03:34,900
+It's the Ribbon!
+
+38
+00:03:34,940 --> 00:03:35,720
+Who set it?
+
+39
+00:03:35,945 --> 00:03:36,945
+It was the Ribbon!
 
 40
 00:03:48,520 --> 00:03:50,340

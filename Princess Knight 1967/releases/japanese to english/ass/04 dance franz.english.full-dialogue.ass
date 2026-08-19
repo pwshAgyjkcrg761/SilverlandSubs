@@ -14,8 +14,8 @@ Last Style Storage: Default
 Video AR Mode: 4
 Video AR Value: 1.314554
 Video Zoom Percent: 0.500000
-Scroll Position: 126
-Active Line: 119
+Scroll Position: 210
+Active Line: 231
 Video Position: 11808
 
 [V4+ Styles]
@@ -261,9 +261,9 @@ Dialogue: 0,0:11:39.10,0:11:40.10,Default,,0,0,0,,I give up!
 Dialogue: 0,0:11:41.60,0:11:42.76,Default,,0,0,0,,What do you mean you give up?!
 Dialogue: 0,0:11:42.88,0:11:43.98,Default,,0,0,0,,Don't talk back to me!
 Dialogue: 0,0:11:44.79,0:11:45.79,Default,,0,0,0,,What did you do with the chain?!
-Dialogue: 0,0:11:55.77,0:11:56.80,Default,,0,0,0,,Now I've done it!
 Dialogue: 0,0:11:47.22,0:11:49.40,Default,,0,0,0,,Take that!
 Dialogue: 0,0:11:49.43,0:11:51.22,Default,,0,0,0,,Now's our chance!
+Dialogue: 0,0:11:55.77,0:11:56.80,Default,,0,0,0,,Now I've done it!
 Dialogue: 0,0:12:07.00,0:12:07.56,Default,,0,0,0,,Just a minute.
 Dialogue: 0,0:12:07.58,0:12:08.14,Default,,0,0,0,,Now!
 Dialogue: 0,0:12:08.34,0:12:09.34,Default,,0,0,0,,Are you out of your mind?!

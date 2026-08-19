@@ -11,12 +11,11 @@ PlayResY: 576
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File:
-Video File:
 Video AR Mode: 4
 Video AR Value: 1.314554
 Video Zoom Percent: 0.500000
-Active Line: 215
+Scroll Position: 39
+Active Line: 43
 Video Position: 26383
 
 [V4+ Styles]
@@ -72,14 +71,14 @@ Dialogue: 0,0:02:42.75,0:02:45.40,Default,,0,0,0,,{\i1}I went to help, but Franz
 Dialogue: 0,0:02:46.02,0:02:47.43,Default,,0,0,0,,{\i1}I'm really worried.{\i0}
 Dialogue: 0,0:02:47.86,0:02:50.10,Default,,0,0,0,,{\i1}I know, let me sneak over and take a look.{\i0}
 Dialogue: 0,0:02:53.75,0:02:55.18,Default,,0,0,0,,Opal, keep watch for me!
+Dialogue: 0,0:03:02.55,0:03:04.22,Default,,0,0,0,,Help me!
+Dialogue: 0,0:03:04.96,0:03:06.46,Default,,0,0,0,,Help me!
 Dialogue: 0,0:03:22.65,0:03:25.50,Default,,0,0,0,,Oh no! The Ribbon Knight set the fire!
 Dialogue: 0,0:03:26.53,0:03:29.57,Default,,0,0,0,,The fire was set by the Ribbon Knight!
 Dialogue: 0,0:03:30.60,0:03:32.22,Default,,0,0,0,,It's the Ribbon's Knight!
 Dialogue: 0,0:03:33.22,0:03:34.90,Default,,0,0,0,,It's the Ribbon!
 Dialogue: 0,0:03:34.94,0:03:35.72,Default,,0,0,0,,Who set it?
 Dialogue: 0,0:03:35.95,0:03:36.95,Default,,0,0,0,,It was the Ribbon!
-Dialogue: 0,0:03:02.55,0:03:04.22,Default,,0,0,0,,Help me!
-Dialogue: 0,0:03:04.96,0:03:06.46,Default,,0,0,0,,Help me!
 Dialogue: 0,0:03:48.52,0:03:50.34,Default,,0,0,0,,What on earth happened? What's with this fire?
 Dialogue: 0,0:03:51.42,0:03:54.96,Default,,0,0,0,,Forgive me, Your Highness, but Ribbon Knight is the one who set this fire!
 Dialogue: 0,0:03:55.70,0:03:56.70,Default,,0,0,0,,The Ribbon Knight?
