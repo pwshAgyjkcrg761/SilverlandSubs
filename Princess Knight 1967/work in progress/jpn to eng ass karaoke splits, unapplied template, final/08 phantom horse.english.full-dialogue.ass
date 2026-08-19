@@ -6,8 +6,8 @@ ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.601
-PlayResX: 714
-PlayResY: 572
+PlayResX: 720
+PlayResY: 576
 
 [Aegisub Project Garbage]
 Audio File: 08 the flying horse.mkv
