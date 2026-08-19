@@ -10,24 +10,27 @@ PlayResX: 700
 PlayResY: 568
 
 [Aegisub Project Garbage]
-Audio File: 20 the dangerous shadows.mkv
-Video File: 20 the dangerous shadows.mkv
+Last Style Storage: Default
+Audio File: ../20 the dangerous shadows.mkv
+Video File: ../20 the dangerous shadows.mkv
 Video AR Mode: 4
 Video AR Value: 1.314554
-Scroll Position: 371
-Active Line: 375
-Video Position: 950
+Video Zoom Percent: 0.500000
+Active Line: 2
+Video Position: 1025
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Verdana,39.7,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,19,19,20,1
 Style: Karaoke,Verdana,39.7,&H00FF00FF,&H00FF0000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,19,19,20,1
 Style: OPED_Translation,Verdana,39.7,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,19,19,20,1
+Style: Hecate Spells,Verdana,39.7,&H0000E6FF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,19,19,20,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:38.00,0:00:41.00,OPED_Translation,,0,0,0,template line,{\fad(300,300)\blur1}
 Comment: 0,0:00:41.00,0:00:44.00,Karaoke,,0,0,0,template syl,{\pos($x,$y)\1c!line.styleref.color2!\t($start,$mid,\fscx150\fscy150\1c&H00D7FF&)\t($mid,$end,\fscx100\fscy100\1c!line.styleref.color1!)}
+Comment: 0,0:00:41.00,0:00:44.00,Hecate Spells,,0,0,0,template line,{\fscx85\fscy85\blur1\t(0,150,\fscx110\fscy110\blur5)\t(150,300,\fscx100\fscy100\blur3)}
 Dialogue: 0,0:00:01.18,0:00:09.22,Default,,0,0,0,,The Princess Sapphire\NKnight of the Ribbon
 Dialogue: 0,0:00:44.00,0:00:50.16,Karaoke,,0,0,0,,{\k72}{\k14}A{\k32}ta{\k40}shi {\k48}no {\k35}mi{\k52}ru {\k45}yu{\k34}me{\k30} {\k41}hi{\k44}mi{\k43}tsu {\k27}na{\k39}no{\k20}
 Dialogue: 0,0:00:44.00,0:00:50.16,OPED_Translation,,0,0,0,,The dreams I see are my secret
@@ -81,16 +84,16 @@ Dialogue: 0,0:03:59.30,0:04:03.70,Default,,0,0,0,,Once upon a time, back when fe
 Dialogue: 0,0:04:03.73,0:04:09.60,Default,,0,0,0,,humans, horses, rabbits, every living thing was terribly lonely.
 Dialogue: 0,0:04:10.18,0:04:15.92,Default,,0,0,0,,Everyone was all alone without any friends, so they did nothing but cry.
 Dialogue: 0,0:04:16.04,0:04:20.16,Default,,0,0,0,,Because of that, they were always weak and falling ill.
-Dialogue: 0,0:04:20.37,0:04:27.07,Default,,0,0,0,,Worried by this, God thought that making them good friends would cure their sickness.
-Dialogue: 0,0:04:27.39,0:04:31.74,Default,,0,0,0,,He spent two seconds thinking of a good idea—and finally got one!
-Dialogue: 0,0:04:32.20,0:04:35.86,Default,,0,0,0,,The child who received a friend danced for joy,
-Dialogue: 0,0:04:35.88,0:04:39.82,Default,,0,0,0,,but someone greedy stole that friend away.
-Dialogue: 0,0:04:39.88,0:04:43.34,Default,,0,0,0,,Troubled, God thought for three whole seconds this time.
-Dialogue: 0,0:04:43.55,0:04:47.35,Default,,0,0,0,,Slapping his knee, an idea struck him!
-Dialogue: 0,0:04:47.68,0:04:51.04,Default,,0,0,0,,And he attached the friend directly to the child's feet.
-Dialogue: 0,0:04:51.76,0:04:55.82,Default,,0,0,0,,From then on, no one could steal it away,
-Dialogue: 0,0:04:55.84,0:04:59.18,Default,,0,0,0,,and it became an inseparable friend to everyone.
-Dialogue: 0,0:04:59.79,0:05:01.36,Default,,0,0,0,,That's how shadows came to be.
+Dialogue: 0,0:04:20.37,0:04:27.07,Default,,0,0,0,,{\i1}Worried by this, God thought that making them good friends would cure their sickness.
+Dialogue: 0,0:04:27.39,0:04:31.74,Default,,0,0,0,,{\i1}He spent two seconds thinking of a good idea—and finally got one!
+Dialogue: 0,0:04:32.20,0:04:35.86,Default,,0,0,0,,{\i1}The child who received a friend danced for joy,
+Dialogue: 0,0:04:35.88,0:04:39.82,Default,,0,0,0,,{\i1}but someone greedy stole that friend away.
+Dialogue: 0,0:04:39.88,0:04:43.34,Default,,0,0,0,,{\i1}Troubled, God thought for three whole seconds this time.
+Dialogue: 0,0:04:43.55,0:04:47.35,Default,,0,0,0,,{\i1}Slapping his knee, an idea struck him!
+Dialogue: 0,0:04:47.68,0:04:51.04,Default,,0,0,0,,{\i1}And he attached the friend directly to the child's feet.
+Dialogue: 0,0:04:51.76,0:04:55.82,Default,,0,0,0,,{\i1}From then on, no one could steal it away,
+Dialogue: 0,0:04:55.84,0:04:59.18,Default,,0,0,0,,{\i1}and it became an inseparable friend to everyone.
+Dialogue: 0,0:04:59.79,0:05:01.36,Default,,0,0,0,,{\i1}That's how shadows came to be.
 Dialogue: 0,0:05:01.94,0:05:05.40,Default,,0,0,0,,It's the friend that stays closest to us.
 Dialogue: 0,0:05:21.95,0:05:22.39,Default,,0,0,0,,Wait...
 Dialogue: 0,0:05:22.72,0:05:23.26,Default,,0,0,0,,Oh no!
@@ -130,7 +133,7 @@ Dialogue: 0,0:08:03.52,0:08:05.76,Default,,0,0,0,,Everyone run while I fight it!
 Dialogue: 0,0:08:17.54,0:08:18.84,Default,,0,0,0,,I fell into a hole!
 Dialogue: 0,0:08:21.91,0:08:22.82,Default,,0,0,0,,Damn it!
 Dialogue: 0,0:08:23.18,0:08:24.62,Default,,0,0,0,,I fell through that old well!
-Dialogue: 0,0:08:24.91,0:08:27.77,Default,,0,0,0,,- Mom! Help! Moma!\N- Help!
+Dialogue: 0,0:08:24.91,0:08:27.77,Default,,0,0,0,,- Mom! Help! Mama!\N- Help!
 Dialogue: 0,0:08:29.45,0:08:30.45,Default,,0,0,0,,What is that?
 Dialogue: 0,0:08:30.58,0:08:31.58,Default,,0,0,0,,A monster!
 Dialogue: 0,0:08:31.75,0:08:32.93,Default,,0,0,0,,Hurry, run!
@@ -334,24 +337,24 @@ Dialogue: 0,0:19:39.56,0:19:41.68,Default,,0,0,0,,Let me quietly back away from 
 Dialogue: 0,0:19:43.69,0:19:45.75,Default,,0,0,0,,I can't believe my shadow stayed behind...
 Dialogue: 0,0:19:47.86,0:19:49.06,Default,,0,0,0,,It's about to get interesting!
 Dialogue: 0,0:19:49.10,0:19:49.76,Default,,0,0,0,,Watch!
-Dialogue: 0,0:19:49.99,0:19:51.30,Default,,0,0,0,,Zuborasha!
-Dialogue: 0,0:19:56.88,0:19:58.24,Default,,0,0,0,,Borasha!
-Dialogue: 0,0:19:59.03,0:20:03.16,Default,,0,0,0,,Sora, Haora, Paora, Zuborasha!
+Dialogue: 0,0:19:49.99,0:19:51.30,Hecate Spells,,0,0,0,,Zuborasha!
+Dialogue: 0,0:19:56.88,0:19:58.24,Hecate Spells,,0,0,0,,Borasha!
+Dialogue: 0,0:19:59.03,0:20:03.16,Hecate Spells,,0,0,0,,Sora, Haora, Paora, Zuborasha!
 Dialogue: 0,0:20:04.12,0:20:05.12,Default,,0,0,0,,What are you doing?
 Dialogue: 0,0:20:05.37,0:20:06.48,Default,,0,0,0,,You'll see soon enough!
-Dialogue: 0,0:20:06.91,0:20:08.28,Default,,0,0,0,,Zuborasha!
-Dialogue: 0,0:20:08.48,0:20:10.12,Default,,0,0,0,,Zuborasha!
+Dialogue: 0,0:20:06.91,0:20:08.28,Hecate Spells,,0,0,0,,Zuborasha!
+Dialogue: 0,0:20:08.48,0:20:10.12,Hecate Spells,,0,0,0,,Zuborasha!
 Dialogue: 0,0:20:11.98,0:20:12.64,Default,,0,0,0,,It's sweet!
 Dialogue: 0,0:20:12.92,0:20:14.30,Default,,0,0,0,,Isn't this sugar water?
 Dialogue: 0,0:20:14.60,0:20:16.31,Default,,0,0,0,,What good is making sugar water?
-Dialogue: 0,0:20:17.32,0:20:18.38,Default,,0,0,0,,Zuborasha!
+Dialogue: 0,0:20:17.32,0:20:18.38,Hecate Spells,,0,0,0,,Zuborasha!
 Dialogue: 0,0:20:18.69,0:20:21.56,Default,,0,0,0,,Paint the sugar water onto Kagera's shadow with that brush!
 Dialogue: 0,0:20:27.99,0:20:29.45,Default,,0,0,0,,What's sugar water going to do?
 Dialogue: 0,0:20:43.72,0:20:44.41,Default,,0,0,0,,Hecate!
 Dialogue: 0,0:20:44.72,0:20:45.60,Default,,0,0,0,,Finished painting!
 Dialogue: 0,0:20:50.23,0:20:51.70,Default,,0,0,0,,Now to finally defeat it!
 Dialogue: 0,0:20:51.92,0:20:52.34,Default,,0,0,0,,Watch this!
-Dialogue: 0,0:20:52.36,0:20:53.44,Default,,0,0,0,,Zuborasha!
+Dialogue: 0,0:20:52.36,0:20:53.44,Hecate Spells,,0,0,0,,Zuborasha!
 Dialogue: 0,0:21:00.68,0:21:01.29,Default,,0,0,0,,It worked!
 Dialogue: 0,0:21:01.32,0:21:02.64,Default,,0,0,0,,It started eating the shadow!
 Dialogue: 0,0:21:03.09,0:21:04.09,Default,,0,0,0,,No way!
@@ -369,7 +372,7 @@ Dialogue: 0,0:22:12.84,0:22:14.51,Default,,0,0,0,,Lord Plastic was saved!
 Dialogue: 0,0:22:14.54,0:22:15.54,Default,,0,0,0,,He was saved!
 Dialogue: 0,0:22:21.34,0:22:24.48,Default,,0,0,0,,Now, Hecate, take my heart as promised!
 Dialogue: 0,0:22:24.76,0:22:25.76,Default,,0,0,0,,I can't get close to you!
-Dialogue: 0,0:22:25.87,0:22:27.02,Default,,0,0,0,,Zuborasha!
+Dialogue: 0,0:22:25.87,0:22:27.02,Hecate Spells,,0,0,0,,Zuborasha!
 Dialogue: 0,0:22:30.85,0:22:32.26,Default,,0,0,0,,Get on this and come with me!
 Dialogue: 0,0:22:36.36,0:22:37.68,Default,,0,0,0,,Sapphire!
 Dialogue: 0,0:22:38.83,0:22:39.83,Default,,0,0,0,,That's a demon!

@@ -16,8 +16,7 @@ Video File: ../37 the magic spell 2.mkv
 Video AR Mode: 4
 Video AR Value: 1.314554
 Video Zoom Percent: 0.500000
-Scroll Position: 192
-Active Line: 2
+Active Line: 6
 Video Position: 1025
 
 [V4+ Styles]
@@ -26,12 +25,20 @@ Style: Default,Verdana,39.7,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,
 Style: Karaoke,Verdana,39.7,&H00FF00FF,&H00FF0000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,19,19,20,1
 Style: OPED_Translation,Verdana,39.7,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,19,19,20,1
 Style: Karaoke - 37 save the sapphire! 2,Verdana,39.7,&H00EE82EE,&H00AD2D6F,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,19,19,20,1
+Style: Mephisto Spells,Verdana,39.7,&H000011D0,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,19,19,20,1
+Style: Hecate Spells,Verdana,39.7,&H0000E6FF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,19,19,20,1
+Style: Hecate Spells Translation,Verdana,39.7,&H0000E6FF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,19,19,20,1
+Style: Madame Hell Spells,Verdana,39.7,&H00800080,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,19,19,20,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:38.00,0:00:41.00,OPED_Translation,,0,0,0,template line,{\fad(300,300)\blur1}
 Comment: 0,0:00:41.00,0:00:44.00,Karaoke,,0,0,0,template syl,{\pos($x,$y)\1c!line.styleref.color2!\t($start,$mid,\fscx150\fscy150\1c&H00D7FF&)\t($mid,$end,\fscx100\fscy100\1c!line.styleref.color1!)}
 Comment: 0,0:00:41.00,0:00:44.00,Karaoke - 37 save the sapphire! 2,,0,0,0,template syl,{\pos($x,$y)\1c!line.styleref.color2!\t($start,$mid,\fscx150\fscy150\1c&H2010CF&)\t($mid,$end,\fscx100\fscy100\1c!line.styleref.color1!)}
+Comment: 0,0:00:41.00,0:00:44.00,Mephisto Spells,,0,0,0,template line,{\fscx90\fscy90\blur2\t(0,300,\fscx105\fscy105\blur6)}
+Comment: 0,0:00:41.00,0:00:44.00,Hecate Spells,,0,0,0,template line,{\fscx85\fscy85\blur1\t(0,150,\fscx110\fscy110\blur5)\t(150,300,\fscx100\fscy100\blur3)}
+Comment: 0,0:00:41.00,0:00:44.00,Madame Hell Spells,,0,0,0,template line,{\fscx95\fscy95\blur2\3c&H000000&\4c&H400040&\t(0,400,\fscx105\fscy105\blur6)}
+Comment: 0,0:00:41.00,0:00:44.00,Hecate Spells Translation,,0,0,0,template line,{\fscx85\fscy85\blur1\t(0,150,\fscx110\fscy110\blur5)\t(150,300,\fscx100\fscy100\blur3)}
 Dialogue: 0,0:00:01.18,0:00:09.22,Default,,0,0,0,,The Princess Sapphire\NKnight of the Ribbon
 Dialogue: 0,0:00:44.00,0:00:50.16,Karaoke,,0,0,0,,{\k72}{\k14}A{\k32}ta{\k40}shi {\k48}no {\k35}mi{\k52}ru {\k45}yu{\k34}me{\k30} {\k41}hi{\k44}mi{\k43}tsu {\k27}na{\k39}no{\k20}
 Dialogue: 0,0:00:44.00,0:00:50.16,OPED_Translation,,0,0,0,,The dreams I see are my secret
@@ -144,7 +151,7 @@ Dialogue: 0,0:07:34.38,0:07:37.28,Default,,0,0,0,,You demons! You're hiding in t
 Dialogue: 0,0:07:37.56,0:07:39.10,Default,,0,0,0,,Come on, get out here!
 Dialogue: 0,0:07:39.48,0:07:41.35,Default,,0,0,0,,Then take my life!
 Dialogue: 0,0:07:41.69,0:07:42.39,Default,,0,0,0,,That's it!
-Dialogue: 0,0:07:43.04,0:07:44.94,Default,,0,0,0,,Barasha!
+Dialogue: 0,0:07:43.04,0:07:44.94,Hecate Spells,,0,0,0,,Barasha!
 Dialogue: 0,0:07:50.80,0:07:52.50,Default,,0,0,0,,Come out, you cowardly fiends!
 Dialogue: 0,0:07:52.88,0:07:54.40,Default,,0,0,0,,Franz! Franz!
 Dialogue: 0,0:07:56.67,0:07:57.46,Default,,0,0,0,,Sapphire!
@@ -181,7 +188,7 @@ Dialogue: 0,0:09:39.23,0:09:40.23,Default,,0,0,0,,Almost there!
 Dialogue: 0,0:09:45.44,0:09:46.52,Default,,0,0,0,,You won't get away!
 Dialogue: 0,0:09:47.92,0:09:52.00,Default,,0,0,0,,That's right, don't give me any more trouble.
 Dialogue: 0,0:09:58.74,0:10:01.84,Default,,0,0,0,,I'm not like the good-for-nothings at my place.
-Dialogue: 0,0:10:12.84,0:10:14.26,Default,,0,0,0,,Zubarasha!
+Dialogue: 0,0:10:12.84,0:10:14.26,Madame Hell Spells,,0,0,0,,Zubarasha!
 Dialogue: 0,0:10:15.42,0:10:16.60,Default,,0,0,0,,You can't run anymore.
 Dialogue: 0,0:10:17.46,0:10:20.42,Default,,0,0,0,,Damn it! Let go! Let go!
 Dialogue: 0,0:10:20.87,0:10:22.36,Default,,0,0,0,,Struggling is useless!
@@ -206,8 +213,8 @@ Dialogue: 0,0:11:16.12,0:11:18.27,Default,,0,0,0,,They say if you drink sap from
 Dialogue: 0,0:11:18.29,0:11:20.78,Default,,0,0,0,,at the peak of Mount Harz, you go blind.
 Dialogue: 0,0:11:21.06,0:11:22.30,Default,,0,0,0,,The cursed Mount Harz...
 Dialogue: 0,0:11:41.66,0:11:43.12,Default,,0,0,0,,What's wrong, Hecate?
-Dialogue: 0,0:11:44.51,0:11:45.78,Default,,0,0,0,,Zubarasha!
-Dialogue: 0,0:11:48.32,0:11:49.65,Default,,0,0,0,,Yaaahhh!
+Dialogue: 0,0:11:44.51,0:11:45.78,Hecate Spells,,0,0,0,,Zubarasha!
+Dialogue: 0,0:11:48.32,0:11:49.65,Hecate Spells,,0,0,0,,Yaaahhh!
 Dialogue: 0,0:11:53.70,0:11:55.02,Default,,0,0,0,,What on earth is going on here?
 Dialogue: 0,0:11:56.96,0:12:00.14,Default,,0,0,0,,Papa and Mama are using the Demon Orb to look for me,
 Dialogue: 0,0:12:00.16,0:12:02.02,Default,,0,0,0,,so I made a fake me.
@@ -237,7 +244,8 @@ Dialogue: 0,0:13:38.22,0:13:40.28,Default,,0,0,0,,by the Great Demon King of Hel
 Dialogue: 0,0:13:41.26,0:13:42.82,Default,,0,0,0,,But... but this is the only way...
 Dialogue: 0,0:13:45.32,0:13:47.82,Default,,0,0,0,,Prince Franz, wait here. I'll go alone.
 Dialogue: 0,0:13:48.07,0:13:49.58,Default,,0,0,0,,Hecate, be careful!
-Dialogue: 0,0:13:53.30,0:13:54.24,Default,,0,0,0,,Ono yo!\N- Axe arise!
+Dialogue: 0,0:13:53.30,0:13:54.24,Hecate Spells,,0,0,0,,Ono yo!
+Dialogue: 0,0:13:53.30,0:13:54.24,Hecate Spells Translation,,0,0,0,,Axe arise!
 Dialogue: 0,0:14:31.88,0:14:34.08,Default,,0,0,0,,Hecate, it's dangerous! Come back!
 Dialogue: 0,0:14:36.56,0:14:39.87,Default,,0,0,0,,The Great Demon King is angry. But no matter what happens to me...
 Dialogue: 0,0:14:48.11,0:14:48.95,Default,,0,0,0,,Hecate!
@@ -269,9 +277,9 @@ Dialogue: 0,0:17:02.27,0:17:04.57,Default,,0,0,0,,Sick? No matter how bad it is,
 Dialogue: 0,0:17:04.59,0:17:07.32,Default,,0,0,0,,we're doing the surgery to transfer Sapphire's male heart right away!
 Dialogue: 0,0:17:07.92,0:17:10.62,Default,,0,0,0,,Mama, in her condition, that's impossible.
 Dialogue: 0,0:17:10.88,0:17:14.99,Default,,0,0,0,,Dear, that's why I say you're too soft! Quick, prepare for surgery!
-Dialogue: 0,0:17:15.71,0:17:17.02,Default,,0,0,0,,Aparasha!
+Dialogue: 0,0:17:15.71,0:17:17.02,Mephisto Spells,,0,0,0,,Aparasha!
 Dialogue: 0,0:17:19.43,0:17:21.67,Default,,0,0,0,,Now, bring Sapphire here...
-Dialogue: 0,0:17:22.10,0:17:24.10,Default,,0,0,0,,Burasha!
+Dialogue: 0,0:17:22.10,0:17:24.10,Mephisto Spells,,0,0,0,,Burasha!
 Dialogue: 0,0:17:26.51,0:17:28.64,Default,,0,0,0,,Franz! Franz!
 Dialogue: 0,0:17:29.36,0:17:31.58,Default,,0,0,0,,Help me, Franz!
 Dialogue: 0,0:17:31.89,0:17:32.89,Default,,0,0,0,,That's Sapphire's voice!
@@ -287,9 +295,9 @@ Dialogue: 0,0:17:52.72,0:17:56.58,Default,,0,0,0,,Don't worry, once you're rebor
 Dialogue: 0,0:17:56.82,0:17:57.96,Default,,0,0,0,,Come, Hecate.
 Dialogue: 0,0:17:57.98,0:18:01.12,Default,,0,0,0,,I am reborn! Mama, Papa, let's propose a toast.
 Dialogue: 0,0:18:01.37,0:18:02.86,Default,,0,0,0,,Ah, that sounds lovely.
-Dialogue: 0,0:18:02.96,0:18:06.21,Default,,0,0,0,,Mata Vamesha!
+Dialogue: 0,0:18:02.96,0:18:06.21,Madame Hell Spells,,0,0,0,,Mata Vamesha!
 Dialogue: 0,0:18:11.89,0:18:13.72,Default,,0,0,0,,Mama, Papa, a toast please.
-Dialogue: 0,0:18:14.54,0:18:17.93,Default,,0,0,0,,Damari Zubarasha!
+Dialogue: 0,0:18:14.54,0:18:17.93,Madame Hell Spells,,0,0,0,,Damari Zubarasha!
 Dialogue: 0,0:18:19.50,0:18:20.71,Default,,0,0,0,,It hurts...
 Dialogue: 0,0:18:21.23,0:18:25.77,Default,,0,0,0,,Mama, Mama, classy people always make a toast when celebrating.
 Dialogue: 0,0:18:25.80,0:18:27.48,Default,,0,0,0,,Classy people? A toast?
@@ -354,7 +362,7 @@ Dialogue: 0,0:22:37.30,0:22:39.98,Default,,0,0,0,,Hey Hecate!
 Dialogue: 0,0:22:42.15,0:22:43.94,Default,,0,0,0,,Mama and Papa are worried.
 Dialogue: 0,0:22:43.97,0:22:45.45,Default,,0,0,0,,Are you going back Hecate?
 Dialogue: 0,0:22:45.47,0:22:46.77,Default,,0,0,0,,Hecate, thank you so much!
-Dialogue: 0,0:22:47.19,0:22:48.92,Default,,0,0,0,,Zubarasha!
+Dialogue: 0,0:22:47.19,0:22:48.92,Hecate Spells,,0,0,0,,Zubarasha!
 Dialogue: 0,0:22:54.25,0:22:55.83,Default,,0,0,0,,Goodbye!
 Dialogue: 0,0:22:57.02,0:22:59.28,Default,,0,0,0,,Goodbye!
 Dialogue: 0,0:23:03.49,0:23:05.34,Default,,0,0,0,,Sapphire! Franz!

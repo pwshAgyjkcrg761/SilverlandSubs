@@ -10,24 +10,27 @@ PlayResX: 700
 PlayResY: 568
 
 [Aegisub Project Garbage]
-Audio File: 29 queen icicle 4.mkv
-Video File: 29 queen icicle 4.mkv
+Last Style Storage: Default
+Audio File: ../29 queen icicle 4.mkv
+Video File: ../29 queen icicle 4.mkv
 Video AR Mode: 4
 Video AR Value: 1.314554
-Scroll Position: 344
-Active Line: 353
-Video Position: 950
+Video Zoom Percent: 0.500000
+Active Line: 3
+Video Position: 30
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Verdana,39.7,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,19,19,20,1
 Style: Karaoke,Verdana,39.7,&H00FF00FF,&H00FF0000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,19,19,20,1
 Style: OPED_Translation,Verdana,39.7,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,19,19,20,1
+Style: Mephisto Spells,Verdana,39.7,&H000011D0,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,19,19,20,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:38.00,0:00:41.00,OPED_Translation,,0,0,0,template line,{\fad(300,300)\blur1}
 Comment: 0,0:00:41.00,0:00:44.00,Karaoke,,0,0,0,template syl,{\pos($x,$y)\1c!line.styleref.color2!\t($start,$mid,\fscx150\fscy150\1c&H00D7FF&)\t($mid,$end,\fscx100\fscy100\1c!line.styleref.color1!)}
+Comment: 0,0:00:41.00,0:00:44.00,Mephisto Spells,,0,0,0,template line,{\fscx90\fscy90\blur2\t(0,300,\fscx105\fscy105\blur6)}
 Dialogue: 0,0:00:01.18,0:00:09.22,Default,,0,0,0,,The Princess Sapphire\NKnight of the Ribbon
 Dialogue: 0,0:00:44.00,0:00:50.16,Karaoke,,0,0,0,,{\k72}{\k14}A{\k32}ta{\k40}shi {\k48}no {\k35}mi{\k52}ru {\k45}yu{\k34}me{\k30} {\k41}hi{\k44}mi{\k43}tsu {\k27}na{\k39}no{\k20}
 Dialogue: 0,0:00:44.00,0:00:50.16,OPED_Translation,,0,0,0,,The dreams I see are my secret
@@ -96,14 +99,14 @@ Dialogue: 0,0:04:09.88,0:04:10.35,Default,,0,0,0,,I won't run!
 Dialogue: 0,0:04:10.58,0:04:11.86,Default,,0,0,0,,I swear on this sword, I won't run!
 Dialogue: 0,0:04:11.96,0:04:12.55,Default,,0,0,0,,So hurry!
 Dialogue: 0,0:04:13.28,0:04:14.26,Default,,0,0,0,,Very well!
-Dialogue: 0,0:04:16.64,0:04:18.55,Default,,0,0,0,,Zuborosha!
+Dialogue: 0,0:04:16.64,0:04:18.55,Mephisto Spells,,0,0,0,,Zuborosha!
 Dialogue: 0,0:04:28.52,0:04:29.07,Default,,0,0,0,,My King!
 Dialogue: 0,0:04:29.09,0:04:30.10,Default,,0,0,0,,Are you safe?
 Dialogue: 0,0:04:30.13,0:04:31.15,Default,,0,0,0,,Father!
 Dialogue: 0,0:04:31.79,0:04:32.85,Default,,0,0,0,,Mother!
 Dialogue: 0,0:04:33.00,0:04:34.48,Default,,0,0,0,,I could swear I heard Sapphire's voice...
 Dialogue: 0,0:04:34.51,0:04:35.66,Default,,0,0,0,,Yes, I heard it too!
-Dialogue: 0,0:04:38.56,0:04:40.33,Default,,0,0,0,,Uraisha!
+Dialogue: 0,0:04:38.56,0:04:40.33,Mephisto Spells,,0,0,0,,Uraisha!
 Dialogue: 0,0:04:45.02,0:04:48.02,Default,,0,0,0,,Papa, aren't you going to send Sapphire's parents back?
 Dialogue: 0,0:04:48.78,0:04:49.78,Default,,0,0,0,,Leave them be!
 Dialogue: 0,0:04:49.84,0:04:51.42,Default,,0,0,0,,Who cares about humans!
@@ -242,7 +245,7 @@ Dialogue: 0,0:13:35.63,0:13:37.72,Default,,0,0,0,,The Queen's messenger must be 
 Dialogue: 0,0:13:51.69,0:13:53.53,Default,,0,0,0,,I'm counting on you, Fake Sapphire!
 Dialogue: 0,0:13:54.18,0:13:56.80,Default,,0,0,0,,That Nylon thinks I'm a fake!
 Dialogue: 0,0:14:16.03,0:14:17.72,Default,,0,0,0,,You can drop the mask now!
-Dialogue: 0,0:14:19.66,0:14:21.12,Default,,0,0,0,,Lady Freeze very will be pleased!
+Dialogue: 0,0:14:19.66,0:14:21.12,Default,,0,0,0,,Madame Freeze very will be pleased!
 Dialogue: 0,0:14:21.56,0:14:23.54,Default,,0,0,0,,That fake princess puts on quite an act!
 Dialogue: 0,0:14:24.02,0:14:24.70,Default,,0,0,0,,But still!
 Dialogue: 0,0:14:24.79,0:14:25.80,Default,,0,0,0,,Then it's just the two of us!
@@ -253,11 +256,11 @@ Dialogue: 0,0:14:33.08,0:14:33.54,Default,,0,0,0,,Hey!
 Dialogue: 0,0:14:33.68,0:14:34.68,Default,,0,0,0,,Why are you staying quiet?!
 Dialogue: 0,0:14:34.72,0:14:35.72,Default,,0,0,0,,You miserable fool!
 Dialogue: 0,0:14:37.63,0:14:38.79,Default,,0,0,0,,She has her eyes on me!
-Dialogue: 0,0:14:38.96,0:14:42.16,Default,,0,0,0,,If I talk like I usually do, Lady Freeze will chew me out!
+Dialogue: 0,0:14:38.96,0:14:42.16,Default,,0,0,0,,If I talk like I usually do, Madame Freeze will chew me out!
 Dialogue: 0,0:14:42.65,0:14:44.82,Default,,0,0,0,,So I'm not talking to you!
 Dialogue: 0,0:14:44.93,0:14:45.68,Default,,0,0,0,,Do you understand?
 Dialogue: 0,0:14:45.78,0:14:46.38,Default,,0,0,0,,I get it!
-Dialogue: 0,0:14:46.64,0:14:48.60,Default,,0,0,0,,Because Lady Freeze is terrifying!
+Dialogue: 0,0:14:46.64,0:14:48.60,Default,,0,0,0,,Because Madame Freeze is terrifying!
 Dialogue: 0,0:15:16.84,0:15:17.84,Default,,0,0,0,,He's back!
 Dialogue: 0,0:15:30.22,0:15:31.94,Default,,0,0,0,,We're almost at Coolland Castle.
 Dialogue: 0,0:15:32.51,0:15:34.20,Default,,0,0,0,,Whether we can make it out alive...

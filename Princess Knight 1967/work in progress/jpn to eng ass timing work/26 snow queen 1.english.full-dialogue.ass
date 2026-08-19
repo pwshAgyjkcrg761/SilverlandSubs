@@ -10,24 +10,27 @@ PlayResX: 714
 PlayResY: 572
 
 [Aegisub Project Garbage]
-Audio File: 26 queen icicle 1.mkv
-Video File: 26 queen icicle 1.mkv
+Last Style Storage: Default
+Audio File: ../26 queen icicle 1.mkv
+Video File: ../26 queen icicle 1.mkv
 Video AR Mode: 4
 Video AR Value: 1.314554
-Scroll Position: 317
-Active Line: 324
-Video Position: 950
+Video Zoom Percent: 0.500000
+Active Line: 3
+Video Position: 30
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Verdana,39.7,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,19,19,20,1
 Style: Karaoke,Verdana,39.7,&H00FF00FF,&H00FF0000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,19,19,20,1
 Style: OPED_Translation,Verdana,39.7,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,19,19,20,1
+Style: Mephisto Spells,Verdana,39.7,&H000011D0,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,19,19,20,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:38.00,0:00:41.00,OPED_Translation,,0,0,0,template line,{\fad(300,300)\blur1}
 Comment: 0,0:00:41.00,0:00:44.00,Karaoke,,0,0,0,template syl,{\pos($x,$y)\1c!line.styleref.color2!\t($start,$mid,\fscx150\fscy150\1c&H00D7FF&)\t($mid,$end,\fscx100\fscy100\1c!line.styleref.color1!)}
+Comment: 0,0:00:41.00,0:00:44.00,Mephisto Spells,,0,0,0,template line,{\fscx90\fscy90\blur2\t(0,300,\fscx105\fscy105\blur6)}
 Dialogue: 0,0:00:01.18,0:00:09.22,Default,,0,0,0,,The Princess Sapphire\NKnight of the Ribbon
 Dialogue: 0,0:00:44.00,0:00:50.16,Karaoke,,0,0,0,,{\k72}{\k14}A{\k32}ta{\k40}shi {\k48}no {\k35}mi{\k52}ru {\k45}yu{\k34}me{\k30} {\k41}hi{\k44}mi{\k43}tsu {\k27}na{\k39}no{\k20}
 Dialogue: 0,0:00:44.00,0:00:50.16,OPED_Translation,,0,0,0,,The dreams I see are my secret
@@ -231,13 +234,13 @@ Dialogue: 0,0:14:45.19,0:14:47.28,Default,,0,0,0,,...and you take over Silverlan
 Dialogue: 0,0:15:04.68,0:15:06.50,Default,,0,0,0,,I wonder how Sapphire is doing right now.
 Dialogue: 0,0:15:06.73,0:15:07.58,Default,,0,0,0,,Is she going to be okay?
 Dialogue: 0,0:15:07.67,0:15:10.72,Default,,0,0,0,,Don't worry. I'm sure she's fast asleep by now.
-Dialogue: 0,0:15:10.98,0:15:12.63,Default,,0,0,0,,Zuborosha!
+Dialogue: 0,0:15:10.98,0:15:12.63,Mephisto Spells,,0,0,0,,Zuborosha!
 Dialogue: 0,0:15:39.70,0:15:41.62,Default,,0,0,0,,What's with this whirlwind?
 Dialogue: 0,0:16:09.80,0:16:11.20,Default,,0,0,0,,Who are you?
 Dialogue: 0,0:16:11.99,0:16:12.99,Default,,0,0,0,,Cut it out!
 Dialogue: 0,0:16:13.22,0:16:14.72,Default,,0,0,0,,You stand no chance against me!
 Dialogue: 0,0:16:15.62,0:16:16.62,Default,,0,0,0,,Curse you!
-Dialogue: 0,0:16:17.30,0:16:18.34,Default,,0,0,0,,Zuborosha!
+Dialogue: 0,0:16:17.30,0:16:18.34,Mephisto Spells,,0,0,0,,Zuborosha!
 Dialogue: 0,0:16:20.62,0:16:24.28,Default,,0,0,0,,What are you doing with that... Wait, what's this?
 Dialogue: 0,0:16:26.67,0:16:27.67,Default,,0,0,0,,I told you so!
 Dialogue: 0,0:16:28.06,0:16:29.68,Default,,0,0,0,,Now stay quiet in there!

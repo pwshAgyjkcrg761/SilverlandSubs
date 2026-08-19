@@ -16,20 +16,28 @@ Video File: ../02 the daughter of satan.mkv
 Video AR Mode: 4
 Video AR Value: 1.314554
 Video Zoom Percent: 0.500000
-Scroll Position: 382
-Active Line: 388
-Video Position: 36379
+Scroll Position: 325
+Active Line: 335
+Video Position: 29387
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Verdana,39.7,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,19,19,20,1
 Style: Karaoke,Verdana,39.7,&H00FF00FF,&H00FF0000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,19,19,20,1
 Style: OPED_Translation,Verdana,39.7,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,19,19,20,1
+Style: Mephisto Spells,Verdana,39.7,&H000011D0,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,19,19,20,1
+Style: Mephisto Spells Translation,Verdana,39.7,&H000011D0,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,19,19,20,1
+Style: Hecate Spells,Verdana,39.7,&H0000E6FF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,19,19,20,1
+Style: Hecate Spells Translation,Verdana,39.7,&H0000E6FF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,19,19,20,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:38.00,0:00:41.00,OPED_Translation,,0,0,0,template line,{\fad(300,300)\blur1}
 Comment: 0,0:00:41.00,0:00:44.00,Karaoke,,0,0,0,template syl,{\pos($x,$y)\1c!line.styleref.color2!\t($start,$mid,\fscx150\fscy150\1c&H00D7FF&)\t($mid,$end,\fscx100\fscy100\1c!line.styleref.color1!)}
+Comment: 0,0:00:41.00,0:00:44.00,Mephisto Spells,,0,0,0,template line,{\fscx90\fscy90\blur2\t(0,300,\fscx105\fscy105\blur6)}
+Comment: 0,0:00:41.00,0:00:44.00,Hecate Spells,,0,0,0,template line,{\fscx85\fscy85\blur1\t(0,150,\fscx110\fscy110\blur5)\t(150,300,\fscx100\fscy100\blur3)}
+Comment: 0,0:00:41.00,0:00:44.00,Mephisto Spells Translation,,0,0,0,template line,{\fscx90\fscy90\blur2\t(0,300,\fscx105\fscy105\blur6)}
+Comment: 0,0:00:41.00,0:00:44.00,Hecate Spells Translation,,0,0,0,template line,{\fscx85\fscy85\blur1\t(0,150,\fscx110\fscy110\blur5)\t(150,300,\fscx100\fscy100\blur3)}
 Dialogue: 0,0:00:01.18,0:00:09.22,Default,,0,0,0,,The Princess Sapphire\NKnight of the Ribbon
 Dialogue: 0,0:00:44.00,0:00:50.16,Karaoke,,0,0,0,,{\k72}{\k14}A{\k32}ta{\k40}shi {\k48}no {\k35}mi{\k52}ru {\k45}yu{\k34}me{\k30} {\k41}hi{\k44}mi{\k43}tsu {\k27}na{\k39}no{\k20}
 Dialogue: 0,0:00:44.00,0:00:50.16,OPED_Translation,,0,0,0,,The dreams I see are my secret
@@ -128,9 +136,12 @@ Dialogue: 0,0:05:54.49,0:05:56.42,Default,,0,0,0,,due to a mistake in Heaven, a 
 Dialogue: 0,0:05:56.44,0:05:58.88,Default,,0,0,0,,a girl yet possessing the heart of a boy!
 Dialogue: 0,0:05:58.94,0:06:01.05,Default,,0,0,0,,Oh, poor thing...
 Dialogue: 0,0:06:01.08,0:06:06.12,Default,,0,0,0,,If we extract the boy's heart from that girl and put it into you, you will become a splendid witch!
-Dialogue: 0,0:06:06.76,0:06:07.94,Default,,0,0,0,,Vastness of Hell!
-Dialogue: 0,0:06:08.34,0:06:10.60,Default,,0,0,0,,Celebrate my daughter Hecate!
-Dialogue: 0,0:06:15.98,0:06:19.70,Default,,0,0,0,,O Wind, O Thunder, sing the song of thunder!
+Dialogue: 0,0:06:06.76,0:06:07.94,Mephisto Spells,,0,0,0,,Jigoku no kodaiyo!
+Dialogue: 0,0:06:06.76,0:06:07.94,Mephisto Spells Translation,,0,0,0,,Vastness of Hell!
+Dialogue: 0,0:06:08.34,0:06:10.60,Mephisto Spells,,0,0,0,,Washi no musume Heketo o iwattekure!
+Dialogue: 0,0:06:08.34,0:06:10.60,Mephisto Spells Translation,,0,0,0,,Celebrate my daughter Hecate!
+Dialogue: 0,0:06:15.98,0:06:19.70,Mephisto Spells,,0,0,0,,Kaze yo, Inazuma yo, mai no uta wo utae!
+Dialogue: 0,0:06:15.98,0:06:19.70,Mephisto Spells Translation,,0,0,0,,O Wind, O Lightning, sing the song of dance!
 Dialogue: 0,0:06:25.22,0:06:27.48,Default,,0,0,0,,Ah, Hecate, you too... Huh?
 Dialogue: 0,0:06:28.13,0:06:29.54,Default,,0,0,0,,Hecate, where are you?
 Dialogue: 0,0:06:41.32,0:06:42.76,Default,,0,0,0,,Papa is being so selfish.
@@ -138,16 +149,20 @@ Dialogue: 0,0:06:43.22,0:06:44.92,Default,,0,0,0,,I'm fine just the way I am, th
 Dialogue: 0,0:06:45.21,0:06:46.21,Default,,0,0,0,,Hey, little bird?
 Dialogue: 0,0:06:47.94,0:06:50.60,Default,,0,0,0,,Hecate, what is the Demon King's daughter doing acting like that?
 Dialogue: 0,0:06:51.02,0:06:53.56,Default,,0,0,0,,Turn a flower like that into something hideous!
-Dialogue: 0,0:06:54.58,0:06:55.58,Default,,0,0,0,,Safin!
+Dialogue: 0,0:06:54.58,0:06:55.58,Hecate Spells,,0,0,0,,Safin!
+Dialogue: 0,0:06:54.58,0:06:55.58,Hecate Spells Translation,,0,0,0,,Surfing!
 Dialogue: 0,0:06:56.89,0:06:59.06,Default,,0,0,0,,Who turns it into their Papa's face?!
 Dialogue: 0,0:06:59.48,0:07:01.02,Default,,0,0,0,,Come on, try summoning a storm!
-Dialogue: 0,0:07:01.02,0:07:02.24,Default,,0,0,0,,Lightning!
-Dialogue: 0,0:07:04.96,0:07:05.96,Default,,0,0,0,,Wind!
-Dialogue: 0,0:07:08.01,0:07:09.01,Default,,0,0,0,,Water!
+Dialogue: 0,0:07:01.02,0:07:02.24,Hecate Spells,,0,0,0,,Inazuma yo!
+Dialogue: 0,0:07:01.02,0:07:02.24,Hecate Spells Translation,,0,0,0,,O Lightning!
+Dialogue: 0,0:07:04.96,0:07:05.96,Hecate Spells,,0,0,0,,Kaze yo!
+Dialogue: 0,0:07:04.96,0:07:05.96,Hecate Spells Translation,,0,0,0,,O Wind!
+Dialogue: 0,0:07:08.01,0:07:09.01,Hecate Spells,,0,0,0,,Mizu yo!
+Dialogue: 0,0:07:08.01,0:07:09.01,Hecate Spells Translation,,0,0,0,,O Water!
 Dialogue: 0,0:07:11.44,0:07:14.74,Default,,0,0,0,,I can't do it like Papa... There's no need to cry, Hecate.
 Dialogue: 0,0:07:15.10,0:07:16.66,Default,,0,0,0,,You'll become a great witch soon, too.
 Dialogue: 0,0:07:16.98,0:07:19.20,Default,,0,0,0,,Then you can even get into the Magic Academy.
-Dialogue: 0,0:07:19.69,0:07:20.76,Default,,0,0,0,,Eraisha!
+Dialogue: 0,0:07:19.69,0:07:20.76,Mephisto Spells,,0,0,0,,Eraisha!
 Dialogue: 0,0:07:40.35,0:07:41.56,Default,,0,0,0,,Who splashed water on me?
 Dialogue: 0,0:07:42.62,0:07:43.62,Default,,0,0,0,,Was it you guys?
 Dialogue: 0,0:07:44.22,0:07:46.46,Default,,0,0,0,,Must be nice, you guys can fly through the sky.
@@ -208,11 +223,11 @@ Dialogue: 0,0:10:40.24,0:10:40.82,Default,,0,0,0,,Why don't we just...?
 Dialogue: 0,0:10:40.96,0:10:41.96,Default,,0,0,0,,Why don't we just...?
 Dialogue: 0,0:10:42.32,0:10:43.75,Default,,0,0,0,,Have him taken care of...
 Dialogue: 0,0:10:43.77,0:10:45.66,Default,,0,0,0,,He's an assassin, after all...
-Dialogue: 0,0:10:45.68,0:10:46.90,Default,,0,0,0,,Absolutely not!
-Dialogue: 0,0:10:47.07,0:10:48.68,Default,,0,0,0,,I won't let anyone touch Sapphire!
+Dialogue: 0,0:10:45.68,0:10:46.90,Default,,0,0,0,,{\i1}Absolutely not!
+Dialogue: 0,0:10:47.07,0:10:48.68,Default,,0,0,0,,{\i1}I won't let anyone touch Sapphire!
 Dialogue: 0,0:10:49.08,0:10:49.76,Default,,0,0,0,,W-Who's there?!
-Dialogue: 0,0:10:49.97,0:10:51.30,Default,,0,0,0,,Sapphire is mine!
-Dialogue: 0,0:10:52.06,0:10:53.72,Default,,0,0,0,,I won't let you have your way!
+Dialogue: 0,0:10:49.97,0:10:51.30,Default,,0,0,0,,{\i1}Sapphire is mine!
+Dialogue: 0,0:10:52.06,0:10:53.72,Default,,0,0,0,,{\i1}I won't let you have your way!
 Dialogue: 0,0:10:54.24,0:10:54.72,Default,,0,0,0,,Who is it?!
 Dialogue: 0,0:10:54.92,0:10:55.92,Default,,0,0,0,,Come out!
 Dialogue: 0,0:11:03.35,0:11:04.92,Default,,0,0,0,,There you are, you monster!
@@ -225,13 +240,13 @@ Dialogue: 0,0:11:14.26,0:11:16.82,Default,,0,0,0,,my daughter Hecate can become 
 Dialogue: 0,0:11:17.36,0:11:19.22,Default,,0,0,0,,Huh, you can really do that?
 Dialogue: 0,0:11:19.73,0:11:20.90,Default,,0,0,0,,I am the Demon King!
 Dialogue: 0,0:11:21.42,0:11:22.42,Default,,0,0,0,,I can do anything!
-Dialogue: 0,0:11:23.52,0:11:24.62,Default,,0,0,0,,Aborexsi!
+Dialogue: 0,0:11:23.52,0:11:24.62,Mephisto Spells,,0,0,0,,Aborexsi!
 Dialogue: 0,0:11:28.85,0:11:30.94,Default,,0,0,0,,What's this? Just a cheap parlor trick...
 Dialogue: 0,0:11:31.39,0:11:32.48,Default,,0,0,0,,Did you say it was foolish?
 Dialogue: 0,0:11:33.04,0:11:34.46,Default,,0,0,0,,All right, how about this!
 Dialogue: 0,0:11:37.15,0:11:40.71,Default,,0,0,0,,All right! H-Help... I-I get it...
 Dialogue: 0,0:11:40.74,0:11:42.14,Default,,0,0,0,,Not yet!
-Dialogue: 0,0:11:42.48,0:11:44.23,Default,,0,0,0,,Atarapusa!
+Dialogue: 0,0:11:42.48,0:11:44.23,Mephisto Spells,,0,0,0,,Atarapusa!
 Dialogue: 0,0:11:54.05,0:11:56.18,Default,,0,0,0,,Well, do you understand my power now?
 Dialogue: 0,0:11:56.32,0:11:56.82,Default,,0,0,0,,I understand!
 Dialogue: 0,0:11:57.16,0:11:59.92,Default,,0,0,0,,So, what happens to Sapphire if her boy's heart is taken?
@@ -301,8 +316,8 @@ Dialogue: 0,0:15:15.22,0:15:17.30,Default,,0,0,0,,Even you're getting in the way
 Dialogue: 0,0:15:18.32,0:15:19.02,Default,,0,0,0,,Don't come near me!
 Dialogue: 0,0:15:19.30,0:15:20.30,Default,,0,0,0,,Go throw him away far, far away!
 Dialogue: 0,0:15:23.84,0:15:26.06,Default,,0,0,0,,Well then, before we get interrupted again...
-Dialogue: 0,0:15:29.16,0:15:33.08,Default,,0,0,0,,Oja, Hasha, Boinox Natsumora!
-Dialogue: 0,0:15:33.78,0:15:36.90,Default,,0,0,0,,Griffoirano Fai-yaa!
+Dialogue: 0,0:15:29.16,0:15:33.08,Mephisto Spells,,0,0,0,,Oja, Hasha, Boinox Natsumora!
+Dialogue: 0,0:15:33.78,0:15:36.90,Mephisto Spells,,0,0,0,,Griffoirano Fai-yaa!
 Dialogue: 0,0:15:39.08,0:15:41.28,Default,,0,0,0,,Fly all the way to my lair!
 Dialogue: 0,0:15:44.41,0:15:45.80,Default,,0,0,0,,Thanks for your help.
 Dialogue: 0,0:15:45.95,0:15:46.95,Default,,0,0,0,,Not at all.
@@ -315,16 +330,16 @@ Dialogue: 0,0:16:19.58,0:16:20.69,Default,,0,0,0,,Someone nasty has arrived!
 Dialogue: 0,0:16:21.56,0:16:22.78,Default,,0,0,0,,Wh-What are you doing?!
 Dialogue: 0,0:16:23.29,0:16:24.29,Default,,0,0,0,,Darn it!
 Dialogue: 0,0:16:31.44,0:16:33.51,Default,,0,0,0,,Nasty bird!
-Dialogue: 0,0:16:38.74,0:16:43.53,Default,,0,0,0,,Decorasha, Tatarabosha, Natsumora!
-Dialogue: 0,0:16:43.90,0:16:47.22,Default,,0,0,0,,Amarasha, Oirus Trisshara!
-Dialogue: 0,0:16:47.70,0:16:50.02,Default,,0,0,0,,Gakurogrishara!
-Dialogue: 0,0:16:50.72,0:16:53.28,Default,,0,0,0,,Amaresha, Oirus Trisshara!
-Dialogue: 0,0:16:53.50,0:16:55.56,Default,,0,0,0,,Urashoirusha!
+Dialogue: 0,0:16:38.74,0:16:43.53,Mephisto Spells,,0,0,0,,Decorasha, Tatarabosha, Natsumora!
+Dialogue: 0,0:16:43.90,0:16:47.22,Mephisto Spells,,0,0,0,,Amarasha, Oirus Trisshara!
+Dialogue: 0,0:16:47.70,0:16:50.02,Mephisto Spells,,0,0,0,,Gakurogrishara!
+Dialogue: 0,0:16:50.72,0:16:53.28,Mephisto Spells,,0,0,0,,Amaresha, Oirus Trisshara!
+Dialogue: 0,0:16:53.50,0:16:55.56,Mephisto Spells,,0,0,0,,Urashoirusha!
 Dialogue: 0,0:17:03.34,0:17:04.36,Default,,0,0,0,,It's done!
 Dialogue: 0,0:17:04.60,0:17:06.70,Default,,0,0,0,,Now, Hecate, get back on that pedestal!
 Dialogue: 0,0:17:08.67,0:17:12.34,Default,,0,0,0,,Hecate, now you can become a fine witch too!
-Dialogue: 0,0:17:14.96,0:17:21.34,Default,,0,0,0,,Urarasha, Namoide, Amarasha, Oirus Trisshara!
-Dialogue: 0,0:17:27.29,0:17:29.29,Default,,0,0,0,,Mauling Faline!
+Dialogue: 0,0:17:14.96,0:17:21.34,Mephisto Spells,,0,0,0,,Urarasha, Namoide, Amarasha, Oirus Trisshara!
+Dialogue: 0,0:17:27.29,0:17:29.29,Mephisto Spells,,0,0,0,,Mauling Faline!
 Dialogue: 0,0:17:30.92,0:17:31.92,Default,,0,0,0,,Go away!
 Dialogue: 0,0:17:34.27,0:17:35.27,Default,,0,0,0,,Go away!
 Dialogue: 0,0:17:38.92,0:17:39.92,Default,,0,0,0,,You little...!
@@ -346,10 +361,13 @@ Dialogue: 0,0:18:52.94,0:18:53.24,Default,,0,0,0,,Right!
 Dialogue: 0,0:18:53.77,0:18:56.68,Default,,0,0,0,,Well, we can't go any further than this, so good luck out there!
 Dialogue: 0,0:18:56.70,0:18:57.04,Default,,0,0,0,,Good luck!
 Dialogue: 0,0:18:57.30,0:18:58.30,Default,,0,0,0,,Thanks!
-Dialogue: 0,0:19:18.17,0:19:25.37,Default,,0,0,0,,Uran-Bakin-Supanka, Amarasha, Dura-Dura, Amonamishara!
-Dialogue: 0,0:19:31.62,0:19:33.12,Default,,0,0,0,,Great Demon King!
-Dialogue: 0,0:19:33.42,0:19:34.84,Default,,0,0,0,,Grandeur of Hell!
-Dialogue: 0,0:19:35.46,0:19:40.00,Default,,0,0,0,,Now is the time, forgive me for using this method to change Hecate's heart!
+Dialogue: 0,0:19:18.17,0:19:25.37,Mephisto Spells,,0,0,0,,Uran-Bakin-Supanka, Amarasha, Dura-Dura, Amonamishara!
+Dialogue: 0,0:19:31.62,0:19:33.12,Mephisto Spells,,0,0,0,,Daimao no sekaiyo!
+Dialogue: 0,0:19:31.62,0:19:33.12,Mephisto Spells Translation,,0,0,0,,World of the Great Demon King!
+Dialogue: 0,0:19:33.42,0:19:34.84,Mephisto Spells,,0,0,0,,Jigoku no kyodaiyo!
+Dialogue: 0,0:19:33.42,0:19:34.84,Mephisto Spells Translation,,0,0,0,,Brothers of Hell!
+Dialogue: 0,0:19:35.46,0:19:40.00,Mephisto Spells,,0,0,0,,Ima koso wa, kono Hekato no kokoro wo kaeru koto wo omese shiae!
+Dialogue: 0,0:19:35.46,0:19:40.00,Mephisto Spells Translation,,0,0,0,,Now, behold as I change Hecate's heart!
 Dialogue: 0,0:19:43.12,0:19:44.12,Default,,0,0,0,,Sapphire!
 Dialogue: 0,0:19:44.52,0:19:45.52,Default,,0,0,0,,Angel!
 Dialogue: 0,0:19:45.56,0:19:47.06,Default,,0,0,0,,Great Spirit!
@@ -359,14 +377,14 @@ Dialogue: 0,0:19:55.20,0:19:56.20,Default,,0,0,0,,Finish them off!
 Dialogue: 0,0:20:02.72,0:20:03.72,Default,,0,0,0,,There is is!
 Dialogue: 0,0:20:13.72,0:20:14.28,Default,,0,0,0,,Hecate!
 Dialogue: 0,0:20:14.58,0:20:15.58,Default,,0,0,0,,Do something!
-Dialogue: 0,0:20:15.60,0:20:17.60,Default,,0,0,0,,Yakussak!
+Dialogue: 0,0:20:15.60,0:20:17.60,Hecate Spells,,0,0,0,,Yakussak!
 Dialogue: 0,0:20:23.08,0:20:24.08,Default,,0,0,0,,Hecate!
 Dialogue: 0,0:20:24.28,0:20:25.56,Default,,0,0,0,,You failed, didn't you!
 Dialogue: 0,0:20:29.44,0:20:30.44,Default,,0,0,0,,Don't come near me!
 Dialogue: 0,0:20:30.62,0:20:31.84,Default,,0,0,0,,Hecate, this is your fault!
 Dialogue: 0,0:20:32.16,0:20:33.50,Default,,0,0,0,,Do something about that pipsqueak!
-Dialogue: 0,0:20:45.11,0:20:47.21,Default,,0,0,0,,Pepei Jankuman!
-Dialogue: 0,0:20:54.92,0:20:55.94,Default,,0,0,0,,Samanya!
+Dialogue: 0,0:20:45.11,0:20:47.21,Hecate Spells,,0,0,0,,Pepei Jankuman!
+Dialogue: 0,0:20:54.92,0:20:55.94,Hecate Spells,,0,0,0,,Samanya!
 Dialogue: 0,0:21:02.00,0:21:03.36,Default,,0,0,0,,Give me that!
 Dialogue: 0,0:21:03.50,0:21:04.50,Default,,0,0,0,,Heave-ho!
 Dialogue: 0,0:21:04.78,0:21:05.84,Default,,0,0,0,,Heave-ho!
@@ -379,12 +397,12 @@ Dialogue: 0,0:21:28.66,0:21:29.66,Default,,0,0,0,,Sapphire!
 Dialogue: 0,0:21:33.38,0:21:35.50,Default,,0,0,0,,Tink... yeah, it's Tink!
 Dialogue: 0,0:21:36.02,0:21:37.02,Default,,0,0,0,,Where on earth are we?
 Dialogue: 0,0:21:37.30,0:21:38.68,Default,,0,0,0,,Alright, I'll teach you a lesson!
-Dialogue: 0,0:21:38.68,0:21:39.68,Default,,0,0,0,,Zuborasha!
+Dialogue: 0,0:21:38.68,0:21:39.68,Mephisto Spells,,0,0,0,,Zuborasha!
 Dialogue: 0,0:21:41.86,0:21:42.22,Default,,0,0,0,,Ah!
 Dialogue: 0,0:21:42.85,0:21:43.85,Default,,0,0,0,,You're a demon, aren't you!
 Dialogue: 0,0:21:43.98,0:21:44.98,Default,,0,0,0,,I won't lose this time!
 Dialogue: 0,0:21:45.00,0:21:46.82,Default,,0,0,0,,It's not over yet!\NSapphire!
-Dialogue: 0,0:21:52.41,0:21:53.41,Default,,0,0,0,,Amarasha
+Dialogue: 0,0:21:52.41,0:21:53.41,Mephisto Spells,,0,0,0,,Amarasha
 Dialogue: 0,0:21:56.43,0:22:00.53,Default,,0,0,0,,You horrifying monster that's grown huge!
 Dialogue: 0,0:22:07.25,0:22:08.65,Default,,0,0,0,,Watch out!
 Dialogue: 0,0:22:10.24,0:22:11.24,Default,,0,0,0,,It's a monster!

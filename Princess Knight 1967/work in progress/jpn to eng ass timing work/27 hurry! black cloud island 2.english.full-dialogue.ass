@@ -10,24 +10,27 @@ PlayResX: 700
 PlayResY: 568
 
 [Aegisub Project Garbage]
-Audio File: 27 queen icicle 2.mkv
-Video File: 27 queen icicle 2.mkv
+Last Style Storage: Default
+Audio File: ../27 queen icicle 2.mkv
+Video File: ../27 queen icicle 2.mkv
 Video AR Mode: 4
 Video AR Value: 1.314554
-Scroll Position: 355
-Active Line: 365
-Video Position: 950
+Video Zoom Percent: 0.500000
+Active Line: 2
+Video Position: 1025
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Verdana,39.7,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,19,19,20,1
 Style: Karaoke,Verdana,39.7,&H00FF00FF,&H00FF0000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,19,19,20,1
 Style: OPED_Translation,Verdana,39.7,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,19,19,20,1
+Style: Hecate Spells,Verdana,39.7,&H0000E6FF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,19,19,20,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:38.00,0:00:41.00,OPED_Translation,,0,0,0,template line,{\fad(300,300)\blur1}
 Comment: 0,0:00:41.00,0:00:44.00,Karaoke,,0,0,0,template syl,{\pos($x,$y)\1c!line.styleref.color2!\t($start,$mid,\fscx150\fscy150\1c&H00D7FF&)\t($mid,$end,\fscx100\fscy100\1c!line.styleref.color1!)}
+Comment: 0,0:00:41.00,0:00:44.00,Hecate Spells,,0,0,0,template line,{\fscx85\fscy85\blur1\t(0,150,\fscx110\fscy110\blur5)\t(150,300,\fscx100\fscy100\blur3)}
 Dialogue: 0,0:00:01.18,0:00:09.22,Default,,0,0,0,,The Princess Sapphire\NKnight of the Ribbon
 Dialogue: 0,0:00:44.00,0:00:50.16,Karaoke,,0,0,0,,{\k72}{\k14}A{\k32}ta{\k40}shi {\k48}no {\k35}mi{\k52}ru {\k45}yu{\k34}me{\k30} {\k41}hi{\k44}mi{\k43}tsu {\k27}na{\k39}no{\k20}
 Dialogue: 0,0:00:44.00,0:00:50.16,OPED_Translation,,0,0,0,,The dreams I see are my secret
@@ -102,7 +105,7 @@ Dialogue: 0,0:05:35.73,0:05:38.14,Default,,0,0,0,,If only I could see...
 Dialogue: 0,0:05:39.23,0:05:40.66,Default,,0,0,0,,But there's no time.
 Dialogue: 0,0:05:41.15,0:05:42.68,Default,,0,0,0,,Mephisto will be back soon.
 Dialogue: 0,0:05:43.17,0:05:44.58,Default,,0,0,0,,Hecate, where are you?
-Dialogue: 0,0:05:45.26,0:05:46.39,Default,,0,0,0,,Zubarasha!
+Dialogue: 0,0:05:45.26,0:05:46.39,Hecate Spells,,0,0,0,,Zubarasha!
 Dialogue: 0,0:05:51.30,0:05:53.10,Default,,0,0,0,,Hecate, come over here!
 Dialogue: 0,0:05:53.69,0:05:54.72,Default,,0,0,0,,Answer me!
 Dialogue: 0,0:05:55.25,0:05:56.25,Default,,0,0,0,,Hecate, where are you?

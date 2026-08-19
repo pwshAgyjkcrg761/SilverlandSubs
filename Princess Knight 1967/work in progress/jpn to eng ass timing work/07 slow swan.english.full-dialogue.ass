@@ -10,24 +10,34 @@ PlayResX: 714
 PlayResY: 572
 
 [Aegisub Project Garbage]
-Audio File: 07 the swan.mkv
-Video File: 07 the swan.mkv
+Last Style Storage: Default
+Audio File: ../07 the swan.mkv
+Video File: ../07 the swan.mkv
 Video AR Mode: 4
 Video AR Value: 1.314554
-Scroll Position: 358
-Active Line: 371
-Video Position: 950
+Video Zoom Percent: 0.500000
+Scroll Position: 306
+Active Line: 312
+Video Position: 31136
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Verdana,39.7,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,19,19,20,1
 Style: Karaoke,Verdana,39.7,&H00FF00FF,&H00FF0000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,19,19,20,1
 Style: OPED_Translation,Verdana,39.7,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,19,19,20,1
+Style: Mephisto Spells,Verdana,39.7,&H000011D0,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,19,19,20,1
+Style: Mephisto Spells Translation,Verdana,39.7,&H000011D0,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,19,19,20,1
+Style: Hecate Spells,Verdana,39.7,&H0000E6FF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,19,19,20,1
+Style: Hecate Spells Translation,Verdana,39.7,&H0000E6FF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,19,19,20,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:38.00,0:00:41.00,OPED_Translation,,0,0,0,template line,{\fad(300,300)\blur1}
 Comment: 0,0:00:41.00,0:00:44.00,Karaoke,,0,0,0,template syl,{\pos($x,$y)\1c!line.styleref.color2!\t($start,$mid,\fscx150\fscy150\1c&H00D7FF&)\t($mid,$end,\fscx100\fscy100\1c!line.styleref.color1!)}
+Comment: 0,0:00:41.00,0:00:44.00,Mephisto Spells,,0,0,0,template line,{\fscx90\fscy90\blur2\t(0,300,\fscx105\fscy105\blur6)}
+Comment: 0,0:00:41.00,0:00:44.00,Hecate Spells,,0,0,0,template line,{\fscx85\fscy85\blur1\t(0,150,\fscx110\fscy110\blur5)\t(150,300,\fscx100\fscy100\blur3)}
+Comment: 0,0:00:41.00,0:00:44.00,Mephisto Spells Translation,,0,0,0,template line,{\fscx90\fscy90\blur2\t(0,300,\fscx105\fscy105\blur6)}
+Comment: 0,0:00:41.00,0:00:44.00,Hecate Spells Translation,,0,0,0,template line,{\fscx85\fscy85\blur1\t(0,150,\fscx110\fscy110\blur5)\t(150,300,\fscx100\fscy100\blur3)}
 Dialogue: 0,0:00:01.18,0:00:09.22,Default,,0,0,0,,The Princess Sapphire\NKnight of the Ribbon
 Dialogue: 0,0:00:44.00,0:00:50.16,Karaoke,,0,0,0,,{\k72}{\k14}A{\k32}ta{\k40}shi {\k48}no {\k35}mi{\k52}ru {\k45}yu{\k34}me{\k30} {\k41}hi{\k44}mi{\k43}tsu {\k27}na{\k39}no{\k20}
 Dialogue: 0,0:00:44.00,0:00:50.16,OPED_Translation,,0,0,0,,The dreams I see are my secret
@@ -184,12 +194,12 @@ Dialogue: 0,0:10:29.39,0:10:30.39,Default,,0,0,0,,Yes I can!
 Dialogue: 0,0:10:30.56,0:10:32.34,Default,,0,0,0,,Because I have angel wings!
 Dialogue: 0,0:10:32.92,0:10:33.36,Default,,0,0,0,,Tink!
 Dialogue: 0,0:10:33.42,0:10:34.42,Default,,0,0,0,,Wait!
-Dialogue: 0,0:10:36.31,0:10:38.22,Default,,0,0,0,,Mary is dead.
+Dialogue: 0,0:10:36.31,0:10:38.22,Default,,0,0,0,,Mari is dead.
 Dialogue: 0,0:10:41.12,0:10:43.36,Default,,0,0,0,,She's already growing cold...
 Dialogue: 0,0:10:46.48,0:10:47.56,Default,,0,0,0,,No...
 Dialogue: 0,0:10:47.94,0:10:48.94,Default,,0,0,0,,Tink!
 Dialogue: 0,0:10:49.82,0:10:51.35,Default,,0,0,0,,There's still hope.
-Dialogue: 0,0:10:51.74,0:10:54.74,Default,,0,0,0,,The demon's magical orb absorbed Mary's heart.
+Dialogue: 0,0:10:51.74,0:10:54.74,Default,,0,0,0,,The demon's magical orb absorbed Mari's heart.
 Dialogue: 0,0:10:55.20,0:10:57.74,Default,,0,0,0,,We just need to expose that orb to the morning sun and destroy it.
 Dialogue: 0,0:10:58.26,0:10:58.92,Default,,0,0,0,,Let go of me!
 Dialogue: 0,0:10:59.28,0:11:00.49,Default,,0,0,0,,I'm going to get that orb!
@@ -246,7 +256,7 @@ Dialogue: 0,0:14:39.14,0:14:40.56,Default,,0,0,0,,If it's for my sweet girl.
 Dialogue: 0,0:14:41.72,0:14:42.72,Default,,0,0,0,,Papa...
 Dialogue: 0,0:15:03.14,0:15:06.58,Default,,0,0,0,,Was that fun, Hecate?
 Dialogue: 0,0:15:07.49,0:15:10.20,Default,,0,0,0,,Yes, it's been a while, so it was fun, Papa.
-Dialogue: 0,0:15:10.94,0:15:11.94,Default,,0,0,0,,Decoroasha!
+Dialogue: 0,0:15:10.94,0:15:11.94,Mephisto Spells,,0,0,0,,Decoroasha!
 Dialogue: 0,0:15:15.52,0:15:17.29,Default,,0,0,0,,It's something nice, open it up and see.
 Dialogue: 0,0:15:17.32,0:15:18.64,Default,,0,0,0,,I wonder what it could be...
 Dialogue: 0,0:15:21.91,0:15:24.30,Default,,0,0,0,,Happy Birthday to You!
@@ -259,17 +269,19 @@ Dialogue: 0,0:15:34.26,0:15:36.01,Default,,0,0,0,,That means 13 candles!
 Dialogue: 0,0:15:38.98,0:15:41.15,Default,,0,0,0,,Wow, that's wonderful, Papa.
 Dialogue: 0,0:15:41.52,0:15:43.53,Default,,0,0,0,,Come on, Hecate, blow out the candles.
 Dialogue: 0,0:15:45.14,0:15:48.52,Default,,0,0,0,,Whoa, hold on! Why don't you use magic to blow them out?
-Dialogue: 0,0:15:48.54,0:15:49.48,Default,,0,0,0,,Mattara!
+Dialogue: 0,0:15:48.54,0:15:49.48,Mephisto Spells,,0,0,0,,Mattara!
 Dialogue: 0,0:15:52.21,0:15:55.09,Default,,0,0,0,,If a gust of wind won't put it out, what's next?
-Dialogue: 0,0:15:55.60,0:15:56.74,Default,,0,0,0,,Allerugease!
+Dialogue: 0,0:15:55.60,0:15:56.74,Mephisto Spells,,0,0,0,,Allerugease!
 Dialogue: 0,0:15:57.20,0:15:59.06,Default,,0,0,0,,Low-flying birds, consume the fire!
 Dialogue: 0,0:16:01.85,0:16:03.24,Default,,0,0,0,,Hot hot hot hot hot!
 Dialogue: 0,0:16:03.26,0:16:04.26,Default,,0,0,0,,Ah, no good, no good.
 Dialogue: 0,0:16:04.41,0:16:05.50,Default,,0,0,0,,Any other way?
-Dialogue: 0,0:16:06.19,0:16:07.19,Default,,0,0,0,,Ame yo!\N- Rain!
+Dialogue: 0,0:16:06.19,0:16:07.19,Hecate Spells,,0,0,0,,Ame yo!
+Dialogue: 0,0:16:06.19,0:16:07.19,Hecate Spells Translation,,0,0,0,,O Rain!
 Dialogue: 0,0:16:08.72,0:16:09.34,Default,,0,0,0,,So close!
 Dialogue: 0,0:16:09.74,0:16:11.55,Default,,0,0,0,,Make it rain a bit harder!
-Dialogue: 0,0:16:11.67,0:16:12.94,Default,,0,0,0,,Oame yo!\N- Heavy rain!
+Dialogue: 0,0:16:11.67,0:16:12.94,Hecate Spells,,0,0,0,,Oame yo!
+Dialogue: 0,0:16:11.67,0:16:12.94,Hecate Spells Translation,,0,0,0,,O Heavy rain!
 Dialogue: 0,0:16:14.23,0:16:17.46,Default,,0,0,0,,Ah, no good. Our cake is going to get ruined!
 Dialogue: 0,0:16:18.03,0:16:19.32,Default,,0,0,0,,I'm hopeless, aren't I?
 Dialogue: 0,0:16:19.36,0:16:21.94,Default,,0,0,0,,No, you're getting warm.
@@ -331,7 +343,8 @@ Dialogue: 0,0:20:36.02,0:20:37.02,Default,,0,0,0,,Hecate!
 Dialogue: 0,0:20:39.12,0:20:40.90,Default,,0,0,0,,Hecate, where are you!
 Dialogue: 0,0:20:41.99,0:20:42.99,Default,,0,0,0,,Shh!
 Dialogue: 0,0:20:43.22,0:20:44.44,Default,,0,0,0,,Hide me, okay?
-Dialogue: 0,0:20:45.41,0:20:47.60,Default,,0,0,0,,Hakucho ni nare.\N- Become a swan.
+Dialogue: 0,0:20:45.41,0:20:47.60,Hecate Spells,,0,0,0,,Hakucho ni nare.
+Dialogue: 0,0:20:45.41,0:20:47.60,Hecate Spells Translation,,0,0,0,,Become a swan.
 Dialogue: 0,0:20:52.34,0:20:53.34,Default,,0,0,0,,Hecate!
 Dialogue: 0,0:20:53.44,0:20:54.44,Default,,0,0,0,,Where is Hecate!
 Dialogue: 0,0:20:55.20,0:20:56.20,Default,,0,0,0,,So you hid, did you.

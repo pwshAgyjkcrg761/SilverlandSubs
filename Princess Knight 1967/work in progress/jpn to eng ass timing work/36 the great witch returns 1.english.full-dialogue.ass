@@ -10,24 +10,37 @@ PlayResX: 700
 PlayResY: 568
 
 [Aegisub Project Garbage]
-Audio File: 36 the magic spell 1.mkv
-Video File: 36 the magic spell 1.mkv
+Last Style Storage: Default
+Audio File: ../36 the magic spell 1.mkv
+Video File: ../36 the magic spell 1.mkv
 Video AR Mode: 4
 Video AR Value: 1.314554
-Scroll Position: 314
-Active Line: 328
-Video Position: 950
+Video Zoom Percent: 0.500000
+Active Line: 2
+Video Position: 1025
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Verdana,39.7,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,19,19,20,1
 Style: Karaoke,Verdana,39.7,&H00FF00FF,&H00FF0000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,19,19,20,1
 Style: OPED_Translation,Verdana,39.7,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,19,19,20,1
+Style: Mephisto Spells,Verdana,39.7,&H000011D0,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,19,19,20,1
+Style: Mephisto Spells Translation,Verdana,39.7,&H000011D0,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,19,19,20,1
+Style: Hecate Spells,Verdana,39.7,&H0000E6FF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,19,19,20,1
+Style: Hecate Spells Translation,Verdana,39.7,&H0000E6FF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,19,19,20,1
+Style: Madame Hell Spells,Verdana,39.7,&H00800080,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,19,19,20,1
+Style: Madame Hell Spells Translation,Verdana,39.7,&H00800080,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,19,19,20,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:38.00,0:00:41.00,OPED_Translation,,0,0,0,template line,{\fad(300,300)\blur1}
 Comment: 0,0:00:41.00,0:00:44.00,Karaoke,,0,0,0,template syl,{\pos($x,$y)\1c!line.styleref.color2!\t($start,$mid,\fscx150\fscy150\1c&H00D7FF&)\t($mid,$end,\fscx100\fscy100\1c!line.styleref.color1!)}
+Comment: 0,0:00:41.00,0:00:44.00,Mephisto Spells,,0,0,0,template line,{\fscx90\fscy90\blur2\t(0,300,\fscx105\fscy105\blur6)}
+Comment: 0,0:00:41.00,0:00:44.00,Hecate Spells,,0,0,0,template line,{\fscx85\fscy85\blur1\t(0,150,\fscx110\fscy110\blur5)\t(150,300,\fscx100\fscy100\blur3)}
+Comment: 0,0:00:41.00,0:00:44.00,Madame Hell Spells,,0,0,0,template line,{\fscx95\fscy95\blur2\3c&H000000&\4c&H400040&\t(0,400,\fscx105\fscy105\blur6)}
+Comment: 0,0:00:41.00,0:00:44.00,Mephisto Spells Translation,,0,0,0,template line,{\fscx90\fscy90\blur2\t(0,300,\fscx105\fscy105\blur6)}
+Comment: 0,0:00:41.00,0:00:44.00,Hecate Spells Translation,,0,0,0,template line,{\fscx85\fscy85\blur1\t(0,150,\fscx110\fscy110\blur5)\t(150,300,\fscx100\fscy100\blur3)}
+Comment: 0,0:00:41.00,0:00:44.00,Madame Hell Spells Translation,,0,0,0,template line,{\fscx95\fscy95\blur2\3c&H000000&\4c&H400040&\t(0,400,\fscx105\fscy105\blur6)}
 Dialogue: 0,0:00:01.18,0:00:09.22,Default,,0,0,0,,The Princess Sapphire\NKnight of the Ribbon
 Dialogue: 0,0:00:44.00,0:00:50.16,Karaoke,,0,0,0,,{\k72}{\k14}A{\k32}ta{\k40}shi {\k48}no {\k35}mi{\k52}ru {\k45}yu{\k34}me{\k30} {\k41}hi{\k44}mi{\k43}tsu {\k27}na{\k39}no{\k20}
 Dialogue: 0,0:00:44.00,0:00:50.16,OPED_Translation,,0,0,0,,The dreams I see are my secret
@@ -69,7 +82,7 @@ Dialogue: 0,0:03:02.83,0:03:03.98,Default,,0,0,0,,What could that be?
 Dialogue: 0,0:03:05.17,0:03:07.10,Default,,0,0,0,,It's Mama! Mama's back!
 Dialogue: 0,0:03:07.60,0:03:11.33,Default,,0,0,0,,Mama? Did you say Mama? Mama's home?
 Dialogue: 0,0:03:18.68,0:03:23.66,Default,,0,0,0,,Home at last after a year. Hecate must surely be a fine witch by now.
-Dialogue: 0,0:03:23.98,0:03:26.00,Default,,0,0,0,,Zubarasha!
+Dialogue: 0,0:03:23.98,0:03:26.00,Madame Hell Spells,,0,0,0,,Zubarasha!
 Dialogue: 0,0:03:40.08,0:03:42.00,Default,,0,0,0,,Ah, I'm home!
 Dialogue: 0,0:03:42.08,0:03:44.14,Default,,0,0,0,,Welcome back, Mama.
 Dialogue: 0,0:03:45.68,0:03:47.38,Default,,0,0,0,,Mama!
@@ -327,12 +340,13 @@ Dialogue: 0,0:23:14.22,0:23:15.22,Default,,0,0,0,,What did you say?
 Dialogue: 0,0:23:16.00,0:23:19.04,Default,,0,0,0,,Hand Sapphire over and do as you're told, or you'll regret it!
 Dialogue: 0,0:23:19.21,0:23:21.45,Default,,0,0,0,,I'll never hand her over, even if you kill me! Here I come!
 Dialogue: 0,0:23:21.85,0:23:24.44,Default,,0,0,0,,Zubarasha!
-Dialogue: 0,0:23:24.96,0:23:26.76,Default,,0,0,0,,Sore, kaze yo!
+Dialogue: 0,0:23:24.96,0:23:26.76,Mephisto Spells,,0,0,0,,Sore, kaze yo!
+Dialogue: 0,0:23:24.96,0:23:26.76,Mephisto Spells Translation,,0,0,0,,Now, Wind!
 Dialogue: 0,0:23:38.36,0:23:39.82,Default,,0,0,0,,Is Sapphire in there?
 Dialogue: 0,0:23:40.15,0:23:42.72,Default,,0,0,0,,I will never give Sapphire to you!
 Dialogue: 0,0:23:43.78,0:23:44.87,Default,,0,0,0,,It's a chapel!
 Dialogue: 0,0:23:45.03,0:23:46.42,Default,,0,0,0,,How pathetic!
-Dialogue: 0,0:23:47.27,0:23:49.89,Default,,0,0,0,,Zubarasha!
+Dialogue: 0,0:23:47.27,0:23:49.89,Madame Hell Spells,,0,0,0,,Zubarasha!
 Dialogue: 0,0:23:56.10,0:23:56.80,Default,,0,0,0,,Water!
 Dialogue: 0,0:23:59.15,0:23:59.64,Default,,0,0,0,,Water!
 Dialogue: 0,0:23:59.72,0:24:00.72,Default,,0,0,0,,You've come to.
