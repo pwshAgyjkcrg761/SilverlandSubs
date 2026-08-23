@@ -612,6 +612,8 @@ Fun facts:
 BOLD
 - Don't use because most players don't show it.
 
+Use Italics or Quotes NOT both.
+
 ITALICS
 - Disembodied / Off-screen voices (including when characters talk off-screen)
 - Inner thoughts / Mind reading
@@ -630,6 +632,16 @@ QUOTATION MARKS
 NORMAL TEXT
 - All standard on-screen spoken dialogue
 
+
+Periods and commas always go inside the "".
+example: <i>Now, please sit back and enjoy today's episode: "The Iron Lion."</i>
+noticed this at episode 28 need to check previous episodes for this.
+
+Question marks and exclamation points are logic based.
+example: Did you say "brother"?
+
+In Japanese sentence it is Father and Mother instead of Mother and Father.
+Noticed this in episode 28 need to check previous episodes for this.
 
 Error Checking Pass
 
@@ -810,7 +822,7 @@ SANDMAN SPELLS 14:30 some spells here that i could time for ass file.
 
 
 Episode 12 might need to run whisper again.
-make sure Gypsy is capitolized.
+make sure Gypsy is capitalized.
 
 00:03:45,380 Mother and Father or Father and Mother
 ADD 00:15 (kowai) scary
@@ -1062,4 +1074,145 @@ MEPHISTO MAGIC 00:03:56,920 add romaji for this too
 MISSING 00:16:51 guy in crows nest
 00:17:49,696 We're
 MISSING 00:23:52 Goodbye!
+
+
+Episode 28
+
+00:04:07,670 separate But into its own subtitle.
+00:07:01,831 Silence!
+00:13:47,460 (right before this line) Damn.
+TOO SHORT 00:15:11,140 Deploy! Deploy!
+00:17:02,700 comma instead of period.
+SPLIT 00:18:18,414
+00:22:34,605 father and mother
+00:22:39,819 My Papa
+
+
+Episode 29
+
+MEPHISTO MAGIC 00:06:10,760
+MEPHISTO MAGIC 00:06:13,793
+MEPHISTO MAGIC 00:06:14,520
+
+00:03:44,240 Tori-san? need to check this.
+00:05:15,606 should be snake. need to check this line too.
+00:05:17,720 check this line too.
+00:08:03,290 sand glass
+00:13:20,900 check this line
+00:16:55,559 need to use the 2 words for mice in romaji with honorific here.
+
+Episode 30
+
+00:07:49,055 Lord
+00:10:42,039 Dr. Uranari
+00:11:41,639 exclamation should be inside quotes
+00:11:52,169 "
+
+
+Episode 31
+
+00:05:12,240 I'm scared! not Sapphire.
+00:10:52,209 Anko
+00:10:54,060 Anko
+00:10:58,935 check the translation
+00:12:43,502 Tink! (sama?) check translation
+00:14:59,060 Sir Tink!
+00:17:45,802 check translation
+00:23:21,040 old woman and old man
+
+
+Episode 32
+
+Silver Ship should be capitalized.
+
+
+MAGIC Silver Spirit 00:10:36,829
+MAGIC Silver Spirit 00:10:39,509
+MAGIC Silver Spirit 00:10:42,080
+MAGIC Silver Spirit 00:10:44,525
+MAGIC Silver Spirit 00:10:47,140
+MAGIC Silver Spirit 00:10:49,880
+MAGIC Silver Spirit 00:13:35,813
+MAGIC Silver Spirit 00:13:41,209
+MAGIC Silver Spirit 00:13:50,859
+
+
+00:04:19,525 quotes
+00:04:23,605 " and capitalize Silver Ship
+00:04:25,997 quotes only
+00:04:28,560 "
+00:04:32,680 Silver Ship
+00:04:44,695 "
+00:05:12,185 "
+00:05:52,300 "
+00:07:29,795 quotes
+00:07:38,590 Silver Ship
+00:08:08,280 "
+00:09:32,890 The Silver Ship is right under here.
+00:09:58,985 Silver Ship
+00:14:52,045 They're
+00:16:04,630 check translation
+00:17:12,240 Silence!
+00:17:18,249 Spirit
+00:17:26,500 "
+00:17:29,800 "
+00:17:31,780 "
+00:17:33,420 "
+00:18:51,720 " 
+00:18:52,686 "
+00:23:03,439 Silver Ship
+00:23:10,999 "
+
+Episode 33
+
+00:05:10,685 no italics
+00:05:48,253 Uranari
+00:08:32,659 no italics
+00:08:37,969 "
+00:08:42,369 "
+00:09:47,398 Italics
+00:09:51,791 "
+00:09:54,306 "
+00:09:55,844 "
+00:09:57,891 "
+00:09:57,891 "
+00:10:07,246 "
+00:15:52,620 Ends too soon
+00:19:02,366 no italics
+
+Episode 34
+
+00:06:04,980 We're
+LATE 00:07:49,730
+00:09:34,679 Moose's
+00:10:36,245 it's
+00:12:54,229 beast
+00:22:01,219 no italics
+
+Episode 35
+
+
+Episode 36
+
+MAGIC HECATE 00:19:00,459
+MAGIC MADAME HELL 00:20:57,529
+MAGIC MEPHISTO 00:23:21,845
+
+00:03:42,079 exclamation !
+00:08:59,870 Opal before this line.
+00:16:39,236 I am Princess Maju of the Kingdom of Fel.
+00:16:42,620 And I am her husba... er, servant, Stoton.
+00:18:10,229 Lady Maju not Madame Witch
+00:18:42,849 Mama not well well.
+00:21:33,059 Maju but need to check translation.
+
+Episode 37
+
+00:03:04,760 italics
+00:03:05,835 "
+00:15:49,369 Demon Tree
+00:17:04,589 boy's heart
+
+Episode 38
+
 
