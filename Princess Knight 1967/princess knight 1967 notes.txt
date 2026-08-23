@@ -643,6 +643,9 @@ example: Did you say "brother"?
 In Japanese sentence it is Father and Mother instead of Mother and Father.
 Noticed this in episode 28 need to check previous episodes for this.
 
+In the episodes with Hecate see if grand witch, fine witch, great witch are the same Japanese word and pick one translation.
+02, 07, 15, 20, 27, 36, 37
+
 Error Checking Pass
 
 
@@ -1246,4 +1249,60 @@ Change Jingisu to Jingis
 
 Episode 39
 
+00:04:20,805 Ms. Eros
+00:18:25,560 That's strange! (hen da)
 
+Episode 40
+
+00:06:17,810 check translation. we should probably be I here.
+00:07:41,925 Okay instead of got it. check translation too.
+00:11:10,035 italics
+00:11:12,975 "
+00:11:16,248 "
+00:11:20,032 "
+00:11:22,967 "
+00:11:26,280 "
+00:11:28,619 "
+00:11:30,787 "
+00:11:36,077 "
+00:11:39,100 "
+00:11:43,780 "
+00:19:43,859 check translation
+ADD 00:22:48 Stop or Wait!
+
+Episode 41
+
+00:07:03,930 check translation and show the repetition in the translation.
+ADD 12:48 Papa
+
+Episode 42
+
+00:03:04,724 should be Long live Silverland! (silverland banzai)
+00:05:26,615 surfing? check the translation
+
+Episode 43
+
+00:02:21,874 I'm scared!
+00:08:50,729 Tink!
+00:17:22,405 italics
+00:17:24,749 "
+00:19:58,954 check translation
+
+Episode 44
+
+00:03:31,211 italics
+
+Episode 45
+
+00:02:25,055 It's a ghost ship!
+00:11:01,759 check translation.
+00:16:06,346 italics
+00:16:12,695 "
+00:16:16,995 "
+00:16:50,120 "
+ADD 00:19:34,500 check this line. if cant figure it out leave a blank line here.
+00:20:01,981 wrong translation. should be: Sapphire! After Him! (Ounda)
+00:22:19,569 italics
+00:22:22,647 "
+
+Episode 46
