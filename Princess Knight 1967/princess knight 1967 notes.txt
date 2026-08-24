@@ -644,7 +644,7 @@ In Japanese sentence it is Father and Mother instead of Mother and Father.
 Noticed this in episode 28 need to check previous episodes for this.
 
 In the episodes with Hecate see if grand witch, fine witch, great witch are the same Japanese word and pick one translation.
-02, 07, 15, 20, 27, 36, 37
+02, 07, 15, 20, 27, 36, 37, 49
 
 Error Checking Pass
 
@@ -1306,3 +1306,42 @@ ADD 00:19:34,500 check this line. if cant figure it out leave a blank line here.
 00:22:22,647 "
 
 Episode 46
+
+00:02:11,320 This is terrible!
+00:02:42,750 check translation. maybe use offered to help instead.
+00:06:38,460 Obaba instead of old hag
+00:09:43,670 Obaba not old hag.
+00:10:20,989 remove italics add quotation marks.
+00:12:09,969 He
+00:12:11,995 He
+00:13:38,600 quotation marks
+00:13:54,320 italics
+00:13:56,643 "
+00:14:01,889 "
+00:15:02,029 He
+00:18:11,644 she is saying obasan (old lady. (polite)) translate to elderly woman. 
+00:18:22,336 "
+00:18:29,730 "
+00:19:35,269 "
+ADD 00:21:22,576 Damn it!
+
+Episode 47
+
+00:04:37,760 remove italics add quotation marks
+00:04:40,180 "
+00:04:43,669 "
+00:04:46,016 "
+00:04:48,500 "
+00:04:52,302 "
+00:04:57,716 italics
+00:09:29,270 capitalize Northern Fortress
+ADD 00:12:43 Prince Franz!
+00:16:19,755 check translation. Old Geezer.
+
+Episode 48
+
+00:04:15,624 Dr. Uranari
+00:04:56,215 remove italics
+
+Episode 49
+
