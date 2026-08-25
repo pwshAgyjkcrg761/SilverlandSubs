@@ -11,25 +11,26 @@ PlayResY: 576
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File:
-Video File:
+Audio File: ../../ita-new-encode/09 broken doll.mkv
+Video File: ../../ita-new-encode/09 broken doll.mkv
 Video AR Mode: 4
-Video AR Value: 1.314554
+Video AR Value: 1.333333
 Video Zoom Percent: 0.500000
-Scroll Position: 147
-Active Line: 154
-Video Position: 19091
+Active Line: 2
+Video Position: 2050
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Verdana,39.7,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,19,19,20,1
 Style: Karaoke,Verdana,39.7,&H00FF00FF,&H00FF0000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,19,19,20,1
 Style: OPED_Translation,Verdana,39.7,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,19,19,20,1
+Style: Karaoke - 09 broken doll - Castle Women in Prison,Verdana,39.7,&H002C69E9,&H00800000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,19,19,20,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:38.00,0:00:41.00,OPED_Translation,,0,0,0,template line,{\fad(300,300)\blur1}
 Comment: 0,0:00:41.00,0:00:44.00,Karaoke,,0,0,0,template syl,{\pos($x,$y)\1c!line.styleref.color2!\t($start,$mid,\fscx150\fscy150\1c&H00D7FF&)\t($mid,$end,\fscx100\fscy100\1c!line.styleref.color1!)}
+Comment: 0,0:00:41.00,0:00:44.00,Karaoke - 09 broken doll - Castle Women in Prison,,0,0,0,template syl,{\pos($x,$y)\1c&H800000&\t($start,$mid,\fscx150\fscy150\1c&H00D7FF&)\t($mid,$end,\fscx100\fscy100\1c&H2C69E9&)}
 Dialogue: 0,0:00:01.18,0:00:09.22,Default,,0,0,0,,The Princess Sapphire\NKnight of the Ribbon
 Dialogue: 0,0:00:44.00,0:00:50.16,Karaoke,,0,0,0,,{\k72}{\k14}A{\k32}ta{\k40}shi {\k48}no {\k35}mi{\k52}ru {\k45}yu{\k34}me{\k30} {\k41}hi{\k44}mi{\k43}tsu {\k27}na{\k39}no{\k20}
 Dialogue: 0,0:00:44.00,0:00:50.16,OPED_Translation,,0,0,0,,The dreams I see are my secret
@@ -91,7 +92,7 @@ Dialogue: 0,0:04:29.74,0:04:30.71,Default,,0,0,0,,Be quiet!
 Dialogue: 0,0:04:32.00,0:04:34.40,Default,,0,0,0,,It looks like something from a cheap play!
 Dialogue: 0,0:04:37.22,0:04:38.64,Default,,0,0,0,,Sapphire, stop that!
 Dialogue: 0,0:04:39.88,0:04:41.93,Default,,0,0,0,,Ah, yes, Mother...
-Dialogue: 0,0:04:47.65,0:04:56.52,Default,,0,0,0,,O noble ancestors of Silverland, today we perform the cleaning and upkeep of the demon-repelling idol...
+Dialogue: 0,0:04:47.65,0:04:56.52,Default,,0,0,0,,O noble ancestors of Silverland, today we perform the cleaning and upkeep of the demon-repelling idols...
 Dialogue: 0,0:05:36.06,0:05:37.80,Default,,0,0,0,,...Are we ready?
 Dialogue: 0,0:05:48.92,0:05:51.16,Default,,0,0,0,,Come now, please enter one by one!
 Dialogue: 0,0:05:51.97,0:05:52.97,Default,,0,0,0,,There!
@@ -101,7 +102,7 @@ Dialogue: 0,0:06:10.73,0:06:11.09,Default,,0,0,0,,Huh?
 Dialogue: 0,0:06:11.62,0:06:13.08,Default,,0,0,0,,There's an idol here!
 Dialogue: 0,0:06:13.68,0:06:14.87,Default,,0,0,0,,What a funny face!
 Dialogue: 0,0:06:16.12,0:06:17.75,Default,,0,0,0,,Don't touch it, Sapphire!
-Dialogue: 0,0:06:18.72,0:06:23.20,Default,,0,0,0,,Sapphire, you must not touch or move the sacred idol as you please!
+Dialogue: 0,0:06:18.72,0:06:23.20,Default,,0,0,0,,Sapphire, you must not touch or move the sacred idols as you please!
 Dialogue: 0,0:06:24.93,0:06:26.80,Default,,0,0,0,,Now, open the windows!
 Dialogue: 0,0:06:26.91,0:06:30.56,Default,,0,0,0,,Everyone, please open the windows and begin cleaning!
 Dialogue: 0,0:06:40.42,0:06:43.94,Default,,0,0,0,,Whenever I see it, it has such a fine face, so fitting for warding off evil spirits!
@@ -113,9 +114,9 @@ Dialogue: 0,0:07:28.37,0:07:29.36,Default,,0,0,0,,Sapphire!
 Dialogue: 0,0:07:30.56,0:07:31.86,Default,,0,0,0,,Well done, Sapphire!
 Dialogue: 0,0:07:32.04,0:07:33.04,Default,,0,0,0,,My thanks to you!
 Dialogue: 0,0:07:34.30,0:07:35.51,Default,,0,0,0,,You fool!
-Dialogue: 0,0:07:36.02,0:07:39.10,Default,,0,0,0,,Tell me, what punishment awaits one who breaks the idol?!
+Dialogue: 0,0:07:36.02,0:07:39.10,Default,,0,0,0,,Tell me, what punishment awaits one who breaks an idol?!
 Dialogue: 0,0:07:39.44,0:07:39.76,Default,,0,0,0,,Yes!
-Dialogue: 0,0:07:40.10,0:07:43.00,Default,,0,0,0,,If you scratch the idol's face, your own face will be slashed!
+Dialogue: 0,0:07:40.10,0:07:43.00,Default,,0,0,0,,If you scratch an idol's face, your own face will be slashed!
 Dialogue: 0,0:07:43.50,0:07:48.84,Default,,0,0,0,,If you injure its hand, it eats your face; if you injure its foot, it eats your foot!
 Dialogue: 0,0:07:50.17,0:07:53.22,Default,,0,0,0,,And if you chop off its head, you will be executed!
 Dialogue: 0,0:07:53.28,0:07:53.76,Default,,0,0,0,,That's right!
@@ -123,9 +124,9 @@ Dialogue: 0,0:07:53.80,0:07:54.40,Default,,0,0,0,,Exactly!
 Dialogue: 0,0:07:54.68,0:07:57.10,Default,,0,0,0,,Even if you are daughters of nobility like yourselves!
 Dialogue: 0,0:07:57.42,0:07:59.52,Default,,0,0,0,,Nylon, don't say such terrifying things!
 Dialogue: 0,0:07:59.55,0:08:00.52,Default,,0,0,0,,Have some pity on them!
-Dialogue: 0,0:08:00.52,0:08:05.19,Default,,0,0,0,,Oh, Your Highness! Thank you so very, very much for saving the idol...
+Dialogue: 0,0:08:00.52,0:08:05.19,Default,,0,0,0,,Oh, Your Highness! Thank you so very, very much for saving that idol...
 Dialogue: 0,0:08:05.21,0:08:06.42,Default,,0,0,0,,Here! I'm returning it!
-Dialogue: 0,0:08:17.34,0:08:19.76,Default,,0,0,0,,The idol is safe and sound.
+Dialogue: 0,0:08:17.34,0:08:19.76,Default,,0,0,0,,That idol is safe and sound.
 Dialogue: 0,0:08:21.43,0:08:23.54,Default,,0,0,0,,I'll leave the rest to you, Nylon!
 Dialogue: 0,0:08:24.88,0:08:25.88,Default,,0,0,0,,It's Tink!
 Dialogue: 0,0:08:29.57,0:08:30.76,Default,,0,0,0,,I wonder what's inside?
@@ -149,11 +150,11 @@ Dialogue: 0,0:09:30.80,0:09:33.20,Default,,0,0,0,,Hmm, well, do as you see fit.
 Dialogue: 0,0:09:49.26,0:09:50.97,Default,,0,0,0,,What are you going to do to Tink?!
 Dialogue: 0,0:09:52.04,0:09:55.42,Default,,0,0,0,,Tink? You mean that notorious villain who was sentenced to death.
 Dialogue: 0,0:09:55.44,0:09:56.80,Default,,0,0,0,,Death sentence?
-Dialogue: 0,0:09:57.03,0:10:01.26,Default,,0,0,0,,Well, he broke the demon-warding idol, so it can't be helped.
+Dialogue: 0,0:09:57.03,0:10:01.26,Default,,0,0,0,,Well, he broke a demon-warding idol, so it can't be helped.
 Dialogue: 0,0:10:02.12,0:10:03.12,Default,,0,0,0,,No way!
 Dialogue: 0,0:10:10.38,0:10:11.38,Default,,0,0,0,,Tink!
 Dialogue: 0,0:10:12.30,0:10:13.30,Default,,0,0,0,,Damn it!
-Dialogue: 0,0:10:34.58,0:10:35.98,Default,,0,0,0,,Mister, please stop!
+Dialogue: 0,0:10:34.58,0:10:35.98,Default,,0,0,0,,Your Highness, please stop!
 Dialogue: 0,0:10:36.39,0:10:37.39,Default,,0,0,0,,Get out of my way!
 Dialogue: 0,0:10:39.17,0:10:41.94,Default,,0,0,0,,It's because idols like this exist that people are getting killed!
 Dialogue: 0,0:10:59.95,0:11:00.95,Default,,0,0,0,,Ah, what a relief.
@@ -176,14 +177,14 @@ Dialogue: 0,0:11:49.59,0:11:51.66,Default,,0,0,0,,No, no, wait, that would also 
 Dialogue: 0,0:11:51.99,0:11:52.99,Default,,0,0,0,,A very big problem.
 Dialogue: 0,0:11:53.16,0:11:54.12,Default,,0,0,0,,Well then...
 Dialogue: 0,0:11:54.46,0:11:55.34,Default,,0,0,0,,Proceed!
-Dialogue: 0,0:12:26.80,0:12:28.12,Default,,0,0,0,,Oh, she's being marched off to execution?!
+Dialogue: 0,0:12:26.80,0:12:28.12,Default,,0,0,0,,But isn't that my child?!
 Dialogue: 0,0:12:29.02,0:12:29.64,Default,,0,0,0,,Mother!
 Dialogue: 0,0:12:29.80,0:12:30.64,Default,,0,0,0,,Duralumin!
 Dialogue: 0,0:12:30.81,0:12:32.80,Default,,0,0,0,,What on earth... what on earth is the meaning of this?
-Dialogue: 0,0:12:32.97,0:12:36.06,Default,,0,0,0,,Why is my s-s-son being executed?
+Dialogue: 0,0:12:32.97,0:12:36.06,Default,,0,0,0,,Why is my dau... dau... son being executed?
 Dialogue: 0,0:12:36.11,0:12:38.88,Default,,0,0,0,,Your Majesty, I received proper authorization.
 Dialogue: 0,0:12:39.07,0:12:42.62,Default,,0,0,0,,Lord Sapphire broke 30 idols.
-Dialogue: 0,0:12:43.02,0:12:51.02,Default,,0,0,0,,That many... Sapphire, what in the world... what in the world have you done?
+Dialogue: 0,0:12:44.28,0:12:51.02,Default,,0,0,0,,That many... Sapphire, what in the world... what in the world have you done?
 Dialogue: 0,0:12:52.19,0:12:54.68,Default,,0,0,0,,Sapphire, you have done something terrible...
 Dialogue: 0,0:13:00.78,0:13:03.34,Default,,0,0,0,,Darn it, if only I could get untied...
 Dialogue: 0,0:13:05.58,0:13:08.24,Default,,0,0,0,,Now then, I shall respectfully carry out the execution.
@@ -227,7 +228,7 @@ Dialogue: 0,0:15:49.96,0:15:50.96,Default,,0,0,0,,Mother!
 Dialogue: 0,0:15:51.08,0:15:52.08,Default,,0,0,0,,Father!
 Dialogue: 0,0:16:02.06,0:16:03.10,Default,,0,0,0,,What's going on!
 Dialogue: 0,0:16:03.70,0:16:05.61,Default,,0,0,0,,The women are saying they're going to
-Dialogue: 0,0:16:05.64,0:16:08.04,Default,,0,0,0,,break the idol to save Princess Sapphire!
+Dialogue: 0,0:16:05.64,0:16:08.04,Default,,0,0,0,,break the idols to save Lord Sapphire!
 Dialogue: 0,0:16:09.30,0:16:11.24,Default,,0,0,0,,I won't let that happen, stop them!
 Dialogue: 0,0:16:11.54,0:16:12.92,Default,,0,0,0,,Won't you stop too!
 Dialogue: 0,0:16:12.98,0:16:13.64,Default,,0,0,0,,Shut up!
@@ -240,13 +241,21 @@ Dialogue: 0,0:16:36.50,0:16:37.02,Default,,0,0,0,,What is it!
 Dialogue: 0,0:16:37.28,0:16:38.28,Default,,0,0,0,,You good-for-nothing!
 Dialogue: 0,0:16:45.02,0:16:45.82,Default,,0,0,0,,Damn it!
 Dialogue: 0,0:16:45.98,0:16:46.82,Default,,0,0,0,,The execution is called off!
-Dialogue: 0,0:16:46.90,0:16:48.24,Default,,0,0,0,,Capture the women!
+Dialogue: 0,0:16:46.90,0:16:48.39,Default,,0,0,0,,Capture the women!
 Dialogue: 0,0:17:03.50,0:17:05.80,Default,,0,0,0,,The women are smarter than the men!
 Dialogue: 0,0:17:06.22,0:17:08.68,Default,,0,0,0,,Are you saying something like this is worse than a demon!
+Dialogue: 0,0:17:11.09,0:17:13.33,Karaoke - 09 broken doll - Castle Women in Prison,,0,0,0,,{\k12}{\k38}La, {\k25}la {\k27}la {\k25}la, {\k20}la {\k34}la {\k43}la
+Dialogue: 0,0:17:13.52,0:17:15.78,Karaoke - 09 broken doll - Castle Women in Prison,,0,0,0,,{\k10}{\k26}La {\k29}la, {\k34}la {\k31}la, {\k59}la {\k37}la
+Dialogue: 0,0:17:16.05,0:17:18.28,Karaoke - 09 broken doll - Castle Women in Prison,,0,0,0,,{\k12}{\k38}La, {\k25}la {\k27}la {\k25}la, {\k20}la {\k34}la {\k43}la
+Dialogue: 0,0:17:18.42,0:17:20.72,Karaoke - 09 broken doll - Castle Women in Prison,,0,0,0,,{\k10}{\k26}La {\k29}la, {\k34}la {\k31}la, {\k59}la {\k37}la
+Dialogue: 0,0:17:21.01,0:17:23.26,Karaoke - 09 broken doll - Castle Women in Prison,,0,0,0,,{\k12}{\k38}La, {\k25}la {\k27}la {\k25}la, {\k20}la {\k34}la {\k43}la
+Dialogue: 0,0:17:23.46,0:17:25.61,Karaoke - 09 broken doll - Castle Women in Prison,,0,0,0,,{\k10}{\k26}La {\k29}la, {\k34}la {\k31}la, {\k59}la {\k37}la
+Dialogue: 0,0:17:25.94,0:17:28.22,Karaoke - 09 broken doll - Castle Women in Prison,,0,0,0,,{\k12}{\k38}La, {\k25}la {\k27}la {\k25}la, {\k20}la {\k34}la {\k43}la
+Dialogue: 0,0:17:28.43,0:17:32.44,Karaoke - 09 broken doll - Castle Women in Prison,,0,0,0,,{\k8}{\k33}La {\k27}la, {\k32}la {\k38}la, {\k65}la, {\k53}la, {\k71}la, {\k74}la
 Dialogue: 0,0:17:38.24,0:17:39.24,Default,,0,0,0,,I don't care!
 Dialogue: 0,0:17:39.31,0:17:41.18,Default,,0,0,0,,Send them to the scaffold,
 Dialogue: 0,0:17:41.21,0:17:43.20,Default,,0,0,0,,whether there are thousands or tens of thousands of them!
-Dialogue: 0,0:17:43.49,0:17:44.73,Default,,0,0,0,,Not on my watch!
+Dialogue: 0,0:17:43.49,0:17:44.73,Default,,0,0,0,,{\i1}Not on my watch!
 Dialogue: 0,0:17:48.37,0:17:49.29,Default,,0,0,0,,Mephisto!
 Dialogue: 0,0:17:50.43,0:17:51.46,Default,,0,0,0,,Is that Mephisto?!
 Dialogue: 0,0:17:51.91,0:17:54.83,Default,,0,0,0,,You tried to kill Sapphire without my permission, Duralumin!
@@ -264,7 +273,7 @@ Dialogue: 0,0:18:19.90,0:18:21.82,Default,,0,0,0,,The King is requesting your pr
 Dialogue: 0,0:18:22.36,0:18:22.78,Default,,0,0,0,,All right!
 Dialogue: 0,0:18:22.80,0:18:23.32,Default,,0,0,0,,Lead the way!
 Dialogue: 0,0:18:23.62,0:18:24.68,Default,,0,0,0,,Sapphire, are you okay?
-Dialogue: 0,0:18:24.68,0:18:28.07,Default,,0,0,0,,Since Father is calling for you, he must be calling off the execution!
+Dialogue: 0,0:18:24.68,0:18:28.07,Default,,0,0,0,,Since Father is calling for me, he must be calling off the execution!
 Dialogue: 0,0:18:45.42,0:18:46.56,Default,,0,0,0,,Wait, aren't those the gallows?!
 Dialogue: 0,0:18:49.30,0:18:50.30,Default,,0,0,0,,Your Highness!
 Dialogue: 0,0:18:50.41,0:18:52.32,Default,,0,0,0,,Even if you try to run, you cannot escape!
@@ -282,7 +291,6 @@ Dialogue: 0,0:19:58.87,0:19:59.94,Default,,0,0,0,,Damn it!
 Dialogue: 0,0:20:00.16,0:20:01.72,Default,,0,0,0,,This must be the work of a demon!
 Dialogue: 0,0:20:11.18,0:20:13.64,Default,,0,0,0,,The idols are...MEPHISTO!
 Dialogue: 0,0:20:14.39,0:20:15.54,Default,,0,0,0,,All right!
-Dialogue: 0,0:20:18.20,0:20:18.72,Default,,0,0,0,,Heheh!
 Dialogue: 0,0:20:18.74,0:20:19.74,Default,,0,0,0,,I popped out!
 Dialogue: 0,0:20:21.98,0:20:23.14,Default,,0,0,0,,Prince Sapphire!
 Dialogue: 0,0:20:23.43,0:20:24.43,Default,,0,0,0,,Running away is useless!
@@ -293,7 +301,7 @@ Dialogue: 0,0:20:45.48,0:20:46.48,Default,,0,0,0,,Come on!
 Dialogue: 0,0:21:00.13,0:21:01.13,Default,,0,0,0,,Mephisto!
 Dialogue: 0,0:21:01.75,0:21:04.22,Default,,0,0,0,,Not being fooled by my magic—impressive, as expected!
 Dialogue: 0,0:21:04.82,0:21:05.88,Default,,0,0,0,,Now, Your Highness,
-Dialogue: 0,0:21:05.91,0:21:08.73,Default,,0,0,0,,shall I take your boy's heart!
+Dialogue: 0,0:21:05.91,0:21:08.73,Default,,0,0,0,,shall I take your boy's heart?!
 Dialogue: 0,0:21:09.46,0:21:10.46,Default,,0,0,0,,No!
 Dialogue: 0,0:21:11.94,0:21:12.94,Default,,0,0,0,,Damn it!
 Dialogue: 0,0:21:29.44,0:21:30.44,Default,,0,0,0,,Sapphire!

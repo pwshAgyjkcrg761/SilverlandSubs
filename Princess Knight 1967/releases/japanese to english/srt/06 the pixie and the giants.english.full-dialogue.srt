@@ -187,7 +187,7 @@ Thank you for saving me.
 
 42
 00:03:36,915 --> 00:03:40,340
-He says this child was on a distant southern island.
+This little guy says he was on a distant southern island.
 
 43
 00:03:40,734 --> 00:03:44,120
@@ -1044,11 +1044,11 @@ This frog has some paralysis medicine!
 
 256
 00:17:02,200 --> 00:17:03,200
-It’s Tinku!
+It’s Tink!
 
 257
 00:17:04,440 --> 00:17:05,440
-Tinku!
+Tink!
 
 258
 00:17:05,544 --> 00:17:06,599
@@ -1056,11 +1056,11 @@ It’s me!
 
 259
 00:17:06,819 --> 00:17:07,720
-Tinku!
+Tink!
 
 260
 00:17:07,721 --> 00:17:08,721
-Tinku!
+Tink!
 
 261
 00:17:09,920 --> 00:17:10,940
@@ -1200,7 +1200,7 @@ That's a relief!
 
 295
 00:20:14,420 --> 00:20:17,980
-Say thank you to the frogs, they drove the giant man away!
+Say thank you to Kaeru-kun, they drove the giant man away!
 
 296
 00:20:18,040 --> 00:20:19,040
@@ -1304,11 +1304,11 @@ It's me!
 
 321
 00:21:28,460 --> 00:21:29,660
-It's Bakun!
+It's Bagoon!
 
 322
 00:21:30,419 --> 00:21:31,773
-Bakun?
+Bagoon?
 
 323
 00:21:32,180 --> 00:21:33,586
@@ -1316,7 +1316,7 @@ Papa!
 
 324
 00:21:35,280 --> 00:21:36,280
-Bakun!
+Bagoon!
 
 325
 00:21:40,160 --> 00:21:41,300
@@ -1336,7 +1336,7 @@ Papa!
 
 329
 00:21:48,861 --> 00:21:49,960
-Bakun!
+Bagoon!
 
 330
 00:21:55,099 --> 00:21:56,940
@@ -1380,7 +1380,7 @@ Was this man the one responsible for that magic lamp?!
 
 340
 00:22:28,559 --> 00:22:32,820
-Bakun, you must never go out to play alone again!
+Bagoon, you must never go out to play alone again!
 
 341
 00:22:33,054 --> 00:22:34,180
@@ -1456,7 +1456,7 @@ Have a safe trip, guys!
 
 359
 00:23:36,569 --> 00:23:38,320
-Genie!
+Goodbye!
 
 360
 00:23:38,479 --> 00:23:41,893

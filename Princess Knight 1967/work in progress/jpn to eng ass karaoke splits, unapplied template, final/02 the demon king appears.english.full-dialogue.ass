@@ -11,13 +11,11 @@ PlayResY: 576
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File:
-Video File:
 Video AR Mode: 4
 Video AR Value: 1.314554
 Video Zoom Percent: 0.500000
-Scroll Position: 325
-Active Line: 335
+Scroll Position: 223
+Active Line: 237
 Video Position: 29387
 
 [V4+ Styles]
@@ -127,15 +125,14 @@ Dialogue: 0,0:05:14.18,0:05:15.86,Default,,0,0,0,,We're building a villa for the
 Dialogue: 0,0:05:27.04,0:05:28.26,Default,,0,0,0,,What are you standing around for?!
 Dialogue: 0,0:05:28.32,0:05:29.76,Default,,0,0,0,,Hurry up and go collect those taxes!
 Dialogue: 0,0:05:46.24,0:05:47.24,Default,,0,0,0,,Hecate!
-Dialogue: 0,0:05:47.36,0:05:49.18,Default,,0,0,0,,At last, I have found the girl we were looking for!
-Dialogue: 0,0:05:49.36,0:05:50.06,Default,,0,0,0,,A girl?
+Dialogue: 0,0:05:47.36,0:05:49.18,Default,,0,0,0,,At last, I have found the young girl we were looking for!
+Dialogue: 0,0:05:49.36,0:05:50.06,Default,,0,0,0,,A young girl?
 Dialogue: 0,0:05:50.44,0:05:51.74,Default,,0,0,0,,You mean a prince, Papa!
-Dialogue: 0,0:05:51.82,0:05:52.88,Default,,0,0,0,,Ahahaha!
 Dialogue: 0,0:05:53.30,0:05:54.46,Default,,0,0,0,,Once every 2000 years,
 Dialogue: 0,0:05:54.49,0:05:56.42,Default,,0,0,0,,due to a mistake in Heaven, a child is born
 Dialogue: 0,0:05:56.44,0:05:58.88,Default,,0,0,0,,a girl yet possessing the heart of a boy!
 Dialogue: 0,0:05:58.94,0:06:01.05,Default,,0,0,0,,Oh, poor thing...
-Dialogue: 0,0:06:01.08,0:06:06.12,Default,,0,0,0,,If we extract the boy's heart from that girl and put it into you, you will become a splendid witch!
+Dialogue: 0,0:06:01.08,0:06:06.12,Default,,0,0,0,,If we extract the boy's heart from that young girl and put it into you, you will become a splendid witch!
 Dialogue: 0,0:06:06.76,0:06:07.94,Mephisto Spells,,0,0,0,,Jigoku no kodaiyo!
 Dialogue: 0,0:06:06.76,0:06:07.94,Mephisto Spells Translation,,0,0,0,,Vastness of Hell!
 Dialogue: 0,0:06:08.34,0:06:10.60,Mephisto Spells,,0,0,0,,Washi no musume Heketo o iwattekure!
@@ -159,7 +156,8 @@ Dialogue: 0,0:07:04.96,0:07:05.96,Hecate Spells,,0,0,0,,Kaze yo!
 Dialogue: 0,0:07:04.96,0:07:05.96,Hecate Spells Translation,,0,0,0,,O Wind!
 Dialogue: 0,0:07:08.01,0:07:09.01,Hecate Spells,,0,0,0,,Mizu yo!
 Dialogue: 0,0:07:08.01,0:07:09.01,Hecate Spells Translation,,0,0,0,,O Water!
-Dialogue: 0,0:07:11.44,0:07:14.74,Default,,0,0,0,,I can't do it like Papa... There's no need to cry, Hecate.
+Dialogue: 0,0:07:11.44,0:07:13.05,Default,,0,0,0,,I can't do it like Papa...
+Dialogue: 0,0:07:13.07,0:07:14.74,Default,,0,0,0,,There's no need to cry, Hecate.
 Dialogue: 0,0:07:15.10,0:07:16.66,Default,,0,0,0,,You'll become a great witch soon, too.
 Dialogue: 0,0:07:16.98,0:07:19.20,Default,,0,0,0,,Then you can even get into the Magic Academy.
 Dialogue: 0,0:07:19.69,0:07:20.76,Mephisto Spells,,0,0,0,,Eraisha!
@@ -250,7 +248,7 @@ Dialogue: 0,0:11:42.48,0:11:44.23,Mephisto Spells,,0,0,0,,Atarapusa!
 Dialogue: 0,0:11:54.05,0:11:56.18,Default,,0,0,0,,Well, do you understand my power now?
 Dialogue: 0,0:11:56.32,0:11:56.82,Default,,0,0,0,,I understand!
 Dialogue: 0,0:11:57.16,0:11:59.92,Default,,0,0,0,,So, what happens to Sapphire if her boy's heart is taken?
-Dialogue: 0,0:12:00.43,0:12:02.50,Default,,0,0,0,,Naturally, she'll become just an ordinary girl!
+Dialogue: 0,0:12:00.43,0:12:02.50,Default,,0,0,0,,Naturally, she'll become just an ordinary young girl!
 Dialogue: 0,0:12:02.86,0:12:04.21,Default,,0,0,0,,You mean she'll become just an ordinary woman!
 Dialogue: 0,0:12:04.70,0:12:06.56,Default,,0,0,0,,Duke, this is more than we could have ever wished for.
 Dialogue: 0,0:12:06.66,0:12:09.16,Default,,0,0,0,,If the prince becomes a woman, the throne will belong to Lord Plastic...
@@ -268,8 +266,8 @@ Dialogue: 0,0:12:28.08,0:12:31.82,Default,,0,0,0,,Oh, about that, I was just abo
 Dialogue: 0,0:12:31.96,0:12:33.40,Default,,0,0,0,,Here, you can't have any complaints now, can you?!
 Dialogue: 0,0:12:34.21,0:12:35.21,Default,,0,0,0,,Leave at once!
 Dialogue: 0,0:12:35.41,0:12:37.22,Default,,0,0,0,,Thank you very much!
-Dialogue: 0,0:12:37.60,0:12:39.96,Default,,0,0,0,,Please, right this way, the Duke is waiting for you.
-Dialogue: 0,0:12:44.54,0:12:46.24,Default,,0,0,0,,Nylon, where is the Duke?
+Dialogue: 0,0:12:37.60,0:12:39.96,Default,,0,0,0,,Please, right this way, the Grand Duke is waiting for you.
+Dialogue: 0,0:12:44.54,0:12:46.24,Default,,0,0,0,,Nylon, where is the Grand Duke?
 Dialogue: 0,0:12:47.84,0:12:48.48,Default,,0,0,0,,Sapphire!
 Dialogue: 0,0:12:48.48,0:12:49.34,Default,,0,0,0,,Hold it right there!
 Dialogue: 0,0:12:49.37,0:12:52.31,Default,,0,0,0,,Don't just break into the castle!
@@ -278,13 +276,18 @@ Dialogue: 0,0:12:55.79,0:12:56.79,Default,,0,0,0,,Grand Duke Duralumin!
 Dialogue: 0,0:12:56.95,0:12:57.56,Default,,0,0,0,,I need to talk to you!
 Dialogue: 0,0:12:57.66,0:12:58.66,Default,,0,0,0,,Come out!
 Dialogue: 0,0:13:01.60,0:13:02.60,Default,,0,0,0,,Get back!
+Dialogue: 0,0:13:13.91,0:13:15.05,Default,,0,0,0,,Demon!
 Dialogue: 0,0:13:18.10,0:13:19.54,Default,,0,0,0,,I've been waiting for you, Sapphire!
 Dialogue: 0,0:13:20.21,0:13:22.86,Default,,0,0,0,,I have waited a long time for this day to come!
 Dialogue: 0,0:13:24.32,0:13:25.38,Default,,0,0,0,,What business do you have with me?
-Dialogue: 0,0:13:26.01,0:13:29.34,Default,,0,0,0,,I want that male heart of yours that even the Demon King fears!
+Dialogue: 0,0:13:26.01,0:13:29.34,Default,,0,0,0,,I want that boy's heart of yours—the one that does not even fear the Demon King.
 Dialogue: 0,0:13:29.34,0:13:29.82,Default,,0,0,0,,What?
 Dialogue: 0,0:13:30.20,0:13:31.82,Default,,0,0,0,,Take it if you can!
+Dialogue: 0,0:13:32.40,0:13:34.70,Mephisto Spells,,0,0,0,,Annossah!
+Dialogue: 0,0:13:36.81,0:13:39.78,Mephisto Spells,,0,0,0,,Rourappirofusah!
 Dialogue: 0,0:13:40.17,0:13:43.34,Default,,0,0,0,,My body... won't move...
+Dialogue: 0,0:13:50.70,0:13:53.70,Mephisto Spells,,0,0,0,,Amareisha Omoieis Omoishhai
+Dialogue: 0,0:13:53.76,0:13:56.20,Mephisto Spells,,0,0,0,,Arasah Poyasah
 Dialogue: 0,0:13:56.22,0:13:58.26,Default,,0,0,0,,Duke, it went well, didn't it?
 Dialogue: 0,0:13:59.76,0:14:00.76,Default,,0,0,0,,Who could it be?
 Dialogue: 0,0:14:01.30,0:14:03.06,Default,,0,0,0,,When it matters most, no one is ever around!
@@ -299,13 +302,13 @@ Dialogue: 0,0:14:18.53,0:14:19.84,Default,,0,0,0,,This guy is an angel!
 Dialogue: 0,0:14:25.30,0:14:26.30,Default,,0,0,0,,Look out!
 Dialogue: 0,0:14:32.81,0:14:37.08,Default,,0,0,0,,We were so close, but that Demon King is so useless...
 Dialogue: 0,0:14:37.10,0:14:37.84,Default,,0,0,0,,So useless?
-Dialogue: 0,0:14:38.12,0:14:40.38,Default,,0,0,0,,Getting in the way just for a brat like that!
+Dialogue: 0,0:14:38.12,0:14:40.38,Default,,0,0,0,,Look at what a pathetic state you're in, all over a single brat!
 Dialogue: 0,0:14:40.64,0:14:41.78,Default,,0,0,0,,He is no ordinary brat!
 Dialogue: 0,0:14:42.22,0:14:43.22,Default,,0,0,0,,He is an angel!
-Dialogue: 0,0:14:43.53,0:14:44.58,Default,,0,0,0,,Is that an angel?
-Dialogue: 0,0:14:44.76,0:14:46.96,Default,,0,0,0,,Does it even suit the Great Demon King?
+Dialogue: 0,0:14:43.53,0:14:44.58,Default,,0,0,0,,What? He's an angel?
+Dialogue: 0,0:14:44.76,0:14:46.96,Default,,0,0,0,,Oh? Is that really fitting for the Demon King?
 Dialogue: 0,0:14:47.32,0:14:47.88,Default,,0,0,0,,Nylon!
-Dialogue: 0,0:14:47.90,0:14:48.50,Default,,0,0,0,,Yeah, yeah,
+Dialogue: 0,0:14:47.90,0:14:48.50,Default,,0,0,0,,Yes, yes.
 Dialogue: 0,0:14:48.53,0:14:49.78,Default,,0,0,0,,Get your nose out of my face!
 Dialogue: 0,0:14:50.89,0:14:52.92,Default,,0,0,0,,Go take care of that brat yourself!
 Dialogue: 0,0:14:53.02,0:14:54.02,Default,,0,0,0,,Yes!
@@ -318,7 +321,8 @@ Dialogue: 0,0:15:19.30,0:15:20.30,Default,,0,0,0,,Go throw him away far, far awa
 Dialogue: 0,0:15:23.84,0:15:26.06,Default,,0,0,0,,Well then, before we get interrupted again...
 Dialogue: 0,0:15:29.16,0:15:33.08,Mephisto Spells,,0,0,0,,Oja, Hasha, Boinox Natsumora!
 Dialogue: 0,0:15:33.78,0:15:36.90,Mephisto Spells,,0,0,0,,Griffoirano Fai-yaa!
-Dialogue: 0,0:15:39.08,0:15:41.28,Default,,0,0,0,,Fly all the way to my lair!
+Dialogue: 0,0:15:39.08,0:15:41.46,Mephisto Spells,,0,0,0,,Washi no sumi ka made tondeike!
+Dialogue: 0,0:15:39.08,0:15:41.28,Mephisto Spells Translation,,0,0,0,,Fly all the way to my lair!
 Dialogue: 0,0:15:44.41,0:15:45.80,Default,,0,0,0,,Thanks for your help.
 Dialogue: 0,0:15:45.95,0:15:46.95,Default,,0,0,0,,Not at all.
 Dialogue: 0,0:15:51.92,0:15:53.78,Default,,0,0,0,,Now the throne is ours.
@@ -331,14 +335,14 @@ Dialogue: 0,0:16:21.56,0:16:22.78,Default,,0,0,0,,Wh-What are you doing?!
 Dialogue: 0,0:16:23.29,0:16:24.29,Default,,0,0,0,,Darn it!
 Dialogue: 0,0:16:31.44,0:16:33.51,Default,,0,0,0,,Nasty bird!
 Dialogue: 0,0:16:38.74,0:16:43.53,Mephisto Spells,,0,0,0,,Decorasha, Tatarabosha, Natsumora!
-Dialogue: 0,0:16:43.90,0:16:47.22,Mephisto Spells,,0,0,0,,Amarasha, Oirus Trisshara!
+Dialogue: 0,0:16:43.90,0:16:47.22,Mephisto Spells,,0,0,0,,Amareisha, Oirus Trisshara!
 Dialogue: 0,0:16:47.70,0:16:50.02,Mephisto Spells,,0,0,0,,Gakurogrishara!
-Dialogue: 0,0:16:50.72,0:16:53.28,Mephisto Spells,,0,0,0,,Amaresha, Oirus Trisshara!
+Dialogue: 0,0:16:50.72,0:16:53.28,Mephisto Spells,,0,0,0,,Amareisha, Oirus Trisshara!
 Dialogue: 0,0:16:53.50,0:16:55.56,Mephisto Spells,,0,0,0,,Urashoirusha!
 Dialogue: 0,0:17:03.34,0:17:04.36,Default,,0,0,0,,It's done!
 Dialogue: 0,0:17:04.60,0:17:06.70,Default,,0,0,0,,Now, Hecate, get back on that pedestal!
 Dialogue: 0,0:17:08.67,0:17:12.34,Default,,0,0,0,,Hecate, now you can become a fine witch too!
-Dialogue: 0,0:17:14.96,0:17:21.34,Mephisto Spells,,0,0,0,,Urarasha, Namoide, Amarasha, Oirus Trisshara!
+Dialogue: 0,0:17:14.96,0:17:21.34,Mephisto Spells,,0,0,0,,Urarasha, Namoide, Amareisha, Oirus Trisshara!
 Dialogue: 0,0:17:27.29,0:17:29.29,Mephisto Spells,,0,0,0,,Mauling Faline!
 Dialogue: 0,0:17:30.92,0:17:31.92,Default,,0,0,0,,Go away!
 Dialogue: 0,0:17:34.27,0:17:35.27,Default,,0,0,0,,Go away!
@@ -361,7 +365,7 @@ Dialogue: 0,0:18:52.94,0:18:53.24,Default,,0,0,0,,Right!
 Dialogue: 0,0:18:53.77,0:18:56.68,Default,,0,0,0,,Well, we can't go any further than this, so good luck out there!
 Dialogue: 0,0:18:56.70,0:18:57.04,Default,,0,0,0,,Good luck!
 Dialogue: 0,0:18:57.30,0:18:58.30,Default,,0,0,0,,Thanks!
-Dialogue: 0,0:19:18.17,0:19:25.37,Mephisto Spells,,0,0,0,,Uran-Bakin-Supanka, Amarasha, Dura-Dura, Amonamishara!
+Dialogue: 0,0:19:18.17,0:19:25.37,Mephisto Spells,,0,0,0,,Uran-Bakin-Supanka, Amareisha, Dura-Dura, Amonamishara!
 Dialogue: 0,0:19:31.62,0:19:33.12,Mephisto Spells,,0,0,0,,Daimao no sekaiyo!
 Dialogue: 0,0:19:31.62,0:19:33.12,Mephisto Spells Translation,,0,0,0,,World of the Great Demon King!
 Dialogue: 0,0:19:33.42,0:19:34.84,Mephisto Spells,,0,0,0,,Jigoku no kyodaiyo!
@@ -402,7 +406,7 @@ Dialogue: 0,0:21:41.86,0:21:42.22,Default,,0,0,0,,Ah!
 Dialogue: 0,0:21:42.85,0:21:43.85,Default,,0,0,0,,You're a demon, aren't you!
 Dialogue: 0,0:21:43.98,0:21:44.98,Default,,0,0,0,,I won't lose this time!
 Dialogue: 0,0:21:45.00,0:21:46.82,Default,,0,0,0,,It's not over yet!\NSapphire!
-Dialogue: 0,0:21:52.41,0:21:53.41,Mephisto Spells,,0,0,0,,Amarasha
+Dialogue: 0,0:21:52.41,0:21:53.41,Mephisto Spells,,0,0,0,,Amareisha
 Dialogue: 0,0:21:56.43,0:22:00.53,Default,,0,0,0,,You horrifying monster that's grown huge!
 Dialogue: 0,0:22:07.25,0:22:08.65,Default,,0,0,0,,Watch out!
 Dialogue: 0,0:22:10.24,0:22:11.24,Default,,0,0,0,,It's a monster!

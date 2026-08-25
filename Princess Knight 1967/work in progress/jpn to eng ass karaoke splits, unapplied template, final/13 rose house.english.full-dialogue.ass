@@ -10,12 +10,10 @@ PlayResX: 720
 PlayResY: 576
 
 [Aegisub Project Garbage]
-Audio File:
-Video File:
 Video AR Mode: 4
 Video AR Value: 1.314554
-Scroll Position: 9
-Active Line: 269
+Scroll Position: 144
+Active Line: 155
 Video Position: 950
 
 [V4+ Styles]
@@ -52,7 +50,7 @@ Dialogue: 0,0:01:28.62,0:01:31.82,OPED_Translation,,0,0,0,,It’s really me!
 Dialogue: 0,0:01:44.10,0:01:50.14,Default,,0,0,0,,Thirteenth Episode\NThe Castle of Roses\NRose House
 Dialogue: 0,0:02:02.37,0:02:04.08,Default,,0,0,0,,I'm bored already.
 Dialogue: 0,0:02:06.72,0:02:08.34,Default,,0,0,0,,Isn't there anything fun to do?
-Dialogue: 0,0:02:09.99,0:02:12.14,Default,,0,0,0,,Prince Sapphire, it is time.
+Dialogue: 0,0:02:09.99,0:02:12.14,Default,,0,0,0,,Lord Sapphire, it is time.
 Dialogue: 0,0:02:12.27,0:02:16.59,Default,,0,0,0,,The closing ceremony is set for 10 o'clock! Why are you dawdling?
 Dialogue: 0,0:02:17.59,0:02:20.16,Default,,0,0,0,,It's time, Prince Sapphire.
 Dialogue: 0,0:02:23.27,0:02:24.32,Default,,0,0,0,,Take that!
@@ -64,7 +62,7 @@ Dialogue: 0,0:02:32.64,0:02:33.64,Default,,0,0,0,,Chest!
 Dialogue: 0,0:02:34.78,0:02:35.30,Default,,0,0,0,,Head!
 Dialogue: 0,0:02:35.80,0:02:36.80,Default,,0,0,0,,Right!
 Dialogue: 0,0:02:42.67,0:02:43.82,Default,,0,0,0,,Now's your chance, run!
-Dialogue: 0,0:02:44.87,0:02:46.14,Default,,0,0,0,,Prince Sapphire!
+Dialogue: 0,0:02:44.87,0:02:46.14,Default,,0,0,0,,Lord Sapphire!
 Dialogue: 0,0:02:56.70,0:02:58.68,Default,,0,0,0,,Well now, Your Highness, where are you off to?
 Dialogue: 0,0:02:59.41,0:03:00.82,Default,,0,0,0,,Where I go is none of your business.
 Dialogue: 0,0:03:00.84,0:03:05.16,Default,,0,0,0,,Forgive my intrusion, but please do not go to the Southern Valley.
@@ -77,10 +75,10 @@ Dialogue: 0,0:03:22.78,0:03:26.90,Default,,0,0,0,,The Southern Valley, huh... Da
 Dialogue: 0,0:03:27.09,0:03:28.20,Default,,0,0,0,,Hyah!
 Dialogue: 0,0:03:32.78,0:03:34.34,Default,,0,0,0,,Who could have thrown this away?
 Dialogue: 0,0:03:39.28,0:03:41.30,Default,,0,0,0,,There isn't even a rockslide.
-Dialogue: 0,0:03:41.70,0:03:42.92,Default,,0,0,0,,That Duke Duralumin...
+Dialogue: 0,0:03:41.70,0:03:42.92,Default,,0,0,0,,That Grand Duke Duralumin...
 Dialogue: 0,0:03:43.48,0:03:44.74,Default,,0,0,0,,Why would he say such a thing?
 Dialogue: 0,0:03:51.81,0:03:53.87,Default,,0,0,0,,Dejira in the Southern Valley is still there too.
-Dialogue: 0,0:03:56.40,0:03:57.53,Default,,0,0,0,,Hyah!
+Dialogue: 0,0:03:56.40,0:03:57.53,Default,,0,0,0,,Go, Opal!
 Dialogue: 0,0:04:07.08,0:04:09.29,Default,,0,0,0,,The camouflage curtain is peeling right off!
 Dialogue: 0,0:04:09.60,0:04:10.40,Default,,0,0,0,,You idiot!
 Dialogue: 0,0:04:10.42,0:04:11.06,Default,,0,0,0,,Forgive me!
@@ -111,9 +109,9 @@ Dialogue: 0,0:07:23.15,0:07:23.96,Default,,0,0,0,,The House of Roses?
 Dialogue: 0,0:07:38.19,0:07:40.96,Default,,0,0,0,,Was there always a place like this in the Southern Valley?
 Dialogue: 0,0:07:57.57,0:07:59.28,Default,,0,0,0,,This is the Rose Mansion.
 Dialogue: 0,0:08:09.89,0:08:11.02,Default,,0,0,0,,Rose perfume!
-Dialogue: 0,0:08:56.96,0:08:58.24,Default,,0,0,0,,Sapphire,...
+Dialogue: 0,0:08:56.96,0:08:58.24,Default,,0,0,0,,Master Sapphire,...
 Dialogue: 0,0:08:59.56,0:09:01.96,Default,,0,0,0,,please head to the white rose boat on the right.
-Dialogue: 0,0:09:47.30,0:09:48.64,Default,,0,0,0,,Sapphire... Welcome, Master Sapphire.
+Dialogue: 0,0:09:47.30,0:09:48.64,Default,,0,0,0,,Welcome, Master Sapphire.
 Dialogue: 0,0:09:49.21,0:09:50.74,Default,,0,0,0,,So it really was you.
 Dialogue: 0,0:09:51.22,0:09:52.86,Default,,0,0,0,,My name is Duke Blanc.
 Dialogue: 0,0:09:53.20,0:09:54.20,Default,,0,0,0,,Duke Blanc?
@@ -169,7 +167,7 @@ Dialogue: 0,0:12:07.69,0:12:08.69,Default,,0,0,0,,Master Sapphire!
 Dialogue: 0,0:12:08.74,0:12:09.26,Default,,0,0,0,,Watch out!
 Dialogue: 0,0:12:09.60,0:12:10.50,Default,,0,0,0,,Kumambagio!
 Dialogue: 0,0:12:10.52,0:12:11.87,Default,,0,0,0,,Sapphire, take that!
-Dialogue: 0,0:12:14.50,0:12:15.50,Default,,0,0,0,,My Master Sapphire!
+Dialogue: 0,0:12:14.50,0:12:15.50,Default,,0,0,0,,Master Sapphire!
 Dialogue: 0,0:12:15.70,0:12:16.70,Default,,0,0,0,,Run! Get away!
 Dialogue: 0,0:12:31.32,0:12:32.47,Default,,0,0,0,,Master Sapphire!
 Dialogue: 0,0:12:34.50,0:12:35.50,Default,,0,0,0,,Master Sapphire!
@@ -181,7 +179,7 @@ Dialogue: 0,0:13:58.26,0:14:00.39,Default,,0,0,0,,Once the cliffside artillery i
 Dialogue: 0,0:14:00.42,0:14:03.28,Default,,0,0,0,,crushing the neighboring kingdom will be easy.
 Dialogue: 0,0:14:05.49,0:14:08.18,Default,,0,0,0,,And that neighboring kingdom will belong to you, Grand Duke.
 Dialogue: 0,0:14:08.51,0:14:10.08,Default,,0,0,0,,Splendid indeed.
-Dialogue: 0,0:14:12.45,0:14:13.52,Default,,0,0,0,,Sapphire is approaching!
+Dialogue: 0,0:14:12.45,0:14:13.52,Default,,0,0,0,,Prince Sapphire is approaching!
 Dialogue: 0,0:14:13.54,0:14:14.64,Default,,0,0,0,,What?
 Dialogue: 0,0:14:14.84,0:14:15.53,Default,,0,0,0,,Hide it!
 Dialogue: 0,0:14:15.70,0:14:16.84,Default,,0,0,0,,Raise the curtain!

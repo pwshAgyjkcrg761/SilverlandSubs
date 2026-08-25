@@ -419,23 +419,23 @@ That prince is quite a handful. Don't lower your guard!
 
 102
 00:08:04,480 --> 00:08:07,660
-Rule 1: The king must not yawn in front of the people.
+<i>Rule 1: The king must not yawn in front of the people.</i>
 
 103
 00:08:07,900 --> 00:08:09,760
-Hiccups and burps are completely out of the question.
+<i>Hiccups and burps are completely out of the question.</i>
 
 104
 00:08:10,050 --> 00:08:12,880
-Rule: The king must rarely laugh in front of the people.
+<i>Rule: The king must rarely laugh in front of the people.</i>
 
 105
 00:08:13,180 --> 00:08:15,440
-Rule: The king must not fetch things himself.
+<i>Rule: The king must not fetch things himself.</i>
 
 106
 00:08:15,610 --> 00:08:17,200
-He should have his retainers fetch them.
+<i>He should have his retainers fetch them.</i>
 
 107
 00:08:17,305 --> 00:08:18,305
@@ -651,7 +651,7 @@ Ah, I feel like I'm going mad.
 
 160
 00:12:21,949 --> 00:12:25,000
-Well, well, taking a walk all by yourself, my Prince?
+Well, well, Your Highness, taking a walk all by yourself?
 
 161
 00:12:25,280 --> 00:12:25,760
@@ -863,7 +863,7 @@ After going to all the trouble of buying that potion to tell men and women apart
 
 213
 00:15:17,391 --> 00:15:20,435
-from Ponk of the Potion Cave and lacing your sword with it, you didn't even use it?!
+from Ponko the apothecary and lacing your sword with it, you didn't even use it?!
 
 214
 00:15:20,460 --> 00:15:22,920
@@ -1051,7 +1051,7 @@ My Queen here have a drink.
 
 260
 00:17:20,759 --> 00:17:23,000
-How do i get out of this forest?
+How do I get out of this forest?
 
 261
 00:17:25,299 --> 00:17:28,060
@@ -1059,7 +1059,7 @@ Are you lost, young one?
 
 262
 00:17:28,444 --> 00:17:29,860
-Old lady, please help me.
+Ma'am, please help me.
 
 263
 00:17:30,159 --> 00:17:31,420
@@ -1087,7 +1087,7 @@ Go there quickly.
 
 269
 00:17:43,954 --> 00:17:45,260
-Thank you, old lady.
+Thank you, ma'am.
 
 270
 00:18:14,499 --> 00:18:18,380
@@ -1363,7 +1363,7 @@ actually?
 
 338
 00:23:17,624 --> 00:23:20,034
-Oh boy! I'm gonna talk, alright alright, I'm gonna talk!
+Oh boy! I'm gonna talk, all right all right, I'm gonna talk!
 
 339
 00:23:20,059 --> 00:23:22,606
@@ -1399,7 +1399,7 @@ What's wrong, Lord Nylon?
 
 347
 00:23:35,500 --> 00:23:39,768
-Prince, Duralumin is trying to find out from the Queen whether you're a boy or a girl!
+Your Highness, Duralumin is trying to find out from the Queen whether you're a boy or a girl!
 
 348
 00:23:39,792 --> 00:23:41,120
@@ -1426,95 +1426,99 @@ Leave!
 Sorry to have intruded, Your Majesty.
 
 354
-00:23:57,049 --> 00:24:00,240
-Sapphire, you are a girl. I know that.
+00:23:57,049 --> 00:23:59,540
+Sapphire, you are a girl.
 
 355
+00:23:59,564 --> 00:24:00,240
+I know that.
+
+356
 00:24:00,539 --> 00:24:03,840
 But there are too many evil schemes and customs in this kingdom.
 
-356
+357
 00:24:04,214 --> 00:24:07,560
 Until that is gone, I am a boy, Mother.
 
-357
+358
 00:24:07,999 --> 00:24:09,520
 Sapphire...
 
-358
+359
 00:24:38,950 --> 00:24:42,570
 ♪ Tarari Ratta Ritta Ratta Rattattaa ♪
 -
 
-359
+360
 00:24:42,571 --> 00:24:45,931
 ♪ Kyahoo! Kyahoo! Kyahoo! ♪
 Yahoo! Yahoo! Yahoo!
 
-360
+361
 00:24:45,932 --> 00:24:49,702
 ♪ Tarari Ratta Ritta Ratta Rattattaa ♪
 -
 
-361
+362
 00:24:49,703 --> 00:24:52,864
 ♪ Kyahoo! Kyahoo! Kyahoo! ♪
 Yahoo! Yahoo! Yahoo!
 
-362
+363
 00:24:52,865 --> 00:24:56,678
 ♪ Sen'nen man'nen hyakuman-nen ♪
 A thousand years, ten thousand years, a million years,
 
-363
+364
 00:24:56,679 --> 00:24:59,975
 ♪ Ribbon de tsunagou ichioku-nen ♪
 Let’s connect with ribbons for a billion years!
 
-364
+365
 00:24:59,976 --> 00:25:03,981
 ♪ Akuma ga kute mo arashi ga kute mo ♪
 Even if demons come, even if storms arrive,
 
-365
+366
 00:25:03,982 --> 00:25:07,420
 ♪ tsunaida kokoro wa hanarenai ♪
 Our bonded hearts will never part.
 
-366
+367
 00:25:07,421 --> 00:25:11,041
 ♪ Tarari Ratta Ritta Ratta Rattattaa ♪
 -
 
-367
+368
 00:25:11,042 --> 00:25:14,402
 ♪ Kyahoo! Kyahoo! Kyahoo! ♪
 Yahoo! Yahoo! Yahoo!
 
-368
+369
 00:25:14,403 --> 00:25:18,173
 ♪ Tarari Ratta Ritta Ratta Rattattaa ♪
 -
 
-369
+370
 00:25:18,174 --> 00:25:21,335
 ♪ Kyahoo! Kyahoo! Kyahoo! ♪
 Yahoo! Yahoo! Yahoo!
 
-370
+371
 00:25:21,359 --> 00:25:27,068
 Subtitled by
 SilverlandSubs
 tinyurl.com/SilverlandSubs
 
-371
+372
 00:25:27,092 --> 00:25:32,233
 Opening & Ending Song Lyrics Translation by
 Natalia Arlovskaya
 lyricstranslate.com/en/
 translator/natalia-arlovskaya
 
-372
+373
 00:25:32,257 --> 00:25:36,804
 EAN-13 : 8-031179-423880
 ASIN : ‎ B0DQ54LVY1

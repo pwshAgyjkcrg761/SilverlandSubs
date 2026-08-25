@@ -11,13 +11,11 @@ PlayResY: 576
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File:
-Video File:
 Video AR Mode: 4
 Video AR Value: 1.314554
 Video Zoom Percent: 0.500000
-Scroll Position: 1
-Active Line: 2
+Scroll Position: 364
+Active Line: 377
 Video Position: 1025
 
 [V4+ Styles]
@@ -89,7 +87,7 @@ Dialogue: 0,0:03:28.08,0:03:29.59,Default,,0,0,0,,A little person came out of th
 Dialogue: 0,0:03:29.61,0:03:31.17,Default,,0,0,0,,A little person from a shell?
 Dialogue: 0,0:03:32.70,0:03:34.46,Default,,0,0,0,,I was trapped in the shell.
 Dialogue: 0,0:03:34.61,0:03:36.21,Default,,0,0,0,,Thank you for saving me.
-Dialogue: 0,0:03:36.92,0:03:40.34,Default,,0,0,0,,He says this child was on a distant southern island.
+Dialogue: 0,0:03:36.92,0:03:40.34,Default,,0,0,0,,This little guy says he was on a distant southern island.
 Dialogue: 0,0:03:40.73,0:03:44.12,Default,,0,0,0,,He says he was trapped inside the shell and drifted all the way here.
 Dialogue: 0,0:03:44.99,0:03:46.50,Default,,0,0,0,,What’s your papa’s name?
 Dialogue: 0,0:03:47.40,0:03:48.16,Default,,0,0,0,,Genie.
@@ -303,11 +301,11 @@ Dialogue: 0,0:16:42.69,0:16:43.69,Default,,0,0,0,,Wah!
 Dialogue: 0,0:16:45.43,0:16:47.18,Default,,0,0,0,,I can't even get a word out!
 Dialogue: 0,0:16:53.96,0:16:56.78,Default,,0,0,0,,Help me!
 Dialogue: 0,0:16:58.57,0:17:00.88,Default,,0,0,0,,This frog has some paralysis medicine!
-Dialogue: 0,0:17:02.20,0:17:03.20,Default,,0,0,0,,It’s Tinku!
-Dialogue: 0,0:17:04.44,0:17:05.44,Default,,0,0,0,,Tinku!
+Dialogue: 0,0:17:02.20,0:17:03.20,Default,,0,0,0,,It’s Tink!
+Dialogue: 0,0:17:04.44,0:17:05.44,Default,,0,0,0,,Tink!
 Dialogue: 0,0:17:05.54,0:17:06.60,Default,,0,0,0,,It’s me!
-Dialogue: 0,0:17:06.82,0:17:07.72,Default,,0,0,0,,Tinku!
-Dialogue: 0,0:17:07.72,0:17:08.72,Default,,0,0,0,,Tinku!
+Dialogue: 0,0:17:06.82,0:17:07.72,Default,,0,0,0,,Tink!
+Dialogue: 0,0:17:07.72,0:17:08.72,Default,,0,0,0,,Tink!
 Dialogue: 0,0:17:09.92,0:17:10.94,Default,,0,0,0,,Sapphire!
 Dialogue: 0,0:17:16.26,0:17:17.26,Default,,0,0,0,,Alright!
 Dialogue: 0,0:17:18.29,0:17:19.29,Default,,0,0,0,,Now!
@@ -342,7 +340,7 @@ Dialogue: 0,0:20:09.48,0:20:10.48,Default,,0,0,0,,Sapphire!
 Dialogue: 0,0:20:10.70,0:20:11.50,Default,,0,0,0,,Tink!
 Dialogue: 0,0:20:11.66,0:20:12.66,Default,,0,0,0,,Was that too much for you?
 Dialogue: 0,0:20:12.84,0:20:14.42,Default,,0,0,0,,That's a relief!
-Dialogue: 0,0:20:14.42,0:20:17.98,Default,,0,0,0,,Say thank you to the frogs, they drove the giant man away!
+Dialogue: 0,0:20:14.42,0:20:17.98,Default,,0,0,0,,Say thank you to Kaeru-kun, they drove the giant man away!
 Dialogue: 0,0:20:18.04,0:20:19.04,Default,,0,0,0,,Frogs?
 Dialogue: 0,0:20:19.10,0:20:20.10,Default,,0,0,0,,Frogs dealt with a giant man?
 Dialogue: 0,0:20:30.85,0:20:33.05,Default,,0,0,0,,Tink, lure the giant man over here!
@@ -368,15 +366,15 @@ Dialogue: 0,0:21:22.70,0:21:24.18,Default,,0,0,0,,Don't kill Papa!
 Dialogue: 0,0:21:24.71,0:21:25.09,Default,,0,0,0,,You're...
 Dialogue: 0,0:21:25.93,0:21:26.98,Default,,0,0,0,,Papa!
 Dialogue: 0,0:21:27.34,0:21:28.34,Default,,0,0,0,,It's me!
-Dialogue: 0,0:21:28.46,0:21:29.66,Default,,0,0,0,,It's Bakun!
-Dialogue: 0,0:21:30.42,0:21:31.77,Default,,0,0,0,,Bakun?
+Dialogue: 0,0:21:28.46,0:21:29.66,Default,,0,0,0,,It's Bagoon!
+Dialogue: 0,0:21:30.42,0:21:31.77,Default,,0,0,0,,Bagoon?
 Dialogue: 0,0:21:32.18,0:21:33.59,Default,,0,0,0,,Papa!
-Dialogue: 0,0:21:35.28,0:21:36.28,Default,,0,0,0,,Bakun!
+Dialogue: 0,0:21:35.28,0:21:36.28,Default,,0,0,0,,Bagoon!
 Dialogue: 0,0:21:40.16,0:21:41.30,Default,,0,0,0,,Oh no!
 Dialogue: 0,0:21:43.94,0:21:45.38,Default,,0,0,0,,Papa!
 Dialogue: 0,0:21:45.62,0:21:47.72,Default,,0,0,0,,Papa, I missed you!
 Dialogue: 0,0:21:48.30,0:21:48.86,Default,,0,0,0,,Papa!
-Dialogue: 0,0:21:48.86,0:21:49.96,Default,,0,0,0,,Bakun!
+Dialogue: 0,0:21:48.86,0:21:49.96,Default,,0,0,0,,Bagoon!
 Dialogue: 0,0:21:55.10,0:21:56.94,Default,,0,0,0,,That child and the man...
 Dialogue: 0,0:21:59.92,0:22:00.92,Default,,0,0,0,,They're falling!
 Dialogue: 0,0:22:03.62,0:22:04.14,Default,,0,0,0,,Watch out!
@@ -387,7 +385,7 @@ Dialogue: 0,0:22:16.86,0:22:18.38,Default,,0,0,0,,This person is the only good o
 Dialogue: 0,0:22:18.56,0:22:20.02,Default,,0,0,0,,He brought me home!
 Dialogue: 0,0:22:21.70,0:22:25.10,Default,,0,0,0,,Papa was so worried he couldn't even eat!
 Dialogue: 0,0:22:25.22,0:22:27.68,Default,,0,0,0,,Was this man the one responsible for that magic lamp?!
-Dialogue: 0,0:22:28.56,0:22:32.82,Default,,0,0,0,,Bakun, you must never go out to play alone again!
+Dialogue: 0,0:22:28.56,0:22:32.82,Default,,0,0,0,,Bagoon, you must never go out to play alone again!
 Dialogue: 0,0:22:33.05,0:22:34.18,Default,,0,0,0,,I'm sorry, Papa!
 Dialogue: 0,0:22:34.30,0:22:35.50,Default,,0,0,0,,I'm not leaving anymore!
 Dialogue: 0,0:22:35.92,0:22:37.78,Default,,0,0,0,,I'm sorry for making you worry!
@@ -406,7 +404,7 @@ Dialogue: 0,0:23:11.98,0:23:12.98,Default,,0,0,0,,Lord Nylon?
 Dialogue: 0,0:23:13.70,0:23:19.04,Default,,0,0,0,,Well, he was a suspicious guy, so I used magic to turn him into a stupid duck!
 Dialogue: 0,0:23:19.67,0:23:20.67,Default,,0,0,0,,A magic duck?
 Dialogue: 0,0:23:34.54,0:23:36.12,Default,,0,0,0,,Have a safe trip, guys!
-Dialogue: 0,0:23:36.57,0:23:38.32,Default,,0,0,0,,Genie!
+Dialogue: 0,0:23:36.57,0:23:38.32,Default,,0,0,0,,Goodbye!
 Dialogue: 0,0:23:38.48,0:23:41.89,Default,,0,0,0,,Make sure to change Lord Nylon back from that stupid duck later!
 Dialogue: 0,0:23:42.54,0:23:46.28,Default,,0,0,0,,This should have taught Lord Nylon a bit of a lesson...
 Dialogue: 0,0:24:16.22,0:24:19.84,Karaoke,,0,0,0,,{\k29}{\k22}Ta{\k18}ra{\k16}ri {\k18}Ra{\k20}tta {\k23}Ri{\k19}tta {\k26}Ra{\k17}tta {\k19}Ra{\k66}tta{\k69}ttaa

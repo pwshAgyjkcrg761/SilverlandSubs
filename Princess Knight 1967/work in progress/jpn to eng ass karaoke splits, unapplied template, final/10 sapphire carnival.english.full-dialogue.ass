@@ -10,12 +10,10 @@ PlayResX: 720
 PlayResY: 576
 
 [Aegisub Project Garbage]
-Audio File:
-Video File:
 Video AR Mode: 4
 Video AR Value: 1.314554
 Scroll Position: 230
-Active Line: 242
+Active Line: 237
 Video Position: 950
 
 [V4+ Styles]
@@ -263,7 +261,7 @@ Dialogue: 0,0:23:07.26,0:23:07.85,Default,,0,0,0,,Thank you!
 Dialogue: 0,0:23:10.15,0:23:13.50,Default,,0,0,0,,About the mirror... I'm safe because you treated me like a girl.
 Dialogue: 0,0:23:14.16,0:23:17.12,Default,,0,0,0,,Rest assured, I won't say you're a girl anymore.
 Dialogue: 0,0:23:20.34,0:23:23.18,Default,,0,0,0,,You see, on the night of the festival, I met a wonderful girl.
-Dialogue: 0,0:23:24.32,0:23:25.80,Default,,0,0,0,,A girl with sky-blue hair.
+Dialogue: 0,0:23:24.32,0:23:25.80,Default,,0,0,0,,The girl with flaxen hair.
 Dialogue: 0,0:23:27.26,0:23:28.34,Default,,0,0,0,,She was so pretty.
 Dialogue: 0,0:23:42.27,0:23:43.27,Default,,0,0,0,,Sapphire!
 Dialogue: 0,0:23:44.65,0:23:46.28,Default,,0,0,0,,The girl with the flaxen hair!

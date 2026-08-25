@@ -10,12 +10,10 @@ PlayResX: 720
 PlayResY: 576
 
 [Aegisub Project Garbage]
-Audio File:
-Video File:
 Video AR Mode: 4
 Video AR Value: 1.314554
-Scroll Position: 315
-Active Line: 328
+Scroll Position: 222
+Active Line: 232
 Video Position: 950
 
 [V4+ Styles]
@@ -69,16 +67,16 @@ Dialogue: 0,0:03:26.50,0:03:28.55,Default,,0,0,0,,You look pretty shabby yoursel
 Dialogue: 0,0:03:28.98,0:03:29.98,Default,,0,0,0,,Can't be helped.
 Dialogue: 0,0:03:30.26,0:03:31.71,Default,,0,0,0,,We're gypsies, after all.
 Dialogue: 0,0:03:32.16,0:03:33.16,Default,,0,0,0,,Gypsies?
-Dialogue: 0,0:03:33.40,0:03:34.62,Default,,0,0,0,,What's a gypsy?
+Dialogue: 0,0:03:33.40,0:03:34.62,Default,,0,0,0,,What's a Gypsy?
 Dialogue: 0,0:03:35.12,0:03:42.76,Default,,0,0,0,,We're folks who travel all year round—singing, doing magic tricks, and stealing stuff.
 Dialogue: 0,0:03:42.90,0:03:44.64,Default,,0,0,0,,My name's Gem.
-Dialogue: 0,0:03:45.38,0:03:47.25,Default,,0,0,0,,And what about your mother and father?
+Dialogue: 0,0:03:45.38,0:03:47.25,Default,,0,0,0,,And what about your father and mother?
 Dialogue: 0,0:03:51.21,0:03:54.14,Default,,0,0,0,,My mom and dad died a long time ago.
 Dialogue: 0,0:03:54.45,0:03:56.18,Default,,0,0,0,,Must be nice to be a prince.
 Dialogue: 0,0:03:56.72,0:03:58.86,Default,,0,0,0,,Just once, I'd like to boss people around in a place like that.
 Dialogue: 0,0:03:59.24,0:04:00.34,Default,,0,0,0,,Shall I let you?
 Dialogue: 0,0:04:01.78,0:04:02.78,Default,,0,0,0,,Don't tease me.
-Dialogue: 0,0:04:03.02,0:04:04.94,Default,,0,0,0,,How could you do that just as a favor for a gypsy?
+Dialogue: 0,0:04:03.02,0:04:04.94,Default,,0,0,0,,How could you do that just as a favor for a Gypsy?
 Dialogue: 0,0:04:05.70,0:04:08.17,Default,,0,0,0,,Oh, but I can!
 Dialogue: 0,0:04:13.10,0:04:14.10,Default,,0,0,0,,How?
 Dialogue: 0,0:04:16.60,0:04:17.60,Default,,0,0,0,,How's this?
@@ -86,7 +84,7 @@ Dialogue: 0,0:04:18.41,0:04:19.90,Default,,0,0,0,,What's the point of making a f
 Dialogue: 0,0:04:20.58,0:04:22.27,Default,,0,0,0,,Wow, you two look identical!
 Dialogue: 0,0:04:22.43,0:04:25.44,Default,,0,0,0,,Right now, I'm reading a book called The Prince and the Pauper.
 Dialogue: 0,0:04:26.71,0:04:29.79,Default,,0,0,0,,It's about a prince and a beggar swapping places. See?
-Dialogue: 0,0:04:31.60,0:04:35.03,Default,,0,0,0,,So, just like in the book, Gypsy and I are going to swap places.
+Dialogue: 0,0:04:31.60,0:04:35.03,Default,,0,0,0,,So, just like in the book, Gem and I are going to swap places.
 Dialogue: 0,0:04:35.20,0:04:36.20,Default,,0,0,0,,Great idea, right?
 Dialogue: 0,0:04:36.44,0:04:37.44,Default,,0,0,0,,Hey, Gem!
 Dialogue: 0,0:04:39.36,0:04:41.40,Default,,0,0,0,,I haven't even had dinner yet!
@@ -242,7 +240,8 @@ Dialogue: 0,0:14:09.42,0:14:10.77,Default,,0,0,0,,Who's going to buy anything th
 Dialogue: 0,0:14:11.36,0:14:13.56,Default,,0,0,0,,If you fail, he gets hanged!
 Dialogue: 0,0:14:21.59,0:14:23.98,Default,,0,0,0,,Wait for me, Brother! I promise I'll sell it all!
 Dialogue: 0,0:14:24.92,0:14:25.92,Default,,0,0,0,,Pepper!
-Dialogue: 0,0:15:20.04,0:15:25.75,Default,,0,0,0,,I'm scared, Father... Brother...
+Dialogue: 0,0:15:01.93,0:15:03.14,Default,,0,0,0,,I'm scared!
+Dialogue: 0,0:15:20.04,0:15:25.75,Default,,0,0,0,,Mommy! I'm scared! Daddy! Big brother!
 Dialogue: 0,0:15:40.23,0:15:41.23,Default,,0,0,0,,Here's the town...
 Dialogue: 0,0:15:50.66,0:15:53.68,Default,,0,0,0,,Would anyone like some firewood?
 Dialogue: 0,0:15:53.70,0:15:54.58,Default,,0,0,0,,No, thanks.
@@ -257,6 +256,7 @@ Dialogue: 0,0:16:44.92,0:16:46.67,Default,,0,0,0,,A girl is drowning!
 Dialogue: 0,0:16:46.69,0:16:48.74,Default,,0,0,0,,Help!
 Dialogue: 0,0:16:55.61,0:16:58.59,Default,,0,0,0,,Goro-goro-san Come on, come on, quickly!
 Dialogue: 0,0:17:10.17,0:17:12.53,Default,,0,0,0,,Goro-goro-san thank you!
+Dialogue: 0,0:17:13.96,0:17:16.52,Default,,0,0,0,,Hold on tight, okay?
 Dialogue: 0,0:17:30.20,0:17:31.36,Default,,0,0,0,,Sister!
 Dialogue: 0,0:17:35.80,0:17:37.16,Default,,0,0,0,,Father
 Dialogue: 0,0:17:51.93,0:17:52.93,Default,,0,0,0,,Mother!
@@ -273,7 +273,7 @@ Dialogue: 0,0:19:20.18,0:19:21.42,Default,,0,0,0,,It's gold!
 Dialogue: 0,0:19:22.39,0:19:24.96,Default,,0,0,0,,Mother must have given it to me in my dream!
 Dialogue: 0,0:19:25.96,0:19:26.96,Default,,0,0,0,,Thank you!
 Dialogue: 0,0:19:30.35,0:19:31.35,Default,,0,0,0,,Good for you!
-Dialogue: 0,0:19:35.83,0:19:36.83,Default,,0,0,0,,Hey, Jim!
+Dialogue: 0,0:19:35.83,0:19:36.83,Default,,0,0,0,,Hey, Gem!
 Dialogue: 0,0:19:36.95,0:19:38.58,Default,,0,0,0,,Pepper isn't back yet!
 Dialogue: 0,0:19:38.90,0:19:42.04,Default,,0,0,0,,If they're not back by dawn, it's the gallows!
 Dialogue: 0,0:19:52.21,0:19:53.21,Default,,0,0,0,,Mr. Ton
@@ -308,8 +308,8 @@ Dialogue: 0,0:20:44.86,0:20:45.86,Default,,0,0,0,,Stay sharp!
 Dialogue: 0,0:20:47.66,0:20:48.22,Default,,0,0,0,,Oh no!
 Dialogue: 0,0:20:48.56,0:20:49.56,Default,,0,0,0,,Gem is in danger!
 Dialogue: 0,0:20:49.82,0:20:51.02,Default,,0,0,0,,Please, Highness!
-Dialogue: 0,0:20:51.21,0:20:52.38,Default,,0,0,0,,Save my big brother!
-Dialogue: 0,0:20:53.65,0:20:55.28,Default,,0,0,0,,If Big Brother dies, Pepper will die too!
+Dialogue: 0,0:20:51.21,0:20:52.51,Default,,0,0,0,,Save my big brother!
+Dialogue: 0,0:20:52.63,0:20:55.28,Default,,0,0,0,,If Big Brother dies, Pepper will die too!
 Dialogue: 0,0:21:00.46,0:21:01.68,Default,,0,0,0,,Oh, Lil!
 Dialogue: 0,0:21:02.64,0:21:02.92,Default,,0,0,0,,All right!
 Dialogue: 0,0:21:02.99,0:21:03.99,Default,,0,0,0,,Do not worry, Pepper!

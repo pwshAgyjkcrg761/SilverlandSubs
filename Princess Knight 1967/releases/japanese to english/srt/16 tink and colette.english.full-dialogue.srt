@@ -167,7 +167,7 @@ Ooh!, she's the cutest thing ever! Wow!
 
 39
 00:03:51,480 --> 00:03:55,888
-Oh no! A monster is attacking to eat Snow White!
+Oh no! A monster is attacking and about to eat Snow White!
 
 40
 00:04:00,040 --> 00:04:04,771
@@ -1395,7 +1395,7 @@ Oh! So that means...
 
 345
 00:22:02,719 --> 00:22:06,960
-Oh, it's the real Little Red! Ah, you're safe!
+Oh, it's the real Colette! Ah, you're safe!
 
 346
 00:22:07,240 --> 00:22:11,460

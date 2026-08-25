@@ -147,7 +147,7 @@ Gypsies?
 
 34
 00:03:33,400 --> 00:03:34,620
-What's a gypsy?
+What's a Gypsy?
 
 35
 00:03:35,120 --> 00:03:42,760
@@ -159,7 +159,7 @@ My name's Gem.
 
 37
 00:03:45,380 --> 00:03:47,253
-And what about your mother and father?
+And what about your father and mother?
 
 38
 00:03:51,210 --> 00:03:54,140
@@ -183,7 +183,7 @@ Don't tease me.
 
 43
 00:04:03,024 --> 00:04:04,940
-How could you do that just as a favor for a gypsy?
+How could you do that just as a favor for a Gypsy?
 
 44
 00:04:05,700 --> 00:04:08,173
@@ -215,7 +215,7 @@ It's about a prince and a beggar swapping places. See?
 
 51
 00:04:31,600 --> 00:04:35,026
-So, just like in the book, Gypsy and I are going to swap places.
+So, just like in the book, Gem and I are going to swap places.
 
 52
 00:04:35,200 --> 00:04:36,200
@@ -838,528 +838,536 @@ Wait for me, Brother! I promise I'll sell it all!
 Pepper!
 
 207
-00:15:20,041 --> 00:15:25,750
-I'm scared, Father... Brother...
+00:15:01,927 --> 00:15:03,138
+I'm scared!
 
 208
+00:15:20,041 --> 00:15:25,750
+Mommy! I'm scared! Daddy! Big brother!
+
+209
 00:15:40,229 --> 00:15:41,229
 Here's the town...
 
-209
+210
 00:15:50,659 --> 00:15:53,675
 Would anyone like some firewood?
 
-210
+211
 00:15:53,700 --> 00:15:54,580
 No, thanks.
 
-211
+212
 00:15:57,529 --> 00:15:59,276
 Would anyone like some firewood?
 
-212
+213
 00:15:59,300 --> 00:16:00,520
 Would anyone like some...
 
-213
+214
 00:16:15,869 --> 00:16:16,746
 My firewood...
 
-214
+215
 00:16:22,089 --> 00:16:23,680
 I need to gather it fast!
 
-215
+216
 00:16:28,560 --> 00:16:32,240
 Help!
 
-216
+217
 00:16:39,039 --> 00:16:40,526
 Help!
 
-217
+218
 00:16:41,004 --> 00:16:42,318
 Help!
 
-218
+219
 00:16:44,921 --> 00:16:46,665
 A girl is drowning!
 
-219
+220
 00:16:46,689 --> 00:16:48,740
 Help!
 
-220
+221
 00:16:55,614 --> 00:16:58,587
 Goro-goro-san Come on, come on, quickly!
 
-221
+222
 00:17:10,169 --> 00:17:12,526
 Goro-goro-san thank you!
 
-222
+223
+00:17:13,956 --> 00:17:16,519
+Hold on tight, okay?
+
+224
 00:17:30,200 --> 00:17:31,360
 Sister!
 
-223
+225
 00:17:35,800 --> 00:17:37,159
 Father
 
-224
+226
 00:17:51,929 --> 00:17:52,929
 Mother!
 
-225
+227
 00:18:35,839 --> 00:18:36,860
 Open your eyes!
 
-226
+228
 00:18:39,779 --> 00:18:41,400
 Don't... don't die!
 
-227
+229
 00:18:41,474 --> 00:18:43,000
 After I went through all the trouble to save you!
 
-228
+230
 00:18:45,840 --> 00:18:46,720
 Please!
 
-229
+231
 00:18:46,824 --> 00:18:48,200
 Save this child!
 
-230
+232
 00:18:54,665 --> 00:18:56,140
 What about that Heavenly Father?
 
-231
+233
 00:18:56,539 --> 00:18:57,660
 At least say something!
 
-232
+234
 00:18:58,460 --> 00:18:59,460
 Ah!
 
-233
+235
 00:19:18,099 --> 00:19:19,099
 It's beautiful!
 
-234
+236
 00:19:20,180 --> 00:19:21,420
 It's gold!
 
-235
+237
 00:19:22,389 --> 00:19:24,960
 Mother must have given it to me in my dream!
 
-236
+238
 00:19:25,960 --> 00:19:26,960
 Thank you!
 
-237
+239
 00:19:30,349 --> 00:19:31,349
 Good for you!
 
-238
+240
 00:19:35,830 --> 00:19:36,830
-Hey, Jim!
+Hey, Gem!
 
-239
+241
 00:19:36,949 --> 00:19:38,580
 Pepper isn't back yet!
 
-240
+242
 00:19:38,903 --> 00:19:42,039
 If they're not back by dawn, it's the gallows!
 
-241
+243
 00:19:52,205 --> 00:19:53,205
 Mr. Ton
 
-242
+244
 00:19:54,825 --> 00:19:55,825
 Pepper!
 
-243
+245
 00:20:01,180 --> 00:20:02,180
 Look!
 
-244
+246
 00:20:02,950 --> 00:20:03,720
 Hey, everyone!
 
-245
+247
 00:20:03,879 --> 00:20:04,960
 This is gold!
 
-246
+248
 00:20:05,860 --> 00:20:06,260
 Hey!
 
-247
+249
 00:20:06,529 --> 00:20:07,640
 I'll cut Gem's rope!
 
-248
+250
 00:20:09,929 --> 00:20:11,395
 Pepper!
 
-249
+251
 00:20:13,920 --> 00:20:14,355
 Hey!
 
-250
+252
 00:20:14,380 --> 00:20:15,013
 Gypsy scum!
 
-251
+253
 00:20:15,195 --> 00:20:16,195
 This looks important!
 
-252
+254
 00:20:16,325 --> 00:20:17,325
 Oh boy, oh boy!
 
-253
+255
 00:20:17,360 --> 00:20:18,360
 Lord Officers!
 
-254
+256
 00:20:18,400 --> 00:20:19,820
 If it's official castle business!
 
-255
+257
 00:20:20,060 --> 00:20:21,060
 Then hear my command!
 
-256
+258
 00:20:21,549 --> 00:20:22,700
 Kill Sapphire!
 
-257
+259
 00:20:23,169 --> 00:20:24,520
 By order of the castle... for me?
 
-258
+260
 00:20:25,489 --> 00:20:28,200
 First, Sapphire goes for a walk with Lord Nylon!
 
-259
+261
 00:20:28,819 --> 00:20:29,819
 That's when we kill him!
 
-260
+262
 00:20:30,400 --> 00:20:30,700
 Ton!
 
-261
+263
 00:20:31,259 --> 00:20:32,540
 Go get four men at once!
 
-262
+264
 00:20:32,980 --> 00:20:33,980
 Got it!
 
-263
+265
 00:20:35,380 --> 00:20:35,920
 Yah!
 
-264
+266
 00:20:35,980 --> 00:20:37,820
 Thank you for your service!
 
-265
+267
 00:20:38,720 --> 00:20:39,040
 Hey!
 
-266
+268
 00:20:39,160 --> 00:20:40,260
 Everyone, assemble!
 
-267
+269
 00:20:41,530 --> 00:20:42,530
 Let us do this together!
 
-268
+270
 00:20:43,329 --> 00:20:44,760
 Men, this is official castle business!
 
-269
+271
 00:20:44,860 --> 00:20:45,860
 Stay sharp!
 
-270
+272
 00:20:47,660 --> 00:20:48,220
 Oh no!
 
-271
+273
 00:20:48,560 --> 00:20:49,560
 Gem is in danger!
 
-272
+274
 00:20:49,824 --> 00:20:51,020
 Please, Highness!
 
-273
-00:20:51,214 --> 00:20:52,380
+275
+00:20:51,214 --> 00:20:52,512
 Save my big brother!
 
-274
-00:20:53,649 --> 00:20:55,280
+276
+00:20:52,633 --> 00:20:55,280
 If Big Brother dies, Pepper will die too!
 
-275
+277
 00:21:00,459 --> 00:21:01,680
 Oh, Lil!
 
-276
+278
 00:21:02,640 --> 00:21:02,920
 All right!
 
-277
+279
 00:21:02,990 --> 00:21:03,990
 Do not worry, Pepper!
 
-278
+280
 00:21:04,234 --> 00:21:06,340
 I, Sapphire, will surely save your brother!
 
-279
+281
 00:21:06,341 --> 00:21:07,341
 Please!
 
-280
+282
 00:21:30,089 --> 00:21:33,780
 A morning ride truly is delightful, Your Highness.
 
-281
+283
 00:21:33,919 --> 00:21:36,406
 It is an honor to accompany you.
 
-282
+284
 00:21:36,749 --> 00:21:39,966
 Honor is fine, but slow down a bit!
 
-283
+285
 00:21:42,879 --> 00:21:45,260
 Let us head back to the castle now.
 
-284
+286
 00:21:50,639 --> 00:21:52,180
 He always rushes off like that.
 
-285
+287
 00:21:52,499 --> 00:21:53,700
 He went the wrong way!
 
-286
+288
 00:21:59,590 --> 00:22:01,146
 Help!
 
-287
+289
 00:22:04,269 --> 00:22:05,269
 Prince!
 
-288
+290
 00:22:05,620 --> 00:22:06,620
 Help me!
 
-289
+291
 00:22:25,960 --> 00:22:26,580
 Gem!
 
-290
+292
 00:22:26,600 --> 00:22:27,180
 I'm coming!
 
-291
+293
 00:22:27,260 --> 00:22:28,260
 He's here!
 
-292
+294
 00:22:28,740 --> 00:22:29,740
 - Your Highness!
 - Gem
 
-293
+295
 00:22:30,409 --> 00:22:31,409
 Keep out of my way!
 
-294
+296
 00:22:35,840 --> 00:22:37,706
 Wait, aren't you Gem?!
 
-295
+297
 00:22:37,824 --> 00:22:39,540
 What on earth are you doing here?!
 
-296
+298
 00:22:39,720 --> 00:22:40,180
 Go back!
 
-297
+299
 00:22:40,280 --> 00:22:41,280
 Get out of here!
 
-298
+300
 00:22:41,539 --> 00:22:44,680
 I'm sorry, but I can't go back!
 
-299
+301
 00:23:17,979 --> 00:23:19,980
 Your Highness really is strong.
 
-300
+302
 00:23:20,759 --> 00:23:22,400
 Gem, what about the assassins?
 
-301
+303
 00:23:22,769 --> 00:23:25,400
 That pole hit them earlier, so they're knocked out cold over there.
 
-302
+304
 00:23:31,959 --> 00:23:33,500
 Gem, did you enjoy yourself?
 
-303
+305
 00:23:33,580 --> 00:23:34,580
 Inside the castle?
 
-304
+306
 00:23:35,774 --> 00:23:37,960
 It was totally boring in there.
 
-305
+307
 00:23:38,214 --> 00:23:39,553
 There were always guards watching me.
 
-306
+308
 00:23:39,720 --> 00:23:40,720
 How about you, Sapphire?
 
-307
+309
 00:23:41,209 --> 00:23:43,680
 A lot happened on my end, too.
 
-308
+310
 00:23:44,274 --> 00:23:47,140
 I feel I learned quite a lot from it all.
 
-309
+311
 00:23:51,229 --> 00:23:52,229
 Farewell, Gem.
 
-310
+312
 00:23:52,479 --> 00:23:53,500
 Pepper is waiting for you.
 
-311
+313
 00:23:54,120 --> 00:23:54,499
 Yeah.
 
-312
+314
 00:23:59,840 --> 00:24:00,840
 Damn it!
 
-313
+315
 00:24:00,880 --> 00:24:02,460
 That prince was an imposter!
 
-314
+316
 00:24:02,640 --> 00:24:03,853
 Damn it!
 
-315
+317
 00:24:05,100 --> 00:24:05,720
 He's an imposter!
 
-316
+318
 00:24:05,780 --> 00:24:06,140
 An imposter!
 
-317
+319
 00:24:06,200 --> 00:24:06,620
 An imposter!
 
-318
+320
 00:24:06,660 --> 00:24:07,660
 An imposter!
 
-319
+321
 00:24:33,420 --> 00:24:37,040
 ♪ Tarari Ratta Ritta Ratta Rattattaa ♪
 -
 
-320
+322
 00:24:37,041 --> 00:24:40,401
 ♪ Kyahoo! Kyahoo! Kyahoo! ♪
 Yahoo! Yahoo! Yahoo!
 
-321
+323
 00:24:40,402 --> 00:24:44,172
 ♪ Tarari Ratta Ritta Ratta Rattattaa ♪
 -
 
-322
+324
 00:24:44,173 --> 00:24:47,334
 ♪ Kyahoo! Kyahoo! Kyahoo! ♪
 Yahoo! Yahoo! Yahoo!
 
-323
+325
 00:24:47,335 --> 00:24:51,148
 ♪ Sen'nen man'nen hyakuman-nen ♪
 A thousand years, ten thousand years, a million years,
 
-324
+326
 00:24:51,149 --> 00:24:54,445
 ♪ Ribbon de tsunagou ichioku-nen ♪
 Let’s connect with ribbons for a billion years!
 
-325
+327
 00:24:54,446 --> 00:24:58,451
 ♪ Akuma ga kute mo arashi ga kute mo ♪
 Even if demons come, even if storms arrive,
 
-326
+328
 00:24:58,452 --> 00:25:01,890
 ♪ tsunaida kokoro wa hanarenai ♪
 Our bonded hearts will never part.
 
-327
+329
 00:25:01,891 --> 00:25:05,511
 ♪ Tarari Ratta Ritta Ratta Rattattaa ♪
 -
 
-328
+330
 00:25:05,512 --> 00:25:08,872
 ♪ Kyahoo! Kyahoo! Kyahoo! ♪
 Yahoo! Yahoo! Yahoo!
 
-329
+331
 00:25:08,873 --> 00:25:12,643
 ♪ Tarari Ratta Ritta Ratta Rattattaa ♪
 -
 
-330
+332
 00:25:12,644 --> 00:25:15,805
 ♪ Kyahoo! Kyahoo! Kyahoo! ♪
 Yahoo! Yahoo! Yahoo!
 
-331
+333
 00:25:15,829 --> 00:25:21,538
 Subtitled by
 SilverlandSubs
 tinyurl.com/SilverlandSubs
 
-332
+334
 00:25:21,562 --> 00:25:26,703
 Opening & Ending Song Lyrics Translation by
 Natalia Arlovskaya
 lyricstranslate.com/en/
 translator/natalia-arlovskaya
 
-333
+335
 00:25:26,727 --> 00:25:30,727
 EAN-13 : 8-031179-423880
 ASIN : ‎ B0DQ54LVY1

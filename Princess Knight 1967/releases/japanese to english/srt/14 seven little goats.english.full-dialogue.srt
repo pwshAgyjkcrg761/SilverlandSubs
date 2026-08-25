@@ -379,7 +379,7 @@ Heh heh, once I get that photo...
 
 92
 00:08:22,630 --> 00:08:25,360
-Princess Sapphire, what did you do with that photo?
+Lord Sapphire, what did you do with that photo?
 
 93
 00:08:25,361 --> 00:08:28,633
@@ -411,7 +411,7 @@ Where did it happen?
 
 100
 00:08:40,000 --> 00:08:41,720
-Just outside the North Ranch, apparently.
+Just outside the north ranch, apparently.
 
 101
 00:08:42,065 --> 00:08:43,065
@@ -1035,19 +1035,19 @@ Hey, hey, hey!
 
 256
 00:21:24,420 --> 00:21:25,420
-It's...
+It's a...
 
 257
-00:21:25,605 --> 00:21:26,605
-Skinny guy!
+00:21:25,605 --> 00:21:26,751
+Thief!
 
 258
 00:21:27,200 --> 00:21:28,200
-Skinny guy!
+Thief!
 
 259
 00:21:31,102 --> 00:21:32,429
-Skinny guy!
+Thief!
 
 260
 00:21:32,475 --> 00:21:34,094
@@ -1055,11 +1055,11 @@ Feast!
 
 261
 00:21:34,118 --> 00:21:36,540
-Mr. Feast!
+Lord Feast!
 
 262
 00:21:37,360 --> 00:21:38,360
-Little boy!
+My children!
 
 263
 00:21:39,003 --> 00:21:43,419
@@ -1072,11 +1072,11 @@ Wait!
 
 265
 00:21:44,655 --> 00:21:45,792
-Skinny guy!
+Thief!
 
 266
 00:21:45,816 --> 00:21:47,296
-Mr. Feast!
+Lord Feast!
 
 267
 00:21:47,322 --> 00:21:48,948

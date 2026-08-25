@@ -219,7 +219,7 @@ I made those footprints walking backward!
 
 52
 00:06:10,830 --> 00:06:12,086
-Prince Sapphire.
+Lord Sapphire!
 
 53
 00:06:12,450 --> 00:06:13,450
@@ -231,7 +231,7 @@ A letter has arrived at the castle.
 
 55
 00:06:16,245 --> 00:06:17,974
-It's from Prince Franz.
+It's from Lord Franz.
 
 56
 00:06:18,880 --> 00:06:19,880
@@ -243,11 +243,11 @@ How are you, Prince Sapphire?
 
 58
 00:06:26,100 --> 00:06:32,180
-Have you found the flaxen-haired girl I danced with yet?
+<i>Have you found the flaxen-haired girl I danced with yet?</i>
 
 59
 00:06:38,120 --> 00:06:39,619
-Flaxen-haired...
+<i>Flaxen-haired...</i>
 
 60
 00:06:47,250 --> 00:06:48,857
@@ -327,7 +327,7 @@ I smell iron.
 
 79
 00:08:38,575 --> 00:08:40,419
-Watch out! Look out!
+Careful, careful.
 
 80
 00:08:47,760 --> 00:08:48,920
@@ -391,7 +391,7 @@ To do that, we must deal with Sapphire!
 
 95
 00:09:43,360 --> 00:09:46,108
-Popa, I wanna be the king!
+Papa, I wanna be the king!
 
 96
 00:09:46,329 --> 00:09:48,400
@@ -1030,8 +1030,8 @@ Alright, big guy, you're fighting me!
 Zuru, stay there and protect the babies.
 
 255
-00:20:50,999 --> 00:20:52,660
-I have to hurry and help Sapphire!
+00:20:49,472 --> 00:20:52,660
+Mogura-kun hurry and help Sapphire!
 
 256
 00:21:03,509 --> 00:21:04,800
@@ -1055,7 +1055,7 @@ Hooray!
 
 261
 00:21:31,044 --> 00:21:33,102
-You saved me, Master Sapphire!
+You saved me, Lord Sapphire!
 
 262
 00:21:34,214 --> 00:21:35,340
@@ -1131,7 +1131,7 @@ You can't!
 
 280
 00:22:37,049 --> 00:22:39,122
-Master Sapphire is actually...
+Lord Sapphire is actually...
 
 281
 00:22:39,146 --> 00:22:39,969
@@ -1155,7 +1155,7 @@ For you, this is your...
 
 286
 00:22:45,514 --> 00:22:46,324
-..WEAK SPOT
+..weak spot!
 
 287
 00:22:46,348 --> 00:22:47,860
@@ -1227,7 +1227,7 @@ I let her get away.
 
 304
 00:23:51,079 --> 00:23:52,660
-Oh, you let him get away!
+Oh, you let her get away!
 
 305
 00:24:24,821 --> 00:24:28,441

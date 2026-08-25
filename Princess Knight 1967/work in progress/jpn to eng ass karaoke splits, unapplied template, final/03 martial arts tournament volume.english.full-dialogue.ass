@@ -11,13 +11,11 @@ PlayResY: 576
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File:
-Video File:
 Video AR Mode: 4
 Video AR Value: 1.314554
 Video Zoom Percent: 0.500000
-Scroll Position: 321
-Active Line: 330
+Scroll Position: 300
+Active Line: 316
 Video Position: 2688
 
 [V4+ Styles]
@@ -67,9 +65,9 @@ Dialogue: 0,0:03:04.57,0:03:05.68,Default,,0,0,0,,Get out!
 Dialogue: 0,0:03:05.90,0:03:06.90,Default,,0,0,0,,Y-Yes, sir...
 Dialogue: 0,0:03:08.07,0:03:12.72,Default,,0,0,0,,By the way, Prince Sapphire, tomorrow is finally the annual martial arts tournament.
 Dialogue: 0,0:03:14.21,0:03:17.78,Default,,0,0,0,,Skilled swordsmen from far and wide are gathering.
-Dialogue: 0,0:03:23.50,0:03:24.90,Default,,0,0,0,,Open up! I have my officers with me!
+Dialogue: 0,0:03:23.50,0:03:24.90,Default,,0,0,0,,You fools at the gate!
 Dialogue: 0,0:03:25.54,0:03:28.11,Default,,0,0,0,,Whoa, that knight looks incredibly strong.
-Dialogue: 0,0:03:28.73,0:03:32.60,Default,,0,0,0,,They are participating in the martial arts tournament by invitation of the Kingdom of Silverland.
+Dialogue: 0,0:03:28.73,0:03:32.60,Default,,0,0,0,,I am participating in the martial arts tournament by invitation of the Kingdom of Silverland.
 Dialogue: 0,0:03:32.80,0:03:33.96,Default,,0,0,0,,Make way!
 Dialogue: 0,0:03:37.90,0:03:42.90,Default,,0,0,0,,Ah, ah, ah, wait! Hold on!
 Dialogue: 0,0:03:43.62,0:03:47.10,Default,,0,0,0,,Wait, I'm telling you I have an invitation, look...
@@ -80,20 +78,20 @@ Dialogue: 0,0:04:26.23,0:04:28.16,Default,,0,0,0,,Looks like I passed.
 Dialogue: 0,0:04:28.59,0:04:29.92,Default,,0,0,0,,Wow, that's incredible!
 Dialogue: 0,0:04:30.90,0:04:32.36,Default,,0,0,0,,A reliable guy has appeared.
 Dialogue: 0,0:04:32.54,0:04:33.92,Default,,0,0,0,,Give it your all in the match!
-Dialogue: 0,0:04:34.27,0:04:38.06,Default,,0,0,0,,He'll beat Sapphire to a pulp and finish them off.
+Dialogue: 0,0:04:34.27,0:04:38.06,Default,,0,0,0,,He'll beat Sapphire to a pulp and finish him off.
 Dialogue: 0,0:04:39.49,0:04:40.49,Default,,0,0,0,,Oh no, this is terrible!
 Dialogue: 0,0:04:40.64,0:04:41.86,Default,,0,0,0,,They say he's going to kill Sapphire!
 Dialogue: 0,0:04:42.26,0:04:43.26,Default,,0,0,0,,I can't just stand around!
-Dialogue: 0,0:04:43.58,0:04:45.81,Default,,0,0,0,,Little Stork, please!
+Dialogue: 0,0:04:43.58,0:04:45.81,Default,,0,0,0,,Konotori-chan, please!
 Dialogue: 0,0:05:10.72,0:05:11.46,Default,,0,0,0,,Whoa!
 Dialogue: 0,0:05:11.56,0:05:12.94,Default,,0,0,0,,Doesn't look like I can get in there.
 Dialogue: 0,0:05:13.24,0:05:15.86,Default,,0,0,0,,Alright, I'll go inside this.
 Dialogue: 0,0:05:16.25,0:05:17.35,Default,,0,0,0,,He's stealing my lunch!
-Dialogue: 0,0:05:25.48,0:05:27.76,Default,,0,0,0,,Go on, let me in. I'm Contestant Baron.
+Dialogue: 0,0:05:25.48,0:05:27.76,Default,,0,0,0,,Go on, let me in. I'm Competitor Baron.
 Dialogue: 0,0:05:28.12,0:05:29.58,Default,,0,0,0,,Please, come right in.
 Dialogue: 0,0:05:31.36,0:05:31.88,Default,,0,0,0,,Good work.
 Dialogue: 0,0:05:32.28,0:05:33.28,Default,,0,0,0,,Yes.
-Dialogue: 0,0:05:34.21,0:05:35.60,Default,,0,0,0,,Contestant Guillotine.
+Dialogue: 0,0:05:34.21,0:05:35.60,Default,,0,0,0,,Competitor Guillotine.
 Dialogue: 0,0:05:35.74,0:05:36.21,Default,,0,0,0,,What?
 Dialogue: 0,0:05:41.31,0:05:43.46,Default,,0,0,0,,Oh, so you did show up after all!
 Dialogue: 0,0:05:43.75,0:05:46.02,Default,,0,0,0,,Oh, it's you. Hey.
@@ -278,8 +276,8 @@ Dialogue: 0,0:18:21.50,0:18:22.52,Default,,0,0,0,,Here I go!
 Dialogue: 0,0:18:37.70,0:18:38.70,Default,,0,0,0,,Look out!
 Dialogue: 0,0:18:45.00,0:18:47.14,Default,,0,0,0,,Baron, it's a sneak attack!
 Dialogue: 0,0:18:51.13,0:18:52.13,Default,,0,0,0,,A sneak attack?
-Dialogue: 0,0:18:52.78,0:18:54.70,Default,,0,0,0,,Who would do such a terrible thing... What?
-Dialogue: 0,0:18:54.73,0:18:56.14,Default,,0,0,0,,What! Guillotine ran away?
+Dialogue: 0,0:18:52.78,0:18:54.70,Default,,0,0,0,,Who would do such a terrible thing...
+Dialogue: 0,0:18:54.73,0:18:56.14,Default,,0,0,0,,What?! Guillotine ran away?
 Dialogue: 0,0:18:56.51,0:18:58.66,Default,,0,0,0,,That's right. He's probably afraid of you.
 Dialogue: 0,0:18:59.20,0:19:00.20,Default,,0,0,0,,That's preposterous.
 Dialogue: 0,0:19:00.31,0:19:02.42,Default,,0,0,0,,Guillotine is a brave and honorable man.
@@ -314,7 +312,7 @@ Dialogue: 0,0:19:59.69,0:20:01.08,Default,,0,0,0,,Killed by someone...
 Dialogue: 0,0:20:03.31,0:20:04.31,Default,,0,0,0,,I see...
 Dialogue: 0,0:20:06.56,0:20:07.24,Default,,0,0,0,,Hey!
 Dialogue: 0,0:20:07.36,0:20:08.36,Default,,0,0,0,,Stop it!
-Dialogue: 0,0:20:18.68,0:20:19.68,Default,,0,0,0,,My God!
+Dialogue: 0,0:20:18.68,0:20:19.68,Default,,0,0,0,,Oh God!
 Dialogue: 0,0:20:38.68,0:20:40.48,Default,,0,0,0,,It's over...
 Dialogue: 0,0:20:40.92,0:20:41.54,Default,,0,0,0,,Don't underestimate me!
 Dialogue: 0,0:20:41.56,0:20:42.56,Default,,0,0,0,,I won!
@@ -344,7 +342,7 @@ Dialogue: 0,0:22:10.04,0:22:10.62,Default,,0,0,0,,I've been waiting for you!
 Dialogue: 0,0:22:10.94,0:22:12.95,Default,,0,0,0,,How dare you half-ass our match earlier!
 Dialogue: 0,0:22:13.06,0:22:14.42,Default,,0,0,0,,We're fighting for real right here!
 Dialogue: 0,0:22:14.45,0:22:15.45,Default,,0,0,0,,Damn you!
-Dialogue: 0,0:22:16.63,0:22:18.04,Default,,0,0,0,,That should be enough.
+Dialogue: 0,0:22:16.63,0:22:18.04,Default,,0,0,0,,This should be enough.
 Dialogue: 0,0:22:18.46,0:22:19.58,Default,,0,0,0,,Why won't you draw your sword!
 Dialogue: 0,0:22:20.42,0:22:20.98,Default,,0,0,0,,Here I come!
 Dialogue: 0,0:22:21.26,0:22:22.26,Default,,0,0,0,,From above!

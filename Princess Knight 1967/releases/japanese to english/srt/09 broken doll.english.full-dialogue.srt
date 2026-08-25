@@ -228,7 +228,7 @@ Ah, yes, Mother...
 
 54
 00:04:47,646 --> 00:04:56,520
-O noble ancestors of Silverland, today we perform the cleaning and upkeep of the demon-repelling idol...
+O noble ancestors of Silverland, today we perform the cleaning and upkeep of the demon-repelling idols...
 
 55
 00:05:36,060 --> 00:05:37,801
@@ -268,7 +268,7 @@ Don't touch it, Sapphire!
 
 64
 00:06:18,720 --> 00:06:23,200
-Sapphire, you must not touch or move the sacred idol as you please!
+Sapphire, you must not touch or move the sacred idols as you please!
 
 65
 00:06:24,930 --> 00:06:26,800
@@ -316,7 +316,7 @@ You fool!
 
 76
 00:07:36,020 --> 00:07:39,100
-Tell me, what punishment awaits one who breaks the idol?!
+Tell me, what punishment awaits one who breaks the idols?!
 
 77
 00:07:39,440 --> 00:07:39,760
@@ -324,7 +324,7 @@ Yes!
 
 78
 00:07:40,095 --> 00:07:43,000
-If you scratch the idol's face, your own face will be slashed!
+If you scratch an idol's face, your own face will be slashed!
 
 79
 00:07:43,500 --> 00:07:48,840
@@ -356,7 +356,7 @@ Have some pity on them!
 
 86
 00:08:00,521 --> 00:08:05,186
-Oh, Your Highness! Thank you so very, very much for saving the idol...
+Oh, Your Highness! Thank you so very, very much for saving that idol...
 
 87
 00:08:05,210 --> 00:08:06,419
@@ -364,7 +364,7 @@ Here! I'm returning it!
 
 88
 00:08:17,340 --> 00:08:19,760
-The idol is safe and sound.
+That idol is safe and sound.
 
 89
 00:08:21,430 --> 00:08:23,540
@@ -460,7 +460,7 @@ Death sentence?
 
 112
 00:09:57,030 --> 00:10:01,260
-Well, he broke the demon-warding idol, so it can't be helped.
+Well, he broke a demon-warding idol, so it can't be helped.
 
 113
 00:10:02,120 --> 00:10:03,120
@@ -476,7 +476,7 @@ Damn it!
 
 116
 00:10:34,579 --> 00:10:35,980
-Mister, please stop!
+Your Highness, please stop!
 
 117
 00:10:36,390 --> 00:10:37,390
@@ -568,7 +568,7 @@ Proceed!
 
 139
 00:12:26,799 --> 00:12:28,120
-Oh, she's being marched off to execution?!
+But isn't that my child?!
 
 140
 00:12:29,020 --> 00:12:29,640
@@ -584,7 +584,7 @@ What on earth... what on earth is the meaning of this?
 
 143
 00:12:32,965 --> 00:12:36,060
-Why is my s-s-son being executed?
+Why is my dau... dau... son being executed?
 
 144
 00:12:36,109 --> 00:12:38,880
@@ -595,7 +595,7 @@ Your Majesty, I received proper authorization.
 Lord Sapphire broke 30 idols.
 
 146
-00:12:43,020 --> 00:12:51,020
+00:12:44,280 --> 00:12:51,020
 That many... Sapphire, what in the world... what in the world have you done?
 
 147
@@ -772,7 +772,7 @@ The women are saying they're going to
 
 190
 00:16:05,638 --> 00:16:08,040
-break the idol to save Princess Sapphire!
+break the idols to save Lord Sapphire!
 
 191
 00:16:09,300 --> 00:16:11,240
@@ -823,7 +823,7 @@ Damn it!
 The execution is called off!
 
 203
-00:16:46,900 --> 00:16:48,240
+00:16:46,900 --> 00:16:48,386
 Capture the women!
 
 204
@@ -835,451 +835,479 @@ The women are smarter than the men!
 Are you saying something like this is worse than a demon!
 
 206
+00:17:11,089 --> 00:17:13,329
+La, la la la, la la la
+
+207
+00:17:13,523 --> 00:17:15,776
+La la, la la, la la
+
+208
+00:17:16,049 --> 00:17:18,276
+La, la la la, la la la
+
+209
+00:17:18,418 --> 00:17:20,718
+La la, la la, la la
+
+210
+00:17:21,011 --> 00:17:23,258
+La, la la la, la la la
+
+211
+00:17:23,461 --> 00:17:25,608
+La la, la la, la la
+
+212
+00:17:25,941 --> 00:17:28,215
+La, la la la, la la la
+
+213
+00:17:28,428 --> 00:17:32,441
+La la, la la, la, la, la, la
+
+214
 00:17:38,240 --> 00:17:39,240
 I don't care!
 
-207
+215
 00:17:39,314 --> 00:17:41,184
 Send them to the scaffold,
 
-208
+216
 00:17:41,208 --> 00:17:43,200
 whether there are thousands or tens of thousands of them!
 
-209
+217
 00:17:43,489 --> 00:17:44,726
-Not on my watch!
+<i>Not on my watch!</i>
 
-210
+218
 00:17:48,366 --> 00:17:49,286
 Mephisto!
 
-211
+219
 00:17:50,429 --> 00:17:51,460
 Is that Mephisto?!
 
-212
+220
 00:17:51,914 --> 00:17:54,833
 You tried to kill Sapphire without my permission, Duralumin!
 
-213
+221
 00:17:55,554 --> 00:17:59,760
 However, if you give me Sapphire's boy's heart, I might forgive you!
 
-214
+222
 00:18:00,235 --> 00:18:01,200
 Forgive me!
 
-215
+223
 00:18:01,240 --> 00:18:03,280
 Sapphire's heart belongs to you!
 
-216
+224
 00:18:03,759 --> 00:18:06,720
 However, that angel Tink is with her, so I can't get near!
 
-217
+225
 00:18:07,359 --> 00:18:09,040
 Leave Sapphire alone!
 
-218
+226
 00:18:09,340 --> 00:18:09,700
 All right!
 
-219
+227
 00:18:09,889 --> 00:18:11,560
 Let's take only Sapphire out of the cell!
 
-220
+228
 00:18:11,584 --> 00:18:12,900
 That should do!
 
-221
+229
 00:18:13,819 --> 00:18:14,860
 Very well!
 
-222
+230
 00:18:18,099 --> 00:18:19,340
 What business do you have with me?
 
-223
+231
 00:18:19,899 --> 00:18:21,820
 The King is requesting your presence.
 
-224
+232
 00:18:22,360 --> 00:18:22,775
 All right!
 
-225
+233
 00:18:22,800 --> 00:18:23,320
 Lead the way!
 
-226
+234
 00:18:23,624 --> 00:18:24,680
 Sapphire, are you okay?
 
-227
+235
 00:18:24,681 --> 00:18:28,066
-Since Father is calling for you, he must be calling off the execution!
+Since Father is calling for me, he must be calling off the execution!
 
-228
+236
 00:18:45,419 --> 00:18:46,560
 Wait, aren't those the gallows?!
 
-229
+237
 00:18:49,300 --> 00:18:50,300
 Your Highness!
 
-230
+238
 00:18:50,414 --> 00:18:52,320
 Even if you try to run, you cannot escape!
 
-231
+239
 00:18:52,569 --> 00:18:55,000
 For you are a person sentenced to death!
 
-232
+240
 00:18:55,140 --> 00:18:55,766
 No way!
 
-233
+241
 00:18:55,909 --> 00:18:57,520
 Hearing you say that just makes me want to run away even more!
 
-234
+242
 00:19:00,280 --> 00:19:00,893
 Hup!
 
-235
+243
 00:19:01,132 --> 00:19:03,093
 It is time to atone for your child's misconduct!
 
-236
+244
 00:19:03,260 --> 00:19:03,899
 Yes, sir!
 
-237
+245
 00:19:06,260 --> 00:19:06,940
 Your Highness!
 
-238
+246
 00:19:07,264 --> 00:19:08,340
 Forgive me.
 
-239
+247
 00:19:08,544 --> 00:19:11,480
 I must capture you!
 
-240
+248
 00:19:35,189 --> 00:19:36,189
 What a strange wind!
 
-241
+249
 00:19:58,869 --> 00:19:59,940
 Damn it!
 
-242
+250
 00:20:00,159 --> 00:20:01,720
 This must be the work of a demon!
 
-243
+251
 00:20:11,180 --> 00:20:13,640
 The idols are...MEPHISTO!
 
-244
+252
 00:20:14,385 --> 00:20:15,540
 All right!
 
-245
-00:20:18,200 --> 00:20:18,720
-Heheh!
-
-246
+253
 00:20:18,740 --> 00:20:19,740
 I popped out!
 
-247
+254
 00:20:21,980 --> 00:20:23,140
 Prince Sapphire!
 
-248
+255
 00:20:23,425 --> 00:20:24,425
 Running away is useless!
 
-249
+256
 00:20:24,860 --> 00:20:27,040
 Today, I will take your boy's heart!
 
-250
+257
 00:20:38,080 --> 00:20:39,540
 Sapphire, can you fight?
 
-251
+258
 00:20:44,349 --> 00:20:45,349
 You damn idol!
 
-252
+259
 00:20:45,480 --> 00:20:46,480
 Come on!
 
-253
+260
 00:21:00,129 --> 00:21:01,129
 Mephisto!
 
-254
+261
 00:21:01,749 --> 00:21:04,220
 Not being fooled by my magic—impressive, as expected!
 
-255
+262
 00:21:04,820 --> 00:21:05,884
 Now, Your Highness,
 
-256
+263
 00:21:05,908 --> 00:21:08,726
-shall I take your boy's heart!
+shall I take your boy's heart?!
 
-257
+264
 00:21:09,460 --> 00:21:10,460
 No!
 
-258
+265
 00:21:11,940 --> 00:21:12,940
 Damn it!
 
-259
+266
 00:21:29,439 --> 00:21:30,439
 Sapphire!
 
-260
+267
 00:21:30,489 --> 00:21:31,580
 It's all over for you now!
 
-261
+268
 00:21:31,999 --> 00:21:33,260
 Your fighting ends here!
 
-262
+269
 00:21:33,989 --> 00:21:36,060
 Now, look into my eyes!
 
-263
+270
 00:21:36,494 --> 00:21:37,800
 Stare closely!
 
-264
+271
 00:21:41,980 --> 00:21:42,980
 Darn it!
 
-265
+272
 00:21:43,700 --> 00:21:44,700
 Hmm?
 
-266
+273
 00:21:45,939 --> 00:21:47,740
 Mephisto, I found you!
 
-267
+274
 00:21:48,024 --> 00:21:49,573
 Get out of here, you!
 
-268
+275
 00:21:50,000 --> 00:21:50,820
 Go away!
 
-269
+276
 00:21:50,933 --> 00:21:52,000
 Go!
 
-270
+277
 00:21:52,160 --> 00:21:52,746
 Hmm?
 
-271
+278
 00:21:52,900 --> 00:21:53,900
 Brat, stay back!
 
-272
+279
 00:21:54,140 --> 00:21:55,140
 Don't come near me!
 
-273
+280
 00:21:56,200 --> 00:21:57,200
 Go away!
 
-274
+281
 00:21:57,339 --> 00:21:59,473
 If you don't leave, take this!
 
-275
+282
 00:21:59,766 --> 00:22:00,700
 I'm leaving!
 
-276
+283
 00:22:00,780 --> 00:22:01,780
 Fine, I'll just leave, alright?!
 
-277
+284
 00:22:01,854 --> 00:22:03,120
 Don't get any closer than that!
 
-278
+285
 00:22:03,304 --> 00:22:04,560
 My whole body is going numb!
 
-279
+286
 00:22:18,930 --> 00:22:19,930
 Sapphire!
 
-280
+287
 00:22:27,409 --> 00:22:29,380
 Sapphire, I'm so glad you're safe!
 
-281
+288
 00:22:30,169 --> 00:22:33,000
 Mother, I'm sorry for making you worry!
 
-282
+289
 00:22:33,299 --> 00:22:34,373
 Sapphire...
 
-283
+290
 00:22:34,397 --> 00:22:36,233
 But Mother,
 
-284
+291
 00:22:36,257 --> 00:22:38,773
 there's nothing more hilarious than this!
 
-285
+292
 00:22:51,329 --> 00:22:52,960
 There really is nothing funnier than this!
 
-286
+293
 00:22:53,140 --> 00:22:53,475
 Huh?
 
-287
+294
 00:22:53,500 --> 00:22:54,060
 Nylon!
 
-288
+295
 00:22:54,500 --> 00:22:54,715
 Huh?
 
-289
+296
 00:22:54,740 --> 00:22:55,740
 Well, yes...
 
-290
+297
 00:22:56,079 --> 00:22:58,993
 That demon guy smashed the warding charm against demons!
 
-291
+298
 00:22:59,294 --> 00:23:00,920
 So that charm was a total fake!
 
-292
+299
 00:23:01,164 --> 00:23:02,220
 It was complete nonsense!
 
-293
+300
 00:23:02,221 --> 00:23:03,670
 Huh? Right?
 
-294
+301
 00:23:04,170 --> 00:23:06,360
 Duralumin, it's funny, isn't it!
 
-295
+302
 00:23:09,120 --> 00:23:10,480
 If it's funny, laugh!
 
-296
+303
 00:23:10,945 --> 00:23:11,945
 Laugh!
 
-297
+304
 00:23:13,220 --> 00:23:15,713
 I wish a hole would open up so I could crawl into... oh, there is one!
 
-298
+305
 00:23:46,449 --> 00:23:49,240
 There are still plenty of absurd rules in this kingdom!
 
-299
+306
 00:24:08,660 --> 00:24:12,280
 ♪ Tarari Ratta Ritta Ratta Rattattaa ♪
 -
 
-300
+307
 00:24:12,281 --> 00:24:15,641
 ♪ Kyahoo! Kyahoo! Kyahoo! ♪
 Yahoo! Yahoo! Yahoo!
 
-301
+308
 00:24:15,642 --> 00:24:19,412
 ♪ Tarari Ratta Ritta Ratta Rattattaa ♪
 -
 
-302
+309
 00:24:19,413 --> 00:24:22,574
 ♪ Kyahoo! Kyahoo! Kyahoo! ♪
 Yahoo! Yahoo! Yahoo!
 
-303
+310
 00:24:22,575 --> 00:24:26,388
 ♪ Sen'nen man'nen hyakuman-nen ♪
 A thousand years, ten thousand years, a million years,
 
-304
+311
 00:24:26,389 --> 00:24:29,685
 ♪ Ribbon de tsunagou ichioku-nen ♪
 Let’s connect with ribbons for a billion years!
 
-305
+312
 00:24:29,686 --> 00:24:33,691
 ♪ Akuma ga kute mo arashi ga kute mo ♪
 Even if demons come, even if storms arrive,
 
-306
+313
 00:24:33,692 --> 00:24:37,130
 ♪ tsunaida kokoro wa hanarenai ♪
 Our bonded hearts will never part.
 
-307
+314
 00:24:37,131 --> 00:24:40,751
 ♪ Tarari Ratta Ritta Ratta Rattattaa ♪
 -
 
-308
+315
 00:24:40,752 --> 00:24:44,112
 ♪ Kyahoo! Kyahoo! Kyahoo! ♪
 Yahoo! Yahoo! Yahoo!
 
-309
+316
 00:24:44,113 --> 00:24:47,883
 ♪ Tarari Ratta Ritta Ratta Rattattaa ♪
 -
 
-310
+317
 00:24:47,884 --> 00:24:51,045
 ♪ Kyahoo! Kyahoo! Kyahoo! ♪
 Yahoo! Yahoo! Yahoo!
 
-311
+318
 00:24:51,069 --> 00:24:56,778
 Subtitled by
 SilverlandSubs
 tinyurl.com/SilverlandSubs
 
-312
+319
 00:24:56,802 --> 00:25:01,943
 Opening & Ending Song Lyrics Translation by
 Natalia Arlovskaya
 lyricstranslate.com/en/
 translator/natalia-arlovskaya
 
-313
+320
 00:25:01,967 --> 00:25:05,967
 EAN-13 : 8-031179-423880
 ASIN : ‎ B0DQ54LVY1

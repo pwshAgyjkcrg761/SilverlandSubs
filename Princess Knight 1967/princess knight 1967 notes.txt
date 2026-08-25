@@ -578,7 +578,7 @@ Be more than just a dumb translator. I can get that at any website.
 No audio clips please.
 My episode list rules do not apply here.
 
-Right now I am doing a full watch of the series and proof reading the lines.
+Ok so i have done a full watch through of the subtitles. Now im just going back and fixing small errors.
 
 Subtitle Edit 5 Gemini 3.6 Flash (paid) prompt:
 
@@ -640,242 +640,255 @@ noticed this at episode 28 need to check previous episodes for this.
 Question marks and exclamation points are logic based.
 example: Did you say "brother"?
 
-In Japanese sentence it is Father and Mother instead of Mother and Father.
+COMPLETED: In Japanese sentence it is Father and Mother instead of Mother and Father.
 Noticed this in episode 28 need to check previous episodes for this.
 
 In the episodes with Hecate see if grand witch, fine witch, great witch are the same Japanese word and pick one translation.
 02, 07, 15, 20, 27, 36, 37, 49
 
-Error Checking Pass
 
+
+Change alright Alright to all right All right
+
+
+
+Error Checking Pass
 
 Episode 01
 
-00:08:04,480 italics
-00:08:07,900 "
-00:08:10,050 "
-00:08:13,180 "
-00:08:15,610 "
-00:12:21,949 My prince to Your Highness
-00:14:29,668 ME to italics instead of caps.
-00:15:17,391 Ponk to Ponko
-00:17:20,759 i needs to be I
-00:17:28,444 Ma'am instead of Old lady
-00:23:35,500 Your Highness instead of Prince
-00:23:57,049 Line spoken by 2 characters maybe make it 2 lines.
+X00:08:04,480 italics
+X00:08:07,900 "
+X00:08:10,050 "
+X00:08:13,180 "
+X00:08:15,610 "
+X00:12:21,949 My prince to Your Highness
+X00:14:29,668 ME to italics instead of caps.
+X00:15:17,391 Ponk to Ponko
+X00:17:20,759 i needs to be I
+X00:17:28,444 Ma'am instead of Old lady
+X00:23:35,500 Your Highness instead of Prince
+X00:23:57,049 Line spoken by 2 characters maybe make it 2 lines.
 
 
 Episode 02 - might need to redo whisper for this one.
 
-00:05:47,360 change girl to young girl (musume)
-00:05:49,360 "
-00:06:01,075 "
-00:07:11,440 spoken by 2 characters. add line break. or split the line
-00:12:00,430 young girl
-00:12:37,600 Grand Duke
-00:12:44,539 "
-ADD 13:01 Demon! after 226
-ADD 13:30 Magic word (Ah, no sa) Ah, well, look here... after 232
+Amarasha should be Amareisha
 
-ADD - another magic word or phrase
+X00:05:47,360 change girl to young girl (musume)
+X00:05:49,360 "
+X00:06:01,075 "
+X00:07:11,440 spoken by 2 characters. add line break. or split the line
+X00:12:00,430 young girl
+X00:12:37,600 Grand Duke
+X00:12:44,539 "
+XADD 13:01 Demon! after 226 (00:13:13,906)
+XADD 13:30 Magic word (Ah, no sa) Ah, well, look here... after 232
+Annossah!
+
+XADD - another magic word or phrase
 after 232
+Rourappirofusah!
 
-ADD - more magic words here
+XADD - more magic words here
 after 232
+Amareisha
+Omoieis
+Omoishhai
+Arasah Poyasah
 
-00:14:38,115 Incorrect sentence. should be letting a brat like that get in the way.
-00:15:15,219 "
+X00:14:38,115 Incorrect sentence. should be letting a brat like that get in the way.
+X00:15:15,219 "
 
-ADD - 00:15:39,080 magic words 267
+XADD - 00:15:39,080 magic words 267
 
 
 Episode 03
 
-00:03:28,734 should be we not they
-00:04:34,265 him not they
-00:04:43,580 Konotori-chan instead of little stork.
-00:05:25,480 Competitor not Contestant
-00:18:52,779 Remove what
-00:20:18,680 Oh God!
-00:22:16,634 This
-00:22:43,149 My Lord Prince? check this phrase
+X00:03:28,734 should be we not they
+X00:04:34,265 him not they
+X00:04:43,580 Konotori-chan instead of little stork.
+X00:05:25,480 Competitor not Contestant
+X00:18:52,779 Remove what
+X00:20:18,680 Oh God!
+X00:22:16,634 This
+X KEEP IT 00:22:43,149 My Lord Prince? check this phrase
 
 
 Episode 04
 
-00:10:16,600 italics
-00:10:43,100 remove question mark
-00:11:07,445 Princess Sapphire? check that.
-00:15:14,460 sounds like prepare instead of fire.
-00:21:50,780 it can catch up
-00:22:27,689 check this sentence.
+X00:10:16,600 italics
+X00:10:43,100 remove question mark
+X00:11:07,445 Princess Sapphire? check that.
+X00:15:14,460 ute means fire but I am going to use Begin here.
+X00:21:50,780 it can catch up
+X00:22:27,689 check this sentence.
 
 
 Episode 05
 
-00:02:31,225 Dance-Forgetting Herb or Forget-to-Dance Herb (pick one)
-00:19:15,279 "
+X00:02:31,225 Dance-Forgetting Herb or Forget-to-Dance Herb (pick one)
+X00:19:15,279 "
 
-00:09:45,466 dont think damn it should be here.
-00:13:15,794 bullet to orb
-
-00:15:14,379 Komadori-kun
-00:22:03,224 "
-
-00:22:21,140 Little Robins!
+X00:09:45,466 dont think damn it should be here. (should be in previous line)
+X00:13:15,794 bullet to orb
+X00:15:14,379 Komadori-kun
+X00:22:03,224 "
+X00:22:21,140 Little Robins!
 
 
 
 Episode 06
 
-00:03:36,915 this child? check phrase here.
-00:17:02,200 Replace Tinku with Tink.
-00:17:04,440 "
-00:17:06,819 "
-00:17:07,721 "
-00:20:14,420 replace frog with Kaere-kun
-00:21:28,460 Bagoon
-00:21:30,419 "
-00:21:35,280 "
-00:21:48,861 "
-00:22:28,559 "
-00:23:36,569 Good-bye!
+X00:03:36,915 this child? check phrase here.
+X00:17:02,200 Replace Tinku with Tink.
+X00:17:04,440 "
+X00:17:06,819 "
+X00:17:07,721 "
+X00:20:14,420 replace frog with Kaeru-kun
+X00:21:28,460 Bagoon
+X00:21:30,419 "
+X00:21:35,280 "
+X00:21:48,861 "
+X00:22:28,559 "
+X00:23:36,569 Good-bye!
 
 
 
 Episode 07
 
-05:05,100 split line and italicize first part.
+X05:05,100 split line and italicize first part.
 
-15:48,543 Mattara (hecate spell) wrong template in ass file.
-15:55,595 Allerugease (hecate spell) wrong template in ass file.
+X15:48,543 Mattara (hecate spell) wrong template in ass file.
+X15:55,595 Allerugease (hecate spell) wrong template in ass file.
 
-ADD - Mephisto magic word
-16:52 - Shura
+XADD - Mephisto magic word
+X16:52 - Shura
 
 
 Episode 08
 
-02:33,540 italics - That's me!
-02:45,680 italics
-03:00,200 italics
-03:15,861 italics
-04:53,110 be quiet (remove ugh)
-04:57,710 remove this line.
-06:53,600 remove Pegasus from this line.
-00:06:57,820 remove the and just use Pegasus.
-00:07:00,420 Pegasus?
-00:07:14,770 Pegasus
-00:07:25,720 Pegasus not a Pegasus
-00:07:30,505 Pegasus not the Pegasus
-00:07:36,340 Pegasus not the Pegasus
-08:13,110 Pegasus
-08:17,305 Pegasus him instead of it.
-08:20,735 Pegasus
-08:40,675 Pegasus
-00:10:08,809 Pegasus
-00:10:29,160 Pegasus
-00:10:51,395
-00:10:53,420
-00:10:57,260 The horse
-00:11:19,045 
-00:11:58,529
-00:12:20,480
-00:12:30,780
-00:12:42,800
-00:12:52,005
-00:14:07,219
-00:14:54,000 - fix this line. remove some words.
-00:16:14,870
-00:16:41,655 But no matter where you hid him, I will definitely find Pegasus!
-00:17:41,875 the real Pegasus
-00:17:50,009 Lord
-00:18:22,229
-00:20:51,899 Pegasus
+X02:33,540 italics - That's me!
+X02:45,680 italics
+X03:00,200 italics
+X03:15,861 italics
+X04:53,110 be quiet (remove ugh)
+X04:57,710 remove this line.
+X06:53,600 remove Pegasus from this line.
+X00:06:57,820 remove the and just use Pegasus.
+X00:07:00,420 Pegasus?
+X00:07:14,770 Pegasus
+X00:07:25,720 Pegasus not a Pegasus
+X00:07:30,505 Pegasus not the Pegasus
+X00:07:36,340 Pegasus not the Pegasus
+X08:13,110 Pegasus
+X08:17,305 Pegasus him instead of it.
+X08:20,735 Pegasus
+X08:40,675 Pegasus
+X00:10:08,809 Pegasus
+X00:10:29,160 Pegasus
+X00:10:51,395
+X00:10:53,420
+X00:10:57,260 The horse
+X00:11:19,045 
+X00:11:58,529
+X00:12:20,480
+X00:12:30,780
+X00:12:42,800
+X00:12:52,005
+X00:14:07,219
+X00:14:54,000 - fix this line. remove some words.
+X00:16:14,870
+X00:16:41,655 But no matter where you hid him, I will definitely find Pegasus!
+X00:17:41,875 the real Pegasus
+X00:17:50,009 Lord
+X00:18:22,229
+X00:20:51,899 Pegasus
 
 Episode 09
 
-00:10:34,579 Your Highness
-00:12:26,799 He not She
-00:12:32,965 Why is my dau...son being executed?
-00:12:43,020 said by 2 characters, split line.
-00:16:05,638 Prince
-17:12 singing here i could add subs for.
-00:17:43,489 italics
-00:18:24,681 me
-00:21:05,908 question mark
+Added subs for song and karaoke.
+
+X00:10:34,579 Your Highness
+X00:12:26,799 He not She
+X00:12:32,965 Why is my dau...son being executed?
+X00:12:43,020 said by 2 characters, split line.
+X00:16:05,638 Prince
+X17:12 singing here i could add subs for.
+X00:17:43,489 italics
+X00:18:24,681 me
+X00:21:05,908 question mark
 
 Episode 10
 
-00:23:24,324 flaxen not sky-blue.
+X00:23:24,324 flaxen not sky-blue.
 
 
 Episode 11
 
-SANDMAN SPELLS 14:30 some spells here that i could time for ass file.
+XSANDMAN SPELLS 14:30 some spells here that i could time for ass file.
 
-00:03:09,600 italics
-00:03:09,600 italics
-00:03:10,545 italics
-00:03:14,740 italics
-00:07:52,085 Duralumin: cousin or brother
-00:08:12,360 sentence said by two people.
-
-00:16:25,055 need to fix this joke over the next couple of lines
+X00:03:09,600 italics
+X00:03:09,600 italics
+X00:03:10,545 italics
+X00:03:14,740 italics
+X00:07:52,085 Duralumin: cousin or brother. doesnt matter.
+X00:08:12,360 sentence said by two people.
+X00:16:25,055 need to fix this joke over the next couple of lines
 
 
 Episode 12 might need to run whisper again.
 make sure Gypsy is capitalized.
 
-00:03:45,380 Mother and Father or Father and Mother
-ADD 00:15 (kowai) scary
-ADD 00:17:17 kimi hikari ne kimi
-00:19:35,830 Gem
-LATE 00:20:53,649
+X00:03:45,380 Mother and Father or Father and Mother
+XADD 00:15 (kowai) scary
+XADD 00:17:17 kimi hikari ne kimi
+X00:19:35,830 Gem
+XLATE 00:20:53,649
 
 
 Episode 13
 
-00:02:09,990 Lord
-00:02:44,870 Lord
-00:03:41,704 Great Duke
-00:03:56,400 Opal
-00:08:56,959 Master Sapphire
-00:09:47,300 remove first sapphire
-00:10:14,962 Master Sapphire
-00:12:14,500 remove My
-00:14:12,449 Prince
-00:22:25,889 Duralumin: cousin or brother
+X00:02:09,990 Lord
+X00:02:44,870 Lord
+X00:03:41,704 Grand Duke
+X00:03:56,400 Opal
+X00:08:56,959 Master Sapphire
+X00:09:47,300 remove first sapphire
+X00:10:14,962 Master Sapphire
+X00:12:14,500 remove My
+X00:14:12,449 Prince
+X00:22:25,889 Duralumin: cousin or brother. doesnt matter. he is a liar too. let him switch between the two.
 
 
 Episode 14
 
-00:08:22,630 Lord
-00:21:25,605 Thief!
-00:21:27,200 Thief!
-00:21:31,102 Thief!
-00:21:37,360 My children!
-00:21:44,655 Thief!
-00:21:45,816 Lord Thief!
+X00:08:22,630 Lord
+X00:08:40,000 north ranch
+X00:21:25,605 Thief!
+X00:21:27,200 Thief!
+X00:21:31,102 Thief!
+X00:21:37,360 My children!
+X00:21:44,655 Thief!
+X00:21:45,816 Lord Feast!
 
 Episode 15
 
-00:06:10,830 Lord
-00:06:16,245 Lord
-00:06:38,120 italics
-00:08:38,575 Careful, careful.
-00:09:43,360 Popa to Papa
-00:11:13,769 remove quotes add italics
-00:20:50,999 Mogura-kun instead of I have to.
-00:21:31,044 Lord Sapphire
-00:22:37,049 Lord Sapphire
-00:23:51,079 her
+X00:06:10,830 Lord
+X00:06:16,245 Lord
+X00:06:38,120 italics
+X00:08:38,575 Careful, careful.
+X00:09:43,360 Popa to Papa
+X00:11:13,769 remove quotes add italics. not doing this.
+X00:20:50,999 Mogura-kun instead of I have to.
+X00:21:31,044 Lord Sapphire
+X00:22:37,049 Lord Sapphire
+X00:23:51,079 her
 
 
 Episode 16
 
-00:03:51,480 about to eat
-00:22:02,719 Colette not little red
+X00:03:51,480 about to eat
+X00:22:02,719 Colette not little red
 
 Episode 17
 
@@ -889,6 +902,33 @@ Episode 17
 Episode 18
 
 consider using a different font or color for the mirror in the ASS file.
+
+00:03:21,090 italics
+00:03:24,100 italics
+00:03:27,390 italics
+00:03:34,255 italics
+00:03:36,440 italics
+00:07:13,860 italics
+00:07:23,800 italics
+00:07:30,010 italics
+00:07:34,490 italics
+00:11:20,145 italics
+00:11:25,979 italics
+00:11:28,920 italics
+00:17:01,249 italics
+00:17:03,825 italics
+00:17:06,539 italics
+00:20:39,199 italics
+00:20:40,608 italics
+00:20:42,499 italics
+00:20:44,265 italics
+00:21:41,520 italics
+00:21:43,009 italics
+00:21:47,429 italics 
+00:21:57,379 italics
+00:22:01,099 italics
+00:22:04,214 italics
+00:22:08,293 italics
 
 change Jop to Chop
 
@@ -1327,6 +1367,8 @@ ADD 00:21:22,576 Damn it!
 
 Episode 47
 
+00:03:59,750 northern fort
+00:04:08,930 "
 00:04:37,760 remove italics add quotation marks
 00:04:40,180 "
 00:04:43,669 "
@@ -1334,7 +1376,6 @@ Episode 47
 00:04:48,500 "
 00:04:52,302 "
 00:04:57,716 italics
-00:09:29,270 capitalize Northern Fortress
 ADD 00:12:43 Prince Franz!
 00:16:19,755 check translation. Old Geezer.
 
@@ -1344,4 +1385,79 @@ Episode 48
 00:04:56,215 remove italics
 
 Episode 49
+
+Great Demon King voice maybe use a special font and color in the ASS file.
+00:20:14,736
+00:20:17,559
+00:20:19,910
+00:20:25,303
+00:20:30,430
+00:20:32,836
+00:20:36,183
+00:23:15,589
+00:23:20,709
+00:23:24,439
+00:23:25,682
+00:23:26,615
+00:23:28,349
+00:23:32,787
+00:23:34,302
+00:23:39,169
+00:23:41,929
+
+
+00:08:21,913 Miss (musume)
+00:08:37,775 Miss
+00:19:23,969 Do it! (sore)
+00:20:32,836 check translation here
+
+Episode 50
+
+00:10:39,645 check translation
+00:13:24,889 check translation but should probably be Lord Sapphire.
+
+Episode 51
+
+
+00:05:43,000 king
+00:06:44,646 italics
+00:06:46,812 "
+00:06:49,339 "
+00:06:51,412 "
+00:06:54,230 "
+00:06:55,439 "
+00:06:57,450 "
+00:06:59,939 "
+00:09:21,289 check translation.
+00:21:02,359 check translation. King or noble? maybe it should be King or Queen
+00:22:01,440 Damn it!
+00:22:56,969 italics
+
+Episode 52
+
+Voice of God - maybe use a different font and color here
+00:08:52,449
+00:08:53,112
+00:08:55,573
+00:09:00,380
+00:09:02,308
+00:09:07,309
+00:09:09,585
+00:20:21,629
+00:20:23,272
+00:20:25,839
+00:20:29,659
+
+
+00:04:59,490 italics
+00:05:03,045 "
+00:08:34,269 negai means wish but will translate this as prayer here.
+00:08:55,573 "
+00:09:00,380 If i use wish for the previous lines then i need to check the translation of this line because it uses wish too. Might use want here.
+00:09:02,308 "
+00:09:09,585 negai means wish but will translate this as prayer here.
+00:09:37,279 nezumi mouse, check for honorific. little mouse should be nezumi
+00:20:25,839 italics
+00:20:29,659 "
+00:20:23,272 wish? check translation
 

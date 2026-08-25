@@ -79,7 +79,7 @@ Isn't there anything fun to do?
 
 17
 00:02:09,990 --> 00:02:12,140
-Prince Sapphire, it is time.
+Lord Sapphire, it is time.
 
 18
 00:02:12,265 --> 00:02:16,593
@@ -127,7 +127,7 @@ Now's your chance, run!
 
 29
 00:02:44,870 --> 00:02:46,143
-Prince Sapphire!
+Lord Sapphire!
 
 30
 00:02:56,700 --> 00:02:58,680
@@ -179,7 +179,7 @@ There isn't even a rockslide.
 
 42
 00:03:41,704 --> 00:03:42,920
-That Duke Duralumin...
+That Grand Duke Duralumin...
 
 43
 00:03:43,475 --> 00:03:44,740
@@ -191,7 +191,7 @@ Dejira in the Southern Valley is still there too.
 
 45
 00:03:56,400 --> 00:03:57,533
-Hyah!
+Go, Opal!
 
 46
 00:04:07,080 --> 00:04:09,286
@@ -315,7 +315,7 @@ Rose perfume!
 
 76
 00:08:56,959 --> 00:08:58,243
-Sapphire,...
+Master Sapphire,...
 
 77
 00:08:59,561 --> 00:09:01,960
@@ -323,7 +323,7 @@ please head to the white rose boat on the right.
 
 78
 00:09:47,300 --> 00:09:48,640
-Sapphire... Welcome, Master Sapphire.
+Welcome, Master Sapphire.
 
 79
 00:09:49,206 --> 00:09:50,740
@@ -547,7 +547,7 @@ Sapphire, take that!
 
 134
 00:12:14,500 --> 00:12:15,500
-My Master Sapphire!
+Master Sapphire!
 
 135
 00:12:15,700 --> 00:12:16,700
@@ -595,7 +595,7 @@ Splendid indeed.
 
 146
 00:14:12,449 --> 00:14:13,518
-Sapphire is approaching!
+Prince Sapphire is approaching!
 
 147
 00:14:13,542 --> 00:14:14,640

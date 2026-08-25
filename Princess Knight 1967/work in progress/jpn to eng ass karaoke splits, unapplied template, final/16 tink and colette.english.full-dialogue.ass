@@ -10,12 +10,10 @@ PlayResX: 720
 PlayResY: 576
 
 [Aegisub Project Garbage]
-Audio File:
-Video File:
 Video AR Mode: 4
 Video AR Value: 1.314554
-Scroll Position: 362
-Active Line: 377
+Scroll Position: 347
+Active Line: 354
 Video Position: 950
 
 [V4+ Styles]
@@ -74,7 +72,7 @@ Dialogue: 0,0:03:20.16,0:03:21.16,Default,,0,0,0,,Make sure to watch!
 Dialogue: 0,0:03:22.14,0:03:24.03,Default,,0,0,0,,What a cute little girl.
 Dialogue: 0,0:03:24.34,0:03:29.28,Default,,0,0,0,,Now then, "Snow White and the Giant Monster" is about to begin!
 Dialogue: 0,0:03:42.02,0:03:46.20,Default,,0,0,0,,Ooh!, she's the cutest thing ever! Wow!
-Dialogue: 0,0:03:51.48,0:03:55.89,Default,,0,0,0,,Oh no! A monster is attacking to eat Snow White!
+Dialogue: 0,0:03:51.48,0:03:55.89,Default,,0,0,0,,Oh no! A monster is attacking and about to eat Snow White!
 Dialogue: 0,0:04:00.04,0:04:04.77,Default,,0,0,0,,What will happen to Snow White? Will the monster eat her?
 Dialogue: 0,0:04:04.80,0:04:07.86,Default,,0,0,0,,Oh, don't say that! Show us more!
 Dialogue: 0,0:04:07.88,0:04:12.10,Default,,0,0,0,,That's all for today! Bring money tomorrow, and I'll show you the rest.
@@ -380,7 +378,7 @@ Dialogue: 0,0:21:50.70,0:21:56.32,Default,,0,0,0,,Oh, yes, very much. Just seein
 Dialogue: 0,0:21:56.67,0:21:58.98,Default,,0,0,0,,Oh, but I'm no dream!
 Dialogue: 0,0:21:59.08,0:21:59.72,Default,,0,0,0,,Not a dream?
 Dialogue: 0,0:22:00.02,0:22:01.70,Default,,0,0,0,,Oh! So that means...
-Dialogue: 0,0:22:02.72,0:22:06.96,Default,,0,0,0,,Oh, it's the real Little Red! Ah, you're safe!
+Dialogue: 0,0:22:02.72,0:22:06.96,Default,,0,0,0,,Oh, it's the real Colette! Ah, you're safe!
 Dialogue: 0,0:22:07.24,0:22:11.46,Default,,0,0,0,,Sheesh, pulling me so suddenly... That was mean, Old Man!
 Dialogue: 0,0:22:12.46,0:22:18.66,Default,,0,0,0,,Sorry, sorry. I was just so happy. Did you save Colette, young man?
 Dialogue: 0,0:22:19.34,0:22:22.74,Default,,0,0,0,,Yep! And all the other puppets, too!

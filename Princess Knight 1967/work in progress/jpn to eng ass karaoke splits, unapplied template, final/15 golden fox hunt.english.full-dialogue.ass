@@ -10,12 +10,10 @@ PlayResX: 720
 PlayResY: 576
 
 [Aegisub Project Garbage]
-Audio File:
-Video File:
 Video AR Mode: 4
 Video AR Value: 1.314554
-Scroll Position: 304
-Active Line: 314
+Scroll Position: 295
+Active Line: 313
 Video Position: 950
 
 [V4+ Styles]
@@ -87,14 +85,14 @@ Dialogue: 0,0:05:57.66,0:05:59.44,Default,,0,0,0,,Humans are so foolish.
 Dialogue: 0,0:05:59.85,0:06:02.30,Default,,0,0,0,,I'm still starving!
 Dialogue: 0,0:06:02.97,0:06:05.10,Default,,0,0,0,,Did you think I'd give up that easily?
 Dialogue: 0,0:06:05.56,0:06:08.54,Default,,0,0,0,,I made those footprints walking backward!
-Dialogue: 0,0:06:10.83,0:06:12.09,Default,,0,0,0,,Prince Sapphire.
+Dialogue: 0,0:06:10.83,0:06:12.09,Default,,0,0,0,,Lord Sapphire!
 Dialogue: 0,0:06:12.45,0:06:13.45,Default,,0,0,0,,I'm over here!
 Dialogue: 0,0:06:14.38,0:06:15.94,Default,,0,0,0,,A letter has arrived at the castle.
-Dialogue: 0,0:06:16.25,0:06:17.97,Default,,0,0,0,,It's from Prince Franz.
+Dialogue: 0,0:06:16.25,0:06:17.97,Default,,0,0,0,,It's from Lord Franz.
 Dialogue: 0,0:06:18.88,0:06:19.88,Default,,0,0,0,,From Prince Franz?
 Dialogue: 0,0:06:23.32,0:06:25.28,Default,,0,0,0,,How are you, Prince Sapphire?
-Dialogue: 0,0:06:26.10,0:06:32.18,Default,,0,0,0,,Have you found the flaxen-haired girl I danced with yet?
-Dialogue: 0,0:06:38.12,0:06:39.62,Default,,0,0,0,,Flaxen-haired...
+Dialogue: 0,0:06:26.10,0:06:32.18,Default,,0,0,0,,{\i1}Have you found the flaxen-haired girl I danced with yet?
+Dialogue: 0,0:06:38.12,0:06:39.62,Default,,0,0,0,,{\i1}Flaxen-haired...
 Dialogue: 0,0:06:47.25,0:06:48.86,Default,,0,0,0,,Welcome, Prince Franz.
 Dialogue: 0,0:06:51.05,0:06:51.96,Default,,0,0,0,,Franz...
 Dialogue: 0,0:07:00.87,0:07:01.89,Default,,0,0,0,,He couldn't tell...
@@ -114,7 +112,7 @@ Dialogue: 0,0:08:26.69,0:08:28.39,Default,,0,0,0,,Goodbye, Princess!
 Dialogue: 0,0:08:28.69,0:08:29.44,Default,,0,0,0,,Ah, wait!
 Dialogue: 0,0:08:29.58,0:08:30.58,Default,,0,0,0,,That's sneaky, Zuru! Sneaky!
 Dialogue: 0,0:08:36.73,0:08:38.10,Default,,0,0,0,,I smell iron.
-Dialogue: 0,0:08:38.58,0:08:40.42,Default,,0,0,0,,Watch out! Look out!
+Dialogue: 0,0:08:38.58,0:08:40.42,Default,,0,0,0,,Careful, careful.
 Dialogue: 0,0:08:47.76,0:08:48.92,Default,,0,0,0,,A human scent?
 Dialogue: 0,0:08:54.09,0:08:55.33,Default,,0,0,0,,Is something wrong with your nose?
 Dialogue: 0,0:08:59.34,0:09:02.30,Default,,0,0,0,,Do you really think you can catch me with that?
@@ -130,7 +128,7 @@ Dialogue: 0,0:09:33.25,0:09:37.38,Default,,0,0,0,,Oh, I can't wait to see you be
 Dialogue: 0,0:09:37.38,0:09:38.34,Default,,0,0,0,,I wanna be the king!
 Dialogue: 0,0:09:38.36,0:09:39.98,Default,,0,0,0,,I know, I know!
 Dialogue: 0,0:09:40.34,0:09:43.28,Default,,0,0,0,,To do that, we must deal with Sapphire!
-Dialogue: 0,0:09:43.36,0:09:46.11,Default,,0,0,0,,Popa, I wanna be the king!
+Dialogue: 0,0:09:43.36,0:09:46.11,Default,,0,0,0,,Papa, I wanna be the king!
 Dialogue: 0,0:09:46.33,0:09:48.40,Default,,0,0,0,,I told you, I know!
 Dialogue: 0,0:09:48.46,0:09:49.94,Default,,0,0,0,,That's why Papa has to work so hard!
 Dialogue: 0,0:09:50.23,0:09:53.40,Default,,0,0,0,,Ah, I wanna be the king!
@@ -290,13 +288,13 @@ Dialogue: 0,0:20:11.95,0:20:13.43,Default,,0,0,0,,Zuru, I'll save you!
 Dialogue: 0,0:20:15.97,0:20:18.32,Default,,0,0,0,,Was Sapphire after Zuru too?
 Dialogue: 0,0:20:19.44,0:20:21.54,Default,,0,0,0,,Alright, big guy, you're fighting me!
 Dialogue: 0,0:20:22.27,0:20:24.24,Default,,0,0,0,,Zuru, stay there and protect the babies.
-Dialogue: 0,0:20:51.00,0:20:52.66,Default,,0,0,0,,I have to hurry and help Sapphire!
+Dialogue: 0,0:20:49.47,0:20:52.66,Default,,0,0,0,,Mogura-kun hurry and help Sapphire!
 Dialogue: 0,0:21:03.51,0:21:04.80,Default,,0,0,0,,Look, look, look!
 Dialogue: 0,0:21:16.38,0:21:18.92,Default,,0,0,0,,Did you come to help me too, Mr. Mole?
 Dialogue: 0,0:21:25.78,0:21:27.45,Default,,0,0,0,,Hooray!
 Dialogue: 0,0:21:28.81,0:21:29.81,Default,,0,0,0,,Hooray!
 Dialogue: 0,0:21:29.90,0:21:31.02,Default,,0,0,0,,Hooray!
-Dialogue: 0,0:21:31.04,0:21:33.10,Default,,0,0,0,,You saved me, Master Sapphire!
+Dialogue: 0,0:21:31.04,0:21:33.10,Default,,0,0,0,,You saved me, Lord Sapphire!
 Dialogue: 0,0:21:34.21,0:21:35.34,Default,,0,0,0,,Well, bravo!
 Dialogue: 0,0:21:37.29,0:21:38.46,Default,,0,0,0,,Are you okay, Sapphire?
 Dialogue: 0,0:21:39.84,0:21:41.32,Default,,0,0,0,,It's okay, Tink.
@@ -315,13 +313,13 @@ Dialogue: 0,0:22:14.96,0:22:19.16,Default,,0,0,0,,It's better than having her be
 Dialogue: 0,0:22:19.28,0:22:20.34,Default,,0,0,0,,Right, Zuru?
 Dialogue: 0,0:22:23.39,0:22:24.64,Default,,0,0,0,,Zuru, don't go!
 Dialogue: 0,0:22:24.92,0:22:25.92,Default,,0,0,0,,You can't!
-Dialogue: 0,0:22:37.05,0:22:39.12,Default,,0,0,0,,Master Sapphire is actually...
+Dialogue: 0,0:22:37.05,0:22:39.12,Default,,0,0,0,,Lord Sapphire is actually...
 Dialogue: 0,0:22:39.15,0:22:39.97,Default,,0,0,0,,Actually?
 Dialogue: 0,0:22:40.37,0:22:41.37,Default,,0,0,0,,...a boy.
 Dialogue: 0,0:22:41.39,0:22:42.17,Default,,0,0,0,,What?
 Dialogue: 0,0:22:42.79,0:22:43.80,Default,,0,0,0,,Don't lie to me!
 Dialogue: 0,0:22:43.94,0:22:45.49,Default,,0,0,0,,For you, this is your...
-Dialogue: 0,0:22:45.51,0:22:46.32,Default,,0,0,0,,..WEAK SPOT
+Dialogue: 0,0:22:45.51,0:22:46.32,Default,,0,0,0,,..weak spot!
 Dialogue: 0,0:22:46.35,0:22:47.86,Default,,0,0,0,,You betrayed me!
 Dialogue: 0,0:22:47.90,0:22:48.40,Default,,0,0,0,,I don't care!
 Dialogue: 0,0:22:48.41,0:22:50.30,Default,,0,0,0,,Kill both parent and children!
@@ -339,7 +337,7 @@ Dialogue: 0,0:23:41.13,0:23:42.92,Default,,0,0,0,,Yeah, though I let her get awa
 Dialogue: 0,0:23:43.50,0:23:45.90,Default,,0,0,0,,As expected of the Prince, a fine kill... Huh?
 Dialogue: 0,0:23:47.42,0:23:48.67,Default,,0,0,0,,What did you say?
 Dialogue: 0,0:23:49.29,0:23:50.64,Default,,0,0,0,,I let her get away.
-Dialogue: 0,0:23:51.08,0:23:52.66,Default,,0,0,0,,Oh, you let him get away!
+Dialogue: 0,0:23:51.08,0:23:52.66,Default,,0,0,0,,Oh, you let her get away!
 Dialogue: 0,0:24:24.82,0:24:28.44,Karaoke,,0,0,0,,{\k29}{\k22}Ta{\k18}ra{\k16}ri {\k18}Ra{\k20}tta {\k23}Ri{\k19}tta {\k26}Ra{\k17}tta {\k19}Ra{\k66}tta{\k69}ttaa
 Dialogue: 0,0:24:28.44,0:24:31.80,Karaoke,,0,0,0,,{\k8}{\k46}Kya{\k68}hoo! {\k35}Kya{\k42}hoo! {\k46}Kya{\k91}hoo!
 Dialogue: 0,0:24:28.44,0:24:31.80,OPED_Translation,,0,0,0,,Yahoo! Yahoo! Yahoo!

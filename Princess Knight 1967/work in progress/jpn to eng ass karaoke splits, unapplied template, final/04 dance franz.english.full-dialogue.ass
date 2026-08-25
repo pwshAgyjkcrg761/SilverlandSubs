@@ -14,8 +14,8 @@ Last Style Storage: Default
 Video AR Mode: 4
 Video AR Value: 1.314554
 Video Zoom Percent: 0.500000
-Scroll Position: 210
-Active Line: 231
+Scroll Position: 414
+Active Line: 417
 Video Position: 11808
 
 [V4+ Styles]
@@ -226,7 +226,7 @@ Dialogue: 0,0:09:58.63,0:10:00.88,Default,,0,0,0,,Please help those people!
 Dialogue: 0,0:10:06.34,0:10:07.34,Default,,0,0,0,,Stop it!
 Dialogue: 0,0:10:07.66,0:10:08.66,Default,,0,0,0,,No way!
 Dialogue: 0,0:10:15.08,0:10:16.08,Default,,0,0,0,,Princess Sapphire!
-Dialogue: 0,0:10:16.60,0:10:17.60,Default,,0,0,0,,Princess Sapphire?
+Dialogue: 0,0:10:16.60,0:10:17.60,Default,,0,0,0,,{\i1}Princess Sapphire?
 Dialogue: 0,0:10:20.67,0:10:21.90,Default,,0,0,0,,I'm not a girl!
 Dialogue: 0,0:10:23.93,0:10:25.56,Default,,0,0,0,,You don't have to hide it from me.
 Dialogue: 0,0:10:25.78,0:10:26.78,Default,,0,0,0,,What did you say?
@@ -238,7 +238,7 @@ Dialogue: 0,0:10:36.38,0:10:37.50,Default,,0,0,0,,No way, I don't want to fight!
 Dialogue: 0,0:10:37.97,0:10:39.60,Default,,0,0,0,,You were actually a girl!
 Dialogue: 0,0:10:40.56,0:10:41.96,Default,,0,0,0,,What? Did you say I was a girl?
 Dialogue: 0,0:10:42.32,0:10:42.76,Default,,0,0,0,,A girl!
-Dialogue: 0,0:10:43.10,0:10:44.10,Default,,0,0,0,,What, a tomboy?!
+Dialogue: 0,0:10:43.10,0:10:44.10,Default,,0,0,0,,What, a tomboy!
 Dialogue: 0,0:10:45.89,0:10:48.54,Default,,0,0,0,,Sapphire, this is no time to fight!
 Dialogue: 0,0:10:53.24,0:10:54.38,Default,,0,0,0,,Such a tomboy for a girl!
 Dialogue: 0,0:10:54.40,0:10:55.40,Default,,0,0,0,,What?
@@ -313,7 +313,7 @@ Dialogue: 0,0:15:10.56,0:15:11.32,Default,,0,0,0,,Nylon!
 Dialogue: 0,0:15:11.34,0:15:12.06,Default,,0,0,0,,It's time!
 Dialogue: 0,0:15:12.17,0:15:13.22,Default,,0,0,0,,Yes, sir!
 Dialogue: 0,0:15:13.52,0:15:14.42,Default,,0,0,0,,It's time for the execution!
-Dialogue: 0,0:15:14.46,0:15:15.75,Default,,0,0,0,,Fire!
+Dialogue: 0,0:15:14.46,0:15:15.75,Default,,0,0,0,,Begin!
 Dialogue: 0,0:15:24.08,0:15:25.08,Default,,0,0,0,,That sound!
 Dialogue: 0,0:15:25.82,0:15:27.66,Default,,0,0,0,,Isn't that the drum preparing for the execution?!
 Dialogue: 0,0:15:28.24,0:15:29.24,Default,,0,0,0,,Indeed!
@@ -438,13 +438,13 @@ Dialogue: 0,0:21:24.34,0:21:24.92,Default,,0,0,0,,Row!
 Dialogue: 0,0:21:25.18,0:21:26.36,Default,,0,0,0,,We're almost catching up!
 Dialogue: 0,0:21:26.38,0:21:27.38,Default,,0,0,0,,Row!
 Dialogue: 0,0:21:48.86,0:21:49.86,Default,,0,0,0,,So fast!
-Dialogue: 0,0:21:50.78,0:21:52.30,Default,,0,0,0,,There's no way I can catch up!
+Dialogue: 0,0:21:50.78,0:21:52.30,Default,,0,0,0,,There's no way it can catch up!
 Dialogue: 0,0:21:53.08,0:21:53.80,Default,,0,0,0,,Everyone!
 Dialogue: 0,0:21:53.82,0:21:54.82,Default,,0,0,0,,Listen to me!
 Dialogue: 0,0:21:59.83,0:22:02.78,Default,,0,0,0,,We've had enough of bowing and scraping like we used to!
 Dialogue: 0,0:22:03.36,0:22:05.94,Default,,0,0,0,,From now on, we're heading out to sea to stretch our wings!
 Dialogue: 0,0:22:26.75,0:22:27.67,Default,,0,0,0,,Tink!
-Dialogue: 0,0:22:27.69,0:22:29.85,Default,,0,0,0,,I'm escorting you all the way to the sea!
+Dialogue: 0,0:22:27.69,0:22:29.85,Default,,0,0,0,,He's taking you to the sea!
 Dialogue: 0,0:22:30.04,0:22:31.24,Default,,0,0,0,,Leave it to me!
 Dialogue: 0,0:22:31.24,0:22:32.94,Default,,0,0,0,,Row!
 Dialogue: 0,0:22:36.28,0:22:36.28,Default,,0,0,0,,Pulley!
