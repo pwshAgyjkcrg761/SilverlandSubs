@@ -427,7 +427,7 @@ Hey, parrot!
 
 104
 00:06:39,610 --> 00:06:40,676
-Prince Sapphire!
+Lord Sapphire!
 
 105
 00:06:40,750 --> 00:06:42,053
@@ -819,7 +819,7 @@ You'll have to wait a little longer!
 
 202
 00:12:29,430 --> 00:12:30,520
-Who's that girl?
+Who's that young lady?
 
 203
 00:12:31,639 --> 00:12:32,840
@@ -867,7 +867,7 @@ A supplement... <i>Could it be</i>...?
 
 214
 00:12:52,260 --> 00:12:52,920
-Girl!
+Young lady!
 
 215
 00:12:53,069 --> 00:12:54,660
@@ -1223,7 +1223,7 @@ That's it!
 
 303
 00:17:04,239 --> 00:17:08,500
-If we make them eat this biscuit, they'll obey us just like the Queen Mother!
+If we feed them these biscuits, they'll obey us just like that parrot earlier!
 
 304
 00:17:08,900 --> 00:17:09,900
@@ -1275,7 +1275,7 @@ Don't the others know?
 
 316
 00:18:00,294 --> 00:18:02,300
-Your Grace, quickly, to the castle!
+Lord Sapphire, quickly, to the castle!
 
 317
 00:18:02,740 --> 00:18:03,740
@@ -1347,7 +1347,7 @@ This potion made that violent beast docile in an instant...
 
 334
 00:19:13,849 --> 00:19:17,565
-<i>If Father and Mother eat it, they'll be at Lord Duralumin's mercy...</i>
+<i>If Father and Mother eat it, they'll be at Grand Duke Duralumin's mercy...</i>
 
 335
 00:19:17,589 --> 00:19:19,165
@@ -1487,7 +1487,7 @@ If only Sapphire could bake biscuits like these...
 
 369
 00:21:41,004 --> 00:21:43,659
-I'm sure Lady Sapphire will learn how to someday.
+I'm sure Lord Sapphire will learn how to someday.
 
 370
 00:22:14,893 --> 00:22:15,673

@@ -892,154 +892,139 @@ X00:22:02,719 Colette not little red
 
 Episode 17
 
-00:14:17,965 you is written twice here. it probably shouldnt be here but check first.
-00:16:21,452 Lets
-00:17:22,155 Mrs. Ghost or Madame Ghost?
-00:18:05,955 Check the translation.
-00:19:21,039 Lord Sapphire
-00:23:47,033 Your Highness
+X00:14:17,965 you is written twice here. it probably shouldnt be here but check first.
+X00:16:21,452 Lets
+X00:17:22,155 Mrs. Ghost or Madame Ghost?
+X00:18:05,955 Check the translation.
+X00:19:21,039 Lord Sapphire
+X00:23:47,033 Your Highness
 
 Episode 18
 
+musume = maiden
+
+
 consider using a different font or color for the mirror in the ASS file.
 
-00:03:21,090 italics
-00:03:24,100 italics
-00:03:27,390 italics
-00:03:34,255 italics
-00:03:36,440 italics
-00:07:13,860 italics
-00:07:23,800 italics
-00:07:30,010 italics
-00:07:34,490 italics
-00:11:20,145 italics
-00:11:25,979 italics
-00:11:28,920 italics
-00:17:01,249 italics
-00:17:03,825 italics
-00:17:06,539 italics
-00:20:39,199 italics
-00:20:40,608 italics
-00:20:42,499 italics
-00:20:44,265 italics
-00:21:41,520 italics
-00:21:43,009 italics
-00:21:47,429 italics 
-00:21:57,379 italics
-00:22:01,099 italics
-00:22:04,214 italics
-00:22:08,293 italics
+X00:03:21,090 italics
+X00:03:24,100 italics
+X00:03:27,390 italics
+X00:03:34,255 italics
+X00:03:36,440 italics
+
+X00:07:13,860 italics
+X00:07:23,800 italics
+X00:07:30,010 italics
+X00:07:34,490 italics
+
+X00:11:20,145 italics
+X00:11:25,979 italics
+X00:11:28,920 italics
+
+X00:17:01,249 italics
+X00:17:03,825 italics
+X00:17:06,539 italics
+
+X00:20:39,199 italics
+X00:20:40,608 italics
+X00:20:42,499 italics
+X00:20:44,265 italics
+
+X00:21:41,520 italics
+X00:21:43,009 italics
+X00:21:47,429 italics 
+X00:21:57,379 italics
+X00:22:01,099 italics
+X00:22:04,214 italics
+X00:22:08,293 italics
 
 change Jop to Chop
 
 
-00:03:21,090 italics
-00:03:24,100 italics
-00:03:27,390 italics
-00:03:34,255 italics
-00:03:36,440 italics
-00:06:17,100 Chop
-00:07:13,860 italics
-00:07:23,800 italics
-00:07:30,010 italics
-00:07:34,490 italics
-00:11:20,145 italics
-00:11:25,979 italics
-00:11:28,920 italics
-00:11:59,649 Chop
-00:13:37,775 someone or he or This could hurt someone.
-00:17:01,249 italics
-00:17:03,825 italics
-00:17:06,539 italics
-00:17:18,313 she might be saying Chop here. check this.
-00:17:39,679 Chop
-00:19:33,009 remove the comma
-00:20:39,199 italics
-00:20:40,608 italics
-00:20:42,499 italics
-00:20:44,265 italics
-00:21:41,520 italics
-00:21:43,009 italics
-00:21:47,429 italics 
-00:21:57,379 italics
-00:22:01,099 italics
-00:22:04,214 italics
-00:22:08,293 italics
+
+X00:06:17,100 Chop
+X00:11:59,649 Chop
+X00:13:37,775 someone or he or This could hurt someone.
+X00:17:18,313 she might be saying Chop here. check this.
+X00:17:39,679 Chop
+X00:19:33,009 remove the comma
+
 
 
 Episode 19
 
 SIGN in this episode. add a blank sub for the srt then add the text to the ASS.
-00:07:27 - The prince is strong. The princess is a woman. use italics here.
+X00:07:27 - The prince is strong. The princess is a woman. use italics here.
 
-00:04:01,353 use "quotation marks" instead of italics
-00:04:04,313 use "
-00:04:08,860 use "quotation marks" instead of italics, <i>Sapphire is a GIRL</i>!
-00:04:19,140 use "
-00:04:21,877 use "
-00:04:27,280 are should use italics instead of caps
-00:05:23,710 should also be italics.
-00:06:53,130 Lord
-00:08:01,555 "quotation marks" instead of italics. Lord 
-00:08:08,340 Lord
-00:08:25,500 "quotation marks" instead of italics
-00:08:28,380 "
-00:08:59,130 "
-00:09:08,866 "
-00:09:47,589 "
-00:10:00,069 check translation
-00:10:06,520 "quotation marks" instead of italics
-00:10:08,444 "
-00:10:12,762 "
-00:10:43,859 check the translation. I know where he is going makes more sense.
-00:10:44,983 check the translation. 
-00:17:47,974 "quotation marks" instead of italics
-00:17:51,344 "
-00:18:00,099 check translation.
-00:19:49,680 check translation.
-00:20:29,329 italics
-00:24:33 missing dialogue here. Prince Franz and Tink
+X00:04:01,353 use "quotation marks" instead of italics
+X00:04:04,313 use "
+X00:04:08,860 use "quotation marks" instead of italics, <i>Sapphire is a GIRL</i>!
+X00:04:19,140 use "
+X00:04:21,877 use "
+X00:04:27,280 are should use italics instead of caps
+X00:05:23,710 should also be italics.
+X00:06:53,130 Lord
+X00:08:01,555 "quotation marks" instead of italics. Lord 
+X00:08:08,340 Lord
+X00:08:25,500 "quotation marks" instead of italics
+X00:08:28,380 "
+X00:08:59,130 "
+X00:09:08,866 "
+X00:09:47,589 "
+X00:10:00,069 check translation
+X00:10:06,520 "quotation marks" instead of italics
+X00:10:08,444 "
+X00:10:12,762 "
+X00:10:43,859 check the translation. I know where he is going makes more sense.
+X00:10:44,983 check the translation. 
+X00:17:47,974 "quotation marks" instead of italics
+X00:17:51,344 "
+X00:18:00,099 check translation.
+X00:19:49,680 check translation.
+X00:20:29,329 italics
+X00:21:15,020 "
+X00:24:33 missing dialogue here. Prince Franz and Sapphire
 
 MISSING from ASS file 
-00:24:13,509 <i>He still hasn't noticed.</i>
+X00:24:13,509 <i>He still hasn't noticed.</i>
 
 
 Episode 20
 
-00:14:23,895 check translation but it should probably be away instead of close.
-00:17:16,744 italics
-00:17:18,644 "
-00:17:19,960 "
-00:21:41,229 Kagera
-00:22:24,760 check translation
-00:23:03,766 Kagera
+X00:14:23,895 check translation but it should probably be away instead of close.
+X00:17:16,744 italics
+X00:17:18,644 "
+X00:17:19,960 "
+X00:21:41,229 Kagera
+X00:22:24,760 check translation
+X00:23:03,766 Kagera
 
 Episode 21
 
-00:06:39,610 Lord
-00:12:29,430 young lady (musume)
-00:12:52,260 young lady (musume)
-00:17:04,239 check translation here. Queen Mother?
-00:18:00,294 Your Highness
+X00:06:39,610 Lord
+X00:12:29,430 young lady (musume)
+X00:12:52,260 young lady (musume)
+X00:17:04,239 check translation here. Queen Mother? Parrot not Queen Mother
+X00:18:00,294 Your Highness
 
 
 Episode 22
 
-SIGN 03:30 Patched Gourd. add blank line in srt and text in ass file.
-SONG - ASS karaoke - 00:11:31,060 the timing is wrong. the 3rd and last lu need to come sooner.
+XSIGN 03:30 Patched Gourd. add blank line in srt and text in ass file.
+XSONG - ASS karaoke - 00:11:31,060 the timing is wrong. the 3rd and last lu need to come sooner.
 
-00:03:14,460 "use quotation marks"
-00:03:16,606 "
-00:03:19,026 "
-00:03:21,406 "
-00:05:32,327 check translation. dont think Father should be here.
-00:07:14,620 Father
-00:07:18,856 Opal!
-00:17:00,680 Presenting Her Majesty the Queen!
-00:17:15,739 check the translation
+X00:03:14,460 "use quotation marks"
+X00:03:16,606 "
+X00:03:19,026 "
+X00:03:21,406 "
+X00:05:32,327 check translation. dont think Father should be here.
+X00:07:14,620 Father
+X00:07:18,856 Opal!
+X00:17:00,680 Presenting Her Majesty the Queen!
+X00:17:15,739 check the translation
 
 
-Episode 23
+Episode 23 - stopped here
 
 00:07:30,695 split line
 00:09:20,130 check translation

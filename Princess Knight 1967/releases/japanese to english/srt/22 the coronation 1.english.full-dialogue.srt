@@ -111,23 +111,24 @@ Well then...
 
 25
 00:03:14,460 --> 00:03:16,582
-As of today, I am changing the law of Silverland
+"As of today, I am changing the law of Silverland"
 
 26
 00:03:16,606 --> 00:03:18,740
-that forbids women from taking the throne.
+"that forbids women from taking the throne."
 
 27
 00:03:19,026 --> 00:03:21,382
-In the name of the King, I hereby decree
+"In the name of the King, I hereby decree"
 
 28
 00:03:21,406 --> 00:03:23,966
-that a woman may become Queen and rule this land.
+"that a woman may become Queen and rule this land."
 
 29
-00:03:29,140 --> 00:03:30,140
+00:03:29,140 --> 00:03:30,653
 There we go.
+<i>Patched Gourd</i>
 
 30
 00:03:31,740 --> 00:03:32,740
@@ -291,7 +292,7 @@ Father!
 
 70
 00:05:32,327 --> 00:05:34,327
-Father! Where are you?!
+Where are you?!
 
 71
 00:05:34,657 --> 00:05:37,104
@@ -363,11 +364,11 @@ Opal, head to the Northern Valley!
 
 88
 00:07:14,620 --> 00:07:17,413
-Opal!
+Father!
 
 89
 00:07:18,856 --> 00:07:19,440
-Father!
+Opal.
 
 90
 00:07:19,464 --> 00:07:20,190
@@ -954,7 +955,7 @@ Here, I'll give you some candy.
 
 226
 00:17:00,680 --> 00:17:03,273
-Presenting the Prince!
+Presenting Her Majesty the Queen!
 
 227
 00:17:06,336 --> 00:17:08,986
@@ -974,7 +975,7 @@ What is he doing?
 
 231
 00:17:15,739 --> 00:17:19,060
-Presenting Prince Sapphire and Her Majesty the Queen!
+Presenting His Highness Prince Sapphire and His Grace the Archbishop!
 
 232
 00:17:33,114 --> 00:17:36,040

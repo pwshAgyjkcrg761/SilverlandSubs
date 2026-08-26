@@ -10,12 +10,10 @@ PlayResX: 720
 PlayResY: 576
 
 [Aegisub Project Garbage]
-Audio File:
-Video File:
 Video AR Mode: 4
 Video AR Value: 1.314554
-Scroll Position: 359
-Active Line: 367
+Scroll Position: 320
+Active Line: 332
 Video Position: 950
 
 [V4+ Styles]
@@ -211,7 +209,7 @@ Dialogue: 0,0:14:04.14,0:14:07.46,Default,,0,0,0,,I borrowed 50 yen, but I paid 
 Dialogue: 0,0:14:12.82,0:14:14.09,Default,,0,0,0,,Hello?
 Dialogue: 0,0:14:15.20,0:14:16.20,Default,,0,0,0,,Yeah, what do you want?
 Dialogue: 0,0:14:16.31,0:14:17.68,Default,,0,0,0,,I was having a nice nap, too.
-Dialogue: 0,0:14:17.97,0:14:19.42,Default,,0,0,0,,Did you you borrow money from Shy?
+Dialogue: 0,0:14:17.97,0:14:19.42,Default,,0,0,0,,Did you borrow money from Shy?
 Dialogue: 0,0:14:20.41,0:14:22.26,Default,,0,0,0,,Oh, I borrowed 30 yen, but I haven't paid it back yet.
 Dialogue: 0,0:14:22.73,0:14:24.48,Default,,0,0,0,,Then hurry over!
 Dialogue: 0,0:14:24.51,0:14:25.51,Default,,0,0,0,,What is it?
@@ -253,7 +251,7 @@ Dialogue: 0,0:15:58.93,0:16:03.24,Default,,0,0,0,,Someone like that shouldn't go
 Dialogue: 0,0:16:10.26,0:16:15.12,Default,,0,0,0,,Heartless monsters! Every last one of them! Even if I am a ghost, this is just too cruel!
 Dialogue: 0,0:16:15.28,0:16:18.47,Default,,0,0,0,,I like money. What's wrong with that?
 Dialogue: 0,0:16:20.37,0:16:21.43,Default,,0,0,0,,Don't tell me you guys too...
-Dialogue: 0,0:16:21.45,0:16:23.26,Default,,0,0,0,,How boring. Let me go back.
+Dialogue: 0,0:16:21.45,0:16:23.26,Default,,0,0,0,,How boring. Lets go back.
 Dialogue: 0,0:16:23.96,0:16:24.96,Default,,0,0,0,,Good idea.
 Dialogue: 0,0:16:30.93,0:16:32.26,Default,,0,0,0,,Your Highness, please!
 Dialogue: 0,0:16:32.53,0:16:33.95,Default,,0,0,0,,Don't go back.
@@ -270,7 +268,7 @@ Dialogue: 0,0:17:09.70,0:17:11.91,Default,,0,0,0,,I'm just a poor, lonely ghost.
 Dialogue: 0,0:17:11.93,0:17:16.22,Default,,0,0,0,,That's why I said if you grant my request, I'll cry for you.
 Dialogue: 0,0:17:16.36,0:17:20.40,Default,,0,0,0,,But asking me to check if the Prince is a girl... Oh, he came back!
 Dialogue: 0,0:17:20.80,0:17:21.96,Default,,0,0,0,,Just as I thought.
-Dialogue: 0,0:17:22.16,0:17:23.41,Default,,0,0,0,,Mrs. Ghost, handle this well.
+Dialogue: 0,0:17:22.16,0:17:23.41,Default,,0,0,0,,Ms. Ghost, handle this well.
 Dialogue: 0,0:17:23.44,0:17:24.58,Default,,0,0,0,,I'll be waiting.
 Dialogue: 0,0:17:24.75,0:17:27.58,Default,,0,0,0,,Welcome back, Your Highness.
 Dialogue: 0,0:17:27.70,0:17:29.29,Default,,0,0,0,,You were so kind earlier...
@@ -283,8 +281,7 @@ Dialogue: 0,0:17:58.36,0:17:59.36,Default,,0,0,0,,Don't make a fool of me!
 Dialogue: 0,0:17:59.71,0:18:01.20,Default,,0,0,0,,These are all women's clothes!
 Dialogue: 0,0:18:01.82,0:18:03.44,Default,,0,0,0,,Listen, Lady, I am a prince!
 Dialogue: 0,0:18:03.77,0:18:05.20,Default,,0,0,0,,I am a ghost.
-Dialogue: 0,0:18:05.96,0:18:07.55,Default,,0,0,0,,If Lord Sapphire sheds a tear, I will become a girl once more.
-Dialogue: 0,0:18:07.57,0:18:10.98,Default,,0,0,0,,I’ll finally know for certain then... whether he is a boy or a girl.
+Dialogue: 0,0:18:05.96,0:18:09.21,Default,,0,0,0,,I can easily tell whether Lord Sapphire is a boy or a girl.
 Dialogue: 0,0:18:12.01,0:18:13.50,Default,,0,0,0,,Now then, excuse me for a moment...
 Dialogue: 0,0:18:14.84,0:18:16.12,Default,,0,0,0,,Oh dear, it's way too baggy.
 Dialogue: 0,0:18:17.80,0:18:19.32,Default,,0,0,0,,How about something like this?
@@ -304,7 +301,7 @@ Dialogue: 0,0:19:03.76,0:19:05.14,Default,,0,0,0,,Don't butt in, ghost!
 Dialogue: 0,0:19:05.69,0:19:10.71,Default,,0,0,0,,Once you make up your mind, Grand Duke Duralumin will have you killed. I’ll provide the grandest funeral for you, Princess.
 Dialogue: 0,0:19:13.63,0:19:16.48,Default,,0,0,0,,I don't care about the kingdom's laws! Executing such a good person is outrageous!
 Dialogue: 0,0:19:16.74,0:19:19.54,Default,,0,0,0,,It should be a happy thing to find out she's a princess. What terrible people!
-Dialogue: 0,0:19:21.04,0:19:22.74,Default,,0,0,0,,I'm so sorry, Princess Sapphire.
+Dialogue: 0,0:19:21.04,0:19:22.82,Default,,0,0,0,,I'm so sorry, Lord Sapphire.
 Dialogue: 0,0:19:23.13,0:19:27.10,Default,,0,0,0,,This Nylon is a terrible fellow—you lend him money, and he never pays it back.
 Dialogue: 0,0:19:28.46,0:19:30.66,Default,,0,0,0,,Oh, bad-mouthing him woke him right up.
 Dialogue: 0,0:19:32.12,0:19:33.38,Default,,0,0,0,,What did I bump into?
@@ -317,7 +314,7 @@ Dialogue: 0,0:19:46.06,0:19:47.74,Default,,0,0,0,,Then take another good look.
 Dialogue: 0,0:19:50.67,0:19:53.68,Default,,0,0,0,,When did you find the time to change her clothes, Madame Shy? No doubt about it... this one is a woman!
 Dialogue: 0,0:19:53.71,0:19:54.42,Default,,0,0,0,,No.
 Dialogue: 0,0:19:54.78,0:19:56.60,Default,,0,0,0,,See? Even the Madame says no.
-Dialogue: 0,0:19:56.78,0:19:57.06,Default,,0,0,0,,What?
+Dialogue: 0,0:19:56.66,0:19:57.29,Default,,0,0,0,,What?
 Dialogue: 0,0:19:57.64,0:20:00.62,Default,,0,0,0,,No, Prince Sapphire is a fine prince.
 Dialogue: 0,0:20:00.78,0:20:01.78,Default,,0,0,0,,That can't be!
 Dialogue: 0,0:20:01.95,0:20:02.53,Default,,0,0,0,,He certainly is.
@@ -358,8 +355,8 @@ Dialogue: 0,0:21:58.27,0:21:59.27,Default,,0,0,0,,It's an order from the Prince!
 Dialogue: 0,0:21:59.91,0:22:01.24,Default,,0,0,0,,No, you are no prince.
 Dialogue: 0,0:22:01.34,0:22:03.18,Default,,0,0,0,,Lady Sapphire, you are a woman.
 Dialogue: 0,0:22:03.67,0:22:05.69,Default,,0,0,0,,Quick, seize Princess Sapphire!
-Dialogue: 0,0:22:07.88,0:22:09.29,Default,,0,0,0,,Alright! If that's the case, I’ll definitely put this fire out!
-Dialogue: 0,0:22:09.36,0:22:10.67,Default,,0,0,0,,Ma'am, please put out the fire!
+Dialogue: 0,0:22:07.81,0:22:09.29,Default,,0,0,0,,All right, then I'll take care of them completely!
+Dialogue: 0,0:22:09.36,0:22:10.67,Default,,0,0,0,,Ma'am, get out of sight!
 Dialogue: 0,0:22:23.28,0:22:24.28,Default,,0,0,0,,She's in danger!
 Dialogue: 0,0:22:26.28,0:22:27.62,Default,,0,0,0,,This mansion is done for.
 Dialogue: 0,0:22:28.45,0:22:30.28,Default,,0,0,0,,Now then... you’re about to become a beggar ghost!
@@ -389,7 +386,7 @@ Dialogue: 0,0:23:28.32,0:23:30.57,Default,,0,0,0,,Get outside while the flames h
 Dialogue: 0,0:23:30.64,0:23:31.64,Default,,0,0,0,,Hurry!
 Dialogue: 0,0:23:44.22,0:23:46.00,Default,,0,0,0,,It's Prince Sapphire's ghost!
 Dialogue: 0,0:23:46.14,0:23:46.79,Default,,0,0,0,,Nylon!
-Dialogue: 0,0:23:47.03,0:23:48.92,Default,,0,0,0,,Well well, my Prince, you managed to escape.
+Dialogue: 0,0:23:47.03,0:23:48.92,Default,,0,0,0,,Well well, Your Highness, you managed to escape.
 Dialogue: 0,0:23:49.12,0:23:51.25,Default,,0,0,0,,By the way, what happened to Shy's ghost?
 Dialogue: 0,0:23:56.22,0:23:59.12,Default,,0,0,0,,Look. Madame Shy is ascending to Heaven.
 Dialogue: 0,0:24:04.73,0:24:06.98,Default,,0,0,0,,Goodbye, Ma'am!

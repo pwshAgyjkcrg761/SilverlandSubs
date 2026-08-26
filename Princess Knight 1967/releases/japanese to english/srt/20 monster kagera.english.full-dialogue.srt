@@ -797,7 +797,7 @@ Hang in there!
 
 196
 00:14:23,895 --> 00:14:25,660
-Everyone, we need to get close, fast!
+Everyone, hurry up and stick close to me!
 
 197
 00:14:25,760 --> 00:14:26,260
@@ -1005,15 +1005,15 @@ Sapphire has come for you!
 
 248
 00:17:16,744 --> 00:17:18,119
-Welcome, Sapphire!
+<i>Welcome, Sapphire!</i>
 
 249
 00:17:18,644 --> 00:17:19,819
-Follow the torch!
+<i>Follow the torch!</i>
 
 250
 00:17:19,960 --> 00:17:20,960
-I will hear what you have to say.
+<i>I will hear what you have to say.</i>
 
 251
 00:17:29,109 --> 00:17:30,780
@@ -1305,7 +1305,7 @@ Now, that sugar water is about to turn into salt water!
 
 323
 00:21:41,229 --> 00:21:44,120
-Kamera is a slug monster, so salt will melt it!
+Kagera is a slug monster, so salt will melt it!
 
 324
 00:21:55,807 --> 00:22:03,518
@@ -1418,7 +1418,7 @@ What are you talking about?!
 
 351
 00:23:03,766 --> 00:23:05,300
-We defeated Kagira!
+We defeated Kagera!
 
 352
 00:23:05,514 --> 00:23:07,540

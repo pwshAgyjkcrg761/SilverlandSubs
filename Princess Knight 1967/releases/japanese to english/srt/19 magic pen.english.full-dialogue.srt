@@ -271,11 +271,11 @@ Now, write what I told you!
 
 65
 00:04:01,353 --> 00:04:03,733
-<i>Sapphire is a boy.</i>
+"Sapphire is a boy."
 
 66
 00:04:04,313 --> 00:04:05,520
-You meant to write <i>Sapphire is a boy</i>, right?
+You meant to write "Sapphire is a boy," right?
 
 67
 00:04:05,740 --> 00:04:08,260
@@ -283,7 +283,7 @@ But take a close look at what you wrote!
 
 68
 00:04:08,860 --> 00:04:10,680
-<i>Sapphire is a girl</i>!
+"Sapphire is a girl!"
 
 69
 00:04:11,660 --> 00:04:12,180
@@ -307,11 +307,11 @@ One more time!
 
 74
 00:04:19,140 --> 00:04:21,113
-<i>Sapphire is a boy</i>...
+"Sapphire is a boy..."
 
 75
 00:04:21,877 --> 00:04:23,260
-<i>Sapphire is a girl</i>!
+"Sapphire is a girl!"
 
 76
 00:04:23,760 --> 00:04:25,440
@@ -319,7 +319,7 @@ Why do I keep writing <i>girl</i>?!
 
 77
 00:04:27,280 --> 00:04:29,166
-Because you ARE a girl!
+Because you <i>are</i> a girl!
 
 78
 00:04:29,763 --> 00:04:33,093
@@ -387,7 +387,7 @@ About the carnival where I danced with that flaxen-haired girl...
 
 94
 00:05:23,710 --> 00:05:28,940
-Young Franz... Is Sapphire that flaxen-haired girl?
+<i>Young Franz... Is Sapphire that flaxen-haired girl?</i>
 
 95
 00:05:31,820 --> 00:05:32,920
@@ -475,7 +475,7 @@ Dressing up like a girl right about now.
 
 116
 00:06:53,130 --> 00:06:57,200
-Indeed, Master Sapphire is actually a girl, after all.
+Indeed, Lord Sapphire is actually a girl, after all.
 
 117
 00:07:04,430 --> 00:07:06,420
@@ -508,6 +508,8 @@ Oh dear, this is embarrassing!
 124
 00:07:27,820 --> 00:07:29,100
 I can't send a letter like this!
+<i>The prince is strong. 
+The princess is a woman.</i>
 
 125
 00:07:29,670 --> 00:07:30,920
@@ -547,7 +549,7 @@ Is that so?
 
 134
 00:08:01,555 --> 00:08:05,840
-<i>Master Sapphire goes too far with his mischief, so I can't stand him.</i>
+"Lord Sapphire goes too far with his mischief, so I can't stand him."
 
 135
 00:08:06,473 --> 00:08:06,833
@@ -555,7 +557,7 @@ Here.
 
 136
 00:08:08,340 --> 00:08:11,260
-<i>May Master Sapphire grow up healthy and strong.</i>
+<i>May Lord Sapphire grow up healthy and strong.</i>
 
 137
 00:08:13,565 --> 00:08:14,600
@@ -567,11 +569,11 @@ Just write down whatever is on your mind.
 
 139
 00:08:25,500 --> 00:08:28,080
-Well then: <i>Prince Sapphire is a splendid prince.</i>
+Well then: "Prince Sapphire is a splendid prince."
 
 140
 00:08:28,380 --> 00:08:29,720
-<i>Long live Silverland!</i>
+"Long live Silverland!"
 
 141
 00:08:30,360 --> 00:08:32,559
@@ -619,7 +621,7 @@ Yes, well then...
 
 152
 00:08:59,130 --> 00:09:00,880
-<i>Let us treat animals with kindness.</i>
+"Let us treat animals with kindness."
 
 153
 00:09:01,734 --> 00:09:02,034
@@ -627,7 +629,7 @@ Here.
 
 154
 00:09:08,866 --> 00:09:11,940
-<i>I'll secretly kill this peacock and use it as a hat decoration.</i>
+"I'll secretly kill this peacock and use it as a hat decoration."
 
 155
 00:09:12,053 --> 00:09:14,400
@@ -687,7 +689,7 @@ With pleasure.
 
 169
 00:09:47,589 --> 00:09:48,769
-Yes, <i>scribble, scribble, scribble</i>...
+"Yes, scribble, scribble, scribble..."
 
 170
 00:09:49,800 --> 00:09:51,526
@@ -699,7 +701,7 @@ Oh, my. Your Highness.
 
 172
 00:10:00,069 --> 00:10:01,360
-Sorry, the rest is...
+I'm sorry, the rest is...
 
 173
 00:10:04,680 --> 00:10:05,953
@@ -707,11 +709,11 @@ What on earth is going on?
 
 174
 00:10:06,520 --> 00:10:08,140
-<i>Sapphire must be a girl.</i>
+"Sapphire must be a girl."
 
 175
 00:10:08,444 --> 00:10:09,640
-<i>Someday I'll rip off her mask...</i>
+"Someday I'll rip off her mask..."
 
 176
 00:10:10,839 --> 00:10:11,860
@@ -723,10 +725,10 @@ I don't know, I really don't!
 
 178
 00:10:12,762 --> 00:10:14,971
-<i>Tonight at midnight.</i> That's as far as you wrote!
+"Tonight at midnight." That's as far as you wrote!
 
 179
-00:10:15,300 --> 00:10:15,833
+00:10:15,219 --> 00:10:15,833
 Nylon!
 
 180
@@ -771,11 +773,11 @@ Wait!
 
 190
 00:10:43,859 --> 00:10:44,900
-We don't know where he's going.
+He doesn't know where he's going.
 
 191
 00:10:44,983 --> 00:10:46,169
-We'll cut him off!
+I'll cut him off!
 
 192
 00:10:57,315 --> 00:10:59,300
@@ -1291,11 +1293,11 @@ It's quite simple.
 
 320
 00:17:47,974 --> 00:17:51,080
-On this paper, you write: <i>I am without a doubt the prince of this realm</i>.
+On this paper, you write: "I am without a doubt the prince of this realm."
 
 321
 00:17:51,344 --> 00:17:54,100
-From now on, I shall serve this kingdom as its prince.
+"From now on, I shall serve this kingdom as its prince."
 
 322
 00:17:54,499 --> 00:17:56,660
@@ -1403,7 +1405,7 @@ Right over here.
 
 348
 00:19:49,680 --> 00:19:50,680
-Huge?
+<i>No way!</i>
 
 349
 00:19:52,539 --> 00:19:53,720
@@ -1446,12 +1448,12 @@ Hesitating will only make them suspect you're a girl.
 Pull yourself together. Sapphire, take the pen.
 
 359
-00:20:29,329 --> 00:20:30,329
-It's no use.
+00:20:28,955 --> 00:20:29,955
+<i>It's no use.</i>
 
 360
 00:20:38,469 --> 00:20:41,060
-Come on, fly faster, Oowashi-sans!
+Come on, fly faster, Oowashi-san!
 
 361
 00:20:41,110 --> 00:20:42,469
@@ -1471,7 +1473,7 @@ Ah, I see it! The castle!
 
 365
 00:20:49,669 --> 00:20:52,200
-Oowashi-sans, pull up to that window!
+Oowashi-san, pull up to that window!
 
 366
 00:20:56,674 --> 00:20:57,860
@@ -1494,8 +1496,8 @@ Is there some reason you can't take the oath?
 You're not a girl, so stop dragging your feet!
 
 371
-00:21:15,020 --> 00:21:16,020
-It's no use...
+00:21:14,733 --> 00:21:16,020
+<i>It's no use...</i>
 
 372
 00:21:25,760 --> 00:21:26,760
@@ -1586,147 +1588,151 @@ Ugh, why did this guy have to butt in?
 Here I go!
 
 394
-00:22:33,309 --> 00:22:35,613
-Thank you, Prince Franz.
+00:22:32,576 --> 00:22:34,011
+Hey, you tomboy.
 
 395
+00:22:34,035 --> 00:22:35,613
+Thank you, Prince Franz.
+
+396
 00:22:47,753 --> 00:22:49,700
 Hey, wait!
 
-396
+397
 00:22:51,779 --> 00:22:53,260
 Hey, wait! Stop!
 
-397
+398
 00:22:56,069 --> 00:22:57,760
 No way! Let me at 'em!
 
-398
+399
 00:23:01,049 --> 00:23:02,880
 Hold on! Had enough already?!
 
-399
+400
 00:23:05,080 --> 00:23:06,080
 Come here.
 
-400
+401
 00:23:19,120 --> 00:23:20,440
 You're safe now.
 
-401
+402
 00:23:22,504 --> 00:23:24,460
 Now I can sleep soundly.
 
-402
+403
 00:23:45,549 --> 00:23:47,940
 Franz, that strange pen of yours caused quite a lot of trouble.
 
-403
+404
 00:23:48,549 --> 00:23:51,540
 Sorry, sorry. I won't rely on something like this again.
 
-404
+405
 00:23:52,504 --> 00:23:56,986
 Hey Franz, people say one thing and mean another, don't they?
 
-405
+406
 00:23:58,079 --> 00:24:00,740
 Yeah. I wonder if that flaxen-haired girl lies, too.
 
-406
+407
 00:24:02,699 --> 00:24:05,760
 No, I'm sure she's the one who tells the truth.
 
-407
+408
 00:24:06,164 --> 00:24:07,360
 I'm sure you'll meet her soon.
 
-408
+409
 00:24:08,020 --> 00:24:09,153
 Wait, really?
 
-409
+410
 00:24:09,340 --> 00:24:10,340
 You reached her, right?
 
-410
+411
 00:24:13,509 --> 00:24:14,679
 <i>He still hasn't noticed.</i>
 
-411
+412
 00:24:39,021 --> 00:24:42,641
 ♪ Tarari Ratta Ritta Ratta Rattattaa ♪
 -
 
-412
+413
 00:24:42,642 --> 00:24:46,002
 ♪ Kyahoo! Kyahoo! Kyahoo! ♪
 Yahoo! Yahoo! Yahoo!
 
-413
+414
 00:24:46,003 --> 00:24:49,773
 ♪ Tarari Ratta Ritta Ratta Rattattaa ♪
 -
 
-414
+415
 00:24:49,774 --> 00:24:52,935
 ♪ Kyahoo! Kyahoo! Kyahoo! ♪
 Yahoo! Yahoo! Yahoo!
 
-415
+416
 00:24:52,936 --> 00:24:56,749
 ♪ Sen'nen man'nen hyakuman-nen ♪
 A thousand years, ten thousand years, a million years,
 
-416
+417
 00:24:56,750 --> 00:25:00,046
 ♪ Ribbon de tsunagou ichioku-nen ♪
 Let’s connect with ribbons for a billion years!
 
-417
+418
 00:25:00,047 --> 00:25:04,052
 ♪ Akuma ga kute mo arashi ga kute mo ♪
 Even if demons come, even if storms arrive,
 
-418
+419
 00:25:04,053 --> 00:25:07,491
 ♪ tsunaida kokoro wa hanarenai ♪
 Our bonded hearts will never part.
 
-419
+420
 00:25:07,492 --> 00:25:11,112
 ♪ Tarari Ratta Ritta Ratta Rattattaa ♪
 -
 
-420
+421
 00:25:11,113 --> 00:25:14,473
 ♪ Kyahoo! Kyahoo! Kyahoo! ♪
 Yahoo! Yahoo! Yahoo!
 
-421
+422
 00:25:14,474 --> 00:25:18,244
 ♪ Tarari Ratta Ritta Ratta Rattattaa ♪
 -
 
-422
+423
 00:25:18,245 --> 00:25:21,406
 ♪ Kyahoo! Kyahoo! Kyahoo! ♪
 Yahoo! Yahoo! Yahoo!
 
-423
+424
 00:25:21,430 --> 00:25:27,139
 Subtitled by
 SilverlandSubs
 tinyurl.com/SilverlandSubs
 
-424
+425
 00:25:27,163 --> 00:25:32,304
 Opening & Ending Song Lyrics Translation by
 Natalia Arlovskaya
 lyricstranslate.com/en/
 translator/natalia-arlovskaya
 
-425
+426
 00:25:32,328 --> 00:25:36,328
 EAN-13 : 8-031179-423880
 ASIN : ‎ B0DQ54LVY1
