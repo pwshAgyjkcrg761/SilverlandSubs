@@ -1024,99 +1024,99 @@ X00:17:00,680 Presenting Her Majesty the Queen!
 X00:17:15,739 check the translation
 
 
-Episode 23 - stopped here
+Episode 23
 
-00:07:30,695 split line
-00:09:20,130 check translation
-00:12:16,449 check translation. mansion?
-00:17:50,619 check translation.
-00:19:35,924 Ribbon Knight
-00:23:47,286 italics
-00:23:47,929 "
-00:23:49,949 "
+X00:07:30,695 split line
+X00:09:20,130 check translation
+X00:12:16,449 check translation. mansion? yes he says mansion not tower not castle not house.
+X00:17:50,619 check translation.
+X00:19:35,924 Ribbon Knight
+X00:23:47,286 italics
+X00:23:47,929 "
+X00:23:49,949 "
 
 
 Episode 24
 
-SONG - 00:12:56,140 Need to add karaoke for the ASS file.
-SONG - 00:21:21,173. Need to add a couple lines before this to the srt then time for ass file.
+XSONG - 00:12:56,140 Need to add karaoke for the ASS file.
+XSONG - 00:21:21,173. Need to add a couple lines before this to the srt then time for ass file.
 
-00:03:14,863 mice
-ADD - 00:03:40 missed line (nani sore)
-00:03:40,015 mice
-00:03:46,860 mice
-00:04:12,734 mice
-LATE - 00:06:22,900 make it come earlier.
-00:09:27,480 check translation. pretty sure he doesnt say my lord here.
-00:09:33,985 him
-00:09:35,109 him
-00:09:36,245 him
-00:12:56,140 Ribbon
-00:13:01,955 Ribbon
-00:13:42,226 Ribbon
-00:13:54,389 Jamporin
-00:13:56,620 Ribbon
-00:15:34,185 He
-00:15:51,829 He
-00:16:45,380 He
-00:17:29,404 SO italics instead of CAPS
+X00:03:14,863 mice
+XADD - 00:03:40 missed line (nani sore)
+X00:03:40,015 mice
+X00:03:46,860 mice
+X00:04:12,734 mice
+XLATE - 00:06:22,900 make it come earlier. This line seems ok.
+X00:09:27,480 check translation. pretty sure he doesnt say my lord here.
+X00:09:33,985 him
+X00:09:35,109 him
+X00:09:36,245 him
+X00:12:56,140 Ribbon
+X00:13:01,955 Ribbon
+X00:13:42,226 Ribbon
+X00:13:54,389 Jamporin
+X00:13:56,620 Ribbon
+X00:15:34,185 He
+X00:15:51,829 He
+X00:16:45,380 He
+X00:17:29,404 SO italics instead of CAPS
 
 
 Episode 25
 
-00:02:31,415 to the Coffin Tower
-MISSED - 00:03:17 Gama
-00:10:58,639 he exists
-00:11:50,130 check translation
-00:12:57,380 Uranari
-00:19:46,223 remove [Cries]. also might have missed some dialogue slightly before this line.
-00:20:39,239 she
-00:21:44,569 split line for 2 characters
-00:22:09,959 italics
-00:22:13,824 "
-00:22:24,359 Papa
+X00:02:31,415 to the Coffin Tower
+XMISSED - 00:03:17 Gama
+X00:10:58,639 he exists
+X00:11:50,130 check translation
+X00:12:57,380 Uranari
+X00:19:46,223 remove [Cries]. also might have missed some dialogue slightly before this line.
+X00:20:39,239 she
+X00:21:44,569 split line for 2 characters
+X00:22:09,959 italics
+X00:22:13,824 "
+X00:22:24,359 Papa
 
 
 Episode 26
 
-00:05:39,590 split line between 2 characters
-00:08:40,850 Coolland
-00:12:10,594 those machines
-00:12:22,630 those fireballs
-00:14:41,460 boy's
-00:17:49,400 her
+X00:05:39,590 split line between 2 characters
+X00:08:40,850 Coolland
+X00:12:10,594 those machines
+X00:12:22,630 those fireballs
+X00:14:41,460 boy's
+X00:17:49,400 her
 
 
 Episode 27
 
-MEPHISTO MAGIC 00:03:51,300
-MEPHISTO MAGIC 00:03:56,920 add romaji for this too
+XMEPHISTO MAGIC 00:03:51,300
+XMEPHISTO MAGIC 00:03:56,920 add romaji for this too
 
-00:05:00,540 Demon!
-00:08:19,647 Snake
-00:08:36,779 Snake
-00:11:11,379 Father and Mother
-00:11:25,039 demon
-00:11:35,340 italics
-00:11:36,740 italics
-MISSING 00:16:51 guy in crows nest
-00:17:49,696 We're
-MISSING 00:23:52 Goodbye!
+X00:05:00,540 Demon!
+X00:08:19,647 Snake
+X00:08:36,779 Snake
+X00:11:11,379 Father and Mother
+X00:11:25,039 demon
+X00:11:35,340 italics
+X00:11:36,740 italics
+XMISSING 00:16:51 guy in crows nest (only figured out first part of this line. the rest is an educated guess.)
+X00:17:49,696 We're
+XMISSING 00:23:52 Goodbye!
 
 
 Episode 28
 
-00:04:07,670 separate But into its own subtitle.
-00:07:01,831 Silence!
-00:13:47,460 (right before this line) Damn.
-TOO SHORT 00:15:11,140 Deploy! Deploy!
-00:17:02,700 comma instead of period.
-SPLIT 00:18:18,414
-00:22:34,605 father and mother
-00:22:39,819 My Papa
+X00:04:07,670 separate But into its own subtitle.
+X00:07:01,831 Silence!
+X00:13:47,460 (right before this line) Damn.
+XTOO SHORT 00:15:11,140 Deploy! Deploy!
+X00:17:02,700 comma instead of period.
+XSPLIT 00:18:18,414
+X00:22:34,605 father and mother
+X00:22:39,819 My Papa
 
 
-Episode 29
+Episode 29 - stopped here
 
 MEPHISTO MAGIC 00:06:10,760
 MEPHISTO MAGIC 00:06:13,793
