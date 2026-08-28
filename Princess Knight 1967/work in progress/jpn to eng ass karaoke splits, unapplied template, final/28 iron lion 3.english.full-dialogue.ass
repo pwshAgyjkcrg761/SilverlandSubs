@@ -12,8 +12,8 @@ PlayResY: 576
 [Aegisub Project Garbage]
 Video AR Mode: 4
 Video AR Value: 1.314554
-Scroll Position: 253
-Active Line: 265
+Scroll Position: 25
+Active Line: 34
 Video Position: 950
 
 [V4+ Styles]
@@ -50,7 +50,7 @@ Dialogue: 0,0:01:28.62,0:01:31.82,OPED_Translation,,0,0,0,,It’s really me!
 Dialogue: 0,0:01:44.10,0:01:50.14,Default,,0,0,0,,Twenty-Eighth Episode\NThe Iron Lion\NIron Lion
 Dialogue: 0,0:01:52.45,0:01:56.20,Default,,0,0,0,,{\i1}Blinded, Sapphire is carried off by Mephisto,{\i0}
 Dialogue: 0,0:01:57.17,0:01:59.40,Default,,0,0,0,,{\i1}but Hecate rescues her just in time.{\i0}
-Dialogue: 0,0:01:59.43,0:02:00.85,Default,,0,0,0,,{\i1}Meanwhile, on Sea Snake Island,{\i0}
+Dialogue: 0,0:01:59.43,0:02:00.85,Default,,0,0,0,,{\i1}Meanwhile, on Sea Serpent Island,{\i0}
 Dialogue: 0,0:02:00.88,0:02:03.90,Default,,0,0,0,,{\i1}she found the King and Queen had been  turned to stone.{\i0}
 Dialogue: 0,0:02:04.54,0:02:08.58,Default,,0,0,0,,{\i1}Sapphire fell into the sea while trying to save the King and the others,{\i0}
 Dialogue: 0,0:02:08.60,0:02:12.32,Default,,0,0,0,,{\i1}but was rescued by Pirate Blood.{\i0}
@@ -58,11 +58,11 @@ Dialogue: 0,0:02:12.35,0:02:15.34,Default,,0,0,0,,{\i1}She now heads to the Wate
 Dialogue: 0,0:02:21.63,0:02:24.24,Default,,0,0,0,,{\i1}With her sight restored by the Purification Waterfall,{\i0}
 Dialogue: 0,0:02:24.26,0:02:31.83,Default,,0,0,0,,{\i1}Sapphire sets sail for Coolland to finally face the Snow Queen.{\i0}
 Dialogue: 0,0:02:36.92,0:02:41.71,Default,,0,0,0,,{\i1}Now, please sit back and enjoy today's episode: "The Iron Lion."{\i0}
-Dialogue: 0,0:03:36.04,0:03:37.04,Default,,0,0,0,,Sea Snake Island?
-Dialogue: 0,0:03:37.55,0:03:38.80,Default,,0,0,0,,That's Sea Snake Island.
+Dialogue: 0,0:03:36.04,0:03:37.04,Default,,0,0,0,,Sea Serpent Island?
+Dialogue: 0,0:03:37.55,0:03:38.80,Default,,0,0,0,,That's Sea Serpent Island.
 Dialogue: 0,0:03:42.39,0:03:43.18,Default,,0,0,0,,Father...
 Dialogue: 0,0:03:44.19,0:03:45.03,Default,,0,0,0,,Mother...
-Dialogue: 0,0:04:03.74,0:04:05.86,Default,,0,0,0,,I want so badly to go to Sea Snake Island and save you.
+Dialogue: 0,0:04:03.74,0:04:05.86,Default,,0,0,0,,I want so badly to go to Sea Serpent Island and save you.
 Dialogue: 0,0:04:06.58,0:04:07.29,Default,,0,0,0,,But,
 Dialogue: 0,0:04:07.67,0:04:09.72,Default,,0,0,0,,what good would it do if I went now?
 Dialogue: 0,0:04:14.77,0:04:19.50,Default,,0,0,0,,Without Mephisto's power, I can't turn you back into humans.

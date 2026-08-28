@@ -191,7 +191,7 @@ I'll ask God in Heaven for you.
 
 45
 00:03:49,850 --> 00:03:54,431
-Ms. Winged Horse! Eros! Come down here!
+Miss Winged Horse! Miss Eros! Come down here!
 
 46
 00:03:57,170 --> 00:04:01,320
@@ -211,7 +211,7 @@ Sapphire's mother is sick. Please come down!
 
 50
 00:04:20,805 --> 00:04:24,400
-Eros, the Queen is dying of a fever.
+Miss Eros, the Queen is dying of a fever.
 
 51
 00:04:24,835 --> 00:04:28,012
@@ -935,7 +935,7 @@ Is that country far away?
 
 231
 00:18:25,560 --> 00:18:26,302
-My sword!
+That's strange!
 
 232
 00:18:28,717 --> 00:18:30,380
@@ -1111,190 +1111,198 @@ Become the ugliest in the world!
 
 275
 00:21:40,079 --> 00:21:45,860
-<i>I commanded you to rule over beauty, love, and life.</i>
+<i>Omae ni wa utsukushisa to ai to inochi o shihai suru yo meirei shita hazu da.
+- I commanded you to rule over beauty, love, and life, did I not?</i>
 
 276
 00:21:46,220 --> 00:21:47,620
 Ah, yes, Father.
 
 277
-00:21:48,062 --> 00:21:54,274
-<i>Yet you treat human beauty and life like playthings.</i>
+00:21:48,062 --> 00:21:51,231
+Sore nano ni omae wa hito no utsukushisa, 
+- And yet, it seems you are treating human beauty and
 
 278
-00:21:54,845 --> 00:21:59,820
-<i>It's time you tasted what your victims feel.</i>
+00:21:51,255 --> 00:21:54,274
+hito no inochi o omocha ni shite iru yo ja.
+- human life as mere playthings!
 
 279
+00:21:54,845 --> 00:21:59,820
+Sukoshi omae ni ijimerareta mono no kimochi o awawatte miru ga yokaru.
+- It's time you tasted what your victims feel.
+
+280
 00:22:00,229 --> 00:22:04,720
 No! No! I don't want to be ugly! Father, please forgive me!
 
-280
+281
 00:22:17,657 --> 00:22:18,946
 She turned into a pig...
 
-281
+282
 00:22:23,915 --> 00:22:24,665
 Sapphire!
 
-282
+283
 00:22:26,571 --> 00:22:27,353
 Sapphire!
 
-283
+284
 00:22:27,493 --> 00:22:28,368
 Hang in there!
 
-284
+285
 00:22:30,321 --> 00:22:30,985
 Tink,
 
-285
+286
 00:22:31,564 --> 00:22:33,564
 I don't want to see anyone anymore!
 
-286
+287
 00:22:33,751 --> 00:22:36,165
 My face has become the ugliest in the entire world!
 
-287
+288
 00:22:36,189 --> 00:22:38,300
 I don't care if your face is ugly.
 
-288
+289
 00:22:38,594 --> 00:22:40,709
 Tink is Sapphire's friend!
 
-289
+290
 00:22:41,204 --> 00:22:42,409
 Take off your mask.
 
-290
+291
 00:22:42,924 --> 00:22:44,480
 You won't run away, even if I look scary?
 
-291
+292
 00:22:47,729 --> 00:22:49,060
 What's with that face?
 
-292
+293
 00:22:53,924 --> 00:22:57,154
 It's Sapphire's original face!
 
-293
+294
 00:22:57,359 --> 00:22:58,664
 My original face?
 
-294
+295
 00:23:03,249 --> 00:23:04,249
 Mother!
 
-295
+296
 00:23:16,879 --> 00:23:19,140
 I'm sorry I lied about being Pierre!
 
-296
+297
 00:23:19,999 --> 00:23:22,600
 It's alright, Sapphire. I'll never forget you.
 
-297
+298
 00:23:22,864 --> 00:23:26,596
 I'm so sorry, Sapphire. Please don't let this keep you from coming back.
 
-298
+299
 00:23:27,039 --> 00:23:28,801
 Gian sorry.
 
-299
+300
 00:23:29,694 --> 00:23:32,878
 You're so heavy. Are you really Lady Venus?
 
-300
+301
 00:23:34,429 --> 00:23:39,000
 Go on home. I'm going to Heaven to ask forgiveness for Lady Venus.
 
-301
+302
 00:23:40,434 --> 00:23:44,623
 Richard, Don, and Gian... Goodbye!
 
-302
+303
 00:23:47,129 --> 00:23:49,433
 Goodbye, Sapphire. Goodbye!
 
-303
+304
 00:24:22,461 --> 00:24:26,081
 ♪ Tarari Ratta Ritta Ratta Rattattaa ♪
 -
 
-304
+305
 00:24:26,082 --> 00:24:29,442
 ♪ Kyahoo! Kyahoo! Kyahoo! ♪
 Yahoo! Yahoo! Yahoo!
 
-305
+306
 00:24:29,443 --> 00:24:33,213
 ♪ Tarari Ratta Ritta Ratta Rattattaa ♪
 -
 
-306
+307
 00:24:33,214 --> 00:24:36,375
 ♪ Kyahoo! Kyahoo! Kyahoo! ♪
 Yahoo! Yahoo! Yahoo!
 
-307
+308
 00:24:36,376 --> 00:24:40,189
 ♪ Sen'nen man'nen hyakuman-nen ♪
 A thousand years, ten thousand years, a million years,
 
-308
+309
 00:24:40,190 --> 00:24:43,486
 ♪ Ribbon de tsunagou ichioku-nen ♪
 Let’s connect with ribbons for a billion years!
 
-309
+310
 00:24:43,487 --> 00:24:47,492
 ♪ Akuma ga kute mo arashi ga kute mo ♪
 Even if demons come, even if storms arrive,
 
-310
+311
 00:24:47,493 --> 00:24:50,931
 ♪ tsunaida kokoro wa hanarenai ♪
 Our bonded hearts will never part.
 
-311
+312
 00:24:50,932 --> 00:24:54,552
 ♪ Tarari Ratta Ritta Ratta Rattattaa ♪
 -
 
-312
+313
 00:24:54,553 --> 00:24:57,913
 ♪ Kyahoo! Kyahoo! Kyahoo! ♪
 Yahoo! Yahoo! Yahoo!
 
-313
+314
 00:24:57,914 --> 00:25:01,684
 ♪ Tarari Ratta Ritta Ratta Rattattaa ♪
 -
 
-314
+315
 00:25:01,685 --> 00:25:04,846
 ♪ Kyahoo! Kyahoo! Kyahoo! ♪
 Yahoo! Yahoo! Yahoo!
 
-315
+316
 00:25:04,870 --> 00:25:10,579
 Subtitled by
 SilverlandSubs
 tinyurl.com/SilverlandSubs
 
-316
+317
 00:25:10,603 --> 00:25:15,744
 Opening & Ending Song Lyrics Translation by
 Natalia Arlovskaya
 lyricstranslate.com/en/
 translator/natalia-arlovskaya
 
-317
+318
 00:25:15,768 --> 00:25:19,768
 EAN-13 : 8-031179-423880
 ASIN : ‎ B0DQ54LVY1

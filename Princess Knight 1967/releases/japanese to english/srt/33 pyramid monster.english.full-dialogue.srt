@@ -215,11 +215,11 @@ Let go! You've got the wrong person!
 
 51
 00:05:09,766 --> 00:05:10,660
-I'm sick of this!
+I'm sick of this.
 
 52
 00:05:10,685 --> 00:05:12,319
-<i>I'm sick of this.</i>
+I'm sick of this.
 
 53
 00:05:21,570 --> 00:05:24,020
@@ -263,7 +263,7 @@ and the pyramids
 
 63
 00:05:48,253 --> 00:05:52,102
-So this is Egypt, just like Dr. Uranai told me about!
+So this is Egypt, just like Dr. Uranari told me about!
 
 64
 00:05:54,453 --> 00:05:58,116
@@ -431,7 +431,7 @@ Hey, kid, is that parrot good at mimicking people?
 
 105
 00:08:32,659 --> 00:08:35,460
-<i>Hey kid, is that parrot good at mimicking people?</i>
+Hey kid, is that parrot good at mimicking people?
 
 106
 00:08:35,750 --> 00:08:37,400
@@ -439,7 +439,7 @@ Can that parrot fly well?
 
 107
 00:08:37,969 --> 00:08:39,675
-<i>Can that parrot fly well?</i>
+Can that parrot fly well?
 
 108
 00:08:40,589 --> 00:08:41,973
@@ -447,7 +447,7 @@ It could fly around the world!
 
 109
 00:08:42,369 --> 00:08:44,001
-<i>...around the world.</i>
+...around the world.
 
 110
 00:08:44,025 --> 00:08:46,881
@@ -471,7 +471,7 @@ Which way is your kingdom?
 
 115
 00:08:56,020 --> 00:08:56,914
-<i>To the north.</i>
+To the north.
 
 116
 00:08:56,938 --> 00:08:59,586
@@ -479,7 +479,7 @@ Right, fly as fast as you can to the north.
 
 117
 00:09:03,205 --> 00:09:04,666
-<i>This way.</i>
+This way.
 
 118
 00:09:15,429 --> 00:09:17,940
@@ -523,27 +523,27 @@ As you know,
 
 128
 00:09:47,398 --> 00:09:51,766
-Queen Ida was said to be the second most beautiful woman,
+<i>Queen Ida was said to be the second most beautiful woman,</i>
 
 129
 00:09:51,791 --> 00:09:53,100
- right after Cleopatra.
+<i> right after Cleopatra.</i>
 
 130
 00:09:54,306 --> 00:09:55,820
-Even in death,
+<i>Even in death,</i>
 
 131
 00:09:55,844 --> 00:09:57,867
-she retains her youth and beauty,
+<i>she retains her youth and beauty,</i>
 
 132
 00:09:57,891 --> 00:10:03,440
-sleeping mummified deep within the pyramid.
+<i>sleeping mummified deep within the pyramid.</i>
 
 133
 00:10:07,246 --> 00:10:11,674
-But the mummy's youth and beauty
+<i>But the mummy's youth and beauty</i>
 
 134
 00:10:11,698 --> 00:10:15,400
@@ -802,7 +802,7 @@ Tink!
 Hmm? Who's there?
 
 198
-00:15:52,620 --> 00:15:53,620
+00:15:52,620 --> 00:15:54,813
 Sapphire!
 
 199
@@ -879,7 +879,7 @@ there's bound to be at least one opening.
 
 217
 00:19:02,366 --> 00:19:03,540
-<i>Oh, this is awful...</i>
+Oh, this is awful...
 
 218
 00:19:05,460 --> 00:19:06,726

@@ -67,7 +67,7 @@ It’s really me!
 00:01:44,101 --> 00:01:50,141
 Thirty-Seventh Episode
 The Magic Tree
-Save the Sapphire!
+Save Sapphire!
 
 15
 00:01:53,699 --> 00:01:58,013
@@ -127,11 +127,11 @@ Sapphire!
 
 29
 00:03:04,760 --> 00:03:05,238
-Franz...
+<i>Franz...</i>
 
 30
 00:03:05,835 --> 00:03:06,959
-Poor Franz...
+<i>Poor Franz...</i>
 
 31
 00:03:10,840 --> 00:03:11,371
@@ -847,7 +847,7 @@ D-Don't come near me!
 
 208
 00:15:49,369 --> 00:15:51,720
-The demon's tree is cursed!
+The Demon Tree is cursed!
 
 209
 00:15:53,189 --> 00:15:56,226
@@ -915,7 +915,7 @@ Sick? No matter how bad it is,
 
 225
 00:17:04,589 --> 00:17:07,319
-we're doing the surgery to transfer Sapphire's male heart right away!
+we're doing the surgery to transfer Sapphire's boy's heart right away!
 
 226
 00:17:07,924 --> 00:17:10,619
