@@ -13,7 +13,7 @@ PlayResY: 576
 Video AR Mode: 4
 Video AR Value: 1.314554
 Scroll Position: 132
-Active Line: 145
+Active Line: 144
 Video Position: 950
 
 [V4+ Styles]
@@ -168,7 +168,7 @@ Dialogue: 0,0:11:00.84,0:11:02.10,Default,,0,0,0,,Damn that Jiruba... did you se
 Dialogue: 0,0:11:03.28,0:11:06.00,Default,,0,0,0,,Oh, Lord Sapphire, where are you off to?
 Dialogue: 0,0:11:07.44,0:11:09.20,Default,,0,0,0,,Just a little over two days left, isn't it?
 Dialogue: 0,0:11:37.45,0:11:41.16,Default,,0,0,0,,Step right up! The master of kite riding, the famous Trott!
-Dialogue: 0,0:11:41.64,0:11:44.26,Default,,0,0,0,,To start off, "Big Wave, Small Wave!"
+Dialogue: 0,0:11:41.64,0:11:44.26,Default,,0,0,0,,To start off, "High wave, Low wave!"
 Dialogue: 0,0:11:52.17,0:11:54.86,Default,,0,0,0,,Next up, "The Whirlwind Spin!"
 Dialogue: 0,0:12:12.05,0:12:17.24,Default,,0,0,0,,Next, he will paint a picture in the blue sky for you all!
 Dialogue: 0,0:12:40.50,0:12:42.63,Default,,0,0,0,,Incredible! He doesn't even seem human!
