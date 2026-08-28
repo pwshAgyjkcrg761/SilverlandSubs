@@ -83,7 +83,7 @@ I'm sorry. Help me!
 
 18
 00:02:21,874 --> 00:02:23,718
-
+I'm scared!
 
 19
 00:02:38,920 --> 00:02:42,038
@@ -339,7 +339,7 @@ Where did Tink go?
 
 82
 00:08:50,729 --> 00:08:53,166
-Tiiink!
+Tink!
 
 83
 00:08:53,945 --> 00:08:58,913
@@ -667,11 +667,11 @@ Sapphire...
 
 164
 00:17:22,405 --> 00:17:23,733
-He's having a nightmare.
+<i>He's having a nightmare.</i>
 
 165
 00:17:24,749 --> 00:17:25,789
-Poor thing...
+<i>Poor thing...</i>
 
 166
 00:18:01,839 --> 00:18:03,712
@@ -775,15 +775,15 @@ Yeah. She nursed me all night long.
 
 191
 00:19:58,954 --> 00:20:02,827
-King already put Sapphire on the swan ship and sent her back to the castle.
+Tink already put Sapphire on the swan ship and sent her back to the castle.
 
 192
 00:20:02,851 --> 00:20:03,592
-I see... but...
+But...
 
 193
 00:20:04,616 --> 00:20:06,788
-You must've been dreaming from your fever.
+You must've been having a fever dream.
 
 194
 00:20:07,329 --> 00:20:09,540

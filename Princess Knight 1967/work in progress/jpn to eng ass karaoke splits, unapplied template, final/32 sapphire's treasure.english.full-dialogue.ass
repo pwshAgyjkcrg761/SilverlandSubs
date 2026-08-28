@@ -16,6 +16,7 @@ Video File: ../../ita-new-encode/32 sapphire treasure.mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.500000
+Scroll Position: 324
 Active Line: 3
 Video Position: 48929
 
@@ -24,8 +25,8 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: Default,Verdana,39.7,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,19,19,20,1
 Style: Karaoke,Verdana,39.7,&H00FF00FF,&H00FF0000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,19,19,20,1
 Style: OPED_Translation,Verdana,39.7,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,19,19,20,1
-Style: Silver Knight / Spirit Romaji - 32 sapphire's treasure,Verdana,39.7,&H00BA520F,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,19,19,20,1
-Style: Silver Knight / Spirit Translation - 32 sapphire's treasure,Verdana,39.7,&H00BA520F,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,19,19,20,1
+Style: Silver Knight / Spirit Romaji - 32 sapphire's treasure,Verdana,39.7,&H00BA520F,&H0000FFFF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,2,2,19,19,20,1
+Style: Silver Knight / Spirit Translation - 32 sapphire's treasure,Verdana,39.7,&H00BA520F,&H0000FFFF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,2,8,19,19,20,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text

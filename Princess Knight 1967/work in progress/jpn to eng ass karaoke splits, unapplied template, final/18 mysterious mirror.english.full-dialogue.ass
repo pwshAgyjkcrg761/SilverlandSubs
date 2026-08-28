@@ -18,8 +18,7 @@ Video File: ../../ita-new-encode/18 mysterious mirror.mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.500000
-Scroll Position: 288
-Active Line: 294
+Active Line: 3
 Video Position: 62214
 
 [V4+ Styles]
@@ -27,8 +26,8 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: Default,Verdana,39.7,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,19,19,20,1
 Style: Karaoke,Verdana,39.7,&H00FF00FF,&H00FF0000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,19,19,20,1
 Style: OPED_Translation,Verdana,39.7,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,19,19,20,1
-Style: Mysterious Mirror Romaji - 18 mysterious mirror,Verdana,39.7,&H00FFEA00,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,19,19,20,1
-Style: Mysterious Mirror Translation - 18 mysterious mirror,Verdana,39.7,&H00FFEA00,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,19,19,20,1
+Style: Mysterious Mirror Romaji - 18 mysterious mirror,Verdana,39.7,&H00FFEA00,&H0000FFFF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,2,2,19,19,20,1
+Style: Mysterious Mirror Translation - 18 mysterious mirror,Verdana,39.7,&H00FFEA00,&H0000FFFF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,2,8,19,19,20,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text

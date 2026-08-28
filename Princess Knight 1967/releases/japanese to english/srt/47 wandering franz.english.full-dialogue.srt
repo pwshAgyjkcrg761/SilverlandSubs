@@ -171,7 +171,7 @@ Even a master swordsman loses his composure over Princess Sapphire.
 
 40
 00:03:59,750 --> 00:04:01,520
-Oh, this is from the Northern Fort.
+Oh, this is from the northern fort.
 
 41
 00:04:02,715 --> 00:04:03,585
@@ -183,7 +183,7 @@ Prince Franz!
 
 43
 00:04:08,930 --> 00:04:10,180
-It's from the Northern Fort!
+It's from the northern fort!
 
 44
 00:04:10,430 --> 00:04:12,320
@@ -207,32 +207,32 @@ Prince! Look out!
 
 49
 00:04:37,760 --> 00:04:39,880
-<i>To Prince Franz of Goldland...</i>
+"To Prince Franz of Goldland..."
 
 50
 00:04:40,180 --> 00:04:43,645
-<i>Our X-Union is marching south with a million troops.</i>
+"Our X-Union is marching south with a million troops."
 
 51
 00:04:43,669 --> 00:04:45,992
-<i>Along the way, we subjugated those who surrendered</i>
+"Along the way, we subjugated those who surrendered"
 
 52
 00:04:46,016 --> 00:04:47,900
-<i>and annihilated all who resisted.</i>
+"and annihilated all who resisted."
 
 53
 00:04:48,500 --> 00:04:52,038
-<i>Goldland, surrender without futile resistance.</i>
+"Goldland, surrender without futile resistance."
 
 54
 00:04:52,302 --> 00:04:56,760
-<i>If we receive no answer by the time the moon sets in the west tonight, we will attack.
-- The X-Union</i>
+"If we receive no answer by the time the moon sets in the west tonight, we will attack.
+- The X-Union"
 
 55
 00:04:57,716 --> 00:04:59,966
-Damn it! The X-Union again!
+<i>Damn it! The X-Union again!</i>
 
 56
 00:05:13,110 --> 00:05:17,733
@@ -567,527 +567,531 @@ Damn it! Am I too late?
 <i>Franz...</i>
 
 139
+00:12:42,164 --> 00:12:43,377
+Prince Franz!
+
+140
 00:13:05,699 --> 00:13:07,600
 Franz! Prince Franz!
 
-140
+141
 00:13:14,639 --> 00:13:15,980
 Franz! Franz!
 
-141
+142
 00:13:21,046 --> 00:13:23,020
 Th-This is Prince Franz's...
 
-142
+143
 00:13:58,836 --> 00:14:01,013
 Hey, have you seen Prince Franz?
 
-143
+144
 00:14:07,725 --> 00:14:09,460
 No, no, I haven't seen him.
 
-144
+145
 00:14:19,446 --> 00:14:20,066
 <i>Franz...</i>
 
-145
+146
 00:14:20,534 --> 00:14:21,541
 <i>Please be alive.</i>
 
-146
+147
 00:14:32,639 --> 00:14:34,020
 Sapphire...
 
-147
+148
 00:14:35,339 --> 00:14:40,580
 Prince Franz, please come inside. The night dew is bad for your wounds.
 
-148
+149
 00:14:40,673 --> 00:14:41,930
 I know, my old friend.
 
-149
+150
 00:14:42,147 --> 00:14:44,517
 But I'm helpless like this.
 
-150
+151
 00:14:45,114 --> 00:14:47,280
 I can't walk, and we have no horses.
 
-151
+152
 00:14:48,459 --> 00:14:50,400
 And Goldland Castle is in that state as well.
 
-152
+153
 00:14:51,439 --> 00:14:53,460
 I understand how you feel.
 
-153
+154
 00:14:55,329 --> 00:14:56,477
 But Your Highness,
 
-154
+155
 00:14:56,961 --> 00:15:02,093
 once you heal, you can retake the castle anytime.
 
-155
+156
 00:15:02,865 --> 00:15:05,553
 Come, let us treat your wounds.
 
-156
+157
 00:15:13,119 --> 00:15:16,800
 <i>Prince! Please, let Franz be safe!</i>
 
-157
+158
 00:15:26,949 --> 00:15:30,379
 Your Highness, please write a letter to Princess Sapphire.
 
-158
+159
 00:15:31,340 --> 00:15:32,752
 But how will we deliver it?
 
-159
+160
 00:15:32,776 --> 00:15:35,785
 These two legs of mine will be the pigeon!
 
-160
+161
 00:15:35,809 --> 00:15:36,625
 But...
 
-161
+162
 00:15:36,649 --> 00:15:39,205
 The Princess must be worried about you.
 
-162
+163
 00:15:39,229 --> 00:15:41,012
 Come, take off your cloak,
 
-163
+164
 00:15:41,036 --> 00:15:41,705
 On this...?
 
-164
+165
 00:15:41,823 --> 00:15:45,313
 spread it out, and write on it with this ink pen!
 
-165
+166
 00:15:45,625 --> 00:15:46,992
 Hurry!
 
-166
+167
 00:15:47,549 --> 00:15:49,240
 That's a great idea!
 
-167
+168
 00:15:51,139 --> 00:15:55,652
 Besides, our soldiers must have escaped to Silverland.
 
-168
+169
 00:15:55,676 --> 00:15:58,920
 Your Highness, We must let them know that you are safe.
 
-169
+170
 00:16:06,609 --> 00:16:09,624
 Well then, I shall return by noon tomorrow.
 
-170
+171
 00:16:09,648 --> 00:16:10,580
 Farewell.
 
-171
+172
 00:16:12,200 --> 00:16:13,780
 Hey, this one's a big catch.
 
-172
+173
 00:16:13,846 --> 00:16:16,266
 Capturing them will be a major triumph!
 
-173
+174
 00:16:16,985 --> 00:16:19,731
 All right, leave the helpless prince for later.
 
-174
+175
 00:16:19,755 --> 00:16:21,920
 First, let's take care of that old geezer!
 
-175
+176
 00:16:35,689 --> 00:16:37,260
 We should catch up to him soon!
 
-176
+177
 00:16:43,660 --> 00:16:45,620
 You old fool!
 
-177
+178
 00:16:46,322 --> 00:16:47,682
 Help me!
 
-178
+179
 00:16:49,104 --> 00:16:51,546
 I won't just let you escape!
 
-179
+180
 00:16:53,919 --> 00:16:54,940
 Goldland soldiers!
 
-180
+181
 00:16:55,259 --> 00:16:56,259
 Come on then!
 
-181
+182
 00:16:57,760 --> 00:17:00,226
 Halt! Seize him!
 
-182
+183
 00:17:04,622 --> 00:17:05,608
 Hyah!
 
-183
+184
 00:17:14,369 --> 00:17:17,833
 Don't let him escape! Whatever you do, don't let him reach Silverland!
 
-184
+185
 00:17:24,034 --> 00:17:25,526
 Easy there, old man!
 
-185
+186
 00:17:25,889 --> 00:17:27,380
 Oh, Ribbon Knight!
 
-186
+187
 00:17:27,593 --> 00:17:28,620
 It's Ribbon!
 
-187
+188
 00:17:28,849 --> 00:17:31,553
 Come on, Silverland is just ahead! Follow me!
 
-188
+189
 00:17:32,360 --> 00:17:33,360
 Where did they go?!
 
-189
+190
 00:17:34,539 --> 00:17:36,926
 Get them!
 
-190
+191
 00:17:44,479 --> 00:17:46,860
 So they've finally fled into Silverland!
 
-191
+192
 00:17:46,884 --> 00:17:47,833
 Damn it!
 
-192
+193
 00:17:49,319 --> 00:17:50,520
 Hang in there! We're almost there, old man!
 
-193
+194
 00:17:51,699 --> 00:17:53,820
 Hey! Somebody open up!
 
-194
+195
 00:17:55,429 --> 00:17:56,520
 W-What happened?
 
-195
+196
 00:17:57,279 --> 00:17:59,260
 Prince Franz is safe.
 
-196
+197
 00:18:00,479 --> 00:18:04,280
 He's wounded and hiding in Shinewood Cave.
 
-197
+198
 00:18:04,539 --> 00:18:06,020
 Then we must go there at once!
 
-198
+199
 00:18:06,080 --> 00:18:07,180
 Hurry, quickly!
 
-199
+200
 00:18:08,599 --> 00:18:13,160
 Ribbon Knight, please deliver this to Lady Sapphire in my place.
 
-200
+201
 00:18:14,719 --> 00:18:16,293
 Is this Prince Franz's cloak?
 
-201
+202
 00:18:17,019 --> 00:18:19,984
 That's a letter from the prince to Princess Sapphire.
 
-202
+203
 00:18:20,008 --> 00:18:22,684
 Ah, hey now, you shouldn't read someone else's mail!
 
-203
+204
 00:18:22,708 --> 00:18:24,520
 My goodness...
 
-204
+205
 00:18:24,969 --> 00:18:28,318
 Thank you for everything, Princess Knight.
 
-205
+206
 00:18:28,342 --> 00:18:30,331
 But my only regret is...
 
-206
+207
 00:18:30,355 --> 00:18:31,711
 Your regret?
 
-207
+208
 00:18:31,735 --> 00:18:36,720
 I wanted to deliver Lord Franz's letter directly to Princess Sapphire myself.
 
-208
+209
 00:18:37,419 --> 00:18:39,460
 That's the only pity.
 
-209
+210
 00:18:48,619 --> 00:18:51,320
 I just wanted to see Princess Sapphire.
 
-210
+211
 00:18:51,835 --> 00:18:52,835
 Old Todd!
 
-211
+212
 00:18:53,420 --> 00:18:54,619
 Old Todd!
 
-212
+213
 00:18:55,080 --> 00:18:55,980
 Who are you?
 
-213
+214
 00:18:56,999 --> 00:19:01,940
 I'm Sapphire. Thank you for all your letters, Old Todd.
 
-214
+215
 00:19:03,719 --> 00:19:08,800
 She is every bit as kind a princess as I thought.
 
-215
+216
 00:19:12,413 --> 00:19:14,458
 My duty is finally fulfilled.
 
-216
+217
 00:19:14,488 --> 00:19:18,171
 Princess Sapphire, please look after Prince Franz.
 
-217
+218
 00:19:18,195 --> 00:19:22,993
 Join forces and defeat those villains!
 
-218
+219
 00:19:23,899 --> 00:19:26,380
 Yes, Old Todd. Always.
 
-219
+220
 00:19:26,929 --> 00:19:31,920
 Wonderful. I can rest easy now.
 
-220
+221
 00:19:33,243 --> 00:19:34,531
 Old Todd!
 
-221
+222
 00:19:35,728 --> 00:19:36,886
 Old Todd!
 
-222
+223
 00:19:43,609 --> 00:19:44,700
 Come on, let's go!
 
-223
+224
 00:19:57,929 --> 00:19:59,391
 <i>Dearest Sapphire,</i>
 
-224
+225
 00:19:59,415 --> 00:20:02,604
 <i>Goldland is now overrun with enemy troops. </i>
 
-225
+226
 00:20:02,628 --> 00:20:05,173
 <i>My leg is injured and I cannot move.</i>
 
-226
+227
 00:20:08,689 --> 00:20:11,178
 <i>I may never see you alive again,</i>
 
-227
+228
 00:20:11,642 --> 00:20:16,273
 <i>but I'm truly happy to have met you in this world.</i>
 
-228
+229
 00:20:18,909 --> 00:20:21,264
 <i>I am prepared to fight bravely to the end,</i>
 
-229
+230
 00:20:21,288 --> 00:20:23,260
 <i>as a prince of Goldland should.</i>
 
-230
+231
 00:20:25,379 --> 00:20:29,340
 <i>Even if I should fall, my heart will always be by your side.</i>
 
-231
+232
 00:20:30,399 --> 00:20:35,120
 <i>I sincerely pray for your happiness. To Sapphire, from Prince Franz.</i>
 
-232
+233
 00:20:50,799 --> 00:20:52,080
 Franz! Don't die!
 
-233
+234
 00:20:57,129 --> 00:20:58,853
 Prince Franz! Are you safe?
 
-234
+235
 00:21:01,464 --> 00:21:02,860
 Oh, the Ribbon Knight!
 
-235
+236
 00:21:08,580 --> 00:21:09,580
 Prince Franz!
 
-236
+237
 00:21:12,469 --> 00:21:15,360
 It looks like a new unit of enemy troops has arrived. For now...
 
-237
+238
 00:21:15,384 --> 00:21:18,113
 Come on, everyone! We're pulling back!
 
-238
+239
 00:21:28,379 --> 00:21:30,920
 Princess Sapphire is waiting at that farmhouse.
 
-239
+240
 00:21:31,910 --> 00:21:33,040
 Here, I'm returning this to you.
 
-240
+241
 00:21:35,729 --> 00:21:37,253
 How did the Ribbon Knight have this?
 
-241
+242
 00:21:58,020 --> 00:22:02,153
 Old friend, I swear we will take Goldland back with our own hands!
 
-242
+243
 00:22:07,549 --> 00:22:10,960
 Old friend, I promise I will honor your friendship!
 
-243
+244
 00:22:13,689 --> 00:22:17,483
 And at the very end, the old man said that Goldland and Silverland...
 
-244
+245
 00:22:17,507 --> 00:22:20,960
 should join hands and defeat the enemy...
 
-245
+246
 00:22:26,449 --> 00:22:33,960
 <i>Please look after Prince Franz. And may you both be happy forever...</i>
 
-246
+247
 00:22:37,799 --> 00:22:43,933
 Old Todd prayed that you would stay strong and find happiness, Franz.
 
-247
+248
 00:22:45,364 --> 00:22:48,020
 Thank you, Sapphire. I won't lose heart ever again.
 
-248
+249
 00:22:50,829 --> 00:22:54,860
 And I'll make sure to move his grave back to Goldland Castle.
 
-249
+250
 00:22:56,499 --> 00:23:01,980
 I'll put an end to this war and restore peace to Goldland once and for all.
 
-250
+251
 00:23:02,919 --> 00:23:05,000
 Will you help me, Sapphire?
 
-251
+252
 00:24:15,340 --> 00:24:18,960
 ♪ Tarari Ratta Ritta Ratta Rattattaa ♪
 -
 
-252
+253
 00:24:18,961 --> 00:24:22,321
 ♪ Kyahoo! Kyahoo! Kyahoo! ♪
 Yahoo! Yahoo! Yahoo!
 
-253
+254
 00:24:22,322 --> 00:24:26,092
 ♪ Tarari Ratta Ritta Ratta Rattattaa ♪
 -
 
-254
+255
 00:24:26,093 --> 00:24:29,254
 ♪ Kyahoo! Kyahoo! Kyahoo! ♪
 Yahoo! Yahoo! Yahoo!
 
-255
+256
 00:24:29,255 --> 00:24:33,068
 ♪ Sen'nen man'nen hyakuman-nen ♪
 A thousand years, ten thousand years, a million years,
 
-256
+257
 00:24:33,069 --> 00:24:36,365
 ♪ Ribbon de tsunagou ichioku-nen ♪
 Let’s connect with ribbons for a billion years!
 
-257
+258
 00:24:36,366 --> 00:24:40,371
 ♪ Akuma ga kute mo arashi ga kute mo ♪
 Even if demons come, even if storms arrive,
 
-258
+259
 00:24:40,372 --> 00:24:43,810
 ♪ tsunaida kokoro wa hanarenai ♪
 Our bonded hearts will never part.
 
-259
+260
 00:24:43,811 --> 00:24:47,431
 ♪ Tarari Ratta Ritta Ratta Rattattaa ♪
 -
 
-260
+261
 00:24:47,432 --> 00:24:50,792
 ♪ Kyahoo! Kyahoo! Kyahoo! ♪
 Yahoo! Yahoo! Yahoo!
 
-261
+262
 00:24:50,793 --> 00:24:54,563
 ♪ Tarari Ratta Ritta Ratta Rattattaa ♪
 -
 
-262
+263
 00:24:54,564 --> 00:24:57,725
 ♪ Kyahoo! Kyahoo! Kyahoo! ♪
 Yahoo! Yahoo! Yahoo!
 
-263
+264
 00:24:57,749 --> 00:25:03,458
 Subtitled by
 SilverlandSubs
 tinyurl.com/SilverlandSubs
 
-264
+265
 00:25:03,482 --> 00:25:08,623
 Opening & Ending Song Lyrics Translation by
 Natalia Arlovskaya
 lyricstranslate.com/en/
 translator/natalia-arlovskaya
 
-265
+266
 00:25:08,647 --> 00:25:12,647
 EAN-13 : 8-031179-423880
 ASIN : ‎ B0DQ54LVY1

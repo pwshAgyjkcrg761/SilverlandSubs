@@ -67,7 +67,7 @@ It’s really me!
 00:01:44,101 --> 00:01:50,141
 Forty-Sixth Episode
 The Butterfly Witch
-Sapphire of the Mysterious Forest
+The Sapphire of the Mysterious Forest
 
 15
 00:01:56,779 --> 00:01:57,425
@@ -87,7 +87,7 @@ All right!
 
 19
 00:02:11,320 --> 00:02:12,018
-Oh no!
+This is terrible!
 
 20
 00:02:12,476 --> 00:02:13,980
@@ -123,7 +123,7 @@ Now, don't follow me. Goodbye.
 
 28
 00:02:42,750 --> 00:02:45,400
-<i>I went to help, but Franz stopped me...</i>
+<i>I tried to go help him, but Franz stopped me...</i>
 
 29
 00:02:46,016 --> 00:02:47,430
@@ -331,7 +331,7 @@ Stop shouting Ribbon, Ribbon so loudly, you fool!
 
 80
 00:06:38,460 --> 00:06:41,533
-But old hag! You said the Ribbon Knight set the fire!
+But Obaba! You said the Ribbon Knight set the fire!
 
 81
 00:06:41,600 --> 00:06:44,720
@@ -435,17 +435,17 @@ tanashi yume no sekai he ikun jo!
 
 105
 00:07:57,220 --> 00:08:01,600
-Omaetachi ike! Gorudo randojo e!
+Omaetachi ike! Goldland-jo e!
 -Move it, you guys! To Goldland Castle!
 
 106
 00:08:02,040 --> 00:08:05,157
-Soshite Furansu no heya ni aru homotsu
+Soshite Franz no heya ni aru homotsu
 -And fetch the Prince's treasured sword
 
 107
 00:08:05,181 --> 00:08:08,580
-no oji no ken o totte kurunja !
+no oji no ken o totte kurunja!
 - from Franz's room!
 
 108
@@ -490,7 +490,7 @@ What, it's just a cat and mouse.
 
 118
 00:09:43,670 --> 00:09:45,996
-If we take this back to the old lady,
+If we take this back to Obaba,
 
 119
 00:09:46,020 --> 00:09:48,700
@@ -502,7 +502,7 @@ Oh no! The Prince's sword...
 
 121
 00:10:20,989 --> 00:10:23,420
-<i>The Prince's sword is mine. — Ribbon Knight.</i>
+"The Prince's sword is mine. — Ribbon Knight."
 
 122
 00:10:25,220 --> 00:10:26,220
@@ -626,11 +626,11 @@ Franz, I'm sorry.
 
 152
 00:12:09,969 --> 00:12:10,969
-Here she comes.
+Here he comes.
 
 153
 00:12:11,995 --> 00:12:15,273
-We can't let her get through.
+We can't just let him pass like this!
 
 154
 00:12:28,819 --> 00:12:30,260
@@ -667,7 +667,7 @@ An arrow message!
 
 162
 00:13:38,600 --> 00:13:43,360
-<i>Duel location: Today at sunset, waiting by the forest spring. —Ribbon Knight</i>
+"Duel location: Today at sunset, waiting by the forest spring. —Ribbon Knight"
 
 163
 00:13:46,260 --> 00:13:48,280
@@ -675,15 +675,15 @@ What an impudent Ribbon Knight!
 
 164
 00:13:54,320 --> 00:13:56,040
-So many moths...
+<i>So many moths...</i>
 
 165
 00:13:56,643 --> 00:13:58,980
-Where on earth... am I?
+<i>Where on earth... am I?</i>
 
 166
 00:14:01,889 --> 00:14:03,900
-How did I end up in a place like this?
+<i>How did I end up in a place like this?</i>
 
 167
 00:14:10,599 --> 00:14:13,180
@@ -727,7 +727,7 @@ Fine, we'll just go, alright?!
 
 177
 00:15:02,029 --> 00:15:04,800
-She's sleeping soundly, completely unaware.
+He's sleeping soundly, completely unaware.
 
 178
 00:15:07,159 --> 00:15:10,320
@@ -803,7 +803,7 @@ Who goes there?
 
 196
 00:16:58,806 --> 00:17:01,848
-Furansu ojiyo, Ribon no kishi wa
+Franz oji yo, Ribbon no Kishi wa
 - Prince Franz, that cowardly Ribbon Knight
 
 197
@@ -813,7 +813,7 @@ hikyo ni mo yattekonai.
 
 198
 00:17:03,995 --> 00:17:05,802
-Wasu ga Ribon no Kishi
+Washi ga Ribbon no Kishi
 - I shall take you to
 
 199
@@ -832,17 +832,17 @@ Izumi o fukaku chi ni sakanake,
 
 202
 00:17:15,853 --> 00:17:18,747
-honoyo takaku ten o kogase,
+hono yo takaku ten o kogase,
 - Flames, burn high and scorch the heavens!
 
 203
 00:17:18,771 --> 00:17:21,833
-soshite watashi no kawai kodomotachiyo
+soshite washi no kawaii kodomotachi yo
 - And my sweet children, dance and
 
 204
 00:17:21,858 --> 00:17:25,399
-odotte konoyo no saigo o iwau noja.
+odotte kono yo no saigo o iwau noja.
 - celebrate the end of this world!
 
 205
@@ -886,20 +886,20 @@ but she casts strange spells on us every time.
 If you untie these ropes,
 
 215
-00:18:29,730 --> 00:18:31,606
-I'll beat the hag myself.
+00:18:29,729 --> 00:18:31,605
+I'll beat up that old hag for you.
 
 216
 00:18:31,630 --> 00:18:34,240
-You two run away while I do. How about it?
+You two can run away while I do. How about it?
 
 217
 00:18:38,919 --> 00:18:40,193
-I'm gonna do it!
+All right, let's do it!
 
 218
 00:18:40,669 --> 00:18:42,360
-I'm gonna do it too!
+Yeah, count me in too!
 
 219
 00:18:42,469 --> 00:18:45,040
@@ -907,7 +907,7 @@ It's Obaba!
 
 220
 00:18:46,986 --> 00:18:48,240
-It was only for a little bit...
+I was so close...
 
 221
 00:18:53,480 --> 00:18:54,480
@@ -1010,163 +1010,167 @@ Again today!
 That's right.
 
 246
-00:21:24,576 --> 00:21:28,180
-Curse those annoying brats! I have to bring the ceiling down fast, or else...
+00:21:22,796 --> 00:21:23,838
+Damn it!
 
 247
+00:21:24,222 --> 00:21:28,180
+Curse those annoying brats! I have to bring the ceiling down fast, or else...
+
+248
 00:21:31,629 --> 00:21:33,160
 Just you wait...
 
-248
+249
 00:21:33,809 --> 00:21:35,160
 Franz! Let's get out fast!
 
-249
+250
 00:21:43,903 --> 00:21:44,646
 Franz!
 
-250
+251
 00:21:45,800 --> 00:21:46,800
 Alright, I did it!
 
-251
+252
 00:22:25,214 --> 00:22:28,180
 I'm sick and tired of pretending to be the fake Ribbon Knight!
 
-252
+253
 00:22:29,099 --> 00:22:31,806
 No, it was my fault for misunderstanding the Ribbon Knight.
 
-253
+254
 00:22:33,049 --> 00:22:35,700
 Also, pardon me, but I must return this to you.
 
-254
+255
 00:22:36,849 --> 00:22:39,960
 Oh, keep it as a token of thanks for saving us.
 
-255
+256
 00:22:40,764 --> 00:22:43,025
 My, such a wonderful gift?
 
-256
+257
 00:22:43,110 --> 00:22:44,159
 We couldn't possibly.
 
-257
+258
 00:22:44,424 --> 00:22:47,980
 Don't hesitate. Another agent from X-Union might show up anytime.
 
-258
+259
 00:22:48,399 --> 00:22:50,820
 Please keep it safe for when that time comes.
 
-259
+260
 00:22:53,329 --> 00:22:54,680
 I'm the one who got it!
 
-260
+261
 00:22:54,814 --> 00:22:56,838
 No, it was me, it was me!
 
-261
+262
 00:22:56,862 --> 00:22:58,531
 I'm the one who fetched this, me!
 
-262
+263
 00:22:58,555 --> 00:23:01,700
 You two shouldn't fight—you need to get along.
 
-263
+264
 00:23:03,195 --> 00:23:03,968
 Thanks.
 
-264
+265
 00:23:03,993 --> 00:23:05,120
 Sorry about that.
 
-265
+266
 00:23:05,863 --> 00:23:08,711
 Sapphire now, let's join forces and fight together as well.
 
-266
+267
 00:23:08,735 --> 00:23:09,818
 Right, Franz.
 
-267
+268
 00:23:45,061 --> 00:23:48,681
 ♪ Tarari Ratta Ritta Ratta Rattattaa ♪
 -
 
-268
+269
 00:23:48,682 --> 00:23:52,042
 ♪ Kyahoo! Kyahoo! Kyahoo! ♪
 Yahoo! Yahoo! Yahoo!
 
-269
+270
 00:23:52,043 --> 00:23:55,813
 ♪ Tarari Ratta Ritta Ratta Rattattaa ♪
 -
 
-270
+271
 00:23:55,814 --> 00:23:58,975
 ♪ Kyahoo! Kyahoo! Kyahoo! ♪
 Yahoo! Yahoo! Yahoo!
 
-271
+272
 00:23:58,976 --> 00:24:02,789
 ♪ Sen'nen man'nen hyakuman-nen ♪
 A thousand years, ten thousand years, a million years,
 
-272
+273
 00:24:02,790 --> 00:24:06,086
 ♪ Ribbon de tsunagou ichioku-nen ♪
 Let’s connect with ribbons for a billion years!
 
-273
+274
 00:24:06,087 --> 00:24:10,092
 ♪ Akuma ga kute mo arashi ga kute mo ♪
 Even if demons come, even if storms arrive,
 
-274
+275
 00:24:10,093 --> 00:24:13,531
 ♪ tsunaida kokoro wa hanarenai ♪
 Our bonded hearts will never part.
 
-275
+276
 00:24:13,532 --> 00:24:17,152
 ♪ Tarari Ratta Ritta Ratta Rattattaa ♪
 -
 
-276
+277
 00:24:17,153 --> 00:24:20,513
 ♪ Kyahoo! Kyahoo! Kyahoo! ♪
 Yahoo! Yahoo! Yahoo!
 
-277
+278
 00:24:20,514 --> 00:24:24,284
 ♪ Tarari Ratta Ritta Ratta Rattattaa ♪
 -
 
-278
+279
 00:24:24,285 --> 00:24:27,446
 ♪ Kyahoo! Kyahoo! Kyahoo! ♪
 Yahoo! Yahoo! Yahoo!
 
-279
+280
 00:24:27,470 --> 00:24:33,179
 Subtitled by
 SilverlandSubs
 tinyurl.com/SilverlandSubs
 
-280
+281
 00:24:33,203 --> 00:24:38,344
 Opening & Ending Song Lyrics Translation by
 Natalia Arlovskaya
 lyricstranslate.com/en/
 translator/natalia-arlovskaya
 
-281
+282
 00:24:38,368 --> 00:24:42,368
 EAN-13 : 8-031179-423880
 ASIN : ‎ B0DQ54LVY1

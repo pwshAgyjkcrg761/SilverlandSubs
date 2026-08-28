@@ -66,7 +66,7 @@ It’s really me!
 14
 00:01:44,101 --> 00:01:50,141
 Forty-Ninth Episode
-Mr. X
+Lord X
 Hecate's Smile
 
 15
@@ -1063,7 +1063,7 @@ It's about time. Are you ready to attack?
 
 263
 00:19:23,969 --> 00:19:24,873
-Fire!
+Do it!
 
 264
 00:19:30,999 --> 00:19:32,993
@@ -1119,263 +1119,274 @@ Traitors, watch this!
 
 277
 00:20:14,736 --> 00:20:16,283
-Stop Mephisto!
+<i>Matte Mephisto!
+- Stop Mephisto!</i>
 
 278
 00:20:17,559 --> 00:20:19,886
-If you defeat X,
+<i>Omae ga X o yattsuketara,
+- If you defeat X,</i>
 
 279
 00:20:19,910 --> 00:20:23,799
-<i>It means you've taken the side of Hecate, who loves a human!</i>
+<i>ningen o aishita Hecate no mikata o shita koto ni naru zo
+- it means you've taken the side of Hecate, who loves a human!</i>
 
 280
 00:20:25,303 --> 00:20:29,872
-<i>If you defeat X, you must face my punishment.</i>
+<i>Omae ga X o yattsukereba, washi no batsu o ukeneba naran.
+- If you defeat X, you must face my punishment.</i>
 
 281
 00:20:30,430 --> 00:20:32,272
-<i>Are you truly prepared for that?</i>
+<i>Soredemo yoi no ka?
+- Are you truly prepared for that?</i>
 
 282
 00:20:32,836 --> 00:20:35,673
-<i>You will side with X!</i>
+<i>Omaetachi wa X no mikata o suru nda!
+- You will side with X!</i>
 
 283
-00:20:36,183 --> 00:20:37,063
-<i>No!</i>
-
-284
 00:20:40,779 --> 00:20:42,180
 Come on, hurry, Ghana!
 
-285
+284
 00:20:43,599 --> 00:20:44,960
 Thank goodness, Ghana.
 
-286
+285
 00:20:45,489 --> 00:20:47,040
 Thank you. Is Hecate okay?
 
-287
+286
 00:20:47,400 --> 00:20:48,400
 Thank goodness!
 
-288
+287
 00:21:05,639 --> 00:21:06,306
 Hecate!
 
-289
+288
 00:21:06,717 --> 00:21:07,360
 Hecate!
 
-290
+289
 00:21:07,890 --> 00:21:08,413
 Hecate!
 
-291
+290
 00:21:08,531 --> 00:21:12,500
 Don't die! Hecate! Hecate! Don't die!
 
-292
+291
 00:21:12,619 --> 00:21:14,040
 Damn it! Curse you, X!
 
-293
+292
 00:21:16,854 --> 00:21:18,326
 Impudent humans!
 
-294
+293
 00:21:18,770 --> 00:21:20,600
 You won't get away with mocking a demon!
 
-295
+294
 00:21:20,814 --> 00:21:23,046
 Behold my final magic!
 
-296
+295
 00:21:24,156 --> 00:21:26,156
 Zubarasha!
 
-297
+296
 00:21:30,579 --> 00:21:32,006
 Papa!
 
-298
+297
 00:21:59,141 --> 00:22:00,680
 Wow, well done!
 
-299
+298
 00:22:00,990 --> 00:22:02,527
 Hecate, watch your mama's magic carefully!
 
-300
+299
 00:22:02,551 --> 00:22:03,238
 Mama!
 
-301
+300
 00:22:07,280 --> 00:22:11,060
 Mizu yo! Mizu yo! Sakamake! Uzumake!
 - Water! Water! Surge! Swirl!
 
-302
+301
 00:22:11,599 --> 00:22:13,760
 Zubarasha!
 
-303
+302
 00:22:53,709 --> 00:22:58,091
 What foolish demons, sacrificing their own lives.
 
-304
+303
 00:22:58,382 --> 00:22:59,459
 We must retreat for now.
 
-305
+304
 00:23:15,589 --> 00:23:19,680
-<i>Be cursed, you fools who broke the Great Demon King's law!</i>
+Noroware! Dai-mao no okite o yabutta oroka na yatsura!
+- Be cursed, you fools who broke the Great Demon King's law!
+
+305
+00:23:20,709 --> 00:23:23,600
+Dai-mao no batsu to shite—Mephisto...!
+- As punishment from the Great Demon King—Mephisto...!
 
 306
-00:23:20,709 --> 00:23:23,600
-<i>As punishment from the Great Demon King, Mephisto...</i>
+00:23:24,439 --> 00:23:25,658
+Omae wa yama!
+- You shall become a mountain!
 
 307
-00:23:24,439 --> 00:23:25,658
-<i>You shall become a mountain!</i>
+00:23:25,682 --> 00:23:26,591
+Hell,
 
 308
-00:23:25,682 --> 00:23:26,591
-<i>Hell,</i>
+00:23:26,615 --> 00:23:28,325
+Omae wa mizumi!
+- you shall become a lake!
 
 309
-00:23:26,615 --> 00:23:28,325
-<i>you shall become a lake!</i>
+00:23:28,349 --> 00:23:31,940
+Eikyu ni moto no akuma ni modorenai yo ni shite yaru!
+- You will never return to your demonic forms!
 
 310
-00:23:28,349 --> 00:23:31,940
-<i>You will never return to your demonic forms!</i>
+00:23:32,787 --> 00:23:33,398
+Hecate yo
+- Hecate,
 
 311
-00:23:32,787 --> 00:23:33,398
-<i>Hecate,</i>
+00:23:34,302 --> 00:23:38,340
+omae ni mo nido to akuma ni modorenai batsu o kurete yaru!
+- I shall punish you too so you can never be a demon again!
 
 312
-00:23:34,302 --> 00:23:38,340
-<i>I shall punish you too so you can never be a demon again!</i>
+00:23:39,169 --> 00:23:41,665
+Omae wa toki ga tateba shinde shimau, 
+- You shall become a pitiful human
 
 313
-00:23:39,169 --> 00:23:41,665
-<i>You shall become a pitiful human</i>
+00:23:41,929 --> 00:23:44,080
+aware na ningen ni naru no da!
+- who will grow old and die!
 
 314
-00:23:41,929 --> 00:23:44,080
-<i>who will grow old and die!</i>
-
-315
 00:23:54,959 --> 00:23:56,231
 Papa!
 
-316
+315
 00:23:56,902 --> 00:23:58,653
 Mama!
 
-317
+316
 00:23:59,919 --> 00:24:06,145
 Hecate, your Papa and Mama cast that rainbow wishing for your happiness.
 
-318
+317
 00:24:06,169 --> 00:24:07,680
 They are saying...
 
-319
+318
 00:24:08,164 --> 00:24:11,520
 Go into the human world and be happy with Ghana.
 
-320
+319
 00:24:12,460 --> 00:24:13,460
 Ghana!
 
-321
+320
 00:24:13,620 --> 00:24:14,620
 Hecate!
 
-322
+321
 00:24:15,380 --> 00:24:16,686
 Come on, shall we go?
 
-323
+322
 00:24:44,981 --> 00:24:48,601
 ♪ Tarari Ratta Ritta Ratta Rattattaa ♪
 -
 
-324
+323
 00:24:48,602 --> 00:24:51,962
 ♪ Kyahoo! Kyahoo! Kyahoo! ♪
 Yahoo! Yahoo! Yahoo!
 
-325
+324
 00:24:51,963 --> 00:24:55,733
 ♪ Tarari Ratta Ritta Ratta Rattattaa ♪
 -
 
-326
+325
 00:24:55,734 --> 00:24:58,895
 ♪ Kyahoo! Kyahoo! Kyahoo! ♪
 Yahoo! Yahoo! Yahoo!
 
-327
+326
 00:24:58,896 --> 00:25:02,709
 ♪ Sen'nen man'nen hyakuman-nen ♪
 A thousand years, ten thousand years, a million years,
 
-328
+327
 00:25:02,710 --> 00:25:06,006
 ♪ Ribbon de tsunagou ichioku-nen ♪
 Let’s connect with ribbons for a billion years!
 
-329
+328
 00:25:06,007 --> 00:25:10,012
 ♪ Akuma ga kute mo arashi ga kute mo ♪
 Even if demons come, even if storms arrive,
 
-330
+329
 00:25:10,013 --> 00:25:13,451
 ♪ tsunaida kokoro wa hanarenai ♪
 Our bonded hearts will never part.
 
-331
+330
 00:25:13,452 --> 00:25:17,072
 ♪ Tarari Ratta Ritta Ratta Rattattaa ♪
 -
 
-332
+331
 00:25:17,073 --> 00:25:20,433
 ♪ Kyahoo! Kyahoo! Kyahoo! ♪
 Yahoo! Yahoo! Yahoo!
 
-333
+332
 00:25:20,434 --> 00:25:24,204
 ♪ Tarari Ratta Ritta Ratta Rattattaa ♪
 -
 
-334
+333
 00:25:24,205 --> 00:25:27,366
 ♪ Kyahoo! Kyahoo! Kyahoo! ♪
 Yahoo! Yahoo! Yahoo!
 
-335
+334
 00:25:27,390 --> 00:25:33,099
 Subtitled by
 SilverlandSubs
 tinyurl.com/SilverlandSubs
 
-336
+335
 00:25:33,123 --> 00:25:38,264
 Opening & Ending Song Lyrics Translation by
 Natalia Arlovskaya
 lyricstranslate.com/en/
 translator/natalia-arlovskaya
 
-337
+336
 00:25:38,288 --> 00:25:42,288
 EAN-13 : 8-031179-423880
 ASIN : ‎ B0DQ54LVY1

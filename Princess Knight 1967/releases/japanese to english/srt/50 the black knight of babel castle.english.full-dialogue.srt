@@ -67,7 +67,7 @@ It’s really me!
 00:01:44,101 --> 00:01:50,141
 Fiftieth Episode
 The Fortune Teller
-Black Knight of Babel Castle
+The Black Knight of Babel Castle
 
 15
 00:02:08,189 --> 00:02:09,000
@@ -403,7 +403,7 @@ Help me!
 
 98
 00:10:39,645 --> 00:10:41,960
-I hear something! That's my daughter's voice!
+I hear something! I think, it's the sound of hoofbeats!
 
 99
 00:10:42,400 --> 00:10:44,206
@@ -507,7 +507,7 @@ Your Majesty, I brought a fortune teller hoping he might be of some help.
 
 124
 00:13:24,889 --> 00:13:27,817
-Now then, Princess Sapphire's fate...
+Now then, Lord Sapphire's fate...
 
 125
 00:13:27,841 --> 00:13:30,940
