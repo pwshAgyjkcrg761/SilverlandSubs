@@ -783,7 +783,7 @@ Thanks to that runt, I've got the castle layout figured out.
 
 192
 00:13:16,625 --> 00:13:19,940
-Alright, the prince's room is over there.
+All right, the prince's room is over there.
 
 193
 00:13:28,410 --> 00:13:30,126
@@ -867,7 +867,7 @@ You're not getting away! Wait!
 
 213
 00:14:19,960 --> 00:14:21,920
-Alright, I won't let you escape!
+All right, I won't let you escape!
 
 214
 00:14:25,569 --> 00:14:27,440

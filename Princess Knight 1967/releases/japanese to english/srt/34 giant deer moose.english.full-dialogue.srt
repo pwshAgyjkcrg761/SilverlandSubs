@@ -500,7 +500,7 @@ Damn it! I'm really off my game today!
 
 122
 00:11:35,900 --> 00:11:40,180
-Lord Sapphire, are you alright? It's dawn already. Let's stop here.
+Lord Sapphire, are you all right? It's dawn already. Let's stop here.
 
 123
 00:11:40,825 --> 00:11:42,233
@@ -676,7 +676,7 @@ Sapphire! Look out!
 
 166
 00:19:01,220 --> 00:19:02,120
-Alright!
+All right!
 
 167
 00:19:02,124 --> 00:19:03,993

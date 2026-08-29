@@ -71,7 +71,7 @@ Sapphire Caught in a Trap
 
 15
 00:02:08,360 --> 00:02:09,389
-Alright!
+All right!
 
 16
 00:02:10,890 --> 00:02:14,032
@@ -363,7 +363,7 @@ What are these guys?
 
 88
 00:09:24,575 --> 00:09:27,799
-Quick, hide behind me! Are you alright?
+Quick, hide behind me! Are you all right?
 
 89
 00:09:29,130 --> 00:09:32,054
@@ -843,7 +843,7 @@ This is the end!
 
 208
 00:22:04,979 --> 00:22:06,280
-Tink, are you alright?
+Tink, are you all right?
 
 209
 00:22:07,159 --> 00:22:07,686

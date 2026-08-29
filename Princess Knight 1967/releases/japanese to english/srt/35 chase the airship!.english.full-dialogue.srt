@@ -288,7 +288,7 @@ but it passes through the northern forest every day around this time.
 
 69
 00:06:27,730 --> 00:06:29,520
-The northern forest? <i>Alright!</i>
+The northern forest? <i>All right!</i>
 
 70
 00:06:37,340 --> 00:06:38,860
@@ -308,7 +308,7 @@ It's coming from over there!
 
 74
 00:06:52,610 --> 00:06:53,640
-Alright, bring it on!
+All right, bring it on!
 
 75
 00:07:09,356 --> 00:07:10,376
@@ -816,7 +816,7 @@ That's high! Dropping from this high up, you've got to be kidding me!
 
 201
 00:17:39,306 --> 00:17:41,453
-Alright, this is where you get off.
+All right, this is where you get off.
 
 202
 00:17:41,784 --> 00:17:44,340

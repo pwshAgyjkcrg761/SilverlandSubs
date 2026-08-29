@@ -523,7 +523,7 @@ Let's set a trap instead and wipe out those rats!
 
 128
 00:13:18,545 --> 00:13:19,431
-Alright, let's do it!
+All right, let's do it!
 
 129
 00:13:47,460 --> 00:13:50,080
@@ -635,7 +635,7 @@ Hey, wait!
 
 156
 00:18:02,519 --> 00:18:04,340
-Are you alright, Ribbon Knight?
+Are you all right, Ribbon Knight?
 
 157
 00:18:05,313 --> 00:18:06,000

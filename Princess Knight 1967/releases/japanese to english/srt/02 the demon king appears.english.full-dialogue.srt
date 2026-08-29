@@ -99,7 +99,7 @@ We don't have a single yen left.
 
 22
 00:02:43,185 --> 00:02:45,720
-Alright, so you refuse to pay your taxes no matter what, huh?
+All right, so you refuse to pay your taxes no matter what, huh?
 
 23
 00:02:45,745 --> 00:02:47,540
@@ -195,7 +195,7 @@ I've had enough of you!
 
 46
 00:03:38,190 --> 00:03:39,190
-Alright, I'll take you on!
+All right, I'll take you on!
 
 47
 00:03:39,285 --> 00:03:40,400
@@ -1316,7 +1316,7 @@ This is the only way through!
 
 323
 00:19:53,539 --> 00:19:54,680
-Alright!
+All right!
 
 324
 00:19:55,200 --> 00:19:56,200
@@ -1412,7 +1412,7 @@ Where on earth are we?
 
 347
 00:21:37,299 --> 00:21:38,680
-Alright, I'll teach you a lesson!
+All right, I'll teach you a lesson!
 
 348
 00:21:38,681 --> 00:21:39,681
@@ -1453,7 +1453,7 @@ It's a monster!
 
 357
 00:22:19,559 --> 00:22:21,260
-Alright, reinforcements!
+All right, reinforcements!
 
 358
 00:22:33,084 --> 00:22:35,080

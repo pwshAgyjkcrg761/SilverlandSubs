@@ -647,7 +647,7 @@ Ah, King Chanel!
 
 159
 00:12:51,250 --> 00:12:54,140
-Alright, go! I'll search Franz's room myself!
+All right, go! I'll search Franz's room myself!
 
 160
 00:12:54,320 --> 00:12:55,320
@@ -1035,7 +1035,7 @@ He's not here!
 
 256
 00:20:08,694 --> 00:20:09,913
-Alright, search along the way!
+All right, search along the way!
 
 257
 00:20:12,799 --> 00:20:15,600
@@ -1152,7 +1152,7 @@ He's not moving at all!
 
 285
 00:22:55,480 --> 00:22:56,013
-Alright!
+All right!
 
 286
 00:23:00,529 --> 00:23:03,540

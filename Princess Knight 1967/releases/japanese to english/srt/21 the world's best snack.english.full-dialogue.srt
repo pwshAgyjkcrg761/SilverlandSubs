@@ -719,7 +719,7 @@ Yes!
 
 177
 00:11:19,375 --> 00:11:23,280
-Alright. Now to add the medicine they ordered...
+All right. Now to add the medicine they ordered...
 
 178
 00:11:30,779 --> 00:11:32,520
@@ -983,7 +983,7 @@ Speak!
 
 243
 00:14:12,587 --> 00:14:13,553
-Alright, so you won't talk.
+All right, so you won't talk.
 
 244
 00:14:13,691 --> 00:14:14,691
@@ -1099,7 +1099,7 @@ Good grief!
 
 272
 00:15:32,580 --> 00:15:33,933
-Looks cool, doesn't it?
+Pretty cool, right?
 
 273
 00:15:38,139 --> 00:15:39,139

@@ -199,7 +199,7 @@ Without a lookout? Take a look behind you.
 
 47
 00:06:04,720 --> 00:06:05,880
-Are you alright?
+Are you all right?
 
 48
 00:06:08,820 --> 00:06:11,440
@@ -355,7 +355,7 @@ Yeah!
 
 86
 00:07:52,640 --> 00:07:55,520
-Alright, rookie, get to work! First up, laundry!
+All right, rookie, get to work! First up, laundry!
 
 87
 00:07:57,600 --> 00:07:59,546
@@ -595,7 +595,7 @@ We checked everywhere, but he wasn't there.
 
 146
 00:12:46,160 --> 00:12:47,980
-Good work. Alright, pull back.
+Good work. All right, pull back.
 
 147
 00:13:02,979 --> 00:13:03,932
@@ -783,7 +783,7 @@ Got it, everyone?
 
 193
 00:17:59,159 --> 00:18:01,740
-Whoa, watch out! Hold onto me, alright?
+Whoa, watch out! Hold onto me, all right?
 
 194
 00:18:09,239 --> 00:18:10,080
@@ -875,7 +875,7 @@ Sapphire!
 
 216
 00:21:19,613 --> 00:21:20,765
-Are you alright?
+Are you all right?
 
 217
 00:21:20,989 --> 00:21:25,300
@@ -951,7 +951,7 @@ Quite a swordsman, isn't she?
 
 235
 00:22:41,514 --> 00:22:43,160
-Are you alright, Captain?
+Are you all right, Captain?
 
 236
 00:22:43,364 --> 00:22:44,460

@@ -644,11 +644,25 @@ COMPLETED: In Japanese sentence it is Father and Mother instead of Mother and Fa
 Noticed this in episode 28 need to check previous episodes for this.
 
 In the episodes with Hecate see if grand witch, fine witch, great witch are the same Japanese word and pick one translation.
+They are using different words so dont do this.
 02, 07, 15, 20, 27, 36, 37, 49
 
+XCheck for 
+North, South, East, West.
+As in Northern Forest. should it be capitalized probably not because it isnt a proper name.
 
+
+kakkoii means cool
 
 Change alright Alright to all right All right
+
+Episodes to recheck
+X02 maybe add those 2 lines of singing that i left out.
+X06 tink says uncool when sailing - keep this
+X22-25 plastic says something about ribbon knight being cool - keep this, uses kakkoii
+X29 Last episode of Coolland arc at the end check for Banzai
+X40 sapphire sings when getting dressed to see Franz
+X48 mysterious forest witch some of the romaji should be written as the proper names
 
 
 
@@ -1281,153 +1295,153 @@ X00:21:57,309 "
 
 Episode 39
 
-Add special subs for voice of God.
+XAdd special subs for voice of God.
 
 Should be Miss not Ms. in this series.
 
-00:04:20,805 Miss Eros
-00:18:25,560 That's strange! (hen da)
+X00:04:20,805 Miss Eros
+X00:18:25,560 That's strange! (hen da)
 
-Episode 40 - stopped here
+Episode 40
 
-00:06:17,810 check translation. we should probably be I here.
-00:07:41,925 Okay instead of got it. check translation too.
-00:11:10,035 italics
-00:11:12,975 "
-00:11:16,248 "
-00:11:20,032 "
-00:11:22,967 "
-00:11:26,280 "
-00:11:28,619 "
-00:11:30,787 "
-00:11:36,077 "
-00:11:39,100 "
-00:11:43,780 "
-00:19:43,859 check translation
-ADD 00:22:48 Stop or Wait!
+X00:06:17,810 check translation. we should probably be I here.
+X00:07:41,925 Okay instead of got it. check translation too.
+X00:11:10,035 italics
+X00:11:12,975 "
+X00:11:16,248 "
+X00:11:20,032 "
+X00:11:22,967 "
+X00:11:26,280 "
+X00:11:28,619 "
+X00:11:30,787 "
+X00:11:36,077 "
+X00:11:39,100 "
+X00:11:43,780 "
+X00:19:43,859 check translation
+XADD 00:22:48 Stop or Wait!
 
 Episode 41
 
-00:07:03,930 check translation and show the repetition in the translation.
-ADD 12:48 Papa
+X00:07:03,930 check translation and show the repetition in the translation.
+XADD 12:48 Papa
 
 Episode 42
 
-00:03:04,724 should be Long live Silverland! (silverland banzai)
-00:05:26,615 surfing? check the translation
+X00:03:04,724 should be Long live Silverland! (silverland banzai)
+X00:05:26,615 surfing? check the translation
 
 Episode 43
 
-00:02:21,874 I'm scared!
-00:08:50,729 Tink!
-00:17:22,405 italics
-00:17:24,749 "
-00:19:58,954 check translation
+X00:02:21,874 I'm scared!
+X00:08:50,729 Tink!
+X00:17:22,405 italics
+X00:17:24,749 "
+X00:19:58,954 check translation
 
 Episode 44
 
-00:03:31,211 italics
+X00:03:31,211 italics
 
 Episode 45
 
-00:02:25,055 It's a ghost ship!
-00:11:01,759 check translation.
-00:16:06,346 italics
-00:16:12,695 "
-00:16:16,995 "
-00:16:50,120 "
-ADD 00:19:34,500 check this line. if cant figure it out leave a blank line here.
-00:20:01,981 wrong translation. should be: Sapphire! After Him! (Ounda)
-00:22:19,569 italics
-00:22:22,647 "
+X00:02:25,055 It's a ghost ship!
+X00:11:01,759 check translation.
+X00:16:06,346 italics
+X00:16:12,695 "
+X00:16:16,995 "
+X00:16:50,120 "
+XADD 00:19:34,500 check this line. if cant figure it out leave a blank line here.
+X00:20:01,981 wrong translation. should be: Sapphire! After Him! (Ounda)
+X00:22:19,569 italics
+X00:22:22,647 "
 
 Episode 46
 
-00:02:11,320 This is terrible!
-00:02:42,750 check translation. maybe use offered to help instead.
-00:06:38,460 Obaba instead of old hag
-00:09:43,670 Obaba not old hag.
-00:10:20,989 remove italics add quotation marks.
-00:12:09,969 He
-00:12:11,995 He
-00:13:38,600 quotation marks
-00:13:54,320 italics
-00:13:56,643 "
-00:14:01,889 "
-00:15:02,029 He
-00:18:11,644 she is saying obasan (old lady. (polite)) translate to elderly woman. 
-00:18:22,336 "
-00:18:29,730 "
-00:19:35,269 "
-ADD 00:21:22,576 Damn it!
+X00:02:11,320 This is terrible!
+X00:02:42,750 check translation. maybe use offered to help instead.
+X00:06:38,460 Obaba instead of old hag
+X00:09:43,670 Obaba not old hag.
+X00:10:20,989 remove italics add quotation marks.
+X00:12:09,969 He
+X00:12:11,995 He
+X00:13:38,600 quotation marks
+X00:13:54,320 italics
+X00:13:56,643 "
+X00:14:01,889 "
+X00:15:02,029 He
+X00:18:11,644 she is saying obasan (old lady. (polite)) translate to elderly woman.  NOPE they are saying ba-san (hag)
+X00:18:22,336 "
+X00:18:29,730 "
+X00:19:35,269 "
+XADD 00:21:22,576 Damn it!
 
 Episode 47
 
-00:03:59,750 northern fort
-00:04:08,930 "
-00:04:37,760 remove italics add quotation marks
-00:04:40,180 "
-00:04:43,669 "
-00:04:46,016 "
-00:04:48,500 "
-00:04:52,302 "
-00:04:57,716 italics
-ADD 00:12:43 Prince Franz!
-00:16:19,755 check translation. Old Geezer.
+X00:03:59,750 northern fort
+X00:04:08,930 "
+X00:04:37,760 remove italics add quotation marks
+X00:04:40,180 "
+X00:04:43,669 "
+X00:04:46,016 "
+X00:04:48,500 "
+X00:04:52,302 "
+X00:04:57,716 italics
+XADD 00:12:43 Prince Franz!
+X00:16:19,755 check translation. Old Geezer.
 
 Episode 48
 
-00:04:15,624 Dr. Uranari
-00:04:56,215 remove italics
+X00:04:15,624 Dr. Uranari
+X00:04:56,215 remove italics. keep italics because this is the way it would be said in english.
 
 Episode 49
 
-Great Demon King voice maybe use a special font and color in the ASS file.
-00:20:14,736
-00:20:17,559
-00:20:19,910
-00:20:25,303
-00:20:30,430
-00:20:32,836
-00:20:36,183
-00:23:15,589
-00:23:20,709
-00:23:24,439
-00:23:25,682
-00:23:26,615
-00:23:28,349
-00:23:32,787
-00:23:34,302
-00:23:39,169
-00:23:41,929
+XGreat Demon King voice maybe use a special font and color in the ASS file.
+X00:20:14,736
+X00:20:17,559
+X00:20:19,910
+X00:20:25,303
+X00:20:30,430
+X00:20:32,836
+X00:20:36,183
+X00:23:15,589
+X00:23:20,709
+X00:23:24,439
+X00:23:25,682
+X00:23:26,615
+X00:23:28,349
+X00:23:32,787
+X00:23:34,302
+X00:23:39,169
+X00:23:41,929
 
 
-00:08:21,913 Miss (musume)
-00:08:37,775 Miss
-00:19:23,969 Do it! (sore)
-00:20:32,836 check translation here
+X00:08:21,913 Miss (musume). nope lowercase here
+X00:08:37,775 Miss. and here
+X00:19:23,969 Do it! (sore)
+X00:20:32,836 check translation here
 
 Episode 50
 
-00:10:39,645 check translation
-00:13:24,889 check translation but should probably be Lord Sapphire.
+X00:10:39,645 check translation
+X00:13:24,889 check translation but should probably be Lord Sapphire.
 
 Episode 51
 
 
-00:05:43,000 king
-00:06:44,646 italics
-00:06:46,812 "
-00:06:49,339 "
-00:06:51,412 "
-00:06:54,230 "
-00:06:55,439 "
-00:06:57,450 "
-00:06:59,939 "
-00:09:21,289 check translation.
-00:21:02,359 check translation. King or noble? maybe it should be King or Queen
-00:22:01,440 Damn it!
-00:22:56,969 italics
+X00:05:43,000 king
+X00:06:44,646 italics
+X00:06:46,812 "
+X00:06:49,339 "
+X00:06:51,412 "
+X00:06:54,230 "
+X00:06:55,439 "
+X00:06:57,450 "
+X00:06:59,939 "
+X00:09:21,289 check translation. translation is correct.
+X00:21:02,359 check translation. King or noble? maybe it should be King or Queen. Nope. Nylon is both the King and the Noble at this point.
+X00:22:01,440 Damn it!
+X00:22:56,969 italics
 
 Episode 52
 
@@ -1445,15 +1459,71 @@ Voice of God - maybe use a different font and color here
 00:20:29,659
 
 
-00:04:59,490 italics
-00:05:03,045 "
-00:08:34,269 negai means wish but will translate this as prayer here.
-00:08:55,573 "
-00:09:00,380 If i use wish for the previous lines then i need to check the translation of this line because it uses wish too. Might use want here.
-00:09:02,308 "
-00:09:09,585 negai means wish but will translate this as prayer here.
-00:09:37,279 nezumi mouse, check for honorific. little mouse should be nezumi
-00:20:25,839 italics
-00:20:29,659 "
-00:20:23,272 wish? check translation
+X00:04:59,490 italics
+X00:05:03,045 "
+X00:08:34,269 negai means wish but will translate this as prayer here.
+X00:08:55,573 "
+X00:09:00,380 If i use wish for the previous lines then i need to check the translation of this line because it uses wish too. Might use want here.
+X00:09:02,308 "
+X00:09:09,585 negai means wish but will translate this as prayer here.
+X00:09:37,279 nezumi mouse, check for honorific. little mouse should be nezumi. its Nezumiko or Miss Mouse.
+X00:20:25,839 italics
+X00:20:29,659 "
+X00:20:23,272 wish? check translation
 
+-----------------------------------------
+
+Episode Titles Translated From Japanese
+
+01 the prince and the angel
+02 the demon king appears
+03 the martial arts tournament
+04 dance, franz
+05 valley of monsters
+06 the pixie and the giant
+07 the cursed swan
+08 the phantom horse
+09 the broken idols
+10 sapphire's carnival
+11 the sleeping spirit
+12 the ragged prince
+13 mansion of roses
+14 the seven little goats
+15 the golden fox hunt
+16 tink and colette
+17 goodbye, madame ghost
+18 the mysterious mirror
+19 the magic pen
+20 kagera the monster
+21 the world's best snack
+22 the coronation ceremony 1
+23 the ribbon knight appears 2
+24 stormy coffin tower 3
+25 banzai for the king!! 4
+26 the snow queen 1
+27 hurry! black cloud island 2
+28 the iron lion 3
+29 the last of the snow queen 4
+30 the flying phantom thief
+31 tink and the princess of the sea
+32 sapphire's treasure
+33 the phantom of the pyramid
+34 giant deer moose
+35 chase the airship!
+36 the great witch returns 1
+37 save sapphire! 2
+38 the knight's commandments
+39 the jealousy of venus
+40 the terrifying x-union
+41 cheeky teppi
+42 the great rat removal strategy
+43 sapphire caught in a trap
+44 the screaming white eagle
+45 tink and the ghost ship
+46 the sapphire in the mysterious forest
+47 wandering franz
+48 the sapphire that disappeared into the sea
+49 hecate's smile
+50 the black knight of babel castle
+51 the burning of silverland 1
+52 may silverland be happy 2

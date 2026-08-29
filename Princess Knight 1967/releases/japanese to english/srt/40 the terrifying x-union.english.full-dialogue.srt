@@ -223,7 +223,7 @@ Franz!
 
 53
 00:04:54,680 --> 00:04:55,680
-Are you alright?
+Are you all right?
 
 54
 00:04:55,798 --> 00:04:56,264
@@ -319,7 +319,7 @@ Where are they going?
 
 77
 00:07:02,875 --> 00:07:04,300
-Alright, let me follow them.
+All right, let me follow them.
 
 78
 00:07:05,576 --> 00:07:07,287

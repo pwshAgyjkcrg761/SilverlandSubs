@@ -14,8 +14,8 @@ Last Style Storage: Default
 Video AR Mode: 4
 Video AR Value: 1.314554
 Video Zoom Percent: 0.500000
-Scroll Position: 18
-Active Line: 24
+Scroll Position: 33
+Active Line: 43
 Video Position: 1025
 
 [V4+ Styles]
@@ -68,9 +68,9 @@ Dialogue: 0,0:02:09.71,0:02:12.82,Karaoke - 06 the pixie and the giants - Tink's
 Dialogue: 0,0:02:09.71,0:02:12.82,OPED_Translation,,0,0,0,,Will you grant it?
 Dialogue: 0,0:02:12.86,0:02:19.34,Karaoke - 06 the pixie and the giants - Tink's Sailing Song,,0,0,0,,{\k45}{\k20}Ma{\k46}ho{\k24}u {\k36}no {\k15}o{\k34}u{\k98}ji {\k75}ga{\k37} {\k33}i{\k19}ku {\k24}so{\k66}u {\k76}na
 Dialogue: 0,0:02:12.86,0:02:19.34,OPED_Translation,,0,0,0,,They say the magical prince sets sail!
-Dialogue: 0,0:02:21.28,0:02:22.33,Default,,0,0,0,,Don't laugh.
-Dialogue: 0,0:02:22.79,0:02:25.30,Default,,0,0,0,,Even if it's ugly, I'm the one who made it!
-Dialogue: 0,0:02:25.64,0:02:27.40,Default,,0,0,0,,It's wonderful! Really, it is!
+Dialogue: 0,0:02:21.28,0:02:22.49,Default,,0,0,0,,Don't laugh.
+Dialogue: 0,0:02:22.79,0:02:25.45,Default,,0,0,0,,Even if it's uncool, I'm the one who made it!
+Dialogue: 0,0:02:25.64,0:02:27.40,Default,,0,0,0,,It is cool! Very cool!
 Dialogue: 0,0:02:31.82,0:02:33.79,Default,,0,0,0,,Yep, off I go!
 Dialogue: 0,0:02:36.04,0:02:37.04,Default,,0,0,0,,I did it!
 Dialogue: 0,0:02:41.96,0:02:42.42,Default,,0,0,0,,Huh?
@@ -119,13 +119,13 @@ Dialogue: 0,0:04:53.85,0:04:54.85,Default,,0,0,0,,Sapphire!
 Dialogue: 0,0:04:55.49,0:04:56.70,Default,,0,0,0,,Sapphire!
 Dialogue: 0,0:04:58.04,0:04:59.04,Default,,0,0,0,,Bully!
 Dialogue: 0,0:05:00.79,0:05:02.86,Default,,0,0,0,,A genie of the lamp who grants any wish, eh?
-Dialogue: 0,0:05:02.99,0:05:07.98,Default,,0,0,0,,Alright, if I can just get my hands on that runt...
+Dialogue: 0,0:05:02.99,0:05:07.98,Default,,0,0,0,,All right, if I can just get my hands on that runt...
 Dialogue: 0,0:05:09.22,0:05:10.22,Default,,0,0,0,,Well, if it isn't Lord Nylon!
 Dialogue: 0,0:05:11.17,0:05:12.78,Default,,0,0,0,,It certainly is a nice day...
 Dialogue: 0,0:05:13.40,0:05:14.40,Default,,0,0,0,,What?
 Dialogue: 0,0:05:14.94,0:05:15.94,Default,,0,0,0,,Why are you here?
 Dialogue: 0,0:05:16.82,0:05:18.61,Default,,0,0,0,,Actually, I've come to escort Your Highness back to the castle...
-Dialogue: 0,0:05:18.64,0:05:20.85,Default,,0,0,0,,Alright, in that case, go straight to the castle!
+Dialogue: 0,0:05:18.64,0:05:20.85,Default,,0,0,0,,All right, in that case, go straight to the castle!
 Dialogue: 0,0:05:21.02,0:05:22.21,Default,,0,0,0,,Go straight there!
 Dialogue: 0,0:05:23.34,0:05:24.40,Default,,0,0,0,,Wait!
 Dialogue: 0,0:05:24.40,0:05:25.40,Default,,0,0,0,,Nylon!
@@ -307,20 +307,20 @@ Dialogue: 0,0:17:05.54,0:17:06.60,Default,,0,0,0,,It’s me!
 Dialogue: 0,0:17:06.82,0:17:07.72,Default,,0,0,0,,Tink!
 Dialogue: 0,0:17:07.72,0:17:08.72,Default,,0,0,0,,Tink!
 Dialogue: 0,0:17:09.92,0:17:10.94,Default,,0,0,0,,Sapphire!
-Dialogue: 0,0:17:16.26,0:17:17.26,Default,,0,0,0,,Alright!
+Dialogue: 0,0:17:16.26,0:17:17.26,Default,,0,0,0,,All right!
 Dialogue: 0,0:17:18.29,0:17:19.29,Default,,0,0,0,,Now!
 Dialogue: 0,0:17:21.36,0:17:24.98,Default,,0,0,0,,That’s a giant monster; we can’t defeat him by normal means!
 Dialogue: 0,0:17:45.26,0:17:45.80,Default,,0,0,0,,Oh no!
 Dialogue: 0,0:17:46.24,0:17:47.24,Default,,0,0,0,,It’s a dead end!
 Dialogue: 0,0:18:02.60,0:18:03.60,Default,,0,0,0,,Sapphire!
 Dialogue: 0,0:18:03.73,0:18:05.38,Default,,0,0,0,,You’ll be killed if you stay there!
-Dialogue: 0,0:18:14.69,0:18:16.00,Default,,0,0,0,,Alright!
+Dialogue: 0,0:18:14.69,0:18:16.00,Default,,0,0,0,,All right!
 Dialogue: 0,0:18:16.30,0:18:20.51,Default,,0,0,0,,Those kaeru-kun... Kaeru-kun!
 Dialogue: 0,0:18:22.55,0:18:26.42,Default,,0,0,0,,You guys, where did you get that paralysis medicine?
 Dialogue: 0,0:18:27.18,0:18:29.47,Default,,0,0,0,,From the root of the paralysis plant, ribbit!
 Dialogue: 0,0:18:29.97,0:18:31.00,Default,,0,0,0,,Is there any left?
 Dialogue: 0,0:18:32.22,0:18:34.61,Default,,0,0,0,,Ribbit ribbit, ribbit!
-Dialogue: 0,0:18:35.02,0:18:36.02,Default,,0,0,0,,Alright!
+Dialogue: 0,0:18:35.02,0:18:36.02,Default,,0,0,0,,All right!
 Dialogue: 0,0:18:36.09,0:18:40.36,Default,,0,0,0,,Put all of it in your mouths, and spit it at that giant all at once!
 Dialogue: 0,0:18:40.58,0:18:41.18,Default,,0,0,0,,Where to, ribbit?
 Dialogue: 0,0:18:41.46,0:18:43.28,Default,,0,0,0,,At his feet! The giant's feet!
@@ -345,7 +345,7 @@ Dialogue: 0,0:20:18.04,0:20:19.04,Default,,0,0,0,,Frogs?
 Dialogue: 0,0:20:19.10,0:20:20.10,Default,,0,0,0,,Frogs dealt with a giant man?
 Dialogue: 0,0:20:30.85,0:20:33.05,Default,,0,0,0,,Tink, lure the giant man over here!
 Dialogue: 0,0:20:35.05,0:20:37.35,Default,,0,0,0,,Chomp!
-Dialogue: 0,0:20:39.62,0:20:42.58,Default,,0,0,0,,Alright, he's climbed up!
+Dialogue: 0,0:20:39.62,0:20:42.58,Default,,0,0,0,,All right, he's climbed up!
 Dialogue: 0,0:20:44.18,0:20:44.72,Default,,0,0,0,,Take him down!
 Dialogue: 0,0:20:45.18,0:20:46.18,Default,,0,0,0,,Got it!
 Dialogue: 0,0:20:53.40,0:20:54.76,Default,,0,0,0,,Sapphire!
@@ -390,7 +390,7 @@ Dialogue: 0,0:22:33.05,0:22:34.18,Default,,0,0,0,,I'm sorry, Papa!
 Dialogue: 0,0:22:34.30,0:22:35.50,Default,,0,0,0,,I'm not leaving anymore!
 Dialogue: 0,0:22:35.92,0:22:37.78,Default,,0,0,0,,I'm sorry for making you worry!
 Dialogue: 0,0:22:45.34,0:22:48.36,Default,,0,0,0,,As a thank you, let me grant your wish!
-Dialogue: 0,0:22:48.82,0:22:49.82,Default,,0,0,0,,It's alright now!
+Dialogue: 0,0:22:48.82,0:22:49.82,Default,,0,0,0,,It's all right now!
 Dialogue: 0,0:22:50.18,0:22:52.58,Default,,0,0,0,,Because I misunderstood too!
 Dialogue: 0,0:22:52.66,0:22:54.06,Default,,0,0,0,,We’re even!
 Dialogue: 0,0:22:54.47,0:22:56.10,Default,,0,0,0,,I want to repay your kindness!

@@ -110,16 +110,16 @@ Will you grant it?
 They say the magical prince sets sail!
 
 23
-00:02:21,279 --> 00:02:22,334
+00:02:21,279 --> 00:02:22,494
 Don't laugh.
 
 24
-00:02:22,790 --> 00:02:25,300
-Even if it's ugly, I'm the one who made it!
+00:02:22,789 --> 00:02:25,446
+Even if it's uncool, I'm the one who made it!
 
 25
 00:02:25,639 --> 00:02:27,397
-It's wonderful! Really, it is!
+It is cool! Very cool!
 
 26
 00:02:31,820 --> 00:02:33,792
@@ -315,7 +315,7 @@ A genie of the lamp who grants any wish, eh?
 
 74
 00:05:02,985 --> 00:05:07,980
-Alright, if I can just get my hands on that runt...
+All right, if I can just get my hands on that runt...
 
 75
 00:05:09,220 --> 00:05:10,220
@@ -339,7 +339,7 @@ Actually, I've come to escort Your Highness back to the castle...
 
 80
 00:05:18,637 --> 00:05:20,846
-Alright, in that case, go straight to the castle!
+All right, in that case, go straight to the castle!
 
 81
 00:05:21,015 --> 00:05:22,213
@@ -1068,7 +1068,7 @@ Sapphire!
 
 262
 00:17:16,260 --> 00:17:17,260
-Alright!
+All right!
 
 263
 00:17:18,292 --> 00:17:19,292
@@ -1096,7 +1096,7 @@ You’ll be killed if you stay there!
 
 269
 00:18:14,689 --> 00:18:16,000
-Alright!
+All right!
 
 270
 00:18:16,304 --> 00:18:20,514
@@ -1120,7 +1120,7 @@ Ribbit ribbit, ribbit!
 
 275
 00:18:35,020 --> 00:18:36,020
-Alright!
+All right!
 
 276
 00:18:36,094 --> 00:18:40,360
@@ -1220,7 +1220,7 @@ Chomp!
 
 300
 00:20:39,620 --> 00:20:42,580
-Alright, he's climbed up!
+All right, he's climbed up!
 
 301
 00:20:44,180 --> 00:20:44,720
@@ -1400,7 +1400,7 @@ As a thank you, let me grant your wish!
 
 345
 00:22:48,815 --> 00:22:49,815
-It's alright now!
+It's all right now!
 
 346
 00:22:50,179 --> 00:22:52,580
