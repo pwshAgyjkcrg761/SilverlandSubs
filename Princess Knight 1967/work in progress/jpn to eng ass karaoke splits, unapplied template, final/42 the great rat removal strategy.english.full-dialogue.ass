@@ -12,8 +12,8 @@ PlayResY: 576
 [Aegisub Project Garbage]
 Video AR Mode: 4
 Video AR Value: 1.314554
-Scroll Position: 42
-Active Line: 50
+Scroll Position: 30
+Active Line: 35
 Video Position: 950
 
 [V4+ Styles]
@@ -59,7 +59,7 @@ Dialogue: 0,0:02:44.66,0:02:46.15,Default,,0,0,0,,Please wait for me then.
 Dialogue: 0,0:02:53.40,0:02:54.45,Default,,0,0,0,,You're terrible, Sapphire!
 Dialogue: 0,0:02:54.47,0:02:55.50,Default,,0,0,0,,Sorry to keep you waiting.
 Dialogue: 0,0:02:56.70,0:02:57.81,Default,,0,0,0,,Let's hurry.
-Dialogue: 0,0:03:04.72,0:03:07.26,Default,,0,0,0,,Long live Silverland!
+Dialogue: 0,0:03:04.72,0:03:07.26,Default,,0,0,0,,Silverland banzai!
 Dialogue: 0,0:03:17.96,0:03:20.16,Default,,0,0,0,,A bumper crop! A bumper crop!
 Dialogue: 0,0:03:20.30,0:03:22.95,Default,,0,0,0,,Come on, drink up! Drink up!
 Dialogue: 0,0:03:23.28,0:03:25.36,Default,,0,0,0,,Why, look at that! We've got a bumper crop of rats this year, too!

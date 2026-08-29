@@ -10,22 +10,28 @@ PlayResX: 720
 PlayResY: 576
 
 [Aegisub Project Garbage]
+Last Style Storage: Default
+Audio File: ../../ita-new-encode/40 the terrifying x-union.mkv
+Video File: ../../ita-new-encode/40 the terrifying x-union.mkv
 Video AR Mode: 4
-Video AR Value: 1.314554
-Scroll Position: 234
-Active Line: 244
-Video Position: 950
+Video AR Value: 1.333333
+Video Zoom Percent: 0.500000
+Scroll Position: 36
+Active Line: 41
+Video Position: 10019
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Verdana,39.7,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,19,19,20,1
 Style: Karaoke,Verdana,39.7,&H00FF00FF,&H00FF0000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,19,19,20,1
 Style: OPED_Translation,Verdana,39.7,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,19,19,20,1
+Style: Karaoke - 40 the terrifying x-union - sapphire singing,Verdana,39.7,&H00FF00FF,&H00FF0000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,19,19,20,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:38.00,0:00:41.00,OPED_Translation,,0,0,0,template line,{\fad(300,300)\blur1}
 Comment: 0,0:00:41.00,0:00:44.00,Karaoke,,0,0,0,template syl,{\pos($x,$y)\1c!line.styleref.color2!\t($start,$mid,\fscx150\fscy150\1c&H00D7FF&)\t($mid,$end,\fscx100\fscy100\1c!line.styleref.color1!)}
+Comment: 0,0:00:41.00,0:00:44.00,Karaoke - 40 the terrifying x-union - sapphire singing,,0,0,0,template syl,{\pos($x,$y)\1c!line.styleref.color2!\t($start,$mid,\fscx150\fscy150\1c&H00D7FF&)\t($mid,$end,\fscx100\fscy100\1c!line.styleref.color1!)}
 Dialogue: 0,0:00:01.18,0:00:09.22,Default,,0,0,0,,The Princess Sapphire\NKnight of the Ribbon
 Dialogue: 0,0:00:44.00,0:00:50.16,Karaoke,,0,0,0,,{\k72}{\k14}A{\k32}ta{\k40}shi {\k48}no {\k35}mi{\k52}ru {\k45}yu{\k34}me{\k30} {\k41}hi{\k44}mi{\k43}tsu {\k27}na{\k39}no{\k20}
 Dialogue: 0,0:00:44.00,0:00:50.16,OPED_Translation,,0,0,0,,The dreams I see are my secret
@@ -62,6 +68,9 @@ Dialogue: 0,0:02:52.30,0:02:56.16,Default,,0,0,0,,and the Grand Duke of the King
 Dialogue: 0,0:02:56.92,0:03:02.58,Default,,0,0,0,,Next, Prince Franz of Goldland!
 Dialogue: 0,0:03:02.75,0:03:06.44,Default,,0,0,0,,Oh! Hey! He looks like such a kind and strong prince!
 Dialogue: 0,0:03:09.80,0:03:13.39,Default,,0,0,0,,The Grand Duke of the Kingdom of Bosunaria!
+Dialogue: 0,0:03:15.21,0:03:17.21,Karaoke - 40 the terrifying x-union - sapphire singing,,0,0,0,,{\k9}{\k14}La {\k21}la {\k67}la, {\k33}la {\k17}la {\k39}la
+Dialogue: 0,0:03:17.25,0:03:18.67,Karaoke - 40 the terrifying x-union - sapphire singing,,0,0,0,,{\k42}Hmm {\k42}hmm {\k24}hmm {\k44}hmm
+Dialogue: 0,0:03:18.69,0:03:20.01,Karaoke - 40 the terrifying x-union - sapphire singing,,0,0,0,,{\k19}Hmm {\k28}hmm {\k34}hmm {\k30}hmm
 Dialogue: 0,0:03:20.04,0:03:21.52,Default,,0,0,0,,Maybe this one.
 Dialogue: 0,0:03:21.54,0:03:24.68,Default,,0,0,0,,Or a brighter color? I like this shape.
 Dialogue: 0,0:03:25.28,0:03:26.37,Default,,0,0,0,,White is nice too.

@@ -18,8 +18,8 @@ Video File: ../../ita-new-encode/29 the last of the snow queen 4.mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.500000
-Scroll Position: 79
-Active Line: 87
+Scroll Position: 343
+Active Line: 352
 Video Position: 18919
 
 [V4+ Styles]
@@ -376,18 +376,18 @@ Dialogue: 0,0:22:32.94,0:22:33.94,Default,,0,0,0,,Freeze!
 Dialogue: 0,0:22:35.76,0:22:36.76,Default,,0,0,0,,Help!
 Dialogue: 0,0:22:36.88,0:22:38.25,Default,,0,0,0,,Help me!
 Dialogue: 0,0:22:48.73,0:22:50.23,Default,,0,0,0,,The Queen is gone...
-Dialogue: 0,0:22:51.84,0:22:52.84,Default,,0,0,0,,Hooray!
-Dialogue: 0,0:22:53.08,0:22:55.09,Default,,0,0,0,,Hooray!
-Dialogue: 0,0:22:57.54,0:22:58.54,Default,,0,0,0,,Hooray!
-Dialogue: 0,0:22:59.78,0:23:00.84,Default,,0,0,0,,Hooray!
-Dialogue: 0,0:23:01.84,0:23:03.59,Default,,0,0,0,,Hooray!
-Dialogue: 0,0:23:04.03,0:23:05.55,Default,,0,0,0,,Hooray!
+Dialogue: 0,0:22:51.84,0:22:52.84,Default,,0,0,0,,Banzai!
+Dialogue: 0,0:22:53.08,0:22:55.09,Default,,0,0,0,,Banzai!
+Dialogue: 0,0:22:57.54,0:22:58.54,Default,,0,0,0,,Banzai!
+Dialogue: 0,0:22:59.78,0:23:00.84,Default,,0,0,0,,Banzai!
+Dialogue: 0,0:23:01.84,0:23:03.59,Default,,0,0,0,,Banzai!
+Dialogue: 0,0:23:04.03,0:23:05.55,Default,,0,0,0,,Banzai!
 Dialogue: 0,0:23:06.72,0:23:07.72,Default,,0,0,0,,No, that's not true!
 Dialogue: 0,0:23:07.84,0:23:11.16,Default,,0,0,0,,We're the ones who were saved by all of you!
-Dialogue: 0,0:23:11.20,0:23:12.60,Default,,0,0,0,,Long live Freeland! Hooray!
-Dialogue: 0,0:23:12.96,0:23:14.09,Default,,0,0,0,,Hooray!
-Dialogue: 0,0:23:15.50,0:23:16.92,Default,,0,0,0,,Hooray!
-Dialogue: 0,0:23:17.80,0:23:19.57,Default,,0,0,0,,Hooray!
+Dialogue: 0,0:23:11.20,0:23:12.60,Default,,0,0,0,,Coolland banzai!
+Dialogue: 0,0:23:12.96,0:23:14.09,Default,,0,0,0,,Banzai!
+Dialogue: 0,0:23:15.50,0:23:16.92,Default,,0,0,0,,Banzai!
+Dialogue: 0,0:23:17.80,0:23:19.57,Default,,0,0,0,,Banzai!
 Dialogue: 0,0:23:27.91,0:23:28.91,Default,,0,0,0,,What is it?
 Dialogue: 0,0:23:28.94,0:23:31.49,Default,,0,0,0,,I just wanted a little affection...
 Dialogue: 0,0:23:46.06,0:23:47.29,Default,,0,0,0,,The King is coming!
