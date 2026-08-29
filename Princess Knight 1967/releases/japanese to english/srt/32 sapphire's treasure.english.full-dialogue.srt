@@ -591,33 +591,33 @@ I found the Silver Ship!
 
 145
 00:10:36,829 --> 00:10:39,000
-Tsukiyo, kotaete kure.
-- Moon, answer me.
+<i>Tsukiyo, kotaete kure.
+- Moon, answer me.</i>
 
 146
 00:10:39,509 --> 00:10:41,880
-Watashi wa nannen nemutte ita no da?
-- How many years have I slept?
+<i>Watashi wa nannen nemutte ita no da?
+- How many years have I slept?</i>
 
 147
 00:10:42,080 --> 00:10:44,160
-Dare ga watashi o okoshita no da?
-- Who awakened me?
+<i>Dare ga watashi o okoshita no da?
+- Who awakened me?</i>
 
 148
 00:10:44,525 --> 00:10:46,780
-Tsukiyo, oshiete kure.
-- Moon, tell me.
+<i>Tsukiyo, oshiete kure.
+- Moon, tell me.</i>
 
 149
 00:10:47,140 --> 00:10:49,540
-Mata wazawai ga chikazuite iru no ka?
-- Is calamity approaching again?
+<i>Mata wazawai ga chikazuite iru no ka?
+- Is calamity approaching again?</i>
 
 150
 00:10:49,880 --> 00:10:53,120
-Naraba, ware ni chikara o ataeyo.
-- Then grant me power!
+<i>Naraba, ware ni chikara o ataeyo.
+- Then grant me power!</i>
 
 151
 00:11:06,589 --> 00:11:08,100
@@ -694,13 +694,13 @@ What's that?
 
 169
 00:12:35,329 --> 00:12:36,540
-Omae wa dare da.
-- Who are you?
+<i>Omae wa dare da.
+- Who are you?</i>
 
 170
 00:12:37,200 --> 00:12:38,306
-Nani shi ni kita.
-- Why are you here?
+<i>Nani shi ni kita.
+- Why are you here?</i>
 
 171
 00:12:39,205 --> 00:12:41,280
@@ -712,18 +712,18 @@ I came looking for the legendary swamp.
 
 173
 00:12:43,985 --> 00:12:46,360
-Yahari omae ga watashi o okoshita no da na.
-- So it was you who woke me.
+<i>Yahari omae ga watashi o okoshita no da na.
+- So it was you who woke me.</i>
 
 174
 00:12:46,700 --> 00:12:47,860
-Yokubari no oji me.
-- You greedy prince!
+<i>Yokubari no oji me.
+- You greedy prince!</i>
 
 175
 00:12:48,145 --> 00:12:50,386
-Hakugin no numa ni wa ippo mo chikazukasenu zo.
-- I won't let you get a single step closer to the Silver Swamp!
+<i>Hakugin no numa ni wa ippo mo chikazukasenu zo.
+- I won't let you get a single step closer to the Silver Swamp!</i>
 
 176
 00:12:51,779 --> 00:12:53,900
@@ -731,8 +731,8 @@ So the Silver Swamp really is here!
 
 177
 00:12:54,555 --> 00:12:56,693
-Onore yokubari ningen me!
-- Curse you, greedy human!
+<i>Onore yokubari ningen me!
+- Curse you, greedy human!</i>
 
 178
 00:13:04,885 --> 00:13:06,200
@@ -744,13 +744,13 @@ It's all over.
 
 180
 00:13:35,813 --> 00:13:40,740
-Mun-ku Tsuki yo... tsuki yo... watashi o tasukero...
-- O Moon, O Moon, O moon, help me!
+<i>Mun-ku Tsuki yo... tsuki yo... watashi o tasukero...
+- O Moon, O Moon, O moon, help me!</i>
 
 181
 00:13:41,209 --> 00:13:44,880
-Watashi ni chikara o ataeyo ka...
-- Will you give me strength.
+<i>Watashi ni chikara o ataeyo ka...
+- Will you give me strength.</i>
 
 182
 00:13:45,080 --> 00:13:46,080
@@ -758,8 +758,8 @@ Now!
 
 183
 00:13:50,859 --> 00:13:52,420
-Tsuki yo...
-- O Moon!
+<i>Tsuki yo...
+- O Moon!</i>
 
 184
 00:13:53,760 --> 00:13:55,200
@@ -859,8 +859,8 @@ With this much, we could share it with everyone in the world!
 
 208
 00:16:09,140 --> 00:16:10,240
-Nani sawaru denai ka!
-- Do not touch that!
+<i>Nani sawaru denai ka!
+- Do not touch that!</i>
 
 209
 00:16:10,390 --> 00:16:11,580
@@ -868,13 +868,13 @@ That voice... It's him!
 
 210
 00:16:11,969 --> 00:16:13,160
-Kono fune wa watasanu!
-- I will not hand over this ship!
+<i>Kono fune wa watasanu!
+- I will not hand over this ship!</i>
 
 211
 00:16:13,380 --> 00:16:16,320
-Omae ni wa ano yokubari no ou no oroka na chi ga nagarete iru!
-- The foolish blood of that greedy king flows in your veins!
+<i>Omae ni wa ano yokubari no ou no oroka na chi ga nagarete iru!
+- The foolish blood of that greedy king flows in your veins!</i>
 
 212
 00:16:16,530 --> 00:16:17,806
@@ -882,8 +882,8 @@ Who on earth are you?!
 
 213
 00:16:18,800 --> 00:16:22,740
-Watashi wa suuhyakunen kono fune o mamotte kita gin no sei da!
-- I am the Silver Spirit, guardian of this ship for centuries!
+<i>Watashi wa suuhyakunen kono fune o mamotte kita gin no sei da!
+- I am the Silver Spirit, guardian of this ship for centuries!</i>
 
 214
 00:16:30,209 --> 00:16:32,400
@@ -912,38 +912,38 @@ Damare!
 
 220
 00:16:43,860 --> 00:16:45,785
-Omae no sosen no oroka na ou mo,
-- Your foolish ancestor said the same thing,
+<i>Omae no sosen no oroka na ou mo,
+- Your foolish ancestor said the same thing,</i>
 
 221
 00:16:45,809 --> 00:16:48,660
-sonna koto o itte gin o hitorijime ni shiyou to shita no da!
-- trying to keep all the silver for himself!
+<i>sonna koto o itte gin o hitorijime ni shiyou to shita no da!
+- trying to keep all the silver for himself!</i>
 
 222
 00:16:49,493 --> 00:16:50,177
-Sono tame ni,
-- Because of that,
+<i>Sono tame ni,
+- Because of that,</i>
 
 223
 00:16:50,201 --> 00:16:52,437
-heiwa datta Silverland wa midare,
-- peaceful Silverland was thrown into turmoil—
+<i>heiwa datta Silverland wa midare,
+- peaceful Silverland was thrown into turmoil—</i>
 
 224
 00:16:52,461 --> 00:16:55,344
-sensou ga okori, nansen no ie ga yakare,
-- war broke out, burning thousands of homes and
+<i>sensou ga okori, nansen no ie ga yakare,
+- war broke out, burning thousands of homes and</i>
 
 225
 00:16:55,368 --> 00:16:57,780
-nansen no hito no inochi ga ubawareta ka...
-- claiming thousands of lives...
+<i>nansen no hito no inochi ga ubawareta ka...
+- claiming thousands of lives...</i>
 
 226
 00:16:59,560 --> 00:17:01,626
-Omae no kotoba nado ni damasare wa shinai!
-- I won't be fooled by your words!
+<i>Omae no kotoba nado ni damasare wa shinai!
+- I won't be fooled by your words!</i>
 
 227
 00:17:02,060 --> 00:17:03,320
@@ -967,8 +967,8 @@ I'll do anything for that!
 
 232
 00:17:12,186 --> 00:17:13,006
-Damare!
-- Silence!
+<i>Damare!
+- Silence!</i>
 
 233
 00:17:18,249 --> 00:17:19,653
@@ -1012,18 +1012,18 @@ Your body...
 
 243
 00:17:53,436 --> 00:17:55,758
-Watashi no karada wa gin ni yotte
-- Only my soul,
+<i>Watashi no karada wa gin ni yotte
+- Only my soul,</i>
 
 244
 00:17:55,782 --> 00:17:58,091
-heiwa o midasaremai to suru tamashii dake
-- which refuses to let silver disrupt the peace,
+<i>heiwa o midasaremai to suru tamashii dake
+- which refuses to let silver disrupt the peace,</i>
 
 245
 00:17:58,115 --> 00:17:59,940
-ga yoroi ni noriutsutte iru no!
-- has possessed this armor!
+<i>ga yoroi ni noriutsutte iru no!
+- has possessed this armor!</i>
 
 246
 00:18:08,600 --> 00:18:09,600
@@ -1031,13 +1031,13 @@ Look out!
 
 247
 00:18:15,569 --> 00:18:17,280
-Omae ga watashi o tasuketa?
-- Did you save me?
+<i>Omae ga watashi o tasuketa?
+- Did you save me?</i>
 
 248
 00:18:17,340 --> 00:18:17,880
-Naze da?
-- Why?
+<i>Naze da?
+- Why?</i>
 
 249
 00:18:18,010 --> 00:18:19,010
@@ -1053,8 +1053,8 @@ Silver Spirit!
 
 252
 00:18:53,505 --> 00:18:54,222
-Oji...
-- Prince...
+<i>Oji...
+- Prince...</i>
 
 253
 00:18:55,039 --> 00:18:56,226
@@ -1062,13 +1062,13 @@ You've awakened?
 
 254
 00:18:56,345 --> 00:18:57,100
-Tanomi ga aru,
-- I have a favor to ask!
+<i>Tanomi ga aru,
+- I have a favor to ask!</i>
 
 255
 00:18:57,300 --> 00:18:58,300
-Are o miyo
-- Look at that!
+<i>Are o miyo
+- Look at that!</i>
 
 256
 00:18:58,533 --> 00:18:59,342
@@ -1076,18 +1076,18 @@ That's...
 
 257
 00:18:59,373 --> 00:19:00,321
-So da!
-- So it is!
+<i>So da!
+- So it is!</i>
 
 258
 00:19:00,394 --> 00:19:02,336
-Kono gin no fune o onore no mono ni shiyo
-- Fools consumed by greed
+<i>Kono gin no fune o onore no mono ni shiyo
+- Fools consumed by greed</i>
 
 259
 00:19:02,360 --> 00:19:04,660
-to yoku ni tsukareta orokamono ga yattekita no da
-- have come to claim this silver ship!
+<i>to yoku ni tsukareta orokamono ga yattekita no da
+- have come to claim this silver ship!</i>
 
 260
 00:19:10,840 --> 00:19:11,940
@@ -1099,18 +1099,18 @@ Lower the crane!
 
 262
 00:19:19,969 --> 00:19:22,800
-Watashi wa tsuki no hikari o abinai to hatarakenai no da
-- I can't move without bathing in moonlight!
+<i>Watashi wa tsuki no hikari o abinai to hatarakenai no da
+- I can't move without bathing in moonlight!</i>
 
 263
 00:19:23,364 --> 00:19:26,980
-Watashi no kawari ni kono yoroi o kite, gin no fune o mamotte kure.
-- Wear this armor in my place and protect the silver ship!
+<i>Watashi no kawari ni kono yoroi o kite, gin no fune o mamotte kure.
+- Wear this armor in my place and protect the silver ship!</i>
 
 264
 00:19:27,380 --> 00:19:29,980
-Kono yoroi wa kitto, sonata o mamoru daro.
-- This armor will surely protect you!
+<i>Kono yoroi wa kitto, sonata o mamoru daro.
+- This armor will surely protect you!</i>
 
 265
 00:19:30,993 --> 00:19:31,706
@@ -1290,13 +1290,13 @@ I go first!
 
 309
 00:23:03,439 --> 00:23:07,300
-Oji yo, omae no okage de gin no fune o mamoru koto ga dekita.
-- Prince, thanks to you, the Silver Ship was saved.
+<i>Oji yo, omae no okage de gin no fune o mamoru koto ga dekita.
+- Prince, thanks to you, the Silver Ship was saved.</i>
 
 310
 00:23:07,694 --> 00:23:09,100
-Kono fune o omae ni oguro.
-- I give this ship to you.
+<i>Kono fune o omae ni oguro.
+- I give this ship to you.</i>
 
 311
 00:23:09,520 --> 00:23:10,139
@@ -1304,33 +1304,33 @@ What?
 
 312
 00:23:10,999 --> 00:23:12,900
-Gin no fune wa omae no takara da.
-- The Silver Ship is your treasure.
+<i>Gin no fune wa omae no takara da.
+- The Silver Ship is your treasure.</i>
 
 313
 00:23:13,360 --> 00:23:15,611
-Tadashi, omae ga oi o tsugi,
-- However, I will keep it at the bottom of the marsh
+<i>Tadashi, omae ga oi o tsugi,
+- However, I will keep it at the bottom of the marsh</i>
 
 314
 00:23:15,635 --> 00:23:17,094
-heiwa na kuni o tsukuru made
-- until you take the throne
+<i>heiwa na kuni o tsukuru made
+- until you take the throne</i>
 
 315
 00:23:17,119 --> 00:23:19,240
-watashi ga numa no soko de azakatte oko.
-- and build a peaceful kingdom.
+<i>watashi ga numa no soko de azakatte oko.
+- and build a peaceful kingdom.</i>
 
 316
 00:23:20,089 --> 00:23:21,877
-Sore made watashi wa zutto kono
-- Until then, I will watch over you
+<i>Sore made watashi wa zutto kono
+- Until then, I will watch over you</i>
 
 317
 00:23:21,902 --> 00:23:24,940
-hakugin no numa no naka kara mimamotte iyo.
-- from within this Silver Marsh.
+<i>hakugin no numa no naka kara mimamotte iyo.
+- from within this Silver Marsh.</i>
 
 318
 00:23:26,500 --> 00:23:27,500

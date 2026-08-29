@@ -1234,52 +1234,52 @@ We must retreat for now.
 
 304
 00:23:15,589 --> 00:23:19,680
-Noroware! Dai-mao no okite o yabutta oroka na yatsura!
-- Be cursed, you fools who broke the Great Demon King's law!
+<i>Noroware! Dai-mao no okite o yabutta oroka na yatsura!
+- Be cursed, you fools who broke the Great Demon King's law!</i>
 
 305
 00:23:20,709 --> 00:23:23,600
-Dai-mao no batsu to shite—Mephisto...!
-- As punishment from the Great Demon King—Mephisto...!
+<i>Dai-mao no batsu to shite—Mephisto...!
+- As punishment from the Great Demon King—Mephisto...!</i>
 
 306
 00:23:24,439 --> 00:23:25,658
-Omae wa yama!
-- You shall become a mountain!
+<i>Omae wa yama!
+- You shall become a mountain!</i>
 
 307
 00:23:25,682 --> 00:23:26,591
-Hell,
+<i>Hell,</i>
 
 308
 00:23:26,615 --> 00:23:28,325
-Omae wa mizumi!
-- you shall become a lake!
+<i>Omae wa mizumi!
+- you shall become a lake!</i>
 
 309
 00:23:28,349 --> 00:23:31,940
-Eikyu ni moto no akuma ni modorenai yo ni shite yaru!
-- You will never return to your demonic forms!
+<i>Eikyu ni moto no akuma ni modorenai yo ni shite yaru!
+- You will never return to your demonic forms!</i>
 
 310
 00:23:32,787 --> 00:23:33,398
-Hecate yo
-- Hecate,
+<i>Hecate yo
+- Hecate,</i>
 
 311
 00:23:34,302 --> 00:23:38,340
-omae ni mo nido to akuma ni modorenai batsu o kurete yaru!
-- I shall punish you too so you can never be a demon again!
+<i>omae ni mo nido to akuma ni modorenai batsu o kurete yaru!
+- I shall punish you too so you can never be a demon again!</i>
 
 312
 00:23:39,169 --> 00:23:41,665
-Omae wa toki ga tateba shinde shimau, 
-- You shall become a pitiful human
+<i>Omae wa toki ga tateba shinde shimau,
+- You shall become a pitiful human</i>
 
 313
 00:23:41,929 --> 00:23:44,080
-aware na ningen ni naru no da!
-- who will grow old and die!
+<i>aware na ningen ni naru no da!
+- who will grow old and die!</i>
 
 314
 00:23:54,959 --> 00:23:56,231
