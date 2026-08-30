@@ -7,9 +7,10 @@ This repository serves as a central hub for standalone subtitle files (`.ass` an
 
 ## Projects
 
-* **Princess Knight (1967)**
-  * **Releases:** Italian Dubtitles to English, Japanese to English (`.ass` & `.srt`)
-  * **Sources:** Italian OCR, Japanese Whisper draft
+* **Princess Knight Ribon No Kishi リボンの騎士 1967**
+  * **Releases:** Japanese to English (`.ass` & `.srt`)
+  * **Source:** Japanse to Enlish Karaoke Splits, Unapplied Template (`.ass`)
+  * **Transcribe:** Italian OCR, Japanese Whisper draft
   * **Translation:** Italian Dubtitles to English working files
 
 ## Support & Maintenance
