@@ -1,4 +1,4 @@
-# SilverlandSubs
+# <img src="icons/castle.svg" width="32" height="32"> SilverlandSubs <img src="icons/castle.svg" width="32" height="32">
 
 An archive of fan-created subtitle files, translations, and transcriptions for anime.
 
