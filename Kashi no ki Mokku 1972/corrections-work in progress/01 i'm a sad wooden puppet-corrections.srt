@@ -113,7 +113,7 @@ You are my sweet grandchild.
 I won't ever be lonely again.
 
 24
-00:03:44,725 --> 00:03:45,368
+00:03:44,725 --> 00:03:45,555
 No!
 
 25
@@ -258,7 +258,7 @@ Could what the fairy said really be true?
 No way...
 
 58
-00:07:50,803 --> 00:07:51,698
+00:07:50,803 --> 00:07:51,838
 Just my imagination?
 
 59
@@ -352,7 +352,7 @@ If you wake him suddenly,
 you'll scare Grandpa to death!
 
 81
-00:10:10,901 --> 00:10:11,762
+00:10:10,901 --> 00:10:11,901
 H-Hey! Stop it!
 
 82
@@ -501,7 +501,7 @@ Ah, hold on!
 Mmm, not bad at all! It suits you nicely.
 
 117
-00:13:02,554 --> 00:13:03,957
+00:13:02,554 --> 00:13:04,050
 Come on now, let's put on the pants.
 
 118
@@ -616,7 +616,7 @@ I see.
 This guy's made of candy wood.
 
 145
-00:14:54,065 --> 00:14:54,776
+00:14:54,065 --> 00:14:55,065
 
 
 146
@@ -649,7 +649,7 @@ Here, this is a present from me!
 That flower smells wonderful!
 
 153
-00:15:18,845 --> 00:15:19,719
+00:15:18,845 --> 00:15:19,883
 Right?
 
 154
@@ -666,7 +666,7 @@ Fat chance! He's a wooden puppet!
 Here, this is my present.
 
 157
-00:15:43,640 --> 00:15:44,496
+00:15:43,640 --> 00:15:44,635
 Hot!
 
 158
@@ -686,7 +686,7 @@ Stop it!
 Mokku, are you okay? Doesn't it hurt?
 
 162
-00:16:20,815 --> 00:16:21,705
+00:16:20,815 --> 00:16:21,815
 
 
 163
@@ -745,7 +745,7 @@ It's way more fun than school!
 I want to see!
 
 176
-00:18:13,564 --> 00:18:15,160
+00:18:13,564 --> 00:18:15,316
 All right! Then cough up the admission fee!
 
 177
@@ -783,7 +783,7 @@ of the cricket you killed.
 Mokku...
 
 185
-00:18:44,273 --> 00:18:47,466
+00:18:44,273 --> 00:18:47,590
 ...you're planning to sell your bag and
 books to see the puppet show, aren't you?
 
@@ -830,309 +830,313 @@ It's a puppet without strings!
 They say he can even talk!
 
 196
-00:19:14,680 --> 00:19:15,312
+00:19:14,680 --> 00:19:15,374
 Yeah!
 
 197
+00:19:16,589 --> 00:19:18,097
+Let's see...
+
+198
 00:19:20,049 --> 00:19:21,964
 This one is really well made.
 
-198
+199
 00:19:22,860 --> 00:19:23,860
 All right, bought!
 
-199
+200
 00:19:26,159 --> 00:19:29,860
 Hey, Mokku. The boss says he'll show
 you to the best seat in the house.
 
-200
+201
 00:19:30,154 --> 00:19:31,340
 Really? Thank you!
 
-201
+202
 00:19:32,139 --> 00:19:34,000
 Come on over here, Mokku.
 
-202
+203
 00:19:41,994 --> 00:19:43,637
 Oh, they're puppets just like me!
 
-203
-00:19:44,400 --> 00:19:44,994
+204
+00:19:44,400 --> 00:19:45,388
 Wrong!
 
-204
+205
 00:19:45,413 --> 00:19:49,129
 Those are useless puppets that can't
 do a damn thing without my hands on them.
 
-205
+206
 00:19:49,779 --> 00:19:52,660
 But you move and talk all on your own.
 
-206
+207
 00:19:54,424 --> 00:19:58,379
 - You're gonna make me a damn fortune!
 - No! I only came to watch!
 
-207
+208
 00:19:58,844 --> 00:20:00,259
 I'm not a sideshow attraction!
 
-208
+209
 00:20:00,866 --> 00:20:01,960
 Shut the hell up!
 
-209
+210
 00:20:07,219 --> 00:20:09,440
 Behave, or I'll smash you to pieces!
 
-210
+211
 00:20:16,199 --> 00:20:17,640
 What's going to happen to me?
 
-211
+212
 00:20:17,937 --> 00:20:19,960
 Once you end up here, it's all over.
 
-212
+213
 00:20:21,049 --> 00:20:23,320
 You'll be put on display
 until the day you die.
 
-213
+214
 00:20:24,639 --> 00:20:26,640
 Just take a look inside that box.
 
-214
+215
 00:20:35,229 --> 00:20:36,720
 How horrible...
 
-215
+216
 00:20:37,019 --> 00:20:38,042
 Nothing we can do.
 
-216
+217
 00:20:38,277 --> 00:20:41,740
 Puppets can only move the
 way humans want them to.
 
-217
+218
 00:20:42,289 --> 00:20:44,360
 Puppets are just playthings for humans.
 
-218
+219
 00:20:46,257 --> 00:20:49,120
 Time to get this show started...
 
-219
+220
 00:20:57,652 --> 00:20:58,652
 What the hell?
 
-220
+221
 00:20:59,646 --> 00:21:01,960
 Broke before you did a damn bit of work!
 
-221
+222
 00:21:07,547 --> 00:21:09,158
 Watch what I do to you!
 
-222
+223
 00:21:13,429 --> 00:21:14,536
 Take this!
 
-223
+224
 00:21:21,304 --> 00:21:24,501
 - How could he do something so awful...
 - What the?!
 
-224
+225
 00:21:28,419 --> 00:21:29,419
 Come on, move!
 
-225
+226
 00:21:32,069 --> 00:21:34,933
 You're on. Get walking!
 
-226
+227
 00:21:43,146 --> 00:21:44,721
 Step right up, ladies and gentlemen!
 
-227
+228
 00:21:44,745 --> 00:21:46,773
 Behold the wondrous wooden puppet...
 
-228
+229
 00:21:46,797 --> 00:21:51,835
 ...that moves without a soul
 touching it, and even sings...
 
-229
+230
 00:21:53,894 --> 00:21:55,500
 Show 'em what you've got!
 
-230
+231
 00:21:56,514 --> 00:21:58,540
 You idiot! Do it properly!
 
-231
+232
 00:22:02,960 --> 00:22:06,570
 You idiot! Put on a smile
 and greet them properly!
 
-232
+233
 00:22:19,581 --> 00:22:22,960
 Good grief, see? I told you so.
 
-233
+234
 00:22:23,458 --> 00:22:25,864
 Come on, get to work already, Mokku!
 
-234
+235
 00:22:28,960 --> 00:22:29,960
 What's the matter?
 
-235
+236
 00:22:31,264 --> 00:22:33,278
 Hey, you dim-witted slowpoke!
 
-236
+237
 00:22:40,010 --> 00:22:41,776
 
 
-237
+238
 00:22:50,819 --> 00:22:54,080
 See? What did I tell you,
 you ungrateful brat?!
 
-238
+239
 00:22:55,524 --> 00:22:59,640
 Puppets are just toys for humans.
 
-239
+240
 00:23:09,996 --> 00:23:11,426
 I hate being a puppet...
 
-240
+241
 00:23:11,950 --> 00:23:13,288
 I want to be human...
 
-241
+242
 00:23:13,589 --> 00:23:14,709
 
 
-242
+243
 00:23:16,879 --> 00:23:18,440
 I want to be human...
 
-243
+244
 00:23:24,819 --> 00:23:29,747
 I want to be human!
 
-244
+245
 00:23:33,442 --> 00:23:37,095
 <i>Mokku is made painfully aware
 of the sorrow of being a puppet...</i>
 
-245
+246
 00:23:37,346 --> 00:23:38,860
 <i>...but he doesn't cry for long.</i>
 
-246
+247
 00:23:40,334 --> 00:23:43,653
 <i>"I'll work in the puppet theater
 to buy Grandpa an overcoat."</i>
 
-247
+248
 00:23:45,469 --> 00:23:50,653
 <i>However, the greedy Oyakata breaks his
 promise and works Mokku to the bone.</i>
 
-248
+249
 00:23:52,029 --> 00:23:56,740
 <i>Mokku tries to escape the terrible
 Oyakata with his fellow puppets.</i>
 
-249
+250
 00:23:57,767 --> 00:24:00,688
 <i>Look forward to next week's
 episode of Kashi no Ki Mokku.</i>
 
-250
+251
 00:24:10,733 --> 00:24:14,071
 ♪ Mokku, Mokku, Kashi no Ki Mokku! ♪
 Mokku, Mokku, Mokku of the Oak Tree
 
-251
+252
 00:24:14,095 --> 00:24:18,520
 ♪ Mokku, Mokku, Kashi no Ki Mokku! ♪
 Mokku, Mokku, Mokku of the Oak Tree
 
-252
+253
 00:24:20,462 --> 00:24:23,798
 ♪ Chisana boushi wo yokocho ni, Mokku! ♪
 Wearing his little hat
 tilted to the side, Mokku!
 
-253
+254
 00:24:23,799 --> 00:24:29,999
 ♪ Yondara kubi dake kururi to, Mokku! ♪
 When you call him, his head
 spins right around, Mokku!
 
-254
+255
 00:24:30,100 --> 00:24:35,992
 ♪ Mokku ga waraeba minna mo warau ♪
 When Mokku smiles, everyone smiles too
 
-255
+256
 00:24:37,089 --> 00:24:39,580
 ♪ Hora hora koinu mo ♪
 Look, look, even the puppy
 
-256
+257
 00:24:40,344 --> 00:24:43,100
 ♪ kakete kuru ♪
 comes running over
 
-257
+258
 00:24:43,340 --> 00:24:46,583
 ♪ Piko piko pin pin, piko piko pin! ♪
 
-258
+259
 00:24:46,608 --> 00:24:53,165
 ♪ Minna no Mokku, tanoshi Mokku! ♪
 Everyone's Mokku, joyful Mokku!
 
-259
+260
 00:24:53,496 --> 00:24:59,296
 ♪ Hora hora hora hora, Kashi no Ki Mokku! ♪
 Look, look, look, look,
 Mokku of the Oak Tree!
 
-260
+261
 00:25:10,175 --> 00:25:13,169
 ♪ Piko piko pin pin, piko piko pin! ♪
 
-261
+262
 00:25:13,364 --> 00:25:20,000
 ♪ Minna no Mokku, tanoshi Mokku! ♪
 Everyone's Mokku, joyful Mokku!
 
-262
+263
 00:25:20,023 --> 00:25:25,823
 ♪ Hora hora hora hora, Kashi no Ki Mokku! ♪
 Look, look, look, look,
 Mokku of the Oak Tree!
 
-263
+264
 00:25:25,848 --> 00:25:28,898
 Subtitled by
 SilverlandSubs
 tinyurl.com/SilverlandSubs
 
-264
+265
 00:25:28,923 --> 00:25:31,085
 EAN-13 : 4-571317-713427
 ASIN : ‎ B082WGXSTB

@@ -164,7 +164,7 @@ Hey! Wait! Wait!
 Hey! Wait! Wait!
 
 39
-00:06:25,640 --> 00:06:26,316
+00:06:25,640 --> 00:06:26,605
 Help!
 
 40
@@ -205,7 +205,7 @@ Now, brush your teeth and wash your face.
 Breakfast is ready.
 
 49
-00:07:09,035 --> 00:07:09,607
+00:07:09,035 --> 00:07:09,720
 Yes!
 
 50
@@ -340,7 +340,7 @@ I'm definitely going to be a good boy!
 Oh really? I wonder if you can.
 
 80
-00:08:45,700 --> 00:08:46,800
+00:08:45,700 --> 00:08:46,875
 Isn't that a bit of a stretch?
 
 81
@@ -356,7 +356,7 @@ I have to, or I'll never become human!
 Wait up, Mokku!
 
 84
-00:08:52,840 --> 00:08:53,619
+00:08:52,840 --> 00:08:53,755
 I don't know about that...
 
 85
@@ -374,7 +374,7 @@ just get tricked in no—
 Mind your own business!
 
 88
-00:09:02,359 --> 00:09:03,179
+00:09:02,359 --> 00:09:03,249
 Good grief.
 
 89
@@ -447,11 +447,11 @@ Ah, that's it! Here it is!
 Goodbye!
 
 105
-00:09:52,280 --> 00:09:52,820
+00:09:52,280 --> 00:09:53,155
 See ya!
 
 106
-00:09:53,180 --> 00:09:53,840
+00:09:53,180 --> 00:09:53,955
 See you tomorrow!
 
 107
@@ -527,7 +527,7 @@ Food? Um... food?
 Yay! We can eat food! I wonder why?
 
 124
-00:11:09,432 --> 00:11:10,052
+00:11:09,432 --> 00:11:10,350
 That's right.
 
 125
@@ -543,7 +543,7 @@ You're not lying to me, are you?
 Is that a lie?
 
 128
-00:11:15,200 --> 00:11:16,395
+00:11:15,200 --> 00:11:16,520
 As if I'd lie! Kenken,
 what are you talking about?
 
@@ -662,7 +662,7 @@ If you do that...
 
 155
 00:12:41,519 --> 00:12:45,720
-...he'll fall right into that raging 
+...he'll fall right into that raging
 waterfall basin and die. I wonder why.
 
 156
@@ -726,7 +726,7 @@ Leave it to me!
 Aha, here he comes, here he comes!
 
 169
-00:13:29,940 --> 00:13:30,780
+00:13:29,940 --> 00:13:30,848
 All right, hide!
 
 170
@@ -860,7 +860,7 @@ Right over here.
 
 201
 00:14:51,320 --> 00:14:52,951
-You have to lean way 
+You have to lean way
 out or the water weeds...
 
 202
@@ -872,7 +872,7 @@ out or the water weeds...
 Go ahead and look.
 
 204
-00:14:58,422 --> 00:14:59,343
+00:14:58,422 --> 00:14:59,436
 Hold on, you.
 
 205
@@ -932,11 +932,11 @@ Now the old man will only love me!
 Man, food this delicious is irresistible!
 
 218
-00:15:45,067 --> 00:15:46,690
+00:15:45,067 --> 00:15:46,330
  It's too good!
 
 219
-00:15:46,715 --> 00:15:48,880
+00:15:46,355 --> 00:15:48,880
 No way I'd waste this on a puppet!
 
 220
@@ -1082,7 +1082,8 @@ You must never make the same mistake again.
 
 254
 00:18:10,409 --> 00:18:13,520
-You mustn't bring grief to your grandfather.
+You mustn't bring grief
+to your grandfather.
 
 255
 00:18:25,979 --> 00:18:27,558
@@ -1101,12 +1102,12 @@ And it sounded serious.
 Mokku couldn't have...
 
 259
-00:18:39,979 --> 00:18:40,698
+00:18:39,979 --> 00:18:40,619
 No...
 
 260
 00:18:42,496 --> 00:18:47,000
-panicking now won't help.
+...panicking now won't help.
 Mokku isn't even here...
 
 261
@@ -1118,11 +1119,11 @@ Mokku!
 Oh, Mokku!
 
 263
-00:18:59,299 --> 00:19:00,081
+00:18:59,299 --> 00:19:00,346
 Mokku!
 
 264
-00:19:00,730 --> 00:19:01,560
+00:19:00,730 --> 00:19:01,739
 What happened?
 
 265
@@ -1178,7 +1179,7 @@ It's all right. It's all right, Mokku.
 
 277
 00:19:40,113 --> 00:19:44,029
-As long as you realize what you did was 
+As long as you realize what you did was
 wrong, that's all that matters, Mokku...
 
 278
@@ -1291,7 +1292,7 @@ Huh? S-Someone pulled my whiskers. Huh?
 He can't see me!
 
 303
-00:21:47,621 --> 00:21:48,496
+00:21:47,621 --> 00:21:48,612
 Serves you right!
 
 304
@@ -1417,18 +1418,18 @@ his gang to swindle Mokku out of his lunch.</i>
 
 333
 00:23:38,931 --> 00:23:41,353
-<i>While chasing after them, 
+<i>While chasing after them,
 Mokku loses his footing...</i>
 
 334
 00:23:41,377 --> 00:23:44,400
-<i>...and tumbles to the 
+<i>...and tumbles to the
 bottom of a deep ravine.</i>
 
 335
 00:23:45,454 --> 00:23:49,640
-<i>Spotting Mokku after he miraculously 
-survives, Redbeard and his gang 
+<i>Spotting Mokku after he miraculously
+survives, Redbeard and his gang
 set fire to the shack.</i>
 
 336
