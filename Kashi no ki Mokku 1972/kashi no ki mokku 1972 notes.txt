@@ -2,9 +2,11 @@ Kashi no ki Mokku (Mock of the Oak) 1972
 
 Project Start: 2026-08-30
 
+==============================================================
+
 Gemini 3.6 Flash or Gemini 3.5 Flash-Lite (free) prompt:
 
-We are working on subtitles for Kashi no ki Mokku 1972.
+We are working on subtitles for Kashi no Ki Mokku 1972.
 I am using a vocal only track with Whisper to transcribe Japanese and then using Subtitle Edit 5 and Gemini 3.7 Flash to convert to English.
 Trying to stay close to source material but be understandable by English speakers without the text being too awkward.
 My subs are PG13 so some swearing is allowed only when it is in the jpn script.
@@ -13,24 +15,169 @@ You don't need to post images, videos or audio clips.
 Please provide each line in a codebox with a copy button.
 Be more than just a dumb translator. I can get that at any website.
 My episode list rules do not apply here.
-When I ask for romaji please use simplified romaji no macrons or extra letters.
+When I ask for romaji please use the modified hepburn / simplified system.
 
-We are working on episode 01 i'm a sad wooden puppet.
+We are working on "episode 05 humans are so wonderful!". Check wikipedia japan for more information.
+
+=================================================================
 
 
-
+=================================================
 Subtitle Edit 5 Gemini 3.7 Flash (paid) prompt:
 
 Translate {0} to {1}. No censoring. Return only translated text.
 
 Context: "Kashi no Ki Mokku" (1972 anime). Dark, dramatic fairy tale.
-Style: Natural, concise PG-13 English subtitles. Match 1970s villain register ("bastard", "damn", "hell").
-Names: モック=Mokku, おじさん=Oji-san, 妖精=Fairy, コオロギ=Cricket, 樫の木=Oak Tree
-Terms: 人形=puppet, 木の人形=wooden puppet
+Style: Natural, concise PG-13 English subtitles. Match character tones accurately (villains can use rough language like "bastard", "damn", or "hell" ONLY when harsh/villainous speech is present in the Japanese). Do not force swear words into neutral or comedic dialogue. Use standard English spelling rules (always write "All right" as two words; never use the nonstandard form "Alright").
+Names: 樫の木モック=Kashi no Ki Mokku, モック=Mokku, おじさん=Grandfather, おじちゃん=Grandpa, 妖精=Fairy, コオロギ=Cricket, 樫の木=Oak Tree, 親方=Oyakata, フランコ=Franco, 赤ひげ=Redbeard,
+Terms: 人形=puppet, 木の人形=wooden puppet, 孫=grandchild
 
+========================================================
 
-
-
+===================================
 Whisper Settings for v2-large
 
 --device cuda --compute_type float16 --vad_filter False --condition_on_previous_text False --beam_size 10 --patience 2.0 --no_speech_threshold 0.6 --logprob_threshold -1.0 --suppress_tokens None
+====================================
+
+===================================
+Subtitle Rules
+
+BOLD
+- Don't use because most players don't show it.
+
+Use Italics or Quotes NOT both.
+
+ITALICS
+- Disembodied / Off-screen voices (including when characters talk off-screen)
+- Inner thoughts / Mind reading
+- Inner thoughts while writing (written text thought silently, not spoken out loud)
+- Puppet show voices
+- Mysterious mirror
+- Story narrator when off-screen
+- Reciting official documents or rules out loud
+- On-screen text with no voice (signs, notes, title cards)
+- Emphasis on a specific word in spoken dialogue (e.g., You *must* be joking!)
+
+QUOTATION MARKS
+- Reading or writing out loud while physically on-screen (letters, notes)
+- Quoting what someone else said out loud
+- Announced titles of show acts, songs, or stage performances
+
+NORMAL TEXT
+- All standard on-screen spoken dialogue
+======================================================================
+
+
+Character names
+
+Mokku - Mokku
+Ojisan - Grandfather (Ojichan - Grandpa)
+Yosei - Fairy
+Koorogi - Cricket
+Franco - neighborhood kid
+Oyakata - villian that looks like a pirate with green beard
+Pi the Sparrow (Pico)
+Redbeard (mouse with red nose)
+Kenken (fox)
+Hanaguro (cat)
+
+General names
+kashi no ki - oak tree
+ningyo - puppet
+ki no ningyo - wooden puppet
+
+Ah! = Oh! (most of the time sometimes Ah! works though.)
+
+------------
+Episode 01
+------------
+Named Cast
+Cricket
+Grandfather / Grandpa
+Fairy
+Mokku
+Franco - neighborhood kid
+Oyakata - villian that looks like a pirate with green beard
+
+
+00:14:54,065 not sure about this. whisper didnt pick it up.
+00:16:20,815 "
+00:23:13,589 "
+
+------------
+Episode 02
+------------
+*Song
+
+Named Cast
+Mokku
+Oyakata
+Cricket
+Grandpa
+
+00:10:03,802 Hira hira! (couldt figure out decent translation for this so left blank. it is just crowd shouting.)
+00:13:13,846 left blank whisper didnt catch it.
+00:21:02,893 "
+
+------------
+Episode 03
+------------
+
+Named Cast
+Pi the Sparrow
+Grandpa
+Mokku
+Redbeard (mouse with red nose)
+Cricket
+Kenken (fox)
+Hanaguro (cat)
+
+
+00:03:09,659 LOCAL - translated bath clothes as bed clothes
+00:06:25,640 - english loan word Help i think.
+00:13:54,415 - cool (omoshiroi)
+00:14:05,235 "
+00:15:47,183 Not sure this line is accurate but i think it is close.
+00:15:45,327 "
+00:15:47,183 "
+00:22:02,749 "
+00:23:01,701 Left blank. not sure what it is.
+
+------------
+Episode 04
+------------
+
+ainiki = boss
+
+Songs at (3 songs)
+00:07:14,287
+00:11:35,859 This song needs to be corrected in the ASS file so that cricket can talk over mokku's singing.
+00:13:41,958
+
+
+00:02:10,561 ?
+00:02:13,068 "
+00:02:15,568 "
+00:04:37,105 LOCAL: He actually says my friend here. but i thought my boy sounds better in english.
+00:05:10,902 ?
+00:05:25,863 ? sounds like "Kaze ni Mokku" but that cant be it.
+00:09:56,465 ?
+00:10:02,025 Not sure about this but that is probably close.
+00:10:11,952 ?
+00:10:37,184 ? might just be laughing
+00:13:02,278 ?
+00:19:55,974 Probably close.
+00:20:04,242 ? Might be words or just shouting.
+
+
+
+------------
+Episode 05
+------------
+
+Gino
+No-ra Neko / No-ra (noraneko is straycat or alleycat, nora means stray, she says it No-ra so i will stick with that.)
+
+00:08:24,279 ?
+00:12:00,665 Translated as Right Now. Changed to Even Tonight.
