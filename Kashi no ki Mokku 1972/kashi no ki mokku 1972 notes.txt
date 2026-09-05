@@ -15,9 +15,9 @@ You don't need to post images, videos or audio clips.
 Please provide each line in a codebox with a copy button.
 Be more than just a dumb translator. I can get that at any website.
 My episode list rules do not apply here.
-When I ask for romaji please use the modified hepburn / simplified system.
+When I ask for romaji please use the Simplified / ASCII Hepburn system.
 
-We are working on "episode 05 humans are so wonderful!". Check wikipedia japan for more information.
+We are working on "episode 06 the devil in my heart 1". Check wikipedia japan for more information.
 
 =================================================================
 
@@ -95,7 +95,7 @@ Episode 01
 Named Cast
 Cricket
 Grandfather / Grandpa
-Fairy
+Fairy / Oak Tree Fairy
 Mokku
 Franco - neighborhood kid
 Oyakata - villian that looks like a pirate with green beard
@@ -176,8 +176,30 @@ Songs at (3 songs)
 Episode 05
 ------------
 
+*Song/Chants
+
+Named Cast
 Gino
 No-ra Neko / No-ra (noraneko is straycat or alleycat, nora means stray, she says it No-ra so i will stick with that.)
 
 00:08:24,279 ?
 00:12:00,665 Translated as Right Now. Changed to Even Tonight.
+
+------------
+Episode 06
+------------
+
+Devil's Forest
+elderly woman Koshiki
+Rosanna
+Lino (kid with glasses and bowler hat, wears purple)
+Marco (red fez has and brown fur coat)
+jisan (elderly man)
+Countess Leonardo (vampire woman)
+Anna (mokku mentions
+Sophia "
+
+00:09:23,460 ?
+00:17:57,014 "
+00:20:30,522 "
+
