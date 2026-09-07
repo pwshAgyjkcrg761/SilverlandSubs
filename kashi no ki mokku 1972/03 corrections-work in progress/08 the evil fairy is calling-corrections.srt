@@ -4,11 +4,13 @@ This turned out great.
 
 2
 00:02:04,862 --> 00:02:07,342
-He can have a snack as soon as he gets home from school.
+He can have a snack as soon
+as he gets home from school.
 
 3
 00:02:12,430 --> 00:02:16,365
-That's strange... He's usually back long before now...
+That's strange... He's usually
+back long before now...
 
 4
 00:02:18,570 --> 00:02:20,054
@@ -23,770 +25,996 @@ Welcome back... Huh?
 What happened? You're so filthy...
 
 7
-00:02:27,004 --> 00:02:35,800
-Did you get into another fight with the bully and dilly-dally on the way home? Come on, take a seat... Grandpa put his heart into making today's treat.
+00:02:27,004 --> 00:02:30,651
+Did you get into another fight with the
+bully and dilly-dally on the way home?
 
 8
+00:02:31,097 --> 00:02:35,800
+Come on, take a seat... Grandpa put
+his heart into making today's treat.
+
+9
 00:02:40,514 --> 00:02:42,094
 How is it? Is it good?
 
-9
+10
 00:02:43,573 --> 00:02:44,573
 It's delicious.
 
-10
+11
 00:02:45,699 --> 00:02:46,880
 Good, good.
 
-11
+12
 00:02:47,099 --> 00:02:49,519
 Grandpa, am I a bad boy?
 
-12
+13
 00:02:49,690 --> 00:02:51,513
 Why would you ask such a thing?
 
-13
-00:02:51,825 --> 00:02:54,240
-There is no way my Mokku could be a bad boy.
-
 14
+00:02:51,825 --> 00:02:54,240
+There is no way my Mokku
+could be a bad boy.
+
+15
 00:02:54,674 --> 00:02:57,362
 But I got into a fight at school.
 
-15
-00:02:57,704 --> 00:03:00,760
-If you fought because you believed it was right, then it couldn't be helped.
-
 16
-00:03:01,319 --> 00:03:04,694
-I'm sure they were teasing you just because you're a wooden puppet.
+00:02:57,704 --> 00:03:00,760
+If you fought because you believed it
+was right, then it couldn't be helped.
 
 17
+00:03:01,319 --> 00:03:04,694
+I'm sure they were teasing you just
+because you're a wooden puppet.
+
+18
 00:03:05,286 --> 00:03:06,866
 Mokku, come over here.
 
-18
-00:03:09,119 --> 00:03:12,799
-Still, fighting isn't right. You have to try to get along with everyone.
-
 19
-00:03:13,260 --> 00:03:20,016
-But they bully me... They call me a puppet monster and say I'm impudent for studying with humans when I'm just a puppet.
+00:03:09,119 --> 00:03:12,799
+Still, fighting isn't right. You have
+to try to get along with everyone.
 
 20
-00:03:20,520 --> 00:03:27,060
-Even though I just want to be friends with them... I don't want to go to school anymore. I just want to stay by your side forever, Grandpa.
+00:03:13,220 --> 00:03:16,060
+But they bully me...
+They call me a puppet monster...
 
 21
-00:03:27,937 --> 00:03:31,668
-If it means you can become human, Grandpa will...
+00:03:16,084 --> 00:03:20,016
+...and say I'm impudent for studying
+with humans when I'm just a puppet.
 
 22
-00:03:32,958 --> 00:03:35,058
-But... I'll help with your work, Grandpa! Anything you need.
+00:03:20,520 --> 00:03:23,380
+Even though I just want
+to be friends with them...
 
 23
+00:03:23,646 --> 00:03:25,427
+I don't want to go to school anymore.
+
+24
+00:03:25,452 --> 00:03:27,452
+I just want to stay by your
+side forever, Grandpa.
+
+25
+00:03:27,937 --> 00:03:30,583
+If it means you can become human,
+Grandpa would...
+
+26
+00:03:30,818 --> 00:03:31,818
+But then...
+
+27
+00:03:32,958 --> 00:03:35,058
+I'll help with your work,
+Grandpa! Anything you need.
+
+28
 00:03:35,684 --> 00:03:37,260
 I don't want to go to school!
 
-24
+29
 00:03:37,614 --> 00:03:39,400
 Mokku, that's no good.
 
-25
+30
 00:03:39,584 --> 00:03:43,670
-School is where you learn good manners and study so you can make friends with everyone.
+School is where you learn good
+manners and study so you can
+make friends with everyone.
 
-26
+31
 00:03:43,939 --> 00:03:46,537
-If you quit school now, they'll just pick on you even more.
+If you quit school now,
+they'll just pick on you even more.
 
-27
-00:03:46,880 --> 00:03:51,140
-Don't worry. Before long, you'll make friends and look forward to going to school.
+32
+00:03:46,880 --> 00:03:47,676
+Don't worry.
 
-28
-00:03:51,254 --> 00:03:52,800
+33
+00:03:47,701 --> 00:03:51,140
+Before long, you'll make friends and
+look forward to going to school.
+
+34
+00:03:51,254 --> 00:03:52,932
 You just have to be patient until then.
 
-29
+35
 00:03:53,094 --> 00:03:55,539
 Okay. I'll go to school, Grandpa.
 
-30
+36
 00:03:56,587 --> 00:03:59,322
 There's a good boy. So sensible.
 
-31
+37
 00:04:00,489 --> 00:04:03,675
 Now, eat plenty so you grow strong. Eat up!
 
-32
+38
 00:04:27,400 --> 00:04:29,845
 Now then, Mokku, watch this!
 
-33
+39
 00:04:36,640 --> 00:04:38,276
 You damn puppet!
 
-34
+40
 00:04:45,636 --> 00:04:46,326
 Mokku!
 
-35
+41
 00:04:46,500 --> 00:04:47,987
 Now go pick that up!
 
-36
+42
 00:04:52,287 --> 00:04:54,222
 Now then, let's begin class.
 
-37
+43
 00:04:59,234 --> 00:05:01,414
 W-Who did this?!
 
-38
+44
 00:05:03,520 --> 00:05:05,990
 Mokku did it! Right, everyone?
 
-39
-00:05:06,440 --> 00:05:10,000
-Go on, tell him Mokku did it. Y-Yes, it was Mokku.
+45
+00:05:06,440 --> 00:05:08,344
+Go on, tell him Mokku did it.
 
-40
+46
+00:05:08,524 --> 00:05:10,000
+Y-Yes, it was Mokku.
+
+47
 00:05:10,270 --> 00:05:11,700
 Did Mokku really do this?
 
-41
+48
 00:05:12,375 --> 00:05:13,560
 Mokku isn't even here.
 
-42
+49
 00:05:18,960 --> 00:05:20,837
 Franco, I got the ball!
 
-43
+50
 00:05:21,610 --> 00:05:23,120
 Shut up. Get lost.
 
-44
+51
 00:05:24,619 --> 00:05:25,510
 Hey, Mokku!
 
-45
+52
 00:05:25,535 --> 00:05:26,016
 
 
-46
+53
 00:05:26,040 --> 00:05:28,298
-Class has already started. What were you doing?
+Class has already started.
+What were you doing?
 
-47
+54
 00:05:28,650 --> 00:05:32,131
-Playing pranks and showing up late to class... You're a hopeless child.
+Playing pranks and showing up late
+to class... You're a hopeless child.
 
-48
+55
 00:05:32,580 --> 00:05:34,920
 Stand there until I say so!
 
-49
+56
 00:05:36,293 --> 00:05:38,293
 Good-bye!
 
-50
-00:05:39,268 --> 00:05:43,900
-Making excuses isn't manly. Just be good and do your best tomorrow.
+57
+00:05:39,268 --> 00:05:41,118
+Making excuses isn't manly.
 
-51
+58
+00:05:41,267 --> 00:05:43,900
+Just be good and do your best tomorrow.
+
+59
 00:05:45,120 --> 00:05:47,020
 All right, you may go home for today.
 
-52
+60
 00:05:47,970 --> 00:05:49,605
 Goodbye, sir.
 
-53
+61
 00:06:19,910 --> 00:06:21,629
 You're Mokku, right?
 
-54
+62
 00:06:22,530 --> 00:06:24,405
 How do you know my name?
 
-55
+63
 00:06:24,840 --> 00:06:27,820
 I've known you ever since you were born.
 
-56
+64
 00:06:28,615 --> 00:06:30,000
 Huh, that long?
 
-57
+65
 00:06:30,541 --> 00:06:34,140
-Yes. I even know the teacher scolded you and made you stand today.
+Yes. I even know the teacher scolded
+you and made you stand today.
 
-58
+66
 00:06:34,495 --> 00:06:38,284
-Huh, even that? But that was because Franco and the others...
+Huh, even that? But that was
+because Franco and the others...
 
-59
+67
 00:06:38,559 --> 00:06:42,312
 I know that too. Mokku, I'm on your side.
 
-60
-00:06:42,760 --> 00:06:46,835
-Why don't you quit a school with such bad friends? How about playing with me instead?
+68
+00:06:42,760 --> 00:06:45,039
+Why don't you quit a school
+with such bad friends?
 
-61
+69
+00:06:45,180 --> 00:06:46,835
+How about playing with me instead?
+
+70
 00:06:47,128 --> 00:06:48,683
 I know a really fun place.
 
-62
+71
 00:06:50,240 --> 00:06:52,611
-I wonder what happened. He's late coming home...
+I wonder what happened.
+He's late coming home...
 
-63
+72
 00:06:54,542 --> 00:06:56,462
 Oh, the clock has stopped.
 
-64
+73
 00:06:59,229 --> 00:07:01,874
 Have you gotten old, just like me?
 
-65
+74
 00:07:02,484 --> 00:07:04,059
 Come on, follow me.
 
-66
+75
 00:07:04,732 --> 00:07:07,244
 N-N-No way. Grandpa is waiting for me.
 
-67
+76
 00:07:07,549 --> 00:07:08,714
 Come on, let's go together.
 
-68
+77
 00:07:08,739 --> 00:07:10,039
 No, I can't.
 
-69
+78
 00:07:10,235 --> 00:07:12,430
 Mokku, it's a truly wonderful place.
 
-70
-00:07:14,550 --> 00:07:15,324
+79
+00:07:14,550 --> 00:07:15,550
 Fine, see if I care.
 
-71
+80
 00:07:18,344 --> 00:07:19,344
 Wait!
 
-72
+81
 00:07:31,082 --> 00:07:32,113
 Wait!
 
-73
+82
 00:07:32,570 --> 00:07:35,080
 Huh? Where did she go?
 
-74
+83
 00:07:35,767 --> 00:07:37,173
 Over here, Mokku!
 
-75
+84
 00:07:43,529 --> 00:07:44,880
 Wait!
 
-76
+85
 00:07:52,108 --> 00:07:53,210
 
 
-77
+86
 00:08:02,207 --> 00:08:03,403
 Catch me if you can!
 
-78
+87
 00:08:22,562 --> 00:08:24,710
 Call me Kathy.
 
-79
+88
 00:08:25,515 --> 00:08:26,546
-Kathy... 
+Kathy...
 
-80
+89
 00:08:27,992 --> 00:08:30,120
 ...where is this fun place anyway?
 
-81
+90
 00:08:30,740 --> 00:08:32,320
 I'm getting tired.
 
-82
+91
 00:08:32,425 --> 00:08:35,843
-Just a little further. Come on, hang in there and keep up.
+Just a little further. Come on,
+hang in there and keep up.
 
-83
+92
 00:08:46,229 --> 00:08:47,320
 I'm exhausted.
 
-84
+93
 00:08:52,558 --> 00:08:54,645
 <i>It's starting to get creepy around here.</i>
 
-85
+94
 00:08:54,889 --> 00:08:57,140
 <i>Mokku, hurry and come here.</i>
 
-86
+95
 00:09:06,309 --> 00:09:08,400
 Kathy, I want to go home.
 
-87
-00:09:08,920 --> 00:09:14,760
-It's all right, Mokku. Open the door in front of you. A wonderful world is waiting for you on the other side.
+96
+00:09:08,920 --> 00:09:12,308
+It's all right, Mokku.
+Open the door in front of you.
 
-88
+97
+00:09:12,543 --> 00:09:14,760
+A wonderful world is waiting
+for you on the other side.
+
+98
 00:09:15,861 --> 00:09:17,811
 But there's no door here.
 
-89
+99
 00:09:22,829 --> 00:09:24,226
 Could this be it?
 
-90
-00:09:38,786 --> 00:09:39,541
-Mokku.
+100
+00:09:38,786 --> 00:09:39,786
+Mokku...
 
-91
-00:09:42,319 --> 00:09:47,740
-Mokku, you must not open that door. Don't you want to become human?
+101
+00:09:42,319 --> 00:09:45,170
+Mokku, you must not open that door.
 
-92
+102
+00:09:45,757 --> 00:09:47,740
+Don't you want to become human?
+
+103
 00:09:49,375 --> 00:09:51,800
 T-The Oak Tree Fairy...
 
-93
+104
 00:09:52,070 --> 00:09:53,660
 You must not open that door.
 
-94
-00:09:54,139 --> 00:09:59,020
-I'll always be just a wooden puppet! If that's the case, then turn me into a human already!
+105
+00:09:54,139 --> 00:09:56,664
+I'll always be just a wooden puppet!
 
-95
-00:09:59,860 --> 00:10:07,440
-That depends on your own efforts. You must not rely on others. You have to discover it with your own eyes, with your own heart.
+106
+00:09:56,970 --> 00:09:59,137
+If that's the case,
+then turn me into a human already!
 
-96
-00:10:09,370 --> 00:10:13,885
-You always say things like that! You're never going to turn me into a human, are you?!
+107
+00:09:59,859 --> 00:10:03,633
+That depends on your own efforts.
+You must not rely on others.
 
-97
+108
+00:10:04,040 --> 00:10:07,439
+You have to discover it with your
+own eyes, with your own heart.
+
+109
+00:10:09,370 --> 00:10:11,556
+You always say things like that!
+
+110
+00:10:11,682 --> 00:10:13,885
+You're never going to turn me
+into a human, are you?!
+
+111
 00:10:14,615 --> 00:10:18,010
 Instead of that, I just want to have fun!
 
-98
+112
 00:10:19,829 --> 00:10:22,464
 Mokku! Don't! Opening that door—!
 
-99
+113
 00:10:58,960 --> 00:11:00,460
 Wow...
 
-100
-00:11:02,360 --> 00:11:04,480
-That must be the wonderful place she was talking about.
+114
+00:11:02,360 --> 00:11:04,522
+That must be the wonderful
+place she was talking about.
 
-101
-00:11:04,800 --> 00:11:08,080
-That's right. It's the most wonderful land in the world.
+115
+00:11:05,128 --> 00:11:08,080
+That's right. It's the most
+wonderful land in the world.
 
-102
-00:11:10,458 --> 00:11:14,200
-For kids who are constantly hounded to study, it really is a dream paradise.
+116
+00:11:10,458 --> 00:11:12,614
+For kids who are constantly
+hounded to study...
 
-103
-00:11:14,829 --> 00:11:18,460
- The most wonderful land in the world. A dream paradise.
+117
+00:11:12,818 --> 00:11:14,364
+...it really is a dream paradise.
 
-104
+118
+00:11:14,829 --> 00:11:17,083
+ The most wonderful land in the world.
+
+119
+00:11:17,271 --> 00:11:18,460
+A dream paradise.
+
+120
 00:11:19,039 --> 00:11:20,926
  Are you sure it's okay not to study?
 
-105
+121
 00:11:30,756 --> 00:11:33,852
-Well hey there, pretty girl. Are you riding in this carriage?
+Well hey there, pretty girl.
+Are you riding in this carriage?
 
-106
+122
 00:11:35,596 --> 00:11:38,475
 Huh? It's a wooden puppet. You coming too?
 
-107
+123
 00:11:39,296 --> 00:11:42,953
-Heh, too bad there aren't any seats open for a puppet.
+Heh, too bad there aren't
+any seats open for a puppet.
 
-108
+124
 00:11:43,351 --> 00:11:45,684
 Hey, you go up on the roof!
 
-109
+125
 00:11:45,740 --> 00:11:48,297
 What? The roof is full, too!
 
-110
+126
 00:11:48,340 --> 00:11:50,229
 Shut up! When I tell you to go, you go!
 
-111
+127
 00:11:53,036 --> 00:11:54,602
 Come on in, miss.
 
-112
+128
 00:11:56,813 --> 00:12:00,062
 She's quite a looker. Let's be friends.
 
-113
+129
 00:12:01,507 --> 00:12:04,342
 Get lost! There's no room for you here!
 
-114
+130
 00:12:04,936 --> 00:12:08,596
-I have no choice. I'll ride on Mr. Reindeer's back.
+I have no choice. I'll ride
+on Mr. Reindeer's back.
 
-115
+131
 00:12:12,889 --> 00:12:16,898
-Mokku, are you really going? Don't do it! You'll regret it!
+Mokku, are you really going?
+Don't do it! You'll regret it!
 
-116
+132
 00:12:17,514 --> 00:12:19,827
 All right, let's head out!
 
-117
+133
 00:12:26,506 --> 00:12:28,926
 Ha-ha! You're gonna regret this later!
 
-118
-00:12:31,349 --> 00:12:36,620
-Yo-ho-ho! Yo-ho-ho! Yo-ho-ho, yo-ho-ho!
+134
+00:12:31,270 --> 00:12:33,797
+♪ Ya-ha-ho! Ya-ho-ho! ♪
 
-119
-00:12:41,379 --> 00:12:42,340
+135
+00:12:33,939 --> 00:12:36,682
+♪ Ya-ho-ho! Ya-ho-ho! ♪
+
+136
+00:12:41,379 --> 00:12:42,199
 All together now!
 
-120
-00:12:42,341 --> 00:12:46,600
-Let's go! Let's go to our own world!
+137
+00:12:42,224 --> 00:12:46,967
+♪ Ikou yo! Ikou! Bokura no shugi de ♪
+Let's go! Let's go! On our own terms!
 
-121
-00:12:47,340 --> 00:12:51,560
+138
+00:12:47,340 --> 00:12:52,767
+♪ Yukai de tanoshii paradaisu ♪
 To a fun and joyful paradise!
 
-122
-00:12:52,480 --> 00:12:55,320
+139
+00:12:52,870 --> 00:12:55,405
+♪ Benkyo nante sayonara ♪
 Goodbye to studying!
 
-123
-00:12:55,669 --> 00:13:05,460
-There's no such thing as school! Let's go! Let's go! Forward, march!
+140
+00:12:55,614 --> 00:13:00,516
+♪ Gakko nante nante nai yo! ♪
+There's no such thing as school!
 
-124
-00:13:10,320 --> 00:13:11,720
-(Lyrics)
+141
+00:13:00,665 --> 00:13:03,641
+♪ Ikou yo! Ikou! ♪
+Let's go! Let's go!
 
-125
-00:13:11,721 --> 00:13:14,180
-(Lyrics)
+142
+00:13:03,665 --> 00:13:06,264
+♪ Susume yo! Susume! ♪
+Press onward! Press onward!
 
-126
-00:13:16,660 --> 00:13:18,060
-(Lyrics)
+143
+00:13:06,329 --> 00:13:09,071
+♪ Suteki de gokigaru ♪
+Splendid and carefree!
 
-127
-00:13:18,061 --> 00:13:19,061
-(Lyrics)
+144
+00:13:09,096 --> 00:13:11,837
+♪ Bokura gakusei he ♪
+For us students!
 
-128
+145
+00:13:11,915 --> 00:13:14,844
+♪ Ya-ha-hey! Ya-ha-hey! ♪
+
+146
+00:13:14,868 --> 00:13:17,267
+♪ Ya-ho-ho! Ya-ha-ha! ♪
+
+147
+00:13:17,733 --> 00:13:20,413
+♪ Ikou yo! Ikou yo! ♪
+Let's go! Let's go!
+
+148
+00:13:20,438 --> 00:13:23,686
+♪ Susume yo! Susume! ♪
+Press onward! Press onward!
+
+149
+00:13:24,089 --> 00:13:27,933
+Yahoo! Yahoo!
+
+150
 00:14:07,559 --> 00:14:09,060
 Yahoo!
 
-129
+151
 00:14:09,849 --> 00:14:11,820
 Yahoo!
 
-130
+152
 00:14:15,070 --> 00:14:17,480
 Mom, I don't need any textbooks!
 
-131
+153
 00:14:17,577 --> 00:14:20,020
 Ripping them up feels so good!
 
-132
+154
 00:14:20,040 --> 00:14:22,360
 Just tear up every single book!
 
-133
+155
 00:14:26,489 --> 00:14:28,858
 Awesome! Let's do it too!
 
-134
+156
 00:14:42,327 --> 00:14:43,428
 Good riddance.
 
-135
+157
 00:14:58,585 --> 00:15:00,014
 Attention!
 
-136
+158
 00:15:08,930 --> 00:15:09,930
 Here...
 
-137
+159
 00:15:10,945 --> 00:15:13,300
 He's just greeting you. Say hello, Mokku.
 
-138
-00:15:20,609 --> 00:15:26,580
-Burn the books! It's a ritual to forget all about studying!
+160
+00:15:20,609 --> 00:15:22,164
+Urara hon rotesu.
 
-139
+161
+00:15:22,469 --> 00:15:23,937
+Burn the books!
+
+162
+00:15:24,180 --> 00:15:26,580
+It's a ritual to forget all about studying!
+
+163
 00:15:50,355 --> 00:15:51,498
-So this is school, too.
+That's the school bell.
 
-140
-00:15:51,522 --> 00:15:58,003
-Now that the ritual is over, let's all head to school! School? It's a super fun school!
+164
+00:15:51,522 --> 00:15:55,019
+Now that the ritual is over,
+let's all head to school!
 
-141
-00:15:58,028 --> 00:16:02,220
-That's right, let's go to our land!
+165
+00:15:55,043 --> 00:15:57,909
+- School?!
+- It's a super fun school!
 
-142
-00:16:02,221 --> 00:16:06,840
-♪ A delightful, fun paradise
+166
+00:15:57,934 --> 00:16:02,087
+♪ Ikou yo! Ikou! Bokura no shugi de ♪
+Let's go! Let's go! On our own terms!
 
-143
-00:16:07,679 --> 00:16:10,140
-♪ Say goodbye to studying
+167
+00:16:02,112 --> 00:16:07,433
+♪ Yukai de tanoshii paradaisu ♪
+To a fun and joyful paradise!
 
-144
-00:16:10,141 --> 00:16:13,580
-♪ Who cares about school?
+168
+00:16:07,616 --> 00:16:10,140
+♪ Benkyo nante sayonara ♪
+Goodbye to studying!
 
-145
-00:16:15,659 --> 00:16:17,720
-♪ Let's go, let's go
+169
+00:16:10,141 --> 00:16:14,642
+♪ Gakko nante nante nai yo! ♪
+There's no such thing as school!
 
-146
-00:16:17,721 --> 00:16:20,280
-♪ March on, march on
+170
+00:16:15,659 --> 00:16:17,954
+♪ Ikou yo! Ikou! ♪
+Let's go! Let's go!
 
-147
+171
+00:16:18,228 --> 00:16:20,475
+♪ Susume yo! Susume! ♪
+Press onward! Press onward!
+
+172
 00:16:20,979 --> 00:16:23,380
-♪ Wonderful and cheerful
+♪ Suteki de gokigaru ♪
+Splendid and carefree!
 
-148
-00:16:23,381 --> 00:16:29,180
-♪ Off we go, students
+173
+00:16:24,427 --> 00:16:29,180
+♪ Bokura gakusei he ♪
+For us students!
 
-149
+174
 00:16:36,686 --> 00:16:38,306
 Hey, hurry up and do it!
 
-150
+175
 00:16:38,640 --> 00:16:39,680
 Yeah.
 
-151
+176
 00:16:48,920 --> 00:16:54,334
 Let's go! Let's go! Move it! Move it!
 
-152
+177
 00:16:56,859 --> 00:16:58,400
 This is the graffiti room.
 
-153
-00:16:59,245 --> 00:17:00,560
-Here at this school, classes work like this:
+178
+00:16:59,245 --> 00:17:00,834
+Here at this school,
+classes work like this:
 
-154
+179
 00:17:00,859 --> 00:17:06,020
-Mondays are off, and what's more, a week consists of six Sundays and a Monday.
+Mondays are off, and what's more, a week
+consists of six Sundays and a Monday.
 
-155
-00:17:07,532 --> 00:17:09,328
+180
+00:17:07,532 --> 00:17:09,445
 Then the whole week is time off!
 
-156
+181
 00:17:10,137 --> 00:17:12,496
 Yahoo!
 
-157
+182
 00:17:13,009 --> 00:17:18,154
-So vacation lasts from January 1st to December 31st.
+So vacation lasts from
+January 1st to December 31st.
 
-158
+183
 00:17:19,959 --> 00:17:21,599
 Then that's the whole year!
 
-159
-00:17:22,720 --> 00:17:34,229
-Everything is backwards at this school. Study time is playtime. Any child who doesn't follow that gets scolded by the teacher. Now, go stu—no, go play in those lovely classrooms!
+184
+00:17:22,720 --> 00:17:26,565
+Everything is backwards at this school.
+Study time is playtime.
 
-160
+185
+00:17:26,854 --> 00:17:30,049
+Any child who doesn't follow that
+gets scolded by the teacher.
+
+186
+00:17:30,323 --> 00:17:34,229
+Now, go stu—no, go play
+in those lovely classrooms!
+
+187
 00:17:39,019 --> 00:17:43,840
-Let's see, let's see... I wonder if there are any fun classrooms.
+Let's see, let's see... I wonder if
+there are any fun classrooms.
 
-161
+188
 00:17:45,314 --> 00:17:48,544
-Hey, Mokku! The science lab! This looks fun!
+Hey, Mokku! The science lab!
+This looks fun!
 
-162
+189
 00:18:11,399 --> 00:18:12,977
 Hey, Mokku! Come look!
 
-163
+190
 00:18:14,384 --> 00:18:16,537
 A mini-monster is being born!
 
-164
-00:18:41,356 --> 00:18:42,192
+191
+00:18:41,356 --> 00:18:42,356
 I hate this!
 
-165
-00:18:45,559 --> 00:18:46,473
+192
+00:18:45,559 --> 00:18:46,559
 Help!
 
-166
+193
 00:19:00,469 --> 00:19:04,306
 Help me, Mama, Papa!
 
-167
+194
 00:19:22,799 --> 00:19:24,329
 Kathy!
 
-168
-00:19:32,489 --> 00:19:38,295
-Mokku, you know better than anyone that if you leave your parents and just fool around, you'll end up as nothing more than a piece of oak scrap.
+195
+00:19:32,556 --> 00:19:33,371
+Mokku...
 
-169
+196
+00:19:33,395 --> 00:19:35,234
+...you know better than anyone that if you
+leave your parents and just fool around...
+
+197
+00:19:35,259 --> 00:19:38,295
+...you'll end up as nothing
+more than a piece of oak scrap.
+
+198
 00:19:45,020 --> 00:19:46,360
 That oak is mine!
 
-170
+199
 00:19:46,540 --> 00:19:47,633
 Who in the world are you?
 
-171
+200
 00:19:47,960 --> 00:19:49,760
 I am the Poppy Fairy.
 
-172
+201
 00:19:50,280 --> 00:19:51,624
 The Poppy Fairy?
 
-173
+202
 00:19:52,619 --> 00:19:55,141
 That's right, I'm the Poppy Fairy.
 
-174
-00:19:55,689 --> 00:19:59,540
-Like hell I'll let that Oak Fairy turn you into a human with her soft-hearted nonsense!
+203
+00:19:55,689 --> 00:19:56,887
+Like hell I'll let that Oak Fairy...
 
-175
+204
+00:19:56,911 --> 00:19:59,540
+...turn you into a human with
+her soft-hearted nonsense!
+
+205
 00:19:59,541 --> 00:20:00,580
 I'll never let it happen!
 
-176
+206
 00:20:01,440 --> 00:20:04,642
-Besides, why don't you hurry up and turn back into a stick of wood!
+Besides, why don't you hurry up
+and turn back into a stick of wood!
 
-177
+207
 00:20:09,620 --> 00:20:14,620
-Sleep. Think of nothing, deeper and deeper, breathing in this scent of blood.
+Sleep. Think of nothing, deeper and deeper,
+breathing in this scent of blood.
 
-178
-00:20:15,419 --> 00:20:19,840
-Now, sleep. And you will be just an ordinary oak stick.
+208
+00:20:15,419 --> 00:20:16,697
+Now, sleep....
 
-179
+209
+00:20:17,268 --> 00:20:19,910
+...and you will be just
+an ordinary oak stick.
+
+210
 00:20:39,089 --> 00:20:43,028
 Mokku, Mokku, you must not sleep.
 
-180
-00:20:44,260 --> 00:20:51,540
-Mokku, wake up. Open your mind's eye as well. Keep your heart strong and true.
+211
+00:20:44,260 --> 00:20:46,023
+Mokku, wake up.
 
-181
-00:20:54,719 --> 00:21:01,566
-Oak Tree Fairy... You blockhead, so you've shown yourself! I won't lose to the likes of you!
+212
+00:20:46,806 --> 00:20:48,007
+Open your mind's eye as well. 
 
-182
+213
+00:20:48,931 --> 00:20:51,540
+Keep your heart strong and true.
+
+214
+00:20:54,711 --> 00:20:56,227
+Oak Tree Fairy...
+
+215
+00:20:56,486 --> 00:21:01,558
+You blockhead, so you've shown yourself!
+I won't lose to the likes of you!
+
+216
 00:21:35,259 --> 00:21:37,720
 Ah, is that the best you can do?!
 
-183
+217
 00:22:36,582 --> 00:22:38,817
  Was I having a dream?
 
-184
+218
 00:22:46,299 --> 00:22:48,720
  Look! The house is still there!
 
-185
+219
 00:22:49,549 --> 00:22:51,161
  Grandpa is waiting for me!
 
-186
+220
 00:22:57,351 --> 00:22:59,931
 Grandpa!
 
-187
+221
 00:23:06,449 --> 00:23:07,780
 Grandpa, I'm home!
 
-188
+222
 00:23:08,244 --> 00:23:11,900
-Wh-What's the matter, Mokku? You're awfully full of energy. Huh?
+Wh-What's the matter, Mokku?
+You're awfully full of energy. Huh?
 
-189
+223
 00:23:13,579 --> 00:23:16,900
-Grandpa, I'll be a good boy from now on. I'll go to school, too.
+Grandpa, I'll be a good boy from now on. 
+I'll go to school, too.
 
-190
+224
 00:23:17,280 --> 00:23:18,569
 I see, I see.
 
-191
+225
 00:23:21,669 --> 00:23:22,762
 Grandpa...
 
-192
-00:23:23,278 --> 00:23:24,185
+226
+00:23:23,278 --> 00:23:24,278
 Mokku...
 
-193
+227
 00:23:24,780 --> 00:23:26,157
 My dear Mokku.
 
-194
+228
 00:23:33,739 --> 00:23:38,760
-Using the magic ring in Oyakata's possession, Mokku is turned into a demon.
+<i>With the magic ring owned by the boss,
+Mokku is turned into a devilish creature.</i>
 
-195
-00:23:39,754 --> 00:23:42,260
-A demon who does nothing but evil.
+229
+00:23:39,754 --> 00:23:41,602
+<i>A devilish creature who
+does nothing but evil.</i>
 
-196
-00:23:42,992 --> 00:23:47,820
-On top of that, seeking to make a profit, Oyakata locks Grandfather away and forces him to make puppets.
+230
+00:23:42,992 --> 00:23:43,992
+<i>On top of that...</i>
 
-197
-00:23:49,220 --> 00:23:56,740
-With the help of Giorgio, a kindhearted crow, will Mokku be able to regain his good heart and save Grandfather?
+231
+00:23:44,413 --> 00:23:46,005
+<i>...seeking to make a profit,
+the boss locks Grandfather away...</i>
 
-198
+232
+00:23:46,030 --> 00:23:47,820
+<i>...and forces him to make puppets.</i>
+
+233
+00:23:49,220 --> 00:23:52,155
+<i>With the help of Giorgio,
+a kindhearted crow...</i>
+
+234
+00:23:52,179 --> 00:23:56,740
+<i>...will Mokku be able to regain his
+good heart and save Grandfather?</i>
+
+235
 00:23:57,654 --> 00:24:00,400
 <i>Look forward to next week's
 Kashi no Ki Mokku!</i>
