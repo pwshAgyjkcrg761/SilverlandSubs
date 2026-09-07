@@ -17,7 +17,7 @@ Be more than just a dumb translator. I can get that at any website.
 My episode list rules do not apply here.
 When I ask for romaji please use the Simplified / ASCII Hepburn system.
 
-We are working on "episode 06 the devil in my heart 1". Check wikipedia japan for more information.
+We are working on "episode 08 the evil fairy is calling". Check wikipedia japan for more information.
 
 =================================================================
 
@@ -195,11 +195,44 @@ Rosanna
 Lino (kid with glasses and bowler hat, wears purple)
 Marco (red fez has and brown fur coat)
 jisan (elderly man)
-Countess Leonardo (vampire woman)
-Anna (mokku mentions
+Countess Leonard (vampire woman)
+Anna (mokku mentions)
 Sophia "
 
 00:09:23,460 ?
 00:17:57,014 "
 00:20:30,522 "
+
+------------
+Episode 07
+------------
+
+Rufus (mentioned by Countess Leonard) (the old witch?)
+Paradise of Play (narrator mentions)
+
+00:08:32,525 not sure if "damn it" is what he is saying here but it works.
+00:09:23,432 this is probably just yelling but it sounds like "kowai" but is cut off.
+
+------------
+Episode 08*******************
+------------
+
+Still working on this one.
+X Checked Translation
+Split lines & cards
+Fix the songs.
+
+Song in this episode. About half of it didnt get picked up. Will go back and fix it.
+00:12:41,379
+00:15:51,522
+00:16:48,920
+
+Kathy (Poppy Fairy)
+
+00:05:25,535 ?
+00:06:34,495 LOCAL - added because here.
+00:07:52,108 ?
+00:08:02,207 LOCAL - Catch me if you can!
+00:14:42,327 Whisper didnt pick this up so going with "Soku" meaning "Good riddance."
+00:14:58,585 LOCAL - attention grabbing interjection using "Attention!" here.
 
