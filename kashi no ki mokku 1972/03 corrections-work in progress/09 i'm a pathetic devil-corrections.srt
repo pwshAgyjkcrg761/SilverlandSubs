@@ -31,7 +31,7 @@ Thanks a lot, thanks a lot, thanks a lot!
 
 8
 00:01:48,276 --> 00:01:51,088
-Hey tasty, isn't it? 
+Hey tasty, isn't it?
 Sweet and delicious candy.
 
 9
@@ -109,7 +109,7 @@ You say you're an oak tree puppet?
 
 27
 00:03:13,460 --> 00:03:17,220
-A talking puppet? Now that's 
+A talking puppet? Now that's
 something you don't see every day.
 
 28
@@ -126,7 +126,7 @@ Grandpa?
 
 31
 00:03:34,400 --> 00:03:37,260
-Ah, do you really want to 
+Ah, do you really want to
 become a human that badly?
 
 32
@@ -182,12 +182,12 @@ Oh, are you guys gypsies?
 
 44
 00:04:22,880 --> 00:04:26,263
-That's right. When we find a 
+That's right. When we find a
 foolish kid, we snatch them up...
 
 45
 00:04:26,287 --> 00:04:29,180
-...and sell them cheap to 
+...and sell them cheap to
 anyone who wants one.
 
 46
@@ -204,7 +204,7 @@ Don't worry, we're not gonna kidnap you.
 
 49
 00:04:37,780 --> 00:04:40,700
-There's no point in 
+There's no point in
 kidnapping a wooden puppet.
 
 50
@@ -221,7 +221,7 @@ With this magic ring.
 
 53
 00:04:51,225 --> 00:04:54,629
-I've never cast magic on a 
+I've never cast magic on a
 wooden puppet with this before.
 
 54
@@ -286,7 +286,7 @@ Please, Boss! Make me human again!
 
 69
 00:06:18,824 --> 00:06:21,995
-I'll be your servant, I'll do 
+I'll be your servant, I'll do
 anything! Please, Boss!
 
 70
@@ -307,7 +307,7 @@ Grandpa?
 
 74
 00:06:33,055 --> 00:06:36,220
-That's right. Do that, and 
+That's right. Do that, and
 I'll make you human.
 
 75
@@ -332,17 +332,17 @@ I want to become human, no matter what!
 
 80
 00:07:00,910 --> 00:07:04,731
-A Gypsy in the forest cast a spell 
+A Gypsy in the forest cast a spell
 on me earlier, and I became human!
 
 81
 00:07:05,710 --> 00:07:09,620
-That's ridiculous! 
+That's ridiculous!
 Magic can't turn you into a human!
 
 82
 00:07:10,560 --> 00:07:14,615
-It's true! It hurt when I pinched myself, 
+It's true! It hurt when I pinched myself,
 and I even got to eat meat!
 
 83
@@ -351,12 +351,12 @@ But...
 
 84
 00:07:16,546 --> 00:07:20,276
-...the wizard said he won't 
+...the wizard said he won't
 cast any more magic...
 
 85
 00:07:20,777 --> 00:07:23,540
-...unless I bring a hundred gold coins 
+...unless I bring a hundred gold coins
 or bring Grandpa to him.
 
 86
@@ -369,7 +369,7 @@ Grandpa is too precious to me.
 
 88
 00:07:33,380 --> 00:07:36,829
-Still... I really want to 
+Still... I really want to
 eat meat like that again.
 
 89
@@ -391,7 +391,7 @@ Grandpa!
 
 93
 00:07:52,775 --> 00:07:57,048
-It's all right, it's all right. 
+It's all right, it's all right.
 In return, you must be a good boy.
 
 94
@@ -401,12 +401,12 @@ gold coins real fast, and come get you!
 
 95
 00:08:11,490 --> 00:08:14,658
-Make sure you sleep 
+Make sure you sleep
 under a blanket at night.
 
 96
 00:08:14,682 --> 00:08:18,961
-If you're ever in trouble, go ask 
+If you're ever in trouble, go ask
 your teacher or the priest for help.
 
 97
@@ -505,7 +505,7 @@ Time to eat!
 
 118
 00:09:37,201 --> 00:09:41,420
-Gross... Did Grandpa really 
+Gross... Did Grandpa really
 eat stuff this awful...?
 
 119
@@ -531,12 +531,12 @@ own without Grandfather? Well, Mokku?!
 
 124
 00:09:58,052 --> 00:10:01,920
-Shut up! I'm the master of this 
+Shut up! I'm the master of this
 house now! Get out! Get out!
 
 125
 00:10:01,921 --> 00:10:05,299
-It's not too late! Go and bring 
+It's not too late! Go and bring
 Grandfather back right now!
 
 126
@@ -553,7 +553,7 @@ You'll starve and end up a beggar!
 
 129
 00:10:13,880 --> 00:10:17,078
-Beggar or not, who cares as long as 
+Beggar or not, who cares as long as
 I get to eat delicious food?!
 
 130
@@ -566,7 +566,7 @@ Right, it still hurts...
 
 132
 00:10:22,737 --> 00:10:25,580
-Good grief, don't come crying to me 
+Good grief, don't come crying to me
 when everything goes wrong!
 
 133
@@ -587,7 +587,7 @@ Please, can I just have one piece of candy?
 
 137
 00:10:42,440 --> 00:10:47,220
-What? The only people entitled to 
+What? The only people entitled to
 charity are the elderly and the sick.
 
 138
@@ -609,7 +609,7 @@ and I'll give you some candy.
 
 142
 00:10:58,860 --> 00:11:02,269
-You're just saying that so you can 
+You're just saying that so you can
 make me work for free, mister!
 
 143
@@ -618,7 +618,7 @@ No way!
 
 144
 00:11:03,600 --> 00:11:07,880
-Then suit yourself! It serves a lazy 
+Then suit yourself! It serves a lazy
 brat like you right to go hungry!
 
 145
@@ -631,7 +631,7 @@ What?!
 
 147
 00:11:16,399 --> 00:11:18,969
-What a rotten kid, 
+What a rotten kid,
 when you're the one who's lazy!
 
 148
@@ -700,7 +700,7 @@ Mokku, are you all right?
 
 164
 00:12:40,599 --> 00:12:43,940
-I don't want to be human anymore! 
+I don't want to be human anymore!
 I hate being human!
 
 165
@@ -717,7 +717,7 @@ Why not?
 
 168
 00:12:54,319 --> 00:12:57,460
-Because you do not possess a 
+Because you do not possess a
 righteous and kind heart.
 
 169
@@ -730,7 +730,7 @@ Nothing good ever comes of it!
 
 171
 00:13:03,300 --> 00:13:06,620
-That is because you do not 
+That is because you do not
 yet know true joy.
 
 172
@@ -763,7 +763,7 @@ Yes.
 
 179
 00:13:21,405 --> 00:13:24,040
-But only those who sweat with 
+But only those who sweat with
 their own effort can understand it.
 
 180
@@ -772,7 +772,7 @@ Then what should I do?
 
 181
 00:13:27,172 --> 00:13:29,123
-If you turn the wizard's 
+If you turn the wizard's
 ring the other way...
 
 182
@@ -782,7 +782,7 @@ an Oak Tree puppet.
 
 183
 00:13:32,320 --> 00:13:36,280
-And then, you must strive to 
+And then, you must strive to
 have a righteous and kind heart.
 
 184
@@ -799,7 +799,7 @@ She's gone...
 
 187
 00:13:52,135 --> 00:13:54,618
-All right! I'll do it! 
+All right! I'll do it!
 I'll definitely do it!
 
 188
@@ -832,12 +832,12 @@ You're an enchanted devil, after all.
 
 195
 00:14:09,526 --> 00:14:11,380
-The moment I look away, 
+The moment I look away,
 you get into mischief.
 
 196
 00:14:11,645 --> 00:14:16,260
-My family's been nesting in that Oak Tree 
+My family's been nesting in that Oak Tree
 for generations, you know.
 
 197
@@ -846,7 +846,7 @@ So I couldn't say no.
 
 198
 00:14:18,445 --> 00:14:20,973
-Hmph! I don't need someone 
+Hmph! I don't need someone
 like you here anyway!
 
 199
@@ -877,7 +877,7 @@ That's so mean!
 
 205
 00:14:40,760 --> 00:14:45,786
-This is great. I think I'll leave things to 
+This is great. I think I'll leave things to
 Giorgio the crow for a bit and take a rest.
 
 206
@@ -918,7 +918,7 @@ What do you want?!
 
 215
 00:15:37,739 --> 00:15:42,485
-Please give Grandpa back! And please 
+Please give Grandpa back! And please
 turn me back into a wooden puppet!
 
 216
@@ -927,7 +927,7 @@ Did you bring the 100 gold coins?
 
 217
 00:15:46,209 --> 00:15:50,185
-But I didn't want to be a devil! 
+But I didn't want to be a devil!
 I wanted to be human!
 
 218
@@ -956,7 +956,7 @@ Cheeky little brat.
 
 224
 00:16:01,795 --> 00:16:04,740
-Bruno, take him to the old man 
+Bruno, take him to the old man
 and make him help out!
 
 225
@@ -990,7 +990,7 @@ Grandpa, I'm so sorry...
 
 232
 00:16:32,575 --> 00:16:36,820
-I missed you. I was 
+I missed you. I was
 worried sick about you...
 
 233
@@ -1012,7 +1012,7 @@ What are we going to do?
 
 237
 00:16:49,040 --> 00:16:52,069
-There's nothing an old man 
+There's nothing an old man
 like me can do...
 
 238
@@ -1037,7 +1037,7 @@ I get it now.
 
 243
 00:17:03,647 --> 00:17:05,480
-Don't worry, Grandpa. 
+Don't worry, Grandpa.
 I'll definitely save you!
 
 244
@@ -1055,7 +1055,7 @@ Do it right!
 
 247
 00:17:30,519 --> 00:17:33,860
-If I turn that ring backward, 
+If I turn that ring backward,
 I can turn back into a puppet!
 
 248
@@ -1084,7 +1084,7 @@ Hurray!
 
 254
 00:18:28,289 --> 00:18:32,140
-Thank goodness, thank goodness, Mokku. 
+Thank goodness, thank goodness, Mokku.
 But I'm staying here.
 
 255
@@ -1093,22 +1093,22 @@ Why? Why, Grandpa?
 
 256
 00:18:34,484 --> 00:18:38,561
-I was the one who made those 
+I was the one who made those
 defective puppets. I can't just run away.
 
 257
 00:18:38,671 --> 00:18:42,420
-But if you stay here, they'll just force 
+But if you stay here, they'll just force
 you to make more defective puppets!
 
 258
 00:18:43,164 --> 00:18:47,880
-I will never make puppets like that again. 
+I will never make puppets like that again.
 Now, go back to the village on your own.
 
 259
 00:18:48,839 --> 00:18:51,060
-If you're not going, 
+If you're not going,
 Grandpa, I'm staying too.
 
 260
@@ -1127,7 +1127,7 @@ Mokku...
 
 263
 00:18:59,921 --> 00:19:03,370
-I know I'm a bad boy, 
+I know I'm a bad boy,
 but I love you most of all, Grandpa.
 
 264
@@ -1142,7 +1142,7 @@ begging, stealing, whatever it takes!
 
 266
 00:19:14,774 --> 00:19:17,960
-All right, good attitude. 
+All right, good attitude.
 Go make us some real money.
 
 267
@@ -1159,7 +1159,7 @@ Don't worry about it.
 
 270
 00:19:27,389 --> 00:19:30,200
-Mokku, just like you said, 
+Mokku, just like you said,
 I brought my friends!
 
 271
@@ -1173,7 +1173,7 @@ this crow will peck your butts.
 
 273
 00:19:38,629 --> 00:19:41,620
-But if we don't bring in any money, 
+But if we don't bring in any money,
 the boss will whip us!
 
 274
@@ -1182,7 +1182,7 @@ I'll take the beatings for you.
 
 275
 00:19:44,146 --> 00:19:46,736
-I'm made of oak, 
+I'm made of oak,
 so it doesn't hurt me at all.
 
 276
@@ -1224,7 +1224,7 @@ You lazy bums!!
 
 285
 00:20:20,509 --> 00:20:23,632
-I'm the one who took everyone away. 
+I'm the one who took everyone away.
 Beat only m—
 
 286
@@ -1246,7 +1246,7 @@ Ow!
 
 290
 00:20:30,660 --> 00:20:33,360
-- Take that! 
+- Take that!
 - Ow!
 
 291
@@ -1259,7 +1259,7 @@ Ow!
 
 293
 00:20:38,559 --> 00:20:40,880
-Starting tomorrow, you better do whatever 
+Starting tomorrow, you better do whatever
 dirty work it takes to bring in cash!
 
 294
@@ -1268,7 +1268,7 @@ Steal, pick pockets, do whatever it takes!
 
 295
 00:20:58,114 --> 00:21:02,505
-You damn fool! How many days has it 
+You damn fool! How many days has it
 been since you brought in any money?!
 
 296
@@ -1285,12 +1285,12 @@ Yeah, time to make our move.
 
 299
 00:21:26,747 --> 00:21:31,471
-I've whipped you over ten times today, 
+I've whipped you over ten times today,
 yet you didn't earn a thing!
 
 300
 00:21:31,495 --> 00:21:35,112
-If you want good food and booze, 
+If you want good food and booze,
 you should work for it yourself!
 
 301
@@ -1299,7 +1299,7 @@ What did you say?! Say that again!
 
 302
 00:21:38,229 --> 00:21:41,521
-If you're starving because you 
+If you're starving because you
 won't work, it's your own fault!
 
 303
@@ -1344,12 +1344,12 @@ Mokku.
 
 313
 00:22:21,919 --> 00:22:26,760
-Grandpa, those puppets were only 
+Grandpa, those puppets were only
 moving because of magic, weren't they?
 
 314
 00:22:27,360 --> 00:22:33,920
-When I made you, I poured all my 
+When I made you, I poured all my
 love into it. Magic alone isn't enough.
 
 315
@@ -1383,7 +1383,7 @@ Didn't you just say you were going to work?
 
 322
 00:23:02,448 --> 00:23:05,600
-But my legs are completely worn out, 
+But my legs are completely worn out,
 I really can't move!
 
 323
@@ -1404,7 +1404,7 @@ Kind sirs to my left and right...
 
 327
 00:23:16,664 --> 00:23:21,080
-Please spare some charity, 
+Please spare some charity,
 have pity on a poor...
 
 328
@@ -1414,12 +1414,12 @@ of his lungs for the whole town to hear.</i>
 
 329
 00:23:36,849 --> 00:23:39,264
-<i>Mokku frightens everyone 
+<i>Mokku frightens everyone
 with endless lies...</i>
 
 330
 00:23:39,288 --> 00:23:42,440
-<i>...claiming there is a monster in the 
+<i>...claiming there is a monster in the
 forest or that a house is on fire.</i>
 
 331
@@ -1434,11 +1434,11 @@ Mokku promises to be a good boy...</i>
 
 333
 00:23:53,875 --> 00:23:57,120
-<i>...but will he be able to keep 
+<i>...but will he be able to keep
 that promise to the very end?</i>
 
 334
 00:23:57,646 --> 00:24:00,126
-<i>Look forward to next week's 
-Kashi no Ki Mokku!</i>
+<i>Look forward to next week's
+Kashi no Ki Mokku.</i>
 

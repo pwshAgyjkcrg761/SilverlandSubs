@@ -69,6 +69,11 @@ NORMAL TEXT
 ======================================================================
 
 
+Look forward to next week's
+Kashi no Ki Mokku.
+<i>Look forward to next week's
+Kashi no Ki Mokku.</i>
+
 Character names
 
 Mokku - Mokku
@@ -260,7 +265,7 @@ Episode 10
 Still working on this one.
 XChecked Translation
 Split lines & cards
-Fix the song.
+XFix the song. There are some background lines i should add for the ASS file.
 
 episode should be called:
 
@@ -269,3 +274,10 @@ when my nose starts to grows
 Song at 00:04:38,134
 
 00:21:43,880 sounds like motto motto but that couldnt be it. anyway going with "Wait a minute!" because there isnt much else it could be.
+
+
+
+------------
+Episode 11
+------------
+

@@ -916,7 +916,7 @@ Mokku, wake up.
 
 212
 00:20:46,806 --> 00:20:48,007
-Open your mind's eye as well. 
+Open your mind's eye as well.
 
 213
 00:20:48,931 --> 00:20:51,540
@@ -962,7 +962,7 @@ You're awfully full of energy. Huh?
 
 223
 00:23:13,579 --> 00:23:16,900
-Grandpa, I'll be a good boy from now on. 
+Grandpa, I'll be a good boy from now on.
 I'll go to school, too.
 
 224
@@ -1017,5 +1017,5 @@ good heart and save Grandfather?</i>
 235
 00:23:57,654 --> 00:24:00,400
 <i>Look forward to next week's
-Kashi no Ki Mokku!</i>
+Kashi no Ki Mokku.</i>
 
