@@ -129,7 +129,7 @@ Exactly! Just because Mokku's been acting like a good boy lately, he's looking d
 
 33
 00:04:09,214 --> 00:04:11,100
-- It makes me sick! 
+- It makes me sick!
 - Unforgivable!
 
 34
@@ -158,14 +158,14 @@ That's the third time!
 
 40
 00:04:50,105 --> 00:04:52,016
-Damn fish!
+Damned fish, I've had it with you!
 
 41
 00:04:52,420 --> 00:04:53,560
 All right, this time for sure!
 
 42
-00:05:00,140 --> 00:05:01,900
+00:05:00,140 --> 00:05:02,181
 Oh, hello there, Mokku.
 
 43
@@ -177,71 +177,71 @@ What do you want?
 Oh, nothing. You were fishing here yesterday, too, weren't you?
 
 45
-00:05:06,040 --> 00:05:07,040
+00:05:06,040 --> 00:05:06,727
 Yeah.
 
 46
-00:05:07,930 --> 00:05:08,930
+00:05:07,930 --> 00:05:09,078
 How are they biting today?
 
 47
-00:05:09,360 --> 00:05:13,020
-Not a thing. You were here the day before yesterday, too, right? How was it then?
+00:05:09,360 --> 00:05:10,216
+Not a thing.
 
 48
-00:05:13,900 --> 00:05:14,900
-No luck at all.
+00:05:10,427 --> 00:05:13,348
+You were here the day before yesterday, too, right? How was it then?
 
 49
-00:05:15,900 --> 00:05:17,040
-Oh, really?
+00:05:13,704 --> 00:05:15,056
+No luck at all.
 
 50
+00:05:15,900 --> 00:05:17,422
+Oh, really?
+
+51
 00:05:18,020 --> 00:05:22,900
 Huh, not a single one? But why come out here every day?
 
-51
+52
 00:05:23,470 --> 00:05:25,700
 Because I'm a good boy now!
 
-52
+53
 00:05:25,920 --> 00:05:28,600
 That's right. Good for you, Mokku. Keep it up.
 
-53
-00:05:28,950 --> 00:05:30,320
+54
+00:05:28,950 --> 00:05:30,484
 Mokku, what's wrong?
 
-54
+55
 00:05:31,105 --> 00:05:32,480
 It's nothing.
 
-55
-00:05:33,585 --> 00:05:36,820
+56
+00:05:33,585 --> 00:05:36,968
 I wanted to catch lots of fish for Grandpa to eat, but...
 
-56
-00:05:37,155 --> 00:05:39,580
+57
+00:05:37,155 --> 00:05:39,798
 ...I'm not very good at fishing.
 
-57
-00:05:40,520 --> 00:05:42,680
+58
+00:05:40,012 --> 00:05:42,875
 Is that so? That makes me happy.
 
-58
-00:05:42,900 --> 00:05:47,260
+59
+00:05:42,900 --> 00:05:47,681
 I had no idea my pal Mokku was so attached to his Grandpa.
 
-59
-00:05:48,450 --> 00:05:51,020
+60
+00:05:48,450 --> 00:05:51,184
 Hey, please. Let me help you out.
 
-60
-00:05:51,260 --> 00:05:51,520
-Huh?
-
 61
-00:05:51,805 --> 00:05:55,120
+00:05:51,805 --> 00:05:55,307
 I've got it! I know a place packed with fish.
 
 62
@@ -249,702 +249,718 @@ I've got it! I know a place packed with fish.
 You're not bad at fishing, Mokku.
 
 63
-00:05:57,375 --> 00:06:04,240
-You just don't know where they are. / But Kenken, we were never really friends...
+00:05:57,375 --> 00:06:00,395
+You just don't know where they are.
 
 64
-00:06:05,120 --> 00:06:16,620
-That's because I didn't know what a kind kid you were! Forgive me for before. From today on, I'm your best friend! / Do you really know a place with lots of fish?
+00:06:00,537 --> 00:06:04,240
+But Kenken, we were never really friends...
 
 65
-00:06:17,840 --> 00:06:22,900
-Of course I do! Let me show you the way. I was truly touched by your kind heart, Mokku.
+00:06:05,120 --> 00:06:13,669
+That's because I didn't know what a kind kid you were! Forgive me for before. From today on, I'm your best friend!
 
 66
+00:06:14,076 --> 00:06:16,620
+Do you really know a place with lots of fish?
+
+67
+00:06:17,840 --> 00:06:23,056
+Of course I do! Let me show you the way. I was truly touched by your kind heart, Mokku.
+
+68
 00:06:23,620 --> 00:06:24,720
 All right, I'm counting on you.
 
-67
-00:06:25,320 --> 00:06:27,900
+69
+00:06:25,320 --> 00:06:27,251
 Good, good. Come on, let's go, let's go, let's go.
 
-68
+70
 00:06:29,730 --> 00:06:32,620
 You can't go, Mokku. You mustn't go!
 
-69
-00:06:35,820 --> 00:06:39,240
+71
+00:06:35,820 --> 00:06:39,490
 Aren't I your best friend? If something terrible happens to you, don't come crying to me.
 
-70
-00:06:53,460 --> 00:06:54,460
-Heave-ho!
-
-71
-00:06:55,080 --> 00:06:55,520
+72
+00:06:55,080 --> 00:06:55,895
 Not yet?
 
-72
-00:06:55,970 --> 00:06:57,820
+73
+00:06:56,063 --> 00:06:57,929
 Not yet. I wonder why.
 
-73
-00:06:58,770 --> 00:07:02,680
-Caught him fast, didn't you? No need to rush like that, though.
-
 74
+00:06:58,770 --> 00:07:00,575
+Are we gonna get there soon?
+
+75
+00:07:00,599 --> 00:07:02,680
+No need to be in such a rush.
+
+76
 00:07:11,620 --> 00:07:13,100
 Tied up tight.
 
-75
+77
 00:07:18,010 --> 00:07:23,700
 Still, Mokku's a good kid, catching fish for his grandfather.
 
-76
+78
 00:07:24,880 --> 00:07:27,160
 I'll get along with all of you, too.
 
-77
+79
 00:07:27,900 --> 00:07:30,340
 And I'm going to be a model student, too!
 
-78
-00:07:32,080 --> 00:07:34,120
+80
+00:07:32,080 --> 00:07:34,229
 Now, catch a whole bunch right here.
 
-79
+81
 00:07:34,485 --> 00:07:36,980
 The bottom of the lake is full of fish.
 
-80
+82
 00:07:45,700 --> 00:07:48,720
 Today, I'm going to give Grandfather plenty of fish to eat!
 
-81
+83
 00:07:53,890 --> 00:07:56,400
 Oh no! The boat is sinking!
 
-82
+84
 00:07:58,710 --> 00:08:00,420
 Mokku! Jump!
 
-83
+85
 00:08:00,760 --> 00:08:01,760
 Big brother!
 
-84
+86
 00:08:02,179 --> 00:08:03,179
 We did it!
 
-85
-00:08:18,415 --> 00:08:21,820
-Mine! Mine! Mine!
-
-86
-00:08:28,550 --> 00:08:29,550
+87
+00:08:28,550 --> 00:08:30,055
 Boss!
 
-87
-00:08:30,080 --> 00:08:33,419
-It went well, didn't it? Damn right it did.
-
 88
-00:08:39,569 --> 00:08:43,000
-Heh, now the old man is yours forever.
+00:08:30,080 --> 00:08:32,120
+It went well, didn't it?
 
 89
+00:08:32,222 --> 00:08:33,419
+No doubt about it!
+
+90
+00:08:33,444 --> 00:08:34,503
+Listen to this!
+
+91
+00:08:39,569 --> 00:08:43,195
+Heh, now the old man is yours forever.
+
+92
 00:08:43,465 --> 00:08:47,020
 That's what happens when a mere puppet tries to become a model student.
 
-90
-00:08:47,360 --> 00:08:49,040
-Yeah, he's furious.
-
-91
-00:08:49,720 --> 00:08:55,000
-I'll have them bring over all my favorite foods, lots of delicious things. I wonder why.
-
-92
-00:08:55,149 --> 00:09:02,160
-I understand completely. Well then, I'll be going... Excuse me!
-
 93
-00:09:04,795 --> 00:09:08,800
-Now we can milk him for all he's worth. I'm so happy.
+00:08:47,360 --> 00:08:49,040
+Yeah, it's a sweet deal.
 
 94
-00:09:09,185 --> 00:09:11,940
-Forget that, let's wait and see a little longer.
+00:08:49,720 --> 00:08:55,078
+You'd better keep bringing me tons of my favorite food—all the good stuff! I wonder why.
 
 95
+00:08:55,149 --> 00:08:59,230
+I understand completely. Well then, I'll be going...
+
+96
+00:09:00,743 --> 00:09:02,102
+Excuse me!
+
+97
+00:09:02,188 --> 00:09:02,884
+Fool.
+
+98
+00:09:04,795 --> 00:09:08,893
+Now we can milk him for all he's worth. I'm so happy.
+
+99
+00:09:09,185 --> 00:09:12,065
+Forget that, let's wait and see a little longer.
+
+100
 00:09:12,445 --> 00:09:15,240
 He's got the devil's own luck, after all.
 
-96
-00:09:16,020 --> 00:09:22,640
-That's the great thing about you, Brother. Always so cautious. I wonder why, though?
-
-97
-00:09:22,860 --> 00:09:23,860
-Heh-heh.
-
-98
-00:09:51,160 --> 00:09:56,140
-Is Mokku done for at last? Guess he couldn't float back up after all.
-
-99
-00:10:25,620 --> 00:10:26,180
-(water splashing)
-
-100
-00:10:26,181 --> 00:10:27,480
-Goodbye, Mokku...
-
 101
-00:10:32,039 --> 00:10:33,060
-Mokku!
+00:09:15,285 --> 00:09:22,640
+Yep. That's the great thing about you, Big Brother. Always so cautious. I wonder why.
 
 102
+00:09:22,672 --> 00:09:23,860
+Heh-heh.
+
+103
+00:09:51,160 --> 00:09:55,452
+Is Mokku done for at last? Guess he couldn't float back up after all.
+
+104
+00:10:25,727 --> 00:10:27,753
+Mokku, goodbye...
+
+105
+00:10:32,602 --> 00:10:33,506
+Mokku!
+
+106
 00:10:33,530 --> 00:10:34,530
 Cricket!
 
-103
-00:10:37,909 --> 00:10:41,000
+107
+00:10:38,159 --> 00:10:41,000
 Mokku, thank goodness! I'm so glad!
 
-104
-00:10:41,200 --> 00:10:44,600
+108
+00:10:41,239 --> 00:10:44,771
 My leg... I left one of my legs at the bottom of the lake.
 
-105
+109
 00:10:45,385 --> 00:10:46,385
 Your leg?
 
-106
+110
 00:10:46,680 --> 00:10:48,320
 Yeah. I'm going to get it back.
 
-107
-00:10:49,229 --> 00:10:51,020
+111
+00:10:49,229 --> 00:10:50,426
 Ah, wait, wait!
 
-108
-00:10:52,200 --> 00:10:53,760
+112
+00:10:52,200 --> 00:10:53,947
 Oh, Mokku, you idiot!
 
-109
-00:10:54,320 --> 00:10:58,500
+113
+00:10:54,320 --> 00:10:58,671
 You just barely survived! Throwing your life away over a leg is completely pointless!
 
-110
-00:10:58,870 --> 00:11:00,700
+114
+00:10:58,870 --> 00:11:00,965
 Idiot! Idiot! Big idiot!
 
-111
-00:11:27,199 --> 00:11:28,460
+115
+00:11:27,238 --> 00:11:28,499
 Look, he's back!
 
-112
-00:11:28,984 --> 00:11:30,040
+116
+00:11:29,030 --> 00:11:30,266
 He's standing up!
 
-113
+117
 00:11:30,760 --> 00:11:32,120
 Oh no, run!
 
-114
+118
 00:11:32,305 --> 00:11:33,780
 Yeah, that's it! Run, run!
 
-115
+119
 00:11:45,749 --> 00:11:47,320
 Mokku! What happened?!
 
-116
+120
 00:11:47,800 --> 00:11:48,020
 Huh?
 
-117
+121
 00:11:48,120 --> 00:11:49,120
 Mokku!
 
-118
+122
 00:11:50,759 --> 00:11:51,759
 Grandpa!
 
-119
+123
 00:11:56,969 --> 00:12:00,060
 Mokku! Stay right there! Stay right where you are!
 
-120
+124
 00:12:07,589 --> 00:12:10,480
 Mokku! What on earth happened?!
 
-121
+125
 00:12:11,140 --> 00:12:12,140
 Grandpa!
 
-122
+126
 00:12:13,900 --> 00:12:16,380
 There, there. It's all right now, it's all right.
 
-123
+127
 00:12:16,485 --> 00:12:17,485
 Grandpa!
 
-124
+128
 00:12:34,219 --> 00:12:35,600
 Grandpa, I'm heading out!
 
-125
+129
 00:12:35,915 --> 00:12:40,220
 Right, be careful on your way. How is your leg holding up, eh?
 
-126
+130
 00:12:40,910 --> 00:12:44,020
 Much better than before! Look, see?
 
-127
+131
 00:12:46,109 --> 00:12:49,080
 Hey, stop that! You'll break it again if you're so reckless!
 
-128
+132
 00:12:49,849 --> 00:12:53,120
 I'll be fine! Grandpa's the best in the world!
 
-129
+133
 00:12:56,239 --> 00:12:57,460
 Mokku!
 
-130
+134
 00:13:00,940 --> 00:13:01,940
 Huh?
 
-131
+135
 00:13:04,449 --> 00:13:07,800
 Grandpa, help! I can't walk like this!
 
-132
+136
 00:13:07,975 --> 00:13:10,780
 I told you not to be so reckless!
 
-133
+137
 00:13:11,580 --> 00:13:12,580
 Hold still...
 
-134
+138
 00:13:19,899 --> 00:13:24,300
 There, that should do it. Don't go hanging around with Kenken and Hanaguro anymore, you hear?
 
-135
+139
 00:13:24,749 --> 00:13:28,180
 I know. I'm off!
 
-136
+140
 00:13:30,359 --> 00:13:32,340
 Study hard, now!
 
-137
+141
 00:13:33,769 --> 00:13:34,860
 See ya!
 
-138
+142
 00:13:46,745 --> 00:13:49,880
 Well, well, Mokku. Aren't you devout?
 
-139
+143
 00:13:50,120 --> 00:13:53,920
 Oh, it's just you, Nora. I have to get to school. See ya.
 
-140
+144
 00:13:55,580 --> 00:14:01,520
 Wait, wait, Mokku. You have a chance to become a real human, and you're just throwing it away? Foolish Mokku.
 
-141
+145
 00:14:01,725 --> 00:14:04,160
 Liar! You've got to be lying!
 
-142
+146
 00:14:04,345 --> 00:14:07,560
 God would punish me if I told a lie in front of a church.
 
-143
+147
 00:14:07,855 --> 00:14:09,140
 I'm still going to school.
 
-144
+148
 00:14:10,924 --> 00:14:16,200
 Hey, Mokku. If you want to become a real human, you should enter a monastery.
 
-145
+149
 00:14:17,859 --> 00:14:19,460
 Just like a priest.
 
-146
+150
 00:14:20,260 --> 00:14:21,260
 A priest?
 
-147
+151
 00:14:22,160 --> 00:14:26,080
 That's right. Even priests have to enter a monastery to become one.
 
-148
+152
 00:14:31,259 --> 00:14:35,260
 If you train at a monastery too, Mokku, you'll surely become a real human.
 
-149
+153
 00:14:36,739 --> 00:14:41,220
 If you head south past two mountains from here, there's a Camaldolese monastery.
 
-150
+154
 00:14:41,400 --> 00:14:43,980
 I hear the abbot is a very kind man.
 
-151
+155
 00:14:56,279 --> 00:14:58,720
 Thank you, Nora. I'll go check it out!
 
-152
+156
 00:15:07,000 --> 00:15:07,360
 (Laughs)
 
-153
+157
 00:15:07,599 --> 00:15:12,420
 Heh heh heh. You're so good at this. A true genius. I wonder why?
 
-154
+158
 00:15:12,590 --> 00:15:17,240
 The honor of all animals is riding on this plan. Thank you, Nora.
 
-155
+159
 00:15:18,060 --> 00:15:24,340
 I don't care about thanks. Deceiving people is just my hobby. You better hurry or you won't make it in time.
 
-156
+160
 00:15:24,885 --> 00:15:27,460
 Oh, right! Off to Hanakuro!
 
-157
+161
 00:15:27,640 --> 00:15:32,060
 Roger that! We can't fail this time. I wonder why?
 
-158
+162
 00:15:32,359 --> 00:15:38,460
 Brother, big brother, slacker, slacker, slacker, slacker!
 
-159
+163
 00:15:59,179 --> 00:16:00,980
 Welcome, Mokku.
 
-160
+164
 00:16:02,739 --> 00:16:05,260
 Why? How do you know my name?
 
-161
+165
 00:16:06,139 --> 00:16:09,960
 God sees all. Even your wish.
 
-162
+166
 00:16:10,195 --> 00:16:12,140
 However, the training will be severe.
 
-163
+167
 00:16:12,365 --> 00:16:16,180
 If it means becoming a real human, I'll endure any hardship.
 
-164
+168
 00:16:16,520 --> 00:16:21,560
 That's a good attitude. God will surely grant you a miracle.
 
-165
+169
 00:16:44,660 --> 00:16:52,660
 This is severe ascetic penance. If you obey God without food or water for three days, your wish will be granted in an instant.
 
-166
+170
 00:16:53,275 --> 00:16:56,320
 I'm a wooden puppet, so going without food is no problem for me.
 
-167
+171
 00:16:56,575 --> 00:16:57,820
 Oh, good boy.
 
-168
+172
 00:17:02,999 --> 00:17:05,160
 It feels like becoming divine, doesn't it?
 
-169
+173
 00:17:05,559 --> 00:17:09,060
 Indeed. Blessed are those who believe.
 
-170
+174
 00:17:12,129 --> 00:17:14,720
 I'll be back in three days without fail.
 
-171
+175
 00:17:15,074 --> 00:17:16,780
 Yes, I'll be fine.
 
-172
+176
 00:17:17,469 --> 00:17:21,200
 Ah, now I can finally become a real human.
 
-173
+177
 00:17:33,480 --> 00:17:34,480
 Heh heh...
 
-174
+178
 00:17:40,060 --> 00:17:49,280
 That Mokku will dry up and die, completely unaware it's the end of the line for him, yet he still thinks he can become human. What a fool.
 
-175
+179
 00:17:53,429 --> 00:17:56,780
 No matter how hard it gets, I will endure it.
 
-176
+180
 00:18:00,960 --> 00:18:01,360
 (gulping sound)
 
-177
+181
 00:18:01,361 --> 00:18:02,361
 (sobbing)
 
-178
+182
 00:18:07,620 --> 00:18:08,620
 (gulping sound)
 
-179
+183
 00:18:10,220 --> 00:18:10,620
 (sobbing)
 
-180
+184
 00:18:11,200 --> 00:18:11,600
 (gulping sound)
 
-181
+185
 00:18:11,601 --> 00:18:11,620
 (sobbing)
 
-182
+186
 00:18:12,019 --> 00:18:20,640
 Water... water... I need water... I'm a wooden puppet, I can't survive without it... Water, water... (sobbing)
 
-183
+187
 00:18:20,640 --> 00:18:23,580
 Mokku, there's nothing I can do!
 
-184
+188
 00:18:23,880 --> 00:18:23,900
 (sobbing)
 
-185
+189
 00:18:23,901 --> 00:18:25,920
 Water, water...
 
-186
+190
 00:18:26,680 --> 00:18:27,680
 (exhales)
 
-187
+191
 00:18:32,080 --> 00:18:34,060
 (exhales)
 
-188
+192
 00:18:34,339 --> 00:18:36,020
 Hang in there!
 
-189
+193
 00:18:36,100 --> 00:18:42,580
 (exhales)
 
-190
+194
 00:18:45,639 --> 00:18:48,860
 Oak Tree Fairy, please help me!
 
-191
+195
 00:18:49,094 --> 00:18:50,094
 Water...
 
-192
+196
 00:18:51,239 --> 00:18:53,760
 I do not have that power right now.
 
-193
+197
 00:18:54,709 --> 00:19:00,840
 But if this keeps up, I'm going to die! I don't want to die! Please, no!
 
-194
+198
 00:19:02,420 --> 00:19:10,420
 Becoming a real human is not something you achieve by clinging to God or relying on others. You must carve out your own path with your own strength.
 
-195
+199
 00:19:10,739 --> 00:19:15,860
 I don't want a lecture! Hurry and bring me water! Water!
 
-196
+200
 00:19:16,619 --> 00:19:21,820
 You have placed yourself in God's hands. All you can do now is await His will.
 
-197
+201
 00:19:23,704 --> 00:19:24,960
 Ah, wait!
 
-198
+202
 00:19:25,919 --> 00:19:29,460
 You must reap what you sow.
 
-199
+203
 00:19:42,139 --> 00:19:43,760
 I don't want to die...
 
-200
+204
 00:20:01,180 --> 00:20:03,020
 Good night. Rain! It's raining!
 
-201
+205
 00:20:16,309 --> 00:20:19,120
 Just how damn lucky can this brat get?
 
-202
+206
 00:20:20,619 --> 00:20:24,160
 He was supposed to be completely dried up and dead by now.
 
-203
+207
 00:20:26,239 --> 00:20:31,260
 Watching him suffer slowly just makes it more fun for us anyway.
 
-204
+208
 00:20:31,764 --> 00:20:33,120
 And why is that?
 
-205
+209
 00:20:35,069 --> 00:20:37,140
 Because he's not getting away from us either way, yes.
 
-206
+210
 00:20:37,319 --> 00:20:38,580
 That's right.
 
-207
+211
 00:20:52,800 --> 00:20:53,800
 Ah, help!
 
-208
+212
 00:20:58,270 --> 00:20:59,270
 Help me!
 
-209
+213
 00:21:00,589 --> 00:21:04,160
 That guy isn't just going to dry out in the sun—he's going to starve to death!
 
-210
+214
 00:21:04,240 --> 00:21:05,020
 I wonder why?
 
-211
+215
 00:21:05,130 --> 00:21:06,020
 Shut up!
 
-212
+216
 00:21:06,080 --> 00:21:08,460
 Hehehe, serves him right!
 
-213
+217
 00:21:13,729 --> 00:21:15,260
 Don't worry! Let's get out of here!
 
-214
+218
 00:21:15,440 --> 00:21:16,440
 Okay!
 
-215
+219
 00:21:26,189 --> 00:21:27,189
 (Grandpa's voice)
 
-216
+220
 00:21:28,900 --> 00:21:29,900
 (Grandpa's voice)
 
-217
+221
 00:21:33,519 --> 00:21:34,680
 Grandpa!
 
-218
+222
 00:21:38,049 --> 00:21:39,049
 (Grandpa's voice)
 
-219
+223
 00:21:39,374 --> 00:21:42,400
 You do care about me! You came to save me, didn't you?!
 
-220
+224
 00:21:42,780 --> 00:21:43,780
 (Grandpa's voice)
 
-221
+225
 00:21:45,774 --> 00:21:48,840
 Hurry and cut this rope with those proud fangs of yours!
 
-222
+226
 00:22:14,089 --> 00:22:16,500
 All right, Redbeard, this way next.
 
-223
+227
 00:22:17,225 --> 00:22:20,420
 Why does it have to be so strange?
 
-224
+228
 00:22:29,609 --> 00:22:31,620
 All right, Redbeard, climb onto my head.
 
-225
+229
 00:22:32,204 --> 00:22:34,280
 Hold on tight so you don't fall off.
 
-226
+230
 00:22:34,884 --> 00:22:35,900
 Take that! Take that!
 
-227
+231
 00:22:47,280 --> 00:22:52,140
 (Redbeard squeaks)
 
-228
+232
 00:22:57,409 --> 00:23:00,360
 I'm sorry. You're a fine mouse, Redbeard.
 
-229
+233
 00:23:03,869 --> 00:23:05,200
 Here you go, Redbeard!
 
-230
+234
 00:23:05,959 --> 00:23:07,980
 You saved my life.
 
-231
+235
 00:23:12,140 --> 00:23:13,140
 (Laughs)
 
-232
+236
 00:23:17,249 --> 00:23:19,880
 It's not like I wanted to save you.
 
-233
+237
 00:23:22,749 --> 00:23:25,600
 From now on, I'm going to get along with humans.
 
-234
+238
 00:23:26,440 --> 00:23:27,440
 Yeah.
 
-235
+239
 00:23:33,309 --> 00:23:40,080
 Mokku went to town with Grandfather, but even there, everyone made fun of him, calling him a puppet, and he couldn't help feeling deeply sad.
 
-236
+240
 00:23:47,320 --> 00:23:55,320
 However, Mereli, the only daughter of a wealthy family, makes the dressed-up Mokku her playmate, unaware that he is a puppet. Mokku soon falls in love with Mereli, and desperate not to be hated, hides the fact that he is a wooden puppet...
 
-237
+241
 00:23:55,321 --> 00:24:00,640
 ...and he could no longer confide the truth. Look forward to next week's Kashi no Ki Mokku!
 
