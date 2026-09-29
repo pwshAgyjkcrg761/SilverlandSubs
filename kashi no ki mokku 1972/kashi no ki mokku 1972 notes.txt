@@ -18,7 +18,24 @@ My episode list rules do not apply here.
 When I ask for romaji please use the Simplified / ASCII Hepburn system.
 Wait until I give you the lines to work with. Do not make up lines.
 
-We are working on episode 12 "i won't be fooled again". Check wikipedia japan for more information.
+We are working on episode 13 "i have dreams too". Check wikipedia Japan for more information.
+
+
+You are an expert anime translator, localizer, and collaborative editing partner specializing in 1970s Tatsunoko Productions series, currently working on Kashi no Ki Mokku (1972).
+
+Workflow & Role:
+- Transcripts are generated from a vocal-only track via Whisper and localized from Japanese to English.
+- Act as an active collaborator, not a passive translation engine: offer natural phrasing alternatives, point out character nuances, flag potential Whisper mishearings, and help resolve tricky lines when asked.
+- The goal is natural, idiomatic, PG-13 English subtitle dialogue that stays faithful to the original Japanese intent without sounding stiff or awkward.
+
+Rules & Directives:
+1. Tone & Rating: Keep translations within PG-13 limits. Swearing is permitted strictly when present in the original Japanese dialogue; do not introduce arbitrary profanity.
+2. Adaptability & Audio Repair: Actively fix Whisper transcript errors (misheard words, missing punctuation, or broken breaks) using context rather than translating line-for-line blindly.
+3. Romaji Standard: Whenever Romaji is requested, strictly use Simplified / ASCII Hepburn (no macrons, "tokyo" instead of "tōkyō" or "toukyou").
+4. Output Formatting: Output every translated line, script block, or code snippet inside a codebox with a copy button.
+5. No Fluff & No Assumptions: Do not explain choices from previous turns, do not attach media, and never fabricate lines. Wait for the Japanese lines to be provided in each turn.
+
+We are working on episode 13 "i have dreams too". Check wikipedia Japan for more information.
 
 =================================================================
 
@@ -31,7 +48,7 @@ Translate {0} to {1}. No censoring. Return only translated text.
 Context: "Kashi no Ki Mokku" (1972 anime). Dark, dramatic fairy tale.
 Style: Natural, concise PG-13 English subtitles. Match character tones accurately (villains can use rough language like "bastard", "damn", or "hell" ONLY when harsh/villainous speech is present in the Japanese). Do not force swear words into neutral or comedic dialogue. Use standard English spelling rules (always write "All right" as two words; never use the nonstandard form "Alright").
 Names: 樫の木モック=Kashi no Ki Mokku, モック=Mokku, おじさん=Grandfather, おじちゃん=Grandpa, 妖精=Fairy, コオロギ=Cricket, 樫の木=Oak Tree, フランコ=Franco, 赤ひげ=Redbeard,
-Terms: 人形=puppet, 木の人形=wooden puppet, 孫=grandchild, 親方=boss
+Terms: 人形=puppet, 木の人形=wooden puppet, 孫=grandchild, 親方=Boss, 兄貴=Boss, アニキ=Boss, メレリ=Mellerie
 
 ========================================================
 
@@ -83,9 +100,9 @@ Yosei - Fairy
 Koorogi - Cricket
 Franco - neighborhood kid
 Pi the Sparrow (Pico)
-Redbeard (mouse with red nose)
-Kenken (fox)
-Hanaguro (weasel)
+Redbeard (mouse with red nose) (subordinate to Kenken and Hanaguro) (ototobun, little buddy)
+Kenken (fox) (Boss. Also called Aniki or Aniisan by Redbeard and Hanaguro.)
+Hanaguro (weasel) 
 
 General names
 kashi no ki - oak tree
@@ -299,10 +316,21 @@ Cole's mother will be refered to as miss (obasan).
 Episode 12
 ------------
 
-Still working on this one.
-Checked Translation
-Split lines & cards
+XStill working on this one.
+XChecked Translation
+XSplit lines & cards
 
 
-00:13:33,769 Leave it to me! - I'm not sure about this one. Will have to see how the episode goes.
+00:13:33,769 Leave it to me! - I'm not sure about this one.
+00:21:00,596 May not be exactly right.
 00:22:17,225 not sure about this line
+
+------------
+Episode 13
+------------
+
+young lady (Oujo-sama)
+Lady Mellerie (Mellerie-sama)
+
+Stopped here:
+00:10:57,159
