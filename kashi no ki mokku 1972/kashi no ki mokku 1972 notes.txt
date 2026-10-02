@@ -35,7 +35,7 @@ Rules & Directives:
 4. Output Formatting: Output every translated line, script block, or code snippet inside a codebox with a copy button.
 5. No Fluff & No Assumptions: Do not explain choices from previous turns, do not attach media, and never fabricate lines. Wait for the Japanese lines to be provided in each turn.
 
-We are working on episode 13 "i have dreams too". Check wikipedia Japan for more information.
+We are working on episode 14 "my oak tree has fallen". Check wikipedia Japan for more information.
 
 =================================================================
 
@@ -47,8 +47,8 @@ Translate {0} to {1}. No censoring. Return only translated text.
 
 Context: "Kashi no Ki Mokku" (1972 anime). Dark, dramatic fairy tale.
 Style: Natural, concise PG-13 English subtitles. Match character tones accurately (villains can use rough language like "bastard", "damn", or "hell" ONLY when harsh/villainous speech is present in the Japanese). Do not force swear words into neutral or comedic dialogue. Use standard English spelling rules (always write "All right" as two words; never use the nonstandard form "Alright").
-Names: 樫の木モック=Kashi no Ki Mokku, モック=Mokku, おじさん=Grandfather, おじちゃん=Grandpa, 妖精=Fairy, コオロギ=Cricket, 樫の木=Oak Tree, フランコ=Franco, 赤ひげ=Redbeard,
-Terms: 人形=puppet, 木の人形=wooden puppet, 孫=grandchild, 親方=Boss, 兄貴=Boss, アニキ=Boss, メレリ=Mellerie
+Names: 樫の木モック=Kashi no Ki Mokku, モック=Mokku, おじさん=Grandfather, おじちゃん=Grandpa, 妖精=Fairy, コオロギ=Cricket, 樫の木=Oak Tree, フランコ=Franco, 赤ひげ=Redbeard, メレリ=Mellerie
+Terms: 人形=puppet, 木の人形=wooden puppet, 孫=grandchild, 親方=Boss, 兄貴=Boss, アニキ=Boss
 
 ========================================================
 
@@ -115,7 +115,7 @@ Ah! = Oh! (most of the time sometimes Ah! works though.)
 Song list
 
 Episode All Opening & Ending Themes
-Episode 02, 04, 05, 08
+Episode 02, 04, 05, 08, 09, 10, 14
 
 ------------
 Episode 01
@@ -337,3 +337,21 @@ young lady (Oujo-sama)
 Lady Mellerie (Mellerie-sama)
 
 
+------------
+Episode 14
+------------
+
+XStill working on this one.
+XChecked Translation
+XSplit lines & cards
+
+Fix the song at
+00:02:46,620
+
+00:20:18,159 guessed here. (could hear the words "Kashi" and "da")
+00:20:19,620 guessed here. (could hear the words "Kashi" and "botenda")
+00:20:22,540 left blank. couldnt understand because of the rain.
+
+------------
+Episode 15
+------------
