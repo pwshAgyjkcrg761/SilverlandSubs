@@ -356,10 +356,13 @@ Fix the song at
 Episode 15
 ------------
 
+XStill working on this one.
+XChecked Translation
+XSplit lines & cards
+
 00:04:23,098 Too many people yelling together. Not sure if i got it right.
 00:04:28,059 Too many people yelling together. Not sure if i got it right.
 00:04:31,723 Too many people yelling together. Not sure if i got it right.
 00:08:23,329 not sure what this is. left it blank.
+00:16:13,829 not sure. but this works.
 
-Stopped at:
-00:12:24,930
