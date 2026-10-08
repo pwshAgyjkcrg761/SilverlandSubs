@@ -356,4 +356,7 @@ Episode 16
 ------------
 
 Stopped at:
-00:01:33,999
+00:07:13,980
+
+00:02:08,914 Not sure about this line.
+00:07:09,237 left blank. too much noise here.
